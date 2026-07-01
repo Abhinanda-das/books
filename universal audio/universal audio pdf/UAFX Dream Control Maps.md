@@ -1,0 +1,40 @@
+---
+source: /Users/abhinanda/Documents/00_Works_Air/Конвертация/Авто/UAFX Dream Control Maps.pdf
+converted_at: 2026-06-03T08:35:13Z
+tool: pymupdf4llm
+tool_version: 1.27.2.3
+word_count: 144
+---
+
+## SPEAKER MODES 
+
+
+![](<UAFX Dream Control Maps_assets/UAFX_Dream_Control_Maps.pdf-0001-01.png>)
+
+
+**----- Start of picture text -----**<br>
+VOLUME REVERB OUTPUT VOLUME REVERB OUTPUT VOLUME REVERB OUTPUT<br>SPEAKER MOD SPEAKER MOD SPEAKER MOD<br>GB25
+ ALT LEAD
+ Boutique D65
+ ALT LEAD
+ ALT LEAD<br>Unlit =<br>OXFORD
+ AMP  STOCK
+ S-Verb
+ AMP  STOCK
+ Speaker Off AMP  STOCK<br>EV12 STORE D-TEX JBF120 STORE D-TEX STORE D-TEX<br>SPEED INTENSITY SPEED INTENSITY SPEED INTENSITY<br>OFF OFF OFF<br>BASS TREBLE BOOST BASS TREBLE BOOST BASS TREBLE BOOST<br>MOD MODES<br>VOLUME REVERB OUTPUT VOLUME REVERB OUTPUT VOLUME REVERB OUTPUT<br>SPEAKER MOD SPEAKER MOD SPEAKER MOD<br>GB25
+ ALT LEAD
+ GB25
+ ALT LEAD
+ GB25
+ ALT LEAD<br>OXFORD
+ AMP  STOCK
+ OXFORD
+ AMP  STOCK
+ OXFORD
+ AMP  STOCK<br>EV12 STORE D-TEX EV12 STORE D-TEX EV12 STORE D-TEX<br>SPEED INTENSITY SPEED INTENSITY SPEED INTENSITY<br>More 
+ Clean<br>Midrange Gain<br>Bright 
+ OFF OFF<br>Cap On Lead Boost Clean Boost Less Effect As Boost Increased  SRV Midrange Boost<br>BASS TREBLE BOOST BASS TREBLE BOOST BASS TREBLE BOOST<br>NOTES<br>**----- End of picture text -----**<br>
+
+
+## Effect Control Maps 
+

@@ -1,0 +1,26 @@
+---
+source: /Users/abhinanda/Documents/00_Works_Air/Конвертация/Авто/UAFX+Woodrow+Recall+Sheet.pdf
+converted_at: 2026-06-03T08:34:59Z
+tool: pymupdf4llm
+tool_version: 1.27.2.3
+word_count: 92
+---
+
+
+![](UAFX+Woodrow+Recall+Sheet_assets/UAFX+Woodrow+Recall+Sheet.pdf-0001-00.png)
+
+
+**----- Start of picture text -----**<br>
+INST VOL MIC VOL OUTPUT INST VOL MIC VOL OUTPUT INST VOL MIC VOL OUTPUT<br>SPEAKER BOOST SPEAKER BOOST SPEAKER BOOST<br>KP-3K
+ KP-3K
+ KP-3K<br>STORE STOCK
+ STORE STOCK
+ STORE STOCK<br>EP-III EP-III EP-III<br>OFF OFF OFF<br>ROOM TONE BOOST ROOM TONE BOOST ROOM TONE BOOST<br>INST VOL MIC VOL OUTPUT INST VOL MIC VOL OUTPUT INST VOL MIC VOL OUTPUT<br>SPEAKER BOOST SPEAKER BOOST SPEAKER BOOST<br>KP-3K
+ KP-3K
+ KP-3K<br>STORE STOCK
+ STORE STOCK
+ STORE STOCK<br>EP-III EP-III EP-III<br>OFF OFF OFF<br>ROOM TONE BOOST ROOM TONE BOOST ROOM TONE BOOST<br>NOTES<br>**----- End of picture text -----**<br>
+
+
+Effect RECALL SHEET 
+
