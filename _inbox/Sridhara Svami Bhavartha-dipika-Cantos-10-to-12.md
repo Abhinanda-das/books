@@ -4,7 +4,8 @@ converted_at: 2026-08-25T13:03:42Z
 tool: marker_force_ocr
 tool_version: 1.10.2
 word_count: 92494
-автор: Śrīdhara Svāmī
+author: 'Śrīdhara Svāmī'
+language: 'бенгали'
 ---
 
 ![](<Sridhara Svami Bhavartha-dipika-Cantos-10-to-12_assets/_page_0_Figure_0.jpeg>)
