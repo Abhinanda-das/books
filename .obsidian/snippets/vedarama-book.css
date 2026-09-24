@@ -1,0 +1,16 @@
+/* Книги Vedarama в Obsidian: шрифт Noto Serif — по виду близок к PT Serif сайта
+   и правильно ставит диакритику
+   (черта, точка, тильда) прямо над/под буквой, а не сбоку.
+   Работает для заметок, у которых в шапке есть  cssclasses: vedarama-book
+   Шрифты берутся по порядку — первый установленный на Mac. */
+.vedarama-book {
+  --font-text: "Noto Serif", "Gentium Plus", "Charis SIL", serif;
+  --font-text-theme: var(--font-text);
+  font-feature-settings: "kern", "liga", "mark", "mkmk";
+}
+.vedarama-book .markdown-preview-view,
+.vedarama-book .cm-content,
+.vedarama-book.markdown-preview-view,
+.vedarama-book.markdown-source-view {
+  font-family: var(--font-text);
+}
