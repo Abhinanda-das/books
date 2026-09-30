@@ -1,0 +1,15 @@
+Книга: 1947 Correspondence
+Адрес: https://vedarama.com/en/books/letters1947
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 3
+Букв в исходнике: 10075; в .md: 10075
+Первый заголовок: 1947 Correspondence
+Последний заголовок: Letter to: Aska Distillery — Calcutta 21 October, 1947
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+1947 Correspondence
+  Letter to: Mahatma Gandhi — Cawnpore 12 July, 1947
+  Letter to: Raja Mohendra Pratap — Cawnpore 13 July, 1947
+  Letter to: Aska Distillery — Calcutta 21 October, 1947

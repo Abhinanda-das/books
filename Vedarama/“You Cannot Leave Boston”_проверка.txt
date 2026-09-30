@@ -1,0 +1,25 @@
+Книга: “You Cannot Leave Boston”
+Адрес: https://vedarama.com/en/books/you-cannot-leave-boston
+Страниц сайта: 13; заголовков: 14; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 13
+Букв в исходнике: 375360; в .md: 375360
+Первый заголовок: “You Cannot Leave Boston”
+Последний заголовок: 12: December 1969
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+“You Cannot Leave Boston”
+  Preface
+  1: January 1969
+  2: February 1969
+  3: March 1969
+  4: April 1969
+  5: May 1969
+  6: June 1969
+  7: July 1969
+  8: August 1969
+  9: September 1969
+  10: October 1969
+  11: November 1969
+  12: December 1969
