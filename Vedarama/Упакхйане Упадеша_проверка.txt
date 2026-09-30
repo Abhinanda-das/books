@@ -1,0 +1,50 @@
+Книга: Упакхйане Упадеша
+Адрес: https://vedarama.com/ru/books/bst-uu
+Страниц сайта: 31; заголовков: 32; текстов: 0; картинок: 7 + обложка
+Глав по MCP: 25
+Букв в исходнике: 55702; в .md: 55702
+Первый заголовок: Упакхйане Упадеша
+Последний заголовок: Шалаграм для колки орехов
+
+ЗАМЕЧАНИЯ:
+  - Картинка рис-001.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-002.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-003.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-004.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-005.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-006.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-007.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+
+Оглавление выгрузки:
+Упакхйане Упадеша
+  От издателей
+  Урок геометрии
+  Лопнувшая лягушка
+  «Золотой» каменный горшок
+  «Да, нет, очень хорошо»
+  Глупая пчела и мед
+  Как увидеть солнце ночью
+  Семья ради Гиты
+  Ладу и Калу
+  С воздушным змеем на крыше без ограды
+  Скальпель
+  Лягушка и пол рупии
+  Старая мудрая обезьяна
+  Ошибка слепого, держащегося за хвост коровы
+  Родовой колодец
+  Примечание
+  Милость только для искренних
+  «Я не крал бананы!»
+  Как Бхагаван из-за интриг стал привидением
+  «С-Ж», «А-О»
+  «Переправимся через реку, когда она высохнет»
+  Кузнец и гончар
+  Идиот-садовник и глупый пандит
+  Спать на голой земле, когда поломана кровать
+  Плевок в небо
+  Обрезать себе нос, чтобы испортить другому<br> путешествие.
+  Веселый ад
+  Сложение чисел для учителя
+  Золотые, серебряные и железные кандалы
+  Бедняк и всеведущий мудрец
+  Шалаграм для колки орехов

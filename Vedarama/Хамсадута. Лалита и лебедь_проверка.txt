@@ -1,0 +1,51 @@
+Книга: Хамсадута. Лалита и лебедь
+Адрес: https://vedarama.com/ru/books/rupa-khamsaduta
+Страниц сайта: 21; заголовков: 22; текстов: 0; картинок: 17 + обложка
+Глав по MCP: 16
+Букв в исходнике: 19238; в .md: 19238
+Первый заголовок: Хамсадута. Лалита и лебедь
+Последний заголовок: Часть 5
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №13 идёт «Часть 1».
+  - Картинка рис-001.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-002.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-003.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-004.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-005.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-006.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-007.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-008.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-009.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-010.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-011.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-012.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-013.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-014.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-015.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-016.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+  - Картинка рис-017.png не скачана: неверный адрес файла: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAlgCWAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzO
+
+Оглавление выгрузки:
+Хамсадута. Лалита и лебедь
+  Наши пранамы Шриле Рупе Госвами
+  Вступление
+  Часть 1
+  Часть 2
+  Часть 3
+  Часть 4
+  Часть 5
+  Часть 6
+  Часть 7
+  Часть 8
+  Часть 9
+  Часть 10
+  Часть 11
+  Часть 12
+  Часть 13
+  После любовной битвы
+  Часть 1
+  Часть 2
+  Часть 3
+  Часть 4
+  Часть 5
