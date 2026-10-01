@@ -1,0 +1,18 @@
+Книга: A Bird’s Eye View Of The Vedas
+Адрес: https://vedarama.com/en/books/abevotv
+Страниц сайта: 6; заголовков: 7; текстов: 0; картинок: 0
+Глав по MCP: 6
+Букв в исходнике: 14847; в .md: 14847
+Первый заголовок: A Bird’s Eye View Of The Vedas
+Последний заголовок: Epilogue
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+A Bird’s Eye View Of The Vedas
+  Introduction
+  Ṛgveda-Saṁhitā
+  Yajurveda-Saṁhiitā
+  Sāmaveda-Saṁhitā
+  Atharva-Veda-Saṁhitā
+  Epilogue

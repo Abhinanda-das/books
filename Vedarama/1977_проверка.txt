@@ -1,0 +1,798 @@
+Книга: 1977
+Адрес: https://vedarama.com/en/books/1977
+Страниц сайта: 783; заголовков: 784; текстов: 2; картинок: 0 + обложка
+Глав по MCP: 12
+Букв в исходнике: 5237543; в .md: 5237543
+Первый заголовок: 1977
+Последний заголовок: 771114VG.VRN
+
+ЗАМЕЧАНИЯ:
+  - У «1977» нет содержимого (только заголовок).
+  - Пропуск/сбой нумерации: после «1977» идёт «1977».
+  - У «1977» нет содержимого (только заголовок).
+
+Оглавление выгрузки:
+1977
+    1977
+  January
+  Morning Walk -- January 2, 1977, Bombay
+  770102MW.BOM
+  Room Conversation -- January 2, 1977, Bombay
+  770102R1.BOM
+  Conversation with Yogi Amrit Desai of Kripalu Ashram, Pennsylvania, USA -- January 2, 1977, Bombay
+  770102R2.BOM
+  Room Conversation II -- January 2, 1977, Bombay
+  770102R3.BOM
+  Room Conversation with C.I.D. Chief -- January 3, 1977, Bombay
+  770103R1.BOM
+  Room Conversation -- January 3, 1977, Bombay
+  770103R2.BOM
+  Morning Walk -- January 4, 1977, Bombay
+  770104MW.BOM
+  Room Conversation -- January 4, 1977, Bombay
+  770104R1.BOM
+  Room Conversation -- January 5, 1977, Bombay
+  770105R1.BOM
+  Roof Conversation -- January 5, 1977, Bombay
+  770105R2.BOM
+  Letter to Russian -- January 5, 1977, Bombay
+  770105R3.BOM
+  Conversation -- January 6, 1976, Bombay
+  770106R1.BOM
+  Room Conversation -- January 6, 1976, Bombay
+  770106R2.BOM
+  Evening Darśana -- January 7, 1977, Bombay
+  770107ED.BOM
+  Room Conversation -- January 7, 1977, Bombay
+  770107R1.BOM
+  Morning Walk -- January 8, 1977, Bombay
+  770108MW.BOM
+  Morning Discussion about Kumbha Melā -- January 8, 1977, Bombay
+  770108R1.BOM
+  Room Conversation -- January 8, 1977, Bombay
+  770108R2.BOM
+  Room Conversation II -- January 8, 1977, Bombay
+  770108R3.BOM
+  Room Conversation III -- January 8, 1977, Bombay
+  770108R4.BOM
+  Room Conversation IV -- January 8, 1977, Bombay
+  770108R5.BOM
+  Room Conversation V -- January 8, 1977, Bombay
+  770108R6.BOM
+  Arrival of BBT manager -- January 8, 1977, Bombay
+  770108R7.BOM
+  Morning Walk -- January 9, 1977, Bombay
+  770109MW.BOM
+  Morning Darśana with Ramkrishna Bajaj and friends -- January 9, 1977, Bombay
+  770109R1.BOM
+  Room Conversation -- January 9, 1977, Bombay
+  770109R2.BOM
+  Discussion on Deprogrammers -- January 9, 1977, Bombay
+  770109R3.BOM
+  Room Conversation -- January 10, 1977, Bombay
+  770110R1.BOM
+  Conversation on Train to Allahabad -- January 11, 1977, India
+  770111TT.IDA
+  Lecture at Kumbha-melā -- January 13, 1977, Allahabad
+  770113LE.ALL
+  Conversation and Instruction On New Movie -- January 13, 1977, Allahabad
+  770113R1.ALL
+  Morning Lecture at Kumbha-melā -- January 15, 1977, Allahabad
+  770115LE.ALL
+  Conversation in car -- January 15, 1977, Allahabad
+  770115R1.ALL
+  Room Conversation -- January 16, 1977, Calcutta
+  770116R1.CAL
+  Room Conversation on 1976 Book Scores -- January 16, 1977, Calcutta
+  770116R2.CAL
+  Room Conversation -- January 16, 1977, Calcutta II
+  770116R3.CAL
+  Arrival [partially recorded] -- January 19, 1977, Bhubaneswar
+  770119AR.BHU
+  Evening Lecture -- January 19, 1977, Bhubaneswar
+  770119LE.BHU
+  Room Conversation -- January 19, 1977, Bhubaneswar
+  770119R1.BHU
+  Room Conversation II -- January 19, 1977, Bhubaneswar
+  770119R2.BHU
+  Morning Walk [partially recorded] -- January 20, 1977, Bhubaneswar
+  770120MW.BHU
+  Room Conversation -- January 20, 1977, Bhubaneswar
+  770120R1.BHU
+  Room Conversation II -- January 20, 1977, Bhubaneswar
+  770120R2.BHU
+  Morning Walk -- January 21, 1977, Bhubaneswar
+  770121MW.BHU
+  Lecture -- January 21, 1977, Bhavanesvara
+  770121LE.BHU
+  Room Conversation -- January 21, 1977, Bhubaneswar
+  770121R1.BHU
+  Room Conversation II -- January 21, 1977, Bhubaneswar
+  770121R2.BHU
+  Room Conversation III -- January 21, 1977, Bhubaneswar
+  770121R3.BHU
+  Room Conversation IV -- January 21, 1977, Bhubaneswar
+  770121R4.BHU
+  Room Conversation V -- January 21, 1977, Bhubaneswar
+  770121R5.BHU
+  Room Conversation VI -- January 21, 1977, Bhubaneswar
+  770121R6.BHU
+  Bhagavad-gītā 7.1 -- January 22, 1977, Bhubaneswar
+  770122BG.BHU
+  Room Conversation with Film Producer about Kṛṣṇa Lila -- January 22, 1977, Bhubaneswar
+  770122R1.BHU
+  Room Conversation with Sannyāsīs -- January 22, 1977, Bhubaneswar
+  770122R2.BHU
+  Room Conversation -- January 22, 1977, Bhubaneswar
+  770122R3.BHU
+  Evening Lecture -- January 23, 1977, Bhubaneswar
+  770123LE.BHU
+  Evening Darśana -- January 23, 1977, Bhubaneswar
+  770123ED.BHU
+  Conversation During Massage -- January 23, 1977, Bhubaneswar
+  770123R1.BHU
+  Room Conversation -- January 23, 1977, Bhubaneswar
+  770123R2.BHU
+  Morning Walk -- January 24, 1977, Bhubaneswar
+  770124MW.BHU
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 8.128 -- January 24, 1977, Bhubaneswar
+  770124CC.BHU
+  Room Conversation -- January 24, 1977, Bhubaneswar
+  770124R1.BHU
+  Room Conversation II -- January 24, 1977, Bhubaneswar
+  770124R2.BHU
+  Morning Walk -- January 25, 1977, Jagannātha Purī
+  770125MW.PUR
+  Evening Conversation -- January 25, 1977, Jagannātha Purī
+  770125R1.PUR
+  Conversation -- January 25, 1977, Jagannātha Purī
+  770125R2.PUR
+  Conversation -- January 26, 1977, Jagannātha Purī
+  770126R1.PUR
+  Prayer Chants by Purī Brāhmaṇas -- January 26, 1977, Jagannātha Purī
+  770126R2.PUR
+  Evening Address to Paṇḍas and Scholars -- January 26, 1977, Jagannātha Purī
+  770126AD.PUR
+  Room Conversation -- January 27, 1977, Jagannātha Purī
+  770127R1.PUR
+  Room Conversation with Two Indian Guests -- January 27, 1977, Jagannātha Purī
+  770127R2.PUR
+  Room Conversation -- January 27, 1977, Bhubaneswar
+  770127R1.BHU
+  Room Conversation II -- January 27, 1977, Bhubaneswar
+  770127R2.BHU
+  Morning Walk -- January 28, 1977, Bhubaneswar
+  770128MW.BHU
+  Room Conversation -- January 28, 1977, Bhubaneswar
+  770128R1.BHU
+  Room Conversation II -- January 28, 1977, Bhubaneswar
+  770128R2.BHU
+  Morning Walk -- January 29, 1977, Bhubaneswar
+  770129MW.BHU
+  Room Conversation -- January 29, 1977, Bhubaneswar
+  770129R1.BHU
+  Room Conversation II -- January 29, 1977, Bhubaneswar
+  770129R2.BHU
+  Bhagavad-gita 7.1 -- January 29, 1977, Bhubaneswar
+  770129BG.BHU
+  Morning Walk [partially recorded] -- January 30, 1977, Bhubaneswar
+  770130MW.BHU
+  Room Conversation with Svarūpa Dāmodara -- January 30, 1977, Bhubaneswar
+  770130R1.BHU
+  Room Conversation -- January 30, 1977, Bhubaneswar
+  770130R2.BHU
+  Morning Walk -- January 31, 1977, Bhubaneswar
+  770131MW.BHU
+  Varāha-dvadaśī, Lord Varāha's Appearance Day Lecture -- January 31, 1977, Bhubaneswar
+  770131VA.BHU
+  Room Conversation -- January 31, 1977, Bhubaneswar
+  770131R1.BHU
+  Room Conversation II -- January 31, 1977, Bhubaneswar
+  770131R2.BHU
+  Room Conversation III -- January 31, 1977, Bhubaneswar
+  770131R3.BHU
+  February
+  Morning Walk -- February 1, 1977, Bhubaneswar
+  770201MW.BHU
+  Morning Walk -- February 2, 1977, Bhubaneswar
+  770202MW.BHU
+  Foundation Stone Ceremony Speech -- February 2, 1977, Bhubaneswar
+  770202CM.BHU
+  Lord Nityānanda Prabhu's Āvirbhāva Appearance Day Lecture -- February 2, 1977, Bhubaneswar
+  770202NA.BHU
+  Room Conversation -- February 2, 1977, Bhubaneswar
+  770202R1.BHU
+  Room Conversation II -- February 2, 1977, Bhubaneswar
+  770202R2.BHU
+  Room Conversation -- February 3, 1977, Bhubaneswar
+  770203R1.BHU
+  Conversation on Train -- February 4, 1977, Bhubaneswar
+  770203R2.BHU
+  Arrival Lecture -- February 4, 1977, Calcutta
+  770204AR.CAL
+  Room Conversation -- February 4, 1977, Calcutta
+  770204R1.CAL
+  Conversation [partially recorded] -- February 4, 1977, Calcutta
+  770204R2.CAL
+  Car Conversation -- February 5, 1977, Calcutta
+  770205CR.CAL
+  Śrīmad-Bhāgavatam 1.8.18-Hindi -- February 6, 1977, Calcutta
+  770206SB.CAL
+  Arrival Lecture -- February 7, 1977, Māyāpur
+  770207AR.MAY
+  Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī Prabhupāda's Appearance Day Lecture -- February 8, 1977, Māyāpur
+  770208BA.MAY
+  Morning Walk [partially recorded] -- February 10, 1977, Māyāpur
+  770210MW.MAY
+  Śrīmad-Bhāgavatam 7.9.1 -- February 10, 1977, Māyāpur
+  770210SB.MAY
+  Room Conversation -- February 11, 1977, Māyāpur
+  770211R1.MAY
+  Śrīmad-Bhāgavatam 7.9.2 -- February 12, 1977, Māyāpur
+  770212SB.MAY
+  Room Conversation -- February 12, 1977, Māyāpur
+  770212R1.MAY
+  Room Conversation -- February 14, 1977, Māyāpur
+  770214R1.MAY
+  Room Conversation Varṇāśrama System Must Be Introduced -- February 14, 1977, Māyāpur
+  770214R2.MAY
+  Conversation on Roof -- February 14, 1977, Māyāpur
+  770214RO.MAY
+  Evening Darśana -- February 15, 1977, Māyāpur
+  770215ED.MAY
+  Morning Room Conversation -- February 16, 1977, Māyāpur
+  770216R1.MAY
+  Room Conversation -- February 16, 1977, Māyāpur
+  770216R2.MAY
+  Śrīmad-Bhāgavatam 7.9.3 -- February 17, 1977, Māyāpur
+  770217SB.MAY
+  Room Conversation -- February 17, 1977, Māyāpur
+  770217R1.MAY
+  Śrīmad-Bhāgavatam 7.9.4 -- February 18, 1977, Māyāpur
+  770218SB.MAY
+  Room Conversation -- February 18, 1977, Māyāpur
+  770218R1.MAY
+  Room Conversation II -- February 18, 1977, Māyāpur
+  770218R2.MAY
+  Room Conversation about BTG -- February 18, 1977, Māyāpur
+  770218R3.MAY
+  Room Conversation III -- February 18, 1977, Māyāpur
+  770218R4.MAY
+  Evening Darśana -- February 19, 1977, Māyāpur
+  770219ED.MAY
+  Room Conversation -- February 19, 1977, Māyāpur
+  770219R1.MAY
+  Room Conversation with Ādi-keśava Swami -- February 19, 1977, Māyāpur
+  770219R2.MAY
+  Room Conversation II -- February 19, 1977, Māyāpur
+  770219R3.MAY
+  Room Conversation III -- February 19, 1977, Māyāpur
+  770219R4.MAY
+  Room Conversation -- February 21, 1977, Māyāpur
+  770221R1.MAY
+  Arrival of Devotees -- February 24, 1977, Māyāpur
+  770224R1.MAY
+  Evening Darśana -- February 24, 1977, Māyāpur
+  770224ED.MAY
+  Śrīmad-Bhāgavatam 7.9.5 -- February 25, 1977, Māyāpur
+  770225SB.MAY
+  Evening Darśana -- February 25, 1977, Māyāpur
+  770225ED.MAY
+  Room Conversation -- February 25, 1977, Māyāpur
+  770225R1.MAY
+  Room Conversation With Artists and About BTG -- February 25, 1977, Māyāpur
+  770225R2.MAY
+  Śrīmad-Bhāgavatam 7.9.6 -- February 26, 1977, Māyāpur
+  770226SB.MAY
+  Interview -- February 26, 1977, Māyāpur
+  770226IV.MAY
+  Evening Darśana -- February 26, 1977, Māyāpur
+  770226ED.MAY
+  Śrīmad-Bhāgavatam 7.9.7 -- February 27, 1977, Māyāpur
+  770227SB.MAY
+  Room Conversation -- February 27, 1977, Māyāpur
+  770227R1.MAY
+  Room Conversation II -- February 27, 1977, Māyāpur
+  770227R2.MAY
+  Śrīmad-Bhāgavatam 7.9.8 -- February 28, 1977, Māyāpur
+  770228SB.MAY
+  Room Conversation with Svarūpa Dāmodara -- February 28, 1977, Māyāpur
+  770228R1.MAY
+  Conversation with Italian Woman with Translator -- February 28, 1977, Māyāpur
+  770228R2.MAY
+  Room Conversation -- February 28, 1977, Māyāpur
+  770228R3.MAY
+  March
+  Śrīmad-Bhāgavatam 7.9.9 -- March 1, 1977, Māyāpur
+  770301SB.MAY
+  770301R1.MAY
+  Room Conversation -- March 1, 1977, Māyāpur
+  770301R2.MAY
+  Room Conversation -- March 2, 1977, Māyāpur
+  770302R1.MAY
+  Room Conversation with GBC members -- March 2-3, 1977, Māyāpur
+  770304R1.MAY
+  Room Conversations -- March 20, 1977, Māyāpur
+  770320R1.MAY
+  Room Conversation -- March 22, 1977, Bombay
+  770322R1.BOM
+  Śrīmad-Bhāgavatam 2.3.18–21 -- March 23, 1977, Bombay, At Cross Maidan Pandal
+  770323SB.BOM
+  Śrīmad-Bhāgavatam 2.3.20 -- March 24, 1977, Bombay At Cross Maidan Pandal
+  770324SB.BOM
+  Room Conversation -- March 24, 1977, Bombay
+  770324R1.BOM
+  Śrīmad-Bhāgavatam 5.5.1–2 -- March 25, 1977, Bombay
+  770325SB.BOM
+  Lecture -- March 26, 1977, Bombay
+  770326LE.BOM
+  Room Conversation -- March 26, 1977, Bombay
+  770326R1.BOM
+  Room Conversation II -- March 26, 1977, Bombay
+  770326R2.BOM
+  Room Conversation III -- March 26, 1977, Bombay
+  770326R3.BOM
+  Room Conversation -- March 27, 1977, Bombay
+  770327R1.BOM
+  Room Conversation II -- March 27, 1977, Bombay
+  770327R2.BOM
+  Room Conversation with Ratan Singh Rajda (Member of Parliament) -- March 27, 1977, Bombay
+  770327R3.BOM
+  Room Conversation III -- March 27, 1977, Bombay
+  770327R4.BOM
+  Room Conversation with Kuwaiti Guests -- March 29, 1977, Bombay
+  770329R1.BOM
+  Śrīmad-Bhāgavatam 5.5.3–4 -- March 29, 1977, Bombay
+  770329SB.BOM
+  Room Conversation First Day in Juhu Quarters -- March 30, 1977, Bombay
+  770330R1.BOM
+  Room Conversation -- March 31, 1977, Bombay
+  770331R1.BOM
+  Room Conversation [partially recorded] -- March 31, 1977, Bombay
+  770331R2.BOM
+  Room Conversation with Scientists, Svarūpa Dāmodara and Dr. Sharma -- March 31, 1977, Bombay
+  770331R3.BOM
+  April
+  Lecture -- April 1, 1977, Bombay
+  770401LE.BOM
+  Room Conversation -- April 2, 1977, Bombay
+  770402R1.BOM
+  Interview with Mr. Koshi (Asst. Editor of The Current Weekly) -- April 5, 1977, Bombay
+  770405IV.BOM
+  Morning Talk -- April 5, 1977, Bombay
+  770405R1.BOM
+  Room Conversation -- April 5, 1977, Bombay
+  770405R2.BOM
+  Room Conversation II -- April 5, 1977, Bombay
+  770405R3.BOM
+  Room Conversation -- April 10, 1977, Bombay
+  770410R1.BOM
+  Room Conversation about Harijanas -- April 10, 1977, Bombay
+  770410R2.BOM
+  Morning Conversation About Newspaper Articles -- April 11, 1977, Bombay
+  770411R1.BOM
+  Room Conversation -- April 13, 1977, Bombay
+  770413R1.BOM
+  770415R1.BOM
+  Room Conversation with Ram Jethmalani (Parliament Member) -- April 16, 1977, Bombay
+  770416R1.BOM
+  Room Conversation Meeting with Dr. Sharma (from Russia) -- April 17, 1977, Bombay
+  770417R1.BOM
+  Conversation with Yadubara (after seeing film) -- April 17, 1977, Bombay
+  770417R2.BOM
+  Talk with Svarūpa Dāmodara -- April 18, 1977, Bombay
+  770418R1.BOM
+  Morning Talk -- April 18, 1977, Bombay
+  770418R2.BOM
+  Morning Conversation -- April 19, 1977, Bombay
+  770419R1.BOM
+  Conversations -- April 19, 1977, Bombay
+  770419R2.BOM
+  Room Conversation -- April 19, 1977, Bombay
+  770419R3.BOM
+  Conversation with Patita-pāvana -- April 20, 1977, Bombay
+  770420R1.BOM
+  Conversation with Tamāla Kṛṣṇa about Yadubara -- April 22, 1977, Bombay
+  770422R1.BOM
+  Conversation with disciples of Chinmayananda and Shivananda Ashram -- April 22, 1977, Bombay
+  770422R2.BOM
+  Room Conversation -- April 22, 1977, Bombay
+  770422R3.BOM
+  Meeting with Mr. Dwivedi -- April 23, 1977, Bombay
+  770423ME.BOM
+  Morning Conversation -- April 23, 1977, Bombay
+  770423R1.BOM
+  Second Meeting with Mr. Dwivedi -- April 24, 1977, Bombay
+  770424ME.BOM
+  Morning Talk -- April 25, 1977, Bombay
+  770425R1.BOM
+  Conversation: Bogus Gurus -- April 25, 1977, Bombay
+  770425R2.BOM
+  Conversation: Vairāgya, Salaries, and Political Etiquette -- April 28, 1977, Bombay
+  770428R1.BOM
+  Conversation: Animals' Expertise -- April 28, 1977, Bombay
+  770428R2.BOM
+  Morning Conversation -- April 29, 1977, Bombay
+  770429R1.BOM
+  Morning Conversation -- April 30, 1977, Bombay
+  770430R1.BOM
+  Conversation with Vedic Astronomer -- April 30, 1977, Bombay
+  770430R2.BOM
+  May
+  Conversation with Shri Narayan -- May 2, 1977, Bombay
+  770502R1.BOM
+  Room Conversation -- May 2, 1977, Bombay
+  770502R2.BOM
+  Room Conversation -- May 8, 1977, Rishikesh
+  770508R1.HRI
+  Room Conversation II -- May 8, 1977, Rishikesh
+  770508R2.HRI
+  Room Conversation III -- May 8, 1977, Rishikesh
+  770508R3.HRI
+  Evening Darśana -- May 9, 1977, Rishikesh
+  770509ED.HRI
+  Evening Darśana -- May 11, 1977, Rishikesh
+  770511ED.HRI
+  Evening Darśana -- May 12, 1977, Rishikesh
+  770512ED.HRI
+  Evening Darśana -- May 13, 1977, Rishikesh
+  770513ED.HRI
+  Evening Darśana -- May 14, 1977, Rishikesh
+  770514ED.HRI
+  Evening Darśana -- May 15, 1977, Rishikesh
+  770515ED.HRI
+  Arrival Speech -- May 17, 1977, Vṛndāvana
+  770517AR.VRN
+  Conversations -- May 17, 1977, Vṛndāvana
+  770517R1.VRN
+  Conversation with M.P., Shri Sita Ram Singh -- May 19, 1977, Vṛndāvana
+  770519R1.VRN
+  Room Conversation with Indian Guests -- May 20, 1977, Vṛndāvana
+  770520R1.VRN
+  Room Conversation -- May 21, 1977, Vṛndāvana
+  770521R1.VRN
+  Room Conversation -- May 22, 1977, Vṛndāvana
+  770522R1.VRN
+  Short Discussions -- May 24, 1977, Vṛndāvana
+  770524R1.VRN
+  Short Discussions II -- May 24, 1977, Vṛndāvana
+  770524R2.VRN
+  Short Discussions III -- May 24, 1977, Vṛndāvana
+  770524R3.VRN
+  Short Discussions IV -- May 24, 1977, Vṛndāvana
+  770524R4.VRN
+  Short Discussions -- May 25, 1977, Vṛndāvana
+  770525R1.VRN
+  Short Discussions II -- May 25, 1977, Vṛndāvana
+  770525R2.VRN
+  Conversation Pieces -- May 27, 1977, Vṛndāvana
+  770527R1.VRN
+  Conversation Pieces II -- May 27, 1977, Vṛndāvana
+  770527R2.VRN
+  Śrīla Prabhupāda Vigil -- May 27, 1977, Vṛndāvana
+  770527VG.VRN
+  GBC Meets with Śrīla Prabhupāda -- May 28, 1977, Vṛndāvana
+  770528ME.VRN
+  Room Conversation [partially recorded] -- May 28, 1977, Vṛndāvana
+  770528R1.VRN
+  Śrīla Prabhupāda Vigil -- May 28–29, 1977, Vṛndāvana
+  770528VG.VRN
+  Morning Conversation -- May 29, 1977, Vṛndāvana
+  770529R1.VRN
+  Conversations with Kīrtana Groups and Sannyāsa Initiation -- May 29, 1977, Vṛndāvana
+  770529R2.VRN
+  Conversations -- May 31, 1977, Vṛndāvana
+  770531R1.VRN
+  June
+  Discussions with Devotees and Conversation with Dr. Ghosh -- June 1, 1977, Vṛndāvana
+  770601DC.VRN
+  Discussions Will &amp; Affidavit -- June 2, 1977, Vṛndāvana
+  770602DC.VRN
+  Room Conversation -- June 17, 1977, Vṛndāvana
+  770617R1.VRN
+  Room Conversation -- June 18, 1977, Vṛndāvana
+  770618R1.VRN
+  Room Conversation -- June 19, 1977, Vṛndāvana
+  770619R1.VRN
+  Morning Talk -- June 19, 1977, Vṛndāvana
+  770619R2.VRN
+  Talk with Svarūpa Dāmodara -- June 20, 1977, Vṛndāvana
+  770620R1.VRN
+  Talk with Svarūpa Dāmodara II -- June 20, 1977, Vṛndāvana
+  770620R2.VRN
+  Description of New York Temple and Conversation with Svarūpa Dāmodara -- June 21, 1977, Vṛndāvana
+  770621R1.VRN
+  770622R1.VRN
+  Morning Conversation -- June 23, 1977, Vṛndāvana
+  770623R1.VRN
+  770624R1.VRN
+  Gurukula Inspection -- June 26, 1977, Vṛndāvana
+  770626GI.VRN
+  Conversation with Surendra Kumar and O.B.L. Kapoor -- June 26, 1977, Vṛndāvana
+  770626R1.VRN
+  Morning Talk -- June 27, 1977, Vṛndāvana
+  770627R1.VRN
+  Talk About Varṇāśrama, S.B. 2.1.1–5 -- June 28, 1977, Vṛndāvana
+  770628R1.VRN
+  Conversation -- June 28, 1977, Vṛndāvana
+  770628R2.VRN
+  Conversations -- June 28, 1977, Vṛndāvana
+  770628R3.VRN
+  Showing of Planetary Sketches -- June 28, 1977, Vṛndāvana
+  770628R4.VRN
+  Conversation -- June 30, 1977, Vṛndāvana
+  770630R1.VRN
+  Conversation with Bhakti-caitanya Swami–New GBC -- June 30, 1977, Vṛndāvana
+  770630R2.VRN
+  770630R3.VRN
+  July
+  Room Conversation with Devotees -- July 1, 1977, Vṛndāvana
+  770701R1.VRN
+  Room Conversation with Alice Coltrane -- July 1, 1977, Vṛndāvana
+  770701R2.VRN
+  Room Conversation -- July 1, 1977, Vṛndāvana
+  770701R3.VRN
+  Conversation -- July 1, 1977, Vṛndāvana
+  770701R4.VRN
+  Conversation about Old Days in Calcutta -- July 1, 1977, Vṛndāvana
+  770701R5.VRN
+  Conversation II -- July 1, 1977, Vṛndāvana
+  770701R6.VRN
+  Bhū-maṇḍala Diagram Discussion -- July 2, 1977, Vṛndāvana
+  770702DC.VRN
+  Room Conversation with Mr. Myer -- July 2, 1977, Vṛndāvana
+  770702R1.VRN
+  Discussion about Bhū-maṇḍala -- July 3, 1977, Vṛndāvana
+  770703DC.VRN
+  Discussion about Bhū-maṇḍala -- July 5, 1977, Vṛndāvana
+  770705DC.VRN
+  Room Conversation -- July 5, 1977, Vṛndāvana
+  770705R1.VRN
+  Room Conversation with Vrindavan De -- July 5, 1977, Vṛndāvana
+  770706R1.VRN
+  Room Conversations -- July 7, 1977, Vṛndāvana
+  770707R1.VRN
+  Room Conversations II -- July 7, 1977, Vṛndāvana
+  770707R2.VRN
+  Room Conversations III -- July 7, 1977, Vṛndāvana
+  770707R3.VRN
+  Room Conversation during Lunchtime -- July 8, 1977, Vṛndāvana
+  770708R1.VRN
+  Room Conversation about Māyāpur Attack Talk with Vrindavan De -- July 8, 1977, Vṛndāvana
+  770708R2.VRN
+  Room Conversation with Mr. Myer -- July 10, 1977, Vṛndāvana
+  770710R1.VRN
+  Room Conversation: Varṇāśrama -- July 14, 1977, Vṛndāvana
+  770714R1.VRN
+  Room Conversation–Recent Mail -- July 14, 1977, Vṛndāvana
+  770714R2.VRN
+  Room Conversation Māyāpur attack -- July 15, 1977, Vṛndāvana
+  770715R1.VRN
+  Room Conversation about Gṛhasthas -- July 17, 1977, Vṛndāvana
+  770717R2.VRN
+  Room Conversation -- July 17, 1977, Vṛndāvana
+  770717R1.VRN
+  Room Conversation with Pranavdas Gupta about Astrology Report -- July 19, 1977, Vṛndāvana
+  770719R1.VRN
+  Room Conversation July 19, 1977, Vṛndāvana
+  770719R2.VRN
+  Room Conversation Gaurasundara, Dr. Kapoor -- July 26, 1977, Vṛndāvana
+  770726R1.VRN
+  Room Conversation -- July 27–28, 1977, Vṛndāvana
+  770727R1.VRN
+  Meeting With Prabhudas P. Patwaria, Governor of Tamil Nadu -- July 31, 1977, Vṛndāvana
+  770731R1.VRN
+  August
+  Room Conversation -- August 8, 1977, Vṛndāvana
+  770808R1.VRN
+  Room Conversation -- August 10, 1977, Vṛndāvana
+  770810R1.VRN
+  Room Conversations Bangladesh Preaching, Prabhaviṣṇu And Articles by Haṁsadūta -- August 11, 1977, Vṛndāvana
+  770811R1.VRN
+  Room Conversation with Madhudviṣa and others -- August 17, 1977, Vṛndāvana
+  770817R1.VRN
+  Room Conversation at Bhaktivedanta Manor-- August 29, 1977, London
+  770829R1.LON
+  September
+  October
+  Room Conversation -- October 2, 1977, Vṛndāvana
+  771002R1.VRN
+  Room Conversation -- October 3, 1977, Vṛndāvana
+  771003R1.VRN
+  Room Conversation -- October 4, 1977, Vṛndāvana
+  771004R1.VRN
+  Room Conversation &amp; arrivals from New Vrindavan -- October 6, 1977, Vṛndāvana
+  771006R1.VRN
+  Room Conversation -- October 6, 1977, Vṛndāvana
+  771006R2.VRN
+  Room Conversation Arrival of Jayatīrtha and Harikeśa -- October 8, 1977, Vṛndāvana
+  771008R1.VRN
+  Room Conversation Astrologer's Report -- October 8, 1977, Vṛndāvana
+  771008R2.VRN
+  Room Conversation -- October 9, 1977, Vṛndāvana
+  771009R1.VRN
+  Room Conversation -- October 10, 1977, Vṛndāvana
+  771010R1.VRN
+  Visit From Allopathic Doctor -- October 10, 1977, Vṛndāvana
+  771010VI.VRN
+  Room Conversation -- October 11, 1977, Vṛndāvana
+  771011R1.VRN
+  Room Conversation II -- October 11, 1977, Vṛndāvana
+  771011R2.VRN
+  Room Conversation -- October 12, 1977, Vṛndāvana
+  771012R1.VRN
+  Room Conversation -- October 13, 1977, Vṛndāvana
+  771013R1.VRN
+  Room Conversation II -- October 13, 1977, Vṛndāvana
+  771013R2.VRN
+  Room Conversation III -- October 13, 1977, Vṛndāvana
+  771013R3.VRN
+  Room Conversation -- October 14, 1977, Vṛndāvana
+  771014R1.VRN
+  Room Conversation II -- October 14, 1977, Vṛndāvana
+  771014R2.VRN
+  Room Conversation III -- October 14, 1977, Vṛndāvana
+  771014R3.VRN
+  Room Conversation -- October 15, 1977, Vṛndāvana
+  771015R1.VRN
+  Room Conversation II -- October 15, 1977, Vṛndāvana
+  771015R2.VRN
+  I Room Conversation With Svarūpa Dāmodara -- October 15, 1977, Vṛndāvana
+  771015R3.VRN
+  Room Conversation About 10th Canto -- October 16, 1977, Vṛndāvana
+  771016R1.VRN
+  Room Conversation With Dr. G. Ghosh of Allahabad -- October 16, 1977, Vṛndāvana
+  771016R2.VRN
+  Room Conversation With Baradrāj -- October 16, 1977, Vṛndāvana
+  771016R3.VRN
+  Room Conversation Visit from Dr. G. Ghosh and Dr. Gopal -- October 17, 1977, Vṛndāvana
+  771017R1.VRN
+  Room Conversation -- October 17, 1977, Vṛndāvana
+  771017R2.VRN
+  Room Conversation -- October 18, 1977, Vṛndāvana
+  771018R1.VRN
+  II Room Conversation with Svarūpa Dāmodara -- October 18, 1977, Vṛndāvana
+  771018R2.VRN
+  Room Conversation II -- October 18, 1977, Vṛndāvana
+  771018R3.VRN
+  Room Conversation -- October 19, 1977, Vṛndāvana
+  771019R1.VRN
+  Room Conversation -- October 20, 1977, Vṛndāvana
+  771020R1.VRN
+  Doctor Visit and Conversation -- October 20, 1977, Vṛndāvana
+  771020R1.VRN
+  Room Conversation -- October 21, 1977, Vṛndāvana
+  771021R1.VRN
+  Room Conversation II -- October 21, 1977, Vṛndāvana
+  771021R2.VRN
+  Śrīmad-Bhāgavatam Dictation -- October 22, 1977, Vṛndāvana
+  771022SB.VRN
+  Room Conversation -- October 22, 1977, Vṛndāvana
+  771022R1.VRN
+  Room Conversation -- October 24, 1977, Vṛndāvana
+  771024R1.VRN
+  Room Conversation -- October 25, 1977, Vṛndāvana
+  771025R1.VRN
+  Śrīmad-Bhāgavatam Dictation -- October 25, 1977, Vṛndāvana
+  771025SB.VRN
+  Room Conversation -- October 26, 1977, Vṛndāvana
+  771026R1.VRN
+  Srimad-Bhagavatam Dictation SB 10.13.62 -- October 27, 1977, Vṛndāvana
+  771027SB.VRN
+  Room Conversation with Hari Prasad Badruka -- October 27, 1977, Vṛndāvana
+  771027R1.VRN
+  Room Conversation -- October 28, 1977, Vṛndāvana
+  771028R1.VRN
+  Room Conversation Kavirāja from Calcutta Arrives -- October 28, 1977, Vṛndāvana
+  771028R2.VRN
+  Room Conversation -- October 29, 1977, Vṛndāvana
+  771029R1.VRN
+  Room Conversation -- October 30, 1977, Vṛndāvana
+  771030R1.VRN
+  Room Conversation II -- October 30, 1977, Vṛndāvana
+  771030R2.VRN
+  Srimad Bhagavatam Dictations 10.14.1 -- October 31, 1977, Vṛndāvana
+  771031SB.VRN
+  Room Conversation -- October 31, 1977, Vṛndāvana
+  771031R1.VRN
+  Room Conversation With Shri Narayan and Ramkrishna Bajaj -- October 31, 1977, Vṛndāvana
+  771031R2.VRN
+  November
+  Prabhupāda Vigil -- November 1, 1977, Vṛndāvana
+  771101R1.VRN
+  Prabhupāda Vigil II -- November 1, 1977, Vṛndāvana
+  771101R2.VRN
+  Prabhupāda Vigil III -- November 1, 1977, Vṛndāvana
+  771101R3.VRN
+  Room Conversation New Books -- November 2, 1977, Vṛndāvana
+  771102R1.VRN
+  Room Conversation -- November 2, 1977, Vṛndāvana
+  771102R2.VRN
+  Room Conversation II -- November 2, 1977, Vṛndāvana
+  771102R3.VRN
+  Room Conversation with Jaidayal Dalmia -- November 2, 1977, Vṛndāvana
+  771102R4.VRN
+  Room Conversation with Akṣayānanda -- November 2, 1977, Vṛndāvana
+  771102R5.VRN
+  Room Conversation [partially recorded] -- November 2, 1977, Vṛndāvana
+  771102R6.VRN
+  Room Conversation III -- November 2, 1977, Vṛndāvana
+  771102R7.VRN
+  Room Conversation Kavirāja Visit -- November 2, 1977, Vṛndāvana
+  771102R8.VRN
+  Room Conversation -- November 3, 1977, Vṛndāvana
+  771103R2.VRN
+  Room Conversation II -- November 3, 1977, Vṛndāvana
+  771103R3.VRN
+  Room Conversation III -- November 3, 1977, Vṛndāvana
+  771103R4.VRN
+  Room Conversation with Gaura-Govinda and Girirāja -- November 3, 1977, Vṛndāvana
+  771103R5.VRN
+  Room Conversation with Gaura-Govinda -- November 3, 1977, Vṛndāvana
+  771103R6.VRN
+  Room Conversation with Śatadhanya -- November 3, 1977, Vṛndāvana
+  771103R7.VRN
+  Prabhupāda Vigil -- November 3, 1977, Vṛndāvana
+  771103R1.VRN
+  Room Conversation IV -- November 3, 1977, Vṛndāvana
+  771103R8.VRN
+  Room Conversation -- November 4, 1977, Vṛndāvana
+  771104R1.VRN
+  Room Conversation -- November 5, 1977, Vṛndāvana
+  771105R1.VRN
+  Room Conversation II -- November 5, 1977, Vṛndāvana
+  771105R2.VRN
+  Room Conversation III -- November 5, 1977, Vṛndāvana
+  771105R3.VRN
+  Room Conversation IV -- November 5, 1977, Vṛndāvana
+  771105R4.VRN
+  Room Conversation V -- November 5, 1977, Vṛndāvana
+  771105R5.VRN
+  Room Conversation VI -- November 5, 1977, Vṛndāvana
+  771105R6.VRN
+  Room Conversation -- November 6, 1977, Vṛndāvana
+  771106R1.VRN
+  Room Conversation II -- November 6, 1977, Vṛndāvana
+  771106R2.VRN
+  Room Conversation III -- November 6, 1977, Vṛndāvana
+  771106R3.VRN
+  Room Conversation -- November 7, 1977, Vṛndāvana
+  771107R1.VRN
+  Room Conversation II -- November 7, 1977, Vṛndāvana
+  771107R2.VRN
+  Room Conversation III -- November 7, 1977, Vṛndāvana
+  771107R3.VRN
+  Room Conversation IV -- November 7, 1977, Vṛndāvana
+  771107R4.VRN
+  Room Conversation V -- November 7, 1977, Vṛndāvana
+  771107R5.VRN
+  Room Conversation -- November 8, 1977, Vṛndāvana
+  771108R1.VRN
+  Room Conversation II -- November 8, 1977, Vṛndāvana
+  771108R2.VRN
+  Room Conversation -- November 9, 1977, Vṛndāvana
+  771109R1.VRN
+  Room Conversation II -- November 9, 1977, Vṛndāvana
+  771109R2.VRN
+  Room Conversation III -- November 9, 1977, Vṛndāvana
+  771109R3.VRN
+  Room Conversation IV -- November 9, 1977, Vṛndāvana
+  771109R4.VRN
+  Room Conversation -- November 10, 1977, Vṛndāvana
+  771110R1.VRN
+  Room Conversation II -- November 10, 1977, Vṛndāvana
+  771110R2.VRN
+  Room Conversation III -- November 10, 1977, Vṛndāvana
+  771110R3.VRN
+  Room Conversation -- November 11, 1977, Vṛndāvana
+  771111R1.VRN
+  Room Conversation -- November 12, 1977, Vṛndāvana
+  771112R1.VRN
+  Room Conversation II -- November 12, 1977, Vṛndāvana
+  771112R2.VRN
+  Room Conversation -- November 13, 1977, Vṛndāvana
+  771113R1.VRN
+  Room Conversation II -- November 13, 1977, Vṛndāvana
+  771113R2.VRN
+  Room Conversation -- November 14, 1977, Vṛndāvana
+  771114VG.VRN
