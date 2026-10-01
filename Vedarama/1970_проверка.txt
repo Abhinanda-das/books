@@ -1,0 +1,142 @@
+Книга: 1970
+Адрес: https://vedarama.com/en/books/1970
+Страниц сайта: 129; заголовков: 130; текстов: 1; картинок: 0 + обложка
+Глав по MCP: 12
+Букв в исходнике: 642594; в .md: 642594
+Первый заголовок: 1970
+Последний заголовок: 701223SB.SUR
+
+ЗАМЕЧАНИЯ:
+  - У «1970» нет содержимого (только заголовок).
+
+Оглавление выгрузки:
+1970
+  January
+  Śrīmad-Bhāgavatam 6.1.6 -- January 3, 1970, Los Angeles
+  700103SB.LA
+  Śrīmad-Bhāgavatam 6.1.19 -- January 15, 1970, Los Angeles
+  700115SB.LA
+  February
+  Varāha Dvādaśī, Lord Varāha's Appearance Day Lecture -- February 18, 1970, Los Angeles
+  700218VA.LA
+  Sannyāsa Initiation -- February 20, 1970, Los Angeles
+  700220IN.LA
+  March
+  Bhagavad-gītā 7.1 -- March 12, 1970, Los Angeles
+  700312BG.LA
+  April
+  Lecture [Day after Lord Rāma's Appearance Day] -- April 16, 1970, Los Angeles
+  700416LE.LA
+  Śrī Īśopaniṣad Invocation Lecture [partially recorded] -- April 27, 1970, Los Angeles
+  700427IP.LA
+  Śrī Īśopaniṣad Invocation Lecture -- April 28, 1970, Los Angeles
+  700428IP.LA
+  Śrī Īśopaniṣad, Mantra 1 -- April 29, 1970, Los Angeles
+  700429IP.LA
+  Śrī Īśopaniṣad, Mantra 1 -- April 30, 1970, Los Angeles
+  700430IP.LA
+  May
+  Śrī Īśopaniṣad, Mantra 1 -- May 2, 1970, Los Angeles
+  700502IP.LA
+  Śrī Īśopaniṣad, Mantra 1 -- May 3, 1970, Los Angeles
+  700503IP.LA
+  Śrī Īśopaniṣad, Mantra 1 -- May 4, 1970, Los Angeles
+  700504IP.LA
+  Śrī-Īśopaniṣad, Mantra 3 -- May 5, 1970, Los Angeles
+  700505IP.LA
+  Śrī Īśopaniṣad, Mantra 2-4 -- May 6, 1970, Los Angeles
+  700506IP.LA
+  Śrī Īśopaniṣad, Mantra 5 -- May 7, 1970, Los Angeles
+  700507IP.LA
+  Śrī Īśopaniṣad, Mantra 6 -- May 8, 1970, Los Angeles
+  700508IP.LA
+  Śrī Īśopaniṣad, Mantra 7 -- May 9, 1970, Los Angeles
+  700509IP.LA
+  Śrī Īśopaniṣad, Mantra 7 -- May 10, 1970, Los Angeles
+  700510IP.LA
+  Śrī Īśopaniṣad, Mantra 8 -- May 11, 1970, Los Angeles
+  700511IP.LA
+  Śrī Īśopaniṣad, Mantra 8 -- May 12, 1970, Los Angeles
+  700512IP.LA
+  Śrī Īśopaniṣad, Mantra 9 -- May 13, 1970, Los Angeles
+  700513IP.LA
+  Śrī Īśopaniṣad, Mantra 9-10 -- May 14, 1970, Los Angeles
+  700514IP.LA
+  Śrī Īśopaniṣad, Mantra 10 -- May 15, 1970, Los Angeles
+  700515IP.LA
+  Śrī Īśopaniṣad, Mantra 11 -- May 16, 1970, Los Angeles
+  700516IP.LA
+  Śrī Īśopaniṣad, Mantra 13-15 -- May 18, 1970, Los Angeles
+  700518IP.LA
+  June
+  Initiation of Mṛga-netrī Dāsī -- June 22, 1970, Los Angeles
+  700622IN.LA
+  The Nectar of Devotion -- June 23, 1970, Los Angeles
+  700623ND.LA
+  July
+  Śrīmad-Bhāgavatam 2.1.1 -- July 1, 1970, Los Angeles
+  700701SB.LA
+  Śrīmad-Bhāgavatam 2.1.1-6 Excerpts -- July 2, 1970, Los Angeles
+  700702SB.LA
+  Initiation: Śrī Raṅga, Romaharṣaṇa, Śrīdhara -- July 3, 1970, Los Angeles
+  700703IN.LA
+  Ratha-yātrā and Press Conference -- July 4, 1970, San Francisco
+  700704AR.SF
+  Guṇḍicā Mārjanam Cleansing of the Guṇḍicā Temple, Lecture -- July 4, 1970, San Francisco
+  700704LE.SF
+  Ratha-yātrā -- July 5, 1970, San Francisco
+  700705RY.SF
+  August
+  Śrīmad-Bhāgavatam 2.1.11 -- August 1, 1970, Los Angeles
+  700801SB.LA
+  Śrīla Prabhupāda Teaching Nṛsiṁha Prayers, [Govindam record plays]
+  Purport to Nṛsiṁha Prayers -- August 2, 1970, Los Angeles
+  700802NP.LA
+  September
+  October
+  November
+  Room Conversation -- November 4, 1970, Bombay
+  701104RC.BOM
+  Śrīmad-Bhāgavatam 6.1.6 -- November 6, 1970, Bombay
+  701106SB.BOM
+  Lecture [partially recorded] -- November 7, 1970, Bombay
+  701107LE.BOM
+  Room Conversation -- November 7, 1970, Bombay
+  701107RC.BOM
+  Śrīmad-Bhāgavatam 6.1.14 -- November 10, 1970, Bombay
+  701110SB.BOM
+  Lecture [partially recorded] -- November 10, 1970, Bombay
+  701110LE.BOM
+  Śrīmad-Bhāgavatam 6.1.19 and Conversation -- November 15, 1970, Bombay
+  701115SB.BOM
+  December
+  Speech to Mahārāja and Mahārāṇī -- December 11, 1970, Indore
+  701211SP.IND
+  Room Conversation -- December 12, 1970, Indore
+  701212RC.IND
+  Śrīmad-Bhāgavatam 6.1.22 -- December 13, 1970, Indore
+  701213SB.IND
+  Room Conversation -- December 13, 1970, Indore
+  701213R2.IND
+  Room Conversation -- December 13, 1970, Indore II
+  701213RC.IND
+  Śrīmad-Bhāgavatam 6.1.27 -- December 15, 1970, Indore
+  701215SB.IND
+  Room Conversation -- December 15, 1970, Surat
+  701215RC.SUR
+  Śrīmad-Bhāgavatam 6.1.32 -- December 16, 1970, Surat
+  701216SB.SUR
+  Śrīmad-Bhāgavatam 6.1.27-34 -- December 17, 1970, Surat
+  701217SB.SUR
+  Room Conversation -- December 17, 1970, Surat
+  701217RC.SUR
+  Śrīmad-Bhāgavatam 6.1.34-39 -- December 19, 1970, Surat
+  701219SB.SUR
+  Śrīmad-Bhāgavatam 6.1.39-40 -- December 21, 1970, Surat
+  701221SB.SUR
+  Room Conversation -- December 21, 1970, Surat
+  701221RC.SUR
+  Śrīmad-Bhāgavatam 6.1.40 -- December 22, 1970, Surat
+  701222SB.SUR
+  Śrīmad-Bhāgavatam 6.1.41-42 -- December 23, 1970, Surat
+  701223SB.SUR
