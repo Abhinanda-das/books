@@ -1,0 +1,1154 @@
+Книга: 1975
+Адрес: https://vedarama.com/en/books/1975
+Страниц сайта: 1141; заголовков: 1142; текстов: 1; картинок: 0 + обложка
+Глав по MCP: 12
+Букв в исходнике: 8227281; в .md: 8227281
+Первый заголовок: 1975
+Последний заголовок: 751228BG.SAN
+
+ЗАМЕЧАНИЯ:
+  - У «1975» нет содержимого (только заголовок).
+
+Оглавление выгрузки:
+1975
+  January
+  Śrīmad-Bhāgavatam 3.26.23-4 -- January 1, 1975, Bombay
+  750101SB.BOM
+  Śrīmad-Bhāgavatam 3.26.25 -- January 2, 1975, Bombay
+  750102SB.BOM
+  Śrīmad-Bhāgavatam 3.26.26 -- January 3, 1975, Bombay
+  750103SB.BOM
+  Room Conversation -- January 3, 1975, Bombay
+  750103R1-BOM
+  Śrīmad-Bhāgavatam 3.26.27 -- January 4, 1975, Bombay
+  750104SB.BOM
+  Śrīmad-Bhāgavatam 3.26.28 -- January 5, 1975, Bombay
+  750105SB.BOM
+  Śrīmad-Bhāgavatam 3.26.29 -- January 6, 1975, Bombay
+  750106SB.BOM
+  Śrīmad-Bhāgavatam 3.26.30 -- January 7, 1975, Bombay
+  750107SB.BOM
+  Śrīmad-Bhāgavatam 3.26.31 -- January 8, 1975, Bombay
+  750108SB.BOM
+  Śrīmad-Bhāgavatam 3.26.32 -- January 9, 1975, Bombay
+  750109SB.BOM
+  Śrīmad-Bhāgavatam 3.26.34 -- January 11, 1975, Bombay
+  750111SB.BOM
+  Śrīmad-Bhāgavatam 3.26.35-36 -- January 12, 1975, Bombay
+  750112SB.BOM
+  Śrīmad-Bhāgavatam 3.26.39 -- January 14, 1975, Bombay
+  750114SB.BOM
+  Śrīmad-Bhāgavatam 3.26.40 -- January 15, 1975, Bombay
+  750115SB.BOM
+  Śrīmad-Bhāgavatam 3.26.41 -- January 16, 1975, Bombay
+  750116SB.BOM
+  Śrīmad-Bhāgavatam 3.26.42 -- January 17, 1975, Bombay
+  750117SB.BOM
+  Śrīmad-Bhāgavatam 3.26.43 -- January 18, 1975, Bombay
+  750118SB.BOM
+  Śrīmad-Bhāgavatam 3.26.44 -- January 19, 1975, Bombay
+  750119SB.BOM
+  Śrīmad-Bhāgavatam 3.26.45 -- January 20, 1975, Bombay
+  750120SB.BOM
+  Śrīmad-Bhāgavatam 3.26.46 -- January 21, 1975, Bombay
+  750121SB.BOM
+  Śrīmad-Bhāgavatam 3.26.47 -- January 22, 1975, Bombay
+  750122SB.BOM
+  Cornerstone Laying, Bhagavad-gītā 16.7-9 -- January 23, 1975, Bombay
+  750123CS.BOM
+  Bhagavad-gītā 7.1 -- January 25, 1975, Hong Kong
+  750125BG.HK
+  Children’s Darśana – January 26, 1975, Hong Kong
+  750126CD.HK
+  Bhagavad-gītā 16.7 -- January 27, 1975, Tokyo
+  750127BG.TOK
+  Room Conversation -- January 27, 1975, Tokyo
+  750127R1.TOK
+  Bhagavad-gītā 16.8 -- January 28, 1975, Tokyo
+  750128BG.TOK
+  Bhagavad-gītā 16.1-3 -- January 29, 1975, Honolulu
+  750129BG.HON
+  Bhagavad-gītā 16.4 -- January 30, 1975, Honolulu
+  750130BG.HON
+  Bhagavad-gītā 16.5 -- January 31, 1975, Honolulu
+  750131BG.HON
+  February
+  Bhagavad-gītā 16.6 -- February 2, 1975, Honolulu
+  750202BG.HON
+  Morning Walk -- February 3, 1975, Honolulu
+  750203MW.HON
+  Bhagavad-gītā 16.7 -- February 3, 1975, Honolulu
+  750203BG.HON
+  Morning Walk -- February 4, 1975, Honolulu
+  750204MW.HON
+  Bhagavad-gītā 16.8 -- February 4, 1975, Honolulu
+  750204BG.HON
+  Bhagavad-gītā 16.9 -- February 5, 1975, Honolulu
+  750205BG.HON
+  Bhagavad-gītā 16.10 -- February 6, 1975, Honolulu
+  750206BG.HON
+  Bhagavad-gītā 16.11–12 -- February 7, 1975, Honolulu
+  750207BG.HON
+  Bhagavad-gītā 16.13–15 – February 8, 1975, Honolulu
+  750208BG.HON
+  Arrival Address -- February 9, 1975, Los Angeles
+  750209AR.LA
+  Morning Walk Through the BBT Warehouse -- February 10, 1975, Los Angeles
+  750210MW.LA
+  Śrīmad-Bhāgavatam 2.8.7 -- February 10, 1975, Los Angeles
+  750210SB.LA
+  Arrival Lecture -- February 11, 1975, Mexico City
+  750211AR.MEX
+  Bhagavad-gītā 2.11 -- February 11, 1975, Mexico City
+  750211BG.MEX
+  Bhagavad-gītā 2.12 -- February 12, 1975, Mexico City
+  750212BG.MEX
+  Room Conversation with Sanskrit Professor -- February 12, 1975, Mexico City
+  750212R1.MEX
+  Room Conversation with Woman Sanskrit Professor -- February 13, 1975, Mexico City
+  750213R1.MEX
+  Bhagavad-gītā 2.14 -- February 14, 1975, Mexico City
+  750214BG.MEX
+  Questions and Answers -- February 14, 1975, Mexico City
+  750214QA.MEX
+  Room Conversation -- February 15, 1975, Mexico City
+  750215R1.MEX
+  Bhagavad-gītā 2.15 -- February 15, 1975, Mexico City
+  750215BG.MEX
+  Bhagavad-gītā 2.16 -- February 16, 1975, Mexico City
+  750216BG.MEX
+  Bhagavad-gītā 2.17 -- February 17, 1975, Mexico City
+  750217BG.MEX
+  Departure Lecture -- February 18, 1975, Mexico City
+  750218DP.MEX
+  Room Conversation with Professors -- February 19, 1975, Caracas
+  750219R1.CAR
+  Śrīmad-Bhāgavatam 1.1.1 -- February 20, 1975, Caracas
+  750220SB.CAR
+  Morning Walk -- February 21, 1975, Caracas
+  750221MW.CAR
+  Śrīmad-Bhāgavatam 1.1.1 -- February 21, 1975, Caracas
+  750221SB.CAR
+  Room Conversation with Metaphysics Society -- February 21, 1975, Caracas
+  750221R1.CAR
+  Room Conversation with Psychiatrists -- February 22, 1975, Caracas
+  750222R1.CAR
+  Initiation Lecture -- February 22, 1975, Caracas
+  750222IN.CAR
+  Morning Walk -- February 23, 1975, Caracas
+  750223MW.CAR
+  Śrīmad-Bhāgavatam 1.1.2 -- February 23, 1975, Caracas
+  750223SB.CAR
+  Śrīmad-Bhāgavatam 1.1.3 -- February 24, 1975, Caracas
+  750224SB.CAR
+  Departure Lecture -- February 25, 1975, Caracas
+  750225DP.CAR
+  Arrival Lecture -- February 25, 1975, Miami
+  750225AR.MIA
+  Bhagavad-gītā 13.1–2 – February 25, 1975, Miami
+  750225BG.MIA
+  Bhagavad-gītā 13.3 – February 26, 1975, Miami
+  750226BG.MIA
+  Bhagavad-gītā 13.4 -- February 27, 1975, Miami
+  750227BG.MIA
+  Arrival Address -- February 28, 1975, Atlanta
+  750228AR.ATL
+  Room Conversation with Svarūpa Dāmodara -- February 28, 1975, Atlanta
+  750228R1.ATL
+  Purport to Parama Koruṇa -- February 28, 1975, Atlanta
+  750228PU.ATL
+  March
+  Morning Walk -- March 1, 1975, Atlanta
+  750301MW.ATL
+  Room Conversation with three Trappist Monks -- March 1, 1975, Atlanta
+  750301R1.ATL
+  Room Conversation with Svarūpa Dāmodara -- March 1, 1975, Atlanta
+  750301R2.ATL
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 7.1 -- March 1, 1975, Atlanta
+  750301CC.ATL
+  Morning Walk -- March 2, 1975, Atlanta
+  750302MW.ATL
+  Śrīla Bhaktisiddhānta Appearance Day Lecture -- March 2, 1975, Atlanta
+  750302BA.ATL
+  Room Conversation with Scientists -- March 2, 1975, Atlanta
+  750302R2.ATL
+  Room Conversation with Tripurāri -- March 2, 1975, Atlanta
+  750302R1.ATL
+  Sunday Feast Lecture -- March 2, 1975, Atlanta
+  750302LE.ATL
+  Lecture -- March 3, 1975, Dallas
+  750303LE.DAL
+  Śrīmad-Bhāgavatam 3.12.19 -- March 3, 1975, Dallas
+  750303SB.DAL
+  Morning Walk -- March 4, 1975, Dallas
+  750304MW.DAL
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.15 -- March 4, 1975, Dallas
+  750304CC.DAL
+  Śrīmad-Bhāgavatam 2.2.5 -- March 5, 1975, New York
+  750305SB.NY
+  Interview -- March 5, 1975, New York
+  750305IV.NY
+  Room Conversation with Bernard Manischewitz -- March 5, 1975, New York
+  750305R1.NY
+  Śrīmad-Bhāgavatam 1.15.27 -- March 6, 1975, New York
+  750306S2.NY
+  Śrīmad-Bhāgavatam 2.2.6 -- March 6, 1975, New York
+  750306SB.NY
+  Śrīmad-Bhāgavatam [partially recorded] -- March 7, 1975, New York
+  750307SB.NY
+  Arrival Address -- March 8, 1975, London
+  750308AR.LON
+  Bhajans and Room Conversation -- March 8, 1975, London
+  750308R1.LON
+  Room Conversation with Reporter -- March 9, 1975, London
+  750309R1.LON
+  Bhagavad-gītā 7.1 -- March 9, 1975, London
+  750309BG.LON
+  Bhagavad-gītā 7.2 -- March 10, 1975, London
+  750310BG.LON
+  Morning Walk -- March 11, 1975, London
+  750311MW.LON
+  Bhagavad-gītā 7.3 – March 11, 1975, London
+  750311BG.LON
+  Departure Lecture -- March 12, 1975, London
+  750312DP.LON
+  Morning Walk -- March 13, 1975, Tehran
+  750313MW.TEH
+  Śrīmad-Bhāgavatam 1.10.3-4 -- March 13, 1975, Tehran
+  750313SB.TEH
+  Room Conversation with Indian Guests -- March 13, 1975, Tehran
+  750313R2.TEH
+  Room Conversation with Canadian Ambassador to Iran -- March 13, 1975, Tehran
+  750313R1.TEH
+  Morning Walk [partially recorded] -- March 14, 1975, Tehran
+  750314MW.TEH
+  Room Conversation with Yoga Student and Other Guests -- March 14, 1975, Tehran
+  750314R1.TEH
+  Room Conversation -- March 14, 1975, Tehran
+  750314R2.TEH
+  Morning Walk -- March 15, 1975, Tehran
+  750315MW.TEH
+  Room Conversation -- March 15, 1975, Tehran
+  750315R1.TEH
+  Arrival Lecture -- March 20, 1975, Calcutta
+  750320AR.CAL
+  Room Conversation with Press Representative -- March 21, 1975, Calcutta
+  750321R1.CAL
+  Śrīmad-Bhāgavatam 1.2.6 -- [Hindi-Translated into English] -- March 21, 1975, Calcutta
+  750321SB.CAL
+  Śrīmad-Bhāgavatam 1.2.7 -- [Hindi Translated into English] -- March 22, 1975, Calcutta
+  750322SB.CAL
+  Arrival Talk in Room -- March 23, 1975, Māyāpur
+  750323AR.MAY
+  Śrīmad-Bhāgavatam 1.2.8 -- [Hindi-final proofreading pending] -- March 23, 1975, Calcutta
+  750323SB.CAL
+  Morning Walk -- March 25, 1975, Mayapur
+  750325MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.1 -- March 25, 1975, Māyāpur
+  750325CC.MAY
+  Morning Walk -- March 26, 1975, Māyāpur
+  750326MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.2 -- March 26, 1975, Māyāpur
+  750326CC.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.3 -- March 27, 1975, Māyāpur
+  750327CC.MAY
+  Conversation with the GBC -- March 27, 1975, Māyāpur
+  750327R1.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.4 -- March 28, 1975, Māyāpur
+  750328CC.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.5 -- March 29, 1975, Māyāpur
+  750329CC.MAY
+  Lecture after Manipur Dancing -- March 29, 1975, Māyāpur
+  750329LE.MAY
+  Conversation with a German Girl and Devotees -- March 30, 1975, Māyāpur
+  750330R1.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.6 -- March 30, 1975, Māyāpur
+  750330CC.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.7 -- March 31, 1975, Māyāpur
+  750331CC.MAY
+  Meeting with GBC -- March 31, 1975, Māyāpur
+  750330R2.MAY
+  Conversation with Devotees -- March 31, 1975, Māyāpur
+  750331R1.MAY
+  April
+  Morning Walk -- April 1, 1975, Māyāpur
+  750401MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.8 -- April 1, 1975, Māyāpur
+  750401CC.MAY
+  Conversation with Devotees on Theology -- April 1, 1975, Māyāpur
+  750401R1.MAY
+  Morning Walk -- April 2, 1975, Māyāpur
+  750402MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.9 -- April 2, 1975, Māyāpur
+  750402CC.MAY
+  Morning Walk -- April 3, 1975 , Māyāpur
+  750403MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.10 -- April 3, 1975, Māyāpur
+  750403CC.MAY
+  Morning Walk [World War III] -- April 4, 1975, Māyāpur
+  750404MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.11 -- April 4, 1975, Māyāpur
+  750404CC.MAY
+  Room Conversation -- April 4, 1975, Māyāpur
+  750404R1.MAY
+  Morning Walk -- April 5, 1975, Māyāpur
+  750405MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.12 -- April 5, 1975, Māyāpur
+  750405CC.MAY
+  Morning Walk -- April 6, 1975, Māyāpur
+  750406MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.13 -- April 6, 1975, Māyāpur
+  750406CC.MAY
+  Lecture After Play -- April 6, 1975, Māyāpur
+  750406LE.MAY
+  Morning Walk -- April 7, 1975, Māyāpur
+  750407MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.14 -- April 7, 1975, Māyāpur
+  750407CC.MAY
+  Morning Walk -- April 8, 1975, Māyāpur
+  750408MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.15 -- April 8, 1975, Māyāpur
+  750408CC.MAY
+  Morning Walk -- April 9, 1975, Māyāpur
+  750409MW.MAY
+  Śrī Caitanya-caritāmṛta, Ādi-līlā 1.16 -- April 9, 1975, Māyāpur
+  750409CC.MAY
+  Śrīmad-Bhāgavatam 5.5.1 -- April 10, 1975, Hyderabad
+  750410SB.HYD
+  Śrīmad-Bhāgavatam 5.5.2 -- April 11, 1975, Hyderabad
+  750411SB.HYD
+  Śrīmad-Bhāgavatam 5.5.2 -- April 12, 1975, Hyderabad
+  750412SB.HYD
+  Conversation with Indian Guests -- April 12, 1975, Hyderabad
+  750412R1.HYD
+  Room Conversation -- April 12, 1975, Hyderabad
+  750412R2.HYD
+  Room Conversation II -- April 12, 1975, Hyderabad
+  750412R3.HYD
+  Śrīmad-Bhāgavatam 5.5.2 -- April 13, 1975, Hyderabad
+  750413SB.HYD
+  Conversation with Devotees -- April 14, 1975, Hyderabad
+  750414R1.HYD
+  Lecture on Science of Kṛṣṇa -- April 14, 1975, Hyderabad
+  750414LE.HYD
+  Life Member House Lecture -- April 14, 1975, Hyderabad
+  750414L2.HYD
+  Śrīmad-Bhāgavatam 5.5.3 -- April 15, 1975, Hyderabad
+  750415SB.HYD
+  Morning Walk -- Vṛndāvana, April 17, 1975
+  750417MW.VRN
+  Bhagavad-gītā 9.1 -- Vṛndāvana, April 17, 1975
+  750417BG.VRN
+  Śrīmad-Bhāgavatam 1.7.6 -- Vṛndāvana, April 18, 1975
+  750418SB.VRN
+  Morning Walk -- Vṛndāvana, April 19, 1975
+  750419MW.VRN
+  Room Conversation -- Vṛndāvana, April 19, 1975
+  750419R1.VRN
+  Speech, Śrī Caitanya-caritāmṛta, Madhya 19.53 -- Vṛndāvana, April 20, 1975
+  750420SP.VRN
+  Conversation with Governor -- Vṛndāvana, April 20, 1975
+  750420R1.VRN
+  Morning Walk -- Vṛndāvana, April 23, 1975
+  750423MW.VRN
+  Śrīmad-Bhāgavatam 1.7.6 -- Vṛndāvana, April 23, 1975
+  750423SB.VRN
+  Śrīmad-Bhāgavatam 1.7.7 -- Vṛndāvana, April 24, 1975
+  750424SB.VRN
+  Explanation of Nṛsiṁha-vallabha Gosvāmī Speech -- April 27, 1975, Vṛndāvana
+  750427SP.VRN
+  Morning Walk -- April 28, 1975, Vṛndāvana
+  750428MW.VRN
+  May
+  Evening Discussion -- May 6, 1975, Perth
+  750506ED.PER
+  Morning Walk -- May 7, 1975, Perth
+  750507MW.PER
+  Morning Walk -- May 8, 1975, Perth
+  750508MW.PER
+  Room Conversation with Kim Cornish -- May 8, 1975, Perth
+  750508R1.PER
+  Morning Walk on Beach -- May 9, 1975, Perth
+  750509MW.PER
+  Room Conversation with Carol Cameron -- May 10, 1975, Perth
+  750510R1.PER
+  Morning Walk -- May 10, 1975, Perth
+  750510MW.PER
+  Morning Walk -- May 11, 1975, Perth
+  750511MW.PER
+  Morning Walk -- May 12, 1975, Perth750512MW.PER
+  Room Coversation with Psychiatrist and Indian Boy -- May 12, 1975, Perth
+  750512R1.PER
+  Morning Walk -- May 13, 1975, Perth
+  750513MW.PER
+  Morning Walk -- May 14, 1975, Perth
+  750514MW.PER
+  Room Conversation with Justin Murphy [Geographer] -- May 13, 1975, Perth
+  750513R1.PER
+  Room Conversation with Gaṇeśa dāsa's Mother and Sister -- May 13, 1975, Perth
+  750513R3.PER
+  Room Conversation -- May 13, 1975, Perth
+  750513R2.PER
+  Morning Walk -- May 15, 1975, Perth
+  750515MW.PER
+  Morning Walk -- May 16, 1975, Perth
+  750516MW.PER
+  Room Conversation -- May 16, 1975, Perth
+  750516R1.PER
+  Room Conversation with Alcohol and Drug Hospital People -- May 16, 1975, Perth
+  750516R2.PER
+  Morning Walk -- May 17, 1975, Perth
+  750517MW.PER
+  Room Conversation -- May 17, 1975, Perth
+  750517R1.PER
+  Morning Walk -- May 19, 1975, Melbourne
+  750519MW.MEL
+  Śrīmad-Bhāgavatam Lecture -- May 19, 1975, Melbourne
+  750519SB.MEL
+  Room Conversation with Jesuit -- May 19, 1975, Melbourne
+  750519R2.MEL
+  Room Conversation with Journalist -- May 19, 1975, Melbourne
+  750519R1.MEL
+  Morning Walk in the Botanical Gardens -- May 20, 1975, Melbourne
+  750520MW.MEL
+  Śrīmad-Bhāgavatam 6.1.1-4 -- May 20, 1975, Melbourne
+  750520SB.MEL
+  Room Conversation with Dr. Copeland, Professor of Modern Indian History -- May 20, 1975, Melbourne
+  750520R1.MEL
+  Morning Walk -- May 21, 1975, Melbourne
+  750521MW.MEL
+  Śrīmad-Bhāgavatam 6.1.1 -- May 21, 1975, Melbourne
+  750521SB.MEL
+  Room Conversation with Director of Research of the Dept. of Social Welfare -- May 21, 1975, Melbourne
+  750521R1.MEL
+  Morning Walk in Botanical Gardens -- May 22, 1975, Melbourne
+  750522MW.MEL
+  Śrīmad-Bhāgavatam 6.1.1-2 -- May 22, 1975, Melbourne
+  750522SB.MEL
+  Room Conversation with Two Lawyers and Photographer -- May 22, 1975, Melbourne
+  750522R1.MEL
+  Room Conversation with Raymond Lopez, Wally Strobes, Bob Bourne -- May 22, 1975, Melbourne
+  750522R2.MEL
+  Morning Walk in the Botanical Gardens -- May 23, 1975, Melbourne
+  750523MW.MEL
+  Bhagavad-gītā 7.1 -- May 24, 1975, Fiji
+  750524BG.FIJ
+  Radio Interview -- May 25, 1975, Fiji
+  750525IV.FIJ
+  Arrival Lecture on Farm -- May 25, 1975, Honolulu
+  750525AR.HON
+  Lecture after Prahlāda-caritra Play -- May 25, 1975, Honolulu
+  750525LE.HON
+  Morning Walk on Waikiki Beach -- May 27, 1975, Honolulu
+  750527MW.HON
+  Morning Walk on Waikiki Beach -- May 28, 1975, Honolulu
+  750528MW.HON
+  Morning Walk on Waikiki Beach -- May 29, 1975, Honolulu
+  750529MW.HON
+  Morning Walk on Waikiki Beach -- May 31, 1975, Honolulu
+  750531MW.HON
+  June
+  Śrīmad-Bhāgavatam 3.28.1--Sunday Feast -- June 1, 1975, Honolulu
+  750601SB.HON
+  Morning Walk in the Botanical Gardens -- June 2, 1975, Honolulu
+  750602MW.HON
+  Initiation of Ambarīṣa dāsa -- June 3, 1975, Honolulu
+  750603IN-HON
+  Morning Walk at Waikiki Beach -- June 4, 1975, Honolulu
+  750604MW.HON
+  Morning Walk on Kailua Beach -- June 7, 1975, Honolulu
+  750607MW.HON
+  Room Conversation with Yogi Bhajan -- June 7, 1975, Honolulu
+  750607R1.HON
+  Morning Walk at Kailua Beach -- June 8, 1975, Honolulu
+  750608MW.HON
+  Śrīmad-Bhāgavatam 6.1.6-7 -- June 8, 1975, Honolulu
+  750608SB.HON
+  Morning Walk -- June 10, 1975, Honolulu
+  750610MW.HON
+  Morning Walk -- June 11, 1975, Honolulu
+  750611MW.HON
+  Talk during massage -- June 11, 1975, Honolulu
+  750611R1.HON
+  Room Conversation -- June 12, 1975, Honolulu
+  750612R1.HON
+  Morning Walk -- June 14, 1975, Honolulu
+  750614MW.HON
+  Room Conversation -- June 14, 1975, Honolulu
+  750614R1.HON
+  Morning Walk -- June 15, 1975, Honolulu
+  750615MW.HON
+  Conversation About Educational System -- June 15, 1975, Honolulu
+  750615R1-HON
+  Room Conversation – June 15, 1975, Honolulu
+  750615R2.HON
+  Room Conversation II – June 15, 1975, Honolulu
+  750615R3.HON
+  Room Conversation III – June 15, 1975, Honolulu
+  750615R4.HON
+  Śrīmad-Bhāgavatam 6.1.7 -- June 15, 1975, Honolulu
+  750615SB.HON
+  Morning Walk -- June 16, 1975, Honolulu
+  750616MW.HON
+  Room Conversation with Govinda Dāsī -- June 16, 1975, Honolulu
+  750616R1.HON
+  Room Conversation -- June 16, 1975, Honolulu
+  750616R2.HON
+  Room Conversation About Making Deities-- June 16, 1975, Honolulu
+  750616R3.HON
+  Room Conversation about Modern Society-- June 16, 1975, Honolulu
+  750616R4.HON
+  Morning Walk -- June 17, 1975, Honolulu
+  750617MW.HON
+  Room Conversation – June 17, 1975, Honolulu
+  750617R1.HON
+  Morning Walk -- June 18, 1975, Honolulu,
+  750618MW.HON
+  Room Conversation – June 18, 1975, Honolulu
+  750618R1-HON
+  Morning Walk -- June 19, 1975, Honolulu
+  750619MW.HON
+  Departure -- June 20, 1975, Honolulu
+  750620DP.HON
+  Car Conversation -- June 20, 1975, Honolulu
+  750620CR.HON
+  Arrival Conversation in Car &amp; Room -- June 20, 1975, Los Angeles
+  750620AR.LA
+  Arrival Address -- June 20, 1975, Los Angeles
+  750620A2.LA
+  Morning Walk -- June 21, 1975, Los Angeles
+  750621MW.LA
+  Śrīmad-Bhāgavatam 6.1.8 -- June 21, 1975, Los Angeles
+  750621SB.LA
+  Morning Walk -- June 22, 1975, Los Angeles
+  750622MW.LA
+  Śrīmad-Bhāgavatam 6.1.9 -- June 22, 1975, Los Angeles
+  750622SB.LA
+  Garden Conversation with Dr. Allen Gerson -- June 22, 1975, Los Angeles
+  750622GC.LA
+  Morning Walk -- June 23, 1975, Los Angeles
+  750623MW.LA
+  Śrīmad-Bhāgavatam 6.1.10 -- June 23, 1975, Los Angeles
+  750623SB.LA
+  Room Conversation with Dr. John Mize -- June 23, 1975, Los Angeles
+  750623R1.LA
+  Morning Walk -- June 24, 1975, Los Angeles
+  750624MW.LA
+  Garden Conversation with Professors -- June 24, 1975, Los Angeles
+  750624GC.LA
+  Morning Walk -- June 25, 1975, Los Angeles
+  750625MW.LA
+  Śrīmad-Bhāgavatam 6.1.12 -- June 25, 1975, Los Angeles
+  750625SB.LA
+  Morning Walk -- June 26, 1975, Los Angeles
+  750626MW.LA
+  Śrīmad-Bhāgavatam 6.1.13-14 -- June 26, 1975, Los Angeles
+  750626SB.LA
+  Room Conversation -- June 26, 1975, Los Angeles
+  750626R2.LA
+  Room Conversation II -- June 26, 1975, Los Angeles
+  750626R1.LA
+  Morning Walk -- June 27, 1975, Los Angeles
+  750627MW.LA
+  Śrīmad-Bhāgavatam 6.1.15 -- June 27, 1975, Los Angeles
+  750627SB.LA
+  Departure Conversation -- June 27, 1975, Los Angeles
+  750627DP.LA
+  Arrival Address -- June 27, 1975, Denver
+  750627AR.DEN
+  Morning Walk -- June 28, 1975, Denver
+  750628MW.DEN
+  Śrīmad-Bhāgavatam 6.1.15 -- June 28, 1975, Denver
+  750628SB.DEN
+  Morning Walk -- June 29, 1975, Denver
+  750629MW.DEN
+  Śrīmad-Bhāgavatam 6.1.16 -- June 29, 1975, Denver
+  750629SB.DEN
+  Śrīmad-Bhāgavatam 1.2.6 -- Sunday Feast -- June 29, 1975, Denver
+  750629SF.DEN
+  Morning Walk -- June 30, 1975, Denver
+  750630MW.DEN
+  Śrīmad-Bhāgavatam 6.1.17 -- June 30, 1975, Denver
+  750630SB.DEN
+  July
+  Morning Walk -- July 1, 1975, Denver
+  750701MW.DEN
+  Śrīmad-Bhāgavatam 6.1.18 -- July 1, 1975, Denver
+  750701SB.DEN
+  Morning Walk -- July 2, 1975, Denver
+  750702MW.DEN
+  Śrīmad-Bhāgavatam 6.1.19 -- July 2, 1975, Denver
+  750702SB.DEN
+  Morning Walk -- July 3, 1975, Denver
+  750703MW.DEN
+  Arrival -- July 3, 1975, Chicago
+  750703AR.CHI
+  Morning Walk -- July 4, 1975, Chicago
+  750704MW.CHI
+  Śrīmad-Bhāgavatam 6.1.20 -- July 4, 1975, Chicago
+  750704SB.CHI
+  Room Conversation with the Mayor of Evanston -- July 4, 1975, Chicago
+  750704R1.CHI
+  Morning Walk -- July 5, 1975, Chicago
+  750705MW.CHI
+  Śrīmad-Bhāgavatam 6.1.21 -- July 5, 1975, Chicago
+  750705SB.CHI
+  Room Conversation with Lt. Mozee, Policeman -- July 5, 1975, Chicago
+  750705R2.CHI
+  Room Conversation with Mr. &amp; Mrs. Wax -- July 5, 1975, Chicago
+  750705R1.CHI
+  Morning Walk -- July 6, 1975, Chicago
+  750706MW.CHI
+  Śrīmad-Bhāgavatam 6.1.22 -- July 6, 1975, Chicago
+  750706SB.CHI
+  Morning Walk -- July 7, 1975, Chicago
+  750707MW.CHI
+  Śrīmad-Bhāgavatam 6.1.23 -- July 7, 1975, Chicago
+  750707SB.CHI
+  Morning Walk -- July 8, 1975, Chicago
+  750708MW.CHI
+  Śrīmad-Bhāgavatam 6.1.24 -- July 8, 1975, Chicago
+  750708SB.CHI
+  Television Interview -- July 9, 1975, Chicago
+  750709IV.CHI
+  Morning Walk -- July 9, 1975, Chicago
+  750709MW.CHI
+  Śrīmad-Bhāgavatam 6.1.25 -- July 9, 1975, Chicago
+  750709SB.CHI
+  Press Conference -- July 9, 1975, Chicago
+  750709PC.CHI
+  Room Conversation after Press Conference -- July 9, 1975, Chicago
+  750709R1.CHI
+  Morning Walk -- July 10, 1975, Chicago
+  750710MW.CHI
+  Lecture and Initiation -- July 10, 1975, Chicago
+  750710IN.CHI
+  Room Conversation with City Counselor -- July 10, 1975, Chicago
+  750710R1.CHI
+  Morning Walk -- July 11, 1975, Chicago
+  750711MW.CHI
+  Śrīmad-Bhāgavatam 6.1.26 -- July 11, 1975, Chicago
+  750711SB.CHI
+  Bābājī Initiation -- July 11, 1975, Chicago
+  750711IN.CHI
+  Arrival -- July 11, 1975, Philadelphia
+  750711AR.PHI
+  Arrival Lecture -- July 11, 1975, Philadelphia
+  750711A2.PHI
+  Morning Walk -- July 12, 1975, Philadelphia
+  750712MW.PHI
+  Śrīmad-Bhāgavatam 6.1.26-27 -- Philadelphia, July 12, 1975
+  750712SB.PHI
+  Ratha-yātrā -- July 12, 1975, Philadelphia
+  750712RY.PHI
+  Śrīmad-Bhāgavatam 6.1.28-29 -- July 13, 1975, Philadelphia
+  750713SB.PHI
+  Room Conversation with Reporter Sandy Nixon and Anne Jackson -- July 13, 1975, Philadelphia
+  750713R2.PHI
+  Room Conversation with Bernard Manischewitz -- July 13, 1975, Philadelphia
+  750713R3.PHI
+  Conversation with Professor Hopkins -- July 13, 1975, Philadelphia
+  750713R1.PHI
+  Morning Walk -- July 14, 1975, Philadelphia
+  750714MW.PHI
+  Śrīmad-Bhāgavatam 6.1.30 -- July 14, 1975, Philadelphia
+  750714SB.PHI
+  Arrival Lecture -- July 15, 1975, San Francisco
+  750715AR.SF
+  Morning Walk -- July 16, 1975, San Francisco
+  750716MW.SF
+  Śrīmad-Bhāgavatam 6.1.31 -- July 16, 1975, San Francisco
+  750716SB.SF
+  Press Conference -- July 16, 1975, San Francisco
+  750716PC.SF
+  Morning Walk -- July 17, 1975, San Francisco
+  750717MW.SF
+  Śrīmad-Bhāgavatam 6.1.32 -- July 17, 1975, San Francisco
+  750717SB.SF
+  Morning Walk -- July 18, 1975, San Francisco
+  750718MW.SF
+  Śrīmad-Bhāgavatam 6.1.33 -- July 18, 1975, San Francisco
+  750718SB.SF
+  Morning Walk -- July 19, 1975, San Francisco
+  750719MW.SF
+  Śrīmad-Bhāgavatam 6.1.37 -- July 19, 1975, San Francisco
+  750719SB.SF
+  Morning Walk -- July 20, 1975, San Francisco
+  750720MW.SF
+  Śrīmad-Bhāgavatam 6.1.39 -- July 20, 1975, San Francisco
+  750720SB.SF
+  Morning Walk -- July 21, 1975, San Francisco
+  750721MW.SF
+  Śrīmad-Bhāgavatam 6.1.40 -- July 21, 1975, San Francisco
+  750721SB.SF
+  Gurudāsa Sannyāsa and Harināma Initiations -- July 21, 1975, San Francisco
+  750721IN.SF
+  Room Conversation With Yogi Bhajan and Jain Muni -- July 21, 1975, San Francisco
+  750721R1.SF
+  Śrīmad-Bhāgavatam 6.1.41 – July 22, 1975 , Los Angeles
+  750722SB.LA
+  Śrīmad-Bhāgavatam 6.1.42 -- July 23, 1975, Los Angeles
+  750723SB.LA
+  Morning Walk -- July 24, 1975, Los Angeles
+  750724MW.LA
+  Śrīmad-Bhāgavatam 6.1.43 -- July 24, 1975, Los Angeles
+  750724SB.LA
+  Morning Walk -- July 25, 1975, Los Angeles
+  750725MW.LA
+  Śrīmad-Bhāgavatam 6.1.44 -- July 25, 1975, Los Angeles
+  750725SB.LA
+  Morning Walk -- July 26, 1975, Laguna Beach
+  750726MW.LB
+  Śrīmad-Bhāgavatam 6.1.45 -- July 26, 1975, Laguna Beach
+  750726SB.LB
+  Room Conversation with Prof. Servas -- July 26, 1975, Laguna Beach
+  750726R1.LB
+  Morning Walk -- July 27, 1975, San Diego
+  750727MW.SD
+  Śrīmad-Bhāgavatam 6.1.46 -- July 27, 1975, San Diego
+  750727SB.SD
+  Morning Walk -- July 28, 1975, San Diego
+  750728MW.SD
+  Press Conference at Airport -- July 28, 1975, Dallas
+  750728PC.DAL
+  Morning Walk -- July 29, 1975, Dallas
+  750729MW.DAL
+  Śrīmad-Bhāgavatam 6.1.47 -- July 29, 1975, Dallas
+  750729SB.DAL
+  Morning Walk -- July 30, 1975, Dallas
+  750730MW.DAL
+  Śrīmad-Bhāgavatam 6.1.48 -- July 30, 1975, Dallas
+  750730SB.DAL
+  Morning Walk -- July 31, 1975, Dallas
+  750731MW.DAL
+  Room Conversation -- July 31, 1975, New Orleans
+  750731R1.NO
+  August
+  Walk Around Farm -- August 1, 1975, New Orleans
+  750801MF.NO
+  Śrīmad-Bhāgavatam 6.1.49 -- August 1, 1975, New Orleans Farm
+  750801SB.NO
+  Room Conversation with Devotees -- August 1, 1975, New Orleans
+  750801R1.NO
+  Car Conversation -- August 3, 1975, Detroit
+  750803CC.DET
+  Śrīmad-Bhāgavatam 6.1.50 -- August 3, 1975, Detroit
+  750803SB.DET
+  Śrīmad-Bhāgavatam 1.2.9 University Lecture -- August 3, 1975, Detroit
+  750803S2.DET
+  Morning Walk -- August 4, 1975, Detroit
+  750804MW.DET
+  Śrīmad-Bhāgavatam 6.1.51 -- August 4, 1975, Detroit
+  750804SB.DET
+  Morning Walk -- August 5, 1975, Detroit
+  750805MW.DET
+  Śrīmad-Bhāgavatam 6.1.52 -- August 5, 1975, Detroit
+  750805SB.DET
+  Morning Walk -- August 6, 1975, Detroit
+  750806MW.DET
+  Morning Walk -- August 7, 1975, Toronto
+  750807MW.TOR
+  Śrīmad-Bhāgavatam, Canto Six Dictation -- August 11, 1975, Paris
+  750811DT.PAR
+  Arrival Address -- August 11, 1975, Paris
+  750811AR.PAR
+  Śrīmad-Bhāgavatam 6.1.55 -- August 11, 1975, Paris
+  750811SB.PAR
+  Morning Walk -- August 12, 1975, Paris
+  750812MW.PAR
+  Room Conversation [with French translator] -- August 12, 1975, Paris
+  750812R1.PAR
+  Morning Walk [partially recorded] -- August 13, 1975, London
+  750813MW.LON
+  Śrīmad-Bhāgavatam 6.1.55 -- August 13, 1975, London
+  750813SB.LON
+  Śrīmad-Bhāgavatam 6.1.56-57 -- August 14, 1975, Bombay
+  750814SB.BOM
+  Morning Walk -- August 15, 1975, Bombay
+  750815MW.BOM
+  Morning Walk [partially recorded] -- August 17, 1975, Bombay
+  750817MW.BOM
+  Śrīmad-Bhāgavatam 6.1.58 -- [Hindi-final proofreading pending] -- August 19, 1975, Bombay
+  750819SB.BOM
+  Room Conversation with Lalita Bose -- August 21, 1975, Bombay
+  750821R1.BOM
+  Morning Walk -- August 24, 1975, Delhi
+  750824MW.DEL
+  Morning Walk -- August 25, 1975, Vṛndāvana
+  750825MW.VRN
+  Room Conversation -- August 26, 1975, Vṛndāvana
+  750826R1.VRN
+  Bhagavad-gītā 7.1 in [Hindi-final proofreading pending] -- August 26, 1975, Vṛndāvana
+  750826BG.VRN
+  Morning Walk -- August 27, 1975, Vṛndāvana
+  750827MW.VRN
+  Morning Walk -- August 28, 1975, Vṛndāvana
+  750828MW.VRN
+  Śrīmad-Bhāgavatam 6.1.61 -- August 28, 1975, Vṛndāvana
+  750828SB.VRN
+  Morning Walk -- August 29, 1975, Vṛndāvana
+  750829MW.VRN
+  Śrīmad-Bhāgavatam 6.1.62 -- August 29, 1975, Vṛndāvana
+  750829SB.VRN
+  Bhagavad-gītā Lecture -- [Hindi-final proofreading pending] -- August 29, 1975, Vṛndāvana
+  750829BG.VRN
+  Śrīmad-Bhāgavatam 6.1.63 -- August 30, 1975, Vṛndāvana
+  750830SB.VRN
+  Bhagavad-gītā 7.3 -- [Hindi-final proofreading pending] -- August 30, 1975, Vṛndāvana
+  750830BG.VRN
+  Lecture -- [Hindi-final proofreading pending] -- August 31, 1975, Vṛndāvana
+  750831LE.VRN
+  September
+  Morning Walk -- September 1, 1975, Vṛndāvana
+  750901MW.VRN
+  Śrīmad-Bhāgavatam 6.1.64-65 -- September 1, 1975, Vṛndāvana
+  750901SB.VRN
+  Śrīmad-Bhāgavatam 6.1.66 -- September 2, 1975, Vṛndāvana
+  750902SB.VRN
+  Morning Walk -- September 3, 1975, Vṛndāvana
+  750903MW.VRN
+  Śrīmad-Bhāgavatam 6.1.67 -- September 3, 1975, Vṛndāvana
+  750903SB.VRN
+  Morning Walk -- September 4, 1975, Vṛndāvana
+  750904MW.VRN
+  Śrīmad-Bhāgavatam 6.1.68 -- September 4, 1975, Vṛndāvana
+  750904SB.VRN
+  Morning Walk [partially recorded] -- September 5, 1975, Vṛndāvana
+  750905MW.VRN
+  Śrīmad-Bhāgavatam 6.2.1 -- September 5, 1975, Vṛndāvana
+  750905SB.VRN
+  Morning Walk -- September 6, 1975, Vṛndāvana
+  750906MW.VRN
+  Śrīmad-Bhāgavatam 6.2.2 -- September 6, 1975, Vṛndāvana
+  750906SB.VRN
+  Śrīmad-Bhāgavatam 6.2.3 -- September 7, 1975, Vṛndāvana
+  750907SB.VRN
+  Śrīmad-Bhāgavatam 6.2.4 -- September 8, 1975, Vṛndāvana
+  750908SB.VRN
+  Morning Walk -- September 9, 1975, Vṛndāvana
+  750909MW.VRN
+  Śrīmad-Bhāgavatam 6.2.5-6 -- September 9, 1975, Vṛndāvana
+  750909SB.VRN
+  Śrīmad-Bhāgavatam 6.2.7 -- September 10, 1975, Vṛndāvana
+  750910SB.VRN
+  Śrīmad-Bhāgavatam 6.2.8 -- September 11, 1975, Vṛndāvana
+  750911SB.VRN
+  Morning Walk -- September 13, 1975, Vṛndāvana
+  750913MW.VRN
+  Śrīmad-Bhāgavatam 6.2.11 -- September 13, 1975, Vṛndāvana
+  750913SB.VRN
+  Lecture -- [Hindi-final proofreading pending] -- September 13, 1975, Vṛndāvana
+  750913LE.VRN
+  Morning Walk -- September 15, 1975, Vṛndāvana
+  750915MW.VRN
+  Śrīmad-Bhāgavatam 6.2.13 -- September 15, 1975, Vṛndāvana
+  750915SB.VRN
+  Morning Walk [partially recorded] -- September 17, 1975, Vṛndāvana
+  750917MW.VRN
+  Śrīmad-Bhāgavatam 6.2.14 -- September 17, 1975, Vṛndāvana
+  750917SB.VRN
+  Morning Walk -- September 18, 1975, Vṛndāvana
+  750918MW.VRN
+  Śrīmad-Bhāgavatam 6.2.15 -- September 18, 1975, Vṛndāvana
+  750918SB.VRN
+  Morning Walk -- September 19, 1975, Vṛndāvana
+  750919MW.VRN
+  Śrīmad-Bhāgavatam 6.2.16 -- September 19, 1975, Vṛndāvana
+  750919SB.VRN
+  Śrīmad-Bhāgavatam 6.2.17 -- September 20, 1975, Vṛndāvana
+  750920SB.VRN
+  Morning Walk -- September 25, 1975, Ahmedabad
+  750925MW.AHM
+  Bhagavad-gītā 7.1 in [Hindi-final proofreading pending] -- September 25, 1975, Ahmedabad
+  750925BG.AHM
+  Morning Walk -- September 26, 1975, Ahmedabad
+  750926MW.AHM
+  Morning Walk -- September 27, 1975, Ahmedabad
+  750927MW.AHM
+  Śrīmad-Bhāgavatam 1.2.6 in [Hindi-final proofreading pending] -- September 27, 1975, Ahmedabad
+  750927SB.AHM
+  Room Conversation in [Hindi-final proofreading pending] -- September 27, 1975, Ahmedabad
+  750927R1.AHM
+  Morning Walk -- September 29, 1975, Ahmedabad
+  750929MW.AHM
+  Morning Walk -- September 30, 1975, Bombay
+  750930MW.BOM
+  October
+  Arrival Reception -- October 1, 1975, Mauritius
+  751001A2.MAU
+  Arrival Address -- October 1, 1975, Mauritius
+  751001AR.MAU
+  Bhagavad-gītā 2.11 -- October 1, 1975, Mauritius
+  751001BG.MAU
+  Morning Walk -- October 2, 1975, Mauritius
+  751002MW.MAU
+  Śrīmad-Bhāgavatam 7.5.30 -- October 2, 1975, Mauritius
+  751002SB.MAU
+  Press Conference -- October 2, 1975, Mauritius
+  751002PC.MAU
+  Morning Walk -- October 3, 1975, Mauritius
+  751003MW.MAU
+  Morning Walk -- October 4, 1975, Mauritius
+  751004MW.MAU
+  Śrīmad-Bhāgavatam 7.5.31 -- October 4, 1975, Mauritius
+  751004SB.MAU
+  Room Conversation -- October 4, 1975, Mauritius
+  751004R1.MAU
+  Morning Walk -- October 5, 1975, Mauritius
+  751005MW.MAU
+  Śrīmad-Bhāgavatam 1.2.6 -- October 5, 1975, Mauritius
+  751005SB.MAU
+  Room Conversation -- October 5, 1975, Mauritius
+  751005R1.MAU
+  Morning Walk -- October 6, 1975, Durban
+  751006MW.DUR
+  Morning Walk -- October 7, 1975, Durban
+  751007MW.DUR
+  City Hall Lecture -- October 7, 1975, Durban
+  751007LE.DUR
+  Morning Walk -- October 8, 1975, Durban
+  751008MW.DUR
+  Room Conversation with Professors of the University of Durban -- October 8, 1975, Durban
+  751008R2.DUR
+  Room Conversation with Bill Faill [reporter] -- October 8, 1975, Durban
+  751008R1.DUR
+  Morning Walk -- October 9, 1975, Durban
+  751009MW.DUR
+  Bhagavad-gītā 7.1 -- October 9, 1975, Durban
+  751009BG.DUR
+  Morning Walk -- October 10, 1975, Durban
+  751010MW.DUR
+  Bhagavad-gītā 18.45 -- October 11, 1975, Durban
+  751011BG.DUR
+  Room Conversation with Professor Olivier -- October 10, 1975, Durban
+  751010R1.DUR
+  Morning Walk -- October 12, 1975, Durban
+  751012MW.DUR
+  Morning Walk -- October 13, 1975, Durban
+  751013MW.DUR
+  Bhagavad-gītā 13.1-3 -- October 13, 1975, Durban
+  751013BG.DUR
+  Car ride from Durban to Johannesburg -- October 13, 1975, Durban
+  751013CR.DUR
+  Śrīmad-Bhāgavatam 1.7.2-4 -- October 14, 1975, Johannesburg
+  751014SB.JOH
+  Lecture -- October 14, 1975, Johannesburg
+  751014LE.JOH
+  Room Conversation -- October 14, 1975, Johannesburg
+  751014R1.JOH
+  Śrīmad-Bhāgavatam 1.7.5-6 -- October 15, 1975, Johannesburg
+  751015SB.JOH
+  Conversation -- October 15, 1975, Johannesburg
+  751015R1.JOH
+  Morning Walk -- October 16, 1975, Johannesburg
+  751016MW.JOH
+  Room Conversation with Reporter of The Star -- October 16, 1975, Johannesburg
+  751016R1.JOH
+  Room Conversation -- October 17, 1975, Johannesburg
+  751017R1.JOH
+  Morning Walk -- October 17, 1975, Johannesburg
+  751017MW.JOH
+  Bhagavad-gītā 2.1-11 -- October 17, 1975, Johannesburg
+  751017BG.JOH
+  Morning Walk -- October 18, 1975, Johannesburg
+  751018MW.JOH
+  Bhagavad-gītā 16.6 -- October 18, 1975, Johannesburg
+  751018BG.JOH
+  Morning Walk -- October 19, 1975, Johannesburg
+  751019MW.JOH
+  Bhagavad-gītā 4.13 -- October 19, 1975, Johannesburg
+  751019BG.JOH
+  Morning Walk -- October 20, 1975, Johannesburg
+  751020MW.JOH
+  Śrīmad-Bhāgavatam 5.5.1 -- October 20, 1975, Johannesburg
+  751020SB.JOH
+  Morning Walk -- October 21, 1975, Johannesburg
+  751021MW.JOH
+  Room Conversation with Documentary Maker -- October 21, 1975, Johannesburg
+  751021R1.JOH
+  Śrīmad-Bhāgavatam 5.5.2 -- October 22, 1975, Johannesburg
+  751022SB.JOH
+  Morning Walk -- October 25, 1975, Mauritius
+  751025MW.MAU
+  Morning Walk -- October 26, 1975, Mauritius
+  751026MW.MAU
+  Śrīmad-Bhāgavatam 3.28.17 -- October 26, 1975, Nairobi
+  751026SB.NAI
+  Śrīmad-Bhāgavatam 3.28.18 -- October 27, 1975, Nairobi
+  751027SB.NAI
+  Bhagavad-gītā 7.1 -- October 27, 1975, Nairobi
+  751027BG.NAI
+  Morning Walk -- October 28, 1975, Nairobi
+  751028MW.NAI
+  Bhagavad-gītā 7.2 -- October 28, 1975, Nairobi
+  751028BG.NAI
+  Morning Walk -- October 29, 1975, Nairobi
+  751029MW.NAI
+  Śrīmad-Bhāgavatam 3.28.19 -- October 29, 1975, Nairobi
+  751029SB.NAI
+  Room Conversation -- October 29, 1975, Nairobi
+  751029R2.NAI
+  Room Conversation II -- October 29, 1975, Nairobi
+  751029R1.NAI
+  Bhagavad-gītā 7.3 -- October 29, 1975, Nairobi
+  751029BG.NAI
+  Śrīmad-Bhāgavatam 3.28.20 -- October 30, 1975, Nairobi
+  751030SB.NAI
+  Bhagavad-gītā 7.4 -- October 31, 1975, Nairobi
+  751031BG.NAI
+  November
+  Morning Walk -- November 1, 1975, Nairobi
+  751101MW.NAI
+  Śrīmad-Bhāgavatam 3.28.21 -- November 1, 1975, Nairobi
+  751101SB.NAI
+  Bhagavad-gītā 7.5 -- November 1, 1975, Nairobi
+  751101BG.NAI
+  Morning Walk -- November 2, 1975, Nairobi
+  751102MW.NAI
+  Lecture in [Hindi-final proofreading pending] -- November 2, 1975, Bombay
+  751102LE.BOM
+  Morning Walk -- November 3, 1975, Bombay
+  751103MW.BOM
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.101-104 -- November 3, 1975, Bombay
+  751103CC.BOM
+  Morning Walk -- November 4, 1975, Bombay
+  751104MW.BOM
+  Morning Walk -- November 7, 1975, Bombay
+  751107MW.BOM
+  Morning Walk -- November 8, 1975, Bombay
+  751108MW.BOM
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.100-108 -- November 9, 1975, Bombay
+  751109CC.BOM
+  Morning Walk -- November 10, 1975, Bombay
+  751110MW.BOM
+  Morning Walk -- November 11, 1975, Bombay
+  751111MW.BOM
+  Morning Walk -- November 12, 1975, Bombay
+  751112MW.BOM
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.120 -- November 12, 1975, Bombay
+  751112CC.BOM
+  Morning Walk -- November 13, 1975, Bombay
+  751113MW.BOM
+  Morning Walk -- November 14, 1975, Bombay
+  751114MW.BOM
+  Śrīmad-Bhāgavatam 5.5.1 in Hindi -- November 14, 1975, Bombay
+  751114SB.BOM
+  Morning Walk -- November 15, 1975, Bombay
+  751115MW.BOM
+  Lecture in Hindi -- November 15, 1975, Bombay
+  751115LE.BOM
+  Lecture [Hindi and English-final proofreading pending] -- November 15, 1975, Bombay
+  751115LE.BOM
+  Morning Walk -- November 16, 1975, Bombay
+  751116MW.BOM
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.108 -- November 16, 1975, Bombay
+  751116CC.BOM
+  Morning Walk -- November 17, 1975, Bombay
+  751117MW.BOM
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.110-111 -- November 17, 1975, Bombay
+  751117CC.BOM
+  Morning Walk -- November 18, 1975, Bombay
+  751118MW.BOM
+  Sannyāsa Initiation -- November 18, 1975, Bombay
+  751118IN.BOM
+  Morning Walk -- November 19, 1975, Bombay
+  751119MW.BOM
+  Morning Walk -- November 20, 1975, Bombay
+  751120MW.BOM
+  Morning Walk -- November 21, 1975, Bombay
+  751121MW.BOM
+  Morning Walk -- November 24, 1975, Bombay
+  751124MW.BOM
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 6.154 -- November 24, 1975, Bombay
+  751124CC.BOM
+  Room Conversation -- November 25, 1975, Delhi
+  751125R1.DEL
+  Morning Walk -- November 26, 1975, Delhi
+  751126MW.DEL
+  Śrīmad-Bhāgavatam 5.5.1 -- November 28, 1975, Delhi
+  751128SB.DEL
+  Morning Walk -- November 29, 1975, Delhi
+  751129MW.DEL
+  Morning Walk -- November 30, 1975, Delhi
+  751130MW.DEL
+  December
+  Śrīmad-Bhāgavatam 7.6.1 -- December 2, 1975, Vṛndāvana
+  751202SB.VRN
+  Morning Walk -- December 3, 1975, Vṛndāvana
+  751203MW.VRN
+  Śrīmad-Bhāgavatam 7.6.2 -- December 3, 1975, Vṛndāvana
+  751203SB.VRN
+  Morning Walk -- December 4, 1975, Vṛndāvana
+  751204MW.VRN
+  Śrīmad-Bhāgavatam 7.6.3 -- December 4, 1975, Vṛndāvana
+  751204SB.VRN
+  Śrīmad-Bhāgavatam 7.6.4 -- December 5, 1975, Vṛndāvana
+  751205SB.VRN
+  Sannyāsa Initiation Lecture -- December 6, 1975, Vṛndāvana
+  751206LE.VRN
+  Morning Walk -- December 7, 1975, Vṛndāvana
+  751207MW.VRN
+  Śrīmad-Bhāgavatam 7.6.5 -- December 7, 1975, Vṛndāvana
+  751207SB.VRN
+  Śrīmad-Bhāgavatam 7.6.6 -- December 8, 1975, Vṛndāvana
+  751208SB.VRN
+  Morning Walk -- December 9, 1975, Vṛndāvana
+  751209MW.VRN
+  Śrīmad-Bhāgavatam 7.6.7 -- December 9, 1975, Vṛndāvana
+  751209SB.VRN
+  Morning Walk -- December 10, 1975, Vṛndāvana
+  751210MW.VRN
+  Śrīmad-Bhāgavatam 7.6.8 -- December 10, 1975, Vṛndāvana
+  751210SB.VRN
+  Morning Walk -- December 11, 1975, Vṛndāvana
+  751211MW.VRN
+  Śrīmad-Bhāgavatam 7.6.9 -- December 11, 1975, Vṛndāvana
+  751211SB.VRN
+  Morning Walk -- December 12, 1975, Vṛndāvana
+  751212MW.VRN
+  Śrīmad-Bhāgavatam 7.6.10 -- December 12, 1975, Vṛndāvana
+  751212SB.VRN
+  Morning Walk -- December 14, 1975, New Delhi
+  751214MW.DEL
+  Room Conversation -- December 14, 1975, New Delhi
+  751214R1.DEL
+  Morning Walk -- December 16, 1975, Bombay
+  751216MW.BOM
+  Engagement at Birla House, Śrīmad-Bhāgavatam 7.6.1 -- December 16, 1975, Bombay
+  751216LE.BOM
+  Morning Walk -- December 17, 1975, Bombay
+  751217MW.BOM
+  Morning Walk -- December 18, 1975, Bombay
+  751218MW.BOM
+  Morning Walk -- December 19, 1975, Bombay
+  751219MW.BOM
+  Morning Walk -- December 20, 1975, Bombay
+  751220MW.BOM
+  Bhagavad-gītā 7.1 -- December 20, 1975, Bombay
+  751220BG.BOM
+  Bhaktisiddhānta Sarasvatī Disappearance Day, Bhagavad-gītā 16.7 -- December 22, 1975, Bombay
+  751222DB.BOM
+  Morning Walk -- December 23, 1975, Bombay
+  751223MW.BOM
+  Morning Walk -- December 24, 1975, Bombay
+  751224MW.BOM
+  Lecture in [Hindi-final proofreading pending] -- December 24, 1975, Sanand
+  751224LE.SAN
+  Morning Walk -- December 25, 1975, Sanand
+  751225MW.SAN
+  Bhagavad-gītā 7.1 [with Translator] -- December 25, 1975, Sanand
+  751225BG.SAN
+  Morning Walk -- December 26, 1975, Sanand
+  751226MW.SAN
+  Kirtan &amp; Lecture in [Hindi-final proofreading pending] -- December 26, 1975, Sanand
+  751226LE.SAN
+  Bhagavad-gītā 16.7 [with translator] -- December 26, 1975, Sanand
+  751226BG.SAN
+  Conversation on Roof -- December 26, 1975, Sanand
+  751226RF.SAN
+  Bhagavad-gītā 7.7 [with Translator] -- December 27, 1975, Sanand
+  751227B2.SAN
+  Bhagavad-gītā 3.14 [with translator] -- December 27, 1975, Sanand
+  751227BG.SAN
+  Bhagvad-gītā 7.2 in [Hindi-final proofreading pending] -- December 28, 1975, Sanand
+  751228BG.SAN
