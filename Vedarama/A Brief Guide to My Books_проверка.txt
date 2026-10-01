@@ -1,0 +1,13 @@
+Книга: A Brief Guide to My Books
+Адрес: https://vedarama.com/en/books/ad-abgtmb
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 26313; в .md: 26313
+Первый заголовок: A Brief Guide to My Books
+Последний заголовок: A Brief Guide to My Books
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+A Brief Guide to My Books
+  A Brief Guide to My Books
