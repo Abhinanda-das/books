@@ -1,0 +1,1435 @@
+Книга: 1976
+Адрес: https://vedarama.com/en/books/1976
+Страниц сайта: 1422; заголовков: 1423; текстов: 1; картинок: 0 + обложка
+Глав по MCP: 12
+Букв в исходнике: 9520128; в .md: 9520128
+Первый заголовок: 1976
+Последний заголовок: 761231R2.BOM
+
+ЗАМЕЧАНИЯ:
+  - У «1976» нет содержимого (только заголовок).
+
+Оглавление выгрузки:
+1976
+  January
+  Bhagavad-gītā 3.27 -- January 1, 1976, Madras
+  760101BG.MAD
+  Morning Walk -- January 2, 1976, Madras
+  760102MW.MAD
+  Śrīmad-Bhāgavatam 7.6.1 -- January 2, 1976, Madras
+  760102SB.MAD
+  Morning Walk -- January 3, 1976, Nellore
+  760103MW.NEL
+  Room Conversation -- January 3, 1976, Nellore
+  760103R1.NEL
+  Morning Walk -- January 4, 1976, Nellore
+  760104MW.NEL
+  Lecture -- January 4, 1976, Nellore
+  760104LE.NEL
+  Śrīmad-Bhāgavatam 6.1.6 -- January 5, 1976, Nellore
+  760105SB.NEL
+  Morning Walk -- January 6, 1976, Nellore
+  760106MW.NEL
+  Śrīmad-Bhāgavatam 6.1.9 -- January 7, 1976, Nellore
+  760107SB.NEL
+  Room Conversation -- January 7, 1976, Nellore
+  760107R1.NEL
+  Morning Walk -- January 8, 1976, Nellore
+  760108MW.NEL
+  Śrīmad-Bhāgavatam 6.1.15 -- January 8, 1976, Nellore
+  760108SB.NEL
+  Room Conversation -- January 8, 1976, Nellore
+  760108R1.NEL
+  Morning Walk -- January 9, 1976, Madras
+  760109MW.MAD
+  Morning Walk -- January 12, 1976, Bombay
+  760112MW.BOM
+  Śrīmad-Bhāgavatam 5.5.1 in Hindi -- January 12, 1976, Bombay
+  760112SB.BOM
+  Morning Walk -- January 13, 1976, Calcutta
+  760113MW.CAL
+  I Śrīmad-Bhāgavatam 5.5.2 in Bengali -- January 13, 1976, Calcutta
+  760113SB.CAL
+  II Śrīmad-Bhāgavatam 5.5.2 in Bengali -- January 14, 1976, Calcutta
+  760114SB.CAL
+  Morning Walk -- January 15, 1976, Calcutta
+  760115MW.CAL
+  Speech [partially recorded] -- January 15, 1976, Māyāpur
+  760115SE.MAY
+  Room Conversation -- January 15, 1976, Māyāpur
+  760115R1.MAY
+  I Morning Walk. Tour of Māyāpur Grounds -- January 16, 1976, Māyāpur
+  760116MW.MAY
+  Room Conversation -- January 16, 1976, Māyāpur
+  760116R1.MAY
+  II Morning Walk. Tour of Māyāpur Grounds -- January 17, 1976, Māyāpur
+  760117MW.MAY
+  Room Conversation -- January 17, 1976, Māyāpur
+  760117R1.MAY
+  Morning Walk -- January 18, 1976, Māyāpur
+  760118MW.MAY
+  Room Conversation -- January 18, 1976, Māyāpur
+  760118R1.MAY
+  Morning Walk -- January 19, 1976, Māyāpur
+  760119MW.MAY
+  Room Conversation -- January 19, 1976, Māyāpur
+  760119R1.MAY
+  Morning Walk -- January 20, 1976, Māyāpur
+  760120MW.MAY
+  Morning Walk -- January 21, 1976, Māyāpur
+  760121MW.MAY
+  Morning Walk -- January 22, 1976, Māyāpur
+  760122MW.MAY
+  Morning Walk -- January 23, 1976, Māyāpur
+  760123MW.MAY
+  February
+  Morning Walk -- February 3, 1976, Māyāpur
+  760203MW.MAY
+  Morning Walk -- February 4, 1976, Māyāpur
+  760204MW.MAY
+  Morning Walk -- February 5, 1976, Māyāpur
+  760205MW.MAY
+  Sannyāsa Initiation of Viraha Prakāśa Swami -- February 5, 1976, Māyāpur
+  760205IN.MAY
+  Morning Walk -- February 6, 1976, Māyāpur
+  760206MW.MAY
+  Śrīmad-Bhāgavatam 7.9.1 -- February 8, 1976, Māyāpur
+  760208SB.MAY
+  Morning Walk -- February 9, 1976, Māyāpur
+  760209MW.MAY
+  Morning Walk -- February 10, 1976, Māyāpur
+  760210MW.MAY
+  Śrīmad-Bhāgavatam 7.9.3 -- February 10, 1976, Māyāpur
+  760210SB.MAY
+  Morning Walk -- February 11, 1976, Māyāpur
+  760211MW.MAY
+  Śrīmad-Bhāgavatam 7.9.4 -- February 11, 1976, Māyāpur
+  760211SB.MAY
+  Morning Walk -- February 12, 1976, Māyāpur
+  760212MW.MAY
+  Śrīmad-Bhāgavatam 7.9.5 -- February 12, 1976, Māyāpur
+  760212SB.MAY
+  Śrīmad-Bhāgavatam 7.9.7 -- February 14, 1976, Māyāpur
+  760214SB.MAY
+  Śrīmad-Bhāgavatam 7.9.8 -- February 15, 1976, Māyāpur
+  760215SB.MAY
+  Śrīmad-Bhāgavatam 7.9.9 -- February 16, 1976, Māyāpur
+  760216SB.MAY
+  Śrīmad-Bhāgavatam 7.9.10 -- February 17, 1976, Māyāpur
+  760217SB.MAY
+  Morning Walk -- February 18, 1976, Māyāpur
+  760218MW.MAY
+  Śrīmad-Bhāgavatam 7.9.11 -- February 18, 1976, Māyāpur
+  760218SB.MAY
+  Morning Walk -- February 19, 1976, Māyāpur
+  760219MW.MAY
+  Śrīmad-Bhāgavatam 7.9.12 -- February 19, 1976, Māyāpur
+  760219SB.MAY
+  Morning Walk -- February 20, 1976, Māyāpur
+  760220MW.MAY
+  Śrīmad-Bhāgavatam 7.9.13 -- February 20, 1976, Māyāpur
+  760220SB.MAY
+  Morning Walk -- February 21, 1976, Māyāpur
+  760221MW.MAY
+  Śrīmad-Bhāgavatam 7.9.14 -- February 21, 1976, Māyāpur
+  760221SB.MAY
+  Śrīla Bhaktisiddhānta Sarasvatī Appearance Day Lecture -- February 21, 1976, Māyāpur
+  760221BA.MAY
+  Morning Walk [partially recorded] -- February 22, 1976, Māyāpur
+  760222MW.MAY
+  Śrīmad-Bhāgavatam 7.9.15 -- February 22, 1976, Māyāpur
+  760222SB.MAY
+  Śrīmad-Bhāgavatam 7.9.16 -- February 23, 1976, Māyāpur
+  760223SB.MAY
+  Śrīmad-Bhāgavatam 7.9.17 -- February 24, 1976, Māyāpur
+  760224SB.MAY
+  Morning Walk [partially recorded] -- February 25, 1976, Māyāpur
+  760225MW.MAY
+  Śrīmad-Bhāgavatam 7.9.18 -- February 25, 1976, Māyāpur
+  760225SB.MAY
+  Morning Walk -- February 26, 1976, Māyāpur
+  760226MW.MAY
+  Śrīmad-Bhāgavatam 7.9.19 -- February 26, 1976, Māyāpur
+  760226SB.MAY
+  Morning Walk -- February 27, 1976, Māyāpur
+  760227MW.MAY
+  Śrīmad-Bhāgavatam 7.9.20 -- February 27, 1976, Māyāpur
+  760227SB.MAY
+  Morning Walk [partially recorded] -- February 28, 1976, Māyāpur
+  760228MW.MAY
+  Śrīmad-Bhāgavatam 7.9.21 -- February 28, 1976, Māyāpur
+  760228SB.MAY
+  Morning Walk [partially recorded] -- February 29, 1976, Māyāpur
+  760229MW.MAY
+  Śrīmad-Bhāgavatam 7.9.22 -- February 29, 1976, Māyāpur
+  760229SB.MAY
+  March
+  Morning Walk -- March 1, 1976, Māyāpur
+  760301MW.MAY
+  Śrīmad-Bhāgavatam 7.9.23 -- March 1, 1976, Māyāpur
+  760301SB.MAY
+  Morning Walk [partially recorded] -- March 2, 1976, Māyāpur
+  760302MW.MAY
+  Śrīmad-Bhāgavatam 7.9.24 -- March 2, 1976, Māyāpur
+  760302SB.MAY
+  Morning Walk [partially recorded] -- March 3, 1976, Māyāpur
+  760303MW.MAY
+  Śrīmad-Bhāgavatam 7.9.26 -- March 4, 1976, Māyāpur
+  760304SB.MAY
+  Morning Walk -- March 5, 1976, Māyāpur
+  760305MW.MAY
+  Śrīmad-Bhāgavatam 7.9.27 -- March 5, 1976, Māyāpur
+  760305SB.MAY
+  Śrīmad-Bhāgavatam 7.9.28 -- March 6, 1976, Māyāpur
+  760306SB.MAY
+  Meeting with Godbrothers in Bengali -- March 6, 1976, Māyāpur
+  760306ME.MAY
+  Morning Walk -- Māyāpur, March 7, 1976
+  760307MW.MAY
+  Śrīmad-Bhāgavatam 7.9.29 -- March 7, 1976, Māyāpur
+  760307SB.MAY
+  Morning Walk -- March 8, 1976, Māyāpur
+  760308MW.MAY
+  Śrīmad-Bhāgavatam 7.9.30 -- March 8, 1976, Māyāpur
+  760308SB.MAY
+  Morning Walk -- March 9, 1976, Māyāpur
+  760309MW.MAY
+  Śrīmad-Bhāgavatam 7.9.31 -- March 9, 1976, Māyāpur
+  760309SB.MAY
+  Morning Walk -- March 10, 1976, Māyāpur
+  760310MW.MAY
+  Śrīmad-Bhāgavatam 7.9.32 -- March 10, 1976, Māyāpur
+  760310SB.MAY
+  Morning Walk -- March 11, 1976, Māyāpur
+  760311MW.MAY
+  Śrīmad-Bhāgavatam 7.9.33 -- March 11, 1976, Māyāpur
+  760311SB.MAY
+  Morning Walk -- March 12, 1976, Māyāpur
+  760312MW.MAY
+  Śrīmad-Bhāgavatam 7.9.34 -- March 12, 1976, Māyāpur
+  760312SB.MAY
+  Morning Walk -- March 13, 1976, Māyāpur
+  760313MW.MAY
+  Śrīmad-Bhāgavatam 7.9.35 -- March 13, 1976, Māyāpur
+  760313SB.MAY
+  Morning Walk -- March 14, 1976, Māyāpur
+  760314MW.MAY
+  Śrīmad-Bhāgavatam 7.9.36 -- March 14, 1976, Māyāpur
+  760314SB.MAY
+  Morning Walk -- March 15, 1976, Māyāpur
+  760315MW.MAY
+  Śrīmad-Bhāgavatam 7.9.37 -- March 15, 1976, Māyāpur
+  760315SB.MAY
+  Morning Walk -- March 16, 1976, Māyāpur
+  760316MW.MAY
+  Śrīmad-Bhāgavatam 7.9.38, Śrī Gaura-Pūrṇimā -- March 16, 1976, Māyāpur
+  760316SB.MAY
+  Sannyāsa and Harināma Initiations -- March 16, 1976, Māyāpur
+  760316IN.MAY
+  Room Conversation With Rādhā-Dāmodara Saṅkīrtana Party -- March 16, 1976, Māyāpur
+  760316R1.MAY
+  Morning Walk -- March 17, 1976, Māyāpur
+  760317MW.MAY
+  Śrīmad-Bhāgavatam 7.9.39 -- March 17, 1976, Māyāpur
+  760317SB.MAY
+  Morning Walk -- March 18, 1976, Māyāpur
+  760318MW.MAY
+  Śrīmad-Bhāgavatam 7.9.40 -- March 18, 1976, Māyāpur
+  760318SB.MAY
+  Morning Walk -- March 19, 1976, Māyāpur
+  760319MW.MAY
+  Śrīmad-Bhāgavatam 7.9.41 -- March 19, 1976, Māyāpur
+  760319SB.MAY
+  Lecture in Bengali -- March 20, 1976, Haridaspur
+  760320LE.HAR
+  Morning Walk -- March 21, 1976, Māyāpur
+  760321MW.MAY
+  Room Conversation in Bengali -- January 22, 1976, Māyāpur
+  760322R1.MAY
+  Śrīmad-Bhāgavatam 7.9.42 -- March 22, 1976, Māyāpur
+  760322SB.MAY
+  Arrival Talk -- March 22, 1976, Calcutta
+  760322AR.CAL
+  Śrīmad-Bhāgavatam 7.9.43 -- March 23, 1976, Calcutta
+  760323SB.CAL
+  Talk at Rādhā-Govinda Mandir -- March 24, 1976, Calcutta
+  760324R1.CAL
+  Morning Walk -- March 25, 1976, Delhi
+  760325MW.DEL
+  Bhagavad-gītā 2.11 -- Rotary Club Address at Hotel Imperial -- March 25, 1976, Delhi
+  760325BG.DEL
+  Conversation with Newspaper Reporters -- March 25, 1976, Delhi
+  760325R1.DEL
+  Morning Walk -- March 26, 1976, Delhi
+  760326MW.DEL
+  Śrīmad-Bhāgavatam 7.9.44 -- March 26, 1976, Delhi
+  760326SB.DEL
+  Śrīmad-Bhāgavatam 7.5.23–24 -- March 31, 1976, Vṛndāvana
+  760331SB.VRN
+  April
+  Śrīmad-Bhāgavatam 7.9.46 -- April 1, 1976, Vṛndāvana
+  760401SB.VRN
+  Morning Walk in the Vṛndāvana Municipal Park [partially recorded] -- April 2, 1976, Vṛndāvana
+  760402MW.VRN
+  Śrīmad-Bhāgavatam 7.9.47 -- April 2, 1976, Vṛndāvana
+  760402SB.VRN
+  Morning Walk [partially recorded] -- April 3, 1976, Vṛndāvana
+  760403MW.VRN
+  Śrīmad-Bhāgavatam 7.9.48 -- April 3, 1976, Vṛndāvana
+  760403SB.VRN
+  Śrīmad-Bhāgavatam 7.9.49 -- April 4, 1976, Vṛndāvana
+  760404SB.VRN
+  Initiation Talk [partially recorded] -- April 4, 1976, Vṛndāvana
+  760404IN.VRN
+  Room Conversation -- April 4, 1976, Vṛndāvana
+  760404R1.VRN
+  Morning Walk -- April 5, 1976, Vṛndāvana
+  760405MW.VRN
+  Śrīmad-Bhāgavatam 7.9.50 -- April 5, 1976, Vṛndāvana
+  760405SB.VRN
+  Room Conversation -- April 5, 1976, Vṛndāvana
+  760405R1.VRN
+  Morning Walk [partially recorded] -- April 6, 1976, Vṛndāvana
+  760406MW.VRN
+  Śrīmad-Bhāgavatam 7.9.51 -- April 6, 1976, Vṛndāvana
+  760406SB.VRN
+  Meeting with Bankers -- April 6, 1976, Vṛndāvana
+  760406ME.VRN
+  Conversation in Hindi -- April 6, 1976, Vṛndāvana
+  760406R1.VRN
+  Room Conversation [partially recorded] -- April 6, 1976, Vṛndāvana
+  760406R2.VRN
+  Morning Walk in Raṅga Gardens -- April 7, 1976, Vṛndāvana
+  760407MW.VRN
+  Śrīmad-Bhāgavatam 7.9.52 -- April 7, 1976, Vṛndāvana
+  760407SB.VRN
+  Lecture to Devotees -- April 7, 1976, Vṛndāvana
+  760407LE.VRN
+  Morning Walk -- April 8, 1976, Vṛndāvana
+  760408MW.VRN
+  Śrīmad-Bhāgavatam 7.9.53 -- April 8, 1976, Vṛndāvana
+  760408SB.VRN
+  Lecture in Hindi -- April 8, 1976, Vṛndāvana
+  760408LE.VRN
+  Speech in Hindi [partially recorded] -- April 8, 1976, Vṛndāvana
+  760408SP.VRN
+  Morning Walk -- April 9, 1976, Vṛndāvana
+  760409MW.VRN
+  Śrīmad-Bhāgavatam 7.9.54 -- April 9, 1976, Vṛndāvana
+  760409SB.VRN
+  Lecture in Hindi -- April 9, 1976, Vṛndāvana
+  760409LE.VRN
+  Morning Walk -- April 10, 1976, Vṛndāvana
+  760410MW.VRN
+  Śrīmad-Bhāgavatam 7.9.55 -- April 10, 1976, Vṛndāvana
+  760410SB.VRN
+  Morning Walk -- April 12, 1976, Bombay
+  760412MW.BOM
+  Śrīmad-Bhāgavatam 7.12.1 -- April 12, 1976, Bombay
+  760412SB.BOM
+  Morning Walk -- April 13, 1976, Bombay
+  760413MW.BOM
+  Śrīmad-Bhāgavatam 7.12.2 -- April 13, 1976, Bombay
+  760413SB.BOM
+  Morning Walk -- April 14, 1976, Bombay
+  760414MW.BOM
+  Śrīmad-Bhāgavatam 7.12.3 -- April 14, 1976, Bombay
+  760414SB.BOM
+  Room Conversation -- April 14, 1976, Bombay
+  760414R1.BOM
+  Morning Walk -- April 15, 1976, Bombay
+  760415MW.BOM
+  Śrīmad-Bhāgavatam 7.12.4 -- April 15, 1976, Bombay
+  760415SB.BOM
+  Morning Walk -- April 16, 1976, Bombay
+  760416MW.BOM
+  Śrīmad-Bhāgavatam 7.12.5 -- April 16, 1976, Bombay
+  760416SB.BOM
+  Morning Walk -- April 17, 1976, Bombay
+  760417MW.BOM
+  Śrīmad-Bhāgavatam 7.12.6 -- April 17, 1976, Bombay
+  760417SB.BOM
+  Room Conversation -- April 17, 1976, Bombay
+  760417R1.BOM
+  Arrival Lecture -- April 19, 1976, Melbourne
+  760419AR.MEL
+  Bhagavad-gītā 9.1 -- April 19, 1976, Melbourne
+  760419BG.MEL
+  Room Conversation &amp; TV Interview with Mike Barron -- April 20, 1976, Melbourne
+  760420R1.MEL
+  Recording of TV Interview [partially recorded] -- April 20, 1976, Melbourne
+  760420R2.MEL
+  Bhagavad-gītā 9.2 -- April 20, 1976, Melbourne
+  760420BG.MEL
+  Morning Walk -- April 21, 1976, Melbourne
+  760421MW.MEL
+  Bhagavad-gītā 9.3 -- April 21, 1976, Melbourne
+  760421BG.MEL
+  Bhagavad-gītā 9.4 -- April 22, 1976, Melbourne
+  760422BG.MEL
+  Room Conversation -- April 22, 1976, Melbourne
+  760422R1.MEL
+  Room Conversation II -- April 22, 1976, Melbourne
+  760422R2.MEL
+  Room Conversation with Guests -- April 22, 1976, Melbourne
+  760422R3.MEL
+  Initiation Lecture [partially recorded] -- April 23, 1976, Melbourne
+  760423IN.MEL
+  Room Conversation with Minister Dixon, State Minister for Social Services -- April 23, 1976, Melbourne
+  760423R1.MEL
+  Room Conversation with Mormons -- April 23, 1976, Melbourne
+  760423R2.MEL
+  Bhagavad-gītā 9.4 -- April 23, 1976, Melbourne
+  760423BG.MEL
+  Morning Walk -- April 24, 1976, Melbourne
+  760424MW.MEL
+  Bhagavad-gītā 9.5 -- April 24, 1976, Melbourne
+  760424BG.MEL
+  Morning Walk -- April 26, 1976, Melbourne
+  760426MW.MEL
+  Bhagavad-gītā 9.10 -- April 26, 1976, Melbourne
+  760426BG.MEL
+  Arrival Address -- April 27, 1976, Auckland, New Zealand
+  760427AR.AUC
+  Press Conference -- April 27, 1976, Auckland, New Zealand
+  760427PC.AUC
+  Room Conversation -- April 27, 1976, Auckland, New Zealand
+  760427R1.AUC
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.98–102 -- April 27, 1976, Auckland, New Zealand
+  760427CC.AUC
+  Room Conversation -- April 30, 1976, Fiji
+  760430R1.FIJ
+  May
+  Room Conversation -- May 1, 1976, Fiji
+  760501R1.FIJ
+  Śrī Śrī Kāliya Kṛṣṇa Deity Installation -- May 2, 1976, Lautoka, Fiji
+  760502DI.FIJ
+  Room Conversation -- May 2, 1976, Fiji
+  760502R1.FIJ
+  Morning Walk -- May 3, 1976, Fiji
+  760503MW.FIJ
+  Room Conversation -- May 3, 1976, Fiji
+  760503R1.FIJ
+  Arrival -- May 3, 1976, Honolulu
+  760503AR.HON
+  Room Conversation with Siddha-svarūpa Follower -- May 3, 1976, Honolulu
+  760503R1.HON
+  Room Conversation -- May 4, 1976, Honolulu
+  760504R1.HON
+  Śrīmad-Bhāgavatam 6.1.1 -- May 5, 1976, Honolulu
+  760505SB.HON
+  Room Conversation -- May 5, 1976, Honolulu
+  760505R1.HON
+  Śrīmad-Bhāgavatam 6.1.2 -- May 6, 1976, Honolulu
+  760506SB.HON
+  Lecture -- May 6, 1976, Honolulu
+  760506LE.HON
+  Śrīmad-Bhāgavatam 6.1.6 -- May 7, 1976, Honolulu
+  760507SB.HON
+  Room Conversation -- May 7, 1976, Honolulu
+  760507R1.HON
+  Śrīmad-Bhāgavatam 6.1.7 -- May 8, 1976, Honolulu
+  760508SB.HON
+  Śrīmad-Bhāgavatam 6.1.8 -- May 9, 1976, Honolulu
+  760509SB.HON
+  Śrīmad-Bhāgavatam 6.1.9 -- May 10, 1976, Honolulu
+  760510SB.HON
+  Śrīmad-Bhāgavatam 6.1.10 -- May 11, 1976, Honolulu
+  760511SB.HON
+  Lecture -- May 11, 1976, Honolulu
+  760511LE.HON
+  Morning Walk -- May 12, 1976, Honolulu
+  760512MW.HON
+  Śrīmad-Bhāgavatam 6.1.11 -- May 12, 1976, Honolulu
+  760512SB.HON
+  Room Conversation -- May 12, 1976, Honolulu
+  760512R1.HON
+  Śrīmad-Bhāgavatam 6.1.12 -- May 13, 1976, Honolulu
+  760513SB.HON
+  Room Conversation -- May 13, 1976, Honolulu
+  760513R1.HON
+  Śrīmad-Bhāgavatam 6.1.13–14 -- May 14, 1976, Honolulu
+  760514SB.HON
+  Morning Walk -- May 15, 1976, Honolulu
+  760515MW.HON
+  Śrīmad-Bhāgavatam 6.1.15 -- May 15, 1976, Honolulu
+  760515SB.HON
+  Room Conversation -- May 15, 1976, Honolulu
+  760515R1.HON
+  Śrīmad-Bhāgavatam 6.1.16 -- May 16, 1976, Honolulu
+  760516SB.HON
+  Śrīmad-Bhāgavatam 6.1.17 -- May 17, 1976, Honolulu
+  760517SB.HON
+  Lecture about Māyāvāda Philosophy -- May 17, 1976, Honolulu
+  760517LE.HON
+  Śrīmad-Bhāgavatam 6.1.18 -- May 18, 1976, Honolulu
+  760518SB.HON
+  Room Conversation -- May 18, 1976, Honolulu
+  760518R2.HON
+  Room Conversation about New Vrindavan -- May 18, 1976, Honolulu
+  760518R1.HON
+  Śrīmad-Bhāgavatam 6.1.19 -- May 19, 1976, Honolulu
+  760519SB.HON
+  Room Conversation -- May 19, 1976, Honolulu
+  760519R1.HON
+  Śrīmad-Bhāgavatam 6.1.20 -- May 20, 1976, Honolulu
+  760520SB.HON
+  Room Conversation -- May 20, 1976, Honolulu
+  760520R1.HON
+  Room Conversation -- May 20, 1976, Honolulu II
+  760520R2.HON
+  Śrīmad-Bhāgavatam 6.1.21 -- May 21, 1976, Honolulu
+  760521SB.HON
+  Room Conversation About Deity-Making and Tulasi Tea -- May 21, 1976, Honolulu
+  760521R1.HON
+  Śrīmad-Bhāgavatam 6.1.22 -- May 22, 1976, Honolulu
+  760522SB.HON
+  Śrīmad-Bhāgavatam 6.1.23 -- May 23, 1976, Honolulu
+  760523SB.HON
+  Śrīmad-Bhāgavatam 6.1.24 -- May 24, 1976, Honolulu
+  760524SB.HON
+  Room Conversation -- May 24, 1976, Honolulu
+  760524R1.HON
+  Morning Walk -- May 25, 1976, Honolulu
+  760525MW.HON
+  Śrīmad-Bhāgavatam 6.1.25 -- May 25, 1976, Honolulu
+  760525SB.HON
+  Morning Walk -- May 26, 1976, Honolulu
+  760526MW.HON
+  Śrīmad-Bhāgavatam 6.1.26 -- May 26, 1976, Honolulu
+  760526SB.HON
+  Morning Walk -- May 27, 1976, Honolulu
+  760527MW.HON
+  Śrīmad-Bhāgavatam 6.1.27 -- May 27, 1976, Honolulu
+  760527SB.HON
+  Morning Walk -- May 28, 1976, Honolulu
+  760528MW.HON
+  Śrīmad-Bhāgavatam 6.1.28–29 -- May 28, 1976, Honolulu
+  760528SB.HON
+  Morning Walk -- May 29, 1976, Honolulu
+  760529MW.HON
+  Śrīmad-Bhāgavatam 6.1.30 -- May 29, 1976, Honolulu
+  760529SB.HON
+  Morning Walk -- May 30, 1976, Honolulu
+  760530MW.HON
+  Śrīmad-Bhāgavatam 6.1.31 -- May 30, 1976, Honolulu
+  760530SB.HON
+  Room Conversation -- May 30, 1976, Honolulu
+  760530R1.HON
+  Morning Walk [partially recorded] -- May 31, 1976, Honolulu
+  760531MW.HON
+  Śrīmad-Bhāgavatam 6.1.32 -- May 31, 1976, Honolulu
+  760531SB.HON
+  Philosophy Discussion with Hayagriva -- May 31, 1976, Honolulu
+  760531R1.HON
+  June
+  Śrīmad-Bhāgavatam 6.1.33 -- June 1, 1976, Honolulu
+  760601SB.HON
+  Śrīmad-Bhāgavatam 6.1.34-36 -- June 2, 1976, Los Angeles
+  760602SB.LA
+  Room Conversation with Reporter -- June 3, 1976, Los Angeles
+  760603IV.LA
+  Morning Walk -- June 3, 1976, Los Angeles
+  760603MW.LA
+  Śrīmad-Bhāgavatam 6.1.37 -- June 3, 1976, Los Angeles
+  760603SB.LA
+  Room Conversation with Reporter -- June 4, 1976, Los Angeles
+  760604IV.LA
+  Morning Walk -- June 4, 1976, Los Angeles
+  760604MW.LA
+  Śrīmad-Bhāgavatam 6.1.38 -- June 4, 1976, Los Angeles
+  760604SB.LA
+  Morning Walk -- June 5, 1976, Los Angeles
+  760605MW.LA
+  Śrīmad-Bhāgavatam 6.1.39 -- June 5, 1976, Los Angeles
+  760605SB.LA
+  Morning Walk -- June 6, 1976, Los Angeles
+  760606MW.LA
+  Śrīmad-Bhāgavatam 6.1.40 -- June 6, 1976, Los Angeles
+  760606SB.LA
+  Morning Walk -- June 7, 1976, Los Angeles
+  760607MW.LA
+  Śrīmad-Bhāgavatam 6.1.41 -- June 7, 1976, Los Angeles
+  760607SB.LA
+  Morning Walk -- June 8, 1976, Los Angeles
+  760608MW.LA
+  Śrīmad-Bhāgavatam 6.1.42 -- June 8, 1976, Los Angeles
+  760608SB.LA
+  Garden Conversation -- June 8, 1976, Los Angeles
+  760608GC.LA
+  Room Conversation -- June 8, 1976, Los Angeles
+  760608R1.LA
+  Morning Walk -- June 9, 1976, Los Angeles
+  760609MW.LA
+  Śrīmad-Bhāgavatam 6.1.43 -- June 9, 1976, Los Angeles
+  760609SB.LA
+  Room Conversation -- June 9, 1976, Los Angeles
+  760609R1.LA
+  Garden Conversation -- June 9, 1976, Los Angeles
+  760609GC.LA
+  Room Conversation II -- June 9, 1976, Los Angeles
+  760609R2.LA
+  Morning Walk -- June 10, 1976, Los Angeles
+  760610MW.LA
+  Śrīmad-Bhāgavatam 6.1.44 -- June 10, 1976, Los Angeles
+  760610SB.LA
+  Room Conversation and Interview with Richard from Coronet Magazine -- June 10, 1976, Los Angeles
+  760610I2.LA
+  Garden Conversation -- June 10, 1976, Los Angeles
+  760610GC.LA
+  L.A. Magazine Interview -- June 10, 1976, Los Angeles
+  760610I1.LA
+  Room Conversation -- June 10, 1976, Los Angeles
+  760610R1.LA
+  Room Conversation II -- June 10, 1976, Los Angeles
+  760610R2.LA
+  Morning Walk -- June 11, 1976, Los Angeles
+  760611MW.LA
+  Śrīmad-Bhāgavatam 6.1.45 -- June 11, 1976, Los Angeles
+  760611SB.LA
+  Arrival -- June 11, 1976, Detroit
+  760611AR.DET
+  Śrīmad-Bhāgavatam 6.1.46 -- June 12, 1976, Detroit
+  760612SB.DET
+  Interview with Jackie Vaughn, State Representative -- June 12, 1976, Detroit
+  760612IV.DET
+  Morning Walk -- June 13, 1976, Detroit
+  760613MW.DET
+  Śrīmad-Bhāgavatam 6.1.47 -- June 13, 1976, Detroit
+  760613SB.DET
+  Room Conversation with Mother and Son -- June 13, 1976, Detroit
+  760613R1.DET
+  Morning Walk -- June 14, 1976, Detroit
+  760614MW.DET
+  Śrīmad-Bhāgavatam 6.1.48 -- June 14, 1976, Detroit
+  760614SB.DET
+  Room Conversation with Ambarīṣa and Catholic Priest -- June 14, 1976, Detroit
+  760614R1.DET
+  Garden Conversation -- June 14, 1976, Detroit
+  760614GC.DET
+  Morning Walk -- June 15, 1976, Detroit
+  760615MW.DET
+  Śrīmad-Bhāgavatam 6.1.49 -- June 15, 1976, Detroit
+  760615SB.DET
+  Initiations -- June 15, 1976, Detroit
+  760615IN.DET
+  Room Conversation with George Gullen, President of Wayne State University -- June 15, 1976, Detroit
+  760615R1.DET
+  Room Conversation -- June 15, 1976, Detroit
+  760615R2.DET
+  Bhagavad-gita 2.1--2.12 Reading -- June 15, 1976, Detroit
+  760615BG.DET
+  Conversation with Clergymen -- June 15, 1976, Detroit
+  760615R3.DET
+  Morning Walk -- June 16, 1976, Detroit
+  760616MW.DET
+  Śrīmad-Bhāgavatam 6.1.50 -- June 16, 1976, Detroit
+  760616SB.DET
+  Room Conversation -- June 16, 1976, Detroit
+  760616R1.DET
+  Arrival Address -- June 17, 1976, Toronto
+  760617AR.TOR
+  Śrīmad-Bhāgavatam 7.6.1 -- June 17, 1976, Toronto
+  760617SB-TOR
+  Room Conversation -- June 17, 1976, Toronto
+  760617R1.TOR
+  Room Conversation II -- June 17, 1976, Toronto
+  760617R2.TOR
+  Morning Walk -- June 18, 1976, Toronto
+  760618MW.TOR
+  Śrīmad-Bhāgavatam 7.6.2 -- June 18, 1976, Toronto
+  760618SB.TOR
+  Interview with Professors O'Connell, Motilal and Shivaram -- June 18, 1976, Toronto
+  760618I2.TOR
+  Initiation Lecture -- June 18, 1976, Toronto
+  760618IN.TOR
+  Interview with Kathy Kerr Reporter from The Star -- June 18, 1976, Toronto
+  760618IV.TOR
+  Room Conversation -- June 18, 1976, Toronto
+  760618R1.TOR
+  Morning Walk -- June 19, 1976, Toronto
+  760619MW.TOR
+  Śrīmad-Bhāgavatam 7.6.3 -- June 19, 1976, Toronto
+  760619SB.TOR
+  Śubhavilāsa Home Engagement -- June 19, 1976, Toronto
+  760619LE.TOR
+  Morning Walk -- June 20, 1976, Toronto
+  760620MW.TOR
+  Śrīmad-Bhāgavatam 7.6.4 -- June 20, 1976, Toronto
+  760620SB.TOR
+  Bhagavad-gītā 9.3 -- June 20, 1976, Toronto
+  760620BG.TOR
+  Morning Walk -- June 21, 1976, Toronto
+  760621MW.TOR
+  Śrīmad-Bhāgavatam 7.6.5 -- June 21, 1976, Toronto
+  760621SB.TOR
+  Conversation in Airport and Car to New Vrindavan -- June 21, 1976, Toronto, New Vrindavan
+  760621CR.TOR
+  Arrival Speech -- June 21, 1976, New Vrindavan
+  760621AR.NV
+  Morning Walk -- June 22, 1976, New Vrindavan
+  760622MW.NV
+  Śrīmad-Bhāgavatam 7.6.6 -- June 22, 1976, New Vrindavan
+  760622SB.NV
+  Prabhupāda Visits Palace and Garden -- June 22, 1976, New Vrindavan
+  760622VI.NV
+  Garden Conversation -- June 22, 1976, New Vrindavan
+  760622GC.NV
+  Garden Conversation -- June 23, 1976, New Vrindavan
+  760623GC.NV
+  Śrīmad-Bhāgavatam 7.6.8 -- June 24, 1976, New Vrindavan
+  760624SB.NV
+  Room Conversation -- June 24, 1976, New Vrindavan
+  760624R1.NV
+  Prabhupāda Inspects New BTG -- June 24, 1976, New Vrindavan
+  760624BI.NV
+  Morning Talk in Car [partially recorded] -- June 25, 1976, New Vrindavan
+  760625MW.NV
+  Śrīmad-Bhāgavatam 7.6.9 -- June 25, 1976, New Vrindavan
+  760625SB.NV
+  Room Conversation and Reading from SB 1.5.1–16 and 12th Canto -- June 25, 1976, New Vrindavan
+  760625R1.NV
+  Śrīmad-Bhāgavatam 7.6.10 -- June 26, 1976, New Vrindavan
+  760626SB.NV
+  Bhagavad-gītā 16.1–16 Garden Discussion -- June 26, 1976, New Vrindavan
+  760626GD.NV
+  Room Conversation -- June 26, 1976, New Vrindavan
+  760626R2.NV
+  Room Conversation II -- June 26, 1976, New Vrindavan
+  760626R1.NV
+  Marble Shop Visit -- June 26, 1976, New Vrindavan
+  760626VI.NV
+  Morning Walk -- June 27, 1976, New Vrindavan
+  760627MW.NV
+  Garden Conversation -- June 27, 1976, New Vrindavan
+  760627GC.NV
+  Śrīmad-Bhāgavatam 7.6.11–13 -- June 27, 1976, New Vrindavan
+  760627SB.NV
+  Śrīmad-Bhāgavatam 7.6.14 -- June 28, 1976, New Vrindavan
+  760628SB.NV
+  Room Conversation -- June 28, 1976, New Vrindavan
+  760628R2.NV
+  Bhagavad-gītā 16.17–19, Garden Conversation -- June 28, 1976, New Vrindavan
+  760628BG.NV
+  Room Conversation After Film -- June 28, 1976, New Vrindavan
+  760628R1.NV
+  Śrīmad-Bhāgavatam 7.6.15 -- June 29, 1976, New Vrindavan
+  760629SB.NV
+  Room Conversation -- June 29, 1976, New Vrindavan
+  760629R1.NV
+  Bhavan's Journal, Answers to a Questionnaire 1 -- June 29, 1976, New Vrindavan
+  760629BJ.NV
+  Śrīmad-Bhāgavatam 7.6.16 -- June 30, 1976, New Vrindavan
+  760630SB.NV
+  Interview with Mike Darby, Wheeling Intelligencer -- June 30, 1976, Wheeling, W. Virginia
+  760630IV.WHE
+  Bhavan's Journal, Answers to a Questionnaire 2 -- June 30, 1976, New Vrindavan
+  760630BJ.NV
+  July
+  Śrīmad-Bhāgavatam 7.6.17–18 -- July 1, 1976, New Vrindavan
+  760701SB.NV
+  Room Conversation -- July 1, 1976, New Vrindavan
+  760701R1.NV
+  Bhavan's Journal, Answers to a Questionnaire 3 -- July 1, 1976, New Vrindavan
+  760701BJ.NV
+  Śrīmad-Bhāgavatam 7.6.19 -- July 2, 1976, New Vrindavan
+  760702SB.NV
+  Room Conversation -- July 2, 1976, New Vrindavan
+  760702R1.NV
+  Car Journey and Arrival -- July 2, 1976, Washington, D.C.
+  760702AR.WDC
+  Morning Walk [partially recorded] -- July 3, 1976, Washington, D.C.
+  760703MW.WDC
+  Śrīmad-Bhāgavatam 7.6.20–23 -- July 3, 1976, Washington D.C.
+  760703SB.WDC
+  Room Conversation -- July 3, 1976, Washington, D.C.
+  760703R1.WDC
+  760703SS.WDC
+  Morning Walk -- July 4, 1976, Washington, D.C.
+  760704MW.WDC
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.98–99 -- July 4, 1976, Washington, D.C.
+  760704CC.WDC
+  760704SS.WDC
+  Room Conversation -- July 4, 1976, Washington, D.C.
+  760704R1.WDC
+  Morning Walk -- July 5, 1976, Washington, D.C.
+  760705MW.WDC
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.100 -- July 5, 1976, Washington, D.C.
+  760705CC.WDC
+  Conversation with Dr. Shaligram Shukla--Part 1 -- July 5, 1976, Washington, D.C.
+  760705R1.WDC
+  Conversation with Dr. Shaligram Shukla--Part 2 -- July 5, 1976, Washington, D.C.
+  760705R2.WDC
+  Room Conversation -- July 5, 1976, Washington, D.C.
+  760705R3.WDC
+  Room Conversation II -- July 5, 1976, Washington, D.C.
+  760705R4.WDC
+  Evening Darśana -- July 6, 1976, Washington, D.C.
+  760706ED.WDC
+  Tenth Anniversary Address -- July 6, 1976, Washington, D.C.
+  760706AD.WDC
+  Room Conversation -- July 6, 1976, Washington, D.C.
+  760706R1.WDC
+  Room Conversation With Scientists -- July 6, 1976, Washington, D.C.
+  760706R2.WDC
+  Room Conversation II -- July 6, 1976, Washington, D.C.
+  760706R3.WDC
+  Room Conversation III -- July 6, 1976, Washington D.C.
+  760706R4.WDC
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.101 -- July 6, 1976, Washington, D.C.
+  760706CC.WDC
+  Evening Darśana -- July 7, 1976, Washington, D.C.
+  760707ED.WDC
+  Room Conversation -- July 7, 1976, Baltimore
+  760707R1.BAL
+  Room Conversation II -- July 7, 1976, Baltimore
+  760707R2.BAL
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.102 -- July 7, 1976, Baltimore
+  760707CC.BAL
+  Evening Darśana -- July 8, 1976, Washington, D.C.
+  760708ED.WDC
+  Interview and Conversation -- July 8, 1976, Washington, D.C.
+  760708IV.WDC
+  Room Conversation with Dr. Sharma -- July 8, 1976, Washington, D.C.
+  760708R1.WDC
+  Room Conversation with Scientists -- July 8, 1976, Washington, D.C.
+  760708R2.WDC
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.103 -- July 8, 1976, Washington, D.C.
+  760708CC.WDC
+  Morning Walk -- July 9, 1976, Washington, D.C.
+  760709MW.WDC
+  Arrival Comments in Car to Temple -- July 9, 1976, New York
+  760709AR.NY
+  Arrival Address -- July 9, 1976, New York
+  760709AD.NY
+  Room Conversation -- July 9, 1976, New York
+  760709R1.NY
+  Morning Walk -- July 10, 1976, New York
+  760710MW.NY
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.104 -- July 10, 1976, New York
+  760710CC.NY
+  Room Conversation -- July 10, 1976, New York
+  760710R1.NY
+  Morning Walk -- July 11, 1976, New York
+  760711MW.NY
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.105 -- July 11, 1976, New York
+  760711CC.NY
+  Evening Darśana -- July 11, 1976, New York
+  760711ED.NY
+  Comments on Bhagavad-gītā Play -- July 12, 1976, New York
+  760712BG.NY
+  Morning Walk -- July 12, 1976, New York
+  760712MW.NY
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.106 -- July 12, 1976, New York
+  760712CC.NY
+  Morning Walk -- July 13, 1976, New York
+  760713MW.NY
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.107 -- July 13, 1976, New York
+  760713CC.NY
+  Evening Darśana -- July 13, 1976, New York
+  760713ED.NY
+  Morning Walk -- July 14, 1976, New York
+  760714MW.NY
+  Interview with Newsweek -- July 14, 1976, New York
+  760714IV.NY
+  Interview with Newsday Newspaper -- July 14, 1976, New York
+  760714I2.NY
+  Room Conversation with Dhṛṣṭadyumna's Parents – July 14, 1976, New York
+  760714R1.NY
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.108–109 -- July 15, 1976, New York
+  760715CC.NY
+  Ride on Rādhā-Dāmodara Bus to Gītā-nagarī Farm – July 15, 1976, New York
+  760715CV.NY
+  Conversation at Gītā-nagarī Farm – July 15, 1976, Port Royal
+  760715R1.PR
+  Interview with Religious Editor of the Associated Press -- July 16, 1976, New York
+  760716IV.NY
+  Conversation after Interview with Religious Editor, Associated Press -- July 16, 1976, New York
+  760716R1.NY
+  Evening Lecture at Gītā-Nagarī Farm – July 16, 1976, Port Royal
+  760716LE.PR
+  Morning Walk -- July 17, 1976, New York
+  760717MW.NY
+  Interview with Trans-India Magazine -- July 17, 1976, New York
+  760717IV.NY
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.110 -- July 17, 1976, New York
+  760717CC.NY
+  Room Conversation -- July 17, 1976, New York
+  760717R1.NY
+  Morning Walk -- July 18, 1976, New York
+  760718MW.NY
+  Ratha-yātrā -- July 18, 1976, New York
+  760718RY.NY
+  Room Conversation -- July 18, 1976, New York
+  760718R1.NY
+  Room Conversation -- July 19, 1976, New York
+  760719R2.NY
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.111 -- July 19, 1976, New York
+  760719CC.NY
+  Room Conversation II -- July 19, 1976, New York
+  760719R1.NY
+  Morning Walk -- July 20, 1976, New York
+  760720MW.NY
+  Car Ride -- July 20, 1976, New York
+  760720CR.NY
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.112 -- July 20, 1976, New York
+  760720CC.NY
+  Car Conversation -- July 21, 1976, New York
+  760721CR.NY
+  Interview with Colin Cross Religion Editor of The Observer -- July 23, 1976, London
+  760723IV.LON
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.113 -- July 23, 1976, London
+  760723CC.LON
+  Conversation at Bhaktivedanta Manor -- July 24, 1976, London
+  760724R1.LON
+  Conversation and Lecture at the House of Kṣīrodakaśāyī dāsa -- July 25, 1976, London
+  760725L1.LON
+  Sunday Feast Lecture -- July 25, 1976, London
+  760725L2.LON
+  Lecture at 7 Bury Place [partially recorded] -- July 25, 1976, London
+  760725L3.LON
+  Room Conversation -- July 26, 1976, London
+  760726R2.LON
+  Conversation with George Harrison -- July 26, 1976, London
+  760726R1.LON
+  Radio Interview with Mike Robinson -- July 27, 1976, London
+  760727IV.LON
+  Room Conversation -- July 27, 1976, London
+  760727R1.LON
+  Room Conversation in Hindi -- July 27, 1976, London
+  760727R2.LON
+  Arrival Speech -- July 28, 1976, Paris
+  760728AR.PAR
+  Arrival at Farm -- July 29, 1976, New Māyāpur
+  760729AR.NMR
+  Morning Walk Around Farm -- July 31, 1976, New Māyāpur
+  760731MW.NMR
+  Bhagavad-gītā 10.8 -- July 31, 1976, New Māyāpur
+  760731BG.NMR
+  Room Conversation -- July 31, 1976, New Māyāpur
+  760731R2.NMR
+  Room Conversation II -- July 31, 1976, New Māyāpur
+  760731R1.NMR
+  August
+  Morning Walk Around Grounds -- August 2, 1976, New Māyāpur
+  760802MW.NMR
+  Lecture During Walk [partially recorded] -- August 2, 1976, New Māyāpur
+  760802LE.NMR
+  Room Conversation -- August 2, 1976, New Māyāpur
+  760802R2.NMR
+  Room Conversation II -- August 2, 1976, New Māyāpur
+  760802R3.NMR
+  Room Conversation III -- August 2, 1976, New Māyāpur
+  760802R1.NMR
+  Room Conversation -- August 3, 1976, New Māyāpur
+  760803R2.NMR
+  Room Conversation II -- August 3, 1976, New Māyāpur
+  760803R1.NMR
+  Room Conversation With French Commander -- August 3, 1976, New Māyāpur
+  760803R3.NMR
+  Bhagavad-gītā 9.34 -- August 3, 1976, New Māyāpur
+  760803BG.NMR
+  Evening Walk [partially recorded] -- August 4, 1976, New Māyāpur
+  760804EW.NMR
+  Room Conversation -- August 4, 1976, New Māyāpur
+  760804R1.NMR
+  Bhagavad-gītā 4.24 -- August 4, 1976, New Māyāpur
+  760804BG.NMR
+  Meeting with Bruno Gnan, Italian Printer -- August 5, 1976, New Māyāpur
+  760805R2.NMR
+  Room Conversation with Professor Francois Chenique -- August 5, 1976, New Māyāpur
+  760805R1.NMR
+  Bhagavad-gītā 15.15 -- August 5, 1976, New Māyāpur
+  760805BG.NMR
+  Room Conversation -- August 7, 1976, Tehran
+  760807R1.TEH
+  Morning Walk at Niavaran Park -- August 8, 1976, Tehran
+  760808MW.TEH
+  Śrīmad-Bhāgavatam 3.22.19 -- August 8, 1976, Tehran
+  760808SB.TEH
+  Evening Conversation -- August 8, 1976, Tehran
+  760808R1.TEH
+  Room Conversation with Nandarāṇī and Ali -- August 9, 1976, Tehran
+  760809R2.TEH
+  Garden Conversation -- August 9, 1976, Tehran
+  760809GC.TEH
+  Room Conversation -- August 9, 1976, Tehran
+  760809R1.TEH
+  Śrīmad-Bhāgavatam 3.22.20 -- August 9, 1976, Tehran
+  760809SB.TEH
+  Śrīmad-Bhāgavatam 3.22.21 -- August 10, 1976, Tehran
+  760810SB.TEH
+  Evening Darśana -- August 10, 1976, Tehran
+  760810ED.TEH
+  Room Conversation -- August 10, 1976, Tehran
+  760810R1.TEH
+  Room Conversation -- August 11, 1976, Tehran
+  760811R1.TEH
+  Evening Darśana -- August 11, 1976, Tehran
+  760811ED.TEH
+  Morning Walk -- August 11, 1976, Tehran
+  760811MW.TEH
+  Evening Darśana -- August 12, 1976, Tehran
+  760812ED.TEH
+  Morning Walk -- August 12, 1976, Tehran
+  760812MW.TEH
+  Śrīmad-Bhāgavatam 3.22.22 and Initiations -- August 12, 1976, Tehran
+  760812SB.TEH
+  Room Conversation -- August 12, 1976, Tehran
+  760812R1.TEH
+  Conversation in Car -- August 12, 1976, Tehran
+  760812R4.TEH
+  Visit to Proposed Restaurant and Room Conversation -- August 12, 1976, Tehran
+  760812R2.TEH
+  Room Conversation II -- August 12, 1976, Tehran
+  760812R3.TEH
+  Arrival Conversation in Car and at Temple -- August 13, 1976, Bombay
+  760813AR.BOM
+  Evening Darśana -- August 14, 1976, Bombay
+  760814ED.BOM
+  Room Conversation -- August 14, 1976, Bombay
+  760814R1.BOM
+  Room Conversation in Hindi -- August 14, 1976, Bombay
+  760814R2.BOM
+  Morning Walk -- August 14, 1976, Bombay
+  760815MW.BOM
+  Evening Darśana -- August 15, 1976, Bombay
+  760815ED.BOM
+  Room Conversation -- August 16, 1976, Bombay
+  760816R1.BOM
+  Evening Darśana on night of arrival -- August 16, 1976, Hyderabad
+  760816AR.HYD
+  Room Conversation -- August 16, 1976, Hyderabad
+  760816R1.HYD
+  Speech at Fire Yajña with South Indian Brāhmaṇas [partially recorded] -- August 16, 1976, Hyderabad
+  760816SP.HYD
+  Bhagavad-gītā 13.22 -- August 17, 1976, Hyderabad
+  760817BG.HYD
+  Press Interview at Muthilal Rao's House -- August 17, 1976, Hyderabad
+  760817IV.HYD
+  Room Conversation -- August 17, 1976, Hyderabad
+  760817R1.HYD
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 20.395 -- August 17, 1976, Hyderabad
+  760817CC.HYD
+  Śrīmad-Bhāgavatam 1.7.6, Temple Opening -- August 18, 1976, Hyderabad
+  760818SB.HYD
+  Room Conversation -- August 19, 1976, Hyderabad
+  760819R2.HYD
+  Room Conversation About Māyāpur Construction -- August 19, 1976, Hyderabad
+  760819R1.HYD
+  Śrī Vyāsa-pūjā Lecture -- Hyderabad, August 19, 1976
+  760819VP.HYD
+  Room Conversation -- August 20, 1976, Hyderabad
+  760820R1.HYD
+  Room Conversation About Blitz News Clipping -- August 21, 1976, Hyderabad
+  760821R2.HYD
+  Room Conversation -- August 21, 1976, Hyderabad
+  760821R1.HYD
+  Room Conversation -- August 22, 1976, Hyderabad
+  760822R2.HYD
+  Conversation with Seven Ministers of Andhra Pradesh -- August 22, 1976, Hyderabad
+  760822R3.HYD
+  Room Conversation with Endowments Commissioner of Andhra Pradesh -- August 22, 1976, Hyderabad
+  760822R1.HYD
+  Bhagavad-gītā 7.1 -- August 22, 1976, Hyderabad
+  760822BG.HYD
+  Initiation Lecture -- August 22, 1976, Hyderabad
+  760822IN.HYD
+  Morning Walk in Public Gardens -- August 23, 1976, Hyderabad
+  760823MW.HYD
+  Morning Walk [partially recorded] -- August 24, 1976, Hyderabad
+  760824MW.HYD
+  Room Conversation -- August 24, 1976, Hyderabad
+  760824R2.HYD
+  Room Conversation with Tirupati Paṇḍita and Government Minister -- August 24, 1976, Hyderabad
+  760824R3.HYD
+  Meeting with Mr. Raju, Endowments Commissioner -- August 24, 1976, Hyderabad
+  760824R1.HYD
+  Room Conversation -- August 25, 1976, Hyderabad
+  760825R1.HYD
+  Bhagavad-gītā 1.1 in Hindi -- August 25, 1976, Hyderabad
+  760825BG.HYD
+  Morning Walk at Lodi Gardens -- August 27, 1976, Delhi
+  760827MW.DEL
+  Morning Walk Conversation About Bombay -- August 29, 1976, Delhi
+  760829MW.DEL
+  Śrīmad-Bhāgavatam 5.5.1 in Hindi -- August 29, 1976, Delhi
+  760829SB.DEL
+  Morning Walk at Buddha Jayanti Park -- August 30, 1976, Delhi
+  760830MW.DEL
+  Meeting with Mr. Krishna Modi, Member of Parliament -- August 31, 1976, Delhi
+  760831R1.DEL
+  Morning Walk -- August 31, 1976, Delhi
+  760831MW.DEL
+  Initiations -- August 31, 1976, Delhi
+  760831IN.DEL
+  September
+  Evening Darśana -- September 1, 1976, Delhi
+  760901ED.DEL
+  Morning Walk [partially recorded] -- September 2, 1976, Delhi
+  760902MW.DEL
+  Bhagavad-gītā 7.15, Arrival Address -- September 3, 1976, Vṛndāvana
+  760903BG.VRN
+  Garden Conversation -- September 3, 1976, Vṛndāvana
+  760903G1.VRN
+  Room Conversation -- September 3, 1976, Vṛndāvana
+  760903R1.VRN
+  Room Conversation -- September 4, 1976, Vṛndāvana
+  760904R1.VRN
+  Śrīmad-Bhāgavatam 1.7.5 -- September 4, 1976, Vṛndāvana
+  760904SB.VRN
+  Śrīmad-Bhāgavatam 1.7.6 -- September 5, 1976, Vṛndāvana
+  760905SB.VRN
+  Room Conversation -- September 5, 1976, Vṛndāvana
+  760905R2.VRN
+  Room Conversation II -- September 5, 1976, Vṛndāvana
+  760905R1.VRN
+  Śrīmad-Bhāgavatam 1.7.7 -- September 6, 1976, Vṛndāvana
+  760906SB.VRN
+  Garden Conversation -- September 6, 1976, Vṛndāvana
+  760906G1.VRN
+  Room Conversation -- September 6, 1976, Vṛndāvana
+  760906R1.VRN
+  Śrīmad-Bhāgavatam 1.7.8 -- September 7, 1976, Vṛndāvana
+  760907SB.VRN
+  Garden Conversation -- September 7, 1976, Vṛndāvana
+  760907G2.VRN
+  Garden Conversation II -- September 7, 1976, Vṛndāvana
+  760907G1.VRN
+  Room Conversation -- September 7, 1976, Vṛndāvana
+  760907R1.VRN
+  Śrīmad-Bhāgavatam 1.7.9 [partially recorded] -- September 8, 1976, Vṛndāvana
+  760908SB.VRN
+  Room Conversation -- September 9, 1976, Vṛndāvana
+  760909R2.VRN
+  Room Conversation II -- September 9, 1976, Vṛndāvana
+  760909R1.VRN
+  Śrīmad-Bhāgavatam 1.7.10 -- September 9, 1976, Vṛndāvana
+  760909SB.VRN
+  Śrīmad-Bhāgavatam 1.7.11 -- September 10, 1976, Vṛndāvana
+  760910SB.VRN
+  Śrīmad-Bhāgavatam 1.7.12 -- September 11, 1976, Vṛndāvana
+  760911SB.VRN
+  Room Conversation -- September 11, 1976, Vṛndāvana
+  760911R2.VRN
+  Room Conversation II -- September 11, 1976, Vṛndāvana
+  760911R1.VRN
+  Śrīmad-Bhāgavatam 1.7.13–14 -- September 12, 1976, Vṛndāvana
+  760912SB.VRN
+  Room Conversation about Bullock Cart SKP -- September 12, 1976, Vṛndāvana
+  760912R1.VRN
+  Śrīmad-Bhāgavatam 1.7.15 -- September 13, 1976, Vṛndāvana
+  760913SB.VRN
+  Letter to Sai Baba -- September 13, 1976, Vṛndāvana
+  760913LR.VRN
+  Śrīmad-Bhāgavatam 1.7.16 -- September 14, 1976, Vṛndāvana
+  760914SB.VRN
+  Śrīmad-Bhāgavatam 1.7.18 -- September 15, 1976, Vṛndāvana
+  760915SB.VRN
+  Śrīmad-Bhāgavatam 1.7.19 -- September 16, 1976, Vṛndāvana
+  760916SB.VRN
+  Room Conversation -- September 16, 1976, Vṛndāvana
+  760916R1.VRN
+  Room Conversation -- September 17, 1976, Vṛndāvana
+  760917R1.VRN
+  Śrīmad-Bhāgavatam 1.7.20–21 -- September 17, 1976, Vṛndāvana
+  760917SB.VRN
+  Śrīmad-Bhāgavatam 1.7.22 -- September 18, 1976, Vṛndāvana
+  760918SB.VRN
+  Śrīmad-Bhāgavatam 1.7.23 -- September 20, 1976, Vṛndāvana
+  760920SB.VRN
+  Śrīmad-Bhāgavatam 1.7.24 -- September 21, 1976, Vṛndāvana
+  760921SB.VRN
+  Śrīmad-Bhāgavatam 1.7.25 -- September 22, 1976, Vṛndāvana
+  760922SB.VRN
+  Śrīmad-Bhāgavatam 1.7.26 -- September 23, 1976, Vṛndāvana
+  760923SB.VRN
+  Śrīmad-Bhāgavatam 1.7.27 -- September 24, 1976, Vṛndāvana
+  760924SB.VRN
+  Śrīmad-Bhāgavatam 1.7.28–29 -- September 25, 1976, Vṛndāvana
+  760925SB.VRN
+  Śrīmad-Bhāgavatam 1.7.30–31 -- September 26, 1976, Vṛndāvana
+  760926SB.VRN
+  Room Conversation -- September 26, 1976, Vṛndāvana
+  760926R1.VRN
+  Śrīmad-Bhāgavatam 1.7.32–33 -- September 27, 1976, Vṛndāvana
+  760927SB.VRN
+  Śrīmad-Bhāgavatam 1.7.34–35 -- September 28, 1976, Vṛndāvana
+  760928SB.VRN
+  Śrīmad-Bhāgavatam 1.7.36–37 -- September 29, 1976, Vṛndāvana
+  760929SB.VRN
+  Room Conversation with U.N. Doctor -- September 29, 1976, Vṛndāvana
+  760929R1.VRN
+  Śrīmad-Bhāgavatam 1.7.38–39 -- September 30, 1976, Vṛndāvana
+  760930SB.VRN
+  Room Conversation -- September 30, 1976, Vṛndāvana
+  760930R1.VRN
+  October
+  Śrīmad-Bhāgavatam 1.7.40 -- October 1, 1976, Vṛndāvana
+  761001SB.VRN
+  Morning Walk [partially recorded] -- October 2, 1976, Vṛndāvana
+  761002MW.VRN
+  Śrīmad-Bhāgavatam 1.7.41–42 -- October 2, 1976, Vṛndāvana
+  761002SB.VRN
+  Śrīmad-Bhāgavatam 1.7.43 -- October 3, 1976, Vṛndāvana
+  761003SB.VRN
+  Room Conversation -- October 3, 1976, Vṛndāvana
+  761003R1.VRN
+  Srīmad-Bhāgavatam 1.7.44 -- October 4, 1976, Vṛndāvana
+  761004SB.VRN
+  Room Conversation -- October 4, 1976, Vṛndāvana
+  761004R1.VRN
+  Śrīmad-Bhāgavatam 1.7.45–46 -- October 5, 1976, Vṛndāvana
+  761005SB.VRN
+  Śrīmad-Bhāgavatam 1.7.47–48 -- October 6, 1976, Vṛndāvana
+  761006SB.VRN
+  Śrīmad-Bhāgavatam 1.7.49–50 -- October 7, 1976, Vṛndāvana
+  761007SB.VRN
+  Śrīmad-Bhāgavatam 1.7.51–52 -- October 8, 1976, Vṛndāvana
+  761008SB.VRN
+  Arrival Talk -- October 9, 1976, Aligarh
+  761009AR.ALI
+  Śrīmad-Bhāgavatam 1.2.5 -- October 9, 1976, Aligarh
+  761009SB.ALI
+  Garden Conversation -- October 9, 1976, Aligarh
+  761009G1.ALI
+  Room Conversation -- October 9, 1976, Aligarh
+  761009R1.ALI
+  Śrīmad-Bhāgavatam 1.2.6 in Hindi -- October 10, 1976, Aligarh
+  761010SB.ALI
+  Lecture in Hindi -- October 10, 1976, Aligarh
+  761010LE.ALI
+  Lecture -- October 13, 1976, Chandigarh
+  761013LE.CHA
+  Morning Walk -- October 14, 1976, Chandigarh
+  761014MW.CHA
+  Address in Hindi -- October 14, 1976, Chandigarh
+  761014AD.CHA
+  Bhagavad-gītā 7.1 in Hindi -- October 15, 1976, Chandigarh
+  761015BG.CHA
+  Press Interview -- October 16, 1976, Chandigarh
+  761016IV.CHA
+  Bhagavad-gītā 9.3 in Hindi -- October 6, 1976, Chandigarh
+  761016BG.CHA
+  Address to Rotary Club -- October 17, 1976, Chandigarh
+  761017LE.CHA
+  Bhagavad-gītā 13.8–12 in Hindi -- October 7, 1976, Chandigarh
+  761018BG.CHA
+  Śrīmad-Bhāgavatam 5.5.1 -- October 22, 1976, Vṛndāvana
+  761022SB.VRN
+  Śrīmad-Bhāgavatam 5.5.1 -- October 23, 1976, Vṛndāvana
+  761023SB.VRN
+  Śrīmad-Bhāgavatam 5.5.2 -- October 24, 1976, Vṛndāvana
+  761024SB.VRN
+  Śrīmad-Bhāgavatam 5.5.3 -- October 25, 1976, Vṛndāvana
+  761025SB.VRN
+  Śrīmad-Bhāgavatam 5.5.4 -- October 26, 1976, Vṛndāvana
+  761026SB.VRN
+  Room Conversation -- October 26, 1976, Vṛndāvana
+  761026R1.VRN
+  Śrīmad-Bhāgavatam 5.5.5 -- October 27, 1976, Vṛndāvana
+  761027SB.VRN
+  Śrīmad-Bhāgavatam 5.5.6 -- October 28, 1976, Vṛndāvana
+  761028SB.VRN
+  Śrīmad-Bhāgavatam 5.5.7 -- October 29, 1976, Vṛndāvana
+  761029SB.VRN
+  Śrīmad-Bhāgavatam 5.5.8 -- October 30, 1976, Vṛndāvana
+  761030SB.VRN
+  Śrīmad-Bhāgavatam 5.5.9 -- October 31, 1976, Vṛndāvana
+  761031SB.VRN
+  Room Conversation -- October 31, 1976, Vṛndāvana
+  761031R1.VRN
+  November
+  Śrīmad-Bhāgavatam 5.5.10–13 -- November 1, 1976, Vṛndāvana
+  761101SB.VRN
+  Śrīmad-Bhāgavatam 5.5.14 -- November 2, 1976, Vṛndāvana
+  761102SB.VRN
+  Room Conversation -- November 2, 1976, Vṛndāvana
+  761102R2.VRN
+  Room Conversation about New York Court Case -- November 2, 1976, Vṛndāvana
+  761102R1.VRN
+  Śrīmad-Bhāgavatam 5.5.15 -- November 3, 1976, Vṛndāvana
+  761103SB.VRN
+  Room Conversation -- November 3, 1976, Vṛndāvana
+  761103R2.VRN
+  Room Conversation II -- November 3, 1976, Vṛndāvana
+  761103R1.VRN
+  Śrīmad-Bhāgavatam 5.5.16 -- November 4, 1976, Vṛndāvana
+  761104SB.VRN
+  Room Conversation -- November 4, 1976, Vṛndāvana
+  761104R1.VRN
+  Śrīmad-Bhāgavatam 5.5.17 -- November 5, 1976, Vṛndāvana
+  761105SB.VRN
+  Room Conversation about Gurukula -- November 5, 1976, Vṛndāvana
+  761105R1.VRN
+  Śrīmad-Bhāgavatam 5.5.18 -- November 6, 1976, Vṛndāvana
+  761106SB.VRN
+  Room Conversation with Dr. Theodore Kneupper -- November 6, 1976, Vṛndāvana
+  761106R1.VRN
+  Śrīmad-Bhāgavatam 5.5.19 -- November 7, 1976, Vṛndāvana
+  761107SB.VRN
+  Śrīmad-Bhāgavatam 5.5.20 -- November 8, 1976, Vṛndāvana
+  761108SB.VRN
+  Śrīmad-Bhāgavatam 5.5.21–22 -- November 9, 1976, Vṛndāvana
+  761109SB.VRN
+  Śrīmad-Bhāgavatam 5.5.23 -- November 10, 1976, Vṛndāvana
+  761110SB.VRN
+  Room Conversation [partially recorded] -- November 10, 1976, Vṛndāvana
+  761110R1.VRN
+  Śrīmad-Bhāgavatam 5.5.24 -- November 11, 1976, Vṛndāvana
+  761111SB.VRN
+  Room Conversation -- November 11, 1976, Vṛndāvana
+  761111R1.VRN
+  Śrīmad-Bhāgavatam 5.5.25 -- November 12, 1976, Vṛndāvana
+  761112SB.VRN
+  Śrīmad-Bhāgavatam 5.5.26 -- November 13, 1976, Vṛndāvana
+  761113SB.VRN
+  Room Conversation -- November 13, 1976, Vṛndāvana
+  761113R1.VRN
+  Śrīmad-Bhāgavatam 5.5.27 -- November 14, 1976, Vṛndāvana
+  761114SB.VRN
+  Lecture in Hindi -- November 14, 1976, Vṛndāvana
+  761114LE.VRN
+  I Room Conversation [partially recorded] -- November 14, 1976, Vṛndāvana
+  761114R1.VRN
+  Room Conversation -- Vṛndāvana, November 14, 1976
+  761114R2.VRN
+  Śrīmad-Bhāgavatam 5.5.28 -- November 15, 1976, Vṛndāvana
+  761115SB.VRN
+  II Room Conversation [partially recorded] -- November 15, 1976, Vṛndāvana
+  761115R1.VRN
+  Śrīmad-Bhāgavatam 5.5.29 -- November 16, 1976, Vṛndāvana
+  761116SB.VRN
+  Morning Walk -- November 17, 1976, Vṛndāvana
+  761117MW.VRN
+  Śrīmad-Bhāgavatam 5.5.30 -- November 17, 1976, Vṛndāvana
+  761117SB.VRN
+  Śrīmad-Bhāgavatam 5.5.31 -- November 18, 1976, Vṛndāvana
+  761118SB.VRN
+  Room Conversation -- November 18, 1976, Vṛndāvana
+  761118R1.VRN
+  Śrīmad-Bhāgavatam 5.5.32 -- November 19, 1976, Vṛndāvana
+  761119SB.VRN
+  Śrīmad-Bhāgavatam 5.5.33 -- November 20, 1976, Vṛndāvana
+  761120SB.VRN
+  Room Conversation -- November 20, 1976, Vṛndāvana
+  761120R1.VRN
+  Śrīmad-Bhāgavatam 5.5.34 -- November 21, 1976, Vṛndāvana
+  761121SB.VRN
+  Śrīmad-Bhāgavatam 5.5.35 -- November 22, 1976, Vṛndāvana
+  761122SB.VRN
+  Śrīmad-Bhāgavatam 5.6.1 -- November 23, 1976, Vṛndāvana
+  761123SB.VRN
+  Śrīmad-Bhāgavatam 5.6.2 -- November 24, 1976, Vṛndāvana
+  761124SB.VRN
+  Room Conversation -- November 24, 1976, Vṛndāvana
+  761124R1.VRN
+  Śrīmad-Bhāgavatam 5.6.3 -- November 25, 1976, Vṛndāvana
+  761125SB.VRN
+  Room Conversation -- November 25, 1976, Vṛndāvana
+  761125R1.VRN
+  Śrīmad-Bhāgavatam 5.6.4 -- November 26, 1976, Vṛndāvana
+  761126SB.VRN
+  Śrīmad-Bhāgavatam 5.6.5 -- November 27, 1976, Vṛndāvana
+  761127SB.VRN
+  Śrīmad-Bhāgavatam 5.6.6 -- November 28, 1976, Vṛndāvana
+  761128SB.VRN
+  Śrīmad-Bhāgavatam 5.6.7 -- November 29, 1976, Vṛndāvana
+  761129SB.VRN
+  Śrīmad-Bhāgavatam 5.6.8 -- November 30, 1976, Vṛndāvana
+  761130SB.VRN
+  December
+  Evening Darśana -- December 3, 1976, Hyderabad
+  761203ED.HYD
+  Morning Walk [partially recorded] -- December 4, 1976, Hyderabad
+  761204MW.HYD
+  Evening Darśana in Hindi -- December 4, 1976, Hyderabad
+  761204ED.HYD
+  Morning Walk [partially recorded] -- December 5, 1976, Hyderabad
+  761205MW.HYD
+  Room Conversation -- December 5, 1976, Hyderabad
+  761205R1.HYD
+  Morning Walk -- December 7, 1976, Hyderabad
+  761207MW.HYD
+  Room Conversation -- December 7, 1976, Hyderabad
+  761207R1.HYD
+  Preparation for Gītā Pratiṣṭhāna (Conference) -- December 9, 1976, Hyderabad
+  761209R1.HYD
+  Śrīla Bhaktisiddhānta Sarasvatī Disappearance Day Lecture -- December 10, 1976, Hyderabad
+  761210DB.HYD
+  Room Conversation on Farm Management -- December 10, 1976, Hyderabad
+  761210R1.HYD
+  Bhagavad-gītā 7.6 -- December 11, 1976, Hyderabad
+  761211BG.HYD
+  Bhagavad-gītā 2.12 -- December 12, 1976, Hyderabad
+  761212BG.HYD
+  Room Conversation -- December 12, 1976, Hyderabad
+  761212R1.HYD
+  Bhagavad-gītā 16.6 -- December 13, 1976, Hyderabad
+  761213BG.HYD
+  Bhagavad-gītā 16.7 -- December 14, 1976, Hyderabad
+  761214BG.HYD
+  Bhagavad-gītā 16.7 -- December 15, 1976, Hyderabad
+  761215BG.HYD
+  Press Conference -- December 16, 1976, Hyderabad
+  761216PC.HYD
+  Room Conversation -- December 16, 1976, Hyderabad
+  761216R1.HYD
+  Bhagavad-gītā 16.8 -- December 16, 1976, Hyderabad
+  761216BG.HYD
+  Bhagavad-gītā 3.25 -- December 17, 1976, Hyderabad
+  761217BG.HYD
+  Arrival Conversation -- December 20, 1976, Bombay
+  761220AR.BOM
+  Lecture in Hindi -- December 20, 1976, Wardha
+  761220LE.WAR
+  Conversation with Rādhā-vallabha dāsa -- Bombay, December 20, 1976
+  761220R1.BOM
+  Conversation at the Gītā Pratiṣṭhāna (Conference) -- December 20, 1976, Wardha
+  761220R1.WAR
+  Room Conversation with Indian Man -- December 22, 1976, Poona
+  761222R2.POO
+  Room and Car Conversation with Life Member, Mr. Malhotra -- December 22, 1976, Poona
+  761222R1.POO
+  Śrīmad-Bhāgavatam 5.5.1 in Hindi -- December 24, 1976, Bombay
+  761224SB.BOM
+  Morning Walk -- December 25, 1976, Bombay
+  761225MW.BOM
+  Śrīmad-Bhāgavatam 5.5.1 -- December 25, 1976, Bombay
+  761225SB.BOM
+  Room Conversation with Mr. Tombe M.L.A. -- December 25, 1976, Bombay
+  761225R1.BOM
+  Śrīmad-Bhāgavatam 5.5.2 in Hindi -- December 25, 1976, Bombay
+  761226SB.BOM
+  Morning Walk and Room Conversation -- December 26, 1976, Bombay
+  761226R1.BOM
+  Room Conversation -- December 26, 1976, Bombay
+  761226R3.BOM
+  Room Conversation II -- December 26, 1976, Bombay
+  761226R2.BOM
+  Room Conversation -- December 27, 1976, Bombay
+  761227R1.BOM
+  Room Conversation II -- December 27, 1976, Bombay
+  761227R3.BOM
+  Room Conversation about F.A.T.E. -- December 27, 1976, Bombay
+  761227R2.BOM
+  Room Conversation -- December 28, 1976, Bombay
+  761228R1.BOM
+  Śrīmad-Bhāgavatam 5.6.10 -- December 28, 1976, Bombay
+  761228SB.BOM
+  Room Conversation II -- December 28, 1976, Bombay
+  761228R2.BOM
+  Morning Walk -- December 29, 1976, Bombay
+  761229MW.BOM
+  Śrīmad-Bhāgavatam 5.6.11 -- December 29, 1976, Bombay
+  761229SB.BOM
+  Room Conversation -- December 29, 1976, Bombay
+  761229R1.BOM
+  Room Conversation -- December 30, 1976, Bombay
+  761230R1.BOM
+  Press Interview -- December 31, 1976, Bombay
+  761231IV.BOM
+  Room Conversation -- December 31, 1976, Bombay
+  761231R1.BOM
+  Room Conversation II -- December 31, 1976, Bombay
+  761231R2.BOM
