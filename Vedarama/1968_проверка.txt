@@ -1,0 +1,331 @@
+Книга: 1968
+Адрес: https://vedarama.com/en/books/1968
+Страниц сайта: 318; заголовков: 319; текстов: 1; картинок: 0 + обложка
+Глав по MCP: 12
+Букв в исходнике: 2621670; в .md: 2621670
+Первый заголовок: 1968
+Последний заголовок: 681231PU.LA
+
+ЗАМЕЧАНИЯ:
+  - У «1968» нет содержимого (только заголовок).
+
+Оглавление выгрузки:
+1968
+  January
+  Purport to Gaurāṅga Bolite Habe -- January 5, 1968, Los Angeles
+  680106PU.LA
+  Śrī Caitanya-caritāmṛta, Madhya-līlā 6.254 -- January 8, 1968, Los Angeles
+  680108CC.LA
+  Śrīmad-Bhāgavatam 1.5.2 -- January 10, 1968, Los Angeles
+  680110SB.LA
+  Śrīmad-Bhāgavatam 1.5.4 -- January 12, 1968, Los Angeles
+  680112SB.LA
+  February
+  Interview -- February 1, 1968, Los Angeles
+  680201IV.LA
+  Lecture -- February 2, 1968, Los Angeles
+  680202LE.LA
+  March
+  Interview -- March 9, 1968, San Francisco
+  680309IV.SF
+  Initiation Lecture -- March 10, 1968, San Francisco
+  680310IN.SF
+  Radio Interview -- March 12, 1968, San Francisco
+  680312IV.SF
+  Talk in Studio -- March 13, 1968, San Francisco
+  680313TA.SF
+  Śrīmad-Bhāgavatam 7.6.1 -- March 15, 1968, San Francisco
+  680315SB.SF
+  Śrīmad-Bhāgavatam 7.6.1 [Partially Recorded] -- March 16, 1968, San Francisco
+  680316SB.SF
+  Bhagavad-gītā 7.1 -- March 17, 1968, San Francisco
+  680317BG.SF
+  Śrīmad-Bhāgavatam 12.2.1 -- March 18, 1968, San Francisco
+  680318SB.SF
+  Morning Walk -- March 20, 1968, San Francisco
+  680320ME.SF
+  Morning Walk at Stow Lake -- March 23, 1968, San Francisco
+  680323ME.SF
+  Initiation Ceremony of Viṣṇujana -- March 24, 1968, San Francisco
+  680324IN.SF
+  Room Conversation -- March 25, 1968, San Francisco
+  680325RC.SF
+  Bhagavad-gītā 7.1 -- March 26, 1968, San Francisco
+  680326BG.SF
+  Morning Walk at Stow Lake -- March 27, 1968, San Francisco
+  680327MW.SF
+  Śrīmad-Bhāgavatam 1.3.1-3 -- March 28, 1968, San Francisco
+  680328SB.SF
+  Reading from Śrīla Prabhupāda's First Published Bhāgavatam, Brought from India
+  April
+  Lecture -- April 2, 1968, San Francisco
+  680402LE.SF
+  May
+  Śrīmad-Bhāgavatam 5.5.3 -- May 4, 1968, Boston
+  680504SB.BOS
+  Lecture to Technology Students [M.I.T.] -- May 5, 1968, Boston
+  680505LE.BOS
+  Brāhmaṇa Initiation Lecture with Professor O'Connell -- May 6, 1968, Boston
+  680506IN.BOS
+  680507LE.BOS
+  Śrīmad-Bhāgavatam 7.6.1 -- May 8, 1968, Bosto
+  680508SB.BOS
+  Lecture at Engagement -- May 8, 1968, Boston
+  680508LE.BOS
+  Gāyatrī Mantra Initiation -- May 9, 1968, Boston
+  680509IN.BOS
+  Comment on Painting -- May 9, 1968, Boston
+  680509CM.BOS
+  Talk After Lecture -- May 30, 1968, Boston
+  680530RC.BOS
+  June
+  Bhagavad-gītā 7.3 -- June 3, 1968, Montreal
+  680603BG.MON
+  Śrīmad-Bhāgavatam 7.6.1 -- June 10, 1968, Montreal
+  680610SB.MON
+  Bhagavad-gītā 4.5 -- June 10, 1968, Montreal
+  680610BG.MON
+  Lecture at a School -- June 11, 1968, Montreal
+  680611LE.MON
+  Śrīmad-Bhāgavatam 7.6.1 -- June 12, 1968, Montreal
+  680612SB.MON
+  Bhagavad-gītā 4.7 -- June 13, 1968, Montreal
+  680613BG.MON
+  Bhagavad-gītā 4.8 -- June 14, 1968, Montreal
+  680614BG.MON
+  Lecture Engagement -- June 15, 1968, Montreal
+  680615LE.MON
+  Śrīmad-Bhāgavatam 7.6.3 -- June 16, 1968, Montreal
+  680616SB.MON
+  Bhagavad-gītā 4.9 -- June 19, 1968, Montreal
+  680619BG.MON
+  Śrīmad-Bhāgavatam 1.4.25 -- June 20, 1968, Montreal
+  680620SB.MON
+  Śrīmad-Bhāgavatam 7.6.6-9 -- June 23, 1968, Montreal
+  680623SB.MON
+  Lecture -- June 26, 1968, Montreal
+  680626LE.MON
+  Lecture [Partially Recorded] -- June 29, 1968, Montreal
+  680629LE.MON
+  July
+  Śrīmad-Bhāgavatam 7.9.8 -- July 1, 1968, Montreal
+  680701SB.MON
+  Śrīmad-Bhāgavatam 7.9.8 -- July 2, 1968, Montreal
+  680702SB.MON
+  Śrīmad-Bhāgavatam 7.9.9 -- July 4, 1968, Montreal
+  680704SB.MON
+  Śrīmad-Bhāgavatam 7.9.9 -- July 6, 1968, Montreal
+  680706SB.MON
+  Śrīmad-Bhāgavatam 7.9.10 -- July 9, 1968, Montreal
+  680709SB.MON
+  Śrīmad-Bhāgavatam 7.9.10 -- July 10, 1968, Montreal
+  680710SB.MON
+  Śrīmad-Bhāgavatam 7.9.10 -- July 12, 1968, Montreal
+  680712SB.MON
+  Śrīmad-Bhāgavatam 7.9.10-11 -- July 14, 1968, Montreal
+  680714SB.MON
+  Room Conversation -- July 16, 1968, Montreal
+  680716RC.MON
+  Purport excerpt to Śrī-Kṛṣṇa-Caitanya Prabhu, Partially Recorded -- July 17, 1968, Montreal
+  680717PU.MON
+  Lecture [partially recorded] -- July 18, 1968, Montreal
+  680718LE.MON
+  Lecture [partially recorded] -- July 20, 1968, Montreal
+  680720LE.MON
+  Paramānanda &amp; Satyabhāmā's Wedding -- July 22, 1968, Montreal
+  680722WL.MON
+  Initiation of Jayapatāka Dāsā -- July 24, 1968, Montreal
+  680724IN.MON
+  Initiation of Satyabhāmā Dāsī -- July 26, 1968, Montreal
+  680726IN.MON
+  Lecture [partially recorded] -- July 27, 1968, Montreal
+  680727LE.MON
+  Conversation with Religious Group -- July 27, 1968, Montreal
+  680727RC.MON
+  Speech to Indian Audience -- July 28, 1968, Montreal
+  680728SP.MON
+  Initiation of Bali-mardana Dāsā -- July 29, 1968, Montreal
+  680729IN.MON
+  August
+  Śrīmad-Bhāgavatam 1.2.5 -- August 2, 1968, Montreal
+  680802SB.MON
+  Śrīmad-Bhāgavatam 1.2.6 -- August 3, 1968, Montreal
+  680803SB.MON
+  Initiation of Rukmiṇī Dāsī -- August 15, 1968, Montreal
+  680815IN.MON
+  Conversation with Devotees -- August 15, 1968, Montreal
+  680815RC.MON
+  Janmāṣṭamī Lord Śrī Kṛṣṇa's Appearance Day -- August 16, 1968, Montreal
+  680816JM.MON
+  Śrīmad-Bhāgavatam 7.9.11 -- August 17, 1968, Montreal
+  680817SB.MON
+  Śrīmad-Bhāgavatam 7.9.12 -- August 18, 1968, Montreal
+  680818SB.MON
+  Śrīmad-Bhāgavatam 7.9.12 -- August 19, 1968, Montreal
+  680819SB.MON
+  Śrīmad-Bhāgavatam 7.9.12-13 -- August 20, 1968, Montreal
+  680820SB.MON
+  Śrīmad-Bhāgavatam 7.9.13 -- August 21, 1968, Montreal
+  680821SB.MON
+  Śrīmad-Bhāgavatam 7.9.13-14 -- August 22, 1968, Montreal
+  680822SB.MON
+  Lecture [partially recorded] -- August 23, 1968, Montreal
+  680823LE.MON
+  Bhagavad-gītā 4.1 -- August 24, 1968, Montreal
+  680824BG.MON
+  Prabhupāda Comments on Prahlāda Mahārāja Slides - August 25, 1968, Montreal
+  680825CM.MON
+  Questions and Answers -- August 26, 1968, Montreal
+  680826QA.MON
+  Rādhāṣṭamī, Śrīmatī Rādhārāṇī's Appearance Day -- August 30, 1968, Montreal
+  680830RA.MON
+  September
+  Initiation of Hṛṣīkeśa Dāsā, Marriage of Satsvarūpa and Jadurāṇī -- September 5, 1968, New York
+  680905IN.NY
+  Questions and Answers -- September 6, 1968, New York
+  680906QA.NY
+  Bhagavad-gītā 7.1 -- September 10, 1968, San Francisco
+  680910BG.SF
+  Bhagavad-gītā 7.2 -- September 11, 1968, San Francisco
+  680911BG.SF
+  Śrīmad-Bhāgavatam 6.1.6-15 -- September 12, 1968, San Francisco
+  680912SB.SF
+  Śrī Brahma-saṁhitā, Verse 34 -- September 13, 1968 , San Francisco
+  680913BS.SF
+  Lecture [partially recorded] -- September 14, 1968, San Francisco
+  680914LE.SF
+  Interview -- September 24, 1968, Seattle
+  680924IV.SEA
+  Room Conversation about Marriage -- September 24, 1968, Seattle
+  680924RC.SEA
+  Lecture on Teachings of Lord Caitanya -- September 25, 1968, Seattle
+  680925LE.SEA
+  Lecture -- September 27, 1968, Seattle
+  680927LE.SEA
+  Lecture -- September 30, 1968, Seattle
+  680930LE.SEA
+  October
+  Lecture -- October 2, 1968, Seattle
+  681002LE.SEA
+  Lecture -- October 4, 1968, Seattle
+  681004LE.SEA
+  Lecture -- October 7, 1968, Seattle
+  681007LE.SEA
+  Lecture -- October 9, 1968, Seattle
+  681009LE.SEA
+  Lecture -- October 11, 1968, Seattle
+  681011LE.SEA
+  Bhagavad-gītā 2.20-25 -- October 14, 1968, Seattle
+  681014BG.SEA
+  Lecture -- October 18, 1968, Seattle
+  681018LE.SEA
+  Talk -- October 18, 1968, Seattle
+  681018TA.SEA
+  Initiation -- October 20, 1968, Seattle
+  681020I2.SEA
+  Lecture &amp; Initiation -- October 20, 1968, Seattle
+  681020IN.SEA
+  Lecture to College Students -- October 20, 1968, Seattle
+  681020LE.SEA
+  Room Conversation -- October 20, 1968, Seattle
+  681020RC.SEA
+  Śrīmad-Bhāgavatam 7.9.8 -- October 21, 1968, Seattle
+  681021SB.SEA
+  Bhaktiprajñāna Keśava Mahārāja's Disappearance Day Lecture, -- October 21, 1968, Seattle
+  681021DK.SEA
+  Bhagavad-gītā 3.8-11 -- October 22, 1968, Seattle
+  681022BG.SEA
+  Śrīmad-Bhāgavatam 2.1.2-5 -- October 23, 1968, Montreal
+  681023SB.MON
+  Bhagavad-gītā 13.6-7 -- October 25, 1968, Montreal
+  681025BG.MON
+  Lecture -- October 26, 1968, Montreal
+  681026LE.MON
+  Room Conversation -- October 27, 1968, Montreal
+  681027RC.MON
+  Śrī Īśopaniṣad, Mantra 1 -- October 30, 1968, Los Angeles
+  681030IP.LA
+  November
+  Śrī Brahma-saṁhitā, Verse 29 -- November 5, 1968, Los Angeles
+  681105BS.LA
+  Talk After Lecture [Brahma-saṁhitā, verse 29] -- November 8, 1968, Los Angeles
+  681108T2.LA
+  Talk During Prasāda After Kīrtana -- November 8, 1968, Los Angeles
+  681108TA.LA
+  Śrī Brahma-saṁhitā, Lecture -- November 9, 1968, Los Angeles
+  681109BS.LA
+  Śrīmad-Bhāgavatam 3.25.13 -- November 10, 1968, Los Angeles
+  681110SB.LA
+  Lecture -- November 13, 1968, Los Angeles
+  681113LE.LA
+  Lecture on Twenty-four Elements [partially recorded] -- November 14, 1968, Los Angeles
+  681114LE.LA
+  Class in Los Angeles -- November 15, 1968, Los Angeles
+  681115LE.LA
+  Six Gosvāmīs Lecture, Śrī Śrī Ṣaḍ-govāmy-aṣṭaka -- November 18, 1968, Los Angeles
+  681118LE.LA
+  Bhagavad-gītā As It Is Introduction -- November 23, 1968 , Los Angeles
+  681123BG.LA
+  Bhagavad-gītā 2.1-10 and Talk -- November 25, 1968, Los Angeles
+  681125BG.LA
+  Bhagavad-gītā 2.8-12 -- November 27, 1968, Los Angeles
+  681127BG.LA
+  Talk Before Class -- November 29, 1968, Los Angeles
+  681129TA.LA
+  Bhagavad-gītā 2.13-17 -- November 29, 1968, Los Angeles
+  681129BG.LA
+  December
+  Talk, Initiation Lecture, and Ten Offenses Lecture -- December 1, 1968, Los Angele
+  681201IN.LA
+  Bhagavad-gītā 7.1 -- December 2, 1968, Los Angeles
+  681202BG.LA
+  Śrīmad-Bhāgavatam 2.2.5 -- December 2, 1968, Los Angeles
+  681202SB.LA
+  Lecture -- December 4, 1968, Los Angeles
+  681204LE.LA
+  Bhagavad-gītā 2.26 -- December 6, 1968, Los Angeles
+  681206BG.LA
+  Bhaktisiddhānta Sarasvatī Disappearance Day, Lecture -- December 9, 1968, Los Angeles
+  681209DB.LA
+  Bhagavad-gītā 2.27-38 -- December 11, 1968, Los Angeles
+  681211BG.LA
+  Bhagavad-gītā 2.40-45 -- December 13, 1968, Los Angeles
+  681213BG.LA
+  Bhagavad-gītā 2.46-62 -- December 16, 1968, Los Angeles
+  681216BG.LA
+  Bhagavad-gītā 2.62-72 -- December 19, 1968, Los Angeles
+  681219BG.LA
+  Initiation Lecture -- December 19, 1968, Los Angeles
+  681219IN.LA
+  Bhagavad-gītā 3.1-5 -- December 20, 1968, Los Angeles
+  681220BG.LA
+  Purport to Nitāi-Pada-Kamala -- December 21, 1968, Los Angeles
+  681221PU.LA
+  Press Release -- December 22, 1968, Los Angeles
+  681222LE.LA
+  Recorded Speech to Members of ISKCON London -- December 23, 1968, Los Angeles
+  681223SP.LA
+  Bhagavad-gītā 3.6-10 -- December 23, 1968, Los Angeles
+  681223BG.LA
+  Purport to Prayers by King Kulaśekhara -- December 25, 1968, Los Angeles
+  681225PU.LA
+  Wedding of Śyāma dāsī and Hayagrīva -- December 25, 1968, Los Angeles
+  681225WE.LA
+  Spelling of Prayers to the Six Gosvāmīs -- December 26, 1968, Los Angeles
+  681226P2.LA
+  Purport &amp; Explanation to Hari Hari Biphale -- December 26, 1968, Los Angeles
+  681226PU.LA
+  Interview with LA Times Reporter About Moon Trip -- December 26, 1968, Los Angeles
+  681226IV.LA
+  Bhagavad-gītā 3.11-19 -- December 27, 1968, Los Angeles
+  681227BG.LA
+  Purport to Śrī Śrī Śikṣāṣṭakam [partially recorded] -- December 28, 1968, Los Angeles
+  681228PU.LA
+  Purport to Gaurāṅga Bolite Habe -- December 29, 1968, Los Angeles
+  681229PU.LA
+  Bhagavad-gītā 3.18-30 -- December 30, 1968, Los Angeles
+  681230BG.LA
+  Press Interview -- December 30, 1968, Los Angeles
+  681230IV.LA
+  Spelling of Ārati Song -- December 31, 1968, Los Angeles
+  681231PU.LA
