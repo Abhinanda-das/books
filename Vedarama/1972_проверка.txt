@@ -1,0 +1,867 @@
+Книга: 1972
+Адрес: https://vedarama.com/en/books/1972
+Страниц сайта: 854; заголовков: 855; текстов: 1; картинок: 0 + обложка
+Глав по MCP: 12
+Букв в исходнике: 5938425; в .md: 5938425
+Первый заголовок: 1972
+Последний заголовок: 721231BG.BOM
+
+ЗАМЕЧАНИЯ:
+  - У «1972» нет содержимого (только заголовок).
+
+Оглавление выгрузки:
+1972
+  January
+  Lecture in Hindi -- January 14, 1972, Jaipur
+  720114LE.JAI
+  Lecture in Hindi -- January 17, 1972, Jaipur
+  720117LE.JAI
+  Room Conversation on SB 4.13.48–14.11 -- January 18, 1973, Jaipur
+  720118R1.JAI
+  Room Conversation in Bengali -- January 18, 1972, Jaipur
+  720118R2.JAI
+  Sannyāsa Initiation of Tamal Kṛṣṇa -- January 18, 1972, Jaipur
+  720118IN.JAI
+  Lecture in Hindi -- January 18, 1972, Jaipur
+  720118LE.JAI
+  Room Conversation on SB 1.5.11 -- January 19, 1972, Jaipur
+  720119R1.JAI
+  Lecture in Hindi -- January 19, 1972, Jaipur
+  720119LE.JAI
+  Lecture in Hindi -- January 20, 1972, Jaipur
+  720120LE.JAI
+  Lecture in Hindi -- January 21, 1972, Jaipur
+  720121LE.JAI
+  Lecture in Hindi -- January 22, 1972, Jaipur
+  720122LE.JAI
+  February
+  Room Conversation in Hindi -- February 6, 1972, Bombay
+  720206R1.BOM
+  Room Conversation with Rajaji -- February 12, 1972, Madras
+  720212R1.MAD
+  Bhagavad-gītā 7.1 -- February 14, 1972, Madras
+  720214BG.MAD
+  Room Conversation -- February 15, 1972, Madras
+  720215R1.MAD
+  Room Conversation in Hindi -- February 16, 1972, Madras
+  720216R1.MAD
+  Lecture in Hindi [Partially Recorded] -- February 17, 1972, Visakhapatnam
+  720217LE.VIS
+  Lecture -- February 18, 1972, Visakhapatnam
+  720218LE.VIS
+  Speech at Śrī Caitanya Maṭha -- February 19, 1972, Visakhapatnam
+  720219AD.VIS
+  Lecture at Śrī Caitanya Maṭha -- February 19, 1972, Visakhapatnam
+  720219LE.VIS
+  Lecture at Kṛṣṇa Caitanya Maṭha -- February 20, 1972, Visakhapatnam
+  720220LE.VIS
+  Śrīmad-Bhāgavatam 1.2.5 -- February 20, 1972, Visakhapatnam
+  720220SB.VIS
+  Lecture at Andhra College -- February 21, 1972, Visakhapatnam
+  720221LE.VIS
+  Śrīmad-Bhāgavatam 7.9.43 -- February 22, 1972, Visakhapatnam
+  720222SB.VIS
+  Lecture to Railway Workers -- February 22, 1972, Visakhapatnam
+  720222LE.VIS
+  Bhagavad-gītā 16.5 -- February 23, 1972, Calcutta
+  720223BG.CAL
+  Śrīmad-Bhāgavatam 1.2.6 -- February 23, 1972, Calcutta
+  720223SB.CAL
+  Lecture-- February 24, 1972, Calcutta
+  720224LE.CAL
+  Lecture in Bengali -- February 26, 1972, Mayapur
+  720226LE.MAY
+  Lecture in Bengali Intro by Purī Mahārāja -- February 27, 1972, Māyāpur
+  720227LE.MAY
+  Talk with Bob Cohen -- February 27, 1972, Māyāpur
+  720227TA.MAY
+  Talk with Bob Cohen -- February 28, 1972, Māyāpur
+  720228TA.MAY
+  Talk with Bob Cohen -- February 29, 1972, Māyāpur
+  720229TA.MAY
+  Gaura-Pūrṇimā -- February 29, 1972, Māyāpur
+  720229GP.MAY
+  March
+  Talk with Lalitā Prasād -- March 2, 1972, Birnagar
+  720302TA.BIR
+  Lecture in Bengali -- March 4, 1972, Calcutta
+  720304LE.CAL
+  Śrīmad-Bhāgavatam 7.9.8 -- March 5, 1972, Calcutta
+  720305SB.CAL
+  Śrīmad-Bhāgavatam 7.9.8–9 -- March 6, 1972, Calcutta
+  720306SB.CAL
+  Bhagavad-gītā 9.2 -- March 7, 1972, Calcutta
+  720307BG.CAL
+  Śrīmad-Bhāgavatam 7.9.9 -- March 7, 1972, Calcutta
+  720307SB.CAL
+  Bhagavad-gītā 9.2–3 -- March 8, 1972, Calcutta
+  720308BG.CAL
+  Bhagavad-gītā 9.4–6 -- March 9, 1972, Calcutta
+  720309BG.CAL
+  Room Conversation with Gaurachand Gosvāmī -- March 11, 1972, Vṛndāvana
+  720311R1.VRN
+  Room Conversation -- March 11, 1972, Mathura
+  720311R1.MAT
+  Room Conversation with Dr. Kapoor -- March 12, 1972, Vṛndāvana
+  720312R1.VRN
+  Pandal Lecture -- March 17, 1972, Bombay
+  720317LE.BOM
+  Initiations and Lecture -- March 17, 1972, Bombay
+  720317IN.BOM
+  Pandal Lecture -- March 18, 1972, Bombay
+  720318LE.BOM
+  Pandal Lecture -- March 19, 1972, Bombay
+  720319LE.BOM
+  Lecture -- March 20, 1972, Bombay
+  720320LE.BOM
+  Śrīmad-Bhāgavatam 1.1.1 -- March 21, 1972, Bombay
+  720321SB.BOM
+  Śrīmad-Bhāgavatam 1.1.1–2 -- March 22, 1972, Bombay
+  720322SB.BOM
+  Śrīmad-Bhāgavatam 1.3.43 [partially recorded] -- March 24, 1972, Bombay
+  720324SB.BOM
+  Bhagavad-gītā 7.6 -- March 25, 1972, Bombay
+  720325BG.BOM
+  Śrīmad-Bhāgavatam 1.2.5 [partially recorded] -- March 25, 1972, Bombay
+  720325SB.BOM
+  Śrīmad-Bhāgavatam 1.2.6 -- March 26, 1972, Bombay
+  720326SB.BOM
+  Bhagavad-gītā 7.9 -- March 26, 1972, Bombay
+  720326BG.BOM
+  Lecture [partially recorded] -- March 27, 1972, Bombay
+  720327LE.BOM
+  Bhagavad-gītā 7.10 -- March 27, 1972, Bombay
+  720327BG.BOM
+  Bhagavad-gītā 7.1 in Hindi -- March 28, 1972, Bombay
+  720328BG.BOM
+  Bhagavad-gītā 7.1 in Hindi -- March 29, 1972, Bombay
+  720329BG.BOM
+  Pandal Lecture in Hindi -- March 30, 1972, Bombay
+  720330LE.BOM
+  April
+  Conversation with Author -- April 1, 1972, Sydney
+  720401R1.SYD
+  Room Conversation -- April 2, 1972, Sydney
+  720402R1.SYD
+  Lecture [partially recorded] -- April 2, 1972, Sydney
+  720402LE.SYD
+  Hari Hari Biphale -- April 2, 1972, Sydney
+  720402MU.SYD
+  Śrīmad-Bhāgavatam 1.2.5 -- April 3, 1972, Sydney
+  720403SB.SYD
+  Bhagavad-gītā 13.2 -- April 5, 1972, Melbourne
+  720405BG.MEL
+  Deity Installation, Wedding and Initiations -- April 6, 1972, Melbourne
+  720406IN.MEL
+  Lecture at Tarrawarra Abbey -- April 6, 1972, Melbourne
+  720406LE.MEL
+  Room Conversation with Maharishi Impersonalists -- April 7, 1972, Melbourne
+  720407R1.MEL
+  Initiations and Wedding -- April 9, 1972, Sydney
+  720409IN.SYD
+  Town Hall Lecture -- April 14, 1972, Auckland
+  720414LE.AUC
+  Bhagavad-gītā 7.1, Public Lecture -- April 15, 1972, Auckland
+  720415BG.AUC
+  Deity Installation -- April 15, 1972, Auckland
+  720415DI.AUC
+  Lecture at Art Gallery -- April 16, 1972, Auckland
+  720416LE.AUC
+  Lecture at Auckland University -- April 17, 1972, Auckland
+  720417LE.AUC
+  Room Conversation -- April 17, 1972, Auckland
+  720417R1.AUC
+  Arrival and Interview -- April 19, 1972, Hong Kong
+  720419AR.HK
+  Śrīmad-Bhāgavatam 7.6.1 -- April 20, 1972, Hong Kong
+  720420SB.HK
+  Room Conversation -- April 20, 1972, Hong Kong
+  720420R1.HK
+  Arrival Conversation -- April 20, 1972, Tokyo
+  720420R1.TOK
+  Lecture -- April 20, 1972, Tokyo
+  720420LE.TOK
+  Śrīmad-Bhāgavatam 2.9.1–7 -- April 21, 1972, Tokyo
+  720421SB.TOK
+  Conversation with Dai Nippon Representative -- April 21, 1972, Tokyo
+  720421R1.TOK
+  Śrīmad-Bhāgavatam 2.9.2 -- April 22, 1972, Tokyo
+  720422SB.TOK
+  Room Conversation -- April 22, 1972, Tokyo
+  720422R1.TOK
+  Room Conversation II -- April 22, 1972, Tokyo
+  720422R2.TOK
+  Room Conversation with Dai Nippon Representative -- April 22, 1972, Tokyo
+  720422R3.TOK
+  Conversation in car -- April 22, 1972, Tokyo
+  720422CR.TOK
+  Śrīmad-Bhāgavatam 2.9.1 -- April 23, 1972, Tokyo
+  720423SB.TOK
+  Śrīmad-Bhāgavatam 2.9.1–4 -- April 24, 1972, Tokyo
+  720424SB.TOK
+  Śrīmad-Bhāgavatam 2.9.1–8 -- April 25, 1972, Tokyo
+  720425SB.TOK
+  Śrīmad-Bhāgavatam 2.9.7 -- April 26, 1972, Tokyo
+  720426SB.TOK
+  Śrīmad-Bhāgavatam 2.9.1–9 -- April 27, 1972, Tokyo
+  720427SB.TOK
+  Śrīmad-Bhāgavatam 2.9.10 -- April 28, 1972, Tokyo
+  720428SB.TOK
+  Śrīmad-Bhāgavatam 2.9.1–12 -- April 29, 1972, Tokyo
+  720429SB.TOK
+  Lecture -- April 29, 1972, Tokyo
+  720429LE.TOK
+  Śrīmad-Bhāgavatam 2.9.1–5 -- April 30, 1972, Tokyo
+  720430SB.TOK
+  Śrīmad-Bhāgavatam 11.23.57, Initiations and Sannyāsa of Sudāmā -- April 30, 1972, Tokyo
+  720430IN.TOK
+  May
+  Śrīmad-Bhāgavatam 2.9.2–3 -- May 1, 1972, Tokyo
+  720501SB.TOK
+  Lecture -- May 1, 1972, Tokyo
+  720501LE.TOK
+  Śrīmad-Bhāgavatam 2.9.6–14 -- May 2, 1972, Tokyo
+  720502SB.TOK
+  Śrīmad-Bhāgavatam 2.9.13 -- May 3, 1972, Tokyo
+  720503SB.TOK
+  Śrīmad-Bhāgavatam 2.9.15 -- May 4, 1972, Tokyo
+  720504SB.TOK
+  Śrīmad-Bhāgavatam 2.9.16 -- May 5, 1972, Tokyo
+  720505SB.TOK
+  720505R1.KYO
+  Arrival Lecture -- May 6, 1972, Honolulu
+  720506AR.HON
+  Lecture -- May 10, 1972, Honolulu
+  720510LE.HON
+  Arrival Lecture -- May 18, 1972, Los Angeles
+  720518AR.LA
+  Lecture -- May 18, 1972, Los Angeles
+  720518LE.LA
+  Śrīmad-Bhāgavatam 2.3.1 -- May 19, 1972, Los Angeles
+  720519SB.LA
+  Śrīmad-Bhāgavatam 2.3.1–2 -- May 20, 1972, Los Angeles
+  720520SB.LA
+  Sunday Feast Lecture -- May 21, 1972, Los Angeles
+  720521LE.LA
+  Śrīmad-Bhāgavatam 2.3.1–3 -- May 22, 1972, Los Angeles
+  720522SB.LA
+  Initiations -- May 23, 1972, Los Angeles
+  720523IN.LA
+  Śrīmad-Bhāgavatam 2.3.2–7 -- May 24, 1972, Los Angeles
+  720524SB.LA
+  Śrīmad-Bhāgavatam 2.3.8 and Initiations -- May 25, 1972, Los Angeles
+  720525SB.LA
+  Conversation with the GBC -- May 25, 1972, Los Angeles
+  720525R1.LA
+  Śrīmad-Bhāgavatam 2.3.9 -- May 26, 1972, Los Angeles
+  720526SB.LA
+  Room Conversation -- May 26, 1972, Los Angeles
+  720526R1.LA
+  Sannyāsa Initiation Lecture -- May 27, 1972, Los Angeles
+  720527IN.LA
+  Purport to Bhajahū Re Mana -- May 27, 1972, Los Angeles
+  720527PU.LA
+  Nṛsiṁha-caturdaśī, Śrīmad-Bhāgavatam 7.5.22–32 -- May 27, 1972, Los Angeles
+  720527SB.LA
+  Śrīmad-Bhāgavatam 2.3.10 -- May 28, 1972, Los Angeles
+  720528SB.LA
+  Śrīmad-Bhāgavatam 2.3.11–12 -- May 29, 1972, Los Angeles
+  720529SB.LA
+  Śrīmad-Bhāgavatam 2.3.13 -- May 30, 1972, Los Angeles
+  720530SB.LA
+  Śrīmad-Bhāgavatam 2.3.14–15 -- May 31, 1972, Los Angeles
+  720531SB.LA
+  June
+  Śrīmad-Bhāgavatam 2.3.15 -- June 1, 1972, Los Angeles
+  720601SB.LA
+  Room Conversation with Martin, Marine Biologist -- June 4, 1972, Mexico City
+  720604R1.MEX
+  Room Conversation Excerpt -- June 4, 1972, Mexico City
+  720604R2.MEX
+  Room Conversation -- June 4, 1972, Mexico City
+  720604R3.MEX
+  Lecture [partially recorded] -- June 7, 1972, Los Angeles
+  720607LE.LA
+  Lecture [partially recorded] -- June 8, 1972, Los Angeles
+  720608LE.LA
+  Śrīmad-Bhāgavatam 2.3.17 -- June 12, 1972, Los Angeles
+  720612SB.LA
+  Śrīmad-Bhāgavatam 2.3.18–19 -- June 13, 1972, Los Angeles
+  720613SB.LA
+  Morning Walk -- June 14, 1972, Los Angeles
+  720614MW.LA
+  Śrīmad-Bhāgavatam 2.3.19 -- June 14, 1972, Los Angeles
+  720614SB.LA
+  Garden Conversation, Kṛṣṇa, 'Songs by the Gopīs.' -- June 14, 1972, Los Angeles
+  720614GC.LA
+  Room Conversation with John Fahey -- June 14, 1972, Los Angeles
+  720614R1.LA
+  Śrīmad-Bhāgavatam 2.3.19 -- June 15, 1972, Los Angeles
+  720615SB.LA
+  Room Conversation about Science -- June 15, 1972, Los Angeles
+  720615R1.LA
+  Śrīmad-Bhāgavatam 2.3.20 -- June 16, 1972, Los Angeles
+  720616SB.LA
+  Śrīmad-Bhāgavatam 2.3.20–21 -- June 17, 1972, Los Angeles
+  720617SB.LA
+  Śrīmad-Bhāgavatam 2.3.21 -- June 18, 1972, Los Angeles
+  720618SB.LA
+  Room Conversation -- June 18, 1972, Los Angeles
+  720618R1.LA
+  720618GC.LA
+  Śrīmad-Bhāgavatam 2.3.22 -- June 19, 1972, Los Angeles
+  720619SB.LA
+  Śrīmad-Bhāgavatam 2.3.23 -- June 20, 1972, Los Angeles
+  720620SB.LA
+  Initiations -- June 21, 1972, Los Angeles
+  720621IN.LA
+  Conversation -- June 21, 1972, Los Angeles
+  720621R1.LA
+  Śrīmad-Bhāgavatam 2.3.24 -- June 22, 1972, Los Angeles
+  720622SB.LA
+  Letter Dictation by Śyāmasundara -- June 22, 1972, Los Angeles
+  720622DT.LA
+  Śrīmad-Bhāgavatam 2.3.25 -- June 23, 1972, Los Angeles
+  720623SB.LA
+  Śrīmad-Bhāgavatam 2.4.1, SB 2.3.1—25 Recitation -- June 24, 1972, Los Angeles
+  720624SB.LA
+  Room Conversation -- June 24, 1972, Los Angeles
+  720624R1.LA
+  Garden Conversation -- June 25, 1972, Los Angeles
+  720625GC.LA
+  Śrīmad-Bhāgavatam 2.4.2 -- June 25, 1972, Los Angeles
+  720625SB.LA
+  Śrīmad-Bhāgavatam 2.4.2 -- June 26, 1972, Los Angeles
+  720626SB.LA
+  Garden Conversation -- June 26, 1972, Los Angeles
+  720626GC.LA
+  Śrīmad-Bhāgavatam 2.4.3–4 -- June 27, 1972, Los Angeles
+  720627SB.LA
+  Śrīmad-Bhāgavatam 2.4.3–4 and Initiations -- June 28, 1972, Los Angeles
+  720628SB.LA
+  Arrival Interview -- June 29, 1972, San Diego
+  720629AR.SD
+  Lecture at San Diego University -- June 29, 1972, San Diego
+  720629LE.SD
+  Room Conversation -- June 29, 1972, San Diego
+  720629R1.SD
+  Bhagavad-gītā 7.1 -- June 29, 1972, San Diego
+  720629BG.SD
+  Lecture at Indians Home -- June 30, 1972, San Diego
+  720630LE.SD
+  Interview -- June 30, 1972, San Diego
+  720630IV.SD
+  Bhagavad-gītā 7.1 and Initiations -- June 30, 1972, San Diego
+  720630IN.SD
+  July
+  Morning Walk -- July 1, 1972, San Diego
+  720701MW.SD
+  Hare Krishna Festival Address -- July 1, 1972, San Diego
+  720701AD.SD
+  Room Conversation -- July 1, 1972, San Diego
+  720701R1.SD
+  Bhagavad-gītā 7.1 -- July 2, 1972, San Diego
+  720702BG.SD
+  Departure Address -- July 3, 1972, Los Angeles
+  720703DP.LA
+  Room Conversation and Interview -- July 3, 1972, New York
+  720703R1.NY
+  Room Conversation -- July 4, 1972, New York
+  720704R1.NY
+  Room Conversation with Yadurāṇī -- July 4, 1972, New York
+  720704R2.NY
+  Room Conversation II -- July 4, 1972, New York
+  720704R3.NY
+  Room Conversation with Bob Cohen -- July 4, 1972, New York
+  720704R4.NY
+  Śrīmad-Bhāgavatam 1.1.1 -- July 6, 1972, London
+  720706SB.LON
+  Śrīmad-Bhāgavatam 1.1.2 -- July 7, 1972, London
+  720707SB.LON
+  Room Conversation with Sumati Morarjee -- July 11 1972, London
+  720711R1.LON
+  Lecture -- July 12, 1972, London
+  720712LE.LON
+  Śrīmad-Bhāgavatam 1.1.4 -- July 14, 1972, London
+  720714SB.LON
+  Śrīmad-Bhāgavatam 1.1.5 -- July 15, 1972, London
+  720715SB.LON
+  Ratha-yātrā Address -- July 16, 1972, London
+  720716AD.LON
+  Ratha-yātrā Address II -- July 16, 1972, London
+  720716A2.LON
+  Room Conversation -- July 17, 1972, London
+  720717R1.LON
+  Śrīmad-Bhāgavatam 1.1.10 -- July 20, 1972, London
+  720720SB.LON
+  Arrival Lecture -- July 20, 1972, Paris
+  720720AR.PAR
+  Interview -- July 20, 1972, Paris
+  720720IV.PAR
+  Interview -- July 20, 1972, Paris II
+  720720I2.PAR
+  Room Conversation -- July 25, 1972, Paris
+  720725R1.PAR
+  Śrīmad-Bhāgavatam 1.2.5 -- July 31, 1972, Glasgow
+  720731SB.GLA
+  August
+  Bhagavad-gītā 2.11 -- August 1, 1972, Glasgow
+  720801BG.GLA
+  Room Conversation -- August 1, 1972, London
+  720801R1.LON
+  Śrīmad-Bhāgavatam 1.1.23 -- August 2, 1972, London
+  720802SB.LON
+  Room Conversation with Ian Polsen -- August 2, 1972, London
+  720802R1.LON
+  Śrīmad-Bhāgavatam 5.5.1, Engagement -- August 3, 1972, London
+  720803SB.LON
+  Room Conversation -- August 7, 1972, London
+  720807R1.LON
+  Room Conversation -- August 8, 1972, London
+  720808R1.LON
+  Śrīmad-Bhāgavatam 1.2.11 -- August 9, 1972, London
+  720809SB.LON
+  Room Conversation -- August 9, 1972, London
+  720809R1.LON
+  Śrīmad-Bhāgavatam 1.2.11–12 -- August 10, 1972, London
+  720810SB.LON
+  Interview with Journalists -- August 11, 1972, London
+  720811IV.LON
+  Room Conversation -- August 12, 1972, London
+  720812R1.LON
+  Room Conversation with Sister Mary -- August 13, 1972, London
+  720813R1.LON
+  Śrī Brahmā-saṁhitā 5.32 -- August 14, 1972, Los Angeles
+  720814BS.LA
+  Śrīmad-Bhāgavatam 1.2.12 -- August 15, 1972, Los Angeles
+  720815SB.LA
+  Śrīmad-Bhāgavatam 1.2.13 -- August 16, 1972, Los Angeles
+  720816SB.LA
+  Śrīmad-Bhāgavatam 1.2.14 -- August 17, 1972, Los Angeles
+  720817SB.LA
+  Bhagavad-gītā 7.1 [Staged before Camera] -- August 17, 1972, Los Angeles
+  720817BG.LA
+  Śrīmad-Bhāgavatam 1.2.15 -- August 18, 1972, Los Angeles
+  720818SB.LA
+  Śrīmad-Bhāgavatam 1.2.16 -- August 19, 1972, Los Angeles
+  720819SB.LA
+  Śrīmad-Bhāgavatam 1.2.17 -- August 20, 1972, Los Angeles
+  720820SB.LA
+  Śrīmad-Bhāgavatam 1.2.18 -- August 21, 1972, Los Angeles
+  720821SB.LA
+  Śrīmad-Bhāgavatam 1.2.19 -- August 22, 1972, Los Angeles
+  720822SB.LA
+  Śrīmad-Bhāgavatam 1.2.20 -- August 23, 1972, Los Angeles
+  720823SB.LA
+  Śrīmad-Bhāgavatam 1.2.21 and Initiations -- August 24, 1972, Los Angeles
+  720824SB.LA
+  Śrīmad-Bhāgavatam 1.2.22 -- August 25, 1972, Los Angeles
+  720825SB.LA
+  Śrīmad-Bhāgavatam 1.2.23 -- August 26, 1972, Los Angeles
+  720826SB.LA
+  Śrīmad-Bhāgavatam 1.2.24 -- August 27, 1972, Los Angeles
+  720827SB.LA
+  Śrīmad-Bhāgavatam 1.2.25 -- August 28, 1972, Los Angeles
+  720828SB.LA
+  Initiations, SB 1.1.1—SB 1.3.44 Recitation -- August 29, 1972, Los Angeles
+  720829IN.LA
+  Speech [Bhāgavata-dharma Discourse] -- August 31, 1972, New Vrindavan
+  720831SP.NV
+  September
+  Initiations -- September 1, 1972, New Vrindavan
+  720901IN.NV
+  Janmāṣṭamī, Kṛṣṇa Book Reading -- September 1, 1972, New Vrindavan
+  720901RE.NV
+  Śrīmad-Bhāgavatam 1.2.1 -- September 1, 1972, New Vrindavan
+  720901SB.NV
+  Interview with the New York Times -- September 2, 1972, New Vrindavan
+  720902IV.NV
+  Śrī Vyāsa-pūjā Address -- September 2, 1972, New Vrindavan
+  720902VP.NV
+  Śrīmad-Bhāgavatam 1.2.5 -- September 3, 1972, New Vrindavan
+  720903SB.NV
+  Śrīmad-Bhāgavatam 1.2.6 -- September 4, 1972, New Vrindavan
+  720904SB.NV
+  Śrīmad-Bhāgavatam 1.2.7 -- September 5, 1972, New Vrindavan
+  720905SB.NV
+  Śrīmad-Bhāgavatam 1.2.8 -- September 6, 1972, New Vrindavan
+  720906SB.NV
+  Śrīmad-Bhāgavatam 1.2.9 -- September 7, 1972, New Vrindavan
+  720907SB.NV
+  Bhagavad-gītā 2.13 -- September 8, 1972, Pittsburgh
+  720908BG.PIT
+  Lecture -- September 9, 1972, Pittsburgh
+  720909LE.PIT
+  Interview -- September 9, 1972, Pittsburgh
+  720909IV.PIT
+  Room Conversation -- September 9, 1972, Pittsburgh
+  720909R1.PIT
+  Lecture -- September 10, 1972, Dallas
+  720910LE.DAL
+  Śrīmad-Bhāgavatam 2.1.2 -- September 11, 1972, Dallas
+  720911SB.LA
+  Teaching Children, Conversation -- September 12, 1972, Dallas
+  720912R1.DAL
+  Śrīmad-Bhāgavatam 2.1.1 -- September 12, 1972, Dallas
+  720912SB.DAL
+  Room Conversation -- September 13, 1972, Dallas
+  720913R1.DAL
+  Room Conversation II -- September 13, 1972, Dallas
+  720913R2.DAL
+  Conversation with Bajaj and Bhusan -- September 13, 1972, Arlington Texas
+  720913R1.ARL
+  Morning Walk -- September 14, 1972, Los Angeles
+  720914MW.LA
+  Śrīmad-Bhāgavatam 1.3.7 -- September 14, 1972, Los Angeles
+  720914SB.LA
+  Śrīmad-Bhāgavatam 1.3.8 -- September 14, 1972, Los Angeles
+  720914SB.LA
+  Morning Walk -- September 15, 1972, Los Angeles
+  720915MW.LA
+  Śrīmad-Bhāgavatam 1.3.9 -- September 15, 1972, Los Angeles
+  720915SB.LA
+  Morning Walk -- September 16, 1972, Los Angeles
+  720916MW.LA
+  Śrīmad-Bhāgavatam 1.3.10, Rādhāṣṭami -- September 16, 1972, Los Angeles
+  720916SB.LA
+  Morning Walk -- September 17, 1972, Los Angeles
+  720917MW.LA
+  Śrīmad-Bhāgavatam 1.3.11–12 -- September 17, 1972, Los Angeles
+  720917SB.LA
+  Morning Walk -- September 18, 1972, Los Angeles
+  720918MW.LA
+  Śrīmad-Bhāgavatam 1.3.13 -- September 18, 1972, Los Angeles
+  720918SB.LA
+  Morning Walk -- September 19, 1972, Los Angeles
+  720919MW.LA
+  Śrīmad-Bhāgavatam 1.3.14 -- September 19, 1972, Los Angeles
+  720919SB.LA
+  Morning Walk -- September 20, 1972, Los Angeles
+  720920MW.LA
+  Śrīmad-Bhāgavatam 1.3.15 -- September 20, 1972, Los Angeles
+  720920SB.LA
+  Morning Walk -- September 21, 1972, Los Angeles
+  720921MW.LA
+  Śrīmad-Bhāgavatam 1.3.16 and Initiations -- September 21, 1972, Los Angeles
+  720921SB.LA
+  Morning Walk -- September 22, 1972, Los Angeles
+  720922MW.LA
+  Śrīmad-Bhāgavatam 1.3.17 -- September 22, 1972, Los Angeles
+  720922SB.LA
+  Mānasa Deha Geha and Purport -- September 22, 1972, Los Angeles
+  720922MU.LA
+  Morning Walk -- September 23, 1972, Los Angeles
+  720923MW.LA
+  Śrīmad-Bhāgavatam 1.3.18 -- September 23, 1972, Los Angeles
+  720923SB.LA
+  Nitāi Guṇa Mani Āmāra -- September 23, 1972, Los Angeles
+  720923MU.LA
+  Morning Walk -- September 24, 1972, Los Angeles
+  720924MW.LA
+  Śrīmad-Bhāgavatam 1.3.19 -- September 24, 1972, Los Angeles
+  720924SB.LA
+  Nitāi Guṇa Mani Āmāra and Purport -- September 24, 1972, Los Angeles
+  720924MU.LA
+  Morning Walk -- September 25, 1972, Los Angeles
+  720925MW.LA
+  Śrīmad-Bhāgavatam 1.3.20 -- September 25, 1972, Los Angeles
+  720925SB.LA
+  Jaya Rādhe Jaya Kṛṣṇa -- September 25, 1972, Los Angeles
+  720925MU.LA
+  Morning Walk -- September 26, 1972, Los Angeles
+  720926MW.LA
+  Śrīmad-Bhāgavatam 1.3.21 -- September 26, 1972, Los Angeles
+  720926SB.LA
+  Anādi karama-phale and Purport -- September 26, 1972, Los Angeles
+  720926MU.LA
+  Talk -- September 26, 1972, Los Angeles
+  720926TA.LA
+  Morning Walk -- September 27, 1972, Los Angeles
+  720927MW.LA
+  Śrīmad-Bhāgavatam 1.3.22 -- September 27, 1972, Los Angeles
+  720927SB.LA
+  Śuddha-bhakata-caraṇa-reṇu and Purport -- September 27, 1972, Los Angeles
+  720927MU.LA
+  Morning Walk -- September 28, 1972, Los Angeles
+  720928MW.LA
+  Śrīmad-Bhāgavatam 1.3.23 -- September 28, 1972, Los Angeles
+  720928SB.LA
+  Morning Walk -- September 29, 1972, Los Angeles
+  720929MW.LA
+  Talk -- September 29, 1972, Los Angeles
+  720929TA.LA
+  Room Conversation -- September 29, 1972, Los Angeles
+  720929R1.LA
+  Śrīmad-Bhāgavatam 1.3.24 -- September 29, 1972, Los Angeles
+  720929SB.LA
+  Morning Walk -- September 30, 1972, Los Angeles
+  720930MW.LA
+  Śrīmad-Bhāgavatam 1.3.25 -- September 30, 1972, Los Angeles
+  720930SB.LA
+  Lecture -- September 30, 1972, Laguna Beach
+  720930LE.LB
+  October
+  Morning Walk -- October 1, 1972, Los Angeles
+  721001MW.LA
+  Śrīmad-Bhāgavatam 1.3.26 -- October 1, 1972, Los Angeles
+  721001SB.LA
+  Morning Walk -- October 2, 1972, Los Angeles
+  721002MW.LA
+  Śrīmad-Bhāgavatam 1.3.27 -- October 2, 1972, Los Angeles
+  721002SB.LA
+  Āmār Jīvan with Purport -- October 2, 1972, Los Angeles
+  721002MU.LA
+  Morning Walk -- October 3, 1972, Los Angeles
+  721003MW.LA
+  Śrīmad-Bhāgavatam 1.3.28 -- October 3, 1972, Los Angeles
+  721003SB.LA
+  Room Conversation with Psychiatrist -- October 3, 1972, Los Angeles
+  721003R1.LA
+  Śrīmad-Bhāgavatam 1.3.29 -- October 4, 1972, Los Angeles
+  721004SB.LA
+  Śrīmad-Bhāgavatam 1.3.30 -- October 5, 1972, Los Angeles
+  721005SB.LA
+  Departure, Brahma-saṁhitā 5.1 -- October 5, 1972, Los Angeles
+  721005DP.LA
+  Arrival -- October 5, 1972, Berkeley
+  721005AR.BER
+  Tour -- October 6, 1972, Berkeley
+  721006TR.BER
+  Meeting at University -- October 6, 1972, Berkeley
+  721006ME.BER
+  Room Conversation -- October 6, 1972, Berkeley
+  721006R1.BER
+  Morning Walk -- October 7, 1972, Berkeley
+  721007MW.BER
+  Morning Walk -- October 8, 1972, Berkeley
+  721008MW.BER
+  Arrival Address -- October 9, 1972, Honolulu
+  721009AR.HON
+  Bhagavad-gītā 2.13 -- October 12, 1972, Manila
+  721012BG.MAN
+  Room Conversation with Kenneth Keating -- October 14, 1972, Delhi
+  721014R1.DEL
+  Lecture in Hindi -- October 14, 1972, Delhi
+  721014LE.DEL
+  Morning Walk -- October 15, 1972, Vṛndāvana
+  721015MW.VRN
+  Lecture [Intro by Dr. Kapoor] -- October 15, 1972, Vṛndāvana
+  721015LE.VRN
+  Śrīmad-Bhāgavatam 1.2.5 -- October 16, 1972, Vṛndāvana
+  721016SB.VRN
+  The Nectar of Devotion -- October 16, 1972, Vṛndāvana
+  721016ND.VRN
+  Śrīmad-Bhāgavatam 1.2.6 -- October 17, 1972, Vṛndāvana
+  721017SB.VRN
+  The Nectar of Devotion -- October 17, 1972, Vṛndāvana
+  721017ND.VRN
+  Śrīmad-Bhāgavatam 1.2.7 -- October 18, 1972, Vṛndāvana
+  721018SB.VRN
+  The Nectar of Devotion -- October 18, 1972, Vṛndāvana
+  721018ND.VRN
+  Śrīmad-Bhāgavatam 1.2.8 -- October 19, 1972, Vṛndāvana
+  721019SB.VRN
+  The Nectar of Devotion -- October 19, 1972, Vṛndāvana
+  721019ND.VRN
+  Kṛṣṇadāsa Kavirāja Gosvāmī's Appearance Day -- October 19, 1972, Vṛndāvana
+  721019AK.VRN
+  Śrīmad-Bhāgavatam 1.2.9 -- October 20, 1972, Vṛndāvana
+  721020SB.VRN
+  The Nectar of Devotion -- October 20, 1972, Vṛndāvana
+  721020ND.VRN
+  Śrīmad-Bhāgavatam 1.2.10 -- October 21, 1972, Vṛndāvana
+  721021SB.VRN
+  The Nectar of Devotion -- October 21, 1972, Vṛndāvana
+  721021ND.VRN
+  Sannyāsa Initiation -- October 22, 1972, Vṛndāvana
+  721022IN.VRN
+  Śrīmad-Bhāgavatam 1.2.11 -- October 22, 1972, Vṛndāvana
+  721022SB.VRN
+  Śrīmad-Bhāgavatam 1.2.12 -- October 23, 1972, Vṛndāvana
+  721023SB.VRN
+  The Nectar of Devotion -- October 23, 1972, Vṛndāvana
+  721023ND.VRN
+  Śrīmad-Bhāgavatam 1.2.13 -- October 24, 1972, Vṛndāvana
+  721024SB.VRN
+  The Nectar of Devotion -- October 24, 1972, Vṛndāvana
+  721024ND.VRN
+  Room Conversation -- October 24, 1972, Vṛndāvana
+  721024R1.VRN
+  Room Conversation II -- October 24, 1972, Vṛndāvana
+  721024R2.VRN
+  Room Conversation -- October 25, 1972, Vṛndāvana
+  721025R1.VRN
+  Room Conversation II -- October 25, 1972, Vṛndāvana
+  721025R2.VRN
+  Room Conversation III -- October 25, 1972, Vṛndāvana
+  721025R3.VRN
+  Śrīmad-Bhāgavatam 1.2.15 -- October 26, 1972, Vṛndāvana
+  721026SB.VRN
+  The Nectar of Devotion -- October 26, 1972, Vṛndāvana
+  721026ND.VRN
+  Śrīmad-Bhāgavatam 1.2.16 -- October 27, 1972, Vṛndāvana
+  721027SB.VRN
+  Room Conversation -- October 27, 1972, Vṛndāvana
+  721027R1.VRN
+  The Nectar of Devotion -- October 27, 1972, Vṛndāvana
+  721027ND.VRN
+  Śrīmad-Bhāgavatam 1.2.17 -- October 28, 1972, Vṛndāvana
+  721028SB.VRN
+  The Nectar of Devotion -- October 28, 1972, Vṛndāvana
+  721028ND.VRN
+  Śrīmad-Bhāgavatam 1.2.18 -- October 29, 1972, Vṛndāvana
+  721029SB.VRN
+  The Nectar of Devotion -- October 29, 1972, Vṛndāvana
+  721029ND.VRN
+  Śrīmad-Bhāgavatam 1.2.19 -- October 30, 1972, Vṛndāvana
+  721030SB.VRN
+  The Nectar of Devotion -- October 30, 1972, Vṛndāvana
+  721030ND.VRN
+  Śrīmad-Bhāgavatam 1.2.20 -- October 31, 1972, Vṛndāvana
+  721031SB.VRN
+  The Nectar of Devotion -- October 31, 1972, Vṛndāvana
+  721031ND.VRN
+  November
+  Śrīmad-Bhāgavatam 1.2.21 -- November 1, 1972, Vṛndāvana
+  721101SB.VRN
+  Room Conversation -- November 1, 1972, Vṛndāvana
+  721101R1.VRN
+  The Nectar of Devotion -- November 1, 1972, Vṛndāvana
+  721101ND.VRN
+  Śrīmad-Bhāgavatam 1.2.22 -- November 2, 1972, Vṛndāvana
+  721102SB.VRN
+  The Nectar of Devotion -- November 2, 1972, Vṛndāvana
+  721102ND.VRN
+  Śrīmad-Bhāgavatam 1.2.23 -- November 3, 1972, Vṛndāvana
+  721103SB.VRN
+  The Nectar of Devotion -- November 3, 1972, Vṛndāvana
+  721103ND.VRN
+  Śrīmad-Bhāgavatam 1.2.24 -- November 4, 1972, Vṛndāvana
+  721104SB.VRN
+  The Nectar of Devotion -- November 4, 1972, Vṛndāvana
+  721104ND.VRN
+  Śrīmad-Bhāgavatam 1.2.25 -- November 5, 1972, Vṛndāvana
+  721105SB.VRN
+  The Nectar of Devotion -- November 5, 1972, Vṛndāvana
+  721105ND.VRN
+  Śrīmad-Bhāgavatam 1.2.26 -- November 6, 1972, Vṛndāvana
+  721106SB.VRN
+  The Nectar of Devotion -- November 6, 1972, Vṛndāvana
+  721106ND.VRN
+  Śrīmad-Bhāgavatam 1.2.27 -- November 7, 1972, Vṛndāvana
+  721107SB.VRN
+  Room Conversation -- November 7, 1972, Vṛndāvana
+  721107R1.VRN
+  The Nectar of Devotion -- November 7, 1972, Vṛndāvana
+  721107ND.VRN
+  Śrīmad-Bhāgavatam 1.2.28–29 -- November 8, 1972, Vṛndāvana
+  721108SB.VRN
+  The Nectar of Devotion -- November 8, 1972, Vṛndāvana
+  721108ND.VRN
+  Śrīmad-Bhāgavatam 1.2.30 -- November 9, 1972, Vṛndāvana
+  721109SB.VRN
+  The Nectar of Devotion -- November 9, 1972, Vṛndāvana
+  721109ND.VRN
+  Morning Walk -- November 10, 1972, Vṛndāvana
+  721110MW.VRN
+  Śrīmad-Bhāgavatam 1.2.31 -- November 10, 1972, Vṛndāvana
+  721110SB.VRN
+  The Nectar of Devotion -- November 10, 1972, Vṛndāvana
+  721110ND.VRN
+  Śrīmad-Bhāgavatam 1.2.32 -- November 11, 1972, Vṛndāvana
+  721111SB.VRN
+  The Nectar of Devotion -- November 11, 1972, Vṛndāvana
+  721111ND.VRN
+  Śrīmad-Bhāgavatam 1.2.33 -- November 12, 1972, Vṛndāvana
+  721112SB.VRN
+  The Nectar of Devotion -- November 12, 1972, Vṛndāvana
+  721112ND.VRN
+  Śrīmad-Bhāgavatam 1.2.34 -- November 13, 1972, Vṛndāvana
+  721113SB.VRN
+  The Nectar of Devotion -- November 13, 1972, Vṛndāvana
+  721113ND.VRN
+  Śrīmad-Bhāgavatam 1.3.1 -- November 14, 1972, Vṛndāvana
+  721114SB.VRN
+  The Nectar of Devotion -- November 14, 1972, Vṛndāvana
+  721114ND.VRN
+  Bhagavad-gītā 2.12 -- November 17, 1972, Hyderabad
+  721117BG.HYD
+  Bhagavad-gītā 2.13 -- November 18, 1972, Hyderabad
+  721118BG.HYD
+  Bhagavad-gītā 2.13 -- November 19, 1972, Hyderabad
+  721119BG.HYD
+  Bhagavad-gītā 2.15 -- November 21, 1972, Hyderabad
+  721121BG.HYD
+  Bhagavad-gītā 2.17 -- November 22, 1972, Hyderabad
+  721122BG.HYD
+  Bhagavad-gītā 2.18 -- November 23, 1972, Hyderabad
+  721123BG.HYD
+  Bhagavad-gītā 2.20 -- November 25, 1972, Hyderabad
+  721125BG.HYD
+  Śrīmad-Bhāgavatam 1.2.6 -- November 26, 1972, Hyderabad
+  721126SB.HYD
+  Bhagavad-gītā 2.22 -- November 26, 1972, Hyderabad
+  721126BG.HYD
+  Bhagavad-gītā 2.23 -- November 27, 1972, Hyderabad
+  721127BG.HYD
+  Bhagavad-gītā 2.24 -- November 28, 1972, Hyderabad
+  721128BG.HYD
+  Rotary Club Lecture, Bhagavad-gītā 3.21 -- November 29, 1972, Hyderabad
+  721129LE.HYD
+  Bhagavad-gītā 2.25 -- November 29, 1972, Hyderabad
+  721129BG.HYD
+  Bhagavad-gītā 2.26 -- November 30, 1972, Hyderabad
+  721130BG.HYD
+  December
+  Rotary Club Lecture, Bhagavad-gītā 2.24 -- December 5, 1972, Ahmedabad
+  721205LE.AHM
+  Bhagavad-gītā 2.1 -- December 6, 1972, Ahmedabad
+  721206BG.AHM
+  Bhagavad-gītā 2.1 -- December 7, 1972, Ahmedabad
+  721207BG.AHM
+  Rotary Club Address -- December 8, 1972, Ahmedabad
+  721208AD.AHM
+  Lecture -- December 8, 1972, Ahmedabad
+  721208BG.AHM
+  Bhagavad-gītā 18.67–69 -- December 9, 1972, Ahmedabad
+  721209BG.AHM
+  Bhagavad-gītā 18.67 -- December 10, 1972, Ahmedabad
+  721210BG.AHM
+  Lecture in Hindi -- December 10, 1972, Ahmedabad
+  721210LE.AHM
+  Room Conversation in Hindi -- December 10, 1972, Ahmedabad
+  721210R1.AHM
+  Bhagavad-gītā 2.2–6 -- December 11, 1972, Ahmedabad
+  721211BG.AHM
+  Bhagavad-gītā 6.47 -- December 12, 1972, Ahmedabad
+  721212BG.AHM
+  Bhagavad-gītā 7.1 -- December 13, 1972, Ahmedabad
+  721213BG.AHM
+  Bhagavad-gītā 7.1–3 -- December 14, 1972, Ahmedabad
+  721214BG.AHM
+  Bhagavad-gītā 7.4 -- December 19, 1972, Bombay
+  721219BG.BOM
+  Lecture, Manipurin Dancing Group, the Zaveri Sisters -- December 20, 1972, Bombay
+  721220LE.BOM
+  Śrīmad-Bhāgavatam 1.2.8 -- December 26, 1972, Bombay
+  721226SB.BOM
+  The Nectar of Devotion -- December 26, 1972, Bombay
+  721226ND.BOM
+  Room Conversation -- December 27, 1972, Bombay
+  721227R1.BOM
+  The Nectar of Devotion -- December 27, 1972, Bombay
+  721227ND.BOM
+  Śrīmad-Bhāgavatam 1.2.10 -- December 28, 1972, Bombay
+  721228SB.BOM
+  The Nectar of Devotion -- December 28, 1972, Bombay
+  721228ND.BOM
+  Śrīmad-Bhāgavatam in Hindi -- December 29, 1972, Bombay
+  721229SB.BOM
+  Bhagavad-gītā 13.1–2 -- December 29, 1972, Bombay
+  721229BG.BOM
+  Room Conversation -- December 30, 1972, Bombay
+  721230R1.BOM
+  Bhagavad-gītā 13.3 -- December 30, 1972, Bombay
+  721230BG.BOM
+  Bhagavad-gītā 13.2–4 -- December 31, 1972, Bombay
+  721231BG.BOM
