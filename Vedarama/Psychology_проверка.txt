@@ -1,0 +1,13 @@
+Книга: Psychology
+Адрес: https://vedarama.com/en/books/ad-rwtp
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 15840; в .md: 15840
+Первый заголовок: Psychology
+Последний заголовок: A Random Walk Through Perception
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Psychology
+  A Random Walk Through Perception
