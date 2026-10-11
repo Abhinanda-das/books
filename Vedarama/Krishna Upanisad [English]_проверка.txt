@@ -1,0 +1,15 @@
+Книга: Krishna Upanisad [English]
+Адрес: https://vedarama.com/en/books/krishnau
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 6074; в .md: 6074
+Первый заголовок: Krishna Upanisad [English]
+Последний заголовок: Chapter Two
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Krishna Upanisad [English]
+  Introduction
+  Chapter One
+  Chapter Two

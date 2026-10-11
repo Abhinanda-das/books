@@ -1,0 +1,20 @@
+Книга: Advaitāṣṭakam 1
+Адрес: https://vedarama.com/en/books/sarvabhauma-advaitastakam1
+Страниц сайта: 8; заголовков: 9; текстов: 8; картинок: 0
+Глав по MCP: 8
+Букв в исходнике: 3427; в .md: 3427
+Первый заголовок: Advaitāṣṭakam 1
+Последний заголовок: Text 8
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Advaitāṣṭakam 1
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8

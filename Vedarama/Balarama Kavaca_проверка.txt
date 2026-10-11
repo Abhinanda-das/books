@@ -1,0 +1,13 @@
+Книга: Balarama Kavaca
+Адрес: https://vedarama.com/en/books/bk
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 2624; в .md: 2624
+Первый заголовок: Balarama Kavaca
+Последний заголовок: Balarama Kavaca
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Balarama Kavaca
+  Balarama Kavaca

@@ -1,0 +1,14 @@
+Книга: Black Holes – Advanced Explanation by Stephen Hawking
+Адрес: https://vedarama.com/en/books/bhae
+Страниц сайта: 2; заголовков: 3; текстов: 0; картинок: 0
+Глав по MCP: 2
+Букв в исходнике: 3981; в .md: 3981
+Первый заголовок: Black Holes – Advanced Explanation by Stephen Hawking
+Последний заголовок: Black Holes - Elementary
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Black Holes – Advanced Explanation by Stephen Hawking
+  Black Holes – Advanced Explanation
+  Black Holes - Elementary

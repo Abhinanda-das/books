@@ -1,0 +1,15 @@
+Книга: Leadership Excellence 4
+Адрес: https://vedarama.com/en/books/le4
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 3085; в .md: 3085
+Первый заголовок: Leadership Excellence 4
+Последний заголовок: Envy
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leadership Excellence 4
+  Bhismadeva's Instructions
+  'Fan the Spark' Tips
+  Envy

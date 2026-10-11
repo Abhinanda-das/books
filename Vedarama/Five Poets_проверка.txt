@@ -1,0 +1,23 @@
+Книга: Five Poets
+Адрес: https://vedarama.com/en/books/5poets
+Страниц сайта: 11; заголовков: 12; текстов: 0; картинок: 0
+Глав по MCP: 6
+Букв в исходнике: 68756; в .md: 68756
+Первый заголовок: Five Poets
+Последний заголовок: Vidyapati
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Five Poets
+  Quotes
+  Introduction
+  Sri Jayadeva Goswami
+  Srita Kamala
+  Translation
+  Sri Dasavatara-stotra
+  Sri Bilvamangala Thakur
+  Ramananda Raya
+  Candidasa &amp; Vidyapati
+  Candidasa
+  Vidyapati

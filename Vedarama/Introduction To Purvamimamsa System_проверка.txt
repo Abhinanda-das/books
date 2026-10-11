@@ -1,0 +1,21 @@
+Книга: Introduction To Purvamimamsa System
+Адрес: https://vedarama.com/en/books/itps
+Страниц сайта: 9; заголовков: 10; текстов: 0; картинок: 0
+Глав по MCP: 9
+Букв в исходнике: 87767; в .md: 87767
+Первый заголовок: Introduction To Purvamimamsa System
+Последний заголовок: Bibliography
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Introduction To Purvamimamsa System
+  Foreword
+  Preface
+  Chapter 1.Origin and Development
+  Chapter 2.Brief History of Mimamsa
+  Chapter 3.Difference between Kumarila and Prabhakara schools
+  Chapter 4.Contents of Mimamsa
+  Chapter 5.Pramanas
+  Chapter 6.Main principles of Mimamsa
+  Bibliography

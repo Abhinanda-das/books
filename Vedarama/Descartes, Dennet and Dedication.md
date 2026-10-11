@@ -1,0 +1,28 @@
+---
+title: "Descartes, Dennet and Dedication"
+author: "Bhakti Vedanta Tripurāri Mahārāja"
+tags:
+  - "Английский"
+cssclasses:
+  - vedarama-book
+source: Vedarama
+source_url: "https://vedarama.com/en/books/sbvt-ddad"
+---
+
+# Descartes, Dennet and Dedication
+
+## Descartes, Dennet and Dedication
+
+It is perhaps worth noting that Descartes’ argument for a self in the shape of human consciousness distinct from the objective world of matter (which was, in Descartes’ mind, ours to exploit), however lacking in other respects, has never been refuted on the epistemological ground on which it was formed. From the yogin’s perspective, which leaves behind Descartes’ sense of entitlement lending to exploitation of the natural world, the balance of his argument has some merit. While the dualism of mind/brain first formulated in Western philosophy by Descartes may not be popular in the 21st century for a number of good reasons, the materialistic monism/functionalism that enjoys popularity also leaves much to be desired, especially for the yogin, despite his or her preoccupation with yogicnondualism. Functionalism advocate Daniel Dennet, in his widely read “Consciousness Explained,” begins by admitting that his efforts at demystifying consciousness will be viewed by many as “an act of intellectual vandalism.” In other words he knows that he has a hard sale to make.
+
+Why? Because his conclusion that humans are devoid of conscious experience runs counter to the deeply rooted sense in all of us that we all have conscious experience—quallia, sentience, sapience—and that such experience is the essence of any meaningful life. John Searle says it well when he writes,  “ . . . if your theory results in the view that consciousness does not exist, you have simply produced a reductio ad absurdum of your theory.”
+
+As does the yogic worldview, Searle considers consciousness to be irreducible. However, Searle does not consider consciousness a “stuff” different from matter, as do the yogins. Searle also ignores two major dimensions of consciousness, dream and deep sleep, which are unarguably connected with consciousness in the waking dimension and important from the yogicperspective. He also focuses his discussion of consciousness on cognitive functions and behavioral patterns in the waking state; whereas the yogic worldview focuses on this unitary I-ness of consciousness, on the experiencer rather than its experiences from which awareness of pain, pleasure etc. derive meaning.
+
+In the yogic worldview consciousness is a non-spatial stuff that is linked to the brain via the mind, through which it can be contemplated and through the silencing of which in meditation it can be known. Such meditation and yogic dedication involves a radical objectivity, calling for detachment on the part of the conscious being from his or her material surroundings in an effort to experience consciousness as independent of matter. What is that experience? It is ourselves, our pure “I-ness” unencumbered by the physical and psychic dimensions of awareness that constitute our material ego or fleeting sense of material identity. What is the nature of this yogic experience? Sam Harris, popular atheist author with a keen interest in neuroscience and a desire to revisit religion with reason said it well when he said that he considers it likely that the happiest man on the planet might well have spent the last twenty years living alone in a cave (in meditation).
+
+Outside of meditation, this I-ness appears in materially adulterated forms during our waking/physical and dream/psychic states. In deep dreamless sleep it also endures in a condition vaguely aware of itself yet unfettered by the psychic and physical dimensions of awareness. If it were not vaguely aware of itself, how could we “experience” dreamless sleep? Can one remember that which one has no experience of? A blind man can know what it is like to see colors only if he has experienced them before he became blind. Similarly, after waking I remember that I slept deeply only because consciousness/I-ness existed during that sleep, at which time I had a vague awareness of a “content-less” experience. One cannot remember that which one has no experience of. Nor can one infer something that has never presented itself somewhere at sometime. The yogic insight in all of this is that beyond the objective world of matter experienced in our waking state and the subjective world of mind represented in dreams, we exist as a unit of consciousness. The physical and psychic dimensions of life will close down at death, but the self lives on. Yoga is about realizing this—about transcending materially adulterated I-ness and waking up to the enduring self.
+
+Consciousness cannot be reduced to the brain. While there is an obvious correlation between the two, they are as different as night is from day. There is a divide between matter and spirit, as there is between shadow and light. However, the yogic world view that distinguishes consciousness from matter is simultaneously monistic in some respects, and thus it is a much softer dualism than that of Descartes—a kinder, yogic, dedicated nondual/dualism. Matter is different from consciousness, but is not independent of it and in this sense something entirely other. One is not holy, the other profane. All is sacred, even while consciousness is the sole enduring factor amidst an ever changing material phenomena. “Things” may be here today and gone tomorrow, but when we stop exploiting them as if they belong to us, even they may lead us to a better understanding of ourselves and our source.
+
+This article was originally published in Ananda Magazine, Autumn 2009.

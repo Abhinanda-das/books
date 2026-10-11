@@ -1,0 +1,16 @@
+Книга: Electricity in Atharva Veda
+Адрес: https://vedarama.com/en/books/eiav
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 24435; в .md: 24435
+Первый заголовок: Electricity in Atharva Veda
+Последний заголовок: <strong>Conclusion</strong>
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Electricity in Atharva Veda
+  <strong>Introduction</strong>
+  <strong>Non-military Applications of Electricity</strong>
+  <strong>Military Usage of Electricity</strong>
+  <strong>Conclusion</strong>

@@ -1,0 +1,16 @@
+Книга: Leadership Excellence 20
+Адрес: https://vedarama.com/en/books/le20
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 8093; в .md: 8093
+Первый заголовок: Leadership Excellence 20
+Последний заголовок: Editor's Note
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leadership Excellence 20
+  Personal Example
+  Sannyasa
+  A Basic Leadership Principle, Part 3
+  Editor's Note

@@ -1,0 +1,25 @@
+Книга: Kāvyaprakāśa
+Адрес: https://vedarama.com/en/books/kavyapr
+Страниц сайта: 13; заголовков: 14; текстов: 0; картинок: 0
+Глав по MCP: 13
+Букв в исходнике: 430922; в .md: 430922
+Первый заголовок: Kāvyaprakāśa
+Последний заголовок: Chapter X - The Ideal Figures Of Speech
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Kāvyaprakāśa
+  Foreword
+  'Light of Poesy' - Preface To The Second Edition
+  Preface to the First Edition
+  Chapter I - Of The Aim, Source And Kinds Of Poetry
+  Chapter II - Of The Nature Of Words And Their Meanings
+  Chapter III - The Suggestiveness Of Meaning
+  Chapter IV - Suggestive Poetry
+  Chapter V - Poetry Of Subordinate Suggestion (Poetry of Intermediate Order)
+  Chapter VI - Lowest Kind Of Poetry
+  Chapter VII - Of Defects
+  Chapter VIII - Of Excellences
+  Chapter IX - The Verbal Figures Of Speech
+  Chapter X - The Ideal Figures Of Speech

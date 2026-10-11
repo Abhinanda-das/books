@@ -1,0 +1,13 @@
+Книга: Leaders vs. Managers
+Адрес: https://vedarama.com/en/books/ad-lvm
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 3883; в .md: 3883
+Первый заголовок: Leaders vs. Managers
+Последний заголовок: Leaders vs. Managers
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leaders vs. Managers
+  Leaders vs. Managers

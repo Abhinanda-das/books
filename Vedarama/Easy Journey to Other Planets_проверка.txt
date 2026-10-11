@@ -1,0 +1,15 @@
+Книга: Easy Journey to Other Planets
+Адрес: https://vedarama.com/en/books/ej
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 3
+Букв в исходнике: 96462; в .md: 96462
+Первый заголовок: Easy Journey to Other Planets
+Последний заголовок: 2: Varieties of Planetary Systems
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Easy Journey to Other Planets
+  Preface
+  1: Anti-material Worlds
+  2: Varieties of Planetary Systems

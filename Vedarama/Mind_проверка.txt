@@ -1,0 +1,190 @@
+Книга: Mind
+Адрес: https://vedarama.com/en/books/sjn-mind
+Страниц сайта: 178; заголовков: 179; текстов: 0; картинок: 8 + обложка
+Глав по MCP: 16
+Букв в исходнике: 415211; в .md: 415211
+Первый заголовок: Mind
+Последний заголовок: 11. THE SELF
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Mind
+  Acknowledgments
+  Introduction
+  Chapter one
+  A Dozen Problems in the Philosophy of Mind
+  I. Descartes and other disasters
+  1. The Mind-Body Problem
+  2. The Problem of Other Minds
+  3. The Problem of Skepticism about the External World and 4. The Analysis of Perception
+  5. The Problem of Free Will
+  6. The Self and Personal Identity
+  7. Do Animals Have Minds?
+  8. The Problem of Sleep
+  II. Four more problems
+  9. The Problem of Intentionality
+  10. Mental Causation and Epiphenomenalism
+  11. The Unconscious
+  12. Psychological and Social Explanation
+  III. Descartes’ solutions to the problems
+  1. The Mind-Body Problem
+  2. The Problem of Other Minds
+  3. Skepticism about the External World and 4. The Correct Analysis of Perception
+  5. The Problem of Free Will
+  6. The Self and Personal Identity
+  7. Animals and 8. Sleep
+  Chapter two
+  The Turn to Materialism
+  I. Troubles with dualism
+  II. The turn to materialism
+  III. The saga of materialism: from behaviorism to strong artificial intelligence
+  Behaviorism
+  Methodological Behaviorism
+  Logical Behaviorism
+  Physicalism and the Identity Theory
+  Objections to the Identity Theory
+  Functionalism
+  Computer Functionalism (= Strong Artificial Intelligence)
+  IV. Computation and mental processes
+  V. Other versions of materialism
+  Chapter three
+  Arguments against Materialism
+  I. Eight (and one half) arguments against materialism
+  1. Absent Qualia
+  2. Spectrum Inversion
+  3. Thomas Nagel: What Is It Like to Be a Bat?
+  4. Frank Jackson: What Mary Didn’t Know
+  5. Ned Block: The Chinese Nation
+  6. Saul Kripke: Rigid Designators
+  7. John Searle: The Chinese Room
+  8. The Conceivability of Zombies
+  9. The Aspectual Shape of Intentionality
+  II. Materialist answers to the foregoing arguments
+  Answers to Nagel and Jackson
+  Answers to Kripke on Rigid Designators
+  Answers to Searle’s Chinese Room Argument
+  Answers to the Conceivability of Zombies
+  III. Conclusion
+  Chapter four
+  Consciousness Part I
+  I. Four mistaken assumptions
+  Assumption 1. The Distinction between the Mental and the Physical
+  Assumption 2. The Notion of Reduction
+  Assumption 3. Causation and Events
+  Assumption 4. The Transparency of Identity
+  II. The solution to the mind-body problem
+  III. Overcoming the mistaken assumptions
+  Assumption 1. The Distinction between the Mental and the Physical
+  Assumption 2. Reduction
+  Assumption 3. Causation and Events
+  Assumption 4. Identity
+  IV. Neither materialism nor dualism
+  V. Summary of the refutation of materialism and dualism
+  Chapter five
+  Consciousness Part II
+  I. Features of consciousness
+  1. Qualitativeness
+  2. Subjectivity
+  3. Unity
+  4. Intentionality
+  5. Mood
+  6. The Distinction between the Center and the Periphery
+  7. Pleasure / Unpleasure
+  8. Situatedness
+  9. Active and Passive Consciousness
+  10. The Gestalt Structure
+  11. The Sense of Self
+  II. Some other philosophical approaches to the problem of consciousness
+  1. Mysterians
+  2. Supervenience
+  3. Pan-Psychism
+  4. Neurobiology
+  III. Current neurobiological approaches to consciousness
+  IV. Consciousness, memory, and the self
+  V. Conclusion
+  Chapter six
+  Intentionality
+  I. How is intentionality possible at all?
+  II. The structure of intentionality
+  1. Propositional Content and Psychological Mode
+  2. Direction of Fit
+  4. Causal Self-Referentiality
+  5. The Network of Intentionality and the Background of Preintentional Capacities
+  III. Intentionality-with-a-t and intensionality-with-an-s
+  IV. The determination of intentional content: two arguments for externalism
+  The First Argument for Externalism: Hilary Putnam and Twin Earth.
+  The Second Argument for Externalism: Tyler Burge and Arthritis.
+  V. How internal mental content relates agents to the world
+  VI. Conclusion
+  Chapter seven
+  Mental Causation
+  I. Hume’s account of causation
+  II. Do we never experience causation?
+  III. Mental causation and the causal closure of the physical
+  IV. Mental causation and the explanation of human behavior
+  Chapter eight
+  Free Will
+  I. Why do we have a problem about the freedom of the will?
+  II. Is compatibilism a solution to the problem of free will?
+  III. Is psychological determinism true?
+  IV. Is neurobiological determinism true?
+  V. Constructing a test case
+  Hypothesis 1: Determinism and the Mechanical Brain
+  Hypothesis 2: Indeterminism and the Quantum Brain
+  VI. Conclusion
+  Chapter nine
+  The Unconscious and the Explanation of Behavior
+  I. Four types of the unconscious
+  II. The connection principle
+  III. Unconscious reasons for action
+  IV. Unconscious rule following
+  V. Conclusion
+  Chapter ten
+  Perception
+  I. Arguments for the sense-datum theory
+  The Argument from Science
+  The Argument from Illusion
+  II. Consequences of the sense-datum theory
+  III. Refutation of the sense-datum theory
+  The Argument from Science
+  The Argument from Illusion
+  IV. A transcendental argument for direct realism
+  Chapter eleven
+  TheSelf
+  I. Three problems of the self
+  1. What Are the Criteria of Personal Identity?
+  2. What Exactly Is the Subject of Our Attribution of Psychological Properties?
+  3. What Exactly Makes Me the Person I Am?
+  II. Why is there a special problem about personal identity?
+  III. The criteria of personal identity
+  1. Spatio-temporal Continuity of Body
+  2. Relative Temporal Continuity of Structure
+  3. Memory
+  4. Continuity of Personality
+  IV. Identity and memory
+  V. An argument for the existence of a non-humean self
+  VI. Conclusion
+  Epilogue
+  Notes
+  WHY I WROTE THIS BOOK
+  2. THE TURN TO MATERIALISM
+  3. ARGUMENTS AGAINST MATERIALISM
+  4. CONSCIOUSNESS PART I
+  5. CONSCIOUSNESS PART I I
+  6. INTENTIONALITY
+  7. MENTAL CAUSATION
+  8. FREE WILL
+  10. PERCEPTION
+  Suggestions for further reading
+  1. A DOZEN PROBLEMS IN THE PHILOSOPHY OF MIND
+  2. THE TURN TO MATERIALISM
+  3. ARGUMENTS AGAINST MATERIALISM
+  4. CONSCIOUSNESS PART I
+  5. CONSCIOUSNESS PART II
+  6. INTENTIONALITY
+  7. MENTAL CAUSATION
+  8. FREE WILL
+  9. THE UNCONSCIOUS AND THE EXPLANATION OF BEHAVIOR
+  10. PERCEPTION
+  11. THE SELF

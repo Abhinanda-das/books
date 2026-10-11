@@ -1,0 +1,16 @@
+Книга: Leadership Excellence 42
+Адрес: https://vedarama.com/en/books/le42
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 3811; в .md: 3811
+Первый заголовок: Leadership Excellence 42
+Последний заголовок: Humility Test
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leadership Excellence 42
+  Quote of the Week
+  Pearls of Wisdom
+  Interview with Narayani dasi
+  Humility Test

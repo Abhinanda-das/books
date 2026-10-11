@@ -1,0 +1,36 @@
+Книга: Being You
+Адрес: https://vedarama.com/en/books/an-by
+Страниц сайта: 24; заголовков: 25; текстов: 0; картинок: 23
+Глав по MCP: 11
+Букв в исходнике: 417070; в .md: 417070
+Первый заголовок: Being You
+Последний заголовок: Copyright
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Being You
+  Further praise for Being You:
+  Prologue
+  I LEVEL
+  The Real Problem
+  Measuring Consciousness
+  Phi
+  II CONTENT<br>
+  Perceiving from the Inside Out
+  The Wizard of Odds
+  The Beholder’s Share
+  III SELF
+  Delirium
+  Expect Yourself
+  Being a Beast Machine
+  A Fish in Water
+  Degrees of Freedom
+  IV OTHER
+  Beyond Human
+  Machine Minds
+  Epilogue
+  Acknowledgements
+  References
+  About the Author
+  Copyright

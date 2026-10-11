@@ -1,0 +1,38 @@
+Книга: Navadvipa-dhama Mahatmya  [English]
+Адрес: https://vedarama.com/en/books/bt-ndm
+Страниц сайта: 25; заголовков: 26; текстов: 0; картинок: 0
+Глав по MCP: 2
+Букв в исходнике: 173696; в .md: 173696
+Первый заголовок: Navadvipa-dhama Mahatmya [English]
+Последний заголовок: Chapter 5 - Evidence from the Mahājanas
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №18 идёт «Chapter 1 - Chāndogya, Muṇḍaka, and Caitanya Upaniṣads».
+
+Оглавление выгрузки:
+Navadvipa-dhama Mahatmya [English]
+  Parikramā-khaṇḍa
+  Chapter 1 - General Glorification
+  Chapter 2 - Measurement and Form of the Dhāma
+  Chapter 3 - The Procedure for Parikramā of the Dhāma
+  Chapter 4 - Śrī Jīva Hears About Navadvīpa-dhāma
+  Chapter 5 - Śrī Māyāpur and Antardvīpa
+  Chapter 6 - Śrī Gaṅgānagara, Pṛthu-kuṇḍa, Sīmantadvīpa, Śaraśāṅgā, Viśrāma-sthāna
+  Chapter 7 - Śrī Suvarṇavihāra and Śrī Devapallī
+  Chapter 8 - Śrī Harihara-kṣetra, Mahā-Vārāṇasī, and Godruma
+  Chapter 9 - Description of Śrī Madhyadvīpa and Naimiṣa
+  Chapter 10 - Description of Brāhmaṇa Puṣkara, Śrī Uccahaṭṭa, and the Sequence of Parikramā
+  Chapter 11 - Śrī Koladvīpa, Śrī Samudragaśa, Śrī Campahaṭṭa, and Descriptions Regarding Jayadeva
+  Chapter 12 - Description of átudvīpa and Rādhā-kuṇḍa
+  Chapter 13 - Description of Vidyānagara and Jahnudvīpa
+  Chapter 14 - Description of Śrī Modadrumadvīpa and Rāma-līlā
+  Chapter 15 - Śrī Vaikuṇṭhapura, Rudradvīpa, and Pulina
+  Chapter 16 - Bilvapakṣa and Bharadvāja-ṭilā
+  Chapter 17 - Jīva Gosvāmī's Questions and the Answers
+  Chapter 18 - The Removal of Śrīla Jīva Gosvāmī's Doubts and His Journey to Vṛndāvana
+  Pramāṇa-khaṇḍa
+  Chapter 1 - Chāndogya, Muṇḍaka, and Caitanya Upaniṣads
+  Chapter 2 - Ananta-saṇhitā
+  Chapter 3 - Evidence from the Purāṇas
+  Chapter 4 - Evidence from the Tantras
+  Chapter 5 - Evidence from the Mahājanas

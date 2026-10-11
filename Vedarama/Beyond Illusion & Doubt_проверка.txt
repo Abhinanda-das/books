@@ -1,0 +1,28 @@
+Книга: Beyond Illusion & Doubt
+Адрес: https://vedarama.com/en/books/bid
+Страниц сайта: 16; заголовков: 17; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 16
+Букв в исходнике: 316698; в .md: 316698
+Первый заголовок: Beyond Illusion & Doubt
+Последний заголовок: 15: Carl Jung
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Beyond Illusion & Doubt
+  Introduction
+  1: Socrates
+  2: Plato
+  3: Aristotle
+  4: Origen
+  5: Augustine
+  6: Thomas Aquinas
+  7: Kierkegaard
+  8: Schopenhauer
+  9: Darwin
+  10: John Stuart Mill
+  11: Marx
+  12: Nietzsche
+  13: Freud
+  14: Sartre
+  15: Carl Jung

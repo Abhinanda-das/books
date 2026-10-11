@@ -1,0 +1,22 @@
+Книга: Om Shalom
+Адрес: https://vedarama.com/en/books/satyaraja-os
+Страниц сайта: 10; заголовков: 11; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 10
+Букв в исходнике: 278010; в .md: 278010
+Первый заголовок: Om Shalom
+Последний заголовок: Appendix: The glories of the Holy Name
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Om Shalom
+  Folkbooks
+  Foreword
+  Introduction
+  Chapter one
+  Chapter two
+  Chapter three
+  Chapter four
+  Chapter five
+  Chapter six
+  Appendix: The glories of the Holy Name

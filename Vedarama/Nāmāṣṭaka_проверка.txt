@@ -1,0 +1,23 @@
+Книга: Nāmāṣṭaka
+Адрес: https://vedarama.com/en/books/rupa-namastaka
+Страниц сайта: 11; заголовков: 12; текстов: 0; картинок: 0
+Глав по MCP: 11
+Букв в исходнике: 57158; в .md: 57158
+Первый заголовок: Nāmāṣṭaka
+Последний заголовок: Appendix 2
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Nāmāṣṭaka
+  Introduction
+  Mulam 1
+  Mulam 2
+  Mulam 3
+  Mulam 4
+  Mulam 5
+  Mulam 6
+  Mulam 7
+  Mulam 8
+  Appendix 1
+  Appendix 2

@@ -1,0 +1,24 @@
+Книга: Nectar of Instruction
+Адрес: https://vedarama.com/en/books/noi
+Страниц сайта: 12; заголовков: 13; текстов: 11; картинок: 0 + обложка
+Глав по MCP: 12
+Букв в исходнике: 112126; в .md: 112126
+Первый заголовок: Nectar of Instruction
+Последний заголовок: Text 11
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Nectar of Instruction
+  Preface
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11

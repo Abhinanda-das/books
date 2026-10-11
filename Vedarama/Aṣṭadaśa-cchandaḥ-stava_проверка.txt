@@ -1,0 +1,96 @@
+Книга: Aṣṭadaśa-cchandaḥ-stava
+Адрес: https://vedarama.com/en/books/rupa-acs
+Страниц сайта: 66; заголовков: 67; текстов: 66; картинок: 0
+Глав по MCP: 66
+Букв в исходнике: 133944; в .md: 133944
+Первый заголовок: Aṣṭadaśa-cchandaḥ-stava
+Последний заголовок: Text 44
+
+ЗАМЕЧАНИЯ:
+  - Раздел начинается не с 1: «Text 8».
+  - Раздел начинается не с 1: «Text 10».
+  - Раздел начинается не с 1: «Text 12».
+  - Раздел начинается не с 1: «Text 13.2».
+  - Раздел начинается не с 1: «Text 14».
+  - Раздел начинается не с 1: «Text 16».
+  - Раздел начинается не с 1: «Text 18».
+  - Раздел начинается не с 1: «Text 20».
+  - Раздел начинается не с 1: «Text 22».
+  - Раздел начинается не с 1: «Text 24».
+  - Раздел начинается не с 1: «Text 26».
+  - Раздел начинается не с 1: «Text 28».
+  - Раздел начинается не с 1: «Text 30».
+  - Раздел начинается не с 1: «Text 32».
+  - Раздел начинается не с 1: «Text 35».
+  - Раздел начинается не с 1: «Text 37».
+  - Раздел начинается не с 1: «Text 39».
+  - Раздел начинается не с 1: «Text 43».
+
+Оглавление выгрузки:
+Aṣṭadaśa-cchandaḥ-stava
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7.1
+    Text 7.2
+    Text 7.3
+    Text 7.4
+    Text 8
+    Text 9.1
+    Text 9.2
+    Text 10
+    Text 11.1
+    Text 11.2
+    Text 12
+    Text 13
+    Text 13.2
+    Text 13.3
+    Text 14
+    Text 15.1
+    Text 15.2
+    Text 16
+    Text 17.1
+    Text 17.2
+    Text 18
+    Text 19.1
+    Text 19.2
+    Text 20
+    Text 21.1
+    Text 21.2
+    Text 22
+    Text 23.1
+    Text 23.2
+    Text 24
+    Text 25.1
+    Text 25.2
+    Text 26
+    Text 27.1
+    Text 27.2
+    Text 28
+    Text 29.1
+    Text 29.2
+    Text 30
+    Text 31.1
+    Text 31.2
+    Text 32
+    Text 33
+    Text 34.1
+    Text 34.2
+    Text 34.3
+    Text 35
+    Text 36.1
+    Text 36.2
+    Text 37
+    Text 38.1
+    Text 38.2
+    Text 39
+    Text 40
+    Text 41
+    Text 42.1
+    Text 42.2
+    Text 42.3
+    Text 43
+    Text 44

@@ -1,0 +1,15 @@
+Книга: Darwin - God and Science
+Адрес: https://vedarama.com/en/books/dgas
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 37230; в .md: 37230
+Первый заголовок: Darwin - God and Science
+Последний заголовок: References
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Darwin - God and Science
+  About Book
+  Chapter 3 - God and Science
+  References

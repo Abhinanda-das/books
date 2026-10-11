@@ -1,0 +1,23 @@
+Книга: Kalpa-sutra (English)
+Адрес: https://vedarama.com/en/books/kalsut
+Страниц сайта: 11; заголовков: 12; текстов: 0; картинок: 0
+Глав по MCP: 6
+Букв в исходнике: 90219; в .md: 90219
+Первый заголовок: Kalpa-sutra (English)
+Последний заголовок: <strong>Rules for Yatis</strong>
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Kalpa-sutra (English)
+  Lives of the Jinas. Life of Mahavira
+  <strong>First Lecture</strong>
+  <strong>Second Lecture</strong>
+  <strong>Third Lecture</strong>
+  <strong>Fourth Lecture</strong>
+  <strong>Fifth Lecture</strong>
+  <strong>Life of Parsva</strong>
+  <strong>Life of Arishtanemi</strong>
+  <strong>Epochs of the Intermediate Tirthakaras</strong>
+  <strong>Life of Rishabha</strong>
+  <strong>Rules for Yatis</strong>

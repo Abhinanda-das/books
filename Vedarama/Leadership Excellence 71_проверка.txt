@@ -1,0 +1,17 @@
+Книга: Leadership Excellence 71
+Адрес: https://vedarama.com/en/books/le71
+Страниц сайта: 5; заголовков: 6; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 751; в .md: 751
+Первый заголовок: Leadership Excellence 71
+Последний заголовок: Smart Tools
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leadership Excellence 71
+  Coaching Tip
+  Cutting Edge
+  Essential Question
+  Jump-Starter
+  Smart Tools

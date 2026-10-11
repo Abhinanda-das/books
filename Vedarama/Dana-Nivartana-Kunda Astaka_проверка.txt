@@ -1,0 +1,21 @@
+Книга: Dana-Nivartana-Kunda Astaka
+Адрес: https://vedarama.com/en/books/rdg-dnka
+Страниц сайта: 9; заголовков: 10; текстов: 9; картинок: 0
+Глав по MCP: 9
+Букв в исходнике: 3178; в .md: 3178
+Первый заголовок: Dana-Nivartana-Kunda Astaka
+Последний заголовок: Text 9
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Dana-Nivartana-Kunda Astaka
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9

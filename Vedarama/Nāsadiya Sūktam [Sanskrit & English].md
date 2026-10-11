@@ -1,0 +1,81 @@
+---
+title: "Nāsadiya Sūktam [Sanskrit & English]"
+tags:
+  - "Английский"
+cssclasses:
+  - vedarama-book
+source: Vedarama
+source_url: "https://vedarama.com/en/books/nassuk"
+---
+
+# Nāsadiya Sūktam \[Sanskrit & English\]
+
+## Nāsadiya Sūktam
+
+*nāsadāsīn no sadāsīt tadānīṁ nāsīd rajo no vyomāparo yat*  
+*kimāvarīvaḥ kuha kasya śarmannambhaḥ kimāsīd gahanaṁ gabhīram \|\| 1 \|\|*
+
+**Перевод:**
+
+**Then even nothingness was not, nor existence,**  
+**There was no air then, nor the heavens beyond it.**  
+**What covered it? Where was it? In whose keeping**  
+**Was there then cosmic water, in depths unfathomed?**
+
+*na mṛtyurāsīdamṛtaṁ na tarhi na rātryā ahna āsītpraketaḥ*  
+*ānīdavātaṁ svadhayā tadekaṁ tasmāddhānyan na paraḥ kiṁ canāsa \|\| 2 \|\|*
+
+**Перевод:**
+
+**Then there was neither death nor immortality**  
+**nor was there then the torch of night and day.**  
+**The One breathed windlessly and self-sustaining.**  
+**There was that One then, and there was no other.**
+
+*tama āsīt tamasā gūḷamagre.apraketaṁ salilaṁ sarvamāidam*  
+*tuchyenābhvapihitaṁ yadāsīt tapasastanmahinājāyataikam \|\| 3 \|\|*
+
+**Перевод:**
+
+**At first there was only darkness wrapped in darkness.**  
+**All this was only unillumined water.**  
+**That One which came to be, enclosed in nothing,**  
+**arose at last, born of the power of heat.**
+
+*kāmastadagre samavartatādhi manaso retaḥ prathamaṁ yadāsīt*  
+*sato bandhumasati niravindan hṛdi pratīṣyākavayo manīṣā \|\| 4 \|\|*
+
+**Перевод:**
+
+**In the beginning desire descended on it - that was the primal seed, born of the mind.**  
+**The sages who have searched their hearts with wisdom know that which is is kin to that which is not.**
+
+*tiraścīno vitato raśmireṣāmadhaḥ svidāsī.a.a.at*  
+*retodhāāsan mahimāna āsan svadhā avastāt prayatiḥ parastāt \|\| 5 \|\|*
+
+**Перевод:**
+
+**And they have stretched their cord across the void,**  
+**and know what was above, and what below.**  
+**Seminal powers made fertile mighty forces.**  
+**Below was strength, and over it was impulse.**
+
+*ko addhā veda ka iha pra vocat kuta ājātā kuta iyaṁvisṛṣṭiḥ*  
+*arvāg devā asya visarjanenāthā ko veda yataābabhūva \|\| 6 \|\|*
+
+**Перевод:**
+
+**But, after all, who knows, and who can say**  
+**Whence it all came, and how creation happened?**  
+**the gods themselves are later than creation,**  
+**so who knows truly whence it has arisen?**
+
+*iyaṁ visṛṣṭiryata ābabhūva yadi vā dadhe yadi vā na*  
+*yo asyādhyakṣaḥ parame vyoman so aṅga veda yadi vā naveda \|\| 7 \|\|*
+
+**Перевод:**
+
+**Whence all creation had its origin,**  
+**he, whether he fashioned it or whether he did not,**  
+**he, who surveys it all from highest heaven,**  
+**he knows - or maybe even he does not know.**

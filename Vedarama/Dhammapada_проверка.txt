@@ -1,0 +1,39 @@
+Книга: Dhammapada
+Адрес: https://vedarama.com/en/books/dhammapada
+Страниц сайта: 27; заголовков: 28; текстов: 0; картинок: 0
+Глав по MCP: 27
+Букв в исходнике: 116524; в .md: 116524
+Первый заголовок: Dhammapada
+Последний заголовок: Chapter XXVI. The Brahmana (Arhat)
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Dhammapada
+  Introduction
+  Chapter I. The Twin-Verses
+  Chapter II. On <span class="footnote" data-footnote-content="There is nothing in the tenth section of the Dhammapada, as translated by Beal, corresponding to the verses of this chapter." data-footnote-number="108" role="footnote">Earnestness</span>
+  Chapter III. Thought
+  Chapter IV. <span class="footnote" data-footnote-content="See Beal, Dhammapada, p. 75." data-footnote-number="121" role="footnote">Flowers</span>
+  Chapter V. The Fool
+  Chapter VI. The Wise Man (Pandita)
+  Chapter VII. The Venerable (Arhat)
+  Chapter VIII. The Thousands
+  Chapter IX. Evil
+  Chapter X. Punishment
+  Chapter XI. Old Age
+  Chapter XII. Self
+  Chapter XIII. The World
+  Chapter XIV. The Buddha (The Awakened)
+  Chapter XV. Happiness
+  Chapter XVI. Pleasure
+  Chapter XVII. Anger
+  Chapter XVIII. Impurity
+  Chapter XIX. The Just
+  Chapter XX. The Way
+  Chapter XXI. Miscellaneous
+  Chapter XXII. The Downward Course
+  Chapter XXIII. The Elephant
+  Chapter XXIV. Thirst
+  Chapter XXV. The Bhikshu (Mendicant)
+  Chapter XXVI. The Brahmana (Arhat)

@@ -1,0 +1,175 @@
+Книга: Laghu-siddhānta-kaumudī. Compendium of Maṇḍala-pat
+Адрес: https://vedarama.com/en/books/lsk
+Страниц сайта: 163; заголовков: 164; текстов: 0; картинок: 0
+Глав по MCP: 11
+Букв в исходнике: 178205; в .md: 178205
+Первый заголовок: Laghu-siddhānta-kaumudī. Compendium of Maṇḍala-pat
+Последний заголовок: Appendix V – list of sūtras
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Laghu-siddhānta-kaumudī. Compendium of Maṇḍala-pat
+  Laghu-siddhānta-kaumudī. Compendium of Maṇḍala-pati-dāsaḥ
+  atha saṁjñā-prakaraṇam
+  Rules
+  1 – hal antyam | 1.3.3
+  2 – adarśanaṁ lopaḥ | 1.1.60
+  3 – tasya lopaḥ | 1.3.9
+  4 – ādir antyena sahetā | 1.1.71
+  5 – ūkālo 'jjhrasva-dīrgha-plutaḥ | 1.2.27
+  6 – uccair udāttaḥ | 1.2.29
+  7 – nīcair anudāttaḥ | 1.2.30
+  8 – samāhāraḥ svaritaḥ | 1.2.31
+  9 – mukha-nāsikā-vacano 'nunāsikaḥ | 1.1.8
+  10 – tulyāsya-prayatnaṁ savarṇam | 1.1.9
+  11 – aṇ-udit-savarṇasya cā'pratyayaḥ | 1.1.69
+  12 – paraḥ sannikarṣaḥ saṁhitā | 1.4.109
+  13 – halo 'nantarāḥ saṁyogaḥ | 1.1.7
+  14 – sup-tiṅ-antaṁ padam | 1.4.14
+  sandhi-prakaraṇam
+  15 – iko yaṇ aci | 6.1.77
+  16 – tasminn iti nirdiṣṭe pūrvasya | 1.1.66
+  17 – sthāne 'ntaratamaḥ | 1.1.50
+  18 – an-aci ca | 8.4.47
+  19 – jhalāṁ jaś jhaśi | 8.4.53
+  20 – saṁyogāntasya lopaḥ | 8.2.23
+  21 – alo 'ntyasya | 1.1.52
+  22 – eco 'y av āy āvaḥ | 6.1.78
+  23 – yathā saṅkhyam anudeśaḥ samānām | 1.3.10
+  24 – vānto yi pratyaye | 6.1.79
+  25 – ad eṅ guṇaḥ | 1.1.2
+  26 – ta-paras tat-kālasya | 1.1.70
+  27 – ād guṇaḥ | 6.1.87
+  28 – upadeśe 'janunāsika it | 1.3.2
+  29 – ur aṇ ra-paraḥ | 1.1.51
+  30 – lopaḥ śākalyasya | 8.3.19
+  32 – vṛddhir ād aic | 1.1.1
+  33 – vṛddhir eci | 6.1.88
+  34 – ety edhaty ūṭhsu | 6.1.89
+  35 – upasargāḥ kriyā-yoge | 1.4.59
+  36 – bhū-vādayo dhātavaḥ | 1.3.1
+  37 – upasargād ṛti dhātau | 6.1.91
+  38 – eṅi para-rūpam | 6.1.94
+  39 – aco 'ntyādi ṭi | 1.1.64
+  40 – omāṅoś ca | 6.1.95
+  41 – antādivacca | 6.1.85
+  42 – akaḥ savarṇe dīrghaḥ | 6.1.101
+  43 – eṅaḥ padāntād ati | 6.1.109
+  44 – sarvatra vibhāṣāḥ goḥ | 6.1.122
+  45 – anekāl śit sarvasya | 1.1.55
+  46 – ṅic ca | 1.1.53
+  47 – avaṅ sphoṭāyanasya | 6.1.133
+  48 – indre ca | 6.1.124
+  49 – dūrād dhūte ca | 8.2.84
+  50 – pluta-pragṛhyā aci nityam | 6.1.125
+  51 – īd-ūd-ed dvi-vacanaṁ pragṛhyam | 1.1.11
+  52 – adaso māt |1.1.12
+  53 – cādayo 'sattve | 1.4.57
+  54 – prādayaḥ | 1.4.58
+  55 – nipāta ekājanāṅ | 1.1.14
+  56 – ot | 1.1.15
+  57 – sambuddhau śākalyasyetāv anārṣe | 1.1.16
+  58 – maya uño vo vā | 8.3.33
+  59 – iko 'savarṇe 'ci śākalyasya hrasvaś ca | 6.1.127
+  60 – aco ra-hābhyāṁ dve | 8.4.46
+  61 – ṛty akaḥ | 6.1.128
+  hal-sandhi-prakaraṇam
+  62 – s-toḥ ś-cunā ś-cuḥ | 8.4.40
+  63 – śāt | 8.4.44
+  64 – ṣṭunā ṣṭuḥ | 8.4.41
+  65 – na padāntāṭ ṭor anām | 8.4.42
+  66 – toḥ ṣi | 8.4.43
+  67 – jhalāṁ jaśo 'nte | 8.2.39
+  68 – yaro 'nunāsike 'nunāsiko vā | 8.4.45
+  69 – tor li | 8.4.60
+  70 – udaḥ sthā-stambhoḥ pūrvasya | 8.4.61
+  71 – tasmād ity uttarasya | 1.1.67
+  72 – ādeḥ parasya | 1.1.54
+  73 – jharo jhari savarṇe | 8.4.65
+  74 – khari ca | 8.4.55
+  75 – jhayo ho 'nyatarasyām | 8.4.62
+  76 – śaś cho 'ṭi | 8.4.63
+  77 – mo 'nusvāraḥ | 8.3.23
+  78 – naś cāpadāntasya jhali | 8.3.24
+  79 – anusvārasya yayi para-savarṇaḥ | 8.4.58
+  80 – vā padāntasya | 8.4.59
+  81 – mo rāji samaḥ kvau | 8.3.25
+  82 – he ma-pare vā | 8.3.26
+  83 – na-pare naḥ | 8.3.27
+  84 – ādy-antau ṭa-k-itau | 1.1.46
+  85 – ṅ-ṇoḥ kuk-ṭuk śari | 8.3.28
+  86 – ḍaḥ si dhuṭ | 8.3.29
+  87 – naś ca | 8.3.30
+  88 – śi t[uk] | 8.3.31 |
+  89 – ṅamo hrasvād aci ṅamuṇ nityam | 8.3.32
+  90 – samaḥ suṭi | 8.3.5
+  91 – atrānunāsikaḥ pūrvasya tu vā | 8.3.2 |
+  92 – anunāsikāt paro 'nusvāraḥ | 8.3.4
+  93 – khar avasānayor visarjanīyaḥ | 8.3.15
+  94 – pumaḥ khayy ampare | 8.3.6
+  95 – naś chavy apraśān | 8.3.7
+  96 – visarjanīyasya saḥ | 8.3.34
+  97 – nṝn pe | 8.3.10
+  98 – ku-pvoḥ x ka x pau ca | 8.3.37
+  99 – tasya param āmreḍitam | 8.1.2
+  100 – kānāmreḍite | 8.3.12
+  101 – che ca | 6.1.73
+  102 – padāntād vā | 6.1.76
+  atha visarga-sandhi-prakaraṇam
+  103 – visarjanīyasya saḥ | 8.3.34 and vā śari | 8.3.36
+  104 – sa-sajuṣo ruḥ | 8.2.66
+  105 – ato ror aplutād aplute | 6.1.113
+  106 – haśi ca | 6.1.114
+  107 – bho-bhago-agho-a-pūrvasya yo 'śi | 8.3.17
+  108 – hali sarveṣām | 8.3.22
+  109 – ro ‘supi | 8.2.69
+  110 – ro ri | 8.3.14
+  111 – ḍh-ra-lope pūrvasya dīrgho ‘ṇaḥ | 6.3.111
+  112 – vipratiṣedhe paraṁ kāryam | 1.4.2
+  113 – etat-tadoḥ su-lopo ‘kor anañ-samase hali | 6.1.132
+  114 – so ‘ci lope cet pāda-pūraṇam | 6.1.134
+  sub-anta-prakaraṇam
+  115 – arthavad adhātur apratyayaḥ prātipadikam | 1.2.45
+  116 – kṛt-taddhita-samāsāś ca | 1.2.46
+  117 – sv au [j]as am au[ṭ] [ch]aṣ [ṭ]ā bhyām bhis [ṅ]e bhyām bhyas [ṅ]as[i] bhyām bhyas [ṅ]as os ām [ṅ]y os su[p] | 4.1.2
+  118 – ṅy āp prātipadikāt | 4.1.1
+  119 – pratyayaḥ | 3.1.1
+  120 – paraś ca | 3.1.2
+  121 – supaḥ | 1.4.103
+  122 – dvy-ekayor dvi-vacanaika-vacane | 1.4.22
+  123 – virāmo 'vasānam | 1.4.110
+  124 – sarūpāṇām ekaśeṣa eka-vibhaktau | 1.2.64
+  125 – prathamayoḥ pūrva-savarṇaḥ | 6.1.102
+  126 – nād ici | 6.1.104
+  127 – bahuṣu bahu-vacanam | 1.4.21
+  128 – cu-ṭū | 1.3.7
+  129 – vibhaktiś ca | 1.4.104
+  130 – na vibhaktau tu-s-māḥ | 1.3.4
+  131 – eka-vacanaṁ sambuddhiḥ | 2.3.49
+  132 – yasmāt pratyaya-vidhis tadādi pratyaye 'ṅgam | 1.4.13
+  133 – eṅ-hrasvāt sambuddheḥ | 6.1.69
+  134 – ami pūrvaḥ | 6.1.107
+  135 – la-śa-kv ataddhite | 1.3.8
+  136 – tasmāc chaso naḥ puṁsi | 6.1.103
+  137 – aṭ-ku-pv-āṅ-num-vyavāye 'pi | 8.4.2
+  138 – padāntasya | 8.4.37
+  139 – ṭā-ṅasi-ṅasām ināt-syāḥ | 7.1.12
+  140 – supi ca | 7.3.102
+  141 – ato bhisa ais | 7.1.9
+  142 – ṅer yaḥ | 7.1.13
+  143 – sthānivad ādeśo 'nalvidhau | 1.1.56
+  144 – bahu-vacane jhalyet | 7.3.103
+  145 – vāvasāne | 8.4.56
+  146 – osi ca | 7.3.104
+  147 – hrasva-nadyāpo n[uṭ] | 7.1.54
+  148 – nāmi | 6.4.3
+  149 – ādeśa-pratyayayoḥ | 8.3.59
+  150 – sarvādīni sarvanāmāni | 1.1.27
+  151 – jasaḥ śī | 7.1.17
+  152 – sarvanāmnaḥ smai | 7.1.14
+  Appendix I – Terms
+  Appendix II – saṁjña-sūtrāṇi
+  Appendix III – paribhāsā-sūtrāṇi
+  Appendix IV – apavādas
+  Appendix V – list of sūtras

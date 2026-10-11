@@ -1,0 +1,13 @@
+Книга: Models and Reality
+Адрес: https://vedarama.com/en/books/ad-mar
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 7785; в .md: 7785
+Первый заголовок: Models and Reality
+Последний заголовок: Models and Reality
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Models and Reality
+  Models and Reality

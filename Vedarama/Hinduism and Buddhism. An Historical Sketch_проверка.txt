@@ -1,0 +1,268 @@
+Книга: Hinduism and Buddhism. An Historical Sketch
+Адрес: https://vedarama.com/en/books/eliot-habahs
+Страниц сайта: 229; заголовков: 230; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 2320141; в .md: 2320141
+Первый заголовок: Hinduism and Buddhism. An Historical Sketch
+Последний заголовок: References
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №4 идёт «Part 1».
+  - Разрыв нумерации разделов: после №4 идёт «Part 1».
+  - Разрыв нумерации разделов: после №4 идёт «Part 1».
+  - Разрыв нумерации разделов: после №3 идёт «Part 2».
+  - Разрыв нумерации разделов: после №6 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 1».
+  - Разрыв нумерации разделов: после №6 идёт «Part 1».
+  - Разрыв нумерации разделов: после №2 идёт «Part 1».
+  - Разрыв нумерации разделов: после №3 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 1».
+  - Разрыв нумерации разделов: после №2 идёт «Part 1».
+  - Разрыв нумерации разделов: после №4 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 1».
+  - Разрыв нумерации разделов: после №4 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 1».
+  - Разрыв нумерации разделов: после №2 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 1».
+  - Разрыв нумерации разделов: после №6 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 2».
+  - Разрыв нумерации разделов: после №3 идёт «Part 2».
+  - Разрыв нумерации разделов: после №6 идёт «Part 1».
+  - Разрыв нумерации разделов: после №3 идёт «Part 1».
+  - Разрыв нумерации разделов: после №8 идёт «Part 1».
+  - Разрыв нумерации разделов: после №5 идёт «Part 1».
+
+Оглавление выгрузки:
+Hinduism and Buddhism. An Historical Sketch
+  Hinduism and Buddhism. An Historical Sketch
+  Volume 1
+  Preface
+  List Of Abbreviations
+  Book I - Introduction
+  Chapter I - Influence Of Indian Thought In Eastern Asia
+  Chapter II - Origin And Growth Of Hinduism
+  Chapter III - The Buddha
+  Chapter IV - Asoka
+  Chapter V - Extension Of Buddhism And Hinduism Beyond India
+  Chapter VI - New Forms Of Buddhism
+  Chapter VII - Revival Of Hinduism
+  Chapter VIII - Later Forms Of Hinduism
+  Chapter IX - European Influence And Modern Hinduism
+  Chapter X - Change And Permanence In Buddhism
+  Chapter XI - Rebirth And The Nature Of The Soul
+  Chapter XII - (continues)
+  Chapter XIII - (continues)
+  Chapter XIV - Eastern Pessimism And Renunciation
+  Chapter XV - Eastern Polytheism
+  Chapter XVI - The Extravagance Of Hinduism
+  Chapter XVII - The Hindu And Buddhist Scriptures
+  Chapter XVIII - Morality And Will
+  Chapter XIX - The Origin Of Evil
+  Chapter XX - Church And State
+  Chapter XXI - Public Worship And Ceremonial
+  Chapter XXII - The Worship Of The Reproductive Forces
+  Chapter XXIII - Hinduism In Practice
+  Chapter XXIV - Buddhism In Practice
+  Chapter XXV - Interest Of Indian Thought For Europe
+  Book II - Early Indian Religion - A General View
+  Chapter I - Religions Of India And Eastern Asia
+  Chapter II - Historical
+  Chapter III - General Characteristics Of Indian Religion
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Chapter IV - Vedic Deities And Sacrifices
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Chapter V - Asceticism And Knowledge
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Chapter VI - Religious Life In Pre-buddhist India
+  Part 1
+  Part 2
+  Part 3
+  Chapter VII - The Jains
+  Part 1[250]
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Part 6
+  Book III - Pali Buddhism
+  Chapter VIII - Life Of The Buddha
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter IX - The Buddha Compared With Other Religious Teachers
+  Chapter X - The Teaching Of The Buddha
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Part 6
+  Chapter XI - Monks And Laymen
+  Part 1
+  Part 2
+  Chapter XII - Asoka
+  Part 1
+  Part 2
+  Part 3
+  Chapter XIII - The Canon
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter XIV - Meditation
+  Part 1
+  Part 2
+  Chapter XV - Mythology In Hinduism And Buddhism
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Volume 2
+  Transcriber's Note
+  List Of Abbreviations
+  Book IV - The Mahayana
+  Chapter XVI - Main Features Of The Mahayana
+  Chapter XVII - Bodhisattvas
+  Chapter XVIII - The Buddhas Of Mahayanism
+  Chapter XIX - Mahayanist Metaphysics
+  Chapter XX - Mahayanist Scriptures
+  Chapter XXI - Chronology Of The Mahayana
+  Chapter XXII - From Kanishka To Vasubandhu
+  Chapter XXIII - Indian Buddhism As Seen By The Chinese Pilgrims
+  Chapter XXIV - Decadence Of Buddhism In India
+  Book V - Hinduism
+  Chapter XXV - Śiva And Vishnu
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter XXVI - Features Of Hinduism: Ritual, Caste, Sect, Faith
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Chapter XXVII - The Evolution Of Hinduism. Bhâgavatas And Pâśupatas
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter XXVIII - Śankara. Sivaism In Southern India. Kashmir. Lingâyats
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter XXIX - Vishnuism In South India
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter XXX - Later Vishnuism In North India
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter XXXI - Amalgamation Of Hinduism And Islam. Kabir And The Sikhs
+  Part 1
+  Part 2
+  Chapter XXXII - Śâktism[1428]
+  Chapter XXXIII - Hindu Philosophy
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Volume 3
+  Transcriber's Note
+  List Of Abbreviations
+  Book VI - Buddhism Outside India
+  Chapter XXXIV - Expansion Of Indian Influence
+  Introductory
+  Chapter XXXV - Ceylon
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Part 6
+  Chapter XXXVI - Burma
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter XXXVII – Siam
+  Part 1[1730]
+  Part 2
+  Part 3
+  Chapter XXXVIII - Camboja
+  Part 1[1784]
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Part 6
+  Chapter XXXIX - Champa
+  Part 1
+  Part 2
+  Part 3
+  Chapter XL - Java And The Malay Archipelago
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Part 6
+  Part 7
+  Part 8
+  Chapter XLI - Central Asia
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter XLII – China - Introductory
+  Prefatory note.
+  Introductory.
+  Chapter XLIII - China - History
+  Chapter XLIV - China - The Canon
+  Part 1
+  Part 2
+  Part 3
+  Part 4
+  Part 5
+  Chapter XLV - China - Schools Of Chinese Buddhism[2285]
+  Chapter XLVI - China - Chinese Buddhism At The Present Day
+  Chapter XLVII – Korea [2372]
+  Chapter XLVIII - Annam
+  Chapter XLIX – Tibet - Introductory
+  Chapter L - Tibet - History
+  Chapter LI - Tibet - The Canon
+  Chapter LII - Tibet - Doctrines Of Lamaism
+  Chapter LIII – Sects - Doctrines Of Lamaism
+  Chapter LIV - Japan
+  Book VII - Mutual Influence Of Eastern And Western Religions
+  Chapter LV - Influence Of Christianity In India
+  Chapter LVI - Indian Influence In The Western World
+  Chapter LVII - Persian Influence In India
+  Chapter LVIII - Mohammedanism In India
+  References

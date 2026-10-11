@@ -1,0 +1,21 @@
+Книга: Mudalayariam
+Адрес: https://vedarama.com/en/books/muda
+Страниц сайта: 9; заголовков: 10; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 59925; в .md: 59925
+Первый заголовок: Mudalayariam
+Последний заголовок: Kanninun Shirutthaambu
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Mudalayariam
+  Acknowledgements
+  Preface
+  Thondaradipodi Azwar
+  Thirumaalai
+  Thirupalliezuchhi
+  Tiruppan Azwar
+  Amalanaadhipiraan
+  Kanninun Shirutthaambu
+  Kanninun Shirutthaambu

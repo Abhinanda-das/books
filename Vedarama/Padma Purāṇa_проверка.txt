@@ -1,0 +1,665 @@
+Книга: Padma Purāṇa
+Адрес: https://vedarama.com/en/books/pp
+Страниц сайта: 642; заголовков: 643; текстов: 0; картинок: 0
+Глав по MCP: 6
+Букв в исходнике: 5293517; в .md: 5293517
+Первый заголовок: Padma Purāṇa
+Последний заголовок: Chapter 26 - Conduct in the Four Yugas
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №82 идёт «Chapter 1 - The Story of Shivaśaman».
+  - Разрыв нумерации разделов: после №37 идёт «Chapter 39 - The End of Vena’s Reign».
+  - Разрыв нумерации разделов: после №39 идёт «Chapter 39 - On Gifts and Worthy Recipients of Gifts».
+  - Разрыв нумерации разделов: после №90 идёт «Chapter 98 - The Vāsudeva Hymn».
+  - Разрыв нумерации разделов: после №125 идёт «Chapter 1 - Suta Romaharsana Agrees to Narrate Padma Purāṇa».
+  - Разрыв нумерации разделов: после №38 идёт «Chapter 1 - Rama Sees Nandigrama from Puspaka».
+  - Разрыв нумерации разделов: после №117 идёт «Chapter 1 - The Contents of the Section in Brief».
+  - Разрыв нумерации разделов: после №172 идёт «Chapter 174 - The Rise of Nrsithha».
+  - Разрыв нумерации разделов: после №211 идёт «Chapter 112 - The Efficacy of Kosala».
+  - Разрыв нумерации разделов: после №113 идёт «Chapter 214 - The Greatness of Madhuvana».
+  - Разрыв нумерации разделов: после №255 идёт «Chapter 1 - A Dialogue between Jaimini and Vyasa».
+
+Оглавление выгрузки:
+Padma Purāṇa
+  Sṛṣṭi-khaṇḍa - Section on Creation
+  Chapter 1 - Introductory
+  Chapter 2 - Contents of the Section on Creation
+  Chapter 3 - Kinds of Creation
+  Chapter 4 - The Birth of Laksmi
+  Chapter 5 - Destruction of Dakshya’s Sacrifice
+  Chapter 6 - Birth of Devas, Daityas, Birds and Serpents etc<em>.</em>
+  Chapter 7 - Description of Manu Periods
+  Chapter 8 - Description of the Solar Race
+  Chapter 9 - General Rules of Śrāddha Performance
+  Chapter 10 - The Greatness of Pitrs
+  Chapter 11 - A List of Sacred Places
+  Chapter 12 - The Dynasty of Yadu
+  Chapter 13 - The Deeds of the Avatara (Incarnation)
+  Chapter 14 - Chopping-off of Brahma’s Head by Rudra
+  Chapter 15 - Importance of Dwelling at a Sacred Place
+  Chapter 16 - The Acquisition of Gayatri
+  Chapter 17 - Savitri’s Curses and Gayatri’s Boons
+  Chapter 18 - The Greatness of Nanda-Prāci
+  Chapter 19 - Conversation of the Seven Sages
+  Chapter 20 - The Rules of Ablution
+  Chapter 21 - The Greatness of Puskara and Some Important Vows
+  Chapter 22 - On Vow
+  Chapter 23 - The Vow for Prostitutes
+  Chapter 24 - The Vow of Angaraka Caturthi
+  Chapter 25 - The Vow of Adityaśayana
+  Chapter 26 - The Vow of Rohinicandraśayana
+  Chapter 27 - Installation of Lakes etc.
+  Chapter 28 - The Planting of Trees
+  Chapter 29 - The Vow Called Saubhāgyaśayana
+  Chapter 30 - Origin of Vishnu’s Steps:
+  Chapter 31 - The Account of Sivadūti
+  Chapter 32 - Descent of a Holy Place
+  Chapter 33 - Rama’s Visit to Mārkandeya’s Hermitage
+  Chapter 34 - The Gift of Brahmāṇḍa
+  Chapter 35 - The Killing of a sudra Ascetic
+  Chapter 36 - Conversation between Rama and Agastya
+  Chapter 37 - Rama’s Abstaining from the Performance of Rājasūya
+  Chapter 38 - The Installation of the Image of Vamana
+  Chapter 39 - The Birth of the Lotus
+  Chapter 40 - The Army of Demons
+  Chapter 41 - The Rise of the Lotus and the War between Gods &amp; Demons
+  Chapter 42 - Taraka’s Victory in the War between Gods and Demons
+  Chapter 43 - Gauri’s Marriage
+  Chapter 44 - The Birth of Kumara and the Death of Tararka
+  Chapter 45 - The Manifestation of Narasimha
+  Chapter 46 - Purificatory Rites of a Brãhmaṇa
+  Chapter 47 - The Birth of Garuda
+  Chapter 48 - Importance of Bull (and Cow)
+  Chapter 49 - Good Conduct
+  Chapter 50 - The Account of the five
+  Chapter 51 - The Story of a Faithful Wife
+  Chapter 52 - On Women’s Conduct
+  Chapter 53 - Non-Covetousness of a Śudra
+  Chapter 54 - The Rape of Ahalya
+  Chapter 55 - The Birth of Lauhitya
+  Chapter 56 - The Account of the five
+  Chapter 57 - In Praise of (Digging a) Tank etc.
+  Chapter 58 - In Praise of Planting Trees etc.
+  Chapter 59 - In Praise of Rudrākya
+  Chapter 60 - In Praise of Tulasi
+  Chapter 61 - Glorification of Tulasi
+  Chapter 62 - In Praise of the Ganga
+  Chapter 63 - A Hymn to Ganapati
+  Chapter 64 - Another Hymn to Ganapati
+  Chapter 65 - The Slaying of Kalakeya
+  Chapter 66 - The Slaying of Kāleya
+  Chapter 67 - The Slaying of Bala and Namuci
+  Chapter 68 - The Slaying of Muci
+  Chapter 69 - The Slaying of Tareya
+  Chapter 70 - Devantaka, Durdharsa &amp; Durmukha Slain
+  Chapter 71 - The Second Namuci Slain
+  Chapter 72 - The Slaying of Madhu
+  Chapter 73 - The Slaying of Vrtra
+  Chapter 74 - The Slaying of Tripura’s Son
+  Chapter 75 - The Hymn of Victory at the End of War between Gods and Demons
+  Chapter 76 - The Exposition of Merit
+  Chapter 77 - The Vow of Saptami in Honour of the Sun
+  Chapter 78 - The Pacification of the Sun
+  Chapter 79 - The Story of Bhadresvara
+  Chapter 80 - The Worship of the Moon
+  Chapter 81 - The Birth of Bhauma and His Worship
+  Chapter 82 - The Worship of the Planets
+  Bhumi-khanda - Section on the Earth
+  Chapter 1 - The Story of Shivaśaman
+  Chapter 2 - Life is Restored to Vedaśarman
+  Chapter 3 - The Heroic Deed of Viṣṇuśarman
+  Chapter 4 - Somaśarman’s Devotion Put to Severe Test
+  Chapter 5 - The Consecration of Indra
+  Chapter 6 - Diti’s Wailing
+  Chapter 7 - Account of the Body
+  Chapter 8 - Account of the Soul
+  Chapter 9 - Instructions to Diti
+  Chapter 10 - The Practice of Penance by Demons
+  Chapter 11 - The Story of Suvrata
+  Chapter 12 - Dialogue between Soinaiarman and Sumana
+  Chapter 13 - Sumana Explains Ten Basic Virtues
+  Chapter 14 - Sumana Describes the Death of the Virtuous
+  Chapter 15 - The Death of Sinners
+  Chapter 16 - The Death &amp; Post-mortem State of Sinners
+  Chapter 17 - The Story of Somasarman’s Previous Birth
+  Chapter 18 - The Account of Somaśarman’s Birth in a Brāhmaṇa Family
+  Chapter 19 - Somasarman’s Eulogy of Vishnu
+  Chapter 20 - The Birth of Suvrata
+  Chapter 21 - Suvrata’s Devotion to Vishnu
+  Chapter 22 - Dharmangada Born as Suvrata
+  Chapter 23 - The Slaying of the Demon Bala
+  Chapter 24 - Vrtra Duped
+  Chapter 25 - The Killing of Demon Tirtra
+  Chapter 26 - The Origin of Maruts
+  Chapter 27 - Coronation of the Kings
+  Chapter 28 - The Story of Prthu
+  Chapter 29 - The Story of Prthu (Contd.)
+  Chapter 30 - Sulobha and Sapharaha; Susankha and Sunithā
+  Chapter 31 - The Account of Suvrata
+  Chapter 32 - Anga Gets a Boon from Vasudeva
+  Chapter 33 - Sunithā’s Story
+  Chapter 34 - Sunitha’s Problem
+  Chapter 35 - Rambha Helps by a Suggestion
+  Chapter 36 - Sunithā Gets Married and Vena is Born
+  Chapter 37 - A Heretic Meets Vena
+  Chapter 39 - The End of Vena’s Reign
+  Chapter 39 - On Gifts and Worthy Recipients of Gifts
+  Chapter 40 - The Fruit of Occasional Charity
+  Chapter 41 - The Story of Sukalā
+  Chapter 42 - Iksvaku Goes Ahunting
+  Chapter 43 - The Boar Gives a Tough Fight to Iksvaku
+  Chapter 44 - The Boar Dies Fighting
+  Chapter 45 - The Female Hog Fights Back
+  Chapter 46 - The Story of Rangavidyadhara
+  Chapter 47 - The Story of Vasudatta and His Daughter Sudeva
+  Chapter 48 - The Story of Padmavati
+  Chapter 49 - Padmavati Succumbs to Gobhila’s Fraudulent Approach
+  Chapter 50 - Padmavati Is Grief-stricken
+  Chapter 51 - Padmavati Returns to Her Husband’s Place
+  Chapter 52 - Sudevā Goes to Heaven
+  Chapter 53 - Sukala’s Sickening Description of the Body
+  Chapter 54 - Sukala Gets Prepared For the Showdown
+  Chapter 55 - Indra Tries to Dissuade Kama
+  Chapter 56 - Satya &amp; Dharma Come to Sukalā’s Help
+  Chapter 57 - The Trap Is Laid For Sukalā
+  Chapter 58 - Sukalā Wins
+  Chapter 59 - Religious Observances Without One’s Wife Are Fruitless
+  Chapter 60 - Sukala’s Story Ends
+  Chapter 61 - Pippala’s Penance
+  Chapter 62 - Parents As Sacred Places of Pilgrimage
+  Chapter 63 - Merit Resulting from Service of’ Parents
+  Chapter 64 - Matali’s Discourse on Old Age
+  Chapter 65 - Matali on Why the Body Is Left Behind
+  Chapter 66 - Matali on the Universality of Suffering
+  Chapter 67 - Matali on Three Kinds of Sin
+  Chapter 68 - The Fruit of Righteous Deeds
+  Chapter 69 - Righteous Acts Enjoined by Shiva (Shivadharmas)
+  Chapter 70 - Sinners in Hell
+  Chapter 71 - Identity of Brahma, Vishnu and ̮Shiva
+  Chapter 72 - Yayati’s Reluctance to Part with the Body
+  Chapter 73 - The Efficacy of Vishnu’s Name
+  Chapter 74 - Popularity of Vishnu Cult during Yayati’s Rule
+  Chapter 75 - Yayati’s Subjects became Deathless by the Grace of Krishna
+  Chapter 76 - Dharmaraja Rendered Jobless
+  Chapter 77 - Yayati Yields to Passion
+  Chapter 78 - Puru Gives His Youth to Yayati
+  Chapter 79 - Youthful Yatati Enjoys with Asrubindumati
+  Chapter 80 - Yadu Refuses to Kill His Mothers
+  Chapter 81 - Destiny is Irresistible
+  Chapter 82 - Yayati Takes Back His Old Age
+  Chapter 83 - Yayati Visits the Divine Worlds
+  Chapter 84 - Glorification of Devotion to Parents
+  Chapter 85 - The Story of Cyavana : Kuñjal : Divyadevi
+  Chapter 86 - Divyadevi As Citrā in Her Former Birth
+  Chapter 87 - ‘A Hundred Names of Vishnu’
+  Chapter 88 - Divyadevi Goes to Vishnu’s Heaven
+  Chapter 89 - The Miraculous Bath in the Water of Manasa Lake
+  Chapter 90 - The Powers of the Holy Places
+  Chapter 98 - The Vāsudeva Hymn
+  Chapter 99 - God Vishnu Appears to Subāhu
+  Chapter 100 - Vena Asks to Hear More about Kunjala
+  Chapter 101 - Kapinjala’s Narration
+  Chapter 102 - Asokasundari is Born
+  Chapter 103 - Asokasundari Is Saved and Ayu Gets Boon
+  Chapter 104 - Indumati’s Dream
+  Chapter 105 - Nahusa is Born
+  Chapter 106 - Indumati’s Lamentations on the Loss of Her Child
+  Chapter 107 - Narada Assures of Nahusa’s Return
+  Chapter 108 - Vasistha’s Instruction to Nahusa
+  Chapter 109 - Vidvara, a Kinnara, Dispels Aāokasundari’s Apprehensions
+  Chapter 110 - Nahusa Gets Divine Weapons from Gods
+  Chapter 111 - Nahusa Enters Mahodaya, the City of Hunda
+  Chapter 112 - Asokasnudari has a Glimpse of Nahusa
+  Chapter 113 - Rambha Acts as Asokasundari s Messenger
+  Chapter 114 - The Fight between Nahusa and Hunda Starts
+  Chapter 115 - Hunda is Killed in the Battle
+  Chapter 116 - Nahusa Marries Asokasundari
+  Chapter 117 - Nahusa’s Consecration
+  Chapter 118 - The Story of Kamoda
+  Chapter 119 - The Birth of Kamoda
+  Chapter 120 - Narada on Dreams
+  Chapter 121 - The End- of Vihunda
+  Chapter 122 - Dharmaśarman’s Account
+  Chapter 123 - Kunjala’s Story: A Preceptor Is a Holy Place
+  Chapter 124 - Prthu’s Righteous Rule
+  Chapter 125 - The Merit of Listening to or Reciting This Purāṇa
+  Svarga khanda - Section on the Heavens
+  Chapter 1 - Suta Romaharsana Agrees to Narrate Padma Purāṇa
+  Chapter 2 - The Creation of the Elements, Prakṛti etc.
+  Chapter 3 - Various Mountains and Regions of the Earth
+  Chapter 4 - Uttarakuru, Bhadrasva, Mālyuvat
+  Chapter 5 - Ramaṇaka, Hiraṇmaya, Airavata
+  Chapter 6 - Bhāraravarṣa : Its Rivers and Regions
+  Chapter 7 - Span of Life In the Four Yugas
+  Chapter 8 - Sākadvipa: Mountains, Rivers and Countries
+  Chapter 9 - Salmalika, Kraunca, Kisa and Puskara Dvipas and Their Mountains
+  Chapter 10 - Dialogue between Narada and Yudhisthira
+  Chapter 11 - Puskara, the Holiest of Holy Places
+  Chapter 12 - Visit to Some Holy Places and Its Merit
+  Chapter 13 - The Greatness of Narmada
+  Chapter 14 - Sages Pray to God Shiva for Protect ion from Demon Bāṇa
+  Chapter 15 - The Greatness of Amarakantaka
+  Chapter 16 - Kāveri Saṁgama Tirtha
+  Chapter 17 - Narmada and the Holy Places on Her Northern Bank
+  Chapter 18 - More Tirthas on the Bank of Narmada
+  Chapter 19 - Sukla tirtha
+  Chapter 20 - Naraka, Kapilātirtha, Ṛṣitirtha, Ganesvara, Bhrgutirtha, Somatirtha etc.
+  Chapter 21 - Vihagesvara, Narmadesvara, Asvatirtha, Pitāmaha, Sāvitritirtha, Manasa etc.
+  Chapter 22 - The Story of Five Gandharva Maidens
+  Chapter 23 - The Sage Lomasa Comes to the Help of the Goblins
+  Chapter 24 - Piṅgatīrtha, Narmada, Dvaravati, Timi etc.
+  Chapter 25 - Vitasta, Malada, Manimanta, Brahmavalaka etc.
+  Chapter 26 - Kuruksetra, Pariplava, Salvikini, Kotitirtha etc.
+  Chapter 27 - Kanyatirtha, Saptasarasvata, Prthudaka, Sannihiti, etc.
+  Chapter 28 - Dharmatirtha, Sakambhari, Rathavartta, etc.
+  Chapter 29 - Kalinditirtha : Efficacy of Yamunā
+  Chapter 30 - Hemakundala and His Two Sons
+  Chapter 31 - Vikundala’s Dialogue with the Devaduta
+  Chapter 32 - Sugandha, Arundhativaṭa, Sindhuprabhava etc.
+  Chapter 33 - The Merits of Varanasi
+  Chapter 34 - The Greatness of Krttivāseśvara
+  Chapter 35 - Greatness of Kapardin
+  Chapter 36 - The Greatness of Madhyameśa
+  Chapter 37 - Other Holy Places of Varanasi
+  Chapter 38 - Gaya and Other Holy Places
+  Patala-khaṇḍa - Section on the Nether World
+  Chapter 1 - Rama Sees Nandigrama from Puspaka
+  Chapter 2 - Rama Meets Bharata
+  Chapter 3 - Rama Enters Ayodhya
+  Chapter 4 - Rama’s Consecration
+  Chapter 5 - The Coming of Sage Agasti
+  Chapter 6 - Agastya Begins Ravana’s Story
+  Chapter 7 - Elimination of Ravana by Vishnu
+  Chapter 8 - Agastya Advises Rama to Perform a Horse-Sacrifice ɱ̮
+  Chapter 9 - Instructions in Religious Practices
+  Chapter 10 - Rama Appoints Satrughna as the Protector of the Horse
+  Chapter 11 - The Asvamedha Horse is Let Loose
+  Chapter 12 - Ahicchatra City, King Sumada and Kāma
+  Chapter 13 - Satrughna Enters Ahicchatra City
+  Chapter 14 - The Cyavana Episode
+  Chapter 15 - Cyavana’s Penance and Enjoyments
+  Chapter 16 - The Horse Goes to Cyavana’s Hermitage
+  Chapter 17 - Arrival of a Brāhmaṇa Ascetic
+  Chapter 18 - A Miraculous Happening
+  Chapter 19 - Ratnagriva Goes on a Pilgrimage to Purusottama
+  Chapter 20 - The Importance of Gandaki
+  Chapter 21 - Purusottama Appears to the King in the Guise of an Ascetic
+  Chapter 22 - The Greatness of Nila Mountain
+  Chapter 23 - Damana Fights with Pratapagrya
+  Chapter 24 - Puskala Defeats Damana
+  Chapter 25 - Subahu Gets Ready with His Army in the Kraunca Array
+  Chapter 26 - A Fierce Fight Between Laksminidhi and Suketu
+  Chapter 27 - Killing of Citranga
+  Chapter 28 - Subahu’s Defeat
+  Chapter 29 - King Subahu Surrenders to Satrughna
+  Chapter 30 - Janaka Releases Sinners from Hell
+  Chapter 31 - King Ṛtambhara is Blessed with a Son
+  Chapter 32 - Satyavan Meets Satrughna
+  Chapter 33 - Satrughna’s Army Gets Ready to Fight Vidyunmālin
+  Chapter 34 - Vidyunmālin Killed in Battle
+  Chapter 35 - Dialogue between Lomasa and Aranyaka
+  Chapter 36 - Lomasa Narrates the Deeds of Rama to Aranyaka
+  Chapter 37 - Sage Aranyaka Goes to Vishnu’s Heaven
+  Chapter 38 - Getting Back the Horse from the Possession of an Under-Water Female
+  Chapter 39 - The Seizure of the Horse by Viramani’s Son
+  Chapter 40 - Satrughna Resolves to Fight Against Viramani
+  Chapter 41 - Rukmangada Is Defeated by Puskala
+  Chapter 42 - Viramani is Defeated
+  Chapter 43 - Defeat of Puskala and 5Satrughna
+  Chapter 44 - Hanūrnat on the Drona Mountain
+  Chapter 45 - Sri Rama Appears on the Battlefield
+  Chapter 46 - Viramani Surrenders the Horse to Sri Rama
+  Chapter 47 - The Sacrificial Horse Develops Stiffness
+  Chapter 48 - The Horse Is Relieved of Stiffness
+  Chapter 49 - King Suratha Seizes the Horse
+  Chapter 50 - Angada Delivers Satrughna’s Message to Suratha
+  Chapter 51 - Hanumat Frees Puskala from Campaka
+  Chapter 52 - King Suratha Wins the Battle
+  Chapter 53 - Rama Frees the Bound Heroes
+  Chapter 54 - Lava Binds the Sacrificial Horse
+  Chapter 55 - The Observation of the Spies
+  Chapter 56 - Rama Seeks Bharata’s Advice
+  Chapter 57 - The Washerman’s Former Birth
+  Chapter 58 - Lakshmana Leaves Sita in the Forest
+  Chapter 59 - The Birth of Kusa and Lava
+  Chapter 60 - Lava Defeats the Army and Kills the General
+  Chapter 61 - Hanumat Falls Unconscious
+  Chapter 62 - Lava Becomes Unconscious
+  Chapter 63 - Kuśa’s Victory
+  Chapter 64 - Rama’s Army Revives
+  Chapter 65 - Sumati Describes the Adventurous Events to Rama
+  Chapter 66 - Singing of Rāmayana by Kusa and Lava
+  Chapter 67 - The Commencement of the Sacrifice
+  Chapter 68 - The Horse Sacrifice Ends
+  Chapter 69 - The Story of Kṛṣṇa Begins
+  Chapter 70 - A Description of Sri Krishna
+  Chapter 71 - [missing]
+  Chapter 72 - Devotees of Krishna Born in Gokula as Cowherdesses
+  Chapter 73 - The Greatness of Mathura
+  Chapter 74 - Arjuna’s Wish and Its Fulfilment
+  Chapter 75 - Narada’s Experience
+  Chapter 76 - The Greatness of Krishna
+  Chapter 77 - A Description of Krishna
+  Chapter 78 - Worship Prescribed for a Devotee of Vishnu
+  Chapter 79 - Do’s and Don’ts for a Devotee of Vishnu
+  Chapter 80 - Month-wise Rites Prescribed for a Vishnu Devotee
+  Chapter 81 - Mantracintāma Sri for Devotees of Krishna
+  Chapter 82 - The Greatness of Vrindavana
+  Chapter 83 - Krishna’s Love Sports in Vrindavana
+  Chapter 84 - Meditation of the Lord
+  Chapter 85 - Greatness of Vaiśākha
+  Chapter 86 - Acts to be Performed in Vaisakha
+  Chapter 87 - Subtle Are the Ways of Dharma
+  Chapter 88 - Sumanā on Kinds of Sons
+  Chapter 89 - Devaśarman’s Life in the Previous Birth
+  Chapter 90 - An Account of Devasarman’s Good Deeds of Previous Birth
+  Chapter 91 - Happy End of Devasarman’s Story
+  Chapter 92 - Citrā’s Story
+  Chapter 93 - Divyādevi Is Married to Virasena
+  Chapter 94 - The Means of Destroying Sins
+  Chapter 95 - More Rites and Rituals to be Observed in Vaiśākha
+  Chapter 96 - Deeds Leading to Hell and Heaven
+  Chapter 97 - More Sinful and Meritorious Deeds
+  Chapter 98 - The Greatness of Vaiśākha
+  Chapter 99 - Kasyapa’s Advice to King Mahiratha
+  Chapter 100 - Carnal Enjoyment Is Sinful
+  Chapter 101 - King Mahiratha Goes to Vishnu’s Abode
+  Chapter 102 - King Mahiratha Gives Part of His Merit to the Sufferers in Hell
+  Chapter 103 - How to Meditate on Krishna in Vaiśakha
+  Chapter 104 - Dialogue between Sambha and Rama
+  Chapter 105 - The Importance of Sacred Ash
+  Chapter 106 - A Sinful Brāhmaṇa Becomes an Attendant of Virabhadra
+  Chapter 107 - Virabhadra’s Heroic Deed
+  Chapter 108 - How to Prepare Sacred Ash
+  Chapter 109 - Jabāli Recommends Phallus Worship to the Brāhmaṇa Ilścvāku
+  Chapter 110 - How a King Became Siva’s Attendant Agnisikha
+  Chapter 111 - The Sinner Vidhṛta Goes to diva’s Abode
+  Chapter 112 - The Story of Soṇa and His Wife Kalā
+  Chapter 113 - The Requirements for Narrating a Purāṇa
+  Chapter 114 - Dialogue between diva and Rama
+  Chapter 115 - Reciting and Listening to Purāṇas Is Meritorious
+  Chapter 116 - Narration of the Rāmayana of a Former Kalpa
+  Chapter 117 - Fruit of Worship by Justly Procured, Stolen and Impaired Material
+  Uttara-khanda - The Sequel or Concluding Section
+  Chapter 1 - The Contents of the Section in Brief
+  Chapter 2 - Narayana Grants Boons to Rudra
+  Chapter 3 - Jalandhara is Born and Blessed by Brahma
+  Chapter 4 - Jalandhara’s Marriage and Consecration
+  Chapter 5 - War Between Gods and Demons
+  Chapter 6 - Death of Demon Bala
+  Chapter 7 - Lakshmi Intervenes in the Fight between Vishnu and Jalandhara
+  Chapter 8 - Conditions During Jalandhara’s Rule
+  Chapter 9 - The Creation of a New Powerful Weapon by Shiva
+  Chapter 10 - Jalandhara’s Messenger Rāhu Meets Shiva
+  Chapter 11 - Siva’s Attendants Fight the Demons Off
+  Chapter 12 - Shiva Arrives on the Battlefield
+  Chapter 13 - Jalandhara Disguised as Siva Goes to Parvati
+  Chapter 14 - Vishnu Creates Illusion for Vrnda
+  Chapter 15 - Vrnda Goes to Heaven
+  Chapter 16 - Jalandhara Gives up His Disguise
+  Chapter 17 - Sukra is Confined by Krtya inside Her Vulva
+  Chapter 18 - Jalandhara is Killed
+  Chapter 19 - A Description of Srisaila
+  Chapter 20 - The Story of Sagara
+  Chapter 21 - The Greatness of Haridvara
+  Chapter 22 - An Eulogy of Ganga, Yamuna, Prayaga
+  Chapter 23 - The Importance of Tulasi
+  Chapter 24 - The Importance of Prayaga
+  Chapter 25 - A Three-night Tulasi Vow
+  Chapter 26 - Gift of Food Praised
+  Chapter 27 - Constructing Tanks, Planting Trees etc.
+  Chapter 28 - Merit Coming From Exposition of a Sacred Text
+  Chapter 29 - The Importance of Gopicandana
+  Chapter 30 - The Greatness of the Vow of Lamp
+  Chapter 31 - The Vow of Janmāstami
+  Chapter 32 - A Gift of Land Is the Best
+  Chapter 33 - A Hymn to Sani as a Remover of Trouble
+  Chapter 34 - The Account of Trispṛśā
+  Chapter 35 - The Vow of Unmilani
+  Chapter 36 - The Vow of Paksavardhint
+  Chapter 37 - Keeping Awake on Ekādaśī and Dvādaśī
+  Chapter 38 - The Origin of Ekādaśī and the Killing of Demon Mura
+  Chapter 39 - The Importance of the Mokṣadā Ekādaśī
+  Chapter 40 - Saphalā Ekādaśī
+  Chapter 41 - Putradā Ekādaśī
+  Chapter 42 - The Vow of Ṣaṭtilā Ekādaśī
+  Chapter 43 - Jayā Ekādaśī
+  Chapter 44 - Vijayā Ekādaśī
+  Chapter 45 - Amalaki Ekādaśī
+  Chapter 46 - Pāpamocani Ekādaśī
+  Chapter 47 - Kāmadā Ekādaśī
+  Chapter 48 - Varūthini Ekādaśī
+  Chapter 49 - Mohini Ekādaśi
+  Chapter 50 - Aparā Ekādaśī
+  Chapter 51 - Nirjalā Ekādaśī
+  Chapter 52 - Yogini Ekādaśī
+  Chapter 53 - Devaśayanī Ekādaśī
+  Chapter 54 - Kāmikā Ekādaśī
+  Chapter 55 - Putradā Ekādaśī
+  Chapter 56 - Ajā Ekādaśī
+  Chapter 57 - Padmā Ekādaśī
+  Chapter 58 - Indira Ekādaśī<em>ī</em>
+  Chapter 59 - Pāpāṅkuśā Ekādaśī
+  Chapter 60 - Ramā Ekādaśī
+  Chapter 61 - Prabodhini Ekādaśī
+  Chapter 62 - Kamala Ekādaśī
+  Chapter 63 - Kāmadā Ekādaśī
+  Chapter 64 - The Importance of Cāturmāsya
+  Chapter 65 - Cāturmāsya Vow to be Concluded Properly
+  Chapter 66 - Propitiation of Yama
+  Chapter 67 - The Importance of Gopikācandana
+  Chapter 68 - The Greatness of Vishnu’s Devotees
+  Chapter 69 - The Vow of Śravaṇa Dvādaśī
+  Chapter 70 - The Vow of Nadi-trirātra
+  Chapter 71 - Vishnu’s One Thousand Names
+  Chapter 72 - Merit of Reciting the Viṣṇu sahasranāma
+  Chapter 73 - Rāmaraksā Stotra
+  Chapter 74 - Merit Earned through Gifts
+  Chapter 75 - The Greatness of Gandika
+  Chapter 76 - The Hymn Causing Prosperity
+  Chapter 77 - The Vow of Rsipancami
+  Chapter 78 - The Hymn Called ‘Apamārjana’
+  Chapter 79 - The importance of Apamarjana
+  Chapter 80 - The Greatness of Vishnu
+  Chapter 81 - The Importance of Ganga
+  Chapter 82 - The Greatness of Krishna’s Devotees
+  Chapter 83 - The Swing Festival
+  Chapter 84 - The Damanaka Festival
+  Chapter 85 - The Śayana Festival of Vishnu
+  Chapter 86 - The Investiture of the Sacred Thread
+  Chapter 87 - Monthly Offering of Flowers to Vishnu
+  Chapter 88 - Dialogue Between Satyabhama and Krishna
+  Chapter 89 - An Account of Satyabhama’s Former Birth
+  Chapter 90 - Kārtika Best among Months and Ekādaśī among Days
+  Chapter 91 - The Greatness of Prayaga
+  Chapter 92 - Rules for the Vow of Kārtika
+  Chapter 93 - The Bath Rite
+  Chapter 94 - Restraints during the Kārtika Vow
+  Chapter 95 - [missing]
+  Chapter 96 - The Birth of Jalandhara
+  Chapter 97 - The Conquest of Amaravati by Jalandhara
+  Chapter 98 - Vishnu Promises not to Kill Jalandhara
+  Chapter 99 - Rāhu Acts as Messenger of Jalandhara
+  Chapter 100 - Siva’s Attendants Fight the Demons off
+  Chapter 101 - The Fight Goes On
+  Chapter 102 - Jalandhara Plays a Trick
+  Chapter 103 - Vrnda Curses Vishnu
+  Chapter 104 - The End of Jalandhara
+  Chapter 105 - The Greatness of Dhatri and Tulasi
+  Chapter 106 - The Kalaha Episode
+  Chapter 107 - Kalaha is Emancipated
+  Chapter 108 - King Cola and brāhmaṇa Viṣṇudāsa
+  Chapter 109 - King Cola and Vishnudasa Become Attendants of Vishnu
+  Chapter 110 - The Story of Jaya and Vijaya
+  Chapter 111 - The Greatness of Krishna and Veni
+  Chapter 112 - Portions of Merit and Demerit That Go to Others
+  Chapter 113 - Dhaneswara’s Story
+  Chapter 114 - The Seven Hells Shown to Dhanesvara
+  Chapter 115 - Ahaitha and Vaṭa Praised as Gods in Disguise
+  Chapter 116 - Alakshmi’s Episode
+  Chapter 117 - The Importance of Bathing in Kārtika
+  Chapter 118 - Siva Answers Kartikeya’s Queries
+  Chapter 119 - In Praise of a Fast for a Month
+  Chapter 120 - The Greatness of Salagrama
+  Chapter 121 - The Importance of Offering Lights etc.
+  Chapter 122 - The Celebration of Dipavali
+  Chapter 123 - Instructions Concerning the Fast
+  Chapter 124 - Haribodhini, Bhīṣmapañcaka etc.
+  Chapter 125 - The Importance of Māgha As Told by Bhrgu
+  Chapter 126 - The Importance of Māgha As Told by Dattātreya
+  Chapter 127 - The Release of a Demon
+  Chapter 128 - The Hymn Yogasara in Praise of Vishnu
+  Chapter 129 - The Deliverance of the Five Gandharva Maidens and Vedanidhi’s Son from Imphood
+  Chapter 130 - Kinds of Devotion to Vishnu
+  Chapter 131 - Worship of the Salagrama St one
+  Chapter 132 - Remembering Vishnu
+  Chapter 133 - The Holy Places in Jambūdvipa
+  Chapter 134 - The Greatness of Vetravatt
+  Chapter 135 - The Greatness of Sabhramati
+  Chapter 136 - The Greatness of Nanditirtha
+  Chapter 137 - Viktrnatirtha and ɱ̮ɱvetodbhava
+  Chapter 138 - The Greatness of Ganatirtha
+  Chapter 139 - The Greatness of Agnipalesvara
+  Chapter 140 - Hiranyasangama Tirtha
+  Chapter 141 - Madhurāditya
+  Chapter 142 - Kambutirtha and Kapitirtha
+  Chapter 143 - Ekadhara and Saptadharatirtha
+  Chapter 144 - Brahmavaii and Khandatirtha
+  Chapter 145 - Sangamesvara
+  Chapter 146 - Rudramahālaya tirtha
+  Chapter 147 - Khadgatirtha
+  Chapter 148 - Malarkatirtha
+  Chapter 149 - Candanesvara
+  Chapter 150 - Jambūtirtha
+  Chapter 151 - Dhavalesvara
+  Chapter 152 - Balāpendratirtha
+  Chapter 153 - Durdharseāvara
+  Chapter 154 - Khadgadharesvara
+  Chapter 155 - Dugdheāvara
+  Chapter 156 - Candresvara
+  Chapter 157 - Pippalādattrtha
+  Chapter 158 - Nimbarkadeva tirtha
+  Chapter 159 - Kotaratirtha
+  Chapter 160 - Vamanatirtha
+  Chapter 161 - Somatirtha
+  Chapter 162 - Kapotatirtha
+  Chapter 163 - Gotirtha
+  Chapter 164 - Kasyapatirtha
+  Chapter 165 - Bhutalaya, Ghateswara, and Vaidyanatha
+  Chapter 166 - Pandurarya-tirtha
+  Chapter 167 - Candesa, Ganatirtha
+  Chapter 168 - Vartraghni sangamatirtha
+  Chapter 169 - Varaha tirtha
+  Chapter 170 - Sahgamatirtha
+  Chapter 171 - Adityatirtha
+  Chapter 172 - Nilakantha
+  Chapter 173- Durgasangama tirtha
+  Chapter 174 - The Rise of Nrsithha
+  Chapter 175 - The First Chapter of the Gitā: The Anecdote of Susarman
+  Chapter 176 - The Second Chapter of the Gitā
+  Chapter 177 - The Story of Jada: The Importance of the Third Chapter
+  Chapter 178 - The Fourth Chapter: The Story of Two Girls
+  Chapter 179 - The Fifth Chapter: The Story of Pingala
+  Chapter 180 - The Sixth Chapter: The Story of Raikya
+  Chapter 181 - The Seventh Chapter: The Story of Sankukarna
+  Chapter 182 - The Eighth Chapter: Bhavasarman’s Story
+  Chapter 183 - The Ninth Chapter: A Goat’s Story
+  Chapter 184 - The Tenth chapter: A Swan’s Story
+  Chapter 185 - The Greatness of the Eleventh Chapter: Sunanda’s Story
+  Chapter 186 - The Greatness of the Twelfth Chapter: Siddhasamādhi’s Story
+  Chapter 187 - The Thirteenth Chapter: Durācārā’s Story
+  Chapter 188 - The Fourteenth Chapter: Story of a Bitch and a Hare
+  Chapter 189 - The Fifteenth Chapter: The Story of King Narasimha
+  Chapter 190 - The Sixteenth Chapter: Khadgabahu’s Story
+  Chapter 191 - The Seventeenth Chapter: Dusasana’s Story
+  Chapter 192 - The Eighteenth Chapter: A Brāhmaṇa Becomes Indra
+  Chapter 193 - The Greatness of the Bhāgavata
+  Chapter 194 - Srimad Bhāgavata, the Destroyer of All Miseries
+  Chapter 195 - The Rule of Reciting and Listening to the Bhāgavata for a Week
+  Chapter 196 - Dhundhulis? Story
+  Chapter 197 - The Seven-day Bhāgavata Recitation
+  Chapter 198 - Procedure to be Followed during the Saptaha
+  Chapter 199 - The Glory of Yamuna
+  Chapter 200 - The Episode of a Bhilla and a Lion
+  Chapter 201 - Sarabha’s Story
+  Chapter 202 - The Story of King Dilipa
+  Chapter 203 - Dilipa Obtains a Son by Propitiating Nandini
+  Chapter 204 - The Story of a Merchant Sarabha and a Demon Vikata
+  Chapter 205 - The Efficacy of Nigamabodha
+  Chapter 206 - A Woman Should Never Desert Her Husband
+  Chapter 207 - The Story of Vimala
+  Chapter 208 - The Greatness of Dvaraka
+  Chapter 209 - The Story of Brāhmaṇa Mukunda
+  Chapter 210 - Mukunda Goes to Heaven
+  Chapter 211 - Candaka’s Fate
+  Chapter 112 - The Efficacy of Kosala
+  Chapter 113 - A śrāddha at Madhuvana is More Meritorious
+  Chapter 214 - The Greatness of Madhuvana
+  Chapter 215 - Budha Infuriated and Appeased
+  Chapter 216 - The Greatness of Badarikāsrama
+  Chapter 217 - The Greatness of Haridvara
+  Chapter 218 - The Greatness of Puskara: Pundarika’s Story
+  Chapter 219 - The Greatness of Puskara; Pundarika Attains Absorption into Vishnu
+  Chapter 220 - The Greatness of Prayaga: Mohini’s Story
+  Chapter 221 - The Greatness of Prayaga: Hemāṅgi and Viravarman Go to Vaikuntha
+  Chapter 222 - Krishna, Gokarna, Shivakanci, Tirthasaptaka and Bhimakunda
+  Chapter 223 - Gem of a Formula
+  Chapter 224 - Bearing the Marks of a Disc etc. Essential for a Brāhmaṇa
+  Chapter 225 - The Efficacy of Urdhvapunda
+  Chapter 226 - The Meaning of the Mantra (Formula)
+  Chapter 227 - The Description of the Vibhūti of Tripād
+  Chapter 228 - Description of the Highest Heaven etc.
+  Chapter 229 - A Description of Vishnu’s Vyūhas
+  Chapter 230 - The Fish Incarnation of Vishnu
+  Chapter 231 - Durvāsass Curses Indra
+  Chapter 232 - The Rise of Goddess Lakshmi
+  Chapter 233 - Ekādaśī as a Day of Fast
+  Chapter 234 - How to Observe the Vow of Dvādaśī
+  Chapter 235 - The Birth of Heretics
+  Chapter 236 - Characterization of Various Texts and Doctrines as Sattvika, Rājasa and Tamasa
+  Chapter 237 - The Boar Incarnation of Vishnu
+  Chapter 238 - The Emergence of Nrsimha
+  Chapter 239 - The Rise of Bali and Kasyapa’s Penance
+  Chapter 240 - Vishnu Incarnates as Vamana
+  Chapter 241 - Parasurama’s Story
+  Chapter 242 - The Story of Rama
+  Chapter 243 - Rama’s Consecration
+  Chapter 244 - Rama Goes to Heaven
+  Chapter 245 - The Brave Deeds of Krishna
+  Chapter 246 - Jarasandha Defeated
+  Chapter 247 - Rukmini’s Abduction
+  Chapter 248 - Rukmini Formally Married to Krishna
+  Chapter 249 - Krishna’s Other Marriages
+  Chapter 250 - Aniruddha’s Marriage
+  Chapter 251 - Destruction of Paundraka’s Son
+  Chapter 252 - Krishna Goes Back to His Abode
+  Chapter 253 - Modes of Vishnu’s Worship
+  Chapter 254 - One Hundred and Eight Names of Rama
+  Chapter 255 - The Three Gods Subjected to Test by Bhrgu
+  Kriya-yoga-sara-khanda - Section on Essence of Yoga by Works
+  Chapter 1 - A Dialogue between Jaimini and Vyasa
+  Chapter 2 - Characteristic Marks of a Vaishnava
+  Chapter 3 - The Story of King Manobhadra
+  Chapter 4 - Pranidhi, Padmavati and Dhanurdhvaja
+  Chapter 5 - The Story of Madhava and Sulocana
+  Chapter 6 - Happy End of the Story of Madhava and Sulocana
+  Chapter 7 - Kālakalpa is Liberated by the Touch of Ganga-water
+  Chapter 8 - The Love Story of Indra and Padmagandha
+  Chapter 9 - The Greatness of Ganga
+  Chapter 10 - The Efficacy of Campaka Flower
+  Chapter 11 - The Rules of Vishnu Worship
+  Chapter 12 - The Greatness of the Holy Fig Tree
+  Chapter 13 - Vishnu’s Worship with Lotuses: The Story of Praja
+  Chapter 14 - Prohibition regarding and Fruit of Vishnu Worship
+  Chapter 15 - The Efficacy of Rama’s Name
+  Chapter 16 - Cakrika’s Story
+  Chapter 17 - Bhadratanu’s Story
+  Chapter 18 - The Greatness of Purusottama
+  Chapter 19 - What Pleases Vishnu; What Makes Him Angry?
+  Chapter 20 - The Great Efficacy of Giving (Charity)
+  Chapter 21 - Brāhmaṇas; Gift of Food and Water
+  Chapter 22 - The Greatness of Ekādaśī
+  Chapter 23 - Queen Suprajna on the Efficacy of Ekādaśī Vow
+  Chapter 24 - The Greatness of Tulasi and Dhātri
+  Chapter 25 - The Importance of Honouring a Guest
+  Chapter 26 - Conduct in the Four Yugas

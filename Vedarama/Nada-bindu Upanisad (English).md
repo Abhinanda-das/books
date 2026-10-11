@@ -1,0 +1,156 @@
+---
+title: "Nada-bindu Upanisad (English)"
+author: "Vyasadev"
+tags:
+  - "Английский"
+cssclasses:
+  - vedarama-book
+source: Vedarama
+source_url: "https://vedarama.com/en/books/ndu"
+---
+
+# Nada-bindu Upanisad (English)
+
+## Nada-bindu Upanisad
+
+Om! May my speech be based on (i.e. accord with) the mind;  
+May my mind be based on speech.  
+O Self-effulgent One, reveal Thyself to me.  
+May you both (speech and mind) be the carriers of the Veda to me.  
+May not all that I have heard depart from me.  
+I shall join together (i.e. obliterate the difference of) day  
+And night through this study.  
+I shall utter what is verbally true;  
+I shall utter what is mentally true.  
+May that (Brahman) protect me;  
+May That protect the speaker (i.e. the teacher), may That protect me;  
+May that protect the speaker – may That protect the speaker.  
+Om!cLet there be Peace in me!  
+Let there be Peace in my environment!  
+Let there be Peace in the forces that act on me!
+
+1\. The syllable ‘A’ is considered to be its (the bird Om’s) right wing, ‘Upanishad’, its left; ‘M’, its tail; and the Ardha-Matra (half-metre) is said to be its head.
+
+2\. The (Rajasic and Tamasic) qualities, its feet upwards (to the loins); Sattva, its (main) body; Dharma is considered to be its right eye, and Adharma, its left.
+
+3\. The Bhur-Loka is situated in its feet; the Bhuvar-Loka, in its knees; the Suvar-Loka, in its loins; and the Mahar-Loka, in its navel.
+
+4\. In its heart is situate the Janoloka; Tapoloka in its throat and the Satya-Loka in the centre of the forehead between the eyebrows.
+
+5(a). Then the Matra (or Mantra) beyond the Sahasrara (thousand-rayed) is explained (viz.,) should be explained.
+
+5(b)-6(a). An adept in Yoga who bestrides the Hamsa (bird) thus (viz., contemplates on Om) is not affected by Karmic influences or by tens of Crores of sins.
+
+6(b)-7. The first Matra has Agni as its Devata (presiding deity); the second, Vayu as its Devata; the next Matra is resplendent like the sphere of the sun and the last, Ardha-Matra the wise know as belonging to Varuna (the presiding deity of water).
+
+8\. Each of these Matras has indeed three Kalas (parts). This is called Omkara. Know it by means of the Dharanas, viz., concentration on each of the twelve Kalas (or the variations of the Matras produced by the difference of Svaras or intonation).
+
+9-11. The first Matra is called Ghoshini; the second, Vidyunmali (or Vidyunmatra); the third, Patangini; the fourth, Vayuvegini; the fifth, Namadheya; the sixth, Aindri; the seventh, Vaishnavi; the eighth, Sankari; the ninth, Mahati; the tenth, Dhriti (Dhruva); the eleventh, Nari (Mauni); and the twelfth, Brahmi.
+
+12\. If a person happens to die in the first Matra (while contemplating on it), he is born again as a great emperor in Bharatavarsha.
+
+13\. If in the second Matra, he becomes an illustrious Yaksha; if in the third Matra, a Vidyadhara; if in the fourth, a Gandharva (these three being the celestial hosts).
+
+14\. If he happens to die in the fifth, viz., Ardha-Matra, he lives in the world of the moon, with the rank of a Deva greatly glorified there.
+
+15\. If in the sixth, he merges, into Indra; if in the seventh, he reaches the seat of Vishnu; if in the eighth, Rudra, the Lord of all creatures.
+
+16\. If in the ninth, in Mahar-Loka; if in the tenth, in Janoloka (Dhruva-Loka -- ?); if in the eleventh, Tapoloka, and if in the twelfth, he attains the eternal state of Brahma.
+
+17\. That which is beyond these, (viz.,) Para-Brahman which is beyond (the above Matras), the pure, the all-pervading, beyond Kalas, the ever resplendent and the source of all Jyotis (light) should be known.
+
+18\. When the mind goes beyond the organs and the Gunas and is absorbed, having no separate existence and no mental action, then (the Guru) should instruct him (as to his further course of development).
+
+19\. That person always engaged in its contemplation and always absorbed in it should gradually leave off his body (or family) following the course of Yoga and avoiding all intercourse with society.
+
+20\. Then he, being freed from the bonds of karma and the existence as a Jiva and being pure, enjoys the supreme bliss by his attaining of the state of Brahma.
+
+21\. O intelligent man, spend your life always in the knowing of the supreme bliss, enjoying the whole of your Prarabdha (that portion of past Karma now being enjoyed) without making any complaint (of it).
+
+22-23(a). Even after Atma-Jnana (knowledge of Atman or Self) has awakened (in one), Prarabdha does not leave (him); but he does not feel Prarabdha after the dawning of Tattva-Jnana (knowledge of Tattva or truth) because the body and other things are Asat (unreal), like the things seen in a dream to one on awaking from it.
+
+23(b)-24. That (portion of the) Karma which is done in former births and called Prarabdha does not at all affect the person (Tattva-Jnani), as there is no rebirth to him. As the body that exists in the dreaming state is untrue, so is this body.
+
+25(a). Where then is rebirth to a thing that is illusory ? How can a thing have any existence, when there is no birth (to it) ?
+
+25(b)-26(a). As the clay is the material cause of the pot so one learns from Vedanta that Ajnana is the material cause of the universe and when Ajnana ceases to exist, where then is the cosmos ?
+
+26(b)-27. As a person through illusion mistakes a rope for a serpent, so the fool not knowing Satya (the eternal truth) sees the world (to be true). When he knows it to be a piece of rope, the illusory idea of a serpent vanishes.
+
+28-29(a). So when he knows the eternal substratum of everything and all the universe becomes (therefore) void (to him), where then is Prarabdha to him, the body being a part of the world ? Therefore the word Prarabdha is accepted to enlighten the ignorant (only).
+
+29(b)-30. Then as Prarabdha has, in course of time, worn out, he who is the sound resulting from the union of Pranava with Brahman who is the absolute effulgence itself, and who is the bestower of all good, shines himself like the sun at the dispersion of the clouds.
+
+31\. The Yogin being in the Siddhasana (posture) and practising the Vaishnavi-Mudra, should always hear the internal sound through the right ear.
+
+32\. The sound which he thus practises makes him deaf to all external sounds. Having overcome all obstacles, he enters the Turya state within fifteen days.
+
+33\. In the beginning of his practice, he hears many loud sounds. They gradually increase in pitch and are heard more and more subtly.
+
+34\. At first, the sounds are like those proceeding from the ocean, clouds, kettle-drum and cataracts; in the middle (stage) those proceeding from Mardala (a musical instrument), bell and horn.
+
+35\. At the last stage, those proceeding from tinkling bells, flute, Vina (a musical instrument) and bees. Thus he hears many such sounds more and more subtle.
+
+36\. When he comes to that stage when the sound of the great kettle-drum is being heard, he should try to distinguish only sounds more and more subtle.
+
+37\. He may change his concentration from the gross sound to the subtle, or from the subtle to the gross, but he should not allow his mind to be diverted from them towards others.
+
+38\. The mind having at first concentrated itself on any one sound fixes firmly to that and is absorbed in it.
+
+39\. It (the mind) becoming insensible to the external impressions, becomes one with the sound as milk with water and then becomes rapidly absorbed in Chidakasa (the Akasa where Chit prevails).
+
+40\. Being indifferent towards all objects, the Yogin having controlled his passions, should by continual practice concentrate his attention upon the sound which destroys the mind.
+
+41\. Having abandoned all thoughts and being freed from all actions, he should always concentrate his attention on the sound and (then) his Chitta becomes absorbed in it.
+
+42-43(a). Just as the bee drinking the honey (alone) does not care for the odour, so the Chitta which is always absorbed in sound, does not long for sensual objects, as it is bound by the sweet smell of Nada and has abandoned its flitting nature.
+
+43(b)-44(a). The serpent Chitta through listening to the Nada is entirely absorbed in it and becoming unconscious of everything concentrates itself on the sound.
+
+44(b)-45(a). The sound serves the purpose of a sharp goad to control the maddened elephant – Chitta which roves in the pleasure-garden of the sensual objects.
+
+45(b)-46(a). It serves the purpose of a snare for binding the deer – Chitta. It also serves the purpose of a shore to the ocean waves of Chitta.
+
+46(b)-47(a). The sound proceeding from Pranava which is Brahman is of the nature of effulgence; the mind becomes absorbed in it; that is the supreme seat of Vishnu.
+
+47(b)-48(a). The sound exists till there is the Akasic conception (Akasa-Sankalpa). Beyond this, is the (Asabda) soundless Para-Brahman which is Paramatman.
+
+48(b). The mind exists so long as there is sound, but with its (sound’s cessation) there is the state called Unmani of Manas (viz., the state of being above the mind).
+
+49(a). This sound is absorbed in the Akshara (indestructible) and the soundless state is the supreme seat.
+
+49(b)-50(a). The mind which along with Prana (Vayu) has (its) Karmic affinities destroyed by the constant concentration upon Nada is absorbed in the unstained One. There is no doubt of it.
+
+50(b)-51(a). Many myriads of Nadas and many more of Bindus – (all) become absorbed in the Brahma-Pranava sound.
+
+51(b)-52(a). Being freed from all states and all thoughts whatever, the Yogin remains like one dead. He is a Mukta. There is no doubt about this.
+
+52(b). After that, he does not at any time hear the sounds of conch or Dundubhi (large kettle drum).
+
+53\. The body in the state of Unmani is certainly like a log and does not feel heat or cold, joy or sorrow.
+
+54\. The Yogin’s Chitta having given up fame or disgrace is in Samadhi above the three states.
+
+55\. Being freed from the waking and the sleeping states, he attains to his true state.
+
+56\. When the (spiritual) sight becomes fixed without any object to be seen, when the Vayu (Prana) becomes still without any effort, and when the Chitta becomes firm without any support, he becomes of the form of the internal sound of Brahma-Pranava.
+
+Such is the Upanishad.
+
+Om! May my speech be based on (i.e. accord with) the mind;  
+May my mind be based on speech.  
+O Self-effulgent One, reveal Thyself to me.  
+May you both (speech and mind) be the carriers of the Veda to me.  
+May not all that I have heard depart from me.  
+I shall join together (i.e. obliterate the difference of) day  
+And night through this study.  
+I shall utter what is verbally true;  
+I shall utter what is mentally true.  
+May that (Brahman) protect me;  
+May That protect the speaker (i.e. the teacher), may That protect me;  
+May that protect the speaker – may That protect the speaker.  
+Om! Let there be Peace in me!  
+Let there be Peace in my environment!  
+Let there be Peace in the forces that act on me!
+
+Here ends the Nadabindu Upanishad, as contained in the Rig-Veda.

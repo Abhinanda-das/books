@@ -1,0 +1,806 @@
+Книга: Brahma Sūtras [Trans. by Bhanu Swami]
+Адрес: https://vedarama.com/en/books/br-bs
+Страниц сайта: 794; заголовков: 795; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 720196; в .md: 720196
+Первый заголовок: Brahma Sūtras [Trans. by Bhanu Swami]
+Последний заголовок: || 4.4.22 ||
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Brahma Sūtras [Trans. by Bhanu Swami]
+  Brahma Sūtras [Trans. by Bhanu Swami]
+  Chapter One
+  Part One
+  || 1.1.1 ||
+  1. brahma-jijñāsādhikaraṇam
+  Inquiry into Brahman
+  || 1.1.2 ||
+  3. śāstra-yonitvādhikaraṇam
+  || 1.1.3 ||
+  4. Samanvyādhikaraṇam
+  || 1.1.4 ||
+  5. īkṣater adhikaranām
+  || 1.1.5 ||
+  || 1.1.6 ||
+  || 1.1.7 ||
+  || 1.1.8 ||
+  || 1.1.9 ||
+  || 1.1.10 ||
+  || 1.1.11 ||
+  6. Ānandamayādhikaraṇam
+  || 1.1.12 ||
+  || 1.1.13 ||
+  || 1.1.14 ||
+  || 1.1.15 ||
+  || 1.1.16 ||
+  || 1.1.17 ||
+  || 1.1.18 ||
+  || 1.1.19 ||
+  7. antar-adhikaraṇam
+  || 1.1.20 ||
+  || 1.1.21 ||
+  8. ākāsādhikaraṇam
+  || 1.1.22 ||
+  9. prāṇādhikaraṇam
+  || 1.1.23 ||
+  10. jyotiścaraṇādhikaraṇam
+  || 1.1.24 ||
+  || 1.1.25 ||
+  || 1.1.26 ||
+  || 1.1.27 ||
+  11. pādānta-prāṇādhikaraṇam
+  || 1.1.28 ||
+  || 1.1.29 ||
+  || 1.1.30 ||
+  || 1.1.31 ||
+  Part Two
+  1. sarvatra-prasiddhādhikaraṇam
+  The Lord is famous everywhere
+  || 1.2.1 ||
+  || 1.2.2 ||
+  || 1.2.3 ||
+  || 1.2.4 ||
+  || 1.2.5 ||
+  || 1.2.6 ||
+  || 1.2.7 ||
+  || 1.2.8 ||
+  2. attādhikaraṇam
+  || 1.2.9 ||
+  || 1.2.10 ||
+  3. guhādhikaraṇam
+  || 1.2.11 ||
+  || 1.2.12 ||
+  4. antarādhikaraṇam
+  || 1.2.13 ||
+  || 1.2.14 ||
+  || 1.2.15 ||
+  || 1.2.16 ||
+  || 1.2.17 ||
+  5. antaryāmy-adhikaraṇam
+  || 1.2.18 ||
+  || 1.2.19 ||
+  || 1.2.20 ||
+  6. adṛśyādhikaraṇam
+  || 1.2.21 ||
+  || 1.2.22 ||
+  || 1.2.23 ||
+  || 1.2.24 ||
+  7. vaiśvānarādhikaraṇam
+  || 1.2.25 ||
+  || 1.2.26 ||
+  || 1.2.27 ||
+  || 1.2.28 ||
+  || 1.2.29 ||
+  || 1.2.30 ||
+  || 1.2.31 ||
+  || 1.2.32 ||
+  || 1.2.33 ||
+  Part Three
+  May Govinda
+  1. dyu-bhv-ādy-adhikaraṇam
+  || 1.3.1 ||
+  || 1.3.2 ||
+  || 1.3.3 ||
+  || 1.3.4 ||
+  || 1.3.5 ||
+  || 1.3.6 ||
+  || 1.3.7 ||
+  2. bhūmādhikaraṇam
+  || 1.3.8 ||
+  || 1.3.9 ||
+  3. akṣarādhikaraṇam
+  || 1.3.10 ||
+  || 1.3.11 ||
+  || 1.3.12 ||
+  4. īkṣati-karmādhikaraṇam
+  || 1.3.13 ||
+  5. daharādhikaraṇam
+  || 1.3.14 ||
+  || 1.3.15 ||
+  || 1.3.16 ||
+  || 1.3.17 ||
+  || 1.3.18 ||
+  || 1.3.19 ||
+  || 1.3.20 ||
+  || 1.3.21 ||
+  || 1.3.22 ||
+  || 1.3.23 ||
+  6. pramitādhikaraṇam
+  || 1.3.24 ||
+  || 1.3.25 ||
+  7. devatādhikaraṇam
+  || 1.3.26 ||
+  || 1.3.27 ||
+  || 1.3.28 ||
+  || 1.3.29 ||
+  || 1.3.30 ||
+  || 1.3.31 ||
+  || 1.3.32 ||
+  8. bhāvādhikaraṇam
+  || 1.3.33 ||
+  9. apaśūdrādhikaraṇam
+  || 1.3.34 ||
+  || 1.3.35 ||
+  || 1.3.36 ||
+  || 1.3.37 ||
+  || 1.3.38 ||
+  10. kampanādhikaraṇam
+  || 1.3.39 ||
+  || 1.3.40 ||
+  11. arthāntarādhikaraṇam
+  || 1.3.41 ||
+  || 1.3.42 ||
+  || 1.3.43 ||
+  Part Four
+  I worship Kṛṣṇa
+  1. anumānādhikaraṇam
+  || 1.4.1 ||
+  || 1.4.2 ||
+  || 1.4.3 ||
+  || 1.4.4 ||
+  || 1.4.5 ||
+  || 1.4.6 ||
+  || 1.4.7 ||
+  2. camasādhikaraṇam
+  || 1.4.8 ||
+  || 1.4.9 ||
+  || 1.4.10 ||
+  3. saṅkhyopasaṅgrahādhikaraṇam
+  || 1.4.11 ||
+  || 1.4.12 ||
+  || 1.4.13 ||
+  4. kāraṇatvādhikaraṇam
+  || 1.4.14 ||
+  || 1.4.15 ||
+  5. jagad-vācitvādhikaraṇam
+  || 1.4.16 ||
+  || 1.4.17 ||
+  || 1.4.18 ||
+  6. vākyānyādhikaraṇam
+  || 1.4.19 ||
+  || 1.4.20 ||
+  || 1.4.21 ||
+  || 1.4.22 ||
+  7. prakṛty-adhikaraṇam
+  || 1.4.23 ||
+  || 1.4.24 ||
+  || 1.4.25 ||
+  || 1.4.26 ||
+  || 1.4.27 ||
+  8. sarva-vyākyātādhikaraṇam
+  || 1.4.28 ||
+  Chapter Two
+  Part One
+  Refuge
+  1. smṛty-adhikaraṇam
+  || 2.1.1 ||
+  || 2.1.2 ||
+  2. yoga-pratyuktyādhikaraṇam
+  || 2.1.3 ||
+  3. vilakṣaṇatvādhikaraṇam
+  || 2.1.4 ||
+  || 2.1.5 ||
+  || 2.1.6 ||
+  4. asadity-adhikaraṇam
+  || 2.1.7 ||
+  || 2.1.8 ||
+  || 2.1.9 ||
+  || 2.1.10 ||
+  || 2.1.11 ||
+  5. śiṣṭāparigrahādhikaraṇam
+  || 2.1.12 ||
+  6. bhoktṛ-āpatty-adhikaraṇam
+  || 2.1.13 ||
+  7. ārambhaṇādhikaraṇam
+  || 2.1.14 ||
+  || 2.1.15 ||
+  || 2.1.16 ||
+  || 2.1.17 ||
+  || 2.1.18 ||
+  || 2.1.19 ||
+  || 2.1.20 ||
+  8. itara-vyapadeśādhikaraṇam
+  || 2.1.21 ||
+  9. adhikādhikaraṇam
+  || 2.1.22 ||
+  || 2.1.23 ||
+  || 2.1.24 ||
+  || 2.1.25 ||
+  || 2.1.26 ||
+  10. śabda-mūlādhikaraṇam
+  || 2.1.27 ||
+  || 2.1.28 ||
+  || 2.1.29 ||
+  11. sarvopetādhikaraṇam
+  || 2.1.30 ||
+  12. vikaraṇatvādhikaraṇam
+  || 2.1.31 ||
+  || 2.1.32 ||
+  13. līlā-kaivalyādhikaraṇam
+  || 2.1.33 ||
+  14. vaiṣamya-nairghṛnyādhikaraṇam
+  || 2.1.34 ||
+  15. na karmāvibhāgādhikaraṇam
+  || 2.1.35 ||
+  16. bhakti-pakṣa-pātādhikaraṇam
+  || 2.1.36 ||
+  || 2.1.37 ||
+  Part Two
+  I offer respects to Vyāsa
+  1. racanānupapatty-adhikaraṇam
+  || 2.2.1 ||
+  || 2.2.2 ||
+  || 2.2.3 ||
+  || 2.2.4 ||
+  || 2.2.5 ||
+  || 2.2.6 ||
+  || 2.2.7 ||
+  || 2.2.8 ||
+  || 2.2.9 ||
+  || 2.2.10 ||
+  2. mahad-dīrghādhikaraṇam
+  || 2.2.11 ||
+  || 2.2.12 ||
+  || 2.2.13 ||
+  || 2.2.14 ||
+  || 2.2.15 ||
+  || 2.2.16 ||
+  || 2.2.17 ||
+  3. samudāyadhikaraṇam
+  || 2.2.18 ||
+  || 2.2.19 ||
+  || 2.2.20 ||
+  || 2.2.21 ||
+  || 2.2.22 ||
+  || 2.2.23 ||
+  || 2.2.24 ||
+  || 2.2.25 ||
+  || 2.2.26 ||
+  || 2.2.27 ||
+  4. abhāvādhikaraṇam
+  || 2.2.28 |
+  || 2.2.29 ||
+  || 2.2.30 ||
+  || 2.2.31 ||
+  5. sarvathānupapatty-adhikaraṇam
+  || 2.2.32 ||
+  6. ekasminn asambhavādhikaraṇam
+  || 2.2.33 ||
+  || 2.2.34 ||
+  || 2.2.35 ||
+  || 2.2.36 ||
+  7. paty-adhikaraṇam
+  || 2.2.37 ||
+  || 2.2.38 ||
+  || 2.2.39 ||
+  || 2.2.40 ||
+  || 2.2.41 ||
+  8. utpatty-asambhavādhikaraṇam
+  || 2.2.42 ||
+  || 2.2.43 ||
+  || 2.2.44 ||
+  || 2.2.45 ||
+  Part Three
+  May the sun of Kṛṣṇa who destroyed with his rays the misconceptions about ether and other subjects destroy my material attachments.
+  1. viyad-adhikaraṇam
+  || 2.3.1 ||
+  2. viyad-utpatty-adhikaraṇam
+  || 2.3.2 ||
+  || 2.3.3 ||
+  || 2.3.4 ||
+  3. pratijña-hāny-adhikaraṇam
+  || 2.3.5 ||
+  || 2.3.6 ||
+  4. mātariśvādhikaraṇam
+  || 2.3.7 ||
+  5. asambhavādhikaraṇam
+  || 2.3.8 ||
+  6. tejo 'dhikaraṇam
+  || 2.3.9 ||
+  7. ab-adhikaraṇam
+  || 2.3.10 ||
+  8. pṛthivy-adhikaraṇam
+  || 2.3.11 ||
+  9. tad-abhidhyānādhikaraṇam
+  || 2.3.12 ||
+  || 2.3.13 ||
+  || 2.3.14 ||
+  10. carācara-vyapāśrayādhikaraṇam
+  || 2.3.15 ||
+  11. ātmādhikaraṇam
+  || 2.3.16 ||
+  12. jñādhikaraṇam
+  || 2.3.17 ||
+  13. utkrānti-gaty-adhikaraṇam
+  || 2.3.18 ||
+  || 2.3.19 ||
+  || 2.3.20 ||
+  || 2.3.21 ||
+  || 2.3.22 ||
+  || 2.3.23 ||
+  || 2.3.24 ||
+  || 2.3.25 ||
+  14. prthag-upadeśādhikaraṇam
+  || 2.3.26 ||
+  || 2.3.27 ||
+  || 2.3.28 ||
+  || 2.3.29 ||
+  15. nithyopalabdhi-prasaṅgādhikaraṇam
+  || 2.3.30 ||
+  16. kartr-adhikaraṇam
+  || 2.3.31 ||
+  || 2.3.32 ||
+  || 2.3.33 ||
+  || 2.3.34 ||
+  || 2.3.35 ||
+  || 2.3.36 ||
+  || 2.3.37 ||
+  || 2.3.38 ||
+  || 2.3.39 ||
+  || 2.3.40 ||
+  17. aṁśādhikaraṇam
+  || 2.3.41 ||
+  || 2.3.42 ||
+  || 2.3.43 ||
+  18. matsyādy-adhikaraṇam
+  || 2.3.44 ||
+  || 2.3.45 ||
+  || 2.3.46 ||
+  || 2.3.47 ||
+  || 2.3.48 ||
+  19. adṛṣtāniyamādhikaraṇam
+  || 2.3.49 ||
+  || 2.3.50 ||
+  || 2.3.51 ||
+  Part Four
+  O Lord!
+  1. prāṇotpatty-adhikaraṇam
+  || 2.4.1 ||
+  || 2.4.2 ||
+  || 2.4.3 ||
+  || 2.4.4 ||
+  || 2.4.5 ||
+  2. hastādayādhikaraṇam
+  || 2.4.6 ||
+  3. prāṇāṇutvādhikaraṇam
+  || 2.4.7 ||
+  4. prāṇa-śreṣṭhādhikaraṇam
+  || 2.4.8 ||
+  5. vāyu-kriyādhikaraṇam
+  || 2.4.9 ||
+  6. jīvopakāraṇatvādhikaraṇam
+  || 2.4.10 ||
+  || 2.4.11 ||
+  7. pañca-vṛtty-adhikaraṇam
+  || 2.4.12 ||
+  8. śreṣṭāṇutvādhikaraṇam
+  || 2.4.13 ||
+  9. jyotir-ādy-adhikaraṇam
+  || 2.4.14 ||
+  || 2.4.15 ||
+  || 2.4.16 ||
+  10. indriyādhikaraṇam
+  || 2.4.17 ||
+  || 2.4.18 ||
+  || 2.4.19 ||
+  11. saṁjña-mūrti-kḷpty-adhikaraṇam
+  || 2.4.20 ||
+  || 2.4.21 ||
+  || 2.4.22 ||
+  Chapter Three
+  Part One
+  Methods
+  1. tad-anantra-pratipatty-adhikaraṇam
+  || 3.1.1 ||
+  || 3.1.2 ||
+  || 3.1.3 ||
+  || 3.1.4 ||
+  || 3.1.5 ||
+  || 3.1.6 ||
+  || 3.1.7 ||
+  2. kṛtātyayādhikaraṇam
+  || 3.1.8 ||
+  || 3.1.9 ||
+  || 3.1.10 ||
+  || 3.1.11 ||
+  || 3.1.12 ||
+  || 3.1.13 ||
+  3. saṁyamanādhikaraṇam
+  || 3.1.14 ||
+  || 3.1.15 ||
+  || 3.1.16 ||
+  || 3.1.17 ||
+  || 3.1.18 ||
+  || 3.1.19 ||
+  || 3.1.20 ||
+  || 3.1.21 ||
+  || 3.1.22 ||
+  4.tat-sābhāvyāpatty-adhikaraṇam
+  || 3.1.23 ||
+  5. nāticcireṇādhikaraṇam
+  || 3.1.24 ||
+  6. anyādhiṣṭhitādhikaraṇam
+  || 3.1.25 ||
+  || 3.1.26 ||
+  || 3.1.27 ||
+  || 3.1.28 ||
+  Part Two
+  May the Supreme Lord's bhakti
+  1. sandhy-adhikaraṇam
+  || 3.2.1 ||
+  || 3.2.2 ||
+  || 3.2.3 ||
+  2. svapnādhikaraṇam
+  || 3.2.4 ||
+  || 3.2.5 ||
+  3. deha-yogādhikaraṇam
+  || 3.2.6 ||
+  4. tad-abhāvādhikaraṇam
+  || 3.2.7 ||
+  || 3.2.8 ||
+  5. karmānusmṛti-śabda-vidhy-adhikaraṇam
+  || 3.2.9 ||
+  6. mugdhādhikaraṇam
+  || 3.2.10 ||
+  7. ubhaya-liṅgādhikaraṇam
+  || 3.2.11 ||
+  || 3.2.12 ||
+  || 3.2.13 ||
+  8. arūpavad-adhikaraṇam
+  || 3.2.14 ||
+  || 3.2.15 ||
+  || 3.2.16 ||
+  || 3.2.17 ||
+  9. upamādhikaraṇam
+  || 3.2.18 ||
+  || 3.2.19 ||
+  || 3.2.20 ||
+  || 3.2.21 ||
+  || 3.2.22 ||
+  10. avyaktādhikaraṇam
+  || 3.2.23 ||
+  11. saṁrādhanādhikaraṇam
+  || 3.2.24 ||
+  || 3.2.25 ||
+  || 3.2.26 ||
+  || 3.2.27 ||
+  12. ahikuṇḍalādhikaraṇam
+  || 3.2.28 ||
+  || 3.2.29 ||
+  || 3.2.30 ||
+  || 3.2.31 ||
+  13. parādhikaraṇam
+  || 3.2.32 ||
+  || 3.2.33 ||
+  || 3.2.34 ||
+  14. sthāna-viśeṣādhikaraṇam
+  || 3.2.35 ||
+  || 3.2.36 ||
+  15. anya-pratiṣedhādhikaraṇam
+  || 3.2.37 ||
+  16. sarva-gatatvādhikaraṇam
+  || 3.2.38 ||
+  17. phalādhikaraṇam
+  || 3.2.39 ||
+  || 3.2.40 ||
+  || 3.2.41 ||
+  || 3.2.42 ||
+  Part Three
+  May Lord Kṛṣṇa
+  1. sarva-vedānta-pratyayādhikaraṇam
+  || 3.3.1 ||
+  || 3.3.2 ||
+  || 3.3.3 ||
+  || 3.3.4 ||
+  || 3.3.5 ||
+  2. upasaṁhārādhikaraṇam
+  || 3.3.6 ||
+  3. anyathātvādhikaraṇam
+  || 3.3.7 ||
+  4. prakaraṇa-bhedādhikaraṇam
+  || 3.3.8 ||
+  || 3.3.9 ||
+  || 3.3.10 ||
+  5. sarvābhedādhikaraṇam
+  || 3.3.11 ||
+  6. ānandādy-adhikaraṇam
+  || 3.3.12 ||
+  7. priya-śirastvādy-aprāpty-adhikaraṇam
+  || 3.3.13 ||
+  || 3.3.14 ||
+  || 3.3.15 ||
+  || 3.3.16 ||
+  || 3.3.17 ||
+  || 3.3.18 ||
+  8. apūrvādhikaraṇam
+  || 3.3.19 ||
+  9. samānādhikaraṇam
+  || 3.3.20 ||
+  || 3.3.21 ||
+  || 3.3.22 ||
+  || 3.3.23 ||
+  || 3.3.24 ||
+  || 3.3.25 ||
+  10. vedhādy-dhikaraṇam
+  || 3.3.26 ||
+  11. hāny-adhikaraṇam
+  || 3.3.27 ||
+  || 3.3.28 ||
+  12. ubhayāvirodhādhikaraṇam
+  || 3.3.29 ||
+  || 3.3.30 ||
+  13. upapannādhikaraṇam
+  || 3.3.31 ||
+  14. aniyamādhikaraṇam
+  || 3.3.32 ||
+  || 3.3.33 ||
+  15. akṣarādhikaraṇam
+  || 3.3.34 ||
+  || 3.3.35 ||
+  16. antarādhikaraṇam
+  || 3.3.36 ||
+  || 3.3.37 ||
+  17. vyatihārādhikaraṇam
+  || 3.3.38 ||
+  18. satyādhikaraṇam
+  || 3.3.39 ||
+  || 3.3.40 ||
+  || 3.3.41 ||
+  || 3.3.42 ||
+  19. tan-nirdhāraṇāniyamādhikaraṇam
+  || 3.3.43 ||
+  20. pradānādhikaraṇam
+  || 3.3.44 ||
+  21. liṅga-bhūyastvādhikaraṇam
+  || 3.3.45 ||
+  22. pūrva-vikalpādhikaraṇam
+  || 3.3.46 ||
+  || 3.3.47 ||
+  23. vidyādhikaraṇam
+  || 3.3.48 ||
+  || 3.3.49 ||
+  || 3.3.50 ||
+  24. anubandhādhikaraṇam
+  || 3.3.51 ||
+  25. prajñāntarādhikaraṇam
+  || 3.3.52 ||
+  || 3.3.53 ||
+  26. tādvidhyādhikaraṇam
+  || 3.3.54 ||
+  27. śarīre bhāvādhikaraṇam
+  || 3.3.55 ||
+  28. tad-bhāva-bhāvitvādhikaraṇam
+  || 3.3.56 ||
+  || 3.3.57 ||
+  || 3.3.58 ||
+  29. bhūma-jyāyastvādhikaraṇam
+  || 3.3.59 ||
+  30. śabdādi-bhedādhikaraṇam
+  || 3.3.60 ||
+  || 3.3.61 ||
+  31. kāmyādhikaraṇam
+  || 3.3.62 ||
+  32. yathāśraya-bhāvādhikaraṇam
+  || 3.3.63 ||
+  || 3.3.64 ||
+  || 3.3.65 ||
+  || 3.3.66 ||
+  || 3.3.67 ||
+  || 3.3.68 ||
+  Part Four
+  The goddess of knowledge
+  1. puruṣarthādhikaraṇam
+  || 3.4.1 ||
+  || 3.4.2 ||
+  || 3.4.3 ||
+  || 3.4.4 ||
+  || 3.4.5 ||
+  || 3.4.6 ||
+  || 3.4.7 ||
+  || 3.4.8 ||
+  || 3.4.9 ||
+  || 3.4.10 ||
+  || 3.4.11 ||
+  || 3.4.12 ||
+  || 3.4.13 ||
+  || 3.4.14 ||
+  2. kāma-kārādhikaraṇam
+  || 3.4.15 ||
+  || 3.4.16 ||
+  || 3.4.17 ||
+  || 3.4.18 ||
+  || 3.4.19 ||
+  || 3.4.20 ||
+  || 3.4.21 ||
+  || 3.4.22 ||
+  3. pāriplavādhikaraṇam
+  || 3.4.23 ||
+  || 3.4.24 ||
+  4. Agnīndhanādhikaraṇam
+  || 3.4.25 ||
+  5. sarvāpekṣādhikaraṇam
+  || 3.4.26 ||
+  || 3.4.27 ||
+  6. sarvānnānumaty-adhikaraṇam
+  || 3.4.28 ||
+  || 3.4.29 ||
+  || 3.4.30 ||
+  || 3.4.31 ||
+  7. vihitatvādhikaraṇam
+  || 3.4.32 ||
+  || 3.4.33 ||
+  8. sarvathādhikaraṇam
+  || 3.4.34 ||
+  || 3.4.35 ||
+  9. vidhurādhikaraṇam
+  || 3.4.36 ||
+  || 3.4.37 ||
+  || 3.4.38 ||
+  10. itarādhikaraṇam
+  || 3.4.39 ||
+  || 3.4.40 ||
+  || 3.4.41 ||
+  || 3.4.42 ||
+  || 3.4.43 ||
+  11. svāmy-adhikaraṇam
+  || 3.4.44 ||
+  || 3.4.45 ||
+  || 3.4.46 ||
+  12. sahakāryantara-vidhy-adhikaraṇam
+  || 3.4.47 ||
+  13. kṛtsna-bhāvādhikaraṇam
+  || 3.4.48 ||
+  || 3.4.49 ||
+  14. anāviśkārādhikaraṇam
+  || 3.4.50 ||
+  15. aihikādhikaraṇam
+  || 3.4.51 ||
+  16. mukti-phalādhikaraṇam
+  || 3.4.52 ||
+  Chapter Four
+  Part One
+  May the Lord
+  1. āvṛtty-adhikaraṇam
+  || 4.1.2 ||
+  2. ātmatvopāsanādhikaraṇam
+  || 4.1.3 ||
+  3. pratīkādhikaraṇam
+  || 4.1.4 ||
+  4. brahma-dṛṣty-adhikaraṇam
+  || 4.1.5 ||
+  5. ādityādimaty-adhikaraṇam
+  || 4.1.6 ||
+  6. āsīnādhikaraṇam
+  || 4.1.7 ||
+  || 4.1.8 ||
+  || 4.1.9 ||
+  || 4.1.10 ||
+  || 4.1.11 ||
+  7. āprayāṇādhikaraṇam
+  || 4.1.12 ||
+  8. tad-adhigamādhikaraṇam
+  || 4.1.13 ||
+  9. itarādhikaraṇam
+  || 4.1.14 ||
+  10. anārabdha-kāryādhikaraṇam
+  || 4.1.15 ||
+  11. agnihotrādy-adhikaraṇam
+  || 4.1.16 ||
+  || 4.1.17 ||
+  || 4.1.18 ||
+  12. itara-kṣapaṇādhikaraṇam
+  || 4.1.19 ||
+  Part Two
+  I surrender to Kṛṣṇa
+  1. vāg-adhikaraṇam
+  || 4.2.1 ||
+  || 4.2.2 ||
+  2. mano 'dhikaraṇam
+  || 4.2.3 ||
+  3.adhyakṣādhikaraṇam
+  || 4.2.4 ||
+  4. bhūtādhikaraṇam
+  || 4.2.5 ||
+  || 4.2.6 ||
+  || 4.2.7 ||
+  || 4.2.8 ||
+  || 4.2.9 ||
+  || 4.2.10 ||
+  || 4.2.11 ||
+  || 4.2.12 ||
+  || 4.2.13 ||
+  || 4.2.14 ||
+  6. para-sampatty-adhikaraṇam
+  || 4.2.15 ||
+  7. avibhāgādhikaraṇam
+  || 4.2.16 ||
+  8. tad-oko 'dhikaraṇam
+  || 4.2.17 ||
+  9. raśmy-anusārādhikaraṇam
+  || 4.2.18 ||
+  10. niṣādhikaraṇam
+  || 4.2.19 ||
+  11. dakṣiṇāyanādhikaraṇam
+  || 4.2.20 ||
+  || 4.2.21 ||
+  Part Three
+  Because I have performed
+  1. arcir-ādy-adhikaraṇam
+  || 4.3.1 ||
+  2. vāyv-adhikaraṇam
+  || 4.3.2 ||
+  3. taḍid-adhikaraṇam
+  || 4.3.3 ||
+  4. ātivāhikādhikaraṇam
+  || 4.3.4 ||
+  || 4.3.5 ||
+  5. vaidyutādhikaraṇam
+  || 4.3.6 ||
+  6. kāryadhikaraṇam
+  || 4.3.7 ||
+  || 4.3.8 ||
+  || 4.3.9 ||
+  7. kāryātyayādhikaraṇam
+  || 4.3.10 ||
+  || 4.3.11 ||
+  || 4.3.12 ||
+  || 4.3.13 ||
+  || 4.3.14 ||
+  8. apratīkālambanādhikaraṇam
+  || 4.3.15 ||
+  9. viśeṣadhikaraṇam
+  || 4.3.16 ||
+  Part Four
+  1. sampady-āvirbhāvādhikaraṇam
+  || 4.4.1 ||
+  2. muktādhikaraṇa
+  || 4.4.2 ||
+  3. ātmādhikaraṇam
+  || 4.4.3 ||
+  4. avibhāgādhikaraṇam
+  || 4.4.4 ||
+  5. brāhmādhikaraṇam
+  || 4.4.5 ||
+  || 4.4.6 ||
+  || 4.4.7||
+  6. saṅkalpādhikaraṇam
+  || 4.4.8 ||
+  7. ananyādhipaty-adhikaraṇam
+  || 4.4.9 ||
+  || 4.4.10 ||
+  || 4.4.11 ||
+  || 4.4.12 ||
+  || 4.4.13 ||
+  || 4.4.14 ||
+  8. pradīpādhikaraṇam
+  || 4.4.15 ||
+  || 4.4.16 ||
+  9. jagad-vyāpāra-varjādhikaraṇam
+  || 4.4.17 ||
+  || 4.4.18 ||
+  || 4.4.19 ||
+  || 4.4.20 ||
+  || 4.4.21 ||
+  || 4.4.22 ||

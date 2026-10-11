@@ -1,0 +1,32 @@
+Книга: Neuroscience and philosophy
+Адрес: https://vedarama.com/en/books/np-js
+Страниц сайта: 20; заголовков: 21; текстов: 0; картинок: 10 + обложка
+Глав по MCP: 7
+Букв в исходнике: 328278; в .md: 328278
+Первый заголовок: Neuroscience and philosophy
+Последний заголовок: Notes
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Neuroscience and philosophy
+  Neuroscience and Philosophy: Brain, Mind, and Language
+  Contents
+  Introduction
+  The Argument
+  Philosophical Foundations of Neuroscience
+  The Introduction
+  An Excerpt from Chapter 3
+  An Excerpt from Chapter 10
+  An Excerpt from Chapter 14: The Concluding Remarks
+  Neuroscience and Philosophy
+  References
+  The Rebuttals
+  Philosophy as Naive Anthropology: Comment on Bennett and Hacker
+  Putting Consciousness Back in the Brain: Reply to Bennett and Hacker, Philosophical Foundations of Neuroscience
+  Reply to the Rebuttals
+  The Conceptual Presuppositions of Cognitive Neuroscience: A Reply to Critics
+  Epilogue
+  References
+  Still Looking: Science and Philosophy in Pursuit of Prince Reason
+  Notes

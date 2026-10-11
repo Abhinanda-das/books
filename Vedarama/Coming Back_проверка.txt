@@ -1,0 +1,26 @@
+Книга: Coming Back
+Адрес: https://vedarama.com/en/books/cb
+Страниц сайта: 14; заголовков: 15; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 11
+Букв в исходнике: 154733; в .md: 154733
+Первый заголовок: Coming Back
+Последний заголовок: Chapter 8: Don't Come Back
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Coming Back
+  Front Matter
+  Preface
+  Introduction
+  Chapter 1: Reincarnation: Socrates to Salinger
+  Chapter 2: Changing Bodies
+  Chapter 3: Soul Research
+  Chapter 4: Three Histories of Reincarnation
+  4.1: The prince with a million mothers
+  4.2: A victim of affection
+  4.3: Visitors from beyond
+  Chapter 5: The Soul's Secret Journey
+  Chapter 6: The Logic of Reincarnation
+  Chapter 7: Almost Reincarnation
+  Chapter 8: Don't Come Back

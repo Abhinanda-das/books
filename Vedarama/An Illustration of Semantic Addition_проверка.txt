@@ -1,0 +1,13 @@
+Книга: An Illustration of Semantic Addition
+Адрес: https://vedarama.com/en/books/ad-aisa
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 15673; в .md: 15673
+Первый заголовок: An Illustration of Semantic Addition
+Последний заголовок: An Illustration of Semantic Addition
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+An Illustration of Semantic Addition
+  An Illustration of Semantic Addition

@@ -1,0 +1,263 @@
+Книга: Gīta-govinda (Prabhodānanda's ṭīkā)
+Адрес: https://vedarama.com/en/books/gg-pd
+Страниц сайта: 232; заголовков: 233; текстов: 204; картинок: 0 + обложка
+Глав по MCP: 9
+Букв в исходнике: 361201; в .md: 361201
+Первый заголовок: Gīta-govinda (Prabhodānanda's ṭīkā)
+Последний заголовок: Text 11
+
+ЗАМЕЧАНИЯ:
+  - Пропуск/сбой нумерации: после «19» идёт «Text 21».
+  - Разрыв нумерации разделов: после №4 идёт «Part 2: Kṛṣṇa who destroys the gopīs’ suffering».
+  - Разрыв нумерации разделов: после №2 идёт «Song 5: Meditation on Krishna by Radha».
+  - Разрыв нумерации разделов: после №6 идёт «Part 3: Attractive Madhusūdana».
+  - Разрыв нумерации разделов: после №3 идёт «Song 7: Krishna laments losing Radha».
+  - Разрыв нумерации разделов: после №7 идёт «Part 4: Tender Kṛṣṇa».
+  - Разрыв нумерации разделов: после №4 идёт «Song 8: Radha’s separation &amp; preparing for Krishna».
+  - Разрыв нумерации разделов: после №9 идёт «Part 5: Lotus-eyed Kṛṣṇa full of desire».
+  - Разрыв нумерации разделов: после №5 идёт «Song 10: A sakhi descsribes Krishna pain of separation».
+  - Разрыв нумерации разделов: после №11 идёт «Part 6: Kṛṣṇa full of longing».
+  - Разрыв нумерации разделов: после №6 идёт «Song 12: Radha anxiously waits for Krishna».
+  - Разрыв нумерации разделов: после №12 идёт «Part 7: Clever Kṛṣṇa».
+  - Разрыв нумерации разделов: после №7 идёт «Song 13: Krishna has not come to meet Radha».
+  - Разрыв нумерации разделов: после №16 идёт «Part 8: Unashamed Kṛṣṇa».
+  - Разрыв нумерации разделов: после №8 идёт «Song 17: Go from here, Krishna, to your other woman!».
+  - Разрыв нумерации разделов: после №18 идёт «Part 9: Attractive Mukunda».
+  - Пропуск/сбой нумерации: после «11» идёт «Text 2».
+  - Пропуск/сбой нумерации: после «2» идёт «Text 1».
+  - Пропуск/сбой нумерации: после «1» идёт «Text 3».
+
+Оглавление выгрузки:
+Gīta-govinda (Prabhodānanda's ṭīkā)
+  Part 1: Joyful Dāmodara
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  1: daśa-avatāra
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+  Song 2: śrita-kamalā
+    Text 17
+    Text 18
+    Text 19
+  Texn 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+  Song 3: Springtime described
+    Text 28
+    Text 29
+    Text 30
+    Text 31
+    Text 32
+    Text 33
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+    Text 39
+  Song 4: Krishna plays with the inexperienced gopis
+    Text 40
+    Text 41
+    Text 42
+    Text 43
+    Text 44
+    Text 45
+    Text 46
+    Text 47
+    Text 48
+    Text 49
+  Part 2: Kṛṣṇa who destroys the gopīs’ suffering
+    Text 1
+  Song 5: Meditation on Krishna by Radha
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+  Song 6: Radha remembers being with Krishna
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+  Part 3: Attractive Madhusūdana
+    Text 1
+    Text 2
+  Song 7: Krishna laments losing Radha
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+  Part 4: Tender Kṛṣṇa
+    Text 1
+  Song 8: Radha’s separation &amp; preparing for Krishna
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+  Song 9: A sakhi describes Radha’s pain of separation
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+  Part 5: Lotus-eyed Kṛṣṇa full of desire
+    Text 1
+  Song 10: A sakhi descsribes Krishna pain of separation
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+  Song 11: A sakhi implores Radha to go to Krishna
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+  Part 6: Kṛṣṇa full of longing
+    Text 1
+  Song 12: Radha anxiously waits for Krishna
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+  Part 7: Clever Kṛṣṇa
+    Text 1
+    Text 2
+  Song 13: Krishna has not come to meet Radha
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+  Song 14: A competitor gopi with great qualities plays with Krishna
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+  Song 15: Krishna plays with a competitor gopi
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+    Text 30
+  Song 16: The competitor gopi is happy with Krishna, unlike Radha
+    Text 31
+    Text 32
+    Text 33
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+    Text 39
+    Text 40
+    Text 41
+    Text 42
+  Part 8: Unashamed Kṛṣṇa
+    Text 1
+  Song 17: Go from here, Krishna, to your other woman!
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+  Song 18: Please forgive Krishna, oh friend Radha
+  Part 9: Attractive Mukunda
+    Text 2
+    Text 1
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11

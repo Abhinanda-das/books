@@ -1,0 +1,374 @@
+Книга: Hindu Castes and Sects
+Адрес: https://vedarama.com/en/books/hcas
+Страниц сайта: 362; заголовков: 363; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 6
+Букв в исходнике: 750973; в .md: 750973
+Первый заголовок: Hindu Castes and Sects
+Последний заголовок: References
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Hindu Castes and Sects
+  Introduction
+  Preface
+  Contents
+  Hindu Castes
+  Part I. Introduction
+  Chapter I. The Nature And Origin Of The Hindu Caste System
+  Chapter II. Whether caste is a social, or a religious distinction?
+  Chapter III. The Regulations By Which The Castes Have Been Made Exclusive
+  Chapter IV. The Origin Of The Additional Castes And The Sub-Castes
+  Chapter V. The Authorities By Whom Caste Rules Are Enforced
+  Chapter VI. Nature of the penalty of exclusion from caste
+  Part II. The Brahmans Generally
+  Chapter I. The Position Of The Brahmans In Hindu Society
+  Chapter II. The brahman’s proper professions
+  Chapter III. The modern hindu gurus
+  Chapter IV. Enquiries by which the caste status of a hindu may be ascertained
+  Chapter V. The Subdivisions Among The Brahmans
+  Part III. The Brahmans Of Northern India
+  Chapter I. He Brahmans Of Bengal
+  Summary
+  1.—The Paschatya Vaidikas
+  2.—The Rarhiya Brahmans of Bengal
+  3.—Barendras
+  4.—The Dakshinatya Vaidikas
+  5.—The Madhya Sreni Brahmans of the district of Midnapore
+  Chapter II. The Brahmans Of Mithila And Behar
+  1.—Maithilas
+  2.—Sakaldipi Brahmans of South Behar
+  Chapter III. The Brahmans Of The North-Western Provinces And Oudh
+  Chapter IV. The Brahmans Of The Kurukshetra Country
+  Chapter V. The Brahmans Of Kashmir, The Panjab And Sindh
+  1.—Bramhans of Kashmir
+  2.—The Brahmans of the Panjab
+  3.—The Brahmans of Sindh
+  Chapter VI. The Brahmans Of Assam
+  Chapter VII. The Brahmans Of Orissa
+  Introduction
+  1.—The Dakshinatya Brahmans of Cuttack and Puri
+  2.—Jajpuria Brahmans
+  Chapter VIII. Rhe Brahmans Of Rajputana
+  Introduction
+  1.—The Srimalis
+  2.—Pallivals
+  3.—The Pokaranas
+  Chapter IX. The Brahmans Of Central India
+  Part IV. The brahmans of southern india.
+  Chapter I. Preliminary Remarks
+  Chapter II. The Brahmans Of Gujarat
+  Summary
+  1.—Audichyas
+  2.—Nagar Brahmans of Gujarat
+  3.—The Raikwar Brahmans of Gujarat
+  4.—The Bhargava Brahmans
+  5.—The Srimalis
+  6.—Girnars
+  7.—The other Classes of Gujarati Brahmans
+  Chapter III. The Brahmans Of Maharashtra And Kankan
+  Summary
+  1.—The Deshastha Brahmans of Maharashtra
+  2.—The Kankanastha Brahmans
+  3.—The Ya jury edis.
+  4.—The Karhades
+  5.—The Shenavi Brahmans of the Kankan.
+  Chapter IV. Middle Class And Inferior Brahmans Of The Maharashtra
+  1.—Middle Class Secular Brahmans.
+  2.—Yajaka Brahmans.
+  3.—Javala Brahmans.
+  4.—Agricultural Brahmans.
+  5.—The Degraded and Outcaste Brahmans.
+  Chapter V. The Brahmans Of Karnata
+  Chapter VI. The Brahmans Of Dravira
+  1.—The Smarta Brahmans.
+  2.—The Vishnuvite Brahmans of Dravira.
+  Chapter VII. The Brahmans Of Telingana
+  Chapter VIII. The Brahmans Of The Central Provinces
+  Chapter IX. Brahmans Of Tulava, South Kanara And Ooorg
+  Chapter X. The Brahmans Of Kerala, Malabar, Cochin And Travancore
+  Part V. The Semi-Brahmanical Castes
+  Chapter I. The Bhuinhar Brahmans Of Behar And Benares
+  Chapter II. The Bhats And The Charanas
+  Part VI. The Degraded Brahmans Preliminary Remarks
+  Summary
+  Chapter I. The Hosainis And Kuvachandas
+  Chapter II. The Pirali Tagores Of Calcutta
+  Chapter III. The Barna Brahmans
+  Summary
+  2.—Barna Brahmans of Mithila.
+  3.—Barna Brahmans of Guirat and Rajputana.
+  4.—Barna Brahmans of Telingana.
+  5.—Barna Brahmans of Malabar.
+  Chapter IV. The brahmans connected with the great public shrines
+  Chapter V. The Brahmans Degraded By Accepting Forbidden Gifts, And Officiating As Paid Priests At Cremations
+  Chapter VI. The Classes Degraded By Mental Service, And The Practice Of Agriculture
+  Part VII. The Military Castes
+  Chapter I. The Rajputs
+  Chapter II. The Kshettris
+  Summary
+  1.—Sereens.
+  2.—The Kukkurs.
+  3.—Rorha or Arorha.
+  4.—Banjai Kshettris.
+  Chapter III. The Jats
+  Chapter IV. The Khandatis Of Orissa
+  Chapter V. The Maratta
+  Chapter VI. The Nairs Of Malabar, Travancore And Cochin
+  Chapter VII. The Maravans, Ahamdians And Kallans Of Southern India
+  Chapter VIII. The Poliyas And The Koch Of North Bengal
+  Chapter IX. Aguris Of Bengal
+  Part VIII. The Scientific Castes
+  Chapter I. The Vaidyas Or The Medical Caste Of Bengal
+  Chapter II. The Bez Of Assam
+  Chapter III. The Astrologer Castes Of Bengal And Assam
+  Part IX. The Writer Castes
+  Chapter I. The Kayasthas
+  Chapter II. The Kayasthas Of Bengal
+  Summary
+  1.—The Dakshina Rarhis of Bengal
+  2.-—The Uttara Rarhi Kayasthas
+  3.—The Bangaja Kayasthas
+  4.—The Barendra Kayasthas.
+  5.—The Golam Kayasthas of. East Bengal
+  Chapter III. The Lala Kayasthas of north-western provinces, Behar and Oudh
+  Summary
+  1.—The Srivasta Kayasthas.
+  2.—The Ambastha Kayasthas.
+  3.—The Karan Kayasthas.
+  4.—The Sakya Seni Kayasthas.
+  5.—The Kula Sreshti Kayasthas.
+  6.—The Bhatnagari.
+  7.—The Mathuri Kayasthas.
+  8.—The Suryadhaja Kayasthas.
+  10.—The Ashthana Kayasthas.
+  11.—The Nigama Kayasthas.
+  12.—The Gaur Kayasthas.
+  13.—The Kayasthas of Unao.
+  Chapter IV. The Writer Castes Of Southern India
+  Chapter V. The Prabhus Of The Bombay Presidency
+  Chapter VI. The Kolitas Of Assam
+  Part X. The Mercantile Castes
+  Chapter I. The Ba Niyas Of Bengal
+  Summary
+  1.—Suvarna Baniks of Bengal
+  2.—The Gandha Baniks of Bengal.
+  Chapter II. The Baniyas Of Northern India
+  Summary
+  1.—The Agarwals.
+  2.—The Ossawals, Srimals and Sri Srimals.
+  3&gt;.—The Khandelwal Baniyas.
+  4.—The Srimali Baniyas.
+  5.—The Palliwal Baniyas.
+  6.—The Porawal Baniyas.
+  7.—The Bhatiyas.
+  8.—The Mahesri Baniyas.
+  9.—The Agrahari Baniyas.
+  10.—The Dhunsar Baniyas.
+  11.—The Umar Baniyas.
+  12.—The Rastogi Baniyas.
+  13, 14.—The Kasarwani and the Kasanadhan Baniyas.
+  15.—The Lohiya Baniyas.
+  16.—The Soniyas.
+  17.—The Sura Seni Baniyas.
+  18.—The Bara Sent Baniyas.
+  19.-—The Baranwal Baniyas.
+  20.—The Ayodhya Basi Baniyas.
+  21.—The Jaiswar Baniyas.
+  22.—The Mahobiya Baniyas.
+  23.—The Mahuria Baniyas.
+  24.—The Bais Baniyas.
+  25.—The Kath Baniyas.
+  26.—The Raoniyar Baniyas.
+  27.—The Jameya Baniyas.
+  28.—The Lohana Baniyas.
+  29.—The Rewari Baniyas.
+  30.—The Kanu Baniyas.
+  Chapter III. The Baniyas Of Gujrat
+  Chapter IV. The Trading Castes Of The Southern Deccan
+  Chapter V. The Mercantile Castes Of The Telugu Country
+  Chapter VI. The Baniyas Of Orissa
+  Part XI. The artisan castes generally recognised as clean sudras
+  Chapter I. General Observations
+  Chapter II. The Weavers
+  1.—The Weavers
+  2.—The Tantis of Bengal.
+  3.—The Tatwas of Behar.
+  4.—The Kori and Koli of Northern India.
+  6.—The Koshti of the Central Provinces.
+  7.—The Weavers of Gujrat.
+  8.—Weavers of the Drpvira country.
+  9.—The Weaving Castes of Mysore.
+  10.—The Weavers of the Telegu country.
+  11.—The Jugis.
+  Chapter III. The Mayaras, Halwis And Curias
+  Chapter IV. The Kumar Or Potter
+  Chapter V. The Karmakars And Lohars
+  Chapter VI. The Goldsmiths
+  1.—The Sonar and Shakra of Northern India.
+  2.—The Panchanarn Varlu of the Telegu country and the Kammallar of Dravira.
+  Chapter VII. The Sutar And The Barhi
+  Chapter VIII. The Braziers And Coppersmiths
+  1.—The Kansa Baniks of Bengal
+  2.—The Kasaras and Thatheras of Northern India.
+  3.—The Gejjegora and Kanchugora of Southern India.
+  Chapter IX. The Sankha Baniks Of Bengal
+  Chapter X. The Grain Parchers
+  Chapter XI. The Dirjis Or The Tailors
+  Part XII. The Manufacturing And Artisan Castes That Are Regarded As Unclean Sudras
+  Chapter I. The Brewers, Tadi-Drawers And Sellers Of Spirituous Liquors
+  Summary
+  1—The Sunris of Bengal and Behar.
+  2.—The Kalwars of Northern India.
+  3.—The Shanars and Illavars of Dravira.
+  4.—The Bhandaris of Western India.
+  5.—The Pasis of Behar.
+  6.—The Tiyans of Southern India.
+  7.—The Idigas of Mysore and the Telugu country.
+  8.—The Gaunla and the Gamalla of the Telugu country.
+  Chapter II. The Oil Manufacturers
+  Summary
+  1.—The Telis of Bengal.
+  2.—The Kalus of Bengal.
+  3.—The Telis and Ghanchis of Upper India.
+  4.—The Tel Kulu Varlu of the Telugu country.
+  5.—The Ganigas and Vanikans of Southern India.
+  Chapter III. The Salt Manufacturers
+  Chapter IV. The Leather Workers
+  1.—The Chamars and Muchis of Northern India.
+  2.—The Chakilians and Madigs of Southern India.
+  3.—The Leather-working Castes of Rajputana and Central India.
+  Chapter V. The Mat-Makers And Basket-Makers
+  1.—The Mat-makers.
+  2.—The Basket-makers.
+  Part XIII. The Clean Agricultural Castes
+  Chapter I. The Kurmis And The Kunbis
+  Chapter II. The koeris of northern India
+  Chapter III. The Maus
+  Chapter IV. The Kachis
+  Chapter V. The Lodhas And The Lodhis
+  Chapter VI. The Agricultural Kaibartas Of Bengal
+  Chapter VII. The Sadgopas
+  Chapter VIII. The Chief Agricultural Castes Of The Central Provinces
+  Chapter IX. The Agricultural Castes Of The Panjab
+  Chapter X. The Agricultural Castes Of The Telegu Country
+  Chapter XI. The Agricultural Castes Of Mysore
+  Chapter XII. The Agricultural Castes Of The Dravira Country
+  Chapter XIII. The Pan-Growers
+  1.—Barui.
+  2.—The Tambulis.
+  Part XIV. The Cowherds And Shepherds
+  Chapter I. General Observations
+  Chapter II. The Abhirs Or Ahirs
+  Chapter III. The Gujars
+  Chapter IV. The Goalas Of The Lower Provinces
+  1.—The Goalas of Bengal.
+  1.—The Godos of Bengal.
+  2.—The Goalas of Behar.
+  3.—The Goalas of Orissa.
+  Chapter V. The Cowherds Of Southern India
+  Chapter VI. The Shepherd Castes
+  Part XV. The Clean And The Unclean Castes Employed In Personal And Domestic Service
+  Chapter I. The Barbers
+  Chapter II. The Washermen
+  Chapter III. The Castes Usually Employed As Domestic Servants In Hindu Families
+  1.—Bengal.
+  2.—N.-W. Provinces and Behar.
+  3.—The Servant Castes of the Punjab.
+  4.—The Servant Castes of the Telugu Country.
+  5.—The Servant Castes of Maharashtra and Central Provinces.
+  Chapter IV. The Caste Of The Domestics In Anglo-Indian Households
+  Part XVI. Miscellaneous Castes
+  Chapter I. The Fishermen And Boatmen
+  1.—The fishermen and Boatmen of Bengal.
+  2.—The Fishermen and Boatmen of Northern India.
+  3.—The Fishermen of Gujrat.
+  4.—The Fishermen of the Malabar Coast.
+  5.—The Fishermen, Boatmen and Litter-carriers of Mysore.
+  Chapter II. The Criminal Tribes
+  Hindu Sects
+  Part I. Introduction
+  Chapter I. The Proper Method Of Enquiry Regarding Religions
+  Chapter II. The Evolution Of The Theocratic Art
+  Chapter III. The Classification Of The Religious Systems
+  Chapter IV. Definitions Of Religion
+  Chapter V. The True Origin Of Religions
+  Chapter VI. The Alleged Necessity Of Religion For The Attainment Of The Highest Standard Of Morals
+  Chapter VII. General Observations About The Sect Founders
+  Chapter VIII. The Inducements Held Out By Sect Founders To Attract Followers
+  Chapter IX. The Methods Of Priestly Operations
+  Chapter X. General Character Of The Hindu Sects
+  Chapter XI. Classification Of The Sects
+  Chapter XII. The Mode Of Ascertaining The Sect To Which A Monk Belongs
+  Part II. The Sivite And Semi-Sivite Sects
+  Chapter I. The Nature Of The Sivlte Religion And Its Great Prevalence
+  Chapter II. The Probable Origin Of The Sivite Religion
+  Chapter III. The Sivite Followers Of Sankaracharya
+  Chapter IV. The Dandis
+  Chapter V. The Sanyasis
+  Chapter VI. The Parama Hansa
+  Chapter VII. The Brahmacharis
+  Chapter VIII. The Householder Sanyasis
+  Chapter IX. The Aghoris
+  Chapter X. The Lingaits Of Southern India
+  Chapter XI. The Sivite Yogis
+  Chapter XII. The Inferior Yogis
+  Chapter XIII. The Sects That Practise Several Austerities
+  Part III. The Saktas
+  Chapter I. The Nature Of Sakti Worship
+  Chapter II. The Different Classes Of Saktas And Their Methods Of Worship
+  Part IV. The Vishnuvite Sects
+  Chapter I. The Ten Incarnations Of Vishnu
+  Chapter II. The Legends About Rama
+  Chapter III. The Hero God Krishna As A Historical Character
+  Chapter IV. Krishna As The God Of The Modern Vishnuvite Sects
+  Chapter V. The Sri Vaishnavas Of Southern India
+  Chapter VI. Madhwachari
+  Chapter VII. The Ramanandis Or The Ramats Of Northern India
+  Chapter VIII. The Ram-Worshtpping Sects
+  Chapter IX. The Nimats
+  Chapter X. The Ballavacharya Sect
+  Chapter XI. The Chaitanite Sect Of Bengal
+  Chapter XII. The Swami Narayan Sect Of Gujrat
+  Chapter XIII. Mira Bai
+  Chapter XIV. The Mahapurusia Sect Of Assam
+  Part V. The semi-vishnuvite and guruworshipping sects
+  Chapter I. The Disreputable Chaitanite Sects Of Bengal
+  Chapter II. The Disreputable Visnuvite Sects Of Upper India
+  I.—The Radha Ballabhis.
+  2.—The Sakhi Bhavas.
+  Chapter III. The Disreputable Guru-Worshipping Sects Of Bengal
+  1.—The Kartabhajas.
+  2.—The Pratap Chandi Sect.
+  Chapter IV. The Guru-Worshipping And Disreputable Sects Of Upper India
+  1.—The Satnami Sect of Oude
+  2.—The Paltu Dasi Sect.
+  3.—The Appa Panthis.
+  4.—The Bija Margis and Margis.
+  Chapter V. The Minor Guru-Worshipping Sects Of Bengal
+  1.—The Bala Hari Sect.
+  2.—The Kali Kumari Sect of East Bengal.
+  Part VI. Religions Intended To Bring About Union Between The Hindus And The Mahomedans
+  Chapter I. The Kabir Panthis
+  Chapter II. History Of The Sikh Faith
+  1.—Nanak, the first Sikh Guru.
+  2.—Angat, the second Sikh Guru.
+  3.—Amar Das, the third Sikh Guru.
+  4.—Ram Das, the fourth Sikh Guru.
+  5.—Arfoon, the fifth Sikh Guru.
+  6.—Har Govind, the sixth Sikh Guru.
+  7.—Har Rao, the seventh Sikh Guru.
+  8.—Har Risen, the eighth Sikh Guru.
+  9.—Teg Bahadoor, the ninth Sikh Guru.
+  10.—Govind, the tenth Guru of the Sikhs.
+  11.—Govinda’s successor Banda.
+  Chapter III. Nature Of The Sikh Religion And Its Present Condition
+  Part VII. Buddhism
+  Chapter I. Personal History Of Buddha
+  Chapter II. The Rapid Spread Of Buddhism And Its Subsequent Disappearance From India
+  Chapter II. The Religion Of Buddha
+  Chapter IV. The Morality Of The Religion Of Buddha
+  Part VIII. The Jains
+  Chapter I.
+  Chapter II. The Nature Of The Jaina Religion
+  References

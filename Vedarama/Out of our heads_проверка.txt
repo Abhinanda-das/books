@@ -1,0 +1,25 @@
+Книга: Out of our heads
+Адрес: https://vedarama.com/en/books/ooh-an
+Страниц сайта: 13; заголовков: 14; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 13
+Букв в исходнике: 319684; в .md: 319684
+Первый заголовок: Out of our heads
+Последний заголовок: INDEX
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Out of our heads
+  PREFACE
+  AN ASTONISHING HYPOTHESIS
+  CONSCIOUS LIFE
+  THE DYNAMICS OF CONSCIOUSNESS
+  WIDE MINDS
+  HABITS
+  THE GRAND ILLUSION
+  VOYAGES OF DISCOVERY
+  A NOTHING RESERVED FOR EVERYTHING
+  EPILOGUE: HOME SWEET HOME
+  NOTES
+  ACKNOWLEDGMENTS
+  INDEX

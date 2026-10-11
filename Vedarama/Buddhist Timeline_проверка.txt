@@ -1,0 +1,13 @@
+Книга: Buddhist Timeline
+Адрес: https://vedarama.com/en/books/bit
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 6830; в .md: 6830
+Первый заголовок: Buddhist Timeline
+Последний заголовок: Timeline of Buddhist History
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Buddhist Timeline
+  Timeline of Buddhist History

@@ -1,0 +1,20 @@
+Книга: India & Greece
+Адрес: https://vedarama.com/en/books/iag
+Страниц сайта: 8; заголовков: 9; текстов: 0; картинок: 0
+Глав по MCP: 8
+Букв в исходнике: 28580; в .md: 28580
+Первый заголовок: India & Greece
+Последний заголовок: The Roman Empire - A Gangster State?
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+India & Greece
+  Introduction
+  Indian Thought and the West
+  Gods of heaven
+  Alexander's Insignificant Raid
+  Indian Philosophy
+  Indian Inspiration of Pythagoras
+  Other Indic Influences
+  The Roman Empire - A Gangster State?

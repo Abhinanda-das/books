@@ -1,0 +1,28 @@
+Книга: Manyu Suktam [Sanskrit & English]
+Адрес: https://vedarama.com/en/books/msuk
+Страниц сайта: 16; заголовков: 17; текстов: 14; картинок: 0
+Глав по MCP: 2
+Букв в исходнике: 3641; в .md: 3641
+Первый заголовок: Manyu Suktam [Sanskrit & English]
+Последний заголовок: Text 7
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Manyu Suktam [Sanskrit & English]
+  Rg Veda: 10.6.15
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+  Rg Veda: 10.6.16
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7

@@ -1,0 +1,36 @@
+---
+title: "Arya: Its Significance"
+author: "Aravind Y."
+tags:
+  - "Английский"
+cssclasses:
+  - vedarama-book
+source: Vedarama
+source_url: "https://vedarama.com/en/books/ais"
+---
+
+# Arya: Its Significance
+
+## Arya: Its Significance
+
+***By Yogi Aravind***
+
+To those not familiar with Vedic culture, the word '***arya***' is no more than a hieroglyph which attracts or repels according to their temperament. To some, the word has been converted to purely racial terms, an unknown ethnological quantity on which different speculations fix different values. To others, the word represents a difference of culture because the Vedic rishis had accepted a particular type of self-culture, of inward and outward practice, of ideality, of aspiration. Their gods were the supraphysical powers who assisted the mortal in his struggle towards the nature of the godhead. All the highest aspirations of the early human race, its noblest religious temper, its most idealistic velleities of thought are summed up in this single vocable.
+
+In later times, the word Arya expressed a particular ethical and social ideal, an ideal of well-governed life, candour, courtesy, nobility, straight dealing, courage, gentleness, purity, humanity, compassion, protection of the weak, liberality, observance of social duty, eagerness of knowledge, respect for the wise and learned, the social accomplishments. It was the combined ideal of the Brahmana and the Kshatriya. Everything that departed from this ideal, everything that tended towards the ignoble, mean, obscure, rude, cruel or false, was termed un-Aryan or anarya (colloq anari). There is no word in human speech that has a nobler history.
+
+In the early days of comparative Philology, when the scholars sought in the history of words for the prehistoric history of peoples, it was supposed that the word Arya came from the root 'ar', to plough, and that the Vedic Aryans were so called when they separated from their kin in the north-west who despised the pursuits of agriculture and remained shephards and hunters. This ingenious speculation has little or nothing to support it. But in a sense we may accept the derivation. Whoever cultivates the field that the Supreme Spirit has made for him, his earth of plenty within and without, does not leave it barren or allow it to run to seed, but labours to exact from it its full yield, is by that effort an Aryan.
+
+If Arya were a purely racial term, a more probable derivation would be 'ar', meaning strength or valour, from ar to fight, whence we have the name of the Greek war-god Ares, areios, brave or warlike, perhaps even arete, virtue, signifying, like the Latin virtus, first, physical strength and courage and then moral force and elevation. This sense of the word also we may accept. "We fight to win sublime Wisdom, therefore men call us warriors." For Wisdom implies the choice as well as the knowledge of that which is best, noblest, most luminous, most divine. Certainly, it means also the knowledge of all things and charity and reverence for all things, even the most apparently mean, ugly or dark, for the sake of the universal Deity who chooses to dwell equally in all. But, also, the law of right action is a choice, the preference of that which expresses the godhead to that which conceals it. And the choice entails a battle, a struggle. It is not easily made, it is not easily enforced.
+
+Whoever makes that choice, whoever seeks to climb from level to level up the hill of the divine, fearing nothing, deterred by no retardation or defeat, shrinking from no vastness because it is too vast for his intelligence, no height because it is too high for his spirit, no geatness because it is too great for his force and courage, he is the Aryan, the divine fighter and victor, the noble man, aristos, best, the srestha of the Gita.
+
+Intrinsically, in its most fundamental sense, Arya means an effort or an uprising and overcoming. The Aryan is he who strives and overcomes all outside him and within him that stands opposed to the human advance. Self-conquest is the first law of his nature. He overcomes earth and the body and does not consent like ordinary men to their dullness, inertia, dead routine and tamasic limitations. He overcomes life and its energies and refuses to be dominated by their hungers and cravings or enslaved by their rajasic passions. He overcomes the mind and its habits, he does not live in a shell of ignorance, inherited prejudices, customary ideas, pleasant opinions, but knows how to seek and choose, to be large and flexible in intelligence even as he is firm and strong in his will. For in everything he seeks truth, in everything right, in everything height and freedom.
+
+Self-perfection is the aim of his self-conquest. Therefore, what he conquers he does not destroy, but ennobles and fulfils. He knows that the body, life and mind are given him in order to attain to something higher than they; therefore they must be transcended and overcome, their limitations denied, the absorption of their gratifications rejected. But he knows also that the Highest is something which is no nullity in the world, but increasingly expresses itself here, - a divine Will, Consciousness, Love, Beatitude which pours itself out, when found, through the terms of the lower life on the finder and on all in his environment that is caoable of receiving it. Of that he is the servant, lover and seeker. When it is attained, he pours it forth in work, love, joy and knowledge upon mankind. For always the Aryan is a worker and warrior. He spares himself no labour of mind or body whether to seek the Highest or to serve it. He avoids no difficulty, he accepts no cessation from fatigue. Always he fights for the coming of that kingdom within himself and in the world.
+
+The Aryan perfected is the Arhat. There is a transcendent Consciousness which surpasses the universe and of which all these worlds are only a side-issue and a by-play. To that consciousness he aspires and attains. There is a Consciousness which, being transcendent, is yet the universe and all that the universe contains. Into that consciousness he enlarges his limited ego; he becomes one with all beings and all inanimate objects in a single self-awareness, love, delight, all-embracing energy. There is a consciousness which, being both transcendental and universal, yet accepts the apparent limitations of individuality for work, for various standpoints of knowledge, for the play of the Lord with His creations; for the ego is there that it may finally convert itself into a free centre of the divine work and the divine play. That consciousness too he has sufficient love, joy and knowledge to accept; he is puissant enough to effect that conversion. To embrace individuality after transcending it is the last and divine sacrifice. The perfect Arhat is he who is able to live simultaneously in all these three apparent states of existence, elevate the lower into the higher, receive the higher into the lower, so that he may represent perfectly in the symbols of the world that with he is identified in all parts of his being, - the triple and triune Brahman.
+
+**References**
+
+*The Supramental Manifestation and Other Writings* By Sri Aurobindo

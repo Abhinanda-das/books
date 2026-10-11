@@ -1,0 +1,38 @@
+Книга: Biographies of Indian Scientists
+Адрес: https://vedarama.com/en/books/bois
+Страниц сайта: 26; заголовков: 27; текстов: 0; картинок: 0
+Глав по MCP: 16
+Букв в исходнике: 60008; в .md: 60008
+Первый заголовок: Biographies of Indian Scientists
+Последний заголовок: Srinivasa Ramanujan – Mathematician-1
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Biographies of Indian Scientists
+  Aryabhata the Elder
+  Bhabha, Homi Jehangir - physicist (1909-1966)
+  Bhaskara I - Math
+  Bose, Satyendranath – physicist (1894-1974)
+  Brahmagupta –astronomer &amp; mathematician (ca. 598-ca. 665)
+  Chandrasekhar, Subramanyan - astrophysicist (1910-1995)
+  Einstein, Albert - physicist
+  Jagdish Chandra Basu
+  Jagdish Chandra Bose – Physicist etc – 1 Bio
+  Abstract
+  Introduction
+  The Researches Of J.C. Bose
+  Bose's Apparatus
+  The Double-Prism Attenuator
+  Conclusions
+  Acknowledgements
+  References
+  Jagdish Chandra Bose – 2 - Bio
+  Jagdish Chandra Bose – 3 - Bio
+  Mehra, Jagdish – physicist &amp; historian (1937-)
+  References
+  Satyendranath Bose – Physicsist (1894-1974)
+  Srinivasa Ramanujan – Mathematician-2
+  Srinivasa Ramanujan – Mathematician-2 (1887-1920)
+  References
+  Srinivasa Ramanujan – Mathematician-1

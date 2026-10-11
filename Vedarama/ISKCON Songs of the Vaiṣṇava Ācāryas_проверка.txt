@@ -1,0 +1,505 @@
+Книга: ISKCON Songs of the Vaiṣṇava Ācāryas
+Адрес: https://vedarama.com/en/books/isotva
+Страниц сайта: 493; заголовков: 494; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 7
+Букв в исходнике: 266948; в .md: 266948
+Первый заголовок: ISKCON Songs of the Vaiṣṇava Ācāryas
+Последний заголовок: Text One
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+ISKCON Songs of the Vaiṣṇava Ācāryas
+  About Book
+  Foreword
+  Introduction
+  A Glimpse into the Life of Ṭhākura Bhaktivinoda
+  1: Standard Prayers
+  Śrī Guru Praṇāma
+  (1)
+  Śrī Rūpa Praṇāma
+  (1)
+  Maṅgalācaraṇa
+  (1)
+  Śrīla Prabhupāda Praṇati
+  (1)
+  (2)
+  Śrīla Bhaktisiddhānta Sarasvatī Praṇati
+  (1)
+  (2)
+  (3)
+  (4)
+  Śrīla Gaurakiśora Praṇati
+  (1)
+  Śrīla Bhaktivinoda Praṇati
+  (1)
+  Śrīla Jagannātha Praṇati
+  (1)
+  Śrī Vaiṣṇava Praṇāma
+  (1)
+  Śrī Gaurāṅga Praṇāma
+  (1)
+  Śrī Pañca-tattva Praṇāma
+  (1)
+  Śrī Kṛṣṇa Praṇāma
+  (1)
+  Sambandhādhideva Praṇāma
+  (1)
+  Abhidheyādhideva Praṇāma
+  (1)
+  Prayojanādhideva Praṇāma
+  (1)
+  Śrī Rādhā Praṇāma
+  (1)
+  Pañca-tattva Mahā-mantra
+  (1)
+  Purport to Pañca-tattva Mahā-mantra
+  Hare Kṛṣṇa Mahā-mantra
+  (1)
+  Purport
+  Śrī Śrī Gurv-aṣṭaka (saṁsāra-dāvānala-līḍha-loka) - Eight Prayers to the Guru<br> by Śrīla Viśvanātha Cakravartī Ṭhākura
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Śrī Śrī Ṣaḍ-gosvāmy-aṣṭaka (kṛṣṇotkīrtana-gāna-nartana-parau) - Eight Prayers to the Six Gosvamis by Śrīnivāsa Ācārya
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Śrī Śrī Śikṣāṣṭaka (ceto-darpaṇa-mārjanaṁ) - Eight Instructions
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Prayer unto the Lotus Feet of Krsna (kṛṣṇa taba puṇya habe bhāi)
+  Text One (refrain)
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Text Nine
+  Text Ten
+  Mārkine Bhāgavata-dharma (baro-kṛpā kaile kṛṣṇa)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Text Nine
+  Text Ten
+  Text Eleven
+  Text Twelve
+  Text Thirteen
+  Text Fourteen
+  Text Fifteen
+  2: Songs of Śrīla Bhaktivinoda Ṭhākura
+  Aruṇodaya-kīrtana I (Udilo aruṇa) - Kīrtana songs to be sung at dawn (from Gītāvalī)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Aruṇodaya-kīrtana II (Jīv Jāgo) (from Gītāvalī)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Śrī Nāma (gāy gorā madhur sware) (from Gītāvalī)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Gopīnātha (from Kalyāṇa-kalpataru)
+  Part One
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Part Two
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Part Three
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Gurudeva (kṛpā-bindu diyā) (from Śaraṇāgati)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Mānasa Deha Geha - Mind, Body, and Home (from Śaraṇāgati)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Sakhī-vṛnde Vijñapti (rādhā-kṛṣṇa prāṇa mora) (from Śaraṇāgati)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Tumi Sarveśvareśvara (from Śaraṇāgati)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Prasāda-sevāya I - Songs for the Honoring of Spiritual Food (from Gītāvalī)
+  Text One
+  Prasāda-sevāya II - Songs for the Honoring of Spiritual Food (from Gītāvalī)
+  Text One
+  Text Two
+  Rādhā-Kṛṣṇa Bol (from Gītāvalī)
+  Text One
+  Text Two
+  Text Three
+  Jaya Rādhā-Mādhava (from Gītāvalī)
+  Text One
+  Siddhi Lalasa (kabe gaura-bane) - Wandering madly in Navadvipa
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Kabe Ha'be Bolo (from Śaraṇāgati)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Śuddha-bhakata (from Śaraṇāgati)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Bhoga-ārati (bhaja bhakata-vatsala) (from Gītāvalī) (at Ṭhākura Bhaktivinoda's home at Surabhi-kuñja in Godruṁa-dvīpa)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Text Nine
+  Text Ten
+  Text Eleven
+  Text Twelve
+  Text Thirteen
+  Text Fourteen
+  Text Fifteen
+  Text Sixteen
+  Text Seventeen
+  Gaura-ārati (kiba jaya jaya gorācānder āratiko śobhā) (from Gītāvalī)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Śrī Nāma-kīrtana (yaśomatī-nandana) - Chanting of the Holy Names (from Gītāvalī)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Ohe! Vaiṣṇava Ṭhākura (from Śaraṇāgati)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Vibhāvarī Śeṣa (from Kalyāṇa-kalpataru)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Āmār Jīvan My Life (from Śaraṇāgati)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Purport to Āmār Jīvan
+  Anādi Karama Phale - The Reactions of Beginningless Karma (from Gītāvalī)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Purport to Anādi Karama Phale
+  Bhuliyā Tomāre - Forgetting You (from Śaraṇāgati)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Nārada Muni Bājāy Vīṇā - "Nārada Muni Plays His Vīṇā" (from Gītāvalī)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Purport to Nārada Muni Bājāy Vīṇā
+  3: Songs of Śrīla Narottama dāsa Ṭhākura
+  Iṣṭa-deve Vijñapti (hari hari! bifale) - Prayer to One's Beloved Lord (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Lālasā-mayī Prārthanā ('gaurāṅga' bolite habe) (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Purport to Lālasā-mayī Prārthanā
+  Nāma-saṅkīrtana (hari haraye namaḥ kṛṣṇa)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Text Nine
+  Text Ten
+  Purport to Nāma-saṅkīrtana
+  Sakhī-vṛnde Vijñapti (rādhā-kṛṣṇa prāṇa mora) - Prayer to the Sakhīs (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Sapārṣada-bhagavad-virahajanita-vilāpa (je ānilo prema-dhana) - Lamentation Due to Separation From the Lord and His Associates (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Sāvaraṇa-śrī-gaura-mahimā (gaurāṅgera duṭi pada) - The Glories of Śrī Gaurāṅga (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Purport to Sāvaraṇa-śrī-gaura-mahimā
+  Śrī Guru-vandanā (śrī-guru-caraṇa-padma) - The Worship of Śrī Guru (from Prema-bhakti-candrikā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Sāvaraṇa-śrī-gaura-pāda-padme (śrī-kṛṣṇa-caitanya prabhu) - A Prayer to the Lotus Feet of Śrī Gaurāṅga (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Purport to Sāvaraṇa-śrī-gaura-pāda-padme
+  Vāsantī-rāsa (vṛndāvana ramya-sthāna) - (Amorous Pastimes in the Spring)
+  Text One
+  Manaḥ-śikṣā (nitāi-pada-kamala) - Teachings to the Mind (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Purport to Manaḥ-śikṣā
+  Śrī Rūpa Mañjarī Pada - The Feet of Śrī Rūpa Mañjarī (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Vaiṣṇave Vijñapti (ei-bāro karuṇā koro) - Prayer to the Vaiṣṇava (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Gaurā Pahu (gaurā pahu nā bhajiyā goinu) (from Prārthanā)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Purport to Gaurā Pahu
+  4: Songs of Other Vaiṣṇava Ācāryas
+  Śrī Rādhikā-stava (rādhe jaya jaya mādhava-dayite) (from Stava-mālā, Śrīla Rūpa Gosvāmī)
+  Refrain
+  Text One
+  Text Two
+  Text Three
+  Śrī Daśāvatāra-stotra (pralaya-payodhi-jāle) (from Gītā-govinda, Jayadeva Gosvāmī)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Text Nine
+  Text Ten
+  Text Eleven
+  Text Twelve
+  Śrī Guru-paramparā (kṛṣṇa hoite catur-mukha) by Śrīla Bhaktisiddhanta Sarasvatī Gosvāmī Prabhupāda
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Text Nine
+  Text Ten
+  Śrī Śrī Gaura-Nityānander Dayā (parama koruṇa, pahū dui jana) - The Mercy of Śrī Gaura and Nityānanda (from Dhāmāli) by Locana Dāsa Ṭhākura
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Purport to Śrī Śrī Gaura-Nityānander Dayā
+  Bhajahū Re Mana Śrī Nanda-nandana by Govinda Dāsa Kavirāja
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Śrī Dāmodaraṣṭaka (namāmīśvaraṁ sac-cid-ānanda-rūpaṁ)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Śrī Jagannāthāṣṭaka
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Text Nine
+  Dainya O Prapatti (hari he doyāl mor jaya) - "Humility and Devotional Surrender" by an anonymous Vaiṣṇava poet
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Śrī Vraja-dhāma-mahimāmṛta (jaya rādhe, jaya kṛṣṇa, jaya vṛndāvan) - The Nectarean Glories of Vraja-dhāma
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Text Nine
+  Text Ten
+  Text Eleven
+  Jaya Rādhā-Kṛṣṇa Gīti (jaya rādhā-mādhava rādhā-mādhava rādhe)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Text Nine
+  Text Ten
+  Text Eleven
+  Text Twelve
+  Text Thirteen
+  Text Fourteen
+  Nitāi Guṇa Maṇi - Nityānanda, the Jewel of Virtues (from the <em>Caitanya-mañgala</em>, by Locana dāsa Ṭhākura)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Śrī Tulasī-ārati (namo namaḥ tulasi mahārāṇī) by Candraśekhara Kavi
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Śrī Tulasī-kīrtana (namo namaḥ tulasī kṛṣṇa-preyasi)
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Śrī Tulasī Praṇāma (vṛndāyai tulasī-devyai)
+  Text One
+  Śrī Tulasī Pradakṣiṇa Mantra (yāni kāni ca pāpāni)
+  Text One
+  Śrī Nṛsiṁha Praṇāma (namas te narasiṁhāya)
+  Text One
+  Text Two
+  Prayer to Lord Nṛsiṁha (tava kara-kamala-vare nakham) by Jayadeva Gosvāmī<br> (from Śrī Daśāvatāra-stotra)
+  Text One

@@ -1,0 +1,17 @@
+Книга: First Indologists
+Адрес: https://vedarama.com/en/books/fi
+Страниц сайта: 5; заголовков: 6; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 20531; в .md: 20531
+Первый заголовок: First Indologists
+Последний заголовок: Bibliography
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+First Indologists
+  Introduction
+  A brief history of the British in India
+  The first scholars
+  Their influence on modern scholarship
+  Bibliography

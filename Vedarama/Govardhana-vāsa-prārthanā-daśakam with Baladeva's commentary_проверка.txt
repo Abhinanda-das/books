@@ -1,0 +1,23 @@
+Книга: Govardhana-vāsa-prārthanā-daśakam with Baladeva's commentary
+Адрес: https://vedarama.com/en/books/rdg-gvpd
+Страниц сайта: 11; заголовков: 12; текстов: 10; картинок: 0
+Глав по MCP: 11
+Букв в исходнике: 20280; в .md: 20280
+Первый заголовок: Govardhana-vāsa-prārthanā-daśakam with Baladeva's commentary
+Последний заголовок: Concluding Text
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Govardhana-vāsa-prārthanā-daśakam with Baladeva's commentary
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+  Concluding Text

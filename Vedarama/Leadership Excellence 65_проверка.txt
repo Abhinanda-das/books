@@ -1,0 +1,16 @@
+Книга: Leadership Excellence 65
+Адрес: https://vedarama.com/en/books/le65
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 859; в .md: 859
+Первый заголовок: Leadership Excellence 65
+Последний заголовок: Jump-Starter
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leadership Excellence 65
+  Excellent Quote
+  Fresh Challenge
+  Coaching Tip
+  Jump-Starter

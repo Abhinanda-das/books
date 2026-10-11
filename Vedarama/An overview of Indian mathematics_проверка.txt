@@ -1,0 +1,13 @@
+Книга: An overview of Indian mathematics
+Адрес: https://vedarama.com/en/books/aooim
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 18562; в .md: 18562
+Первый заголовок: An overview of Indian mathematics
+Последний заголовок: Ancient Indian Mathematics index History Topics Index
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+An overview of Indian mathematics
+  Ancient Indian Mathematics index History Topics Index

@@ -1,0 +1,18 @@
+Книга: Navadvipa-dhama-mahatmya: Pramana-khanda [Bengali & English]
+Адрес: https://vedarama.com/en/books/bt-ndm-be
+Страниц сайта: 6; заголовков: 7; текстов: 0; картинок: 0
+Глав по MCP: 6
+Букв в исходнике: 193137; в .md: 193137
+Первый заголовок: Navadvipa-dhama-mahatmya: Pramana-khanda [Bengali & English]
+Последний заголовок: Chapter Five
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Navadvipa-dhama-mahatmya: Pramana-khanda [Bengali & English]
+  Navadvipa-dhama-mahatmya: Pramana-khanda [Bengali &amp; English]
+  Chapter One
+  Chapter Two
+  Chapter Three
+  Chapter Four
+  Chapter Five

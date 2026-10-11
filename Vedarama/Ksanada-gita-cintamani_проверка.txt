@@ -1,0 +1,386 @@
+Книга: Ksanada-gita-cintamani
+Адрес: https://vedarama.com/en/books/vct-kgc
+Страниц сайта: 345; заголовков: 346; текстов: 0; картинок: 0
+Глав по MCP: 31
+Букв в исходнике: 245508; в .md: 245508
+Первый заголовок: Ksanada-gita-cintamani
+Последний заголовок: Song 10
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №12 идёт «Song 1 - Śrī Gauracandrasya (of Lord Caitanya) (Deśāga-rāga)».
+  - Разрыв нумерации разделов: после №10 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Varāḍī-rāga)».
+  - Разрыв нумерации разделов: после №9 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Kedāra-rāga)».
+  - Разрыв нумерации разделов: после №13 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i Deśāga-rāga)».
+  - Разрыв нумерации разделов: после №11 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Paṭha-mañjarī-rāga)».
+  - Разрыв нумерации разделов: после №8 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i-rāga)».
+  - Разрыв нумерации разделов: после №8 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Śrī-rāga)».
+  - Разрыв нумерации разделов: после №16 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Bālā-rāga)».
+  - Разрыв нумерации разделов: после №10 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dhānaśī-rāga)».
+  - Разрыв нумерации разделов: после №8 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dhānaśī-rāga)».
+  - Разрыв нумерации разделов: после №13 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Barāḍī-rāga)».
+  - Разрыв нумерации разделов: после №8 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i-rāga)».
+  - Разрыв нумерации разделов: после №10 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dhānaśī-rāga)».
+  - Разрыв нумерации разделов: после №8 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dākṣiṇātya-rāga or Śrī-rāga)».
+  - Разрыв нумерации разделов: после №9 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dhānaśī-rāga)».
+  - Разрыв нумерации разделов: после №7 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Deśāga-rāga)».
+  - Разрыв нумерации разделов: после №12 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Sindhuḍā-rāga)».
+  - Разрыв нумерации разделов: после №6 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i-rāga)».
+  - Разрыв нумерации разделов: после №16 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Tuḍī-rāga)».
+  - Разрыв нумерации разделов: после №14 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Pāhiḍā-rāga)».
+  - Разрыв нумерации разделов: после №8 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Kedāra-rāga)».
+  - Разрыв нумерации разделов: после №10 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Barāḍī-rāga)».
+  - Разрыв нумерации разделов: после №16 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Beloyāra-rāga)».
+  - Разрыв нумерации разделов: после №11 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i-rāga or Gāndhāra-rāga)».
+  - Разрыв нумерации разделов: после №10 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Barāḍī-rāga)».
+  - Разрыв нумерации разделов: после №12 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Mallāra-rāga)».
+  - Разрыв нумерации разделов: после №9 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Kāmoda-rāga)».
+  - Разрыв нумерации разделов: после №9 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Maṅgala-rāga)».
+  - Разрыв нумерации разделов: после №11 идёт «Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Kedāra-rāga)».
+
+Оглавление выгрузки:
+Ksanada-gita-cintamani
+  Maṅgalācaraṇa
+  Prathamā Kṣaṇadā, Kṛṣṇa-pratipada. First Night, First Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Kedāra-rāga)
+  Song 2 - Śrī Nityānandasya (of Lord Nityānanda) (Kedāra-rāga, Gandhāra-rāga)
+  Song 3 - Śrī Kṛṣṇa Aha (Śrī Kṛṣṇa Speaks) (Dhānaśī-rāga)
+  Song 4 - (Bālā-rāga)
+  Song 5 - (Bālā-rāga)
+  Song 6 - (Bālā-rāga)
+  Song 7 - (the same rāga)
+  Song 8 - (Varāḍī-rāga)
+  Song 9 - (Bālā-dhanaśī-rāga)
+  Song 10 - (Varāḍī-rāga)
+  Song 11 - (Varāḍī-rāga)
+  Song 12 - (Bhūpālī-rāga)
+  Dvitīya Kṣaṇadā, Kṛṣṇā dvitīyā. Second Night, Second Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Caitanya) (Deśāga-rāga)
+  Song 2 - Nityānandacandrasya (of Lord Nityānanda) (Dhanaśī-rāga)
+  Song 3 - Śrī Kṛṣṇa Aha (Śrī Kṛṣṇa Speaks) (Bālā-dhanaśī-rāga)
+  Song 4 - Śrī Kṛṣṇena saha sakhyā ukti-pratyukti (Conversation of Lord Kṛṣṇa with a gopī) (Varāḍī-rāga)
+  Song 5 - (Suha-i Deśaga-rāga)
+  Song 6 - (Kānaḍā-rāga)
+  Song 7 - (Bālā-rāga)
+  Song 8 - (Bālā-rāga)
+  Song 9 - (Śrī-rāga)
+  Song 10 - (Bālā-rāga)
+  Tṛtīya Kṣaṇadā, Kṛṣṇā tṛtīyā. Third Night, Third Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Varāḍī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Dhanaśī-rāga)
+  Song 3 - Mukharā Prāha (Mukharā Speaks) (Tuḍī-rāga)
+  Song 4 - Paurṇamāsy Aha (Paurṇamāsī Speaks) (the same rāga)
+  Song 5 - Tāṁ prati Śrī Rādhāha (Śrī Rādhā Replies to Her) (Bhāṭiyārī-rāga)
+  Song 6 - (Suha-i-rāga)
+  Song 7 - (Dhanaśī-rāga)
+  Song 8 - (Dhanaśī-rāga)
+  Song 9 - (the same rāga)
+  Caturtha Kṣaṇadā, Kṛṣṇā Caturthī. Fourth Night, Fourth Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Kedāra-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (the same rāga)
+  Song 3 - (Beloyāra-rāga)
+  Song 4 - Śrī Rādhāha (Śrī Rādhā Speaks) (Śrī-rāga)
+  Song 5 - (Śrī-rāga)
+  Song 6 - (Śrī-rāga)
+  Song 7 - (Bālā-rāga)
+  Song 8 - Kācid Anyā Tat-saṅginy Aha (Another Gopī-Friend Speaks) (Dhanaśī-rāga)
+  Song 9 - (Bhūpālī-rāga)
+  Song 10 - (Kāmoda-rāga)
+  Song 11 - (Mallāra-rāga)
+  Song 12 - (Dhanaśī-rāga)
+  Song 13 - (Bhūpālī-rāga)
+  Pañcama Kṣaṇadā, Kṛṣṇā Pañcamī. Fifth Night, Fifth Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i Deśāga-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Kāmoda-rāga)
+  Song 3 - Śrī Rādhā Sakhīm Aha (Śrī Rādhā Speaks to a Gopī Friend) (Bālā-rāga)
+  Song 4 - Sakhī Tāṁ Pratyāha (The Gopī Replies to Her) (Bālā-rāga)
+  Song 5 - Śrī Rādhā Prāha (Śrī Rādhā Speaks) (the same rāga)
+  Song 6 - Śrī Kṛṣṇasyāpta-dūtī Śrī Rādhām Aha (Returning From Śrī Kṛṣṇa, a Gopī-messenger Speaks to Śrī Rādhā) (the same rāga)
+  Song 7 - (Krdāra-rāga)
+  Song 8 - (Beloyāra-rāga)
+  Song 9 - (Beloyāra-rāga)
+  Song 10 - (Paṭha-mañjarī-rāga)
+  Song 11 - (Paṭha-mañjarī-rāga)
+  Ṣaṣṭha Kṣaṇadā, Kṛṣṇā Ṣaṣṭhī. Sixth Night, Sixth Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Paṭha-mañjarī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānanda) (Gāndhāra-rāga)
+  Song 3 - Śrī Rādhā Prāha (Śrī Rādhā Speaks) (Barāḍī-rāga)
+  Song 4 - Śyāmā Śrī Rādhām Aha (Śyāmā-gopī Speaks to Śrī Rādhā) (Mallāra-rāga)
+  Song 5 - (Kāmoda-rāga)
+  Song 6 - (Kedāra-rāga)
+  Song 7 - Pathi Dūtī Kṛṣṇa Upadideśa (On the Path a Gopī Delivers a Message to Kṛṣṇa) (Kāmoda-rāga)
+  Song 8 - (Barāḍī-rāga)
+  Saptama Kṣaṇadā, Kṛṣṇā Saptamī. Seventh Night, Seventh Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Beloyāra-rāga)
+  Song 3 - Śrī Rādhā Prāha (Śrī Rādhā Speaks) (Gāndhāra-rāga)
+  Song 4 - (Bālā-rāga)
+  Song 5 - Dūtī Prāha (A Gopī Messenger Speaks) (Suha-i-rāga)
+  Song 6 - (Kāmoda-rāga)
+  Song 7 - (Kedāra-rāga)
+  Song 8 - (the same rāga)
+  Aṣṭama Kṣaṇadā, Kṛṣṇā Aṣṭamī. Eighth Night, Eighth Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Śrī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Deśāga-rāga)
+  Song 3 - Śrī Rādhāha (Śrī Rādhā Speaks) (Dhānaśī-rāga)
+  Song 4 - Bṛndāha (Vṛndā Speaks) (Dhanaśī-rāga)
+  Song 5 - (Aśābarī-rāga Mūlatāna)
+  Song 6 - (Gaurī-rāga)
+  Song 7
+  Song 8 - (Dhanaśī-rāga)
+  Song 9 - Utkaṇṭhitā (A Gopī Who Yearns To Associate With Kṛṣṇa) (Aśābarī-rāga)
+  Song 10 - (Bhūpālī-rāga)
+  Song 11 - (Kāmoda-rāga)
+  Song 12 - (Barāḍī-rāga)
+  Song 13 - (Gurjarī-rāga)
+  Song 14 - (Barāḍī-rāga)
+  Song 15
+  Song 16
+  Navama Kṣaṇadā, Kṛṣṇā Navamī. Ninth Night, Ninth Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Bālā-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Śrī-rāga)
+  Song 3 - A Gopī-messenger Speaks
+  Song 4 - Śrī Rādhā Replies
+  Song 5 - The Gopī-messnger Speaks Again
+  Song 6
+  Song 7 - Śrī Kṛṣṇa Speaks
+  Song 8 - Śrī Rādhā Speaks
+  Song 9 - Śrī Kṛṣṇa Speaks
+  Song 10
+  Daśama Kṣaṇadā, Kṛṣṇā Daśamī. Tenth Night, Tenth Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dhānaśī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Śrī-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Ekādaśa Kṣaṇadā, Kṛṣṇā Ekādaśī Eleventh. Night, Eleventh Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dhānaśī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Kāmoda-rāga)
+  Song 3 - Śrī Kṛṣṇa Speaks
+  Song 4 - A Gopī Speaks to Śrī Kṛṣṇa
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Song 10
+  Song 11
+  Song 12
+  Song 13
+  Dvādaśa Kṣaṇadā, Kṛṣṇā Dvādaśī. Twelfth Night, Twelfth Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Barāḍī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Pāhiḍā Gāndhāra-rāga)
+  Song 3 - Śrī Kṛṣṇa Speaks
+  Song 4 - A Gopī-messenger Speaks to Śrī Kṛṣṇa
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Trayodaśa Kṣaṇadā, Kṛṣṇā Trayodaśī. Thirteenth Night, Thirteenth Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Suha-i-rāga or Śrī-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Song 10
+  Caturdaśa Kṣaṇadā, Kṛṣṇā Caturdaśī. Fourteenth Night, Fourteenth Night of the Dark Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dhānaśī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Śrī rāga)
+  Song 3 - Śrī Kṛṣṇa Speaks
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Pañcadaśa Kṣaṇadā, Amāvasyā. Fifteenth Night, the New-moon Night
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dākṣiṇātya-rāga or Śrī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Gāndhāra-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7 - Śrī Kṛṣṇa Speaks
+  Song 8 - A Gopī-friend Humbly Speaks
+  Song 9
+  Ṣoḍaśa Kṣaṇadā, Śuklā-pratipada. Sixteenth Night, First Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Dhānaśī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Kāmoda-rāga)
+  Song 3 - Śrī Kṛṣṇa Speaks
+  Song 4 - A Gopī-messenger Speaks
+  Song 5
+  Song 6
+  Song 7
+  Saptadaśa Kṣaṇadā, Śuklā Dvitīyā. Seventeenth Night, Second Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Deśāga-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Śrī-rāga)
+  Song 3
+  Song 4 - (Identical with 16th Ksanada, Song 4)
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Song 10
+  Song 11
+  Song 12
+  Aṣṭadaśa Kṣaṇadā, Śuklā Tṛtīyā. Eighteenth Night, Third Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Sindhuḍā-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Śrī-rāga)
+  Song 3 - Śrī Kṛṣṇa Speaks
+  Song 4 - A Gopī-messenger Speaks
+  Song 5
+  Song 6
+  Unaviṁśa Kṣaṇadā, Śuklā Caturthī. Nineteenth Night, Fourth Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Śrī-rāga)
+  Song 3
+  Song 4
+  Song 5 - Lakṣmī, Śiva, and Brahmā cannot attain, He freely gave as a gift to the people of the world.
+  Song 6
+  Song 7
+  Song 8 - Vāsaka-sajjā (A Gopī Who Carefully Prepares to Meet Lord Kṛṣṇa)
+  Song 9
+  Song 10 - Utkaṇṭhitā (The Gopī Who Yearns to Meet Kṛṣṇa)
+  Song 11
+  Song 12
+  Song 13
+  Song 14
+  Song 15
+  Song 16
+  Viṁśa Kṣaṇadā, Śuklā Pañcamī. Twentieth Night, Fifth Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Tuḍī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Pāhiḍā-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Song 10
+  Song 11
+  Song 12
+  Song 13
+  Song 14
+  Ekaviṁśa Kṣaṇadā, Śuklā Ṣaṣṭhī. Twenty-first Night, Sixth Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Pāhiḍā-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Barāḍī-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Dvāviṁśa Kṣaṇadā, Śuklā Saptamī. Twenty-second Night, Seventh Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Kedāra-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Dhānaśī-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Song 10
+  Trayoviṁśa Kṣaṇadā, Śuklā Aṣṭamī. Twenty-third Night, Eighth Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Barāḍī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Gāndhāra-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8 - Vāsaka-sajjā (A Gopī Carefully Prepares for Her Meeting with Kṛṣṇa)
+  Song 9
+  Song 10 - Utkaṇṭhitā (A Gopī Yearns to Meet Kṛṣṇa)
+  Song 11
+  Song 12
+  Song 13
+  Song 14
+  Song 15
+  Song 16
+  Caturviṁśa Kṣaṇadā, Śuklā Navamī. Twenty-fourth Night, Ninth Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Beloyāra-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Deśāga-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9 - A Gopī Speaks
+  Song 10
+  Song 11
+  Pañcaviṁśa Kṣaṇadā, Śuklā Daśamī. Twenty-fifth Night, Tenth Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Suha-i-rāga or Gāndhāra-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Dhānaśī-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Song 10
+  Ṣaḍviṁśa Kṣaṇadā, Śuklā Ekādaśī. Twenty-sixth Night, Eleventh Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Barāḍī-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Bālā-rāga or Suha-i-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Song 10
+  Song 11
+  Song 12
+  Saptaviṁśa Kṣaṇadā, Śuklā Dvādaśī. Twenty-seventh Night, Twelfth Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Mallāra-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Sindhuḍā-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Aṣṭāviṁśa Kṣaṇadā, Śuklā Trayodaśī. Twenty-eighth Night, Thirteenth Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Kāmoda-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Śrī-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Unatriṁśa Kṣaṇadā, Śuklā Caturdaśī. Twenty-ninth Night, Fourteenth Night of the Bright Fortnight
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Maṅgala-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Barāḍī-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Song 10
+  Song 11
+  Triṁśa Kṣaṇadā, Paurṇamāsī. Thirtieth Night, the Full-moon Night
+  Song 1 - Śrī Gauracandrasya (of Lord Gauracandra) (Kedāra-rāga)
+  Song 2 - Śrī Nityānandacandrasya (of Lord Nityānandacandra) (Maṅgala-rāga)
+  Song 3
+  Song 4
+  Song 5
+  Song 6
+  Song 7
+  Song 8
+  Song 9
+  Song 10

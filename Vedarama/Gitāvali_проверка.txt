@@ -1,0 +1,108 @@
+Книга: Gitāvali
+Адрес: https://vedarama.com/en/books/vct-gitavali
+Страниц сайта: 93; заголовков: 94; текстов: 75; картинок: 0
+Глав по MCP: 15
+Букв в исходнике: 38769; в .md: 38769
+Первый заголовок: Gitāvali
+Последний заголовок: Text 9
+
+ЗАМЕЧАНИЯ:
+  - Пропуск/сбой нумерации: после «9» идёт «Text 2».
+  - Пропуск/сбой нумерации: после «1» идёт «Text 3».
+  - Пропуск/сбой нумерации: после «8» идёт «Text 2».
+
+Оглавление выгрузки:
+Gitāvali
+  <strong>Songs by Śrila Viśvanātha Cakravarti</strong>
+  Song 1
+    Text 1
+  Song 2
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  Song 3 - Rāga-kānaḍā
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  Song 4 - Rāga-tuḍi
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  Song 5 - Kedāra-rāga
+  Text 1 (Refrain)
+    Text 2
+    Text 3
+    Text 4
+  Song 6 - Varāḍi-rāga
+    Text 1
+  Text 2 (Refrain)
+    Text 3
+    Text 4
+    Text 5
+  Song 7
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+  Song 8 - Dakṣiṇā-rāga
+  Text 1 (Refrain)
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+  Song 9 - Śrirāga-vihāgaḍā
+    Text 1
+  Song 10
+    Text 1
+    Text 2
+  Song 11
+    Text 1
+    Text 2
+    Text 3
+  Śri Guru-caraṇa-smaraṇāṣṭaka - Eight Meditations on the Feet of the Spiritual Master
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  Śri Parama-guru-prabhuvarāṣṭaka - Eight Prayers Glorifying the Parama-guru
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  Śri Gaṅgā-Nārāyaṇadevāṣṭaka - Eight Prayers Glorifying Śri Gaṅgā-Nārāyaṇadeva
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9

@@ -1,0 +1,13 @@
+Книга: Big Bang Theory (BBT)
+Адрес: https://vedarama.com/en/books/bbt
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 10114; в .md: 10114
+Первый заголовок: Big Bang Theory (BBT)
+Последний заголовок: Big Bang Theory
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Big Bang Theory (BBT)
+  Big Bang Theory

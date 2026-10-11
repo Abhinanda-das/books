@@ -1,0 +1,24 @@
+Книга: Judaic Timeline
+Адрес: https://vedarama.com/en/books/judtime
+Страниц сайта: 12; заголовков: 13; текстов: 0; картинок: 0
+Глав по MCP: 12
+Букв в исходнике: 92667; в .md: 92667
+Первый заголовок: Judaic Timeline
+Последний заголовок: Modern Israel &amp; the Diaspora
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Judaic Timeline
+  The Dawn of History: (Sumer, Egypt): ca. 3000 B.C.E.
+  Context of Ancient Israelite religion: ca. 2000-587 B.C.E.
+  Neo-Assyrian period: 900-612
+  Judaism after the Babylonian Exile: ca. 538 B.C.E.-70 CE
+  Rule of Rome: ca. 146 B.C.E.-400 CE
+  Early Christian Period of Development: 30-311 CE
+  Rabbinic Jewish Period of Talmud Development: 70-400/600 CE
+  Byzantine Rule: 313-636
+  Consolidation &amp; Dominance of Classical Christianity: 325-1517
+  “Medieval” Period in the West: ca. 600-1500
+  Jewish Modern and Contemporary Periods: ca. 1700-Present
+  Modern Israel &amp; the Diaspora

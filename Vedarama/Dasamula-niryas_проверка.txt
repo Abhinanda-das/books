@@ -1,0 +1,34 @@
+Книга: Dasamula-niryas
+Адрес: https://vedarama.com/en/books/bt-dasamula-niryas
+Страниц сайта: 22; заголовков: 23; текстов: 12; картинок: 0
+Глав по MCP: 13
+Букв в исходнике: 47056; в .md: 47056
+Первый заголовок: Dasamula-niryas
+Последний заголовок: Aspect Nine
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Dasamula-niryas
+    Verse 1
+    Verse 2
+    Verse 3
+    Verse 4
+    Verse 5
+    Verse 6
+    Verse 7
+    Verse 8
+    Verse 9
+    Verse 10
+    Verse 11
+    Verse 12
+  Affirmation
+  Aspect One
+  Aspect Two
+  Aspect Three
+  Aspect Four
+  Aspect Five
+  Aspect Six
+  Aspect Seven
+  Aspect Eight
+  Aspect Nine

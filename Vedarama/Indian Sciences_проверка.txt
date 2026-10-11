@@ -1,0 +1,16 @@
+Книга: Indian Sciences
+Адрес: https://vedarama.com/en/books/is
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 3895; в .md: 3895
+Первый заголовок: Indian Sciences
+Последний заголовок: Scientific Books
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Indian Sciences
+  Indian Sciences
+  ART
+  LITERATURE
+  Scientific Books

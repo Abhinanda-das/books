@@ -1,0 +1,16 @@
+Книга: Countries
+Адрес: https://vedarama.com/en/books/coun
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 68925; в .md: 68925
+Первый заголовок: Countries
+Последний заголовок: Conclusion
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Countries
+  Countries
+  Source: Sunday Times, London
+  Tibet
+  Conclusion

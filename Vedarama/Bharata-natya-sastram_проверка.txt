@@ -1,0 +1,352 @@
+Книга: Bharata-natya-sastram
+Адрес: https://vedarama.com/en/books/bns
+Страниц сайта: 340; заголовков: 341; текстов: 0; картинок: 0
+Глав по MCP: 21
+Букв в исходнике: 745583; в .md: 745583
+Первый заголовок: Bharata-natya-sastram
+Последний заголовок: 21.7 Bibliography
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Bharata-natya-sastram
+  UNIT-1: Bharata’s Natyashastra
+  1.1 Introduction
+  1.1.1 Aesthetics in Indian and Western Context
+  1.2 Bharata, the Author of the Natyashastra
+  1.3 Commentators on the Natyashastra
+  1.4 Aim of the Natyashastra
+  1.5 Date of composition of the Natyashastra
+  1.6 Division of the Nayashastra
+  1.7 Limitation of Natyashastra
+  1.8 Subject matter of the first chapter of the Natyashastra
+  1.9 The Origin of Drama
+  1.10 Let Us Sum Up
+  1.11 Review questions
+  1.12 Bibliography
+  UNIT-2: Rasadhyayas of natyashastra
+  2.1 Introduction
+  2.2 Constituents of rasa
+  2.2.1 Sthayi bhavas (basic mental states)
+  2.2.2 Vibhavas
+  2.2.3 Anubhavas ( voluntary gestures)
+  2.2.4 Sattvikas (Involuntary gestures)
+  2.2.5 Vyabhicharibhavas (transient emotions)
+  2.3 Number of Rasas
+  2.4 Illustration Of The Constituents Of Rasas
+  2.5 Bhava Or Abhasas (Semblance Of Rasa)
+  2.6 Rasa formula and Eliot’s Objective Correlative
+  2.7 Rasanubhuti (rasa realization)
+  2.7.1 Kavya Prayojana ( Purpose Of Poetry)
+  2.7.2 States of the Mind
+  2.7.3 Rasadasha (Relishable State)
+  2.7.4 Nature of Rasa
+  2.7.5 Four Kinds Of ( Jnana) Knowledge
+  2.7.6 Sadharanikarana (Generalization)
+  2.7.7 Factors Of Rasavighna (Obstructions To Rasa Experience)
+  2.8 Let Us Sum Up
+  2.9 Review Questions
+  2.10 Bibliography
+  UNIT-3: Acarya kuntaka’s vakroktijivitam
+  3.1 Introduction
+  3.2 The Vakroktijivitam of Acarya Kuntaka
+  3.3 Classification of Vakrokti
+  3.3.1 Varna-vinyasa-vakrata (Phonetic obliquity)
+  3.3.2 Pada-purvarddha-vakrata ( Lexical obliquity)
+  3.3.3 Pada-pararddha-vakrata (Grammatical obliquity)
+  3.3.4 vakya-vakrata (Sentential obliquity)
+  3.3.5 Prakarana-vakrata (Episodic obliquity)
+  3.3.6 Prabandha- vakrata (compositional obliquity)
+  3.4 Let Us Sum Up
+  3.5 Review Questions
+  3.8 Bibliography
+  UNIT-4: Aristotle: the poetics (i)
+  4.1 Introduction
+  4.2 Views on Poetry
+  4.2.1 Plato
+  4.2.2 Aristotle
+  4.3 Introduction to Aristotle’s Poetics
+  4.4 Theory of Fine arts
+  4.5 Views on Poetic Truth
+  4.5.1 Poetry v/s History
+  4.5.2 Poet, Poetry and History
+  4.5.3 Poetry is Universal
+  4.5.4 Poetry- Pleasing and Appealing
+  4.6 Views on Tragedy
+  4.6.1 Tragedy as an Imitation
+  4.6.2 Katharsis or Purgation
+  4.6.3 Six Parts of Tragedy
+  4.6.4 The Dramatic Unities
+  4.6.4.1 Unity of Action
+  4.6.4.2 Unities of Time and Place
+  4.6.4.3 Artistic Ornament and Form of Action
+  4.7 Let Us Sum Up
+  4.8 Review Questions
+  4.9 Bibliography
+  UNIT-5: Aristotle: the poetics (ii)
+  5.1 Introduction
+  5.2 Tragic Hero
+  5.3 Plot
+  5.3.1 The Greater the Unity, the More Perfect the Plot
+  5.3.2 Simple and Complex Plot
+  5.3.3 Recognition of Persons
+  5.3.4 Situation
+  5.3.5 A Reasonable Length
+  5.4 Views on Character
+  5.4.1 Necessary or Probable Sequence
+  5.4.2 Seeing is Believing
+  5.5 Views on Comedy
+  5.5.1 Law of Universality
+  5.5.2 Comedy-Power of Poetry
+  5.6 Views on Epic
+  5.7 Difference between Tragedy and Epic
+  5.7.1 Moral Goodness of the Heroic Order
+  5.7.2 Use of Improbable
+  5.7.3 Tragedy is Superior to Epic
+  5.8 Views on Style
+  5.8.1 Charm of Style- The Use of Metaphor
+  5.9 Value of His Criticism
+  5.10 Limitations
+  5.11 Let Us Sum Up
+  5.12 Review Questions
+  5.13 Bibliography
+  UNIT-6: Samuel johnson : Preface to shakespeare
+  6.1 Introduction
+  6.2 A brief account of the life of Samuel Johnson
+  6.3 Major works of Dr. Samuel Johnson
+  6.4 Extracts from Preface to Shakespeare
+  6.5 Explanation of the extracts
+  6.6 Let Us Sum Up
+  6.7 Review Questions
+  6.7 Bibliography
+  UNIT-7: Alexander pope: An essay on man
+  7.1 Introduction : Augustan Age
+  7.2 About the Author
+  7.3 Introduction to An Essay on Man
+  7.3.1 Epistle I:Of the Nature and State of Man, with respect to the Universe
+  7.3.2 Epistle II: Of the Nature and State of Man as an Individual
+  7.3.3 Epistle III: Of the Nature and State of Man, with respect to Society
+  7.3.4 Epistle IV: Of the Nature and the State of Man, with
+  7.4 Major Themes
+  7.5 Let Us Sum Up
+  7.6 Review Questions
+  7.7 Bibliography
+  UNIT-8 Coleridge : Biographia literaria
+  8.1 Introduction
+  8.2 About the Author
+  8.3 About the Age
+  8.4 Introduction of the Text
+  8.4.1 Detailed Description (Chapter-wise Summary)
+  Chapter I
+  Chapter II
+  Chapter III
+  Chapter IV
+  Chapter V
+  Chapter VI
+  Chapter VII
+  Chapter VIII
+  Chapter IX
+  Chapter X
+  Chapter XI
+  Chapter XII
+  Chapter XIII
+  Imagination
+  Interpretation of the Senses
+  Chapter XIV
+  Coleridge’s definitions of his special meaning of Poem, Poetry, and Poet
+  Chapter XV
+  Chapter XVI
+  Chapter XVII
+  Chapter XVIII
+  Chapter XIX
+  Chapter XX
+  Chapter XXI
+  Chapter XXII
+  Chapter XXIII
+  Chapter XXIV
+  Coleridge’s Argument about Poetic Diction
+  Coleridge’s view about Poem
+  Coleridge’s view about Poet
+  8.4.2 Critics on Biographia Literaria
+  8.4.3 Glossary
+  8.5 Let Us Sum Up
+  8.6 Review Questions
+  8.7 Bibliography
+  UNIT-9: Matthew arnold : Culture and anarchy
+  9.1 Introduction
+  9.2 About The Age
+  9.3 About The Author
+  9.4 Reading Text
+  9.4.1 Culture And Anarchy
+  9.4.2 Detailed Summary
+  Preface
+  Introduction
+  Chapter-I : Sweetness and Light
+  Chapter-II : Doing As One Likes
+  Chapter-III : Barbarians, Philistine, Populace
+  Chapter-IV : Herbraism and Hellenism
+  Chapter-V : Porro Unum Est Necessarium
+  Chapter-VI : Our Liberal Practitioners
+  Conclusion :
+  9.4.3 Critical Summary
+  9.4.4 Style
+  9.4.5 Hebraism
+  9.5 Self Assessment Questions
+  9.6 Answers To The Questions
+  9.7 Let Us Sum Up
+  9.8 Review Questions
+  9.9 Bibliography
+  UNIT-10: T.S. Eliot : Tradition and individual talent
+  10.1 Introduction
+  10.2 Life and Works of T.S. Eliot
+  His reaction against romanticism
+  Eliot’s later poetry
+  T.S. Eliot’s Works
+  (A) T.S. Eliot’s Poetry
+  (B) Drama
+  (C) Prose
+  10.3 Reading Tradition and Individual Talent (Text)
+  10.3.1 Eliot’s Concept of Tradition
+  10.3.2 Eliot’s Theory of the Impersonality of Poetry
+  10.4 Let Us Sum Up
+  10.5 Review Questions
+  10.6 Bibliography
+  UNIT-11: F.R. Leavis : Revaluation
+  11.1 Introduction
+  11.2 About the Author
+  11.3 Scrutiny
+  11.4 Leavis’ Views On Criticism And An Ideal Critic
+  11.5 Introduction to the text
+  11.5.1 Chapter I
+  11.5.2 Chapter II
+  11.5.3 Pope
+  11.5.4 The Augustan Tradition and the Eighteenth Century
+  11.5.5 Wordsworth
+  11.5.6 Shelley
+  11.5.7 Keats
+  11.6. Let Us Sum Up
+  11.7 Review Questions
+  11.8 Bibliography
+  UNIT-12: Northrop frye : myth and archetype (i)
+  12.1 Introduction
+  12.2 About the Author
+  12.3 About the Age
+  12.4 About the Text
+  12.4.1 Detailed Description
+  12.5 Let Us Sum Up
+  12.6 Review Questions
+  12.7 Bibliography
+  UNIT-13: Northrop frye - myth and archetype (ii)
+  13.1 Introduction
+  13.2 Myths Of the Society
+  13.2.1 Myth of Concern
+  13.2.2 Myth of Freedom
+  13.4 Northrop Frye’s theory of Archetypes
+  13.5 Phases of Romance
+  13.6 Northrop Frye and Ideology
+  13.7 Arguments about the Contemporary Dilemma with Frye’s Archetypal Literary Criticism
+  13.8 Northrop Frye: The Theoretical Imagination
+  13.9 Uses of Archetypal Criticism
+  13.10 A Few Common Archetypes in Literature
+  13.11 Glossary
+  13.12 Let Us Sum Up
+  13.13 Review Questions
+  13.14 Bibliography
+  UNIT-14: Lionel trilling: The liberal imagination and the opposing self
+  14.1 Introduction
+  14.2 Life of Lionel Trilling
+  14.3 Works of Lionel Trilling Fiction:
+  14.4 Lionel Trilling and Psychoanalytic Theory
+  14.5 The Essays of The Liberal Imagination and The Opposing Self
+  14.6 Let Us Sum Up
+  14.7 Review Questions
+  14.8 Bibliography
+  UNIT-15: Elaine showalter: towards a feminist poetics
+  15.1 Introduction
+  15.2 Biographical Information
+  15.3 Literary Works
+  15.4 Introduction to Towards a Feminist Poetics
+  15.4.1 Three Phrases of Feminist Writings
+  15.4.2 Cultural Feminism
+  15.4.3 Gynocritics
+  15.4.4 Critical Reception
+  15.5 Let Us Sum Up
+  15.6 Review Questions
+  15.7 Bibliography
+  UNIT-16: Simone de beauvoir: a feminist with a difference
+  16.1 Introduction
+  16.2 Simone de Beauvoir’s Seminal Ideas on Woman
+  16.3 Woman Through the Prism of Biology
+  16.4 Woman as the Other
+  16.5 A Critique of de Beauvoir’s Feminism
+  16.6 Let Us Sum Up
+  16.7 Annotations and Bibliographical References
+  16.8 Review Questions
+  16.9 Bibliography
+  UNIT-17: Frantz fanon : the wretched of the earth (i)
+  17.1 Introduction
+  17.2 About the Author
+  17.3 About the Age
+  17.4 Introduction of the Text
+  17.4.1 Extracts from the ‘Preface’
+  17.4.2 Detailed Explanation
+  17.4.3 Extracts from the ‘Conclusion’
+  17.5 Let Us Sum Up
+  17.6 Review Questions
+  17.7 Bibliography
+  UNIT-18: Frantz fanon : the wretched of the earth (ii)
+  18.1 Introduction
+  18.2 Critical Analysis
+  18.2.1 Style
+  18.2.2 Theme
+  18.3 Let Us Sum Up
+  18.4 Review Questions
+  18.5 Bibliography
+  UNIT-19: Salman rushdie: imaginary homelands: essays and criticism 1981-1991 (i)
+  19.1 Introduction
+  19.2 Critical Analysis of Imaginary Homelands: Essays And Criticism 1981-1991
+  19.3 Major Themes in Imaginary Homelands
+  19.3.1 The Riddle of Diaspora
+  19.3.2 The Emergence of the New Empire
+  19.3.3 Debate between Censorship and Eclecticise
+  19.3.4 Ideals of Hybridity and Multiplicity
+  19.4 Let Us Sum Up
+  19.5 Review Questions
+  19.6 Bibliography
+  UNIT-20: Salman rushdie : imaginary homelands: essays and criticism1981-1991 (ii)
+  20.1 Introduction
+  20.2 Major Issues in Imaginary Homelands
+  20.2.1 Nostalgia
+  20.2.3 Criticism of Sub-Continental Social and Political Scenario
+  20.2.4 Treatment of Intellectual Imperialism
+  20.2.5 Religious Mania and Secularism
+  20.2.6 Views about the Language of Literary Creation
+  20.2.7 Rushdie as a Film-Critic
+  20.3 Analysis of Literary Works on the basis of Imaginary Homelands
+  20.3.1 Kiran Desai’s The Loss of Inheritance
+  20.3.2 Stephen Gill’s Immigrant
+  20.3.3 U.R.Anantha Murthy’s Samskara: A Rite for a Dead Man
+  20.4 Let Us Sum Up
+  20.5 Review Questions
+  20.6 Bibliography
+  UNIT-21: Mulk raj anand : social protest in my novels
+  21.1 Introduction
+  21.2 Views on Art
+  21.2.1 Art and Life
+  21.2.2 Art for Life’s Sake
+  21.2.3 Distancing between the Art and the Artist
+  21.3 Art of the Novel
+  21.4 Anand’s Writings
+  21.4.1 Anand’s Humanism
+  21.4.2 Characters
+  21.4.3 Compactness
+  21.4.4 Form and Content
+  21.4.5 Stream of Consciousness Technique
+  21.4.6 Creative Use of Language
+  21.4.7 Anand’s Fiction as “a Literature of Protest”
+  21.4.7.1 Untouchable
+  21.4.7.2 Coolie
+  21.4.7.3 Morning Face and Private Life of an Indian Prince
+  21.5 Let Us Sum Up
+  21.6 Review Questions
+  21.7 Bibliography

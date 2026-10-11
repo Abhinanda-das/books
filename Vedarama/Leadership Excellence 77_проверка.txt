@@ -1,0 +1,17 @@
+Книга: Leadership Excellence 77
+Адрес: https://vedarama.com/en/books/le77
+Страниц сайта: 5; заголовков: 6; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 2026; в .md: 2026
+Первый заголовок: Leadership Excellence 77
+Последний заголовок: Excellent Tool
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leadership Excellence 77
+  Excellent Quote
+  Excellent Story
+  Excellent Question
+  Excellent Action
+  Excellent Tool

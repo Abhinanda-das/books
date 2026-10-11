@@ -1,0 +1,25 @@
+Книга: Narottama-vilasa
+Адрес: https://vedarama.com/en/books/nct-nv
+Страниц сайта: 13; заголовков: 14; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 13
+Букв в исходнике: 195902; в .md: 195902
+Первый заголовок: Narottama-vilasa
+Последний заголовок: The Twelfth Vilasa
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Narottama-vilasa
+  <strong>Sweet Pastimes of Narottama</strong>
+  The First Vilasa
+  The Second Vilasa
+  The Third Vilasa
+  The Fourth Vilasa
+  The Fifth Vilasa
+  The Sixth Vilasa
+  The Seventh Vilasa
+  The Eighth Vilasa
+  The Ninth Vilasa
+  The Tenth Vilasa
+  The Eleventh Vilasa
+  The Twelfth Vilasa

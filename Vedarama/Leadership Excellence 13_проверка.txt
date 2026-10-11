@@ -1,0 +1,16 @@
+Книга: Leadership Excellence 13
+Адрес: https://vedarama.com/en/books/le13
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 5696; в .md: 5696
+Первый заголовок: Leadership Excellence 13
+Последний заголовок: Delegation Questions
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leadership Excellence 13
+  Quote of the Week
+  The Role of the Brahmanas
+  New York Interviews
+  Delegation Questions

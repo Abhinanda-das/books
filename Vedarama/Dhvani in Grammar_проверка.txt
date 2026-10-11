@@ -1,0 +1,16 @@
+Книга: Dhvani in Grammar
+Адрес: https://vedarama.com/en/books/dhvani
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 73341; в .md: 73341
+Первый заголовок: Dhvani in Grammar
+Последний заголовок: Philosophy inluences poetic theory
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Dhvani in Grammar
+  Dhvani in grammar: The Kashmiris’ burden of proof
+  Patanjali’s theory of sphota
+  Bhartrhari’s theory of sphota
+  Philosophy inluences poetic theory

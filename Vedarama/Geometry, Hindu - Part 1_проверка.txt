@@ -1,0 +1,17 @@
+Книга: Geometry, Hindu - Part 1
+Адрес: https://vedarama.com/en/books/ghp1
+Страниц сайта: 5; заголовков: 6; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 6269; в .md: 6269
+Первый заголовок: Geometry, Hindu - Part 1
+Последний заголовок: References
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Geometry, Hindu - Part 1
+  Introduction
+  The root of the Shulba-Sutras
+  Dating of Hindu Geometry
+  4000 BCE: Rig Veda
+  References

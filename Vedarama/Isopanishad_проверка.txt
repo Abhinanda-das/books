@@ -1,0 +1,32 @@
+Книга: Isopanishad
+Адрес: https://vedarama.com/en/books/iso
+Страниц сайта: 20; заголовков: 21; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 20
+Букв в исходнике: 147191; в .md: 147191
+Первый заголовок: Isopanishad
+Последний заголовок: Mantra Eighteen
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Isopanishad
+  Introduction
+  Invocation
+  Mantra One
+  Mantra Two
+  Mantra Three
+  Mantra Four
+  Mantra Five
+  Mantra Six
+  Mantra Seven
+  Mantra Eight
+  Mantra Nine
+  Mantra Ten
+  Mantra Eleven
+  Mantra Twelve
+  Mantra Thirteen
+  Mantra Fourteen
+  Mantra Fifteen
+  Mantra Sixteen
+  Mantra Seventeen
+  Mantra Eighteen

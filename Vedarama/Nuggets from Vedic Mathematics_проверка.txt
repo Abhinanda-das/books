@@ -1,0 +1,29 @@
+Книга: Nuggets from Vedic Mathematics
+Адрес: https://vedarama.com/en/books/vmn
+Страниц сайта: 17; заголовков: 18; текстов: 0; картинок: 0
+Глав по MCP: 8
+Букв в исходнике: 32456; в .md: 32456
+Первый заголовок: Nuggets from Vedic Mathematics
+Последний заголовок: Squaring Numbers
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Nuggets from Vedic Mathematics
+  Introduction
+  Vedic Number Representation
+  1. Ekadhikena Purvena
+  Method 1: using multiplications
+  Method 2: Using divisions
+  2. Nikhilam Navatashcaramam Dashatah
+  Corollary 1: Yavdunam Jaavdunikritya Varga Cha Yojayet
+  3. Urdhva-tiryagbhyam
+  4. Paraavartya Yojayet
+  5. Shunyam Saamyasamuccaye
+  6. (Anurupye) Shunyamanyat
+  8. Puranapuranabhyam
+  14. Ekanynena Purvena
+  "Rules of Thumb"
+  Some Interesting Nuggets and Examples:
+  Acknowledgments
+  Squaring Numbers

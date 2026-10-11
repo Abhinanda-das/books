@@ -1,0 +1,19 @@
+Книга: Karnananda
+Адрес: https://vedarama.com/en/books/yadunandanadasa-karnananda
+Страниц сайта: 7; заголовков: 8; текстов: 0; картинок: 0
+Глав по MCP: 7
+Букв в исходнике: 91800; в .md: 91800
+Первый заголовок: Karnananda
+Последний заголовок: Seventh Extract
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Karnananda
+  First Extract
+  Second Extract
+  Third Extract
+  Fourth Extract
+  Fifth Extract
+  Sixth Extract
+  Seventh Extract

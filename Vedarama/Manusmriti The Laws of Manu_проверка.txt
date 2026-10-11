@@ -1,0 +1,24 @@
+Книга: Manusmriti: The Laws of Manu
+Адрес: https://vedarama.com/en/books/manusamhita2
+Страниц сайта: 12; заголовков: 13; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 12
+Букв в исходнике: 384997; в .md: 384997
+Первый заголовок: Manusmriti: The Laws of Manu
+Последний заголовок: Chapter XII
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Manusmriti: The Laws of Manu
+  Chapter I
+  Chapter II
+  Chapter III
+  Chapter IV
+  Chapter V
+  Chapter VI
+  Chapter VII
+  Chapter VIII
+  Chapter IX
+  Chapter X
+  Chapter XI
+  Chapter XII

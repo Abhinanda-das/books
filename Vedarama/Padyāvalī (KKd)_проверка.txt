@@ -1,0 +1,529 @@
+Книга: Padyāvalī (KKd)
+Адрес: https://vedarama.com/en/books/padyavali-rg
+Страниц сайта: 517; заголовков: 518; текстов: 392; картинок: 0
+Глав по MCP: 125
+Букв в исходнике: 305511; в .md: 305511
+Первый заголовок: Padyāvalī (KKd)
+Последний заголовок: Text 392
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Padyāvalī (KKd)
+  Auspicious Introduction
+    Text 1
+  Auspicious Introductions (Granthārambhe Maṅgalācaraṇam)
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+  The Glory of Kṛṣṇa (Śrī Kṛṣṇasya Mahimā)
+    Text 6
+    Text 7
+  The Glory of Devotional Service (Bhajana-māhātmya)
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+  The Glory of the Holy Name (Nāma-māhātmya)
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+    Text 30
+    Text 31
+  Glorification of the Holy Names (Nāma-kīrtana)
+    Text 32
+    Text 33
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+  The Glory of the Description of Śrī Kṛṣṇa (Śrī Kṛṣṇa-kathā-māhātmya)
+    Text 39
+    Text 40
+    Text 41
+    Text 42
+    Text 43
+    Text 44
+    Text 45
+  Meditation on Śrī Kṛṣṇa (Śrī Kṛṣṇa-dhyāna)
+    Text 46
+    Text 47
+    Text 48
+    Text 49
+  Love For the Devotees (Bhakta-vātsalyam)
+    Text 50
+  Draupadī’s Appeal for Protection (Draupadī-trāṇe Tad-vākyam)
+    Text 51
+  The Glory of the Devotees (Bhaktānām Māhātmyam)
+    Text 52
+    Text 53
+    Text 54
+    Text 55
+    Text 56
+    Text 57
+    Text 58
+    Text 59
+    Text 60
+    Text 61
+    Text 62
+    Text 63
+    Text 64
+    Text 65
+    Text 66
+    Text 67
+    Text 68
+    Text 69
+    Text 70
+    Text 71
+  The Devotees’ Faith (Bhaktānāṁ niṣṭhā)
+    Text 72
+    Text 73
+    Text 74
+    Text 75
+    Text 76
+    Text 77
+    Text 78
+    Text 79
+    Text 80
+    Text 81
+    Text 82
+    Text 83
+    Text 84
+    Text 85
+    Text 86
+  The Devotees’ Earnest Prayers (Bhaktānāṁ Sautsukya-prārthanā)
+    Text 87
+    Text 88
+    Text 89
+    Text 90
+    Text 91
+    Text 92
+    Text 93
+    Text 94
+    Text 95
+    Text 96
+    Text 97
+  The Devotees’ Yearning (Bhaktānām Utkaṇṭhā)
+    Text 98
+    Text 99
+    Text 100
+    Text 101
+    Text 102
+    Text 103
+    Text 104
+    Text 105
+    Text 106
+    Text 107
+    Text 108
+    Text 109
+    Text 110
+  Contempt for Liberation (Mokṣānādaraḥ)
+    Text 111
+    Text 112
+    Text 113
+    Text 114
+  The Nature of Devotional Service (Śrī Bhagavad-dharma-tattvam)
+    Text 115
+    Text 116
+  Prayers for Offering Prasādam (Naivedyārpaṇe vijñaptiḥ)
+    Text 117
+    Text 118
+    Text 119
+  The Glory of Mathurā (Śrī Mathurā-mahimā)
+    Text 120
+    Text 121
+    Text 122
+    Text 123
+    Text 124
+    Text 125
+  Obeisances to Vṛndāvana (Śrī Vṛndāṭavī-vandanam)
+    Text 126
+  Obeisances to Nanda Mahārāja (Śrī Nanda-praṇāmaḥ)
+    Text 127
+    Text 128
+  Obeisances to Mother Yaśodā (Śrī Yaśodā-vandanam)
+    Text 129
+  Śrī Kṛṣṇa’s Childhood (Śrī Kṛṣṇa-śaiśavam)
+    Text 130
+    Text 131
+    Text 132
+    Text 133
+    Text 134
+    Text 135
+  Adolescence Manifested in Childhood (Śaiśave ’pi tāruṇyam)
+    Text 136
+    Text 137
+    Text 138
+    Text 139
+    Text 140
+  Stealing Milk-products (Gavya-haraṇam)
+    Text 141
+    Text 142
+    Text 143
+    Text 144
+    Text 145
+    Text 146
+  Lord Hari Speaks in His Sleep (Hareḥ svapnāyitam)
+    Text 147
+    Text 148
+  Instructions and Other Pastimes That Fill Kṛṣṇa’s Parents With Wonder (Pitror vismāna-śikṣādi)
+    Text 149
+    Text 150
+    Text 151
+    Text 152
+  Protecting the Cows and Other Pastimes (Go-rakṣādi-līlā)
+    Text 153
+    Text 154
+  The Exalted Nature of the Gopīs’ Love (Gopīnāṁ premotkarṣaḥ)
+    Text 155
+    Text 156
+  Pastimes with the Gopīs (Gopībhiḥ saha līlā)
+    Text 157
+  Lord Kṛṣṇa’s Love for the Gopīs (Tasu kṛṣṇasya bhāvaḥ)
+    Text 158
+  Śrīmatī Rādhārāṇī’s Inquiry on First Seeing Śrī Kṛṣṇa (Śrī-Kṛṣṇasya prathama-darśane śrī-rādhā-praśnaḥ)
+    Text 159
+    Text 160
+  The Reply of Rādhā’s Gopī-friend (Sakhya uttaram)
+    Text 161
+  The Beginning of Rādhā’s Love (Śrī-Rādhāyāḥ pūrva-rāgaḥ)
+    Text 162
+    Text 163
+    Text 164
+    Text 165
+    Text 166
+    Text 167
+    Text 168
+    Text 169
+    Text 170
+    Text 171
+    Text 172
+    Text 173
+    Text 174
+    Text 175
+    Text 176
+    Text 177
+    Text 178
+    Text 179
+    Text 180
+  The Guess of Another Expert Gopī-friend (Anya-catura-sakhī-vitarkaḥ)
+    Text 181
+  A Gopī-friend’s Question to Śrīmatī Rādhārāṇī (Rādhāṁ prati sakhī-praśnaḥ)
+    Text 182
+    Text 183
+    Text 184
+    Text 185
+  A Gopī’s Joking Words of Encouragement to Śrīmatī Rādhārāṇī (Śrī-Rādhāṁ prati sakhī-narmāśvāsaḥ)
+    Text 186
+  Śrīmatī Rādhārāṇī’s Love is Described to Lord Kṛṣṇa (Śrī Kṛṣṇaṁ prati śrī-rādhānurāga-kathanaṁ)
+    Text 187
+    Text 188
+    Text 189
+    Text 190
+    Text 191
+  Śrī Kṛṣṇa’s Love is Described to Śrīmatī Rādhārāṇī (Śrī-Rādhāṁ prati śrī-kṛṣṇānurāga-kathanam)
+    Text 192
+    Text 193
+    Text 194
+  The Meeting with Rādhā (Śrī-Rādhābhisāraḥ)
+    Text 195
+    Text 196
+    Text 197
+  A Gopī-friend’s Statement to Śrīmatī Rādhārāṇī (Śrī-Rādhāṁ prati sakhī-vākyaṁ)
+    Text 198
+    Text 199
+    Text 200
+    Text 201
+  Joking Words of Gopī-friends Aware of the Divine Couple’s Intimate Pastimes (Krīḍānantaraṁ jānatīnāṁ sakhīnāṁ narmokti)
+    Text 202
+  The Words of an Innocent Child (Mugdha-bāla-vākyam)
+    Text 203
+  A Gopī-friend Alludes to Rādhā’s Pastimes With Lord Kṛṣṇa on the Previous Day (Śrī-Rādhayā saha dināntara-keliḥ atra sakhī-vākyam)
+    Text 204
+  Her Reply With a Hidden Meaning (Tasyāḥ sākūta-vākya)
+    Text 205
+    Text 206
+    Text 207
+    Text 208
+  Joking Words of a Gopī-friend (Sakhī-narma)
+    Text 209
+  A Gopī-friend Encourages Śrīmatī Rādhārāṇī to Meet Lord Kṛṣṇa (Punar anyedyur abhisārikā tatra sakhī-vakyaṁ)
+    Text 210
+  Śrīmatī Rādhārāṇī’s Reply to a Questioning Gopī-friend (Parīkṣaṇa-kāriṇīṁ sakhīṁ prati śrī-rādhā-vākyam)
+    Text 211
+    Text 212
+  Śrīmatī Rādhārāṇī Makes Careful Arrangements for the Rendezvous With Lord Kṛṣṇa (Vāsaka-sajjā)
+    Text 213
+  Śrīmatī Rādhārāṇī Longs to Meet Kṛṣṇa (Utkaṇṭhitā)
+    Text 214
+    Text 215
+  Śrīmatī Rādhārāṇī is Separated from Lord Kṛṣṇa (Vipralabdhā)
+    Text 216
+  Śrīmatī Rādhārāṇī Is Cheated by Lord Kṛṣṇa (Khaṇḍitā)
+    Text 217
+  Her Words (Tasyā vākyam)
+    Text 218
+    Text 219
+    Text 220
+  The Statement of Śrīmatī Rādhārāṇī Is Depressed Because She Was Cheated by Lord Kṛṣṇa, Who Failed to Appear at the Rendezvous (Khaṇḍanāpta-nirvedāyās tasyā vākyaṁ)
+    Text 221
+    Text 222
+  When Lord Kṛṣṇa Returned in the Evening, A Gopī-friend Spoke the Following Instructions (Punaḥ sāyam āyāti mādhave sakhī-śikṣā)
+    Text 223
+  The Angry Gopī (Māninī)
+    Text 224
+    Text 225
+  A Gopī-friend’s Words as Kṛṣṇa’s Departs (Niṣkramati kṛṣṇe sakhī-vākyam)
+    Text 226
+  Kṛṣṇa’s Message Sent Through a Gopī-messenger (Śrī Kṛṣṇa-dūtī-vākyam)
+    Text 227
+    Text 228
+  Śrīmatī Rādhārāṇī’s Statement to the Gopī-messenger (Dūtīṁ prati śrī-rādhā-vākyaṁ)
+    Text 229
+  A Gentle-hearted Friend’s Statement to a Gopī Who Has Quarreled With Lord Kṛṣṇa (Kalahāntaritāṁ tāṁ prati dakṣiṇa-sakhī-vākyaṁ)
+    Text 230
+  Harsh Words From a Gopī-friend (Karkaśa-sakhī-vākyaṁ)
+    Text 231
+  Śrīmatī Rādhārāṇī’s Reply (Tāṁ prati śrī-rādhā-vākyaṁ)
+    Text 232
+    Text 233
+    Text 234
+    Text 235
+    Text 236
+  Jealous Words From a Gopī-friend (Sakhyāḥ sābhyasūya-vākyaṁ)
+    Text 237
+  Words of Agitated Rādhārāṇī (Kṣubhita-rādhikoktiḥ)
+    Text 238
+  A Gopī’s Words to Śrīmaṭi Rādhārāṇī, Who Was Meditating on Lord Kṛṣṇa in Separation (Mānaja-viraheṇa dhyāyantīṁ tāṁ prati kasyāścid vākyaṁ)
+    Text 239
+  Śrīmatī Rādhārāṇī’s Reply (Tāṁ prati śrī-rādhā-vākhyaṁ)
+    Text 240
+  Kṛṣṇa’s Feelings of Separation (Kṛṣṇa-virahaḥ)
+    Text 241
+  Rādhā and Kṛṣṇa Become Pleased with Each Other (Śrī Kṛṣṇānunaya-rādhā-prasādanam)
+    Text 242
+  Words of Rādhā’s Gopī-friend to Lord Kṛṣṇa (Śrī Kṛṣṇaṁ prati śrī-rādhā-sakhī-vākyam)
+    Text 243
+    Text 244
+  Narration of Another Day’s Pastimes (Dināntara-vārtā)
+    Text 245
+    Text 246
+    Text 247
+  Words of a Certain Gopī to Śrīmatī Rādhārāṇī, Who Was Searching for Lord Kṛṣṇa On the Pretext of Picking Flowers (Puṣpa-cchalena śrī-kṛṣṇam anveṣayantīṁ śrī-rādhāṁ prati kasyāścid uktiḥ)
+    Text 248
+  Conversation Between Rādhā and Kṛṣṇa on the Yamunā’s Shore (Tatra yamunā-tīre gatayā śrī-rādhayā saha hareḥ śaṅkathā)
+    Text 249
+    Text 250
+  Śrīmatī Rādhārāṇī’s Reply (Tatra śrī-rādhā-vakyaṁ)
+    Text 251
+  The Gopī Who Controls Her Lover (Svādhīna-bhartṛkā)
+    Text 252
+  After Enjoying Transcendental Pastimes, Lord Kṛṣṇa Takes a Nap and Speaks in His Sleep (Krīḍānantaraṁ śrī-kṛṣṇasya svapnāyitam)
+    Text 253
+  Theft of the Flute (Vaṁsī-cauryam)
+    Text 254
+  Śrīmatī Rādhārāṇī’s Words to the Flute (Tāṁ muralīṁ prati śrī-rādhā-vākyam)
+    Text 255
+    Text 256
+  Lord Hari Returns to Vraja Village in the Evening (Sāyaṁ harer vrajāgamanam)
+    Text 257
+  A Certain Gopī’s Words Then (Tatra kasyāścid uktiḥ)
+    Text 258
+    Text 259
+  Śrīmatī Rādhārāṇī’s Good Fortune (Tatraiva śrī-rādhikāyaḥ saubhāgyam)
+    Text 260
+    Text 261
+    Text 262
+  Milking the Cows (Go-dohanam)
+    Text 263
+  Words of Candrāvalī’s Friend to Lord Kṛṣṇa (Śrī Kṛṣṇaṁ prati candrāvalī-sakhī-vakyaṁ)
+    Text 264
+  Lifting Govardhana Hill (Śrī Govardhana-dharaṇam)
+    Text 265
+    Text 266
+    Text 267
+    Text 268
+  Boating Pastimes (Nauka-līlā)
+    Text 269
+    Text 270
+    Text 271
+    Text 272
+    Text 273
+    Text 274
+    Text 275
+    Text 276
+    Text 277
+    Text 278
+    Text 279
+    Text 280
+    Text 281
+  Conversation Between Kṛṣṇa and Rādhā (Rādhayā saha harer vāko-vākyaṁ)
+    Text 282
+    Text 283
+    Text 284
+    Text 285
+  The Rāsa-dance (Rāsa)
+    Text 286
+    Text 287
+    Text 288
+    Text 289
+    Text 290
+  Śrī Kṛṣṇa’s Words (Śrī-Kṛṣṇa-vākyam)
+    Text 291
+    Text 292
+  The Reply of the Goddesses of Vraja (Vraja-devīnām uttaram)
+    Text 293
+    Text 294
+    Text 295
+  Questions of the Gopīs During Śrī Kṛṣṇa’s Disappearance (Śrī Kṛṣṇāntardhāne tāsāṁ praśnaḥ)
+    Text 296
+    Text 297
+  The Words of Śrīmatī Rādhārāṇī’s Friend (Śrī Rādhā-sakhī-vākyam)
+    Text 298
+    Text 299
+  Words of the Demigods Observing the Rāsa Dance From Their Airplanes in the Sky (Tatra khecarāṇām uktiḥ)
+    Text 300
+    Text 301
+  Water Pastimes (Jala-kelī)
+    Text 302
+  Jealous Words from Candrāvalī’s Friend to Rādhārāṇī’s Friend (Śrī Rādhā-sakhīṁ prati candrāvalī-sakhyāḥ sāsūya-vākyam)
+    Text 303
+  Śrīmatī Rādhārāṇī's Friend's Words, Which Contain a Hidden Meaning (Śrī Rādhā-sakhyāḥ sākūta-vākyam)
+    Text 304
+  A Gopī-friend’s Words to Śrīmatī Rādhārāṇī (Gāndharvāṁ prati sakhī-vākyam)
+    Text 305
+    Text 306
+    Text 307
+    Text 308
+    Text 309
+    Text 310
+  One Gopī's Words to Her (Tāṁ prati kasyāścid uktiḥ)
+    Text 311
+  This Gopī's Words to Candrāvalī (Candrāvalīṁ prati tasyā vākyam)
+    Text 312
+  That Gopī Friend’s Words to Candrāvalī’s Husband (Tad-bhartāraṁ prati sakhī-vākyam)
+    Text 313
+  Eternal Pastimes (Nitya-līlā)
+    Text 314
+    Text 315
+    Text 316
+  Words of Śrīmatī Rādhārāṇī's Gopī Friend As In His Manifest Pastimes Kṛṣṇa Is About To Leave for Mathurā City (Prakaṭa-līlānusāreṇa bhāvini harer mathurā-prasthāne rādhā-sakhī-vākyam)
+    Text 317
+  Words of Śrīmatī Rādhārāṇī (Śrī Rādhā-vakyam)
+    Text 318
+  The Eagerness of the Citizens When Lord Kṛṣṇa Entered Mathurā (Harer mathurā-praveśe tatrāyānām autsukyam)
+    Text 319
+  Words of the Women of Mathurā When Lord Kṛṣṇa Entered the City (Tatra pura-strīṇāṁ vākyaṁ)
+    Text 320
+    Text 321
+    Text 322
+  Śrīmatī Rādhārāṇī’s Lament (Śrī Rādhāyā Vilāpaḥ)
+    Text 323
+    Text 324
+    Text 325
+    Text 326
+    Text 327
+    Text 328
+    Text 329
+    Text 330
+    Text 331
+    Text 332
+    Text 333
+    Text 334
+    Text 335
+    Text 336
+    Text 337
+    Text 338
+    Text 339
+    Text 340
+    Text 341
+  Remembering Mother Yaśodā, Śrī Kṛṣṇa Spoke the Following Words in Mathurā City (Mathurāyāṁ yaśodāṁ smṛtvā śrī-kṛṣṇa-vākyam)
+    Text 342
+  Remembering Śrīmatī Rādhārāṇī, Lord Kṛṣṇa Spoke the Following Words (Śrī Rādhā-smṛtyā harer vākyam)
+    Text 343
+  Lord Kṛṣṇa's Words to Uddhava (Uddhavaṁ prati harer vākyam)
+    Text 344
+  Lord Kṛṣṇa's Message to Śrīmatī Rādhārāṇī Delivered by Uddhava (Uddhavena rādhāyāṁ hareḥ sandeśaḥ)
+    Text 345
+    Text 346
+  Uddhava's Words on Arriving in Vṛndāvana (Vṛndāvanaṁ gacchata uddhavasya vākyam)
+    Text 347
+    Text 348
+    Text 349
+    Text 350
+  Uddhava's Words to the Goddesses of Vraja (Vraja-devī-kulaṁ praty uddhava-vākyam)
+    Text 351
+  Śrīmatī Rādhārāṇī's Words to Her Gopī-friend On Seeing Uddhava (Uddhave dṛṣṭe sakhīṁ prati śrī-rādhā-vākyam)
+    Text 352
+  Uddhava's Statement to Śrīmatī Rādhārāṇī (Śrī Rādhāṁ praty uddhava-vākyam)
+    Text 353
+  The Words of Śrīmatī Rādhārāṇī's Gopī-friend to Uddhava (Uddhavaṁ prati rādhā-sakhī-vākyam)
+    Text 354
+    Text 355
+    Text 356
+  A Letter to Kṛṣṇa From Rādhā's Gopī-friend (Rādhā-sakhyā eva kṛṣṇa-sandeśaḥ)
+    Text 357
+    Text 358
+    Text 359
+    Text 360
+    Text 361
+    Text 362
+    Text 363
+    Text 364
+    Text 365
+    Text 366
+    Text 367
+    Text 368
+  Her Words Mixed With Love and Anger (Asyā eva sa-praṇayerṣyaṁ jalpitam)
+    Text 369
+  A Joking Message From the Goddesses of Vraja (Vraja-devīnāṁ sotprāsaḥ sandeśaḥ)
+    Text 370
+  A Very Appropriate Letter (Yathārtha-sandeśaḥ)
+    Text 371
+    Text 372
+  Lord Kṛṣṇa’s Feelings of Separation in Dvārakā (Dvāravatī-sthasya harer virahaḥ)
+    Text 373
+    Text 374
+    Text 375
+    Text 376
+  The Queen of Vṛndāvana’s Words of Separation (Vṛndāvanādhīśvarī-viraha-gītam)
+    Text 377
+  A Letter From the Goddesses of Vraja (Vraja-devīnāṁ sandeśaḥ)
+    Text 378
+    Text 379
+    Text 380
+  Words of Dvārakā's King to Sudāmāa Vipra (Sudāmānaṁ vipraṁ prati dvārakeśvara-vākyam)
+    Text 381
+  Sudāmā's Words on Seeing His Home, Possessions and Family (Sva-gṛhādikaṁ dṛṣṭvā tasya vacanam)
+    Text 382
+  The Queen of Vṛndāvana's Activities at Kurukṣetra (Kurukṣetre śrī-vṛndāvanādhīśvarī-ceṣṭitam)
+    Text 383
+    Text 384
+  Lord Kṛṣṇa Tries to Console Śrīmatī Rādhārāṇī With Sweet Words in a Solitary Place, And She Replies in the Following Way (Rahasy anunayantaṁ kṛṣṇaṁ prati rādhā-vākyam)
+    Text 385
+  Śrīmatī Rādhārāṇī's Words to a Gopī-friend at Kurukṣetra (Tatraiva sakhīṁ prati śrī-rādhā-vacanam)
+    Text 386
+    Text 387
+  Auspicious Conclusion (Samāptau maṅgalācaraṇam)
+    Text 388
+    Text 389
+    Text 390
+    Text 391
+    Text 392

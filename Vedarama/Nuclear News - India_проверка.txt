@@ -1,0 +1,14 @@
+Книга: Nuclear News - India
+Адрес: https://vedarama.com/en/books/nni
+Страниц сайта: 2; заголовков: 3; текстов: 0; картинок: 0
+Глав по MCP: 2
+Букв в исходнике: 5450; в .md: 5450
+Первый заголовок: Nuclear News - India
+Последний заголовок: Exhibition: "India in the Atomic Age"
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Nuclear News - India
+  Activities of the DAE in Rajasthan
+  Exhibition: "India in the Atomic Age"

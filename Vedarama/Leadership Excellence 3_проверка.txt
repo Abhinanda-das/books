@@ -1,0 +1,17 @@
+Книга: Leadership Excellence 3
+Адрес: https://vedarama.com/en/books/le3
+Страниц сайта: 5; заголовков: 6; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 3838; в .md: 3838
+Первый заголовок: Leadership Excellence 3
+Последний заголовок: The Best from the Worst
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leadership Excellence 3
+  Bhakti Vriksa Servant Leaders
+  What is Servant Leadership?
+  Leadership Mini Test
+  Prince
+  The Best from the Worst

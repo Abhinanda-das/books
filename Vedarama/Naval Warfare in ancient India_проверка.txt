@@ -1,0 +1,19 @@
+Книга: Naval Warfare in ancient India
+Адрес: https://vedarama.com/en/books/nwiai
+Страниц сайта: 7; заголовков: 8; текстов: 0; картинок: 0
+Глав по MCP: 7
+Букв в исходнике: 32282; в .md: 32282
+Первый заголовок: Naval Warfare in ancient India
+Последний заголовок: VI - In the Tamil land
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Naval Warfare in ancient India
+  About Book
+  I - Introduction
+  II - Early traces in literature
+  III - From the 4th Century B.C. to the 7th Century A.D.
+  IV - Navy and naval operations in Bengal
+  V - In the Punjab and Sindh
+  VI - In the Tamil land

@@ -1,0 +1,16 @@
+Книга: Leadership Excellence 1
+Адрес: https://vedarama.com/en/books/le1
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 3736; в .md: 3736
+Первый заголовок: Leadership Excellence 1
+Последний заголовок: The Art of Management
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Leadership Excellence 1
+  Editors' Note
+  Leadership Training
+  An Interview with Kalakantha dasa
+  The Art of Management

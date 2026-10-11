@@ -1,0 +1,16 @@
+Книга: Amitayur Dhyana-sutra
+Адрес: https://vedarama.com/en/books/ads
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 48308; в .md: 48308
+Первый заголовок: Amitayur Dhyana-sutra
+Последний заголовок: PART IV
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Amitayur Dhyana-sutra
+  PART I
+  PART II
+  PART III
+  PART IV
