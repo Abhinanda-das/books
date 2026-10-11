@@ -1,0 +1,21 @@
+Книга: Radhikastaka
+Адрес: https://vedarama.com/en/books/rupa-radhikastaka
+Страниц сайта: 9; заголовков: 10; текстов: 9; картинок: 0
+Глав по MCP: 9
+Букв в исходнике: 2967; в .md: 2967
+Первый заголовок: Radhikastaka
+Последний заголовок: Text 9
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Radhikastaka
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9

@@ -1,0 +1,15 @@
+Книга: Rāga Vartma Candrikā
+Адрес: https://vedarama.com/en/books/vct-rvc3
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 30197; в .md: 30197
+Первый заголовок: Rāga Vartma Candrikā
+Последний заголовок: Dvitiya Prakaṣaḥ (Second Diffusion)
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Rāga Vartma Candrikā
+  Rāga Vartma Candrikā
+  Prathama Prakaṣaḥ (First Diffusion)
+  Dvitiya Prakaṣaḥ (Second Diffusion)
