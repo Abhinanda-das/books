@@ -1,0 +1,23 @@
+Книга: Rāmāyaṇa 1
+Адрес: https://vedarama.com/en/books/rama1
+Страниц сайта: 11; заголовков: 12; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 4
+Букв в исходнике: 711339; в .md: 711339
+Первый заголовок: Rāmāyaṇa 1
+Последний заголовок: Uttara-kāṇḍa
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Rāmāyaṇa 1
+  Rāmāyaṇa [Eng]
+  Foreword
+  Introduction
+  Vālmīki Rāmāyaṇa
+  Bala-kāṇḍa
+  Ayodhyā-kāṇḍa
+  Araṇya-kāṇḍa
+  Kiṣkindhyā-kāṇḍa
+  Sundara-kāṇḍa
+  Yuddha-kāṇḍa
+  Uttara-kāṇḍa

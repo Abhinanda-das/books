@@ -1,0 +1,358 @@
+Книга: Rāmāyaṇa 2
+Адрес: https://vedarama.com/en/books/rama2
+Страниц сайта: 343; заголовков: 344; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 5
+Букв в исходнике: 1238238; в .md: 1238238
+Первый заголовок: Rāmāyaṇa 2
+Последний заголовок: Chapter 67 Hanuman Prepares to Jump Across the Ocean
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №77 идёт «Chapter 1 King Dasharatha Decides to Install Rama as Regent».
+  - Разрыв нумерации разделов: после №119 идёт «Chapter 1 Reception of Rama, Lakshmana and Sita by the Sages».
+  - Разрыв нумерации разделов: после №75 идёт «Chapter 1 Sugriva Detects the Presence of Rama».
+
+Оглавление выгрузки:
+Rāmāyaṇa 2
+  Rāmāyaṇa [Eng]
+  Bala-kanda
+  Chapter 1 The Sage Narada Summarizes the Ramayana to Valmiki
+  Chapter 2 How the Ramayana Was Compiled
+  Chapter 3 Valmiki Summarizes the Ramayana
+  Chapter 4 Rama Hears the Ramayana Recited by His Own Sons
+  Chapter 5 Description of the City of Ayodhya
+  Chapter 6 The Prosperity of Ayodhya During King Dasharatha's Reign
+  Chapter 7 The Qualities and Upright Character of the King's Ministers
+  Chapter 8 The King's Proposal to Perform a Horse Sacrifice to Obtain a Son
+  Chapter 9 Conversation Between Dasharatha and Sumantra
+  Chapter 10 How Rishyashringa Was Brought to Anga and Married to Shanta
+  Chapter 11 King Dasharatha Goes to Anga to Bring Back Rishyashringa and Shanta
+  Chapter 12 The King Orders Preparation for the Sacrifice
+  Chapter 13 Vasishtha Prepares for the Sacrifice
+  Chapter 14 King Dasharatha Begins the Sacrifice
+  Chapter 15 Rishyashringa Performs a Sacrifice for King Dasharatha
+  Chapter 16 While Performing Sacrifice, Dasharatha is Approached by Vishnu's Messenger
+  Chapter 17 The Demigods Engender Monkey Warriors
+  Chapter 18 Birth of Rama, Bharata, Lakshmana and Shatrughna
+  Chapter 19 Vishvamitra Asks King Dasharatha for Rama
+  Chapter 20 King Dasharatha Refuses Vishvamitra's Request
+  Chapter 21 Vishvamitra's Anger At Dasharatha's Refusal
+  Chapter 22 Rama and Lakshmana's Departure with Vishvamitra
+  Chapter 23 Passing the Night at the Confluence of the Ganges and Sarayu
+  Chapter 24 History of the Rakshasi Tataka
+  Chapter 25 How Tataka Married Sunda and Gave Birth to Marica
+  Chapter 26 Rama Slays Tataka
+  Chapter 27 Vishvamitra Bestows Divine Weapons to Rama
+  Chapter 28 Vishvamitra Teaches Rama How to Retract the Weapons
+  Chapter 29 The History of Siddhashrama and Their Arrival There
+  Chapter 30 Rama Protects Vishvamitra's Sacrifice
+  Chapter 31 Vishvamitra, Rama and Lakshmana Depart for Mithila
+  Chapter 32 The Story of the Four Sons of Kusha
+  Chapter 33 The Marriage of Kushanabha's Daughters to Brahmadatta
+  Chapter 34 The Birth of Gadhi to Kushanabha
+  Chapter 35 Vishvamitra Narrates the Origin of the Ganges
+  Chapter 36 How Uma Cursed the Demigods and Earth
+  Chapter 37 The Birth of Karttikeya from the Ganges
+  Chapter 38 The Birth of King Sagara's Children
+  Chapter 39 How King Sagara's Sons Divided the Earth
+  Chapter 40 Kapila Destroys the Sons of King Sagara
+  Chapter 41 Amshuman Retrieves the Stolen Horse
+  Chapter 42 Amshuman and His Grandson Practice Austerities
+  Chapter 43 Shiva Catches the Ganges on His Head
+  Chapter 44 King Bhagiratha Offers Ganges' Water to His Ancestors
+  Chapter 45 Churning the Ocean of Milk
+  Chapter 46 Diti Contrives to Kill Indra
+  Chapter 47 How the City of Vishala Was Built
+  Chapter 48 Why Ahalya Was Cursed
+  Chapter 49 Lord Rama Relieves Ahalya of Her Curse
+  Chapter 50 Rama and His Associates Enter Mithila
+  Chapter 51 Shatananda Begins to Relate to Rama the Story of Vishvamitra
+  Chapter 52 Vasishtha Receives King Vishvamitra
+  Chapter 53 Vishvamitra Asks Vasishtha for the Desire Cow
+  Chapter 54 Vishvamitra Forcibly Takes the Desire Cow
+  Chapter 55 Vishvamitra Performs Austerities to Defeat Vasishtha
+  Chapter 56 Vasishtha Defeats Vishvamitra With His Staff
+  Chapter 57 Trishanku's Desire for Bodily Ascension to Heaven
+  Chapter 58 Cursed by Vasishtha's Sons, Trishanku Approaches Vishvamitra
+  Chapter 59 Vishvamitra Agrees to Perform the Sacrifice for Trishanku
+  Chapter 60 The Elevation of Trishanku and Other Feats by Vishvamitra
+  Chapter 61 How Shunahshepa was Taken to be Sacrificed
+  Chapter 62 Shunahshepa Approaches Vishvamitra for Help
+  Chapter 63 Vishvamitra Becomes a Rishi and then a Maharshi
+  Chapter 64 Vishvamitra Curses Rambha
+  Chapter 65 Vishvamitra Attains the Status of a Brahmana
+  Chapter 66 Janaka Related to Rama the Appearance of Sita
+  Chapter 67 Rama Breaks the Bow
+  Chapter 68 King Dasharatha is Informed of the Impending
+  Chapter 69 Dasharatha Proceeds to Mithila for the Wedding
+  Chapter 70 Vasishtha Recounts the Lineage of King Dasharatha
+  Chapter 71 Janaka Recounts His Genealogy
+  Chapter 72 Vasishtha and Vishvamitra Ask for the Hands of Kushadhvaja's Two Daughters for Bharata and Shatrughna
+  Chapter 73 Vasishtha Performs the Marriage Ceremony
+  Chapter 74 The Wedding Party Meets Parashurama
+  Chapter 75 Parashurama Challenges Rama to String Vishnu's Bow
+  Chapter 76 Parashurama Recognizes Rama to be Lord Vishnu
+  Chapter 77 The Return of the Wedding Party to Ayodhya
+  Ayodhya-kanda
+  Chapter 1 King Dasharatha Decides to Install Rama as Regent
+  Chapter 2 King Dasharatha Informs the Assembly of His Desire
+  Chapter 3 Preparations for the Installation
+  Chapter 4 Rama Visits His Mother Kausalya
+  Chapter 5 Vasishtha Visits Rama to Instruct Him about Fasting
+  Chapter 6 The Citizens of Ayodhya Rejoice
+  Chapter 7 Manthara's Rage
+  Chapter 8 Manthara Turns Kaikeyi Against Rama
+  Chapter 9 Kaikeyi Enters the Sulking Chamber
+  Chapter 10 Dasharatha Consoles Kaikeyi in the Sulking Chamber
+  Chapter 11 Kaikeyi Requests his Two Boons
+  Chapter 12 King Dasharatha Tries to Dissuade Kaikeyi
+  Chapter 13 Further Lamentation of King Dasharatha
+  Chapter 14 King Dasharatha Summons Rama
+  Chapter 15 Sumantra's Sudden Return to the Palace
+  Chapter 16 Rama Goes to See King Dasharatha
+  Chapter 17 Rama Enters His Father's Palace
+  Chapter 18 Kaikeyi Informs Rama of His Exile
+  Chapter 19 Rama Agrees to Go to the Forest
+  Chapter 20 Rama Informs Kausalya of His Exile
+  Chapter 21 Rama Defends His Decision to Leave
+  Chapter 22 Rama Attributes His Misfortune to Destiny
+  Chapter 23 Lakshmana Insists that Personal Effort is Greater than Destiny
+  Chapter 24 Rama Instructs Kausalya to Stay
+  Chapter 25 Kausalya Blesses Rama
+  Chapter 26 Rama Informs Sita of His Exile
+  Chapter 27 Sita Requests Rama to Take Her Along
+  Chapter 28 Lord Rama Describes the Hardships of Forest Life
+  Chapter 29 Sita's Reasoning for Accompanying Rama to the Forest
+  Chapter 30 Rama Agrees to Take Sita in Exile
+  Chapter 31 Lakshmana Seeks Permission to Accompany Rama
+  Chapter 32 Sita, Rama and Lakshmana Give Away Their Wealth
+  Chapter 33 Sita, Rama and Lakshmana Go to See King Dasharatha
+  Chapter 34 Rama, Lakshmana and Sita Approach King Dasharatha for Permission to Leave
+  Chapter 35 Sumantra Reproaches Kaikeyi
+  Chapter 36 King Dasharatha Orders His Army to Accompany Rama
+  Chapter 37 Sita, Rama and Lakshmana Done Bark Cloth
+  Chapter 38 King Dasharatha Chastises Kaikeyi Regarding Sita's Plight
+  Chapter 39 Preparations for Exile
+  Chapter 40 The Departure of Rama
+  Chapter 41 The People of Ayodhya Lament Rama's Exile
+  Chapter 42 Kausalya Consoles King Dasharatha
+  Chapter 43 Kausalya Laments Her Misfortune
+  Chapter 44 Sumitra Assuages Kausalya's Grief
+  Chapter 45 The Citizens of Ayodhya Try to Persuade Rama to Return
+  Chapter 46 Rama Sneaks Away at Night
+  Chapter 47 The Citizens Return to Ayodhya
+  Chapter 48 The Women of Ayodhya Lament
+  Chapter 49 Rama Continues Toward the Forest
+  Chapter 50 Rama Meets Guha, King of the Nishadas
+  Chapter 51 Lakshmana Passes the Night Talking with Guha
+  Chapter 52 Rama Sends Sumantra Back and Crosses the Ganges
+  Chapter 53 Rama Tries to Persuade Lakshmana to Return
+  Chapter 54 At the Hermitage of Bharadvaja
+  Chapter 55 Crossing the Yamuna
+  Chapter 56 Arrival at Citrakuta
+  Chapter 57 Sumantra Reaches Ayodhya
+  Chapter 58 Sumantra Delivers Rama's Message
+  Chapter 59 Sumantra Describes the Plight of Kosala
+  Chapter 60 Sumantra Consoles Kausalya
+  Chapter 61 Kausalya Chastises Dasharatha
+  Chapter 62 Dasharatha Begs Kausalya for Forgiveness
+  Chapter 63 Dasharatha Recounts His Misdeed
+  Chapter 64 Dasharatha is Cursed
+  Chapter 65 King Dasharatha Found Dead
+  Chapter 66 Mourning the Death of King Dasharatha
+  Chapter 67 Deliberation of the Future of Ayodhya
+  Chapter 68 Vasishtha Summons Bharata
+  Chapter 69 Bharata's Nightmare
+  Chapter 70 The Message Conveyed to Bharata
+  Chapter 71 Bharata Alarmed at the Sight of Ayodhya
+  Chapter 72 Kaikeyi Informs Bharata of the King's Death
+  Chapter 73 Bharata Rebukes Kaikeyi
+  Chapter 74 Bharata Resolves to Bring Back Rama
+  Chapter 75 Bharata Visits Kausalya
+  Chapter 76 Bharat Cremates the King
+  Chapter 77 Disposing of the King's Ashes
+  Chapter 78 Shatrughna Chastises Manthara
+  Chapter 79 Bharata Decides to Bring Back Rama
+  Chapter 80 The Engineers Construct a Road
+  Chapter 81 The Royal Bards Euligize Bharata
+  Chapter 82 Bharata Refuses to be King
+  Chapter 83 Bharata Reaches the Ganges
+  Chapter 84 Bharata Meets Guha
+  Chapter 85 Bharata Reveals His Mind to Guha
+  Chapter 86 Guha Console Bharata
+  Chapter 87 Guha Relates How Rama Passed the Night
+  Chapter 88 Lakshmana Decides to Become an Ascetic
+  Chapter 89 Bharata's Army Crosses the Ganges
+  Chapter 90 Bharata Meets Bharadvaja
+  Chapter 91 Bharadvaja Entertains Bharata
+  Chapter 92 Bharadvaja Shows Bharata the Way to Citrakuta
+  Chapter 93 Bharata Reaches Citrakuta
+  Chapter 94 Rama Describes Citrakuta to Sita
+  Chapter 95 Rama Describes the Mandakini River
+  Chapter 96 Lakshmana Spies Bharata's Army
+  Chapter 97 Rama Chastises Lakshmana
+  Chapter 98 Bharata Finds Rama's Hut
+  Chapter 99 Bharata Meets Rama
+  Chapter 100 Rama Instructs Bharata
+  Chapter 101 Bharata Requests Rama to Accept the Kingdom
+  Chapter 102 Rama Requested to Perform Funeral Rites
+  Chapter 103 Rama Offers Water to His Deceased Father
+  Chapter 104 Vasishtha, Kausalya and Others See Rama
+  Chapter 105 Bharata Implores Rama to be King
+  Chapter 106 Bharata Vows Not to Return to Ayodhya
+  Chapter 107 Rama's Reasons for not Returning
+  Chapter 108 Jabali's Reasoning
+  Chapter 109 Rama Rejects Jabali's Philosophy
+  Chapter 110 Vasishtha Requests Rama to be King
+  Chapter 111 Bharata Offers to Take Rama's Place
+  Chapter 112 Bharata Receives Rama's Sandals
+  Chapter 113 Bharata Returns to Ayodhya
+  Chapter 114 Ayodhya's Gloomy Appearance
+  Chapter 115 Bharata Retires to Nandigrama
+  Chapter 116 The Ascetics Abandon Citrakuta
+  Chapter 117 Rama Meets the Sage Atri
+  Chapter 118 Anasuya's Gifts to Sita
+  Chapter 119 Entering the Heart of the Dandaka Forest
+  Aranya-kanda
+  Chapter 1 Reception of Rama, Lakshmana and Sita by the Sages
+  Chapter 2 The Demon Viradha attacks Rama, Lakshmana and Sita
+  Chapter 3 Rama and Lakshmana Attack Viradha
+  Chapter 4 Rama and Lakshmana Kill Viradha
+  Chapter 5 Rama, Lakshmana and Sita Visit the Sage Sharabhanga
+  Chapter 6 The Sages Request Rama for Protection From Rakshasas
+  Chapter 7 Rama Reaches Sutikshna's Hermitage
+  Chapter 8 Rama, Lakshmana and Sita Take Leave of Sutikshna
+  Chapter 9 Sita Requests Rama to Practice Nonviolence
+  Chapter 10 Rama Reiterates His Commitment to Protect the Sages
+  Chapter 11 The Story of the Sage Mandakarni at Pancapsara Lake
+  Chapter 12 Rama and the Others Enter Agastya's Hermitage
+  Chapter 13 Rama's Meeting with Agastya
+  Chapter 14 Rama Meets Jatayu
+  Chapter 15 Constructing a Cottage at Pancavati
+  Chapter 16 Winter at Pancavati
+  Chapter 17 Shurpanakha Arrives at the Cottage
+  Chapter 18 Lakshmana Defigures Shurpanakha
+  Chapter 19 Shurpanakha Appraises Khara of the Situation
+  Chapter 20 Rama Kills the Fourteen Rakshasas
+  Chapter 21 Khara Desires to Fight with Rama
+  Chapter 22 The Rakshasa Army Approaches Pancavati
+  Chapter 23 Khara Reaches Rama's Cottage
+  Chapter 24 Rama Sees Good Omens
+  Chapter 25 Khara's Army Attacks Rama
+  Chapter 26 Rama Slays the Remaining Rakshasas and Dushana
+  Chapter 27 Rama Slays Trishira
+  Chapter 28 Rama Fights with Khara
+  Chapter 29 Rama and Khara Exchange Insults
+  Chapter 30 Rama Kills Khara
+  Chapter 31 Ravana Informed about the death of Khara and Others
+  Chapter 32 Shurpanakha Approaches Ravana
+  Chapter 33 Shurpanakha Chides Ravana
+  Chapter 34 Shurpanakha Induces Ravana to Kidnap Sita
+  Chapter 35 Ravana Visits Marica
+  Chapter 36 Ravana Asks for Marica's Help
+  Chapter 37 Marica Tries to Dissuade Ravana
+  Chapter 38 Marica Narrates His Encounter with Rama
+  Chapter 39 Marica Continues Trying to Dissuade Ravana
+  Chapter 40 Ravana Chastises Marica
+  Chapter 41 Marica Further Advises Ravana
+  Chapter 42 Marica Assumes the Form of a Golden Deer
+  Chapter 43 Rama Pursues the Stag
+  Chapter 44 Rama Kills Marica
+  Chapter 45 Lakshmana Leaves Sita to Help Rama
+  Chapter 46 Ravana Approaches Sita to Abduct Her
+  Chapter 47 Sita Tells Ravana About Herself
+  Chapter 48 Ravana Boasts About Himself to Sita
+  Chapter 49 Ravana Kidnaps Sita
+  Chapter 50 Jatayu Challenges Ravana
+  Chapter 51 Ravana Kills Jatayu
+  Chapter 52 Ravana Abducts Sita
+  Chapter 53 Sita Chastises Ravana
+  Chapter 54 Ravana Takes Sita to Lanka
+  Chapter 55 Ravana Shows Sita His Palace
+  Chapter 56 Ravana Sends Sita to the Ashoka Garden
+  Chapter 57 As He Returns, Rama Meets Lakshmana
+  Chapter 58 Rama and Lakshmana Reach the Cottage
+  Chapter 59 Discussion Between Rama and Lakshmana
+  Chapter 60 Rama Asks the Trees About Sita
+  Chapter 61 Rama Continues Looking for Sita
+  Chapter 62 Rama Laments for Sita
+  Chapter 63 Rama Continues to Lament for Sita
+  Chapter 64 Rama Finds Traces of Sita
+  Chapter 65 Lakshmana Consoles Rama
+  Chapter 66 Lakshmana Further Consoles Rama
+  Chapter 67 Rama and Laksmana Find Jatayu
+  Chapter 68 Jatayu Expires
+  Chapter 69 Lakshmana Disfigures Ayomukhi
+  Chapter 70 Rama and Lakshmana Defeat Kabandha
+  Chapter 71 Kabandha Tells His History
+  Chapter 72 Kabandha Tells Rama to Meet Sugriva
+  Chapter 73 Kabandha Shows Rama the Way to Rishyamuka Mountain
+  Chapter 74 Rama and Lakshmana Meet Shabari
+  Chapter 75 Rama and Lakshmana Go to the Shore of Lake Pampa
+  Kishkindha-Kanda
+  Chapter 1 Sugriva Detects the Presence of Rama
+  Chapter 2 Sugriva Sends Hanuman to Meet Rama
+  Chapter 3 Hanuman Meets Rama and Lakshmana
+  Chapter 4 Hanuman Inquires from Rama about His Visit
+  Chapter 5 Rama and Sugriva Become Friends
+  Chapter 6 Sugriva Shows Sita's Veil and Jewelry
+  Chapter 7 Sugriva Consoles Rama
+  Chapter 8 Sugriva Relates His Problem with Vali
+  Chapter 9 The Story of Sugriva's Exile
+  Chapter 10 Vali's Undue Anger Toward Sugriva
+  Chapter 11 Sugriva Tests Rama's Strength
+  Chapter 12 Rama's Pierces the Seven Sala Trees
+  Chapter 13 Rama Visits the Hermitage of the Saptajanas
+  Chapter 14 Sugriva Again Challenges Vali
+  Chapter 15 Vali's Wife Begs Him Not to Fight
+  Chapter 16 Vali Goes Out to Fight Sugriva
+  Chapter 17 Vali Criticizes Rama
+  Chapter 18 Vali Begs Rama's Forgiveness
+  Chapter 19 Tara Rushes to the Side of Her Dying Husband
+  Chapter 20 Tara Intends to Fast Until Death
+  Chapter 21 Hanuman Consoles Tara
+  Chapter 22 Vali Dies
+  Chapter 23 Tara Laments for Her Dead Husband
+  Chapter 24 Tara Wants to be Cremated with Vali
+  Chapter 25 The Cremation of Vali
+  Chapter 26 Rama Gives Instructions for the Consecration of Sugriva
+  Chapter 27 Rama Resides in a Cave on Mount Prasravana
+  Chapter 28 Rama Describes the Rainy Season
+  Chapter 29 Hanuman Urges Sugriva to Search for Sita
+  Chapter 30 Rama Sends Lakshmana to Remind Sugriva
+  Chapter 31 Lakshmana Angrily Goes to Kishkindha
+  Chapter 32 Hanuman Addresses Sugriva
+  Chapter 33 Lakshmana Enters Kishkindha
+  Chapter 34 Lakshmana Admonishes Sugriva
+  Chapter 35 Tara Pacifies Lakshmana
+  Chapter 36 Sugriva Begs Lakshmana for Forgiveness
+  Chapter 37 Monkey Warriors Assemble at Kishkindha
+  Chapter 38 Sugriva Goes to Placate Rama
+  Chapter 39 Arrival of the Monkey Hordes
+  Chapter 40 Sugriva Sends Vinata to the East
+  Chapter 41 Sugriva Sends Hanuman, Nila &amp; Angada to the South
+  Chapter 42 Sugriva Sends Sushena and Others to the West
+  Chapter 43 Sugriva Sends Shatabali and Others to the North
+  Chapter 44 Rama Gives His Signet Ring to Hanuman
+  Chapter 45 The Monkeys Depart in Search of Sita
+  Chapter 46 Sugriva Explains How He Learned Geography
+  Chapter 47 The Monkeys Fail to Find Sita
+  Chapter 48 The Monkeys Explore the Vindhya Mountains
+  Chapter 49 The Monkeys Search the Silver Mountain
+  Chapter 50 The Monkeys Meet the Ascetic Woman Svayamprabha
+  Chapter 51 Svayamprabha Relates the History of the Cave
+  Chapter 52 Hanuman Explains His mission to Svayamprabha
+  Chapter 53 Svayamprabha Delivers the Monkeys from the Cave
+  Chapter 54 Hanuman Warns the Monkeys to Return to Kishkindha
+  Chapter 55 The Monkeys Again Decide to Fast Until Death
+  Chapter 56 Sampati Swoops Down to Devour the Monkeys
+  Chapter 57 Angada Narrates the Story of Rama to Sampati
+  Chapter 58 Sampati Narrates his History
+  Chapter 59 Sampati Explains his Knowledge of Sita's Abduction
+  Chapter 60 Sampati's Meeting with the Sage Nishakara
+  Chapter 61 Sampati's Explains His Mishap
+  Chapter 62 The Sage Nishakara's Prediction About Sampati
+  Chapter 63 Sampati Receives New Wings
+  Chapter 64 The Monkeys Dispirited on Seeing the Ocean
+  Chapter 65 The Monkeys Proclaim Their Jumping Skills
+  Chapter 66 Hanuman Requested to Jump Across the Ocean
+  Chapter 67 Hanuman Prepares to Jump Across the Ocean
