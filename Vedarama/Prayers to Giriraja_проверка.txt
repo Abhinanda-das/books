@@ -1,0 +1,15 @@
+Книга: Prayers to Giriraja
+Адрес: https://vedarama.com/en/books/pog
+Страниц сайта: 3; заголовков: 4; текстов: 2; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 958; в .md: 958
+Первый заголовок: Prayers to Giriraja
+Последний заголовок: Text 15
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Prayers to Giriraja
+  Prayers to Giriraja
+    Text 14
+    Text 15
