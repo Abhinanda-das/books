@@ -1,0 +1,13 @@
+Книга: Quantum Theory and Evolution
+Адрес: https://vedarama.com/en/books/ad-qte
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 9811; в .md: 9811
+Первый заголовок: Quantum Theory and Evolution
+Последний заголовок: Quantum Theory and Evolution
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Quantum Theory and Evolution
+  Quantum Theory and Evolution

@@ -1,0 +1,47 @@
+Книга: Purusa-sukta with the Commentary of Saunaka
+Адрес: https://vedarama.com/en/books/ps123
+Страниц сайта: 34; заголовков: 35; текстов: 31; картинок: 0
+Глав по MCP: 19
+Букв в исходнике: 83819; в .md: 83819
+Первый заголовок: Purusa-sukta with the Commentary of Saunaka
+Последний заголовок: 69
+
+ЗАМЕЧАНИЯ:
+  - Пропуск/сбой нумерации: после «16» идёт «54-55».
+
+Оглавление выгрузки:
+Purusa-sukta with the Commentary of Saunaka
+  Purusa-sukta
+  Introduction
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+  The Purusa-sukta rendered in Visnu Рuranа
+    54-55
+    56
+    57
+    58
+    59
+    60
+    61
+    62
+    63
+    64
+    65
+    66
+    67
+    68
+    69
