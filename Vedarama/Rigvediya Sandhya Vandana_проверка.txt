@@ -1,0 +1,16 @@
+Книга: Rigvediya Sandhya Vandana
+Адрес: https://vedarama.com/en/books/rvsv
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 38979; в .md: 38979
+Первый заголовок: Rigvediya Sandhya Vandana
+Последний заголовок: Preparation
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Rigvediya Sandhya Vandana
+  Rigvediya Sandhya Vandana
+  Introduction
+  Brahmanas
+  Preparation

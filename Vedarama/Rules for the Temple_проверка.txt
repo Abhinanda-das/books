@@ -1,0 +1,13 @@
+Книга: Rules for the Temple
+Адрес: https://vedarama.com/en/books/bst-rules-temple
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 5801; в .md: 5801
+Первый заголовок: Rules for the Temple
+Последний заголовок: Rules for the Temple
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Rules for the Temple
+  Rules for the Temple

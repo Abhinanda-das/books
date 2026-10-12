@@ -1,0 +1,22 @@
+Книга: Rūpa-cintāmaṇi
+Адрес: https://vedarama.com/en/books/vct-rupa-cintamani
+Страниц сайта: 10; заголовков: 11; текстов: 9; картинок: 0
+Глав по MCP: 10
+Букв в исходнике: 17701; в .md: 17701
+Первый заголовок: Rūpa-cintāmaṇi
+Последний заголовок: Text 32
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Rūpa-cintāmaṇi
+  <strong>The Cintāmaṇi Jewel of Beauty</strong>
+    Text 1
+    Text 2
+    Text 3-4
+    Text 5-10
+    Text 11-16
+    Text 17
+    Text 18-25
+    Text 26-31
+    Text 32
