@@ -1,0 +1,341 @@
+Книга: Songs of the Vaisnava Acaryas
+Адрес: https://vedarama.com/en/books/sotva
+Страниц сайта: 281; заголовков: 282; текстов: 0; картинок: 0
+Глав по MCP: 42
+Букв в исходнике: 253035; в .md: 253035
+Первый заголовок: Songs of the Vaisnava Acaryas
+Последний заголовок: Song 2 (Kedara-raga)
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №4 идёт «Song 1 (Gāndhāra-rāga)».
+  - Разрыв нумерации разделов: после №10 идёт «Song 1 (Dhānaśī-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Gaurī-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Tuḍi-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Pāhiḍā-rāga)».
+  - Разрыв нумерации разделов: после №3 идёт «Song 1 (Gāndhāra-rāga)».
+  - Разрыв нумерации разделов: после №6 идёт «Song 1 (Dhanaśī-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Suha-i-rāga)».
+  - Разрыв нумерации разделов: после №24 идёт «Song 1 (Kāmoda-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Suha-i-rāga)».
+  - Разрыв нумерации разделов: после №2 идёт «Song 1 (Sri-rāga)».
+  - Разрыв нумерации разделов: после №5 идёт «Song 1 (Bhāṭiyāri-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Dhanaśī-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Beloyāra-rāga)».
+  - Разрыв нумерации разделов: после №2 идёт «Song 1 (Suha-i-rāga)».
+  - Разрыв нумерации разделов: после №2 идёт «Song 1 (Śrī-rāga)».
+  - Разрыв нумерации разделов: после №10 идёт «Song 8 (Kalyāṇa-rāga)».
+  - Разрыв нумерации разделов: после №8 идёт «Song 1 (Kāmoda-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Śrī-rāga)».
+  - Разрыв нумерации разделов: после №6 идёт «Song 1 (Suha-i-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Bālā-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Bibhāsa-rāga, Daśakuśi)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Māyūra-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Pahiḍā-rāga)».
+  - Разрыв нумерации разделов: после №2 идёт «Song 1 (Kāmoda-rāga)».
+  - Разрыв нумерации разделов: после №56 идёт «Song 1 (Bibhāṣa-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 5 (Gāndhāra-rāga)».
+  - Разрыв нумерации разделов: после №5 идёт «Song 21 (Bibhāsa-rāga)».
+  - Разрыв нумерации разделов: после №21 идёт «Song 1 (Kedāra-rāga or Maṅgala-rāga)».
+  - Разрыв нумерации разделов: после №7 идёт «Song 1 (Gaurī-rāga)».
+  - Разрыв нумерации разделов: после №4 идёт «Song 1 (Barāḍī-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Dhānaśī-rāga)».
+  - Разрыв нумерации разделов: после №2 идёт «Song 1 (Dhānaśī-rāga)».
+  - Разрыв нумерации разделов: после №2 идёт «Song 1 (Suha-i-rāga)».
+  - Разрыв нумерации разделов: после №4 идёт «Song 1 (Dhānaśrī-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Dhanaśī-rāga or Kāmoda-rāga)».
+  - Разрыв нумерации разделов: после №4 идёт «Song 1 (Beloyāra-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Bibhāsa-rāga)».
+  - Разрыв нумерации разделов: после №3 идёт «Song 1 (Gāndhāra-rāga)».
+  - Разрыв нумерации разделов: после №8 идёт «Song 1 (Suha-i-rāga)».
+  - Разрыв нумерации разделов: после №2 идёт «Song 1 (Dhanaśī-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Tudi-raga or Karuna-raga)».
+  - Разрыв нумерации разделов: после №25 идёт «Song 35 (Suha-i or Decaga-raga)».
+  - Разрыв нумерации разделов: после №36 идёт «Song 1 Śri Gauracandrasya (of Lord Gauracandra) (Suha-i Decaga-raga)».
+  - Разрыв нумерации разделов: после №7 идёт «Song 24 (Baradi-raga)».
+  - Разрыв нумерации разделов: после №24 идёт «Song 1 (Maṇgala-rāga)».
+  - Разрыв нумерации разделов: после №1 идёт «Song 1 (Śrī-rāga)».
+  - Разрыв нумерации разделов: после №4 идёт «Song 1 (Dhanasi-raga)».
+
+Оглавление выгрузки:
+Songs of the Vaisnava Acaryas
+  Ananta Acārya
+  Song 1 (Śrī-rāga)
+  Song 2 (Maṅgala-rāga)
+  Song 3 (Suha-i-rāga)
+  Song 4 (Dhānaśrī-rāga)
+  Balarāma dāsa
+  Song 1 (Gāndhāra-rāga)
+  Song 2 (Kedāra-rāga)
+  Song 3 (Sindhuḍā-rāga)
+  Song 4 (Kāmoda-rāga)
+  Song 5 (Bhāṭiyāri-rāga)
+  Song 6 (Kāmoda-rāga)
+  Song 7 (Rāmakeli-rāga)
+  Song 8 (Śrī-rāga)
+  Song 9 (Beloyāra-rāga)
+  Song 10 (Śrī-rāga)
+  Caitanya dāsa
+  Song 1 (Dhānaśī-rāga)
+  Devakīnandana dāsa
+  Song 1 (Gaurī-rāga)
+  Dina Krsna dāsa
+  Song 1 (Tuḍi-rāga)
+  Govinda Ghoṣa
+  Song 1 (Pāhiḍā-rāga)
+  Song 2 (Sindhuḍā-rāga)
+  Song 3 (-rāga)
+  Ghanaśyāma dāsa
+  Song 1 (Gāndhāra-rāga)
+  Song 2 (Basanta-rāga)
+  Song 3 (Basanta-rāga)
+  Song 4 (Dhānaśī-rāga)
+  Song 5 (Kāmoda-rāga)
+  Song 6 (Kāmoda-rāga)
+  Gopāla dāsa
+  Song 1 (Dhanaśī-rāga)
+  Govinda dāsa
+  Song 1 (Suha-i-rāga)
+  Song 2 (Pāhiḍā-rāga)
+  Song 3 (Sindhuḍā-rāga)
+  Song 4 (Sindhuḍā-rāga or Vasanta-rāga)
+  Song 5 (Bhāṭiyāri-rāga)
+  Song 6 (Suha-i-rāga)
+  Song 7 (Kedāra-rāga)
+  Song 8 (Śrī-rāga)
+  Song 9 (Gāndhāra-rāga)
+  Song 10 (Beloyāra-rāga and Kandarpa-tāla)
+  Song 11 (Sāraṅga-rāga)
+  Song 12 (Kāmoda-rāga)
+  Song 13 (Bibhāsa-rāga)
+  Song 14 (Tori-rāga)
+  Song 15 (Kānāḍā-rāga)
+  Song 16 (Beloyāra-rāga)
+  Song 17 (Torī-rāga)
+  Song 18 (Śrī-rāga)
+  Song 19 (Śrī-rāga)
+  Song 20 (Śrī-rāga Daśakuśi)
+  Song 21 (Bairabī-rāga)
+  Song 22 (Bhairabī-rāga)
+  Song 23 (Bhairabī-rāga)
+  Song 24 (Dhānaśī-rāga)
+  Song
+  Hari dāsa
+  Song 1 (Kāmoda-rāga)
+  Hari-vallabha dāsa
+  Song 1 (Suha-i-rāga)
+  Song 2 (Śrī-rāga)
+  Jagadānanda
+  Song 1 (Sri-rāga)
+  Song 2 (Dhanaśī-rāga)
+  Song 3 (Dhanaśī-rāga)
+  Song 4 (Kāmoda-rāga, Kandarpa-tāla)
+  Song 5 (Śrī-rāga)
+  Jagannātha dāsa
+  Song 1 (Bhāṭiyāri-rāga)
+  Jaya dasa
+  Song 1 (Dhanaśī-rāga)
+  Jñāna dāsa
+  Song 1 (Beloyāra-rāga)
+  Song 2 (Dhānaśrī-rāga)
+  Kānu dāsa
+  Song 1 (Suha-i-rāga)
+  Song 2 (Barāḍī-rāga)
+  Kṛṣṇa dāsa
+  Song 1 (Śrī-rāga)
+  Song 2 (Dhanaśī-rāga)
+  Song 3 (Suha-i-rāga)
+  Song 4 (Dhānaśī-rāga)
+  Song 5 (Suha-i-rāga)
+  Song 6 (Suha-i-rāga)
+  Song 7 (Dhānaśī-rāga)
+  Song 8 (Bhairaba-rāga, Eka-tāla)
+  Song 9 (Barāḍī-rāga)
+  Song 10 (Suha-i-rāga)
+  Song 8 (Kalyāṇa-rāga)
+  Lakṣmīkānta dāsa
+  Song 1 (Kāmoda-rāga)
+  Locana dāsa
+  Song 1 (Śrī-rāga)
+  Song 2 (Dhānaśī-rāga)
+  Song 3 (Bibhāsa-rāga or Tuḍī-rāga)
+  Song 4 (Dhānaśī-rāga)
+  Song 5 (Dhānaśī-rāga)
+  Song 6 (Dhānaśī-rāga)
+  Madhava dasa
+  Song 1 (Suha-i-rāga)
+  Mādhavī dāsa
+  Song 1 (Bālā-rāga)
+  Manamatha dāsa
+  Song 1 (Bibhāsa-rāga, Daśakuśi)
+  Mādhava Ghoṣa
+  Song 1 (Māyūra-rāga)
+  Murāri
+  Song 1 (Pahiḍā-rāga)
+  Song 2 (Kāmoda-rāga)
+  Narahari dāsa
+  Song 1 (Kāmoda-rāga)
+  Song 2 (Barāḍī-rāga)
+  Song 3 (Dhānaśī-rāga)
+  Song 4 (Bibhāsa-rāga)
+  Song 5 (Pada-rāga)
+  Song 6 (Kāmoda-rāga)
+  Song 7 (Basanta-rāga)
+  Song 8 (Basanta-rāga or Toḍi-rāga)
+  Song 9 (Kāmoda-rāga)
+  Song 10 (Tuḍī-rāga)
+  Song 11 (Tuḍī-rāga)
+  Song 12 (Bibhāsa-rāga)
+  Song 13 (Bibhāsa-rāga)
+  Song 14 (Bibhāsa-rāga)
+  Song 15 (Bibhāsa-rāga)
+  Song 16 (Bibhāsa-rāga)
+  Song 17 (Bibhāsa-rāga)
+  Song 18 (Bibhāsa-rāga)
+  Song 19 (Bibhāsa-rāga)
+  Song 20 (Bibhāsa-rāga)
+  Song 21 (Tuḍī-rāga)
+  Song 22 (Kāmoda-rāga)
+  Song 23 (Maṅgala-rāga)
+  Song 24 (Kāmoda-rāga)
+  Song 25 (Suha-i-rāga)
+  Song 26 (Kāmoda-rāga)
+  Song 27 (Dhānaśī-rāga)
+  Song 28 (Dhānaśī-rāga)
+  Song 29 (Kāmoda-rāga)
+  Song 30 (Dhānaśī-rāga)
+  Song 31 (Kāmoda-rāga)
+  Song 32 (Kāmoda-rāga)
+  Song 33 (Kāmoda-rāga)
+  Song 34 (Kāmoda-rāga)
+  Song 35 (Bhūpālī-rāga)
+  Song 36 (Bhūpālī-rāga)
+  Song 37 (Kāmoda-rāga)
+  Song 38 (Bhūpālī-rāga)
+  Song 39 (Toḍi-rāga)
+  Song 40 (Toḍi-rāga)
+  Song 41 (Kāmoda-rāga)
+  Song 42 (Kāmoda-rāga)
+  Song 43 (Kāmoda-rāga)
+  Song 44 (Tuḍī-rāga)
+  Song 45 (Tuḍī-rāga)
+  Song 46 (Tuḍī-rāga)
+  Song 47 (Tuḍī-rāga)
+  Song 48 (Tuḍī-rāga)
+  Song 49 (Tuḍī-rāga)
+  Song 50 (Tuḍī-rāga)
+  Song 51 (Tuḍī-rāga)
+  Song 52 (Tuḍī-rāga)
+  Song 53 (Tuḍī-rāga)
+  Song 54 (Tuḍī-rāga)
+  Song 55 (Karṇāṭa-rāga)
+  Song 56 (Suha-i-rāga or Māyūra-rāga).
+  Song 1 (Bibhāṣa-rāga)
+  Song 5 (Gāndhāra-rāga)
+  Song 21 (Bibhāsa-rāga)
+  Nayanānanda dāsa
+  Song 1 (Kedāra-rāga or Maṅgala-rāga)
+  Song 2 (Paṭha-maṇjarī-rāga)
+  Song 3 (Dhānaśī-rāga)
+  Song 4 (Dhānaśī-rāga)
+  Song 5 (Bālā-rāga or Dhānaśī-rāga)
+  Song 6 (Suha-i-rāga)
+  Song 7 (Dhānaśrī-rāga)
+  Paramānanda dāsa
+  Song 1 (Gaurī-rāga)
+  Song 2 (Kāmoda-rāga)
+  Song 3 (Suha-i-rāga)
+  Song 4 (Bibhāsa-rāga)
+  Prasāda dāsa
+  Song 1 (Barāḍī-rāga)
+  Prema dāsa
+  Song 1 (Dhānaśī-rāga)
+  Song 2 (Suha-i-rāga)
+  Premānanda dāsa
+  Song 1 (Dhānaśī-rāga)
+  Song 2 (Dhānaśī-rāga)
+  Rādhā-mohana
+  Song 1 (Suha-i-rāga)
+  Song 2 (Suha-i-rāga)
+  Song 3 (Bibhāsa-rāga)
+  Song 4 (Bhairabī-rāga)
+  Rāmakānta dāsa
+  Song 1 (Dhānaśrī-rāga)
+  Rāmānanda
+  Song 1 (Dhanaśī-rāga or Kāmoda-rāga)
+  Song 2 (Barāḍī-rāga)
+  Song 3 (Gāndhāra-rāga)
+  Song 4 (Tuḍī-rāga)
+  Śaṅkara Ghoṣa
+  Song 1 (Beloyāra-rāga)
+  Saṅkarṣaṇa dāsa
+  Song 1 (Bibhāsa-rāga)
+  Song 2 (Bibhāsa-rāga or Lophā-rāga)
+  Song 3 (Bibhāsa-rāga or Te-oṭa-rāga))
+  Śekhara dāsa
+  Song 1 (Gāndhāra-rāga)
+  Song 2 (Dhānaśī-rāga)
+  Song 3 (Tuḍī-rāga)
+  Song 4 (Tuḍī-rāga)
+  Song 5 (Kānaḍa-rāga)
+  Song 6 (Karunā-rāga or Kāmoda-rāga)
+  Song 7 (Kāmoda-rāga)
+  Song 8 (Kāmoda-rāga)
+  Śivānanda
+  Song 1 (Suha-i-rāga)
+  Song 2 (Maṅgala-rāga)
+  Uddshava dāsa
+  Song 1 (Dhanaśī-rāga)
+  Vasudeva Ghosa
+  Lord Gaura Descends to This World
+  Song 1 (Tudi-raga or Karuna-raga)
+  Song 2 (Kalyana-raga)
+  Lord Gaura's Childhood Pastimes
+  Song 3 (Suhai-raga)
+  Song 4 (Tudi-raga)
+  Song 5 (Beloyara-raga, Dasakosi)
+  Song 6 (Beloyara-raga, Dasakosi)
+  Song 7 (Beloyara-raga, Dasakosi)
+  Song 8 (Beloyara-raga, Dasakosi)
+  Song 9 (Beloyara-raga, Dasakosi)
+  Song 10 (Beloyara-raga, Dasakosi)
+  Lord Gaura's Glories
+  Song 11 (Mallara-raga)
+  Song 12 (Suha-i-raga or Gandhara-raga)
+  Song 13 (Suha-i-raga)
+  Song 14 (Kamoda-raga)
+  Song 15 (Śri-raga)
+  Song 16 (Sindhuda-raga)
+  Song 17 (Sindhuda-raga)
+  The Abhiseka of Lord Gaura
+  Song 18
+  Song 19 (Dhanasi-raga)
+  Song 20 (Baradi-raga)
+  Chanting Radha's Name
+  Song 21 (Jayajayanti-raga)
+  Lord Gaura's Glorious Form
+  Song 22 (Baradi-raga)
+  Song 23 (Baradi-raga)
+  Song 24 (Tirota-raga)
+  Song 25 (Baradi-raga)
+  Song 35 (Suha-i or Decaga-raga)
+  Song 36 (Dhanasri-raga)
+  Śri Gauracandrasya
+  Song 1 Śri Gauracandrasya (of Lord Gauracandra) (Suha-i Decaga-raga)
+  Song 2 Śri Gauracandrasya (of Lord Gauracandra) (Baradi-raga)
+  Song 3 Śri Gauracandrasya (of Lord Gauracandra) (Pahida-raga)
+  Song 4 Śri Gauracandrasya (of Lord Gauracandra) (Suha-i-raga or Gandhara-raga)
+  Song 5 Śri Nityanandacandrasya (of Lord Nityanandacandra) (Bala-raga or Suha-i-raga)
+  Song 6 Śri Nityanandacandrasya (of Lord Nityanandacandra) (Sindhuda-raga)
+  Song 7 Śri Gauracandrasya (of Lord Gauracandra) (Kamoda-raga)
+  Song (Tori-raga)
+  Song 24 (Baradi-raga)
+  Vijayānanda dāsa
+  Song 1 (Maṇgala-rāga)
+  Vṛndāvana dāsa
+  Song 1 (Śrī-rāga)
+  Song 2 (Dhānaśī-rāga)
+  Song 3 (Bhāṭiyāri-rāga)
+  Song 4 (Suha-i-rāga)
+  Yadunatha dasa
+  Song 1 (Dhanasi-raga)
+  Song 2 (Kedara-raga)

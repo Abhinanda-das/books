@@ -1,0 +1,47 @@
+Книга: Songs of Narahari Chakravartī Ṭhākura
+Адрес: https://vedarama.com/en/books/nct-songs
+Страниц сайта: 34; заголовков: 35; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 3
+Букв в исходнике: 34333; в .md: 34333
+Первый заголовок: Songs of Narahari Chakravartī Ṭhākura
+Последний заголовок: Song 11 (Kāmoda-rāga)
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №3 идёт «Song 9 (Soma-rāga)».
+
+Оглавление выгрузки:
+Songs of Narahari Chakravartī Ṭhākura
+  Songs of Narahari Chakravartī Ṭhākura [Bengali &amp; English]
+  Section 1.
+  1865-1868. Song in Soma-rāga
+  1907-1908. Song in Deśapāla-rāga
+  1921-1928. Song in Dhānaśī-rāga
+  1945-1948. Song in Belābalī-rāga
+  1964-1967. Song in Ghaṇṭāraba-rāga
+  2437-2440. Song in Māyūra-rāga
+  2761-2764. Song in Debakiri-rāga
+  2765-2768. Song in Megha-mallāra-rāga
+  2773-2776. Song in Naṭa-Nārāyaṇa-rāga
+  2779-2782. Song in Naṭa-rāga
+  2783-2790. Song in Naṭī-rāga
+  2795-2800. Song in Barāṭi-rāga or Dhānaśī-rāga
+  3381-3386. Song in Kāmoda-rāga
+  3387-3390. Song in Kāmoda-rāga
+  3391-3396. Song in Megha-rāga
+  3430-3435. Song in Suha-i-rāga
+  3632-3635. Song in Dhānaśī-rāga
+  3658-3661. Song in Aśābarī-rāga
+  3680-3687. Song in Dhānaśī-rāga
+  3698-3701. Song in Dhānaśī-rāga
+  3706-3711. Song in Kāmoda-rāga
+  3712-3717. Song in Dhānaśī-rāga
+  3731-3734. Song in Gāndhāra-rāga
+  3953-3956. Song in Belābalī-rāga or Maṅgala-rāga
+  <strong>3965-3968. Song in Bhūpālī-rāga</strong>
+  3973-3976. Song in Deśapāla-rāga
+  4018-4021. Song in Kāmoda-rāga
+  Section 2.
+  Song 3 (Beloyāra-rāga)
+  Song 9 (Soma-rāga)
+  Song 10 (Deśapāla-rāga)
+  Song 11 (Kāmoda-rāga)
