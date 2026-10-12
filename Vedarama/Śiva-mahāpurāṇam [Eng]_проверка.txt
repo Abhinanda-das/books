@@ -1,0 +1,502 @@
+Книга: Śiva-mahāpurāṇam [Eng]
+Адрес: https://vedarama.com/en/books/smp
+Страниц сайта: 476; заголовков: 477; текстов: 0; картинок: 0
+Глав по MCP: 13
+Букв в исходнике: 2735137; в .md: 2735137
+Первый заголовок: Śiva-mahāpurāṇam [Eng]
+Последний заголовок: Chapter 41 - Glory of the Siva Purana
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №7 идёт «Chapter 1 - Discussion on Sadhya and Sadhana».
+  - Разрыв нумерации разделов: после №25 идёт «Chapter 1 - Question by the Sages».
+  - Разрыв нумерации разделов: после №20 идёт «Chapter 1 - Brief Story of Sati».
+  - Разрыв нумерации разделов: после №43 идёт «Chapter 1 - Marriage of Himalaya».
+  - Разрыв нумерации разделов: после №55 идёт «Chapter 1 - Love sports of Siva and Parvati».
+  - Разрыв нумерации разделов: после №20 идёт «Chapter 1 - The demon Tripurasura».
+  - Разрыв нумерации разделов: после №40 идёт «Chapter 42 - Slaying of Hiranyaksa».
+  - Разрыв нумерации разделов: после №59 идёт «Chapter 1 - Saunaka describes the difference in Sadyojat Vamadeva, Tatpurusa, Adyoresa and Isan forms of Siva».
+  - Разрыв нумерации разделов: после №20 идёт «Chapter 22 - Visnu’s enjoying the company of divine damsels born out the ocean».
+  - Разрыв нумерации разделов: после №42 идёт «Chapter 1 - Greatness of Jyotirlinga and Upalingas».
+  - Разрыв нумерации разделов: после №43 идёт «Chapter 1 - Krsna’s meeting with Upamanyu».
+  - Разрыв нумерации разделов: после №51 идёт «Chapter 1 - Conversation among Vyasa and other sages over the importance of Omkara».
+  - Разрыв нумерации разделов: после №23 идёт «Chapter 1 - Genesis of the Vedas, the fourteen lores and the Puranas».
+  - Разрыв нумерации разделов: после №35 идёт «Chapter 1 - Instruction by Upamanyu to Sri Krsna to adore Siva».
+
+Оглавление выгрузки:
+Śiva-mahāpurāṇam [Eng]
+  Mahatmyam
+  Chapter 1 - The glory of the Purana
+  Chapter 2 - Glory of the Purana
+  Chapter 3 - Renunciation of Cancula- a Brahmana widow
+  Chapter 4 - Redemption of Cancula- the Brahmana widow
+  Chapter 5 - Salvation of Binduga
+  Chapter 6 - Method of listening to the Purana
+  Chapter 7 - Description of the worship of the book and the orator (speaker)
+  Vidyesvara Samhita
+  Chapter 1 - Discussion on Sadhya and Sadhana
+  Chapter 2 - Reply to the question of the sages
+  Chapter 3 - Discussion on Sadhya-sadhana
+  Chapter 4 - The glory of listening, recitation and study of the Purana
+  Chapter 5 - The glory of Siva-linga
+  Chapter 6 - Fight between Brahma and Visnu
+  Chapter 7 - Contest between Visnu and Brahma,victory of the former
+  Chapter 8 - Shattering the pride of Brahma
+  Chapter 9 - Consecrating of the Siva-linga
+  Chapter 10 - Discourse on Omkara
+  Chapter 11 - Worship of Siva-linga and its consecration
+  Chapter 12 - Description of the Siva-ksetras
+  Chapter 13 - Description of a righteous person
+  Chapter 14 - Agni-sacrifice
+  Chapter 15 - Description of the country, time and vessel in Deva-yajna
+  Chapter 16 - Description of the adoration of Parthiva Linga
+  Chapter 17 - Glory of Pranava-paficaksara-mantra
+  Chapter 18 - Glory of Sivalinga
+  Chapter 19 - Glory of the adoration of Parthiva or clay Siva-linga
+  Chapter 20 - Method of adoring Parthiva-linga
+  Chapter 21 - Worship of Parthiva-linga
+  Chapter 22 - Glory of Siva naivedya and bilva (wood-apple)
+  Chapter 23 -Glory of the names of Siva
+  Chapter 24 - Process for the application of the ashes
+  Chapter 25 - The glory of Rudraksa
+  (1) Srsti Khanda
+  Chapter 1 - Question by the Sages
+  Chapter 2 - Deputing of Kamadeva by Indra to disturb the tapas of Narada
+  Chapter 3 - Svayamvara of Srimati and Narada’s humiliation
+  Chapter 4 - Narada reaches Vaikuntha and curses Visnu
+  Chapter 5 - Narada’s visit to Kasi
+  Chapter 6 - Mahapralaya and Visnu’s origin
+  Chapter 7 - The dispute between Brahma and Visnu
+  Chapter 8 - Description of the body of Sabdabrahman
+  Chapter 9 - Siva-tattva highlighted
+  Chapter 10 - Parama Siva-tattva
+  Chapter 11 - Method of worshipping Siva
+  Chapter 12 - Essentials and non-essentials of Siva’s worship
+  Chapter 13 - Mode of the adoration of Siva
+  Chapter 14 - Directions for Siva’s worship
+  Chapter 15 - Manifestations of Rudra
+  Chapter 16 - The Creation- described
+  Chapter 17 - The story of Gunanidhi
+  Chapter 18 - Gunanidhi’s salvation
+  Chapter 19 - Friendship of Siva and Kubera
+  Chapter 20 - Departure of Siva for Kailasa
+  (2) Sati Khanda
+  Chapter 1 - Brief Story of Sati
+  Chapter 2 - The appearing of Kamadeva
+  Chapter 3 - Curse and blessing on Kama
+  Chapter 4 - Marriage of Kamadeva
+  Chapter 5 - The story of Sandhya
+  Chapter 6 - Siva pleased with the worship of Sandhya
+  Chapter 7 - Sandhya married to Vasistha as Arundhati
+  Chapter 8 - Features of Vasanta
+  Chapter 9 - Strength of Kamadeva and his attendants
+  Chapter 10 - Conversation between Brahma and Visnu
+  Chapter 11 - Brahma worships Durga and gets a boon
+  Chapter 12 - Receiving a boon by Daksa from Durga
+  Chapter 13 - Daksa’s curse to Narada
+  Chapter 14 - Birth of Sati and her childhood sports
+  Chapter 15 - Description of Nandyavrata and eulogy of Siva
+  Chapter 16 - Brahma and Visnu eulogise Siva
+  Chapter 17 - Siva grants boon to Sati
+  Chapter 18 - Marriage of Siva and Sati
+  Chapter 19 - Sports of Sati
+  Chapter 20 - Festivities of Sati’s marriage
+  Chapter 21 - Sports of Siva and Sati
+  Chapter 22 - Love sports of Siva and Sati over the Himalaya
+  Chapter 23 - Influence of devotion
+  Chapter 24 - Sati’s doubt about Rama’s divinity
+  Chapter 25 - Separation of Siva and Sati
+  Chapter 26 - Cause of conflict between Daksa and Siva
+  Chapter 27 - Start of Daksa’s sacrifice
+  Chapter 28 - Satø’s Travel
+  Chapter 29 - Declaration of Sati
+  Chapter 30 - Sati ends her life in fire-altar
+  Chapter 31 - The divine voice
+  Chapter 32 - Birth of Virabhadra and Siva’s advice to him
+  Chapter 33 - The march of Vsrabhadra
+  Chapter 34 - Inauspicious omens witnessed by those present at the place of Daksa’s sacrifice
+  Chapter 35 - Visnu’s speech
+  Chapter 36 - Talk between Visnu and Virabhadra
+  Chapter 37 - Destruction of the yajna of Daksa
+  Chapter 38 - Conflict between Ksuva and Dadhica
+  Chapter 39 - Fight between Visnu and Dadhica
+  Chapter 40 - Audience of gods with Siva
+  Chapter 41 - The gods offer prayer to Siva
+  Chapter 42 - Showering of grace on Daksa
+  Chapter 43 - Performance of Daksa’s yajna
+  (3) Parvati Khanda
+  Chapter 1 - Marriage of Himalaya
+  Chapter 2 - Sanaka’s curse to Menaka and others
+  Chapter 3 - Visnu and other gods eulogise Siva
+  Chapter 4 - The assurance of the goddess to the gods
+  Chapter 5 - Menaka receives a boon
+  Chapter 6 - Birth of Parvati
+  Chapter 7 - Childhood sports of Parvati
+  Chapter 8 - Conversations between Narada and Himalaya
+  Chapter 9 - Performing of penance of Parvati at the advice of her parents and appearing of Siva before her
+  Chapter 10 - Birth of Mars and his raising to the status of a planet by the grace of Siva.
+  Chapter 11 - Meeting between Siva and Himvat
+  Chapter 12 - Conversation between Siva and Himalaya
+  Chapter 13 - Talk between Siva and Parvati
+  Chapter 14 - Birth of Taraka and Vajranga- their penance
+  Chapter 15 - Taraka and his penance
+  Chapter 16 - Brahma assures gods frightened by Taraka
+  Chapter 17 - Discussion between Indra and Kamadeva
+  Chapter 18 - Disturbance created by Kamadeva
+  Chapter 19 - Destruction of Kamadeva
+  Chapter 20 - The story of oceanic fire
+  Chapter 21 - Narada’s advice to Parvati
+  Chapter 22 - Penance of Parvati
+  Chapter 23 - Himavan dissuades Parvati but the gods go to meet Siva
+  Chapter 24 - Siva agrees to Marry Parvati
+  Chapter 25 - Seven sages test the devotion of Parvati
+  Chapter 26 - Conversation between Jatila and Parvati
+  Chapter 27 - Talk between Parvati and Brahmacari
+  Chapter 28 - Witnessing of the real form of Siva by Parvati
+  Chapter 29 - Talk between Siva and Parvati
+  Chapter 30 - Return of Parvati and the festivities
+  Chapter 31 - Illusion of Siva
+  Chapter 32 - Arrival of Sapta-Rsis
+  Chapter 33 - Pleasing of Himavan
+  Chapter 34 - The story of Anaranya
+  Chapter 35 - The story of Padma and Pippalada
+  Chapter 36 - Advice of the seven sages
+  Chapter 37 - Despatch of the letter of engagement and other connected celebrations
+  Chapter 38 - Description of the mandapa
+  Chapter 39 - Arrival of the gods at Kailasa and departure of the marriage party of Siva
+  Chapter 40 - Siva’s marriage procession
+  Chapter 41 - Beauty of the mandapa
+  Chapter 42 - Meeting between the lord and the mountain
+  Chapter 43 - Wonderful sport of Siva
+  Chapter 44 - Mena regains consciousness
+  Chapter 45 - Siva assumes the pleasant form and people’s delight
+  Chapter 46 - Arrival of the Bridegroom
+  Chapter 47 - Siva’s ceremonious entry into the inner apartments of Himalaya
+  Chapter 48 - The marriage of Siva and Parvati
+  Chapter 49 - Delusion of Brahma
+  Chapter 50 - The fun and jokes
+  Chapter 51 - Revival of Kamadeva
+  Chapter 52 - Serving of feast to the marriage party and retiring of Siva to the bed
+  Chapter 53 - Siva’s return after marriage
+  Chapter 54 - The departure of the marriage party- duties of a chaste wife defined
+  Chapter 55 - Siva returns to Kailasa
+  (4) Kumara Khanda
+  Chapter 1 - Love sports of Siva and Parvati
+  Chapter 2 - Birth of Kartikeya: the son of Siva
+  Chapter 3 - Childhood sports of Kartikeya
+  Chapter 4 - Search for Kartikeya and dialogue between Kartikeya and Nandi
+  Chapter 5 - Crowning of Kartikeya
+  Chapter 6 - Kumara’s astonishing performance
+  Chapter 7 - The starting of the war
+  Chapter 8 - Battle between the gods and the demons
+  Chapter 9 - Fight between Tarakasura and the gods
+  Chapter 10 - Killing of Tarakasura
+  Chapter 11 - Kumara's victory and the killing of Bana and Pralamba
+  Chapter 12 - The story of Siva, Parvati and Kartikeya
+  Chapter 13 - Birth of Ganesa
+  Chapter 14 - Controversy with the ganas
+  Chapter 15 - Ganesa’s battle with Sivaganas
+  Chapter 16 - Severing of the head of Ganesa
+  Chapter 17 - Ganesa brought back to life
+  Chapter 18 - Crowning of Ganesa as Chief of Sivaganas
+  Chapter 19 - Proposal for the marriage of Ganesa
+  Chapter 20 - Marriage of Ganesa
+  (5) Yuddha Khanda
+  Chapter 1 - The demon Tripurasura
+  Chapter 2 - Prayer by the gods
+  Chapter 3
+  Chapter 4 - Receiving of Diksa by the lord of Tripura
+  Chapter 5 - Fascination of Tripuras
+  Chapter 6 - Prayer of Siva
+  Chapter 7 - Prayer of Siva by the gods
+  Chapter 8 - Making of a divine chariot by Visvakarma
+  Chapter 9 - Siva’s march for waging the war
+  Chapter 10 - Burning of Tripura
+  Chapter 11 - Prayer by gods after witnessing the awful form of Siva
+  Chapter 12 - Maya’s taking refuge with Siva, bestowing of the Vitalaloka to him and assurance to shaven headed monk that his cult would prosper in Kali age
+  Chapter 13 - The punishing of Indra by Siva and restoring him to his original position at the request of Brhaspati
+  Chapter 14 - Birth of Jalandhara from the oceanic fire and his marriage with Brnda
+  Chapter 15 - Finding the severed head of Rahu, Jalandhara attacks Indra and defeats him
+  Chapter 16 - Fleeing of the gods from the heaven and fight between Visnu and Jalandhara armies
+  Chapter 17 - With the asking of the boon by Jalandhara, Visnu starts living in the abode of Jalandhara, with Laksmi
+  Chapter 18 - At the instance of the gods, Narada, highlights the beauty of Parvati to Jalandhara
+  Chapter 19 - Jalandhara’s sending a messegen to Siva for getting Parvati
+  Chapter 20 - Battle between the armies of Siva and Jalandhara
+  Chapter 21 - Special war between the gods and the demons
+  Chapter 22 - Jalandhara’s approaching Parvati in the form of Siva, and deputing of Visnu by Parvati to cheat Jalandhara’s wife Vrnda
+  Chapter 23 - Cheating of Vrnda by Visnu who is cursed by her
+  Chapter 24 - Killing of Jalandhara at the hands of Siva
+  Chapter 25 - God’s prayer to Siva
+  Chapter 26 - Visnu’s applying of Vrnda’s ashes over his body-removal of the delusion of Visnu
+  Chapter 27 - Performing of a tapas by Sambhasura for getting a son and birth of Samkhacuda
+  Chapter 28 - Performing to tapas by Samkhacuda and his marriage with Tulasi
+  Chapter 29 - Previous birth of Samkhacuda
+  Chapter 30 - Gods’ prayer to Siva for the slaying of Samkhacuda
+  Chapter 31 - Siva’s discourse for gods
+  Chapter 32 - Siva’s deputing Puspadanta as a messenger to Samkhacuda
+  Chapter 33 - Departure of Virabhadra, Nandi, Kali, Asta-Bhairavas, and other Sivaganas
+  Chapter 34 - Samkhacuda proceeds for waging a war
+  Chapter 35 - Exchange of messengers from both the sides
+  Chapter 36 - Fight between the gods and the Danavas
+  Chapter 37 - Samkhacuda’s fight with Kartikeya and other warriors
+  Chapter 38 - Battle between Mahakali and Samkhacuda
+  Chapter 39 - The war between Siva and Samkhacuda
+  Chapter 40 - Taking to the form of a Brahmana, Visnu begs for the kavaca from Samkhacuda
+  Chapter 42 - Slaying of Hiranyaksa
+  Chapter 43 - Killing of Hirnyakasipu in the form of Narasimha
+  Chapter 44 - Andhaka receives the kingship of his father and deputes a messenger to Siva demanding Parvati for himself
+  Chapter 45 - Battle between Andhakasura and Siva’s army
+  Chapter 46 - Defeat of Virabhadra in the battle
+  Chapter 47 - Bringing back of Daitya to life
+  Chapter 48 - Swallowing of Sukra by Siva
+  Chapter 49 - Andhaka performs tapas lodged at the tip of Siva’s trident
+  Chapter 50 - Learning of Mrtasanjivani lore by Sukra
+  Chapter 51 - The story of Usa the daughter of Banasura
+  Chapter 52 - The story of Usa- her meeting with Aniruddha
+  Chapter 53 - Fight between Banasura and Aniruddha who was bound by the Nagapasa- Shattering of Nagapasa by Kali
+  Chapter 54 - Departure of Krsna to Patala in order to get back Aniruddha and his fight with Banasura
+  Chapter 55 - Krsna’s cutting of the arms of Banasura, by the grace of Siva and marriage of Usa and Aniruddha
+  Chapter 56 - Bestowing the position of Ganapati on Banasura by Siva
+  Chapter 57 - Killing of Gajasura, the son of demon Mahisa by Siva
+  Chapter 58 - Killing of Dundubhi, Nirhrada by Siva in the form of Vyaghresvara
+  Chapter 59 - Killing of the Daityas, named Vidala and Utpala by Gauri
+  Satarudra-Samhita
+  Chapter 1 - Saunaka describes the difference in Sadyojat Vamadeva, Tatpurusa, Adyoresa and Isan forms of Siva
+  Chapter 2 - Eight forms of Siva- like Bhava, Sarva and others
+  Chapter 3 - Appearing of Siva in Ardhanarisvara form, before Brahma, desirous of creation of the world by sexual exercise
+  Chapter 4 - Incarnation of Siva as Svetamuni or Rsabhadeva
+  Chapter 5 - Incarnations of Siva during the tenth to twenty eight Dvaparas
+  Chapter 6 - Performing of tapas by sage Silada for getting a son, achieving of Nandi, who proceeded for performing tapas
+  Chapter 7 - Bestowing of the position of a gana by Siva to Nandi
+  Chapter 8 - Incarnation of Bhairava
+  Chapter 9 - Relieving of the sin of Brahmahatya at Kapalamocana Tirtha-Varanasi
+  Chapter 10 - Lord Siva’s assurance to the gods
+  Chapter 11 - Removal of Narasimha’s pride by Virabhadra
+  Chapter 12 - Incarnation of Siva as Sarbha
+  Chapter 13 - Performing of tapas by Visvanara and his wife for getting a son
+  Chapter 14 - Incarnation of Siva as Grhapati
+  Chapter 15 - Performing of tapas by Grhapati to ward off untimely death
+  Chapter 16 - Siva’s incarnation as Yakses'vara at the time of the churning of the ocean
+  Chapter 17 - The ten incarnations of Siva with Sakti
+  Chapter 18 - Eleven incarnations of Siva for the protection of the gods
+  Chapter 19 - The tapas of Atri and birth of Candra, Dattatreya and Durvasa
+  Chapter 20 - Incarnation of Hanuman and the related story
+  Chapter 21- Curse of Parvati to Bhairava to be born as a human
+  Chapter 22 - Visnu’s enjoying the company of divine damsels born out the ocean
+  Chapter 23 - Visnu’s fight with the Bull form of Siva
+  Chapter 24 - Siva’s incarnation as Pippalada
+  Chapter 25 - The story of the Pippalada incarnation of Siva
+  Chapter 26 - Vaisyanatha incarnation of Siva
+  Chapter 27 - Dvijesvara incarnation of Siva
+  Chapter 28 - Yatinatha incarnation of Siva
+  Chapter 29 - The story of Nabhaga and Krsna-darsana incarnation of Siva
+  Chapter 30 - Manifestation of Siva as Avadhutesvara
+  Chapter 31 - Incarnation of Siva as Bhiksuvarya
+  Chapter 32 - Incarnation of Siva as Suresvara
+  Chapter 33 - Siva's incarnation as Brahmacari
+  Chapter 34 - Siva’s incarnation as Sunartaka-nata
+  Chapter 35 - Incarnation of Siva as a Brahmana
+  Chapter 36 - Siva’s incarnation as Asvatthama
+  Chapter 37 - Arjuna deputed to Indrakila mountain by Vyasa
+  Chapter 38 - Arjuna’s penance
+  Chapter 39 - Killing of the demon Muka and the appearing of Siva in the form of Kirata
+  Chapter 40 - Quarrel between Arjuna and Siva, at the killing of the boar
+  Chapter 41 - Battle between Siva and Arjuna, Siva bestows boon to Arjuna, meeting of Arjuna with Sri Krsna in Dvaitavana
+  Chapter 42 - Siva’s incarnations as twelve Jyotirlingas
+  Koti-Rudra Samhita
+  Chapter 1 - Greatness of Jyotirlinga and Upalingas
+  Chapter 2 - Sivalingas and their greatness
+  Chapter 3 - Tapas performed by the sage Atri and emerging of Atrisvara linga
+  Chapter 4 - Appearing of Atrisvara linga
+  Chapter 5 - Death of a Brahmana woman and the glory of Nandikesvara
+  Chapter 6 - Change of the black colour of a Cow to that of white at Nandikesvara
+  Chapter 7 - Killing of the lustful demon Mudha
+  Chapter 8 - The glory of Mahakala
+  Chapter 9 - Liberation of a Candala woman with the unmindful dropping of the leaves of wood-apple tree
+  Chapter 10 - Relieving of the curse by the king Mitrasaha, at Gokrana-tirtha
+  Chapter 11 - Description of the lingas known as Candrabhala, Pasupati and others in the northern direction
+  Chapter 12 - Reasons for Siva’s taking to the form of linga
+  Chapter 13 - Origin of Batuka
+  Chapter 14 - Origin of the Jyotrilinga of Somanatha
+  Chapter 15 - Discussion on Mallikarjuna- the second Jyotirlinga
+  Chapter 16 - The glory of Mahakala Jyotirlinga
+  Chapter 17 - Greatness of the Mahakala Jyotirlinga
+  Chapter 18 - The glory of Omkaresvara Jyotirlinga
+  Chapter 19 - Kedaresvara Jyotirlinga’s glory
+  Chapter 20 - The disturbance created by Bhimasura
+  Chapter 21 - Showering of the grace of Kamarupesvara
+  Chapter 22 - The glory of Visvesvara at Kasi
+  Chapter 23 - The greatness of the Jyotirlinga of Kasi Visvesvara
+  Chapter 24 - Gautama’s greatness in relation to Tryambakesvara
+  Chapter 25 - False allegation on Gautama for killing a cow
+  Chapter 26 - Siva’s grace on Gautama by appearing of Tryambakesvara and Ganga
+  Chapter 27 - Humiliation of the ascetics envious to Gautama- curse of Gautama on them
+  Chapter 28 - The glory of Vaidyanathesvara Jyotirlinga
+  Chapter 29 - Disturbance created by the Raksasas of Darukavana
+  Chapter 30 - Greatness of Nagesvara Jyotirlinga
+  Chapter 31 - Origin of Ramesvara Jyotirlinga
+  Chapter 32 - The story of Ghusamesvara- the twelfth Jyotirlinga
+  Chapter 33 - Regaining of life of the Son of Ghusma by Siva’s grace and establishment of Ghusamesvara Sivalinga
+  Chapter 34 - Siva bestows Sudarsana Cakra to Visnu
+  Chapter 35 - Thousand names of Siva
+  Chapter 36 - Reward for reciting a thousand names of Siva
+  Chapter 37 - Adoration of Siva through the sages
+  Chapter 38 - The glory of Sivaratri
+  Chapter 39 - Completion of Sivaratri Vrata
+  Chapter 40 - The glory of Sivaratri
+  Chapter 41 - Types of Salvation
+  Chapter 42 - The difference between Siva’s Nirguna and Saguna forms
+  Chapter 43 - The perfect knowledge of Siva
+  Uma Samhita
+  Chapter 1 - Krsna’s meeting with Upamanyu
+  Chapter 2 - Upamayu’s instructions to Krsna, for adoring Siva
+  Chapter 3 - The glory of Siva
+  Chapter 4 - Display of Siva’s Maya
+  Chapter 5 - The grave sins
+  Chapter 6 - The minor sins
+  Chapter 7 - Path to Yamaloka and form of the messengers of Yama
+  Chapter 8 - Description of the hell
+  Chapter 9 - Sufferings in the hell
+  Chapter 10 - Agonies of the hell
+  Chapter 11 - The glory of giving away the food in charity
+  Chapter 12 - Penance and its greatness
+  Chapter 13 - The glory of the Puranas
+  Chapter 14 - The glory of charities
+  Chapter 15 - Description of Patalaloka
+  Chapter 16 - Achieving the hell and the repentance
+  Chapter 17 - Description of Jambudvipa
+  Chapter 18 - The seven continents
+  Chapter 19 - Position of the planets like Sun and others
+  Chapter 20 - Achieving of Sivaloka with the performing of tapas
+  Chapter 21 - Righteous war and its fruits
+  Chapter 22 - Genesis and evolution of the body
+  Chapter 23 - The impurity of the body and sufferings in childhood
+  Chapter 24 - Nature of women as described by the apsara Pancacuda
+  Chapter 25 - Awareness about the time of death
+  Chapter 26 - Competence of the Yogis to avert the death
+  Chapter 27 - Achieving Siva by escaping from death
+  Chapter 28 - The shadowy person
+  Chapter 29 - Description of primeval creation
+  Chapter 30 - The Creation
+  Chapter 31 - Daksa pronounces a curse on Narada
+  Chapter 32 - Kasyapa and his family
+  Chapter 33 - Creation of Maruts and distribution of kingdoms
+  Chapter 34 - The fourteen Manvantras
+  Chapter 35 - The description of Vaivasvata
+  Chapter 36 - The nine sons of the race of Manu
+  Chapter 37 - The race of Iksavaku
+  Chapter 38 - The birth of Satyavrata, Trisunka, Sagara and others besides the related stories
+  Chapter 39 - The king Sagara and the expansion of his family
+  Chapter 40 - Influence of Sraddha for the manes
+  Chapter 41 - The story of seven hunters
+  Chapter 42 - Redemption of Seven hunters
+  Chapter 43 - Method of Vyasa puja
+  Chapter 44 - Birth of Vyasa from Satyavati and establishing of Vyasesvara linga at Kasi
+  Chapter 45 - The story of the goddess and the killing of Madhu and Kaitabha
+  Chapter 46 - The killing of Mahisasura by the goddess
+  Chapter 47 - Killing of Dhumralocana, Canda, Munda and Raktabija
+  Chapter 48 - Manifestation of Sarasvati
+  Chapter 49 - Manifestation of Uma
+  Chapter 50 - The origin of Mahavidyas
+  Chapter 51 - Consecration of the image of the goddess
+  Kailasa Samhita
+  Chapter 1 - Conversation among Vyasa and other sages over the importance of Omkara
+  Chapter 2 - Siva enlightens Parvati over the secret subjects
+  Chapter 3 - Description of the form of Omkara and Virajahoma
+  Chapter 4 - The daily performance of a recluse or a Sanyasi
+  Chapter 5 - Preparation of mandala at the place of worship
+  Chapter 6 - Procedure for asana and pranayama
+  Chapter 7 - Method of Siva's worship
+  Chapter 8 - Mental worship of Siva
+  Chapter 9 - Interpretation of the eight names of Siva, adoration of linga, pleasure of the goddess and pilgrimage of Suta
+  Chapter 10 - Discourse of Suta
+  Chapter 11 - Question about Omkara and definition of Skanda stotra
+  Chapter 12 - Procedure of the Nandi Sraddha, Brahmayajna etc.
+  Chapter 13 - Procedure for embracing Sanyasa
+  Chapter 14 - Pranava in the form of Siva
+  Chapter 15 - Creation and dissolution of the universe
+  Chapter 16 - Omkara as the cause of creation
+  Chapter 17 - Advaita (non-dual) prana of Siva
+  Chapter 18 - Initiation for a disciple
+  Chapter 19 - The great statements and Yogapatta
+  Chapter 20 - Rules for the removal of hair of an ascetic
+  Chapter 21 - Ban on the cremation of Yatis and performing of their last rites
+  Chapter 22 - Rites to be performed on the eleventh day of Yati's death
+  Chapter 23 - The rites to be performed on the twelfth day for a Yati
+  Vayaviya Samhita (Part I)
+  Chapter 1 - Genesis of the Vedas, the fourteen lores and the Puranas
+  Chapter 2 - The complex problems of the ascetics
+  Chapter 3 - Brahma declares Siva, as the best of all the gods
+  Chapter 4 - Interpretation of the word Pasupati- discussion between wind god and the Rsis in Naimisaranya
+  Chapter 5 - Reply of the wind god to the sages
+  Chapter 6 - The principle of Siva faith
+  Chapter 7 - The description of time in relation to Siva
+  Chapter 8 - Creation of the universe for the sports of Siva
+  Chapter 9 - Creation of the universe and sports of Siva
+  Chapter 10 - Creation of the universe
+  Chapter 11 - The rescue of the earth from Patala by Varaha
+  Chapter 12 - Creating of moha, mada, goblins, pisacas, asuras and the Raksasas by Brahma
+  Chapter 13 - Emergence of Brahma, Visnu and Rudra in different Kalpas
+  Chapter 14 - The manifestation of Rudra
+  Chapter 15 - Siva's appearing before Brahma in Ardhanarisvara form
+  Chapter 16 - Manifestation of the divine Sakti
+  Chapter 17 - Emerging of Satarupa from the body of Brahma
+  Chapter 18 - Birth of Sati as daughter of Daksa, Daksa's enmity with Siva, Sati burns herself in yajna fire
+  Chapter 19 - Origin of Virabhadra
+  Chapter 20 - Destruction of the sacrifice of Daksa
+  Chapter 21 - Flight of Visnu and other gods from the place of Yajna
+  Chapter 22 - Fight between Virabhadra and the supporters of Daksa
+  Chapter 23 - Prayer of gods and the completion of yajna
+  Chapter 24 - Controversy between Siva and Siva
+  Chapter 25 - Performing of tapas by Kali to become Gauri
+  Chapter 26 - Parvati meets Siva as Gauri
+  Chapter 27 - Meeting of Siva and Siva, showering of his grace on the tiger by Siva
+  Chapter 28 - The glory of bhasma or ashes
+  Chapter 29 - The speech and its meaning
+  Chapter 30 - Vayudeva's discourse on Sivatattva
+  Chapter 31 - Description of spotless Sivatattva by Vayudeva
+  Chapter 32 - Excellent practices for the achieving of moksa
+  Chapter 33 - The glory of the performing of Pasupata vrata
+  Chapter 34 - Upamanyu's performance of tapas for Siva
+  Chapter 35 - Siva’s testing the devotion of Upamanyu
+  Vayaviya Samhita (Part II)
+  Chapter 1 - Instruction by Upamanyu to Sri Krsna to adore Siva
+  Chapter 2 - Highlighting of the greatness of Pasupata, by Vasudeva to the sages
+  Chapter 3 - Upamanyu’s instruction to Sri Krsna
+  Chapter 4 - Excellence of Siva and Siva
+  Chapter 5 - Detailed discussion on Pasu and Pasupati
+  Chapter 6 - The principle of Siva
+  Chapter 7 - Principle of Siva
+  Chapter 8 - The birth of Vyasa
+  Chapter 9 - Siva's incarnations as Yogacarya
+  Chapter 10 - Devotion to Siva
+  Chapter 11 - Knowledge about Siva
+  Chapter 12 - Glory of the five syllable mantra of Siva
+  Chapter 13 - The glory of five syllabled mantra
+  Chapter 14 - The method of performing the five syllabled mantra
+  Chapter 15 - Procedure for Sivadiksa
+  Chapter 16 - Initiation of the disciple
+  Chapter 17 - The types of initiation
+  Chapter 18 - Purification of the six paths
+  Chapter 19 - The glory of the mantras
+  Chapter 20 - Consecration of the disciple by the acarya
+  Chapter 21 - Nitya and Naimittika rites
+  Chapter 22 - Different types of Nyasas
+  Chapter 23 - Method of mental adoration of Siva
+  Chapter 24 - Ritualistic worship of Siva
+  Chapter 25 - Adoration of Siva
+  Chapter 26 - Adoration of Siva with connected rites
+  Chapter 27 - Performing of Yajna
+  Chapter 28 - Compulsory and optional rites
+  Chapter 29 - The Kamya rites
+  Chapter 30 - Avarana worship of Siva
+  Chapter 31 - Siva strotra or hymn to Siva
+  Chapter 32 - Method of achieving the worldly benefits
+  Chapter 33 - Rites for achieving future benefits
+  Chapter 34 - Conflict between Visnu and Brahma
+  Chapter 35 - Delusion of Brahma and Visnu
+  Chapter 36 - Installation of Siva linga
+  Chapter 37 - The yogic practices and their usages
+  Chapter 38 - Obstructions in the path of Yoga
+  Chapter 39 - Sivadhyana yoga and its divisions
+  Chapter 40 - Travel of Rsis from Naimisaranya to Kasi
+  Chapter 41 - Glory of the Siva Purana
