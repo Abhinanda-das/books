@@ -1,0 +1,24 @@
+Книга: Sri Nama Mahima
+Адрес: https://vedarama.com/en/books/bt-snma
+Страниц сайта: 12; заголовков: 13; текстов: 0; картинок: 0
+Глав по MCP: 12
+Букв в исходнике: 17959; в .md: 17959
+Первый заголовок: Sri Nama Mahima
+Последний заголовок: Nāma Two
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Sri Nama Mahima
+  Introduction
+  Text One
+  Text Two
+  Text Three
+  Text Four
+  Text Five
+  Text Six
+  Text Seven
+  Text Eight
+  Nāma One
+  Dālāler Gītā (The Song of the Broker)
+  Nāma Two
