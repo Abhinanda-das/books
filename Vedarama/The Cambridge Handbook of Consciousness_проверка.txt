@@ -1,0 +1,671 @@
+Книга: The Cambridge Handbook of Consciousness
+Адрес: https://vedarama.com/en/books/gh-pd
+Страниц сайта: 659; заголовков: 660; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 10
+Букв в исходнике: 2905605; в .md: 2905605
+Первый заголовок: The Cambridge Handbook of Consciousness
+Последний заголовок: -Z-
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+The Cambridge Handbook of Consciousness
+  The Cambridge Handbook of Consciousness -1
+  The Cambridge Handbook of Consciousness - 2
+  Contents
+  List of Contributors
+  The Cambridge Handbook of Consciousness -3
+  CHAPTER -1
+  Consciousness: An Introduction
+  Acknowledgments
+  References
+  Part I. THE COGNITIVE SCIENCE OF CONSCIOUSNESS
+  A. Philosophy
+  CHAPTER 2. A Brief History of the Philosophical Problem of Consciousness
+  Abstract
+  I. Forms of Consciousness
+  II. The Nature of the Problem
+  III. Ancient Hints
+  IV. The Scientific Revolution
+  V. The Idealist Turn
+  VI. Evolution and Emergence
+  References
+  CHAPTER 3. Philosophical Theories of Consciousness: Contemporary Western Perspectives
+  Abstract
+  Introduction: The Concept of Consciousness
+  Mysterianism
+  McGinn’s Mysterianism
+  The Master Argument for Mysterianism
+  The Case Against Mysterianism
+  Dualism
+  Chalmers’ Naturalistic Dualism
+  The Case for Dualism
+  The Case against Dualism
+  Representationalism
+  Tye’s PANIC Theory
+  The Master Argument for Representationalism
+  The Case against Representationalism
+  Higher-Order Monitoring Theory
+  Rosenthal’s Higher-Order Thought Theory
+  The Master Argument for Higher-Order Monitoring Theory
+  The Case against Higher-Order Monitoring Theory
+  The Self-Representational Theory of Consciousness
+  Varieties of Self-Representational Theory
+  The Master Argument for the Self-Representational Theory
+  Problems for the Self-Representational Theory
+  Conclusion: Directions for Future Research
+  Notes
+  References
+  CHAPTER 4. Philosophical Issues: Phenomenology
+  Abstract
+  Introduction
+  Method
+  Intentionality
+  Phenomenal Consciousness and Self-Awareness
+  Temporality and Inner Time-Consciousness
+  Embodiment and Perception
+  Intersubjectivity
+  Conclusion
+  Notes
+  References
+  CHAPTER 5. Asian Perspectives: Indian Theories of Mind
+  Abstract
+  Introduction
+  Self and Mental States: ASa¯m. khya View
+  The Abhidharma Tradition and its View of the Mind
+  The Primary Factor of Awareness
+  Mental Factors
+  Buddhist Epistemology
+  The Reflexive Nature of Mental Events
+  Theory of Perception
+  Thought and Language
+  Dharmakı¯rti and Abhidharma: Intentionality Revisited
+  Conclusion
+  Glossary
+  Buddhist
+  Notes
+  References
+  B. Computational Approaches to Consciousness
+  CHAPTER 6. Artificial Intelligence and Consciousness
+  Abstract
+  Introduction
+  An Informal Survey
+  Research on Computational Models of Consciousness
+  Moore/Turing Inevitability
+  Hofstadter, Minsky, and McCarthy
+  Daniel Dennett
+  Perlis and Sloman
+  Brian Cantwell Smith
+  A Synthetic Summary
+  The Notion of Computational System
+  Intentionality of Computational Systems
+  Modeling Oneself as Conscious
+  The Critics
+  Turing’s Test
+  The Chinese Room
+  Symbol Grounding
+  Conclusions
+  Notes
+  References
+  CHAPTER 7. Computational Models of Consciousness: A Taxonomy and Some Examples
+  Abstract
+  Introduction
+  Computational Explanations of Consciousness
+  Different Computational Accounts of Consciousness
+  A Model Adopting the Representational Difference View
+  An Application of the Access View
+  Sketches of Some Other Views
+  Concluding Remarks
+  Acknowledgments
+  Notes
+  References
+  C. Cognitive Psychology
+  CHAPTER 8. Cognitive Theories of Consciousness
+  Abstract
+  Introduction
+  Operationally Defining Consciousness. Cognitive Methods That Treat Consciousness as a Variable
+  Working Definitions of “Conscious” and “Unconscious”
+  Capability Contrasts
+  Functions of Consciousness in the Architecture of Cognition. A Note about Architectures
+  Consciousness Serves Many Functions
+  Consciousness Creates Access
+  Survey of Cognitive Theories of Consciousness
+  Network Theories That Explain Consciousness as Patterns of System-Wide Activity
+  Globalist Models That Combine Aspects of Information-Processing Theories and Network Theories baars’ global workspace theory
+  Conclusion
+  References
+  CHAPTER 9. Behavioral, Neuroimaging, and Neuropsychological Approaches to Implicit Perception
+  Abstract
+  Introduction
+  Limits on the Scope of our Chapter
+  Early Evidence for and against Implicit Perception
+  The Merits and Assumptions of the Dissociation Paradigm
+  Critiques of the Dissociation Paradigm
+  Recent Behavioral Approaches to Studying Implicit Perception
+  Modern Applications of the Dissociation Paradigm
+  Masked Priming without a Response Window
+  Masked Priming with a Response Window
+  Interim Conclusions
+  Alternatives to Dissociation
+  Relative Sensitivity: An Alternative to Dissociation
+  Problems with Relative Sensitivity as an Approach
+  Qualitative Differences
+  Process Dissociation
+  Problems with Process Dissociation as a Measure of Implicit Perception
+  A Believer’s Interpretation-1
+  A Skeptic’s Interpretation-1
+  Evidence for Implicit Perception – Neuroimaging Data
+  Implicit Perception of Faces
+  Implicit Processing of Words and Numbers
+  ERPs in Priming Experiments
+  Summary
+  A Believer’s Interpretation-2
+  A Skeptic’s Interpretation-2
+  Evidence for Implicit Perception – Patient Data
+  DF and the Two Pathways Argument
+  Blindsight
+  Parietal Neglect
+  A Believer’s Interpretation-3
+  A Skeptic’s Interpretation-3
+  What do Dissociations in Perception Mean?
+  References
+  CHAPTER 10. Three Forms of Consciousness in Retrieving Memories
+  Abstract
+  Accessing Memories: Three Forms of Consciousness
+  Autonoetic Consciousness
+  Measurement Issues and Theoretical Accounts
+  Remembering, Knowing, and Confidence
+  Remember/Know Responses and Dual-Process Models of Recognition
+  Measurement Issues and the Role of Instructions
+  Factors That Increase Autonoetic Consciousness
+  Recollective Experience and Memory for Source
+  Noetic Consciousness
+  The Influence of Instructions on the Interpretations of Know Judgments
+  Knowing and Retrieval from Semantic Memory
+  Knowing as Fluency and Familiarity
+  Know Judgments and Perceptual Priming
+  Knowing and Confidence
+  Knowing and Guessing
+  Knowing and Other Metamemory Judgments
+  Concluding Remarks about Interpreting Know Judgments
+  Anoetic Consciousness
+  Measurement Issues: Responding on Implicit Tests
+  Perceptual and Conceptual Tests
+  The Problem of Contamination
+  Involuntary Conscious Recollection
+  Illusions of Remembering and Knowing
+  Conclusion
+  References
+  CHAPTER 11. Metacognition and Consciousness
+  Abstract
+  Introduction
+  Definition
+  Research Traditions
+  Research Questions
+  Basic Assumptions about Agency and Consciousness
+  Experimental Paradigms in the Study of Online Metamemory
+  The Bases of Metacognitive Judgments
+  The Direct-Access View
+  The Cue-Utilization View of Metacognitive Judgments
+  Theory-Based Monitoring
+  Experience-Based Monitoring
+  Dissociations between Knowing and the Feeling of Knowing
+  The Validity of Metacognitive Judgments
+  The Control Function of Metacognition
+  The Effects of Metacognitive Regulation on Memory Performance
+  Metacognition and Consciousness: Some General Issues
+  The Genesis of Subjective Experience
+  The Control Function of Subjective Experience
+  The Cause-and-Effect-Relation between Monitoring and Control
+  Acknowledgments
+  References
+  CHAPTER 12. Consciousness and Control of Action
+  Abstract
+  Introduction: The Notion of Intentionality
+  Intention to Perform an Action (Unawareness of Intention)
+  Performing the Intended Action (Unawareness of Action). Studies on Neurologically Intact Participants
+  Studies on Brain-Damaged Patients
+  Perception of the Effects of the Performed Action
+  Executive Functions
+  Deficits in the Control of Action That Co-Occur with Abnormalities in Consciousness
+  Conclusion
+  Acknowledgments
+  References
+  D. Linguistic Considerations
+  CHAPTER 13. Language and Consciousness
+  Abstract
+  Introduction
+  Is Thought Unconscious?
+  The Relation of Language to Thought
+  Summary - 1
+  Preliminaries to an Alternative View
+  Some Properties of Consciousness
+  The Nature of Imagery
+  Components of Language
+  Consciousness of Phonology
+  Consciousness of Thought
+  The Organization of Thought
+  Pronouns
+  Harry’s Death Revisited
+  The Priority of Thought over Phonology
+  Familiar and Unfamiliar Languages
+  Rote Learning
+  Ambiguity
+  Distinguishing Thought Organization From Semantic Organization
+  Inadequacies of Language as an Expression of Thought
+  The Tip-of-the-Tongue Experience
+  Categories Lacking a Sound Altogether
+  Repeated Verbalizations
+  Language Differences
+  Manipulations of Consciousness in Literature
+  Is There Thought Outside of Consciousness?
+  Reasoning
+  Orientations
+  Relations
+  Summary - 2
+  Acknowledgments
+  References
+  CHAPTER 14. Narrative Modes of Consciousness and Selfhood
+  Abstract
+  Introduction
+  Interaction-Type Elements of Narrative
+  The Question of Whether Consciousness Has Causal Properties
+  Four Aspects of Consciousness
+  Helmholtzian Consciousness
+  Vygotskyan Consciousness
+  Meadean Consciousness
+  Narrative and Mutuality
+  Personal and Interpersonal Functions of Consciousness
+  The Evolution of Narrative
+  Intentions and Consciousness of Intentions
+  Mental Models of Others
+  Consciousness and Emotions
+  Mimesis, Metaphor, and Imagination
+  The Developmental Psychology of Consciousness
+  The Rise of Consciousness in Western Imaginative Literature
+  Coda
+  Acknowledgments
+  References
+  E. Developmental Psychology
+  CHAPTER 15. The Development of Consciousness
+  Abstract
+  Introduction
+  Early Accounts of the Development of Consciousness
+  Overview of the Levels of Consciousness (LOC) Model
+  The Structure of Consciousness
+  Control by Rules at Various Levels of Complexity
+  The Role of Prefrontal Cortex in Higher Levels of Consciousness
+  Developmental Increases in Children’s Highest Level of Consciousness
+  Summary and Topics for Future Research
+  Conclusion
+  Acknowledgments
+  References
+  F. Alternative States of Consciousness
+  CHAPTER 16. States of Consciousness: Normal and Abnormal Variation
+  Abstract
+  Introduction
+  Definition and Components of Consciousness
+  The Sleep-Waking Cycle
+  REM Sleep
+  The Neurophysiology of Sleep with Special Reference to Consciousness
+  Input-Ouput Gating
+  A Four-Dimensional Model of Conscious State
+  Brain Imaging
+  Spontaneous Brain Damage
+  Intentional Lobotomy
+  Other Abnormal Conditions
+  Conclusions
+  Acknowledgements
+  References
+  CHAPTER 17. Consciousness in Hypnosis
+  Abstract
+  Consciousness in Hypnosis
+  The Importance of Individual Differences
+  The Controversy over State
+  Consciousness and Social Influence
+  Defining an Altered State
+  Hypnosis and Hysteria
+  Dissociative Phenomena in Hypnosis
+  Implicit Memory in Posthypnotic Amnesia
+  Implicit Perception in Hypnotic Analgesia
+  Implicit Perception in Hypnotic Deafness
+  Implicit Perception in Hypnotic Blindness
+  Color, Meaning, and the Stroop Effect
+  Implicit Emotion
+  Anomalies of Dissociation in Hypnosis
+  Co-Consciousness and Trance Logic
+  Making the Unconscious Conscious
+  Automaticity in Hypnosis
+  The Experience of Involuntariness in Hypnosis
+  Automaticity in Posthypnotic Suggestion
+  Hypnosis in Mind and Body
+  “Neutral” Hypnosis
+  Hypnotic Analgesia
+  Hallucinations and Imagery
+  Brain States and States of Consciousness
+  Acknowledgements
+  Notes
+  References
+  CHAPTER 18. Can We Study Subjective Experiences Objectively? First-Person Perspective Approaches and Impaired Subjective States of Awareness in Schizophrenia
+  Abstract
+  St Augustine, Confessions, Book X First-Person Perspective Approaches to Conscious Awareness
+  First-person Perspective Approaches to Recognition Memory: The Distinction Between Autonoetic and Noetic Awareness
+  The Remember/Know Procedure
+  First-Person Perspective Approaches to Conscious Awareness in Schizophrenia
+  Impairment of Autonoetic Awareness in Schizophrenia
+  Is the Remember/Know Procedure Valid in Schizophrenia?
+  Are the Results from First-Person and Third-Person Perspective Approaches to Recognition Memory Consistent in Schizophrenia?
+  Does Schizophrenia Impair Noetic Awareness and Familiarity?
+  Conclusions
+  Future Prospects
+  Note
+  References
+  CHAPTER 19. Meditation and the Neuroscience of Consciousness: An Introduction
+  Abstract
+  Introduction
+  Sorting Claims and Descriptions
+  Meditation as Explanandum
+  A Paradigmatic Framework: Buddhist Meditative Techniques
+  Three Meditative States in Tibetan Buddhism
+  Generating a Description
+  The Intersection of Neuroscience and Meditation
+  Transforming the Mind and Brain Neuroplasticity
+  Mechanisms of Mind-Body Interaction
+  Using First-Person Expertise to Identify the Neural Counterpart of Subjective Experience
+  Neuroelectric and Neuroimaging Correlates of Meditation
+  Neuroelectric Correlates of Meditative States
+  Neuroimaging Correlates of Meditation
+  General Conclusion
+  Acknowledgments
+  Notes
+  References
+  G. Anthropology/Social Psychology of Consciousness
+  CHAPTER 20. Social Psychological Approaches to Consciousness
+  Abstract
+  Introduction
+  Conscious by Default
+  Dual-Process Models: Automatic Versus Controlled Processes
+  Effortful Processing: Only When it Matters
+  Efficient Processing: Automatic Components of Social Perception
+  Awareness and Control
+  Intentionality: What We Do Without Meaning To impression formation
+  Dissociations Between Intention and Action
+  Non-Conscious Action Control
+  Non-Conscious Operation of Working Memory During Goal Pursuit
+  Implications for the Nature and Purpose of Consciousness
+  Acknowledgments
+  References
+  CHAPTER 21. The Evolution of Consciousness
+  Abstract
+  Introduction
+  The Intentional Stance
+  Orders of Intentionality, and Recursion
+  The Recursive Mind
+  Recursion in Other Species
+  Theory of Mind in Great Apes?
+  Self-Awareness in Other Species?
+  Social Behaviors
+  Evolution of the Recursive Mind
+  Evolutionary Psychology and the Pleistocene
+  Becoming Modern
+  Did We Talk Our Way into Modernity?
+  What Advantages Did Speech Confer over Manual Gesture?
+  Conclusions
+  Note
+  References
+  CHAPTER 22. The Serpent’s Gift: Evolutionary Psychology and Consciousness
+  Abstract
+  The Serpent’s Gift: Evolutionary Psychology and Consciousness
+  Evolutionary Psychology. Underlying Assumptions of Evolutionary Psychology
+  Self-Consciousness as an Epiphenomenon
+  Adaptations, Byproducts, Noise, and Exaptations
+  The Evolution of the Human Brain. Changes in Brain Size over Hominid Evolution
+  Big Brains, Slow Development, and Social Complexity
+  Precursors to Consciousness: The Comparative Psychology of Consciousness
+  Mirror-Self-Recognition
+  Social Learning
+  Understanding the Perspective of Others
+  Evolutionary Psychology and Consciousness
+  The Adaptive Benefits and Challenges of Consciousness
+  Consciousness as a Double-Edged Sword
+  On the Reorganization of More Ancient Primate Adaptations
+  The Evolution of Qualitatively Unique Psychological Adaptations in Human Beings
+  The Evolutionary Significance of the Mechanism of Consciousness
+  The Serpent’s Gift
+  The Role of Consciousness in Religion: Spirits, Gods, and Morality
+  Concluding Remarks
+  Note
+  References
+  CHAPTER 23. Anthropology of Consciousness
+  Abstract
+  Irving Hallowell, Culture and Experience (1955 )
+  Introduction
+  What Do We Mean by Consciousness?
+  A Brief Note on Methodology in Anthropology
+  Structure and Content I: A History of Early Anthropological Thought and Research
+  Adolf Bastian (1826–1905) and the Psychic Unity of Humankind
+  Franz Boas (1858–1942) and the Anthropology of Sensory Impressions
+  The Torres Strait Expedition of 1898
+  Emile Durkheim (1858–1918) and the Elementary Forms of Consciousness
+  Le´ vy-Bruhl (1857–1939) on Multiple Modes of Consciousness
+  Language, Consciousness, and the Sapir-Whorf Hypothesis
+  Irving Hallowell (1892 –1974) and the “Behavioral Environment”
+  Structure and Content II: Modern Structuralism, Practice Theory, Hermeneutics, and the Anthropology of Experience
+  Claude Le´ vi-Strauss (1908–) and Structuralism
+  Clifford Geertz (1926–2006) and the Interpretivist/Hermeneutic Approach
+  Pierre Bourdieu (1930–2002) and Practice Theory
+  Victor Turner (1920–1983) and the Anthropology of Experience
+  Structure and Content III: Contemporary Developments in the Anthropology of Consciousness
+  Transpersonal Anthropology and Altered States of Consciousness
+  Cognitive Anthropology
+  Neuroanthropological Approaches to Consciousness
+  Cultural Psychology
+  Psychocultural Anthropology
+  Anthropology of the Senses
+  Cultural Phenomenological and Neurophenomenological Approaches
+  Conclusion
+  References
+  H. Psychodynamic Approaches to Consciousness
+  CHAPTER 24. Motivation, Decision Making, and Consciousness: From Psychodynamics to Subliminal Priming and Emotional Constraint Satisfaction
+  Abstract
+  Introduction
+  A History of Psychoanalytic Views of Conscious and Unconscious Processes
+  Freud’s Topographic Model
+  Foresight and Hindsight: Evaluating Freud’s First Model of Consciousness
+  Consciousness in Later Psychoanalytic Models
+  Psychoanalytically Inspired Research on Unconscious Processes: Subliminal Activation
+  The New Look
+  Subliminal Psychodynamic Activation
+  Subliminal Politics
+  Emotional Constraint Satisfaction in Judgment and Decision Making
+  Conclusion
+  Three Types of Activation
+  Implicit/Explicit and Procedural/ Declarative: One Dichotomy or Two?
+  Acknowledgments
+  Notes
+  References
+  Part II. THE NEUROSCIENCE OF CONSCIOUSNESS
+  A. Neurophysiological Mechanisms of Consciousness
+  CHAPTER 25. Hunting the Ghost: Toward a Neuroscience of Consciousness
+  Abstract
+  Consciousness as a State of an Organism
+  Sleep
+  Anaesthesia
+  Coma and Vegetative State
+  Conclusion
+  Consciousness as Attribute or Trait of Psychological Processes
+  Neuropsychological Approaches to Conscious Representations
+  Experiments on Normal Observers
+  Conclusion
+  Consciousness and Confounds
+  Acknowledgements
+  References
+  CHAPTER 26. Neurodynamical Approaches to Consciousness
+  Abstract
+  The Intuition
+  Neurodynamics Dynamical Systems
+  Neurodynamics and the Dynamical Approach in Neuroscience
+  Chaos in the Brain
+  Self-Organization and the Emergence of Spatiotemporal Patterns
+  Examples of Neurodynamical Approaches to Consciousness<br> Introduction
+  Related Models
+  The Search for Meaningful Spatiotemporal Patterns in the Brain<br> Introduction
+  Connectivity in the Brain
+  Detecting Interdependent Activations from Real Brain Recordings
+  Synchrony: Perhaps Not the Best Candidate, but at Least the Simplest
+  The Crowd’s Favorite: The Gamma Band<br> Evidence for a Relation Between Gamma Synchrony and Consciousness
+  Problems Concerning the Link Between Gamma Synchrony and Consciousness
+  Consciousness and Dynamical Structures: Some Qualifications<br> Introduction
+  Ongoing Flow and Fleeting Experiences
+  The Future: Beyond Correlation?<br> Introduction
+  Correlation and Emergence
+  Gaining Access to Experience
+  A ‘Topological Approach’ to First-Person Data
+  A ‘Structural Invariants’ Approach to First-Person Data
+  Can We Avoid the Pitfalls of Introspectionism?
+  Conclusion
+  Notes
+  References
+  B. Neuropsychological Aspects of Consciousnes: Disorders and Neuroimaging
+  CHAPTER 27. The Thalamic Intralaminar Nuclei and the Property of Consciousness
+  Abstract
+  Introduction
+  The Concept of “C” or Elementary Consciousness
+  C Includes One (Minimal) Aspect of the Complex Concept “Self ”
+  There Is a Lot That C Does Not Include
+  Neuronal Activity Patterns
+  We Are Looking for Mc, Rather Than C
+  C Requires a Time-Dependent Process
+  C Is an Emergent Property
+  C Depends upon an Anatomically Localizable Mechanism
+  Evidence for Localization of Mc
+  Neocortex Provides Content, But Is Insufficient to Provide the Property C
+  Conscious Content Includes Primitive, Non-Cognitive Components
+  An Historical Antecedent: The Centrencephalon
+  Different Kinds of Evidence. That Mc Requires the ILN.
+  Simplified Image of a Thalamus
+  The Definition of the ILN Has Changed
+  Some Neurologic Evidence: Three Clinical Facts
+  The ILN Subserve Mc: The Widespread Connections
+  The ILN Subserve Mc: Multiple Functional Roles
+  Bilaterality of the Mechanism
+  The ILN Subserve Mc: Results of Bithalamic Paramedian Strokes
+  Shortness of Breath
+  Ascending Activation
+  The ILN Are Not Simply Relays for Activation
+  Thalamic Contribution to Attention
+  Appropriate Interaction
+  Interruption of Access to C
+  Loss of Function from Unbalanced Inhibition
+  The Conviction of Volition
+  Endowing Emotions with C
+  Importance of C for Episodic Memory
+  Summary of the Thalamic ILN and the Property C
+  References
+  CHAPTER 28. The Cognitive Neuroscience of Memory and Consciousness
+  Abstract
+  Introduction
+  Neural Substrates of Retrieval Success Versus Attempt
+  Neural Activity Associated with Remembering and Knowing
+  Sensory Reactivation in True and False Memory
+  Concluding Comments
+  Acknowledgments
+  References
+  C. Affective Neuroscience of Consciousness
+  CHAPTER 29. The Affective Neuroscience of Consciousness: Higher-Order Syntactic Thoughts, Dual Routes to Emotion and Action, and Consciousness
+  Abstract
+  Emotions as States
+  The Functions of Emotion
+  Reward, Punishment, and Emotion in Brain Design: An Evolutionary Approach
+  Taxes
+  Reward and Punishment
+  To What Extent Is Consciousness Involved in the Different Types of Processing Initiated by Emotional States?
+  A Theory of Consciousness
+  Dual Routes to Action
+  Discussion
+  Conclusions and Comparisons
+  Notes
+  References
+  D. Social Neuroscience of Consciousness
+  CHAPTER 30. Consciousness: Situated and Social
+  Abstract
+  Introduction: The Problem of Conscious Experience
+  Situated Cognition
+  Extended Conscious Experience?
+  Social Cognition The Social Brain Hypothesis
+  Social Cognitive Neuroscience
+  Simulation
+  Conclusions
+  References
+  Part III
+  QUANTUM APPROACHES TO CONSCIOUSNESS
+  CHAPTER 31. Quantum Approaches to Consciousness
+  Abstract
+  Introduction
+  The Classical-Physics Approach
+  The Quantum Approach
+  “The Observer” and “The Observed System” in Copenhagen Quantum Theory
+  The Paradigmatic Example
+  Von Neumann’s Formulation
+  Summary
+  Pragmatic Neuroscience
+  The Penrose-Hameroff Approach
+  Does this rule have any empirical support?
+  The Bohm Approach
+  The von Neumann/Stapp Approach
+  Pashler’s Analysis
+  The Libet Experiment
+  Applications in Neuropsychology
+  The Eccles-Beck Approach
+  The Jibu-Yasue Approach
+  Glossary
+  References
+  Author Index
+  -A-
+  -B-
+  -C-
+  -D-
+  -E-
+  -F-
+  -G-
+  -J-
+  -K-
+  -L-
+  -M-
+  -N-
+  -O-
+  -P-
+  -S-
+  -T-
+  -U-
+  -V-
+  -W-
+  -X-
+  -Y-
+  -Z-
+  Subject Index
+  <strong>-A-</strong>
+  -B-
+  -C-
+  -D-
+  -E-
+  -F-
+  -G-
+  -H-
+  -I-
+  -J-
+  -K-
+  -L-
+  -M-
+  -N-
+  -O-
+  -P-
+  -Q-
+  -R-
+  -S-
+  -T-
+  <br> -U-
+  -V-
+  -W-
+  -Y-
+  -Z-

@@ -1,0 +1,19 @@
+Книга: The Chronicles of Hanuman
+Адрес: https://vedarama.com/en/books/sbvl-tcoh
+Страниц сайта: 7; заголовков: 8; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 7
+Букв в исходнике: 280332; в .md: 280332
+Первый заголовок: The Chronicles of Hanuman
+Последний заголовок: Acknowledgements
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+The Chronicles of Hanuman
+  About Author
+  Introduction
+  Vedic Tales
+  Hanuman Folk Tales
+  Hanuman Temples
+  Hanuman Prayers
+  Acknowledgements

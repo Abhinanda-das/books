@@ -1,0 +1,99 @@
+Книга: The Conscious Mind
+Адрес: https://vedarama.com/en/books/tc-dc
+Страниц сайта: 87; заголовков: 88; текстов: 0; картинок: 10 + обложка
+Глав по MCP: 8
+Букв в исходнике: 984351; в .md: 984351
+Первый заголовок: The Conscious Mind
+Последний заголовок: Bibliography
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+The Conscious Mind
+  Acknowledgments
+  Introduction - Taking Consciousness Seriously
+  PART I - Foundations
+  1 Two Concepts of Mind
+  1. What Is Consciousness?
+  2. The Phenomenal and the Psychological Concepts of Mind
+  3. The Double Life of Mental Terms
+  4. The Two Mind–Body Problems
+  5. Two Concepts of Consciousness
+  2 Supervenience and Explanation
+  1. Supervenience
+  2. Reductive Explanation
+  3. Logical Supervenience and Reductive Explanation
+  4. Conceptual Truth and Necessary Truth*
+  5. Almost Everything is Logically Supervenient on the Physical*
+  PART II - The Irreducibility of Consciousness
+  3 Can Consciousness Be Reductively Explained?
+  1. Is Consciousness Logically Supervenient on the Physical?
+  2. The Failure of Reductive Explanation
+  3. Cognitive Modeling
+  4. Neurobiological Explanation
+  5. The Appeal to New Physics
+  6. Evolutionary Explanation
+  7. Whither Reductive Explanation?
+  4 Naturalistic Dualism
+  1. An Argument Against Materialism
+  2. Objections From A Posteriori Necessity*
+  3. Other Arguments for Dualism*
+  4. Is This Epiphenomenalism?*
+  5. The Logical Geography of the Issues
+  6. Reflections on Naturalistic Dualism
+  5 The Paradox of Phenomenal Judgment
+  1. Consciousness and Cognition
+  2. The Paradox of Phenomenal Judgment
+  3. On Explaining Phenomenal Judgments
+  4. Arguments Against Explanatory Irrelevance
+  5. The Argument from Self-Knowledge*
+  6. The Argument from Memory*
+  7. The Argument from Reference*
+  8. The Content of Phenomenal Beliefs*
+  PART III - Toward a Theory of Consciousness
+  6 The Coherence Between Consciousness and Cognition
+  1. Toward a Nonreductive Theory
+  2. Principles of Coherence
+  3. More on the Notion of Awareness
+  4. The Explanatory Role of Coherence Principles
+  5. Coherence as a Psychophysical Law
+  7 Absent Qualia, Fading Qualia, Dancing Qualia
+  1. The Principle of Organizational Invariance
+  2. Absent Qualia
+  3. Fading Qualia
+  4. Inverted Qualia
+  5. Dancing Qualia
+  6. Nonreductive Functionalism
+  8 Consciousness and Information: Some Speculation
+  1. Toward a Fundamental Theory
+  2. Aspects of Information
+  4. Is Experience Ubiquitous?
+  5. The Metaphysics of Information
+  6. Open Questions
+  PART IV Applications
+  9 Strong Artificial Intelligence
+  1. Machine Consciousness
+  2. On Implementing a Computation
+  3. In Defense of Strong AI
+  4. The Chinese Room and Other Objections
+  5. External Objections
+  6. Conclusion
+  10 The Interpretation of Quantum Mechanics
+  1. Two Mysteries
+  2. The Framework of Quantum Mechanics
+  3. Interpreting Quantum Mechanics
+  4. The Everett Interpretation
+  5. Objections to the Everett Interpretation
+  6. Conclusion
+  Notes
+  Chapter 1
+  Chapter 2
+  Chapter 3
+  Chapter 4
+  Chapter 5
+  Chapter 6
+  Chapter 7
+  Chapter 8
+  Chapter 9
+  Chapter 10
+  Bibliography
