@@ -1,0 +1,36 @@
+Книга: Sevā Lālasā (Hankering for Service)
+Адрес: https://vedarama.com/en/books/bvi-slalasa
+Страниц сайта: 21; заголовков: 22; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 16341; в .md: 16341
+Первый заголовок: Sevā Lālasā (Hankering for Service)
+Последний заголовок: Part 4
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №4 идёт «PART 1».
+  - Разрыв нумерации разделов: после №4 идёт «PART 1».
+  - Разрыв нумерации разделов: после №4 идёт «Part 1».
+
+Оглавление выгрузки:
+Sevā Lālasā (Hankering for Service)
+  intro
+  1 – Niśānta-līlā (Pastimes at the End of Night)
+  PART 1
+  PART 2
+  PART 3
+  PART 4
+  2 – Prāta-līlā (Early Morning Pastimes)
+  PART 1
+  PART 2
+  PART 3
+  PART 4
+  3 – Pūrvāhna-līlā (Late Morning Pastimes)
+  PART 1
+  PART 2
+  Part 3
+  Part 4
+  4 – Madhyāhna-līlā (Afternoon Pastimes)
+  Part 1
+  Part 2
+  Part 3
+  Part 4

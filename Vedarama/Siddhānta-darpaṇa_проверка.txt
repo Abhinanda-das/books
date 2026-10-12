@@ -1,0 +1,78 @@
+Книга: Siddhānta-darpaṇa
+Адрес: https://vedarama.com/en/books/bv-siddhanta-darpana
+Страниц сайта: 66; заголовков: 67; текстов: 56; картинок: 0 + обложка
+Глав по MCP: 10
+Букв в исходнике: 135173; в .md: 135173
+Первый заголовок: Siddhānta-darpaṇa
+Последний заголовок: Text 4
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Siddhānta-darpaṇa
+  Cover
+  Introduction
+  First Ray - Refutation of the atheistic systems
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+  Second Ray - Refutation of the view that the Puranas are human compositions
+    Text 1
+    Text 2
+    Text 3
+  Third Ray - Srimad-Bhagavatam is one of the eighteen Maha-puranas
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+  Fourth Ray - Srimad-Bhagavatam is different from the Devi Purana and the Kalika Purana
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+  Fifth Ray - Srimad-Bhagavatam is an authorized scripture
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  Sixth Ray - Srila Vyasadeva is the sole author of Srimad-Bhagavatam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  Seventh Ray - Srimad-Bhagavatam has 335 chapters
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  Epilogue
+    Text 1
+    Text 2
+    Text 3
+    Text 4
