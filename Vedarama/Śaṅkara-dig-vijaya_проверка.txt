@@ -1,0 +1,187 @@
+Книга: Śaṅkara-dig-vijaya
+Адрес: https://vedarama.com/en/books/sdv
+Страниц сайта: 173; заголовков: 174; текстов: 0; картинок: 0
+Глав по MCP: 17
+Букв в исходнике: 407632; в .md: 407632
+Первый заголовок: Śaṅkara-dig-vijaya
+Последний заголовок: (100-107)
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №2 идёт «Canto 4 - Boyhood Days Up to The Age of Eight».
+  - Разрыв нумерации разделов: после №13 идёт «Canto 15 - Triumphant Tour of The Land».
+
+Оглавление выгрузки:
+Śaṅkara-dig-vijaya
+  Introduction
+  Canto 1 - Prologue
+  (1-17) Prefatory Remarks
+  (18-26)
+  (27-39) Spiritual Degeneration and the Mission of the Devas
+  (40-44)
+  (45-56)
+  (57-59)
+  (60-71) Skanda as Kumarila
+  (72-77)
+  (78-84)
+  (85-94)
+  (95-98)
+  Canto 2 - The Birth of Sankara
+  (1-5) Sankara's Parents
+  (6-14)
+  (15-20)
+  (21-26)
+  (27-35)
+  (36-45) The Advent of Sankara
+  (46-53)
+  (54-70)
+  (71-82) The Infant Sankara
+  (83-93)
+  Сanto 3 - The Earthly Manifestation of Devas
+  (1-8) The Antecedents of Mandana
+  (9-16)
+  (17-24) Marriage of Mandana and Bharati
+  (25-42)
+  (43-60)
+  (61-68) Parents' Instructions to the Couple
+  (69-76)
+  (77-79)
+  (80-83)
+  Canto 4 - Boyhood Days Up to The Age of Eight
+  (1-20) Sankara as a Precocious Boy
+  (21-33)
+  (34-109) A Panegyric of Sankara
+  Canto 5 - Embracing Sannyasa
+  (1-9) Reputation of Boy Sankara attracts the King
+  (10-19)
+  (20-30)
+  (31-35) Permission for his becoming a Sannyasin
+  (36-49)
+  (50-54)
+  (55-58)
+  (59-74) The Crocodile Incident and Departure from Home
+  (75-79)
+  (80-88)
+  (89-96) Meeting with Govindapada and accepting Sannyasa
+  (97-105)
+  (106-116) In Praise of Sankara the Sannyasin
+  (117-124) Floods in the Narmada
+  (125-127)
+  (128-131)
+  (132-138)
+  (139-149) Govindapada Commissioning Sankara
+  (150-161)
+  (162-171)
+  Canto 6 - Establishment of The Pristine Philosophy of The Self
+  (1-15) Advent of Sanandana alias Padmapada
+  (16-19)
+  (20-32) Siva as an Out-caste confronts Sankara
+  (33-39)
+  (40-43)
+  (44-51) Siva commissions Sankara
+  (52-63) Departure to Badari and writing the Bhashyas
+  (64-71) Some Incidents after Leaving Badari
+  (72-78)
+  (79-96) The Greatness of Sankara's Works
+  (97-107)
+  Canto 7 - The Meeting with Vyasa
+  (1-21) Sankara in Confrontation with Sage Vyasa
+  (22-31) Sankara in Praise of Vyasa
+  (32-39)
+  (40-50) Vyasa Blessing Sankara with a Longer Lease of Life
+  (51-58)
+  (59-67) Sankara at Prayaga
+  (68-76)
+  (77-105) Meeting of Sankara and Kumarila
+  (106-121) Kumarila accepting Sannyasa
+  Canto 8 - Controversy with Mandana
+  (1-13) Towards Mahishmati to meet Mandana
+  (14-31) In Confrontation with Mandana
+  (32-38) Decision to Hold Debate
+  (39-51)
+  (52-56)
+  (57-62) The Great Debate with Mandana
+  (63-65)
+  (66-73)
+  (74-130)
+  (131-136) Verdict of Ubhaya-bharati: Defeat of Mandana announced
+  Canto 9 - Establishing the Claim to be The Master of All Learning
+  (1-3) The Correct Interpretation of Jaimini
+  (4-15)
+  (16-23)
+  (24-43) Mandana in Praise of Sankara
+  (44-57) Ubhaya-Bharati's Challenge
+  (58-72)
+  (73-78) The Propriety of acquiring Knowledge of Sex-love discussed
+  (79-88)
+  (89-100)
+  (101-109) Sankara Entering the Body of the Dead King
+  Canto 10 - Acquirement of Knowledge of Sex-love
+  (1-10)
+  (11-18)
+  (19-23) Disciples' Reflections
+  (24-29)
+  (30-35)
+  (36-44) Disciples Entering the Palace as Musicians
+  (45-55)
+  (56-60)
+  (61-72)
+  (73-76)
+  (77-102) Instruction on Brahman-Knowledge
+  (103-107) Sankara travels on his Spiritual Mission
+  (108-119)
+  Canto 11 - Encounter with The Fierce Bhairava
+  (1-28) The Kapalika's plea for the Acharya's Head
+  (29-36) Padmapada foils the Kapalika's Plan
+  (37-44)
+  (45-58) Padmapada's Story about Nrisimha
+  (59-75) The Acharya's Hymn to Nrisimha
+  Canto 12 - The Coming of Some Disciples
+  (1-5) The Acharya at Gokarna
+  (6-19) Hymn to Hari-Sankara
+  (20-24) The Acharya at Mookambika
+  (25-37)
+  (38-53) Coming of the Disciple Hastamalaka
+  (54-62)
+  (63-69) The Acharya at Sringa-giri and Coming of Totaka
+  Canto 13 - Preaching of Brahma Vidya
+  (1-21) Writing of an Exegesis on Sutra-bhashya
+  (22-32) Antecedents of Hastamalaka
+  (33-48)
+  (49-62) Sureswara and his Exegesis
+  (63-75)
+  Сanto 14 - The Pilgrimage of Padmapada
+  (1-19) The Rationale of Pilgrimage
+  (20-28)
+  (29-50) The Acharya back at Kaladi at his Mother's Death-bed
+  (51-53)
+  (54-73) Account of Padmapada's Pilgrimage
+  (74-91) Padmapada at his Uncle's house: Comparative Merits of the Sannyasin and the Householder Ideals
+  (92-106)
+  (107-116) The Fate of Padmapada's Exegesis
+  (117-137) The Greatness of Rameswaram
+  (138-152) Padmapada's Disappointment
+  (153-165)
+  (166-175) Sankara's Tremendous Memory
+  Canto 15 - Triumphant Tour of The Land
+  (1-23) Confrontation with Kapalikas in Karnataka
+  (24-29)
+  (30-39) The Acharya at Gokarna
+  (40-48) The Saiva Neelakanta's Criticism of Advaita
+  (49-60) The Real Meaning of Identity of the Jiva and Iswara
+  (61-72)
+  (73-75) The Acharya at Dwaraka and at Ujjayini
+  (76-88)
+  (89-138) Controversy with Bhatta Bhaskara
+  (139-155)
+  (156-162) Defeat of Navagupta and Others
+  (163-174) Panegyric of Sankara
+  Canto 16 - Accession to Saradapitha
+  (1-8) Navagupta's Black Magic
+  (9-13)
+  (14-32)
+  (33-53) The Vision of Gaudapada
+  (54-61) Ascending the Throne of Omniscience
+  (62-80) Challenge by Scholars
+  (81-92) The Test by Saraswati
+  (93-99) Fulfilment of Mission and Disappearance at Kedara
+  (100-107)

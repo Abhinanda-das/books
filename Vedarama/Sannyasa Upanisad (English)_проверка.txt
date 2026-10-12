@@ -1,0 +1,15 @@
+Книга: Sannyasa Upanisad (English)
+Адрес: https://vedarama.com/en/books/sanu
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 23303; в .md: 23303
+Первый заголовок: Sannyasa Upanisad (English)
+Последний заголовок: Second Adhyaya
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Sannyasa Upanisad (English)
+  Invocation
+  First Adhyaya
+  Second Adhyaya

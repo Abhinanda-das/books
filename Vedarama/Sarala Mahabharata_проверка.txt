@@ -1,0 +1,37 @@
+Книга: Sarala Mahabharata
+Адрес: https://vedarama.com/en/books/sar-mb
+Страниц сайта: 21; заголовков: 22; текстов: 2; картинок: 1
+Глав по MCP: 3
+Букв в исходнике: 53129; в .md: 53129
+Первый заголовок: Sarala Mahabharata
+Последний заголовок: LAZY NOTES (IN LOCKDOWN)
+
+ЗАМЕЧАНИЯ:
+  - У «2021» нет содержимого (только заголовок).
+  - Пропуск/сбой нумерации: после «2021» идёт «2020».
+  - У «2020» нет содержимого (только заголовок).
+  - Картинка рис-001.png не скачана: неверный адрес файла: data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4QBCRXhpZgAASUkqAAgAAAACADEBAgAHAAAAJgAAADsBAgAMAA
+
+Оглавление выгрузки:
+Sarala Mahabharata
+  Sarala Mahabharat
+    2021
+  April
+  THE REDEMPTION OF THE VASUS
+  A MORAL QUESTION FOR DURYODHANA (WHICH HE NEVER ANSWERED)
+  February
+  RAI'S STORY
+  CONFRONTING BRAHMINIZATION: THE STORY OF BALA DHUPA
+  January
+  LECTURES ON SARALA MAHABHARATA
+    2020
+  November
+  FOR YOUR INFORMATION, FRIENDS
+  October
+  LAZY NOTES (IN LOCKDOWN)
+  LAZY NOTES (IN LOCKDOWN) -2
+  August
+  LAZY NOTES (IN LOCKDOWN)
+  LAZY NOTES (IN LOCKDOWN) - 2
+  July
+  LAZY NOTES (IN LOCKDOWN)
