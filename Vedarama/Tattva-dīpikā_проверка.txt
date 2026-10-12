@@ -1,0 +1,38 @@
+Книга: Tattva-dīpikā
+Адрес: https://vedarama.com/en/books/bv-tattva-dipika
+Страниц сайта: 26; заголовков: 27; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 26
+Букв в исходнике: 90163; в .md: 90163
+Первый заголовок: Tattva-dīpikā
+Последний заголовок: Concluding Words
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Tattva-dīpikā
+  Cover
+  Preface
+  The Manuscript and Its Authorship
+  Acknowledgments
+  Introduction -1
+  Śrī Baladeva Vidyabhusana
+  Summary of Tattva-dipika
+  About this translation
+  Introduction - 2
+  Buddhism
+  Jainism
+  Lokayata
+  Madhyamika Buddhism
+  Vaisesika
+  Nyaya
+  Samkhya
+  Yoga
+  Aikabhavika Mimamsa
+  Prabhakara Misra’s Mimamsa
+  Kumarila Bhatta’s Mimamsa
+  Bhedabheda
+  Pasupata
+  Hairanyagarbha
+  Advaita Philosophy
+  Bhagavata Philosophy
+  Concluding Words
