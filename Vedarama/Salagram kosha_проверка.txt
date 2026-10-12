@@ -1,0 +1,35 @@
+Книга: Salagram kosha
+Адрес: https://vedarama.com/en/books/sk
+Страниц сайта: 22; заголовков: 23; текстов: 16; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 105701; в .md: 105701
+Первый заголовок: Salagram kosha
+Последний заголовок: Identification of Salagramas
+
+ЗАМЕЧАНИЯ:
+  - Пропуск/сбой нумерации: после «2» идёт «4».
+
+Оглавление выгрузки:
+Salagram kosha
+  Chapter One - What are Salagramas?
+    1
+    2
+    3
+    4
+    5
+  Chapter Two - Legends about Salagrama
+  Chapter Three - <strong>Bana-Lingas from River Narmada</strong>
+    1
+    2
+    4
+    5
+    6
+  Chapter Four - Details of Shaalagraama
+    1
+    2
+    3
+    4
+    5
+    6
+  Chapter Five (From Sri-tattva-nidhi) - <strong>Identification of Shaalagraama</strong>
+  Identification of Salagramas
