@@ -1,0 +1,20 @@
+Книга: Synopsis of Upaniṣads [English]
+Адрес: https://vedarama.com/en/books/sou
+Страниц сайта: 8; заголовков: 9; текстов: 0; картинок: 0
+Глав по MCP: 8
+Букв в исходнике: 23454; в .md: 23454
+Первый заголовок: Synopsis of Upaniṣads [English]
+Последний заголовок: Synopsis of Śvetāśvatara Upaniṣad
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Synopsis of Upaniṣads [English]
+  Synopsis of Kena Upaniṣad
+  Synopsis of Kaṭha Upaniṣad
+  Synopsis of Praśna Upaniṣad
+  Synopsis of Muṇḍaka Upaniṣad
+  Synopsis of Māṇḍūkya Upaniṣad
+  Synopsis of Taittirīya Upaniṣad
+  Synopsis of Aitareya Upaniṣad
+  Synopsis of Śvetāśvatara Upaniṣad

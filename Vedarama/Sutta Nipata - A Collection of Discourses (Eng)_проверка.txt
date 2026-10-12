@@ -1,0 +1,19 @@
+Книга: Sutta Nipata - A Collection of Discourses (Eng)
+Адрес: https://vedarama.com/en/books/snacod
+Страниц сайта: 7; заголовков: 8; текстов: 0; картинок: 0
+Глав по MCP: 7
+Букв в исходнике: 227624; в .md: 227624
+Первый заголовок: Sutta Nipata - A Collection of Discourses (Eng)
+Последний заголовок: Glossary
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Sutta Nipata - A Collection of Discourses (Eng)
+  Introduction to the Sutta-Nipata
+  Chapter I. URAGAVAGGA.
+  Chapter II. KULAVAGGA.
+  Chapter III. MAHAVAGGA.
+  Chapter IV. ATTHAKAVAGGA.
+  Chapter V. PARAYANAVAGGA.
+  Glossary

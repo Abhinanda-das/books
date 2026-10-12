@@ -1,0 +1,141 @@
+Книга: Syamananda-sataka
+Адрес: https://vedarama.com/en/books/rsknnd-sss
+Страниц сайта: 127; заголовков: 128; текстов: 102; картинок: 0
+Глав по MCP: 12
+Букв в исходнике: 98027; в .md: 98027
+Первый заголовок: Syamananda-sataka
+Последний заголовок: Text 101
+
+ЗАМЕЧАНИЯ:
+  - У «1» нет содержимого (только заголовок).
+  - Пропуск/сбой нумерации: после «1» идёт «Text 1».
+
+Оглавление выгрузки:
+Syamananda-sataka
+    1
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  2 - An Auspicious Introduction in the Form of a Blessing
+  Chapter Summary
+    Text 5
+  3 - An Ocean of Transcendental Bliss
+  Chapter Summary
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+  4 - An Ocean of Mercy
+  Chapter Summary
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+  5 - An Ocean of Glory That Fills the Three Worlds
+  Chapter Summary
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+  6 - An Eternal Nectar Ocean of Spiritual Love
+  Chapter Summary
+    Text 27
+  Note: Texts 27-54 are a single sentence. The gist of this sentence is:
+    Text 28
+    Text 29
+    Text 30
+    Text 31
+  7 - An Ocean of Glorious Good Fortune
+  Chapter Summary
+    Text 32
+    Text 33
+  8 - A Great Ocean of Splendor
+  Chapter Summary
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+    Text 39
+    Text 40
+    Text 41
+    Text 42
+    Text 43
+    Text 44
+    Text 45
+    Text 46
+  9 - An Ocean of Gracefulness
+  Chapter Summary
+    Text 47
+    Text 48
+    Text 49
+    Text 50
+    Text 51
+    Text 52
+    Text 53
+    Text 54
+    Text 55
+  10 - An Ocean of the Pastimes of Compassion
+  Chapter Summary
+  Note: Texts 55-77 are a single sentence. The gist of this sentence is:
+    Text 56
+    Text 57
+    Text 58
+    Text 59
+    Text 60
+    Text 61
+    Text 62
+    Text 63
+    Text 64
+    Text 65
+    Text 66
+    Text 67
+    Text 68
+    Text 69
+    Text 70
+    Text 71
+    Text 72
+    Text 73
+    Text 74
+    Text 75
+    Text 76
+    Text 77
+    Text 78
+  11 - An Ocean of Artistic Skill
+  Chapter Summary
+  Note: Texts 78-93 are a single sentence. The gist of this sentence is:
+    Text 79
+    Text 80
+    Text 81
+    Text 82
+    Text 83
+    Text 84
+    Text 85
+    Text 86
+    Text 87
+    Text 88
+    Text 89
+    Text 90
+    Text 91
+    Text 92
+    Text 93
+    Text 94
+  12 - An Ocean of Sweetness
+  Chapter Summary
+    Text 95
+    Text 96
+    Text 97
+    Text 98
+    Text 99
+    Text 100
+    Text 101
