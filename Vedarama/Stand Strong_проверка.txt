@@ -1,0 +1,25 @@
+Книга: Stand Strong
+Адрес: https://vedarama.com/en/books/ststr
+Страниц сайта: 13; заголовков: 14; текстов: 0; картинок: 0
+Глав по MCP: 13
+Букв в исходнике: 383536; в .md: 383536
+Первый заголовок: Stand Strong
+Последний заголовок: Author Profile
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Stand Strong
+  Stand Strong
+  Acknowledgments
+  Author’s Note
+  Chapter 1
+  Chapter 2
+  Chapter 3
+  Chapter 4
+  Chapter 5
+  Chapter 6
+  Chapter 7
+  Chapter 8
+  Chapter 9
+  Author Profile

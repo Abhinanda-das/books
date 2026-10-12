@@ -1,0 +1,21 @@
+Книга: Śrita Kamalā
+Адрес: https://vedarama.com/en/books/jg-srita-kamala
+Страниц сайта: 9; заголовков: 10; текстов: 9; картинок: 0
+Глав по MCP: 9
+Букв в исходнике: 4103; в .md: 4103
+Первый заголовок: Śrita Kamalā
+Последний заголовок: Text 9
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Śrita Kamalā
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
