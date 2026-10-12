@@ -1,0 +1,30 @@
+Книга: SP Memories 4
+Адрес: https://vedarama.com/en/books/spm4
+Страниц сайта: 18; заголовков: 19; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 18
+Букв в исходнике: 600554; в .md: 600554
+Первый заголовок: SP Memories 4
+Последний заголовок: Chapter 15
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+SP Memories 4
+  Foreword
+  Preface
+  Introduction
+  Chapter 1
+  Chapter 2
+  Chapter 3
+  Chapter 4
+  Chapter 5
+  Chapter 6
+  Chapter 7
+  Chapter 8
+  Chapter 9
+  Chapter 10
+  Chapter 11
+  Chapter 12
+  Chapter 13
+  Chapter 14
+  Chapter 15
