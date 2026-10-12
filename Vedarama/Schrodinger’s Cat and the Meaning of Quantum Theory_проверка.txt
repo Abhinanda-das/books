@@ -1,0 +1,15 @@
+Книга: Schrodinger’s Cat and the Meaning of Quantum Theory
+Адрес: https://vedarama.com/en/books/scatmoqt
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 3184; в .md: 3184
+Первый заголовок: Schrodinger’s Cat and the Meaning of Quantum Theory
+Последний заголовок: Other interpretations
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Schrodinger’s Cat and the Meaning of Quantum Theory
+  Schrodinger’s Cat and the Meaning of Quantum Theory
+  Quantum orthodoxy (Copenhagen interpretation)
+  Other interpretations
