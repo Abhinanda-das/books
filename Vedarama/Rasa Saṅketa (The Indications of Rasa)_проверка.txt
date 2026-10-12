@@ -1,0 +1,14 @@
+Книга: Rasa Saṅketa (The Indications of Rasa)
+Адрес: https://vedarama.com/en/books/bvi-rassanket
+Страниц сайта: 2; заголовков: 3; текстов: 0; картинок: 0
+Глав по MCP: 2
+Букв в исходнике: 8987; в .md: 8987
+Первый заголовок: Rasa Saṅketa (The Indications of Rasa)
+Последний заголовок: poem
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Rasa Saṅketa (The Indications of Rasa)
+  intro
+  poem
