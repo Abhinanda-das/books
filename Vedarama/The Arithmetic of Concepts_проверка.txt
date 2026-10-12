@@ -1,0 +1,13 @@
+Книга: The Arithmetic of Concepts
+Адрес: https://vedarama.com/en/books/ad-tac
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 89973; в .md: 89973
+Первый заголовок: The Arithmetic of Concepts
+Последний заголовок: The Arithmetic of Concepts
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+The Arithmetic of Concepts
+  The Arithmetic of Concepts

@@ -1,0 +1,299 @@
+Книга: The Bhaktivedanta Purports
+Адрес: https://vedarama.com/en/books/sivaramasw-tbp
+Страниц сайта: 277; заголовков: 278; текстов: 7; картинок: 0
+Глав по MCP: 8
+Букв в исходнике: 412761; в .md: 412761
+Первый заголовок: The Bhaktivedanta Purports
+Последний заголовок: Bibliography
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №1 идёт «Chapter 1 - Arguments of the Scholars».
+  - Разрыв нумерации разделов: после №5 идёт «Part 2 - Presenting the Evidence».
+  - Разрыв нумерации разделов: после №2 идёт «Chapter 6 - Code 1: The Theme of the Gita».
+  - Разрыв нумерации разделов: после №10 идёт «Part 3 - Conclusions».
+  - Разрыв нумерации разделов: после №3 идёт «Chapter 11 - Code 6: Śrīla Prabhupāda Rightly Explains Everything in Terms of Bhakti».
+  - Разрыв нумерации разделов: после №12 идёт «Part 4 - Afterword and Appendices».
+  - Раздел начинается не с 1: «Verse 9.22».
+  - Раздел начинается не с 1: «Verse 6.46».
+  - Раздел начинается не с 1: «Verse 9.23».
+  - Раздел начинается не с 1: «Verse 14.26».
+
+Оглавление выгрузки:
+The Bhaktivedanta Purports
+  The Bhaktivedanta Purports
+  Acknowledgements
+  Foreword
+  Introduction
+  Part 1 - Defining The objections
+  Chapter 1 - Arguments of the Scholars
+  Arguments of the Opposition
+  Examples of Śrīla Prabhupāda’s Practice
+  Allegation 1
+  Allegation 2
+  Allegation 3
+  Allegation 4
+  Allegation 5
+  Who Is It For?
+  Method of Presentation
+  Terminology and Mechanics
+  Pages:
+  Section Headings:
+  Slokas:
+  Allegations:
+  Anuman:
+  Codes:
+  Corollaries:
+  Argument:
+  Appendix Arguments:
+  Chapter Presentation:
+  Chapter 2 - The Flow of Logic
+  Introduction
+  Anumān
+  Logical Steps (The Codes)
+  Preliminary Logic to Codes (The Corollaries)
+  Chapter 3 - Supporting the Assumptions
+  Introduction
+  Eight Anumān Verified
+  Anumān 1
+  Anumān 2
+  Anumān 3
+  Anumān 4
+  Anumān 5
+  Anumān 6
+  Anumān 7
+  Anumān 8
+  Chapter 4 - Evidence in Support of Logic
+  Pramāṇa
+  Why Only the Gītā?
+  Cyclic Arguments?
+  Further Rules of Analysis
+  Consisitency of the Gītā
+  Apparent Inconsistency?
+  Conclusion
+  Chapter 5 - Further Evidence: Kṛṣṇa is the Supreme Personality of Godhead
+  Introduction
+  The Absolute Truth
+  Absolute Truth as Brahman
+  Different Forms of Brahman
+  All Forms of Brahman Subordinate to Kṛṣṇa
+  Kṛṣṇa as Supreme Brahman
+  Conclusion
+  The Consequences of this Chapter
+  Part 2 - Presenting the Evidence
+  Chapter 6 - Code 1: The Theme of the Gita
+  Proposition
+  Argument — The Theme
+  The Text
+  Chapter Summary
+  Conclusion of this Chapter: Code 1 is Confirmed
+  Chapter 7 - Code 2: Different Paths of Approach to the Problem
+  Proposition
+  Argument — Approaching the Problem
+  Approaches and Solutions
+  Different Approaches
+  Chapter Summary
+  Conclusion of this Chapter: Code 2 is Confirmed
+  Chapter 8 - Code 3: The Solution is Possible Only Through Bhakti-yoga
+  Proposition
+  Argument — Introduction
+  Proposed Flow of Logic
+  Argument 1: A Solution can be Effected Only Through Knowledge, and Knowledge as Defined in the Gītā Contains the Solution
+  Knowledge of Kṛṣṇa Dissipates Ignorance
+  The Definition of Knowledge
+  The Solution is Contained in Knowledge
+  The Process of Knowledge
+  Summary
+  Ananya Bhakti — The Solution
+  Other References in the Gītā
+  The Meaning of Ananya
+  Coming to Kṛṣṇa
+  Bhakti Induces Kṛṣṇa to Reciprocate
+  Afterword
+  Other References
+  Summary II
+  Argument 3: How Bhakti Solves the Problem
+  Transcendental Knowledge as the Solution
+  Accepting Kṛṣṇa’s Mercy
+  Rejecting the Mercy
+  Summary III
+  Argument 4: The Conclusion of the Vedas
+  Chapter Summary
+  Conclusion of this Chapter: Code 3 is Confirmed
+  Chapter 9 - Code 4: Karma, Jñāna and Yoga are Meant to Achieve Bhakti
+  Proposition
+  Argument — Introduction
+  Argument 1: Yoga Means Bhakti-yoga
+  Understanding Yoga from Code 3
+  What is Yoga?
+  What is the Goal of Yoga?
+  Summary of Yoga
+  Conclusion
+  Argument 2: Other Yoga Systems are Dependent on Bhakti
+  Other Practices as Elements of Bhakti
+  Dependence on Bhakti
+  Bhakti is Independent
+  Argument 3: Other Yogas Meant to Achieve Bhakti
+  All Yoga Practices are Interrelated
+  The Yoga System or Yoga Ladder
+  Only Bhakti Awards Ultimate Liberation
+  Bhakti is the Goal of the Yoga System
+  Argument 4: Bhakti-yoga is the Goal of the Gītā
+  Chapter Summary
+  Conclusion of this Chapter: Code 4 is Confirmed
+  Chapter 10 - Code 5: Lord Kṛṣṇa's Purpose in Speaking the Gita is to Bring Everyone to Devotional Service
+  Proposition
+  Argument — Introduction
+  Argument 1: Attachment of Different Practitioners Conditioned by the Modes of Nature
+  Different Modes Mean Different Faiths
+  Environment is Also a Product of the Modes
+  The Transcendental Position of Bhakti-Yoga
+  Finally: The Plan of the Lord
+  The Reason for Other Paths
+  What About ISKCON?
+  Examples
+  Conclusion
+  Argument 2: The System of Jaimini
+  The Process
+  The Conclusion of the System of Jaimini
+  Chapter Summary
+  Conclusion to Chapter X
+  What is the Need for the Gītā?
+  Part 3 - Conclusions
+  Chapter 11 - Code 6: Śrīla Prabhupāda Rightly Explains Everything in Terms of Bhakti
+  Proposition
+  Argument — Introduction
+  Argument 1: Understanding the Gītā
+  Introduction
+  Māyāvāda: The Main Target
+  Devotional Purports Mean Consistency of Understanding
+  Confirmation by Codes 4 and 5
+  Śrī Kṛṣṇa’s Version
+  Summary
+  Any Alternatives?
+  Conclusion
+  Argument 2 - Explaining Other Systems as Bhakti-Yoga
+  Introduction 2
+  Explaining Other Yoga Systems as if They were Bhakti-Yoga
+  Explaining Other Yoga Systems as Elements of Bhakti or Partial Functions of Bhakti
+  The Conclusion of Other Yoga Systems is Bhakti
+  Explaining all Chapters and Verses as Bhakti
+  Summary 2
+  Conclusion 2
+  Argument 3 - Contrast of Other Disciplines
+  Introduction 3
+  Time Relevance
+  Conclusion 3
+  Argument 4 – Defining General Terms in a Devotional Context
+  Introduction 4
+  Conclusion 4
+  Argument 5 - Translation of Words in a Bhakti Context
+  Introduction 5
+  Category 1: A Devotional Translation
+  Category 2: Translation for “Meaning” (As Opposed to Literal)
+  Conclusion 5
+  Chapter Summary
+  What is the Foundation?
+  Another Alternate Argument
+  Answering the Allegations Once Again
+  Conclusion to Chapter XI
+  Chapter 12 - Code 7: Śrīla Prabhupāda Purports Constitute the Bhagavad-gītā As It Is
+  Proposition
+  Argument — Introduction
+  What is a Commentary?
+  Point 2: Make Known in Detail and Make Intelligible a Declaration
+  Point 3: With a View to Mutual Understanding or Reconciliation
+  Summary
+  Argument 1: Śrīla Prabhupad’s Explanations are Justified — Introduction
+  Verifying Śrīla Prabhupāda’s Commentaries
+  Guideline 1
+  Guideline 2
+  XII.iii.e Guideline 3
+  Guideline 4
+  Summary of Verification
+  Argument 2: Other Justified Explanations
+  Argument 3: Commentaries that are Not Justified
+  Māyāvāda Commentaries
+  Academic and “Mish-Mash”
+  Summary II
+  Are the Five Objections Justified?
+  Summary of Commentaries
+  Argument 4: Why Bhagavad-gītā As It Is?
+  Summary of the Book
+  Conclusion
+  Part 4 - Afterword and Appendices
+  Appendix 1 - Examples of Kṛṣṇa's Accepting a Plurality of Process
+  References:
+  Example 1.
+  Example 2.
+  Example 3.
+  Example 4.
+  Example 5.
+  Example 6.
+  Example 7.
+  Example 8.
+  Example 9.
+  Example 10.
+  Example 11.
+  Example 12.
+  Example 13.
+  Example 14.
+  Example 15.
+  Example 16.
+  Example 17.
+  Example 18.
+  Appendix 2 - Bhakti-yoga Contains the Benefits of All Other Processes
+    Verse 8.28
+    Verse 9.22
+    Verse 6.46
+    Verse 7.1
+    Verse 9.23
+    Verse 12.1
+    Verse 14.26
+  Appendix 3 - Quotes Substantiating the Concept of the Yoga Ladder
+  Analysis Of The Chapters To Show A Hierarchy
+  Verse Number Relevance To Chapters
+  Connection Between A Plurality Of Systems
+  Conclusion
+  Appendix 4 - The Conclusions of the Gītā Apply to the Vedic Tradition
+  Reference: Appendix 6
+  Immediate Goals
+  Ultimate Goal
+  Plurality Of Goals
+  Subjective Goal?
+  Conclusion
+  Appendix 5 - Kṛṣṇa is the Supreme Personality of Godhead
+  References: Appendix 6 Three Proofs Presented
+  Proof One
+  The Indirect Explanation
+  The Direct Understanding
+  PROOF TWO
+  Proof Three
+  Approach One
+  Approach Two
+  Appendix 6 - The CA Use and Solution to Suffereing (Purpose of the Gītā)
+  Conclusion
+  Appendix 7 - Personal Vs. Impersonal Absolute Truth
+  Appendix 8 - Bhakti is the goal of the Gītā: Proof Through End Rather Than Means
+  Appendix 9 - Realisation of Supersoul Through Bhakti
+  Appendix 10 - Yoga Means Bhakti
+  Mixed Bhakti
+  Dual Vision
+  Conclusion
+  Appendix 11 - Lord Kṛṣṇa Favours Bhakti
+  Appendix 12 - Bhakti as the Conclusion of the Gītā Through Anuman 3
+  Appendix 13 - Non-Devotional Yoga Engages Gross and Subtle Bodies as Objects of Self-Realisation
+  Karma-Yoga
+  Jnana-Yoga
+  Astanga-Yoga
+  Bhakti-Yoga
+  Summary
+  Appendix 14 - Liberation in Non-Devotional Practices
+  Karma Yoga
+  Jnana-Yoga
+  Astanga-Yoga
+  Summary
+  Appendix 15 - The Gītā as Veda, According to the Gītā
+  List Of Codes And Corollaries
+  Codes 1-7
+  The Corollaries
+  Bibliography

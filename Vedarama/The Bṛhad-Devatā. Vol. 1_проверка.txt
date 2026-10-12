@@ -1,0 +1,32 @@
+Книга: The Bṛhad-Devatā. Vol. 1
+Адрес: https://vedarama.com/en/books/tbd1
+Страниц сайта: 20; заголовков: 21; текстов: 0; картинок: 0
+Глав по MCP: 20
+Букв в исходнике: 57240; в .md: 57240
+Первый заголовок: The Bṛhad-Devatā. Vol. 1
+Последний заголовок: References
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+The Bṛhad-Devatā. Vol. 1
+  About Book
+  Introduction
+  1. How I came to edit the Brhaddevata.
+  2. Rajendralala Mitra’s edition.
+  3. General account of the MSS. and their relationship.
+  4. Detailed account of the Brhaddevata MSS.
+  5. The Nitimanjari MSS.
+  6. Two recensions of the Brhaddevata.
+  7. Critical principles followed in constituting the Text.
+  8. External evidence bearing on the text
+  9. Intimate relationship to the Nirukta
+  10. Date and authorship of the Brhaddevata.
+  11. Emendations.
+  12. Arrangement of translation and notes.
+  13. Irregularities in the text of the Brhaddevata.
+  14. Summary of the contents of the Brhaddevata.
+  15. The khilas of the Rg-veda in the Brhaddevata.
+  16. Appendices.
+  17. Acknowledgment of obligations.
+  References
