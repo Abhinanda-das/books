@@ -1,0 +1,31 @@
+Книга: Sarasvatī Saṅlapa. Uncommon Dialogues
+Адрес: https://vedarama.com/en/books/bst-sanlapa
+Страниц сайта: 19; заголовков: 20; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 348268; в .md: 348268
+Первый заголовок: Sarasvatī Saṅlapa. Uncommon Dialogues
+Последний заголовок: Discourse 7
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Sarasvatī Saṅlapa. Uncommon Dialogues
+  Dedication
+  Introduction
+  Part 1 - Sri Sarasvati Sanlapa
+  Conversation 1
+  Conversation 2
+  Conversation 3
+  Conversation 4
+  Conversation 5
+  Conversation 6
+  Conversation 7
+  Conversation 8
+  Part 2 - Vaktrtavali. Discourses
+  Discourse 1
+  Discourse 2
+  Discourse 3
+  Discourse 4
+  Discourse 5
+  Discourse 6
+  Discourse 7
