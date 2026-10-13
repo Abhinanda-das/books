@@ -1,0 +1,21 @@
+Книга: Yugala-kiśorāṣṭaka
+Адрес: https://vedarama.com/en/books/rupa-yugala-kisorastaka
+Страниц сайта: 9; заголовков: 10; текстов: 9; картинок: 0
+Глав по MCP: 9
+Букв в исходнике: 5916; в .md: 5916
+Первый заголовок: Yugala-kiśorāṣṭaka
+Последний заголовок: Text 9
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Yugala-kiśorāṣṭaka
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9

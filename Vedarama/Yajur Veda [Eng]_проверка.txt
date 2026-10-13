@@ -1,0 +1,63 @@
+Книга: Yajur Veda [Eng]
+Адрес: https://vedarama.com/en/books/yv
+Страниц сайта: 51; заголовков: 52; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 7
+Букв в исходнике: 835364; в .md: 835364
+Первый заголовок: Yajur Veda [Eng]
+Последний заголовок: Prapathaka V
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Yajur Veda [Eng]
+  Kanda I
+  Prapathaka I
+  Prapathaka II
+  Prapathaka III
+  Prapathaka IV
+  Prapathaka V
+  Prapathaka VI
+  Prapathaka VII
+  Prapathaka VIII
+  Kanda II
+  Prapathaka I
+  Prapathaka II
+  Prapathaka III
+  Prapathaka IV
+  Prapathaka V
+  Prapathaka VI
+  Kanda III
+  Prapathaka I
+  Prapathaka II
+  Prapathaka III
+  Prapathaka IV
+  Prapathaka V
+  Kanda IV - The Piling of the Fire Altar
+  Prapathaka I
+  Prapathaka II
+  Prapathaka III
+  Prapathaka IV
+  Prapathaka V
+  Prapathaka VI
+  Prapathaka VII
+  Kanda V - The Explanation of the Piling of the Fire Altar
+  Prapathaka I
+  Prapathaka II
+  Prapathaka III
+  Prapathaka IV
+  Prapathaka V
+  Prapathaka VI
+  Prapathaka VII
+  Kanda VI - The Explanation of the Soma Sacrifice
+  Prapathaka I
+  Prapathaka II
+  Prapathaka III
+  Prapathaka IV
+  Prapathaka V
+  Prapathaka VI
+  Kanda VII - The Explanation of the Soma Sacrifice (continued)
+  Prapathaka I
+  Prapathaka II
+  Prapathaka III
+  Prapathaka IV
+  Prapathaka V

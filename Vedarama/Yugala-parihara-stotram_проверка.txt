@@ -1,0 +1,22 @@
+Книга: Yugala-parihara-stotram
+Адрес: https://vedarama.com/en/books/yps
+Страниц сайта: 10; заголовков: 11; текстов: 9; картинок: 0
+Глав по MCP: 10
+Букв в исходнике: 9332; в .md: 9332
+Первый заголовок: Yugala-parihara-stotram
+Последний заголовок: Text 9
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Yugala-parihara-stotram
+  Preface
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
