@@ -1,0 +1,52 @@
+Книга: The Master and His Emissary: The Divided Brain and the Making of the Western World
+Адрес: https://vedarama.com/en/books/im-tmahe
+Страниц сайта: 38; заголовков: 39; текстов: 0; картинок: 29 + обложка
+Глав по MCP: 7
+Букв в исходнике: 1400084; в .md: 1400084
+Первый заголовок: The Master and His Emissary: The Divided Brain and the Making of the Western World
+Последний заголовок: SELECT BIBLIOGRAPHY
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №10 идёт «CHAPTER 12 - THE MODERN AND POST-MODERN WORLDS».
+  - Разрыв нумерации разделов: после №12 идёт «CHAPTER 1: ASYMMETRY AND THE BRAIN».
+
+Оглавление выгрузки:
+The Master and His Emissary: The Divided Brain and the Making of the Western World
+  ACKNOWLEDGEMENTS
+  INTRODUCTION
+  The structure of this book
+  Why is the structure of the brain important?
+  The importance of being two
+  Differences are not absolute, but even small differences get to be amplified
+  Brain organisation varies from individual to individual
+  Essential asymmetry
+  PART ONE - THE DIVIDED BRAIN
+  CHAPTER 1 - ASYMMETRY AND THE BRAIN
+  CHAPTER 2 - WHAT DO THE TWO HEMISPHERES ‘DO’?
+  CHAPTER 3 - LANGUAGE, TRUTH AND MUSIC
+  CHAPTER 4 - THE NATURE OF THE TWO WORLDS
+  CHAPTER 5 - THE PRIMACY OF THE RIGHT HEMISPHERE
+  CHAPTER 6 - THE TRIUMPH OF THE LEFT HEMISPHERE
+  PART TWO - HOW THE BRAIN HAS SHAPED OUR WORLD
+  CHAPTER 7 - IMITATION AND THE EVOLUTION OF CULTURE
+  CHAPTER 8 - THE ANCIENT WORLD
+  CHAPTER 9 - THE RENAISSANCE AND THE REFORMATION
+  CHAPTER 10 - THE ENLIGHTENMENT
+  CHAPTER 11- ROMANTICISM AND THE INDUSTRIAL REVOLUTION
+  CHAPTER 12 - THE MODERN AND POST-MODERN WORLDS
+  CONCLUSION - THE MASTER BETRAYED
+  NOTES
+  CHAPTER 1: ASYMMETRY AND THE BRAIN
+  CHAPTER 2: WHAT DO THE TWO HEMISPHERES ‘DO'?
+  CHAPTER 3: LANGUAGE, TRUTH AND MUSIC
+  CHAPTER 4: THE NATURE OF THE TWO WORLDS
+  CHAPTER 5: THE PRIMACY OF THE RIGHT HEMISPHERE
+  CHAPTER 6: THE TRIUMPH OF THE LEFT HEMISPHERE
+  CHAPTER 7: IMITATION AND THE EVOLUTION OF CULTURE
+  CHAPTER 8: THE ANCIENT WORLD
+  CHAPTER 9: THE RENAISSANCE AND THE REFORMATION
+  CHAPTER 10: THE ENLIGHTENMENT
+  CHAPTER 11: ROMANTICISM AND THE INDUSTRIAL REVOLUTION
+  CHAPTER 12: THE MODERN AND POST-MODERN WORLDS
+  CONCLUSION: THE MASTER BETRAYED
+  SELECT BIBLIOGRAPHY
