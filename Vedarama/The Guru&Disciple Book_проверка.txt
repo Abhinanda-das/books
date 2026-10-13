@@ -1,0 +1,256 @@
+Книга: The Guru&Disciple Book
+Адрес: https://vedarama.com/en/books/kr-gdb
+Страниц сайта: 243; заголовков: 244; текстов: 9; картинок: 0
+Глав по MCP: 14
+Букв в исходнике: 693447; в .md: 693447
+Первый заголовок: The Guru&Disciple Book
+Последний заголовок: About the author
+
+ЗАМЕЧАНИЯ:
+  - Пропуск/сбой нумерации: после «1969» идёт «1971».
+
+Оглавление выгрузки:
+The Guru&Disciple Book
+  Dedication
+  Acknowledgements
+  Learned Vaishnavas
+  Academics
+  Editorial Team
+  Encouragement
+  Special Thanks
+  About this book
+  Transformation
+  Perspective
+  Foreword
+  Introduction
+  Turbulence
+  Taking a fresh look
+  Part 1: First Things First
+  1. You are here
+  The middle of the world
+  Not enough English words
+  Historical bias
+  Scientific sceptics
+  Fear of the big idea
+  2. Five tales
+  The true value of wood
+  The forgetful son
+  The man from Gandhara
+  Two birds in a tree
+  Dangerous kite flying
+  To Whom Her Majesty chooses
+  3. Understanding the Vedas
+  Preservation
+  4. What are the Vedas?
+  Samhita, Brahmana and Aranyaka
+  Upanishads
+  The Brahma Sutra or Vedanta Sutra
+  The Vedangas, Upangas and Upavedas
+  The Puranas
+  The Itihasas
+  The Pancharatra Agamas
+  Revelations
+  The guru
+  5. The Vedas and ‘other religions’
+  Do all paths lead to the truth?
+  Short-term
+  Anthropocentric
+  A time before ‘World Religions’
+  The best religion
+  The Vedas and Hinduism
+  6. Understanding the sources
+  7. Commentary and revelation
+  Absolute and relative truth
+  Historical waves
+  Standards
+  8. Postmodern views
+  9. The need for a guru
+  Statements from the Vedas
+  Part 2: The Ancient Culture of Learning
+  10. ‘A’ is for Acharya
+  What is a guru?
+  What is the meaning of Upadhyaya?
+  Six occupations
+  Three qualifications
+  The first universities
+  Length of school terms
+  School holidays
+  Changing definitions
+  11. Shiksha, Diksha, and sliding definitions
+  Shiksha guru
+  Diksha-guru
+  Ritvik: The seasonal priest
+  Sampradaya and Parampara
+  12. Diksha
+  The Diksha ceremony
+  Reforms
+  ‘Sixteen rounds’
+  13. Qualities of the guru and the disciple
+  Fourteen Qualities of the Guru
+  Fifteen qualities of the good disciple
+  14. What does a guru teach?
+  Four key instructions of a Vaishnava guru
+  The teachings of Madhvacharya
+  Five key conversations
+  The teachings of Srila Prabhupada
+  Modern practice
+  15. How does a guru teach?
+  16. Teaching techniques of the gurus
+  17. The reprehensible delusions of guruship
+  Verse 308: The delusions of ‘preceptorship’ or thinking of oneself as the preceptor:
+  Verse 309: The delusions about the role of the disciple:
+  Verse 310: The delusions arising from the process of instruction of a shishya - these are of four categories:
+  18. Where can I find a guru?
+  The sequence of gurus
+  ‘Find a guru’
+  19. Within you, without you
+  20. Little ants on a leaping lion
+  21. The parampara family tree
+  The originator
+  Popularisers, innovators, and other important teachers
+  The ‘Telescope effect’
+  Different branches, same trunk, same root
+  The Family tree ‘zig-zag’
+  The diksha parampara and the shiksha parampara
+  The ‘Parivara’ and the ‘Vamsba’
+  The truncated parampara
+  Parampara: A human necessity
+  Sampradaya
+  22. A very different diksha
+  “Blind sampradaya”
+  Part 3: Creating and sustaining community
+  23. The guru spreads his arms
+  Ancient period
+  Early period
+  Mediaeval period
+  Modern period
+  24. Not everybody likes organisations
+  The organisation
+  The perils of ‘organised religion’
+  25. Sustainability through governance
+  Half-chicken logic
+  The devil and the saint
+  26. Are you church or chapel?
+  Part 4: Shades of saffron
+  27. Sannyasa dharma
+  The sannyasi guidebook
+  Appearance
+  Behaviour
+  The Ten vows
+  Possessions
+  Danda
+  Begging
+  Begging bowl
+  The fallen sannyasi
+  Disqualifications for taking sannyasa
+  When to become a sannyasi
+  After the death of a sannyasi
+  28. Sannyasa: the real and the false
+  Gaudiya Math
+  Complaints
+  29. Undercurrents
+  30. White skin, orange cloth
+  31. The GBC
+  32. Saffron cardinals
+  Management and control
+  ‘Shudras and sannyasis’
+  ‘Clergy burn-out’
+  Unexamined patterns
+  The ‘Circuit’
+  The absent guru
+  Niggling doubts
+  Future church, future problems?
+  In summary
+  33. Reflections and reforms
+  Checks and balances
+  The ‘Dangerous age’
+  When sannyasis become gurus
+  Reasons for leaving
+  Solutions and reforms
+  The ‘Guru problem’
+  Part 5: Gurus, scandals and issues
+  34. Why would anyone become a guru?
+  A representative of God?
+  35. Gurus of the future
+    1967
+    1968
+    1969
+    1971
+    1972
+    1973
+    1974
+    1975
+    1976
+  36. The July 9th letter
+  37. So what went wrong?
+  Logical assumptions
+  Two powers merge
+  Repeating history
+  Eleven gurus, eleven acharyas
+  Long names, chairs and flowers
+  38. Their father’s shoes (279)
+  Ignored warnings
+  Two lines of authority
+  “ISKCON approved”
+  39. Diksha Lite: Initiation without all the fuss
+  40. Diksha and drugs: Bad combination
+  Tragic
+  41. Gum and disciple in therapy
+  42. When the wise become weak
+  The struggles
+  The mad elephant in the garden of devotion
+  43. Loyal disciple...or a mouse?
+  From tiger to mouse
+  44. Leaving a guru
+  Family priests
+  Modern times
+  Part 6: Becoming a disciple today
+  45. Steps toward the big step
+  You are what you (eat) believe
+  The courage of our convictions
+  Initial precepts
+  Before breakfast
+  Two elements
+  Sustainable regular practises
+  Foundational principles
+  The Elements of Dharma
+  The Regulative Principles
+  In conclusion
+  46. Are you ready for a guru?
+  Transformation, not just transmission
+  The remote guru
+  ‘Not teachers, but cheaters’
+  The ‘Rabbi test’
+  Blowing on a cold lassi
+  47. Serious to find a guru
+  Types of guru
+  48. Testing the guru
+  49. The practical path of initiation
+  Spiritual friends
+  Creating community
+  Spiritual Guidance
+  Understanding the subject
+  The Disciple Course
+  Testing and being tested
+  An ‘Aspiring disciple’
+  Mutual scrutiny
+  Acting in the relationship
+  Recommendation
+  Support
+  The Day of initiation
+  Second initiation
+  Appendix
+  Becoming a disciple: A self-test
+  Becoming a disciple: A Checklist
+  The Guru: A Checklist
+  Education
+  Personal example
+  Association
+  Teaching
+  Mission
+  Guidance
+  Personal qualities
+  Team player
+  The Ten Offences to the Holy Name
+  Bibliography
+  About the author
