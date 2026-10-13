@@ -1,0 +1,22 @@
+Книга: The Nāṭya-śāstra [Kapila Vatsyayan]
+Адрес: https://vedarama.com/en/books/ns-kv
+Страниц сайта: 10; заголовков: 11; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 10
+Букв в исходнике: 248924; в .md: 248924
+Первый заголовок: The Nāṭya-śāstra [Kapila Vatsyayan]
+Последний заголовок: References
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+The Nāṭya-śāstra [Kapila Vatsyayan]
+  Introduction
+  1. Bharata: The Question of Authorship
+  2. The Natyasastra: Pre-Text and Context
+  3. The Primary Text
+  4. The Natyasastra: The Implicit and the Explicit Text
+  5. The Text and Creativity
+  6. Text: The Inflow and the Outflow
+  7. The Text and the Interpreters
+  Conclusion
+  References

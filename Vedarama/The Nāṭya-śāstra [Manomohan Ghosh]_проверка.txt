@@ -1,0 +1,375 @@
+Книга: The Nāṭya-śāstra [Manomohan Ghosh]
+Адрес: https://vedarama.com/en/books/ns-mg
+Страниц сайта: 363; заголовков: 364; текстов: 0; картинок: 0
+Глав по MCP: 18
+Букв в исходнике: 376747; в .md: 376747
+Первый заголовок: The Nāṭya-śāstra [Manomohan Ghosh]
+Последний заголовок: References
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+The Nāṭya-śāstra [Manomohan Ghosh]
+  Preface
+  Contents
+  Introduction
+  I. The Present Work
+  1. A Short History of the Study of Indian Music
+  2. The Basic Text
+  3. Translation and Motes
+  II. The Ancient Indian Theory and Practice of Music
+  1. The Indian Conception of Music
+  2. The Vocal Music
+  3. The Instrumental Music
+  III Literature on Ancient Indian Music
+  1. Early Writers (c. 600 B.C.—200 A.C.)
+  2. The Date of the Natyasastra.
+  3. Early Medieval Writers on Music (200 A.C.—600 A.C.)
+  4. Medieval writers of the Transitional Period (600 A.C.-1000 A.C.)
+  IV. More About the Ancient Indian Theory and Practice of Drama
+  1. The Three Types of Character
+  2. The Prominent Position of the Nataka
+  3. The Typical Theatrical Troupe
+  4. The Playwright as a Member of the Theatrical Troupe
+  5. Distribution of Roles
+  6. The Principles of Personation
+  7. Special Importance of Women in Dramatic Production
+  8. Impersonation of a King
+  9. An Ideal Director
+  V. More Data of India's Cultural History in The Natyasastra
+  1. Language
+  2. Metre
+  3. The Arthasastra
+  Chapter 28. On The Instrumental Music
+  Three Classes of Instruments
+  Threefold Application of the Instrumental Music
+  Music of all kinds embellishes the Drama
+  Characteristics of the Gandharva
+  Sources of the Gandharva
+  Three kinds of the Gandharva
+  Two Bases of Notes
+  Formal Aspects of Music of the Vina
+  Formal Aspect of Music of the Human Throat
+  Aspects of the Verbal Theme in Music
+  Twenty Aspects of the Tala
+  The Seven Notes
+  Mutual relation of the Notes
+  The Sonant and the Consonant Notes
+  The Dissonant Notes
+  The Assonant Notes
+  Description of the Two Gramas
+  Srutis in the Sadja Grama
+  Srutis in the Madhyama Grama
+  The Murchanas
+  Murchanas in the Sadja Grama
+  Murchanas in the Madhyama Grama
+  Initial Notes of the Murchanas in the two Gramas
+  The Four classes of Murchanas
+  Eighty four Tanas of the Murchanas
+  The Hexatonic Tanas
+  The Pentatonic Tanas
+  The Two Ways of Tanas
+  The Overlapping
+  Two kinds of Overlapping
+  The Overlapping Notes
+  The Overlapping Jati
+  The Jatis
+  Seven Jatis in the Sadja Gramai
+  Eleven Jatis in the Madhyama Grama
+  Two kinds of Jatis
+  The modified Jatis
+  The Number of Notes in the Jatis of the two Gramas
+  Jatis in the Sadja Grama: The Heptatonic Jatis
+  The Pentatonic Jatis
+  The Jatis in the Madhyama Grama: The Hexatonic Jatis
+  The Heptatonic Jatis
+  Amsas in the Jatis
+  The Characteristics of the Jatis
+  The Graha
+  The Amsa
+  Amsas of the Jatis
+  The High Pitch Movement
+  The Low Pitch Movement
+  Reduction and Amplification
+  The Amplification
+  The Hexatonic Treatment
+  The Pentatonic Treatment
+  The Nyasa and the Apanyasa
+  The Sadji
+  The Arsabhi
+  The Dhaivati
+  The Naisadi
+  The Sadjakaisiki
+  The Sadjodicyava
+  The Sadjamadhya
+  The Gandhari
+  The Raktagandhari
+  The Gandharodicyava
+  The Madhyama
+  The Madhyamodicyava
+  The Pancami
+  The Gandharapancami
+  The Andhri
+  The Nandayanti
+  The Karmaravi
+  The Kaisiki
+  Chapter 29. On Stringed Instruments
+  Application of Jatis to Sentiments
+  The four Varnas
+  The Thirty three Alamkaras
+  The Monotonic Alamkaras
+  The Mixed Alamkaras
+  The Ascending Alamkaras
+  The Descending Alamkaras
+  The Definition of the Alamkaras
+  Alamkaras depending on the Giti
+  Dhatus in playing stringed instruments
+  The Vistara Dhatus
+  The Karana Dhatus
+  The Abiddha Dhatus
+  The Vyanjana Dhatus
+  The three Vrttis
+  The Jatis
+  Three kinds of music of the Vina
+  The Karanas of the Vipanci
+  The Asravana
+  The Arambha
+  The Vaktrapani
+  The Samghotana
+  The Parighattana
+  The Margasarita
+  The Lilakrta
+  Chapter 30. On Hollow Instruments
+  Chapter 31. On The Time-Measure
+  The Asarita
+  The medium Asarita (1)
+  The Layantarita (1)
+  The Vardhamana (1)
+  The Asaritas
+  The Short Asarita (1)
+  The medium Asarita (2)
+  The Long Asarita (1)
+  The Vardhamana (2)
+  The Layantarita (2)
+  The Short Asarita (2)
+  The Short Asarita (3)
+  The Medium Asarita
+  The Long Asarita (2)
+  The four limbs of the Vardhamana
+  The Seven Types of Songs
+  The Madraka (1)
+  The Aparantaka (1)
+  The Rovindaka (1)
+  The Ovenaka (1)
+  The Ullopyaka (1)
+  The Uttara (1)
+  The Madraka (2)
+  The Aparantaka (2)
+  The Ullopyaka (2)
+  The Prakari
+  The Ovenaka (2)
+  The Rovindaka (2)
+  The Uttara (2)
+  The Catuspada
+  The Lasyas
+  The Geyapada
+  The Sthitapathya
+  The Asinapathya
+  The Puspagandika
+  The Pracchedaka
+  The Trimudhaka
+  The Saindhavaka
+  The Dvimudhaka
+  The Uttamottamaka
+  The Uktapratyukta
+  Importance of the Tala
+  The Three Layas
+  The Three Yatis
+  The Three Panis
+  Chapter 32. The Dhruva Songs
+  Dhruvas and their limbs
+  The metres used in different Dhruvas
+  Five Aspects of Dhruvas
+  Five occasions for Dhruvas
+  Contents of Dhruvas
+  Dhruvas to suit time and occasion
+  Dhruvas to indicate movements
+  Metres for Dhruvas
+  The Language of Dhruvas
+  Metres of Dhruvas
+  Dhruvas to suit occasions
+  The Rule of Graha
+  Application of songs
+  Qualities of singers and players of instruments
+  Characteristics of a Vina player
+  Characteristics of a flute-player
+  Difference between male and female song and recitation
+  Qualities of a teacher
+  Qualities of a disciple
+  Qualities of voice
+  Faults of a singer
+  Chapter 33. On Covered Instruments
+  Origin of drums
+  Use of Drums
+  General Description of Drums
+  Music of Puskaras should possess all these aspects.
+  Five Hand-strokes
+  The Four Margas
+  Playing of Dardura and Panava
+  Playing of Panava
+  Playing of Dardura
+  Playing together the three Puskaras
+  Karanas of three Puskaras
+  Three Yatis
+  The Three Marjanas
+  Earth for the Marjana of Vamaka and Urdhvaka
+  Three Samyogas
+  Three Gatas
+  Eight Conformities
+  Eighteen Jatis
+  Playing of drums in three Gatas
+  Playing of drums in Dhruvas
+  How to begin the playing of drums
+  Twenty Prakaras and their application
+  Seating of the Musicians
+  The Tri-Sama
+  Different Tastes of Listeners
+  Variety of Drumming to suit Occasions
+  Faults of a Drummer
+  Characteristics of Drums
+  Characteristics of the best Hides
+  On the making of Drums
+  Applying Rohana to Drums
+  Ceremony of Installing Drums
+  Characteristics of Upahastas
+  Characteristics of Good Drummers
+  Qualities of a good player of the Mrdanga
+  Qualities of a good player of the Panava
+  General Rules of Drumming
+  Qualities of the Mrdanga
+  Indispensability of Drums in a Performance
+  Chapter 34. Types of Character
+  Three Types of Character in a Play
+  A Superior Male Character
+  A Middling Male Character
+  Inferior Male Characters
+  A Superior Female Character
+  A Middling Female Character
+  An Inferior Female Character
+  A Character of Mixed Nature
+  Four Classes of Hero
+  The Four Classes of Jesters
+  The Hero
+  Four Glasses of Heroine
+  Two Glasses of Employment for Characters
+  Female Inmates of the Harem
+  The Chief Queen
+  Other Queens
+  Other Highborn Wives
+  Ordinary Wives
+  Concubines
+  Craftswomen
+  Actresses
+  Dancers
+  Maids in Constant Attendance
+  Maids of Special Work
+  Maids in Constant Move
+  Errand Girls
+  Mahattaris
+  Pratiharis
+  Maidens
+  Old Dames
+  Ayuktikas
+  Other Women Employees in the Harem
+  Other Inmates of the Harem
+  The Snataka
+  The Kancukiyas etc.
+  The Natakiya
+  The Varsadharas
+  The Nirmundas
+  External Persons
+  The King
+  The Leader of the Army
+  The Chaplains and Ministers
+  Secretaries
+  Judges
+  Wardens of Princes
+  Courtiers
+  Chapter 35. Distribution of Roles
+  General Principles of Distribution
+  The Role of gods
+  The Role of Raksasas etc.
+  The Role of Kings
+  The Role of Army-leaders and Secretaries
+  The Role of the Kancukiyas and the Srotriyas
+  The Role of Minor Characters
+  The Role of Fatigued Persons
+  The Role of a Person in Health
+  Special Cases of Assigning Roles
+  The Role of a Character with Extra and Special Limbs
+  The Entry of a Character
+  The Result of Impersonation
+  The Method of Proper Impersonation
+  Three Kinds of Impersonation
+  The Natural Impersonation
+  The Unnatural Impersonation
+  The Imitative Impersonation
+  Special Suitability of Men and Women
+  Women in Men’s Roles
+  Women’s Special Merit
+  Training Women in Different Roles
+  Result of Proper Assignment of Roles
+  Types of Dramatic Production
+  The Delicate Type of Production
+  The Energetic Type of Production
+  The Typical Impersonation of a King
+  Characteristics of a Director
+  Natural Qualities of a Director
+  Cheracteristies of an Assistant of the Director
+  Characteristics of an Actor
+  Characteristics of a Parasite
+  Characteristics of the Sukara
+  Characteristics of the Jester
+  Characteristics of a Servant
+  Characteristics of a Courtezan
+  Characteristics of a typical Heroine
+  Women disqualified to take up a role
+  Members of a typical theatrical party
+  Characteristics of Bharata
+  Characteristics of a Jester
+  Characteristics of a Master-musician
+  Meaning of the word ‘Nata’
+  The Benediction
+  Definition of a Director
+  Definition of a Playwright
+  Definition of an Actor
+  Definition of an Actress
+  The Crown-maker
+  The Maker of Ornaments
+  The Maker of Garlands
+  The Vesakara
+  The Painter, the Dyer and the Craftsman
+  The Kusilava
+  Other members of the party
+  Chapter 36. Descent of Drama on The Earth
+  Sages question
+  Bharata said:
+  Ablution of the Director on the Stage
+  Bharata's Sons offended the Sages.
+  The Sages curse Bharata's Sons.
+  Gods intercede in favour of Bharata’s Sons
+  Bharata’s Sons approach their Father.
+  Bharata pacifies them.
+  Nahusainvites divine Artistes to the Earth.
+  Gods reject the request.
+  Nahusa approaches Bharata.
+  Urvasi and the earthly drama
+  Bharata grants this request and sends his sons to the earth.
+  Kohala is the Successor of Bharata.
+  Bharata’s sons come down to the earth.
+  Kohala and his associates
+  Value of the Natyasastra
+  Value of the Dramatic Show
+  The popular practice supplements dramatic rules.
+  The Final Benediction
+  References
