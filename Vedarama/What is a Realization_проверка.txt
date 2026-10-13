@@ -1,0 +1,13 @@
+Книга: What is a Realization?
+Адрес: https://vedarama.com/en/books/ad-wiap
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 14141; в .md: 14141
+Первый заголовок: What is a Realization?
+Последний заголовок: What is a Realization?
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+What is a Realization?
+  What is a Realization?

@@ -1,0 +1,13 @@
+Книга: What is Morphic Resonance?
+Адрес: https://vedarama.com/en/books/ad-wmr
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 9146; в .md: 9146
+Первый заголовок: What is Morphic Resonance?
+Последний заголовок: What is Morphic Resonance?
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+What is Morphic Resonance?
+  What is Morphic Resonance?

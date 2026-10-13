@@ -1,0 +1,13 @@
+Книга: What is the Dunning-Kruger Effect?
+Адрес: https://vedarama.com/en/books/ad-wdke
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 7762; в .md: 7762
+Первый заголовок: What is the Dunning-Kruger Effect?
+Последний заголовок: What is the Dunning-Kruger Effect?
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+What is the Dunning-Kruger Effect?
+  What is the Dunning-Kruger Effect?
