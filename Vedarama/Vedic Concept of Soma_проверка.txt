@@ -1,0 +1,20 @@
+Книга: Vedic Concept of Soma
+Адрес: https://vedarama.com/en/books/ramanathan-vcos
+Страниц сайта: 8; заголовков: 9; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 8
+Букв в исходнике: 105943; в .md: 105943
+Первый заголовок: Vedic Concept of Soma
+Последний заголовок: VII - Conclusion
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Vedic Concept of Soma
+  Preface
+  I - Introduction
+  II - Agnisoma Vidya
+  III - Adhidaivika Soma
+  IV - Adhibhautika Soma
+  V - Adhyatmika Soma
+  VI - Is Soma a Reality or a Mere Concept?
+  VII - Conclusion

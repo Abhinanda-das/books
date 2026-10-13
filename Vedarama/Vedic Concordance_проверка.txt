@@ -1,0 +1,61 @@
+Книга: Vedic Concordance
+Адрес: https://vedarama.com/en/books/vcon
+Страниц сайта: 49; заголовков: 50; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 3654125; в .md: 3654125
+Первый заголовок: Vedic Concordance
+Последний заголовок: 36. ha
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Vedic Concordance
+  Preface
+  General Plan of the Concordance
+  Primary Uses of the Concordance
+  Secondary Uses of the Concordance
+  Scope of the Concordance
+  Future Work Complementary to the Concordance
+  Acknowledgment of Obligations
+  Explanations Introductory to the Use of the Concordance
+  General scope of these explanations
+  General Remarks on the Character of the Variants
+  Methods Used in Reporting the Variants
+  Bibliography of the Works Cited, With Abbreviations of Their Titles
+  Abbreviations
+  Vedic Concordance Index
+  1.a
+  2.ā
+  3.i
+  4.ī
+  5.u
+  6.ū
+  7.ṛ
+  8.e
+  9.āi
+  10.o
+  11.āu
+  12.k
+  13.kha
+  14.ga
+  15.gha
+  16.ca
+  17.cha
+  18.ja
+  19.ṭa
+  20.da
+  21.dha
+  22.na
+  23.pa
+  24.pha
+  25.ba
+  26.bha
+  27.ma
+  28.ya
+  29.ra
+  30.la
+  31.va
+  32.śa
+  33.ṣa
+  35. sa
+  36. ha
