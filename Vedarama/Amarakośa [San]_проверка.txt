@@ -1,0 +1,15 @@
+Книга: Amarakośa [San]
+Адрес: https://vedarama.com/st/books/amarakosa
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 152529; в .md: 152529
+Первый заголовок: Amarakośa [San]
+Последний заголовок: Chapter 3
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Amarakośa [San]
+  Chapter 1
+  Chapter 2
+  Chapter 3
