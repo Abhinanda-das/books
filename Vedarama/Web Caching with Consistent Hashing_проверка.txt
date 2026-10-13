@@ -1,0 +1,40 @@
+Книга: Web Caching with Consistent Hashing
+Адрес: https://vedarama.com/en/books/wcwch
+Страниц сайта: 28; заголовков: 29; текстов: 0; картинок: 0
+Глав по MCP: 10
+Букв в исходнике: 31792; в .md: 31792
+Первый заголовок: Web Caching with Consistent Hashing
+Последний заголовок: 8 - Bibliography
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Web Caching with Consistent Hashing
+  Hashing (as used today on the internet)
+  Abstract
+  1 - Introduction
+  1.1 Web Caching
+  1.2 Related Work
+  1.3 Our Work
+  1.4 Paper Overview
+  2 - Consistent Hashing
+  2.1 Needs
+  2.2 Consistent Hashing
+  2.3 Analysis
+  2.4 Implementation Results
+  3 - Our System
+  3.1 Caches
+  3.2 Mapping to Caches
+  3.3 DNS Servers
+  3.4 Discussion of DNS
+  4 - Tests
+  4.1 Test Setup
+  4.2 Test Driver
+  4.3 Results
+  5 - Extensions
+  5.1 Locality
+  5.2 Advanced Load Balancing - Hot Pages
+  5.3 Fault Tolerance
+  6 - Conclusion
+  7 - Acknowledgments
+  8 - Bibliography
