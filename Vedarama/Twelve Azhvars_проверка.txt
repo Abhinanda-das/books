@@ -1,0 +1,30 @@
+Книга: Twelve Azhvars
+Адрес: https://vedarama.com/en/books/12a
+Страниц сайта: 18; заголовков: 19; текстов: 0; картинок: 0
+Глав по MCP: 17
+Букв в исходнике: 80360; в .md: 80360
+Первый заголовок: Twelve Azhvars
+Последний заголовок: Annexure – 2
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Twelve Azhvars
+  Publisher's Note
+  An Introduction to the Twelve Azhvars
+  The Great Acarya Nathamuni
+  1. Poygai Azhvar
+  2. Bhutatt Azhvar
+  3. Pey Azhvar
+  The Meeting of the First Three Azhvars
+  4. Tirumazhisai Azhvar
+  5. Nammazhvar
+  6. Mathurakavi Azhvar
+  7. Kulasekhara Azhvar
+  8. Periyazhvar
+  9. Sri Andal
+  10. Tondaradippodi Azhvar
+  11. Tiruppan Azhvar
+  12. Tirumarigai Azhvar
+  Annexure – 1
+  Annexure – 2
