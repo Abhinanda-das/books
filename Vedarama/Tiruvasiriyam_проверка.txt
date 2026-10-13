@@ -1,0 +1,19 @@
+Книга: Tiruvasiriyam
+Адрес: https://vedarama.com/en/books/tiruvasiriyam
+Страниц сайта: 7; заголовков: 8; текстов: 0; картинок: 0
+Глав по MCP: 7
+Букв в исходнике: 63400; в .md: 63400
+Первый заголовок: Tiruvasiriyam
+Последний заголовок: 7. Nalir madiccadaiyanum
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Tiruvasiriyam
+  1. Sekkar ma mugil
+  2. Ulagu padaittunda
+  3. Kurippil kondu
+  4. Ulitoruli
+  5. Mamudal adi
+  6. Oh oh ulaginadiyalve
+  7. Nalir madiccadaiyanum
