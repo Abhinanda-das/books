@@ -1,0 +1,24 @@
+Книга: Vedanta Psychology
+Адрес: https://vedarama.com/en/books/bhakma-vp
+Страниц сайта: 12; заголовков: 13; текстов: 0; картинок: 0 + обложка
+Глав по MCP: 7
+Букв в исходнике: 226320; в .md: 226320
+Первый заголовок: Vedanta Psychology
+Последний заголовок: Chapter four. The modes of modernity
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Vedanta Psychology
+  The Bhaktivedanta Academy
+  Acknowledgements
+  Introduction
+  Chapter one. Relationship and attachment
+  Chapter two. A vedic schema of the mind and its processes
+  Introduction
+  Part one. An overview of the conditioned state of the jivatma
+  Part two. Maha-samasti, Samasti and Vyasti: how consciousness is conditioned
+  Part tree. Vedic depth psychology
+  Part Four. An overview of the psychology of bhakti-yoga
+  Chapter three. Further considerations of material personality
+  Chapter four. The modes of modernity
