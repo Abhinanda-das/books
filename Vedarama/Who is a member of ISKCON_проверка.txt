@@ -1,0 +1,22 @@
+Книга: Who is a member of ISKCON
+Адрес: https://vedarama.com/en/books/wmi
+Страниц сайта: 8; заголовков: 9; текстов: 0; картинок: 10
+Глав по MCP: 8
+Букв в исходнике: 51419; в .md: 51419
+Первый заголовок: Who is a member of ISKCON
+Последний заголовок: 8. Todd DeWitt
+
+ЗАМЕЧАНИЯ:
+  - Картинка рис-002.png не скачана: неверный адрес файла: https://api.vedarama.comdata:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRA
+  - Картинка рис-004.png не скачана: неверный адрес файла: https://api.vedarama.comdata:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRA
+
+Оглавление выгрузки:
+Who is a member of ISKCON
+  1. The Types of membership
+  2. The ISKCON Apple
+  3. When Members Needs Change
+  4. Questions to ask yourself
+  5. Note: Terms and Conditions May Apply
+  6. What ISKCON Membership is not.
+  7. What Happens After ISKCON: The Way Out
+  8. Todd DeWitt

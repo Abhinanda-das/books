@@ -1,0 +1,13 @@
+Книга: Who Can Be Guru?
+Адрес: https://vedarama.com/en/books/ad-wcbg
+Страниц сайта: 1; заголовков: 2; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 34273; в .md: 34273
+Первый заголовок: Who Can Be Guru?
+Последний заголовок: Who Can Be Guru?
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Who Can Be Guru?
+  Who Can Be Guru?
