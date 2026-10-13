@@ -1,0 +1,38 @@
+---
+title: "Turiyatita-avadhuta Upanisad (English)"
+author: "Vyasadev"
+tags:
+  - "Английский"
+cssclasses:
+  - vedarama-book
+source: Vedarama
+source_url: "https://vedarama.com/en/books/tau"
+---
+
+# Turiyatita-avadhuta Upanisad (English)
+
+## Turiyatita-avadhuta Upanisad
+
+**Комментарий:**
+
+Om! That (Brahman) is infinite, and this (universe) is infinite.  
+The infinite proceeds from the infinite.  
+(Then) taking the infinitude of the infinite (universe),  
+It remains as the infinite (Brahman) alone.  
+Om! Let there be Peace in me!  
+Let there be Peace in my environment!  
+Let there be Peace in the forces that act on me!
+
+1.Now the grandfather of all people (the god Brahma) respectfully approaching his father, Adinarayana (Lord Vishnu) said, ‘What is the path of the Avadhutas after the Turiyatita stage, and what is their standing ?’To him replied the Lord Narayana: Wise sages consider that one who remains in the path of the Avadhuta is very rare in the world and (such sages) are not many; if one becomes (an Avadhuta) he is ever pure, he is indeed the embodiment of dispassion; he is indeed the visible form of wisdom and he is indeed the personification of the Veda (Vedapurusha). He is a (truly) great man, as his mind abides in me alone. Indeed I too abide in him. In due order, having been first a hut-dwelling ascetic (Kutichaka), he reaches the stage of a mendicant monk (Bahudaka); the mendicant monk attains to the stage of a Hamsa ascetic; the Hamsa ascetic (then) becomes the highest kind of ascetic (Paramahamsa). (In this stage) by introspection he realizes the entire world (as non-different from his Self); renouncing all personal possessions in (a reservoir of) waters, (such things as) his emblematic staff, water pot, waist band, loincloth that covers (his privities) and all ritualistic duties enjoined on him (in a previous stage); becoming unclad (lit. clothed by the points of the compass); abandoning even the acceptance of a discoloured, worn out bark garment or (deer) skin; behaving thereafter (after the stage of the Paramahamsa) as one subject to no mantras (i.e. performing no rituals) and gives up shaving, oil bath, the perpendicular mark of sandal paste on the forehead, etc.
+
+2.He is one terminating all religious and secular duties; free of religious merit or otherwise in all situations; giving up both knowledge and ignorance; conquering (the influence of) cold and heat, happiness and misery, honour and dishonour; having burnt up in advance, with the latent influence (vasana) of the body, etc., censure, praise, pride, rivalry, ostentation, haughtiness, desire, hatred, love, anger, covetousness, delusion, (gloating) joy, intolerance, envy, clinging to life, etc.; viewing his body as a corpse, as it were; becoming equanimous effortlessly and unrestrainedly in gain or loss; sustaining his life (with food placed in the mouth) like a cow; (satisfied) with (food) as it comes without ardently longing for it; reducing to ashes the host of learning and scholarship; guarding his conduct (without vaunting his noble way of life); disowning the superiority or inferiority (of any one); (firmly) established in non-duality (of the Self) which is the highest (principle) of all and which comprises all within itself; cherishing the conviction, ‘There is nought else distinct from me’; absorbing in the Self the fuel (of concept) other than the secret known only by the gods; untouched by sorrow; unresponsive to (worldly) happiness; free of desire for affection; unattached everywhere to the auspicious or the inauspicious; with (the functioning of) all senses at standstill; unmindful of the superiority of his conduct, learning and moral merit (dharma) acquired in the previous stages of his life; giving up the conduct befitting caste and stage of life (Vanaprastha); dreamless, as night and day are the same to him; ever on the move everywhere; remaining with the body alone left to him; his water-pot being the watering-place (only); ever sensible (but) wandering alone as though he were a child, madman or ghost; always observing silence and deeply meditating on his Self, he has for his support the propless (Brahman); forgetting everything (else) in consonance with the absorption in his Self; this Turiyatita sage reaching the state of the Avadhuta ascetic and completely absorbed in non-duality (of the Atman) (finally) gives up his body as he has become one with Om (the Pranava): such an ascetic is an Avadhuta; he has accomplished his life’s purpose. Thus (ends) the Upanishad.
+
+Om! That (Brahman) is infinite, and this (universe) is infinite.  
+The infinite proceeds from the infinite.  
+(Then) taking the infinitude of the infinite (universe),  
+It remains as the infinite (Brahman) alone.  
+Om! Let there be Peace in me!  
+Let there be Peace in my environment!  
+Let there be Peace in the forces that act on me!
+
+Here ends the Turiyatitavadhutopanishad belonging to the Sukla-Yajur-Veda.

@@ -1,0 +1,1224 @@
+Книга: Tiruvaymoli
+Адрес: https://vedarama.com/en/books/tiruvaymozhi
+Страниц сайта: 1211; заголовков: 1212; текстов: 0; картинок: 1
+Глав по MCP: 10
+Букв в исходнике: 5154539; в .md: 5154539
+Первый заголовок: Tiruvaymoli
+Последний заголовок: 10.10.11. Avavaraccul ariyai
+
+ЗАМЕЧАНИЯ:
+  - Картинка рис-001.jpg не скачана: скачивание https://divyaprabandham.koyil.org/wp-content/uploads/2016/03/krishna-kamsa.jpg: не удалось после 5 попыток: <urlopen error [Errno 9] Bad file descriptor>
+
+Оглавление выгрузки:
+Tiruvaymoli
+  First Centum
+  1.1 Uyarvara uyarnalam
+  1.1.1. Uyarvara uyarnalam
+  1.1.2. Mananagamalamara
+  1.1.3. Ilanatu udaiyanitu
+  1.1.4. Nam avan
+  1.1.5. Avaravar tamatamatu
+  1.1.6. Ninranar irundanar
+  1.1.7. Tidavisumbu erivali
+  1.1.8. Surar arivaru nilai
+  1.1.9. Ulan enil ulan
+  1.1.10. Paranta tan paravai
+  1.1.11. Kara visumbu
+  1.2 Vidumin murravum
+  1.2.1. Vidumin murravum
+  1.2.2. Minnin nilaiyila
+  1.2.3. Nir numadu
+  1.2.4. Illatum ullatum
+  1.2.5. Arradu parru
+  1.2.6. Parru ilan
+  1.2.7. Adangu elil
+  1.2.8. Ullam urai
+  1.2.9. Odunga avan
+  1.2.10. En perukku
+  1.2.11. Sert tadam
+  1.3 Pattudai adiyavar
+  1.3.1. Pattudai adiyavar
+  1.3.2. Elivarum iyalvinan
+  1.3.3. Amaivudai araneri
+  1.3.4. Yarumor nilaimaiyan
+  1.3.5. Pinakkara aruvagai
+  1.3.6. Unarndu unarndu
+  1.3.7. Onrenap palavena
+  1.3.8. Nalum ninradu
+  1.3.9. Valattanan tiripuram
+  1.3.10. Tuyakkaru madiyil
+  1.3.11. Amarargal toludu
+  1.4 1.4.1 anjiraiya madanaray
+  1.4.1. 1.4.1 Anjiraiya madanaray
+  1.4.2. Enseyya tamaraikkan
+  1.4.3. Vidiyinal pedai
+  1.4.4. En nirmai
+  1.4.5. Nalgit tan
+  1.4.6. Arulata nir
+  1.4.7. Enbu ilai
+  1.4.8. Niyalaiye sirupuvay
+  1.4.9. Nadada malar
+  1.4.10. Udal ali
+  1.4.11. Alavu iyanra
+  1.5 Valavel ulagin
+  1.5.1. Valavel ulagin
+  1.5.2. Ninaindu naindu
+  1.5.3. Mayonigalay
+  1.5.4. Tan or uruve
+  1.5.5. Maney nokki
+  1.5.6. Vinaiyen vinai
+  1.5.7. Adiyen siriya
+  1.5.8. Unday ulagu
+  1.5.9. Mayom tiya
+  1.5.10. Sarnda iru
+  1.5.11. Male maya
+  1.6 Parivadil isanai
+  1.6.1. Parivadil isanai
+  1.6.2. Madu ar
+  1.6.3. Idum eduppum
+  1.6.4. Anangu ena
+  1.6.5. Kolgai kolamai
+  1.6.6. Amutam amarargatku
+  1.6.7. Nil kadal
+  1.6.8. Kalimin tondirgal
+  1.6.9. Taruma arum
+  1.6.10. Kadivar tiya
+  1.6.11. Madavan pal
+  1.7 Piravit tuyar
+  1.7.1. Piravit tuyar
+  1.7.2. Vaippam maruntam
+  1.7.3. Ayar kolunday
+  1.7.4. Mayarvu ara
+  1.7.5. Viduveno en vilakkai
+  1.7.6. Piran perunilam
+  1.7.7. Yan otti
+  1.7.8. Ennai negilkkilum
+  1.7.9. Amarar mulumudal
+  1.7.10. Agalil agalum
+  1.7.11. Kudaindu vandunnum
+  1.8 Odum pulleri
+  1.8.1. Odum pulleri
+  1.8.2. Ammanay
+  1.8.3. Kannavan
+  1.8.4. Verpai onreduttu
+  1.8.5. Vaigalum venney
+  1.8.6. Kalandu ennavi
+  1.8.7. Kondan elvidai
+  1.8.8. Anan anayan
+  1.8.9. Sangu cakkaram
+  1.8.10. Natan jnalam
+  1.8.11. Nir purai
+  1.9 Ivaiyum avaiyum
+  1.9.1. Ivaiyum avaiyum
+  1.9.2. Sulal palapala
+  1.9.3. Arugalilaya
+  1.9.4. Udan amar
+  1.9.5. Okkalai vaittu
+  1.9.6. Mayan en
+  1.9.7. Tolinai melum
+  1.9.8. Navinul ninru
+  1.9.9. Kamalak kannan
+  1.9.10. Nerriyul ninru
+  1.9.11. Ucciyulle nirkum
+  1.10 Poruma nilpadai
+  1.10.1. Poruma nilpadai
+  1.10.2. Kannulle nirkum
+  1.10.3. Em piranai
+  1.10.4. Nenjame nallai
+  1.10.5. Kandaye nenje
+  1.10.6. Niyum nanum
+  1.10.7. Entaiye enrum
+  1.10.8. Selva naranan
+  1.10.9. Nambiyait tenkurungudi
+  1.10.10. Marappum jnanamum
+  1.10.11. Maniyai vanavar
+  Second Centum
+  2.1 Vayum tirai
+  2.1.1. Vayum tirai
+  2.1.2. Kotpatta sintaiyaiyay
+  2.1.3. Kamurra
+  2.1.4. Kadalum malaiyum
+  2.1.5. Ulidoruli
+  2.1.6. Naivaya emmepol
+  2.1.7. Torrom madanenjam
+  2.1.8. Irulin tinivannam
+  2.1.9. Nondarak kadalnoy
+  2.1.10. Vevara vetkainoy
+  2.1.11. Sorada epporutkum
+  2.2 Tinnan vidu
+  2.2.1. Tinnan vidu
+  2.2.2. Epavam parame
+  2.2.3. Eranaip puvanai
+  2.2.4. Tevum epporulum
+  2.2.5. Tagum sir
+  2.2.6. Yavarum yavaiyum
+  2.2.7. Palli alilai
+  2.2.8. Karuttil tevum
+  2.2.9. Kakkum iyalvinan
+  2.2.10. Kalva! emmaiyum
+  2.2.11. Etta elulagum
+  2.3 Unil val
+  2.3.1. Unil val
+  2.3.2. Ottar mikkarai
+  2.3.3. Ariyak kalattulle
+  2.3.4. Enadu aviyul
+  2.3.5. Iniyar jnanangalal
+  2.3.6. Serndar tivinaigatku
+  2.3.7. Munnal yal
+  2.3.8. Kurikkol jnanangalal
+  2.3.9. Kadivar tannantulay
+  2.3.10. Kalippum kavarvum
+  2.3.11. Kulam kol
+  2.4 Adi adi
+  2.4.1. Adi adi
+  2.4.2. Val nudal
+  2.4.3. Irakka manattodu
+  2.4.4. Ilangai serravane
+  2.4.5. Ival irap pagal
+  2.4.6. Tagavudaiyavane
+  2.4.7. Ullul avi
+  2.4.8. Vanjane ennum
+  2.4.9. Patta podu
+  2.4.10. Elai pedai
+  2.4.11. Vattamil pugal
+  2.5 Andamattu anbu
+  2.5.1. Andamattu anbu
+  2.5.2. Tiru udambu
+  2.5.3. Ennul kalandavan
+  2.5.4. Epporulum tanay
+  2.5.5. Ara amudamay
+  2.5.6. Pala palave
+  2.5.7. Pambanai mel
+  2.5.8. Ponmudi amporerrai
+  2.5.9. Solleer en ammanai
+  2.5.10. An allan
+  2.5.11. Kurudal onru
+  2.6 Vaikunda manivannane
+  2.6.1. Vaikunda manivannane
+  2.6.2. Sikkenac ciridoridamum
+  2.6.3. Tamaraik kannanai
+  2.6.4. Vallale madusudana
+  2.6.5. Uyndu pondu
+  2.6.6. Unnaic cindai
+  2.6.7. Mudiyadadu en
+  2.6.8. Mari mari
+  2.6.9. Enday
+  2.6.10. Poginra kalangal
+  2.6.11. Kannit tannandulay
+  2.7 Kesavan tamar
+  2.7.1. Kesavan tamar
+  2.7.2. Naranan
+  2.7.3. Madavan
+  2.7.4. Govindan
+  2.7.5. Vittilangu
+  2.7.6. Madusudanai anri
+  2.7.7. Tirivikkiraman
+  2.7.8. Vamanan
+  2.7.9. Sireeidaran
+  2.7.10. Irudikesan
+  2.7.11. Parpanaban
+  2.7.12. Damodaranai
+  2.7.13. Vannamamani
+  2.8 Anaivadu aravanaimel
+  2.8.1. Anaivadu aravanaimel
+  2.8.2. Nindum tuyar
+  2.8.3. Punarkkum ayanam
+  2.8.4. Pulan aindum
+  2.8.5. Ovat tuyar
+  2.8.6. Tirttan
+  2.8.7. Kidandirundu
+  2.8.8. Kanbar ar
+  2.8.9. Engumulan kannan
+  2.8.10. Sirmai kol
+  2.8.11. Kan talangal
+  2.9 Emma vittu
+  2.9.1. Emma vittu
+  2.9.2. Ide yan
+  2.9.3. Seyyel tivinai
+  2.9.4. Enakke atcey
+  2.9.5. Sirappil vidu
+  2.9.6. Magilkol deyvam
+  2.9.7. Varay
+  2.9.8. Ekkalattu endaiyay
+  2.9.9. Yane ennai
+  2.9.10. Erel elum
+  2.9.11. Vidalil cakkarattu
+  2.10 Kilaroli ilamai
+  2.10.1. Kilaroli ilamai
+  2.10.2. Sadirila madavar
+  2.10.3. Payanalla seydu
+  2.10.4. Karumavan pasam
+  2.10.5. Tiramudai valattal
+  2.10.6. Kiriyena ninaimin
+  2.10.7. Nalamena ninaimin
+  2.10.8. Valam seydu
+  2.10.9. Valakkena ninaimin
+  2.10.10. Sudenru kalavum
+  2.10.11. Porul enru
+  Third Centum
+  3.1 Mudiccodiyay
+  3.1.1. Mudiccodiyay
+  3.1.2. Katturaikkil
+  3.1.3. Paranjodi
+  3.1.4. Mattade agilum
+  3.1.5. Varundada
+  3.1.6. Oduvar ottellam
+  3.1.7. Valttuvar palaraga
+  3.1.8. Masuna
+  3.1.9. Malungada
+  3.1.10. Maraiyaya
+  3.1.11. Viyappaya viyappilla
+  3.2 Munnir jnalam
+  3.2.1. Munnir jnalam
+  3.2.2. Vanma vaiyam
+  3.2.3. Kolla makkol
+  3.2.4. Sulcci
+  3.2.5. Vanday pole
+  3.2.6. Kirpan killen
+  3.2.7. Enjnanru
+  3.2.8. Mevu tunba
+  3.2.9. Kuvik kuvi
+  3.2.10. Talaippey kalam
+  3.2.11. Uyirgal ella
+  3.3 Olivil kalam
+  3.3.1. Olivil kalam
+  3.3.2. Endai tandai
+  3.3.3. Annal mayan
+  3.3.4. Isan vanavarkku
+  3.3.5. Sodiyagi
+  3.3.6. Venkatangal
+  3.3.7. Sumandu mamalar
+  3.3.8. Kunram endi
+  3.3.9. Oyumuppu
+  3.3.10. Vaitta nal
+  3.3.11. Tal parappi
+  3.4 Pugalum nal oruvan
+  3.4.1. Pugalum nal oruvan
+  3.4.2. Kuvumaru
+  3.4.3. Pangayak kannan
+  3.4.4. Sadi manikkam
+  3.4.5. Accudan amalan
+  3.4.6. Palenko
+  3.4.7. Vanavar adi
+  3.4.8. Oli manivannan
+  3.4.9. Kannanai mayan
+  3.4.10. Yavaiyum yavarum
+  3.4.11. Kudi vandaraiyum
+  3.5 Moymmam pumpolil
+  3.5.1. Moymmam pumpolil
+  3.5.2. Tan kadal
+  3.5.3. Malaiyai eduttu
+  3.5.4. Vambavalil kodai
+  3.5.5. Sadu sanattai
+  3.5.6. Manisarum marrum
+  3.5.7. Nirmaiyil nurruvar
+  3.5.8. Var punal
+  3.5.9. Amarar tolappaduvanai
+  3.5.10. Karumamum
+  3.5.11. Tirnda adiyavar
+  3.6 Seyya tamarai
+  3.6.1. Seyya tamarai
+  3.6.2. Muvar agiya
+  3.6.3. Paravi vanavar etta
+  3.6.4. Vaimmin nummanattu
+  3.6.5. Tiriyum karru
+  3.6.6. Torrak kedu
+  3.6.7. Elumaikkum
+  3.6.8. Tuyarame taru
+  3.6.9. Tanjam agiya
+  3.6.10. Kadal vannan
+  3.6.11. Kangal kandarku
+  3.7 Payilum sudaroli
+  3.7.1. Payilum sudaroli
+  3.7.2. Alum paramanai
+  3.7.3. Nadanai jnalamum
+  3.7.4. Udai arnda
+  3.7.5. Peru makkal
+  3.7.6. Alikkum paramanai
+  3.7.7. Sanma sanmantaram
+  3.7.8. Nambanai
+  3.7.9. Kulam tangu
+  3.7.10. Adiyarnda
+  3.7.11. Adiyongu
+  3.8 Mudiyane
+  3.8.1. Mudiyane
+  3.8.2. Nenjame
+  3.8.3. Vasagame etta
+  3.8.4. Kaigalal ara
+  3.8.5. Kangalal kana
+  3.8.6. Sevigalal ara
+  3.8.7. Aviye aramude
+  3.8.8. Kolame
+  3.8.9. Kolvan nan
+  3.8.10. Porundiya ma marudu
+  3.8.11. Pulambu sir
+  3.9 Sonnal virodam
+  3.9.1. Sonnal virodam
+  3.9.2. Ulan agave
+  3.9.3. Olivonrillada
+  3.9.4. Ennavadu
+  3.9.5. Kollum payanillai
+  3.9.6. Vammin pulavir
+  3.9.7. Serum kodai
+  3.9.8. Veyin mali
+  3.9.9. Vay kondu
+  3.9.10. Ninru ninru
+  3.9.11. Erkum perum pugal
+  3.10 Sanmam pala pala
+  3.10.1. Sanmam pala pala
+  3.10.2. Kuraivil tadam kadal
+  3.10.3. Muttil pal
+  3.10.4. Parivinri
+  3.10.5. Idar inriye
+  3.10.6. Tuyaril sudaroli
+  3.10.7. Tunbamum inbamum
+  3.10.8. Allalil inbam
+  3.10.9. Dukkamil
+  3.10.10. Talarvinriye
+  3.10.11. Kedil viluppugal
+  Fourth Centum
+  4.1 Oru nayagamay
+  4.1.1. Oru nayagamay
+  4.1.2. Uymmin
+  4.1.3. Adi ser
+  4.1.4. Ninaippan pugin
+  4.1.5. Panimin tiruvarul
+  4.1.6. Valndargal
+  4.1.7. Amin suvai
+  4.1.8. Gunam kol
+  4.1.9. Padi mannu
+  4.1.10. Kuruga miga
+  4.1.11. Ahde uyya
+  4.2 Balanay elulagundu
+  4.2.1. Balanay elulagundu
+  4.2.2. Valli ser
+  4.2.3. Paviyal veda
+  4.2.4. Kodila van pugal
+  4.2.5. Toli ser
+  4.2.6. Madar ma man madandai
+  4.2.7. Madandaiyai
+  4.2.8. Kombu pol
+  4.2.9. Nangaimir nirum
+  4.2.10. En seygen
+  4.2.11. Meliyum noy
+  4.3 Kovai vayal
+  4.3.1. Kovai vayal
+  4.3.2. Pusum sandu
+  4.3.3. Eka murtti
+  4.3.4. Mayttal enni
+  4.3.5. Kanni enaduyir
+  4.3.6. Kala cakkarattodu
+  4.3.7. Kurai kalalgal
+  4.3.8. Ennadavi
+  4.3.9. Uraikka vallen
+  4.3.10. Yanum etti
+  4.3.11. Uyvupayam
+  4.4 Mannai irundu
+  4.4.1. Mannai irundu
+  4.4.2. Pey valai
+  4.4.3. Ariyum sendiyai
+  4.4.4. Onriya tingalai
+  4.4.5. Komala van kanrai
+  4.4.6. Kuttar
+  4.4.7. Eriya pittinodu
+  4.4.8. Tiruvudai mannarai
+  4.4.9. Virumbip pagavarai
+  4.4.10. Ayarkkum
+  4.4.11. Valvinai tirkkum
+  4.5 Virrirundu
+  4.5.1. Virrirundu
+  4.5.2. Maiya kannal
+  4.5.3. Vivil inbam
+  4.5.4. Mevi ninru
+  4.5.5. Arra nalla
+  4.5.6. Kariya meni
+  4.5.7. Enrum onragi
+  4.5.8. Namakkum
+  4.5.9. Vanattum
+  4.5.10. Undum umilndum
+  4.5.11. Mari marada
+  4.6 Tirpparai yam
+  4.6.1. Tirpparai yam
+  4.6.2. Tisaikkinrade
+  4.6.3. Idu kanmin
+  4.6.4. Marundagum
+  4.6.5. Ivalaip perum parisu
+  4.6.6. Taniyum poludillai
+  4.6.7. Anangukku
+  4.6.8. Vedam vallargalai
+  4.6.9. Kilmaiyinal
+  4.6.10. Unnittu
+  4.6.11. Toludadi
+  4.7 Seelamillac ciriyan
+  4.7.1. Seelamillac ciriyan
+  4.7.2. Kolla mala
+  4.7.3. Ivilada tivinaigal
+  4.7.4. Kana vandu
+  4.7.5. Appane adalaliyane
+  4.7.6. Nokki nokki
+  4.7.7. Arindu arindu
+  4.7.8. Kandu kondu
+  4.7.9. Idagilen
+  4.7.10. Cakkarattannale
+  4.7.11. Taluvi ninra
+  4.8 Eralum iraiyonum
+  4.8.1. Eralum iraiyonum
+  4.8.2. Manimamai
+  4.8.3. Mada nenjal
+  4.8.4. Niraivinal
+  4.8.5. Talir nirattal
+  4.8.6. Arivinal kuraivilla
+  4.8.7. Kilaroliyal kuraivilla
+  4.8.8. Varivalaiyal kuraivilla
+  4.8.9. Megalaiyal kuraivilla
+  4.8.10. Udambinal kuraivilla
+  4.8.11. Uyirinal kuraivilla
+  4.9 Nannadar muruvalippa
+  4.9.1. Nannadar muruvalippa
+  4.9.2. Samarum kedumarum
+  4.9.3. Kondattum kulampunaivum
+  4.9.4. Kol enru
+  4.9.5. Vangu nir
+  4.9.6. Marukki valvalaip padutti
+  4.9.7. Aye ivvulagattu
+  4.9.8. Katti ni
+  4.9.9. Kuttudi
+  4.9.10. Kandu kettu
+  4.9.11. Tiruvadiyai narananai
+  4.10 Onrum devum
+  4.10.1. Onrum devum
+  4.10.2. Nadi nir
+  4.10.3. Paranda deyvamum
+  4.10.4. Pesa ninra
+  4.10.5. Ilingattitta
+  4.10.6. Porri marror
+  4.10.7. Odi odi
+  4.10.8. Pukkadimaiyinal
+  4.10.9. Vilambum
+  4.10.10. Uruvadavadu
+  4.10.11. Atceydu
+  Fifth Centum
+  5.1 Kaiyar cakkarattu
+  5.1.1. Kaiyar cakkarattu
+  5.1.2. Ponay mamarudin
+  5.1.3. Ullana marrulavay
+  5.1.4. En kolvan
+  5.1.5. Kanna piranai
+  5.1.6. Puramara
+  5.1.7. Amman alippiran
+  5.1.8. Melat tevargalum
+  5.1.9. Avarar tunai
+  5.1.10. Anan aludaiyan
+  5.1.11. Karvannan
+  5.2 Poliga poliga
+  5.2.1. Poliga poliga
+  5.2.2. Kandom kandom
+  5.2.3. Tiriyum kaliyugam
+  5.2.4. Idam kol
+  5.2.5. Seyginradu
+  5.2.6. Konruyir unnum
+  5.2.7. Nirutti num
+  5.2.8. Irukkum irai
+  5.2.9. Mevit toludu
+  5.2.10. Mikka ulagugal
+  5.2.11. Kaliyugam
+  5.3 Masaru sodi
+  5.3.1. Masaru sodi
+  5.3.2. En seyyum
+  5.3.3. Urnda sagadam
+  5.3.4. Uravar kavvai
+  5.3.5. Kadiyan kodiyan
+  5.3.6. Annai en seyyilen
+  5.3.7. Valaiyul agappaduttu
+  5.3.8. Pey mulai
+  5.3.9. Nanum niraiyum
+  5.3.10. Yamadalurndum
+  5.3.11. Iraikkum karungadal
+  5.4 Urellam tunji
+  5.4.1. Urellam tunji
+  5.4.2. Avi kappar
+  5.4.3. Niyum pangallai
+  5.4.4. Pen pirandar
+  5.4.5. Ar ennai
+  5.4.6. Pin ninra
+  5.4.7. Kappar ar
+  5.4.8. Deyvangal
+  5.4.9. Venjudaril
+  5.4.10. Ninruruginrene
+  5.4.11. Uranguvan pol
+  5.5 Enganeyo annaimirgal
+  5.5.1. Enganeyo annaimirgal
+  5.5.2. En nenjinal
+  5.5.3. Ninridum tisaikkum
+  5.5.4. Ninga nilla
+  5.5.5. Pakkam nokki
+  5.5.6. Melum van pali
+  5.5.7. Nirainda van pali
+  5.5.8. Kaiyul nanmugam
+  5.5.9. Mun ninray
+  5.5.10. Kaliya mikkadu
+  5.5.11. Arivariya piranai
+  5.6 Kadal jnalam
+  5.6.1. Kadal jnalam
+  5.6.2. Karkum kalvikku
+  5.6.3. Kanginra nilam
+  5.6.4. Seyginra kidi
+  5.6.5. Tirambamal
+  5.6.6. Inavey malai
+  5.6.7. Urrargal enakku
+  5.6.8. Uraikkinra
+  5.6.9. Kodiya vinai
+  5.6.10. Kolam kol
+  5.6.11. Kundal malar mangaikkum
+  5.7 Norra nonbilen
+  5.7.1. Norra nonbilen
+  5.7.2. Angurren allen
+  5.7.3. Karulap putkodi
+  5.7.4. Maru ser padai
+  5.7.5. Eydak kuvudal
+  5.7.6. Enamay
+  5.7.7. Vandaruli
+  5.7.8. Agarra ni vaitta
+  5.7.9. Pullin vay
+  5.7.10. Arenakku
+  5.7.11. Deyva nayagan
+  5.8 5.8.1- aravamude
+  5.8.1. 5.8.1- Aravamude
+  5.8.2. Emmane
+  5.8.3. En nan seygen
+  5.8.4. Selak kangirpar
+  5.8.5. Aluvan toluvan
+  5.8.6. Sul kanday
+  5.8.7. Ariyere
+  5.8.8. Kalaivay tunbam
+  5.8.9. Isaivittu ennai
+  5.8.10. Vara aruvay
+  5.8.11. Ulalai enbil
+  5.9 Maney nokku
+  5.9.1. Maney nokku
+  5.9.2. Enrukol
+  5.9.3. Sudu malark kulaleer
+  5.9.4. Niccalum tolimirgal
+  5.9.5. Nannalat tolimirgal
+  5.9.6. Kanbadu
+  5.9.7. Padangal melani
+  5.9.8. Nadorum vidinriye
+  5.9.9. Kalal valai
+  5.9.10. Tol arul
+  5.9.11. Namangal ayiram
+  5.10 Piranda arum
+  5.10.1. Piranda arum
+  5.10.2. Vaduvai varttaiyul
+  5.10.3. Peyyum pungulal
+  5.10.4. Kalla vedattai
+  5.10.5. Unna vanavar
+  5.10.6. Ninra arum
+  5.10.7. Onsudarodu
+  5.10.8. Tiru uruvu
+  5.10.9. Adiyai munrai
+  5.10.10. Kudi nirai
+  5.10.11. Naganai misai
+  Sixth Centum
+  6.1 Vaigal pungalivay
+  6.1.1. Vaigal pungalivay
+  6.1.2. Kadal men pedai
+  6.1.3. Tirangalagi
+  6.1.4. Idaril bogam
+  6.1.5. Unarttal udal
+  6.1.6. Porri yan iranden
+  6.1.7. Oru vannam
+  6.1.8. Tirundak kandu
+  6.1.9. Adigal kai toludu
+  6.1.10. Veru kondu
+  6.1.11. Min kol
+  6.2 Minnidai madavargal
+  6.2.1. Minnidai madavargal
+  6.2.2. Pogu nambi
+  6.2.3. Poy irundu
+  6.2.4. Alinililai
+  6.2.5. Kalarel nambi!
+  6.2.6. Kulagi engal
+  6.2.7. Kanmam anru
+  6.2.8. Pinakki yavaiyum
+  6.2.9. Ugavaiyal nenjam
+  6.2.10. Ninrilangu mudiyinay!
+  6.2.11. Aycci agiya
+  6.3 Nalguravum selvum
+  6.3.1. Nalguravum selvum
+  6.3.2. Kanda inbam
+  6.3.3. Nagaramum nadugalum
+  6.3.4. Punniyam pavam
+  6.3.5. Kaitavam semmai
+  6.3.6. Mu ulaganlumay
+  6.3.7. Paranjudar udambay
+  6.3.8. Van saran surarkkay
+  6.3.9. Ennappan enakkay
+  6.3.10. Nilal veyyil
+  6.3.11. Kanmingal ulagir
+  6.4 Kuravai aycciyarodu
+  6.4.1. Kuravai aycciyarodu
+  6.4.2. Keyat tingulal
+  6.4.3. Nigaril mallarai
+  6.4.4. Nova aycci
+  6.4.5. Vendit tevar irakka
+  6.4.6. Igal kol
+  6.4.7. Manap parippodu
+  6.4.8. Nil nilattodu
+  6.4.9. Kalakka el kadal
+  6.4.10. Man misai
+  6.4.11. Nayagan
+  6.5 Tuvalil ma mani madam
+  6.5.1. Tuvalil ma mani madam
+  6.5.2. Kumirum osai
+  6.5.3. Urai kol
+  6.5.4. Nirkum nanmarai vanar
+  6.5.5. Kulaiyum val
+  6.5.6. Nokkum pakkam ellam
+  6.5.7. Annaimir
+  6.5.8. Tirundu vedamum
+  6.5.9. Irangi naltorum
+  6.5.10. Pinnaikol
+  6.5.11. Sindaiyalum
+  6.6 Malukku
+  6.6.1. Malukku
+  6.6.2. Sangu vil
+  6.6.3. Niram kariyanukku
+  6.6.4. Pidudai nanmuganai
+  6.6.5. Panbudai vedam
+  6.6.6. Karpagak kavana
+  6.6.7. Meyyamar
+  6.6.8. Sayak kurundam
+  6.6.9. Manbamai
+  6.6.10. Porpamai
+  6.6.11. Kattelil solai
+  6.7 Unnum soru
+  6.7.1. Unnum soru
+  6.7.2. Urum nadum
+  6.7.3. Puvai paingiligal
+  6.7.4. Kollai enbarkolo
+  6.7.5. Mevi naindu
+  6.7.6. Inru enakku
+  6.7.7. Malgu nir
+  6.7.8. Osinda nunnidai
+  6.7.9. Kariyam nallanagal
+  6.7.10. Ninaikkilen deyvangal!
+  6.7.11. Vaitta ma nidiyam
+  6.8 Ponnulagaliro
+  6.8.1. Ponnulagaliro
+  6.8.2. Maiyamar
+  6.8.3. Odi vandu
+  6.8.4. Tu madu
+  6.8.5. Nungatku
+  6.8.6. En minnu nul
+  6.8.7. Puvaigal
+  6.8.8. Pasaraveydi
+  6.8.9. Perttu marru
+  6.8.10. Vandirundu
+  6.8.11. Marrangal
+  6.9 Niray nilanay
+  6.9.1. Niray nilanay
+  6.9.2. Mannum vinnum
+  6.9.3. Jnalattude
+  6.9.4. Talarndum murindum
+  6.9.5. Vin midiruppay
+  6.9.6. Payoradi
+  6.9.7. Ulagil tiriyum
+  6.9.8. Arivilenukku arulay
+  6.9.9. Avi tigaikka
+  6.9.10. Kuruga nila
+  6.9.11. Teridal ninaidal
+  6.10 Ulagam unda
+  6.10.1. Ulagam unda
+  6.10.2. Kuray niray
+  6.10.3. Vannam arul kol
+  6.10.4. Ava ennadu
+  6.10.5. Punara ninra
+  6.10.6. En nale
+  6.10.7. Adiyen mevi
+  6.10.8. Noladarren
+  6.10.9. Vanday pole
+  6.10.11. Adikkil amarndu
+  Seventh Centum
+  7.1 Unnilaviya
+  7.1.1. Unnilaviya
+  7.1.2. Ennai alum
+  7.1.3. Vediya nirkum
+  7.1.4. Sudu nan
+  7.1.5. Tir marundu
+  7.1.6. Vinnular
+  7.1.7. Onru solli
+  7.1.8. Innamudu
+  7.1.9. Kula mudal
+  7.1.10. En paranjudare
+  7.1.11. Konda murtti
+  7.2 Kangulum pagalum
+  7.2.1. Kangulum pagalum
+  7.2.2. En seyginray
+  7.2.3. Vatkilal
+  7.2.4. Itta kal
+  7.2.5. Sindikkum tisaikkum
+  7.2.6. Maiyal seydu
+  7.2.7. Pala tunbangal
+  7.2.8. Kolundu vanavargatku
+  7.2.9. En tirumagal
+  7.2.10. Mudivu ival
+  7.2.11. Mugil vannan
+  7.3 Vellaic curiu sangu
+  7.3.1. Vellaic curiu sangu
+  7.3.2. Nanak karungulal
+  7.3.3. Sengani vayin
+  7.3.4. Ilanda em mamai
+  7.3.5. Munindu sagadam
+  7.3.6. Kalampera ennai
+  7.3.7. Pereyil sul
+  7.3.8. Kandaduve kondu
+  7.3.9. Servan senru
+  7.3.10. Nagaramum nadum
+  7.3.11. Ulidoruli
+  7.4 Ali ela
+  7.4.1. Ali ela
+  7.4.2. Aru malaikku
+  7.4.3. Nanrila
+  7.4.4. Nalum ela
+  7.4.5. Unudai
+  7.4.6. Poldu melinda
+  7.4.7. Maru niraittu
+  7.4.8. Ner sarindan
+  7.4.9. Anru man
+  7.4.10. Mey nirai
+  7.4.11. Kunram edutta
+  7.5 Karpar iramapiranai
+  7.5.1. Karpar iramapiranai
+  7.5.2. Nattil pirandavar
+  7.5.3. Ketpargal kesavan
+  7.5.4. Tanmai aribavar
+  7.5.5. Sulalgal sindikkil
+  7.5.6. Kettum unarndavar
+  7.5.7. Kandum telindum
+  7.5.8. Sella unarndavar
+  7.5.9. Mayam aribavar
+  7.5.10. Varttai aribavar
+  7.5.11. Telivurru vivinri
+  7.6 Pamaru muvulagum
+  7.6.1. Pamaru muvulagum
+  7.6.2. Enrukol servadu?
+  7.6.3. Katta enguttavo
+  7.6.4. Engut talaippeyvan
+  7.6.5. Ennudaik kovalane
+  7.6.6. Vandeydumaru ariyen
+  7.6.7. En tirumarban
+  7.6.8. Aliyaik kan pariyay
+  7.6.9. Kandungolo? nenjame!
+  7.6.10. Errarum vaigundattai
+  7.6.11. Pukka ariyuruvay
+  7.7 Elaiyar avi
+  7.7.1. Elaiyar avi
+  7.7.2. Attiyum turriyum
+  7.7.3. Valiyador kanikol
+  7.7.4. Innuyirkku
+  7.7.5. Enru ninre
+  7.7.6. Uyvidam elaiyarkkum
+  7.7.7. Kanmingal annaiyargal!
+  7.7.8. Kol ilait tamaraiyum
+  7.7.9. Kolginra kolirulai
+  7.7.10. Nirri murrattul
+  7.7.11. Katkariya piraman
+  7.8 Maya! vamanane!
+  7.8.1. Maya! vamanane!
+  7.8.2. Angan malar
+  7.8.3. Cittirat ter
+  7.8.4. Kallavil tamarai
+  7.8.5. Pasangal nikki
+  7.8.6. Mayakka! vamanane!
+  7.8.7. Tuyarangal seyyum
+  7.8.8. Enna sundayangalal
+  7.8.9. Enna iyarkaigalal
+  7.8.10. Illai nunukkangale
+  7.8.11. Am vannam
+  7.9 Enraikkum ennai
+  7.9.1. Enraikkum ennai
+  7.9.2. En solli nirpan?
+  7.9.3. Amudalvan ivan
+  7.9.4. Appanai enru marappan
+  7.9.5. Sir kandu
+  7.9.6. In kavi padum
+  7.9.7. Vaigunda nadan
+  7.9.8. Arvano aliyangai
+  7.9.9. Tirattukke tuppuravam
+  7.9.10. Udavik kaimmaru
+  7.9.11. Ingum angum
+  7.10 Inbam payakka
+  7.10.1. Inbam payakka
+  7.10.2. Agungol
+  7.10.3. Kudungol?
+  7.10.4. Vaykkungol niccalum
+  7.10.5. Malaradip podugal
+  7.10.6. Onru nilla
+  7.10.7. Ninagaram aduve
+  7.10.8. Anri marronrilam
+  7.10.9. Tivinai ullattin
+  7.10.10. Sindai marronrin
+  7.10.11. Tirttanukku arrapin
+  Eighth Centum
+  8.1 Devimar avar
+  8.1.1. Devimar avar
+  8.1.2. Kanumararulay
+  8.1.3. Edutta peralan
+  8.1.4. Umar ugandu
+  8.1.5. Aruyireyo!
+  8.1.6. Engu vandurugo?
+  8.1.7. Irandadum niye
+  8.1.8. Mananda peraya
+  8.1.9. Yanum nidane
+  8.1.10. Talgalai enakke
+  8.1.11. Periya appanai
+  8.2 Nangal varivalai
+  8.2.1. Nangal varivalai
+  8.2.2. Vendic cenru
+  8.2.3. Kalam ilaikkil
+  8.2.4. Kudac cenren
+  8.2.5. Ali valavanai
+  8.2.6. Tollai anjodi
+  8.2.7. Mal ari kesavan
+  8.2.8. Idai illai
+  8.2.9. Kan koduppan allan
+  8.2.10. Ennudai nannudal
+  8.2.11. Padam adaivadan
+  8.3 Angum ingum
+  8.3.1. Angum ingum
+  8.3.2. Saranamagiya
+  8.3.3. Alumalar
+  8.3.4. Jnalam ponagam
+  8.3.5. Kodiyar mada
+  8.3.6. Paniya amarar
+  8.3.7. Varuvar selvar
+  8.3.8. Enre ennai
+  8.3.9. Tirumal!
+  8.3.10. Kalakkam illa
+  8.3.11. Uraiya vennoy
+  8.4 Varkada aruvi
+  8.4.1. Varkada aruvi
+  8.4.2. Engal sel sarvu
+  8.4.3. En amar peruman
+  8.4.4. Piridillai enakku
+  8.4.5. Allador aranum
+  8.4.6. Enakku nallaranai
+  8.4.7. Tiruccengunruril
+  8.4.8. Tigala en sindaiyul
+  8.4.9. Padaippodu keduppu
+  8.4.10. Amarnda nadanai
+  8.4.11. Tenai nan palai
+  8.5 Mayak kutta
+  8.5.1. Mayak kutta
+  8.5.2. Kana varay
+  8.5.3. Mudi ser senni amma!
+  8.5.4. Tu nir mugil
+  8.5.5. Solla matten
+  8.5.6. Kondal vanna!
+  8.5.7. Vandu tonray
+  8.5.8. Okkum amman
+  8.5.9. Iduvo poruttam?
+  8.5.10. Piranda maya
+  8.5.11. Enge kangen!
+  8.6 Elliyum kalaiyum
+  8.6.1. Elliyum kalaiyum
+  8.6.2. Tirukkadittanamum
+  8.6.3. Oruvar iruvar
+  8.6.4. Mayap piran
+  8.6.5. Koyil kondan
+  8.6.6. Kutta amman
+  8.6.7. Konmin idar keda
+  8.6.8. Tana nagargal
+  8.6.9. Tayap padigal
+  8.6.10. Arpudan narayanan
+  8.6.11. Solait tirukkadittanattu
+  8.7 Iruttum viyandu
+  8.7.1. Iruttum viyandu
+  8.7.2. Irundan kandu kondu
+  8.7.3. Arul tan
+  8.7.4. Maya mayakku
+  8.7.5. Tigalum tan
+  8.7.6. Porul marru
+  8.7.7. Sevvay undi
+  8.7.8. Ariyen marrarul
+  8.7.9. Vayirril kondu
+  8.7.10. Vaitten madiyal
+  8.7.11. Sudarp pambanai
+  8.8 Kangal sivandu
+  8.8.1. Kangal sivandu
+  8.8.2. Adiyen ullan
+  8.8.3. Unarvil umbar
+  8.8.4. Yanum tanay
+  8.8.5. Ninra onrai
+  8.8.6. Nanray jnanam
+  8.8.7. Aduve vidu
+  8.8.8. Eyttar eyttar
+  8.8.9. Kudirragil
+  8.8.10. Ularum illai
+  8.8.11. Terulum marulum
+  8.9 Karu manikka malai
+  8.9.1. Karu manikka malai
+  8.9.2. Annaimir!
+  8.9.3. Pugalum ival
+  8.9.4. Ur valam
+  8.9.5. Punai ilaigal
+  8.9.6. Tiruvarul mulgi
+  8.9.7. Mellilaic celva
+  8.9.8. Madavaral annaimirgatku
+  8.9.9. Paraval ival
+  8.9.10. Anri marror upayam
+  8.9.11. Nerpatta nirai
+  8.10 Nedumarkadimai
+  8.10.1. Nedumarkadimai
+  8.10.2. Viyan muvulagu
+  8.10.3. Urumo paviyenukku
+  8.10.4. Inge tirinderku
+  8.10.5. Valipattoda
+  8.10.6. Nugarcci urumo?
+  8.10.7. Tanimap pugale
+  8.10.8. Nalum vaykka
+  8.10.9. Tamargal kutta
+  8.10.10. Vaykka tamiyerku
+  8.10.11. Nalla kotpattulagangal
+  Ninth Centum
+  9.1 Konda pendir
+  9.1.1. Konda pendir
+  9.1.2. Tunaiyum sarvum
+  9.1.3. Porul kaiyunday
+  9.1.4. Aranamavar
+  9.1.5. Saduram enru
+  9.1.6. Illai kandir
+  9.1.7. Marronrillai
+  9.1.8. Valdal kandir
+  9.1.9. Yadum illai
+  9.1.10. Kannan allal
+  9.1.11. Adumillai
+  9.2 Pandai nalale
+  9.2.1. Pandai nalale
+  9.2.2. Kudik kidandu
+  9.2.3. Kidanda nal
+  9.2.4. Pulingudik kidandu
+  9.2.5. Pavalampol kanivay
+  9.2.6. Kaysinap paravai
+  9.2.7. Em idar kadindu
+  9.2.8. Engal kanmugappe
+  9.2.9. Virridangondu
+  9.2.10. Koduvinaip padaigal
+  9.2.11. Kuvudal varudal
+  9.3 Orayiramay
+  9.3.1. Orayiramay
+  9.3.2. Avane agal jnalam
+  9.3.3. Arindana veda
+  9.3.4. Marunde nangal
+  9.3.5. Maname unnai
+  9.3.6. Adaivadum aniyar
+  9.3.7. Agam ser
+  9.3.8. Inrip poga
+  9.3.9. Toludu mamalar
+  9.3.10. Tala tamaraiyan
+  9.3.11. Seelam ellaiyilan
+  9.4 Maiyar karunganni
+  9.4.1. Maiyar karunganni
+  9.4.2. Kanne! unnai
+  9.4.3. Alaikkinra adinayen
+  9.4.4. Uruvadidu enru
+  9.4.5. Ariyaya ammanai
+  9.4.6. Karutte! unnai
+  9.4.7. Ugande unnai
+  9.4.8. Uruvagiya
+  9.4.9. Kandu kondu
+  9.4.10. Adiyan ivan
+  9.4.11. Ara mada yanai
+  9.5 Innuyirc cevalum
+  9.5.1. Innuyirc cevalum
+  9.5.2. Ittanai venduvadu
+  9.5.3. Avan kaiyade
+  9.5.4. Kukkural kettum
+  9.5.5. Andaram ninru
+  9.5.6. Nangenni
+  9.5.7. Kuttundu ningiya
+  9.5.8. Uyirkkadu kalan
+  9.5.9. Panbudai vandodu
+  9.5.10. Ela nanni
+  9.5.11. Inbam talaippeydu
+  9.6 Urugumal nenjam
+  9.6.1. Urugumal nenjam
+  9.6.2. Ninaidorum
+  9.6.3. Nirmaiyal nenjam
+  9.6.4. Arigilen tannuyir
+  9.6.5. Tiruvarul seybavanpola
+  9.6.6. Engannan kalvam
+  9.6.7. Katkarai ettum
+  9.6.8. Kol undan
+  9.6.9. Aruyir pattadu
+  9.6.10. Varik kondu
+  9.6.11. Kadiyanay
+  9.7 Enganal agangalivay
+  9.7.1. Enganal agangalivay
+  9.7.2. Numarodum piriyade
+  9.7.3. Takkilame? kelirgal
+  9.7.4. Tirumeni adikalukku
+  9.7.5. Teli visumbu
+  9.7.6. Tuduraittal
+  9.7.7. Sudar valaiyum
+  9.7.8. Enakkonru paniyirgal
+  9.7.9. Pundulay mudiyarkku
+  9.7.10. Tagavanru
+  9.7.11. Olivinri
+  9.8 Arukkum vinai
+  9.8.1. Arukkum vinai
+  9.8.2. Kodiyer idai
+  9.8.3. Evaikol anuga
+  9.8.4. Nalel ariyen
+  9.8.5. Manalan
+  9.8.6. Kande kalikkinradu
+  9.8.7. Kovagiya mavaliyai
+  9.8.8. Aruladolivay
+  9.8.9. Devar munivarkku
+  9.8.10. Ando! anugapperunal
+  9.8.11. Vannam manimada
+  9.9 Malligai kamal
+  9.9.1. Malligai kamal
+  9.9.2. Pugalidam arigilam
+  9.9.3. Iniyirundu ennuyir
+  9.9.4. Paviyen manatte
+  9.9.5. Yamudai nenjamum
+  9.9.6. Avanudai arul
+  9.9.7. Arukken sollugen
+  9.9.8. Pudumanam mugandu
+  9.9.9. Udum attingularke
+  9.9.10. Malaiyum vandadu
+  9.9.11. Avanai vittu
+  9.10 Malai nanni
+  9.10.1. Malai nanni
+  9.10.2. Kal avilum
+  9.10.3. Tondar! nundam
+  9.10.4. Manai nokki
+  9.10.5. Saranam agum
+  9.10.6. Anban agum
+  9.10.7. Meyyan agum
+  9.10.8. Aniyan agum
+  9.10.9. Padam nalum
+  9.10.10. Illai allal
+  9.10.11. Padu sara
+  Tenth Centum
+  10.1 Tala tamarai
+  10.1.1. Tala tamarai
+  10.1.2. Ilam gadi
+  10.1.3. Anri yam
+  10.1.4. Idar keda
+  10.1.5. Tondir! vammin
+  10.1.6. Kuttan kovalan
+  10.1.7. Marrilam aran
+  10.1.8. Tuyar kedum
+  10.1.9. Manittadattadi
+  10.1.10. Nam adainda
+  10.1.11. Ettumin namargal
+  10.2 Kedum idaraya
+  10.2.1. Kedum idaraya
+  10.2.2. Inru poy
+  10.2.3. Urum putkodiyum
+  10.2.4. Pesumin kusaminri
+  10.2.5. Punniyam seydu
+  10.2.6. Amararay
+  10.2.7. Tudaitta govindanare
+  10.2.8. Kadu vinai
+  10.2.9. Nam umakku
+  10.2.10. Mayndarum vinaigal
+  10.2.11. Andamil pugal
+  10.3 Vey maru tol inai
+  10.3.1. Vey maru tol inai
+  10.3.2. Tagavilai
+  10.3.3. Vivan nin
+  10.3.4. Toluttaiyom
+  10.3.5. Pani moli
+  10.3.6. Adicciyom
+  10.3.7. Vem emaduyir
+  10.3.8. Asurargal talaippeyyil
+  10.3.9. Ugakku nallavarodum
+  10.3.10. Avattangal vilaiyum
+  10.3.11. Senganivay
+  10.4 Sarve tavanerikku
+  10.4.1. Sarve tavanerikku
+  10.4.2. Perumaiyane
+  10.4.3. Alginran aliyan
+  10.4.4. Talai mel
+  10.4.5. Niccittirunden
+  10.4.6. Nagattanaiyanai
+  10.4.7. Pani nenje
+  10.4.8. Aliyan ali
+  10.4.9. Kanden
+  10.4.10. Vagaiyal manam onri
+  10.4.11. Parrenru parri
+  10.5 Kannan kalalinai
+  10.5.1. Kannan kalalinai
+  10.5.2. Naranan emman
+  10.5.3. Tane ulagellam
+  10.5.4. Alvan alinir
+  10.5.5. Nadir naldorum
+  10.5.6. Meyan vengadam
+  10.5.7. Madavan enrenru
+  10.5.8. Sara edangal
+  10.5.9. Amararkku ariyanai
+  10.5.10. Vinai vallirul
+  10.5.11. Nediyan arul
+  10.6 Arul peruvar
+  10.6.1. Arul peruvar
+  10.6.2. Vattarran adi vanangi
+  10.6.3. Nanninnam narayananai
+  10.6.4. En nenjattul irundu
+  10.6.5. Vanera valitanda
+  10.6.6. Talaimela talinaigal
+  10.6.7. Kurai kalalgal
+  10.6.8. Meynninru
+  10.6.9. Tigalginra tirumarbil
+  10.6.10. Piriyadatcey
+  10.6.11. Kattit tan
+  10.7 Senjorkavigal
+  10.7.1. Senjorkavigal
+  10.7.2. Taneyagi niraindu
+  10.7.3. Ennai murrum
+  10.7.4. Enkol amman
+  10.7.5. Nanna asurar
+  10.7.6. Tirumalirunjolaiyane agi
+  10.7.7. Arulai i ennammane!
+  10.7.8. Tirumalirunjolai malaiye
+  10.7.9. Uli mudalvan
+  10.7.10. Mangavottu
+  10.7.11. Manangara manam
+  10.8 Tirumalirunjolai malai
+  10.8.1. Tirumalirunjolai malai
+  10.8.2. Pere uraiginra
+  10.8.3. Piditten
+  10.8.4. Elidayinavarenru
+  10.8.5. Vane taruvan
+  10.8.6. Tirupper nagaran
+  10.8.7. Undu kalitterku
+  10.8.8. Kannul ninragalan
+  10.8.9. Inrennaip porulakki
+  10.8.10. Urren ugandu
+  10.8.11. Nilla allal
+  10.9 Sul visumbani
+  10.9.1. Sul visumbani
+  10.9.2. Naranan tamarai
+  10.9.3. Toludanar ulagargal
+  10.9.4. Edir edir
+  10.9.5. Madavan tamar
+  10.9.6. Velviyul maduttalum
+  10.9.7. Madandaiyar valttalum
+  10.9.8. Kudi adiyar
+  10.9.9. Vaigundam pugudalum
+  10.9.10. Vidi vagai
+  10.9.11. Vandavar edir kolla
+  10.10 Muniye nanmugane
+  10.10.1. Muniye nanmugane
+  10.10.2. Mayam seyyel
+  10.10.3. Kuvik kollay
+  10.10.4. Umbar andan paleyo!
+  10.10.5. Pora vittittu
+  10.10.6. Enakku aravamuday
+  10.10.7. Kola malarp pavaikku
+  10.10.8. Perrinip pokkuvano!
+  10.10.9. Mudal tani vitteyo
+  10.10.10. Sulndu aganru
+  10.10.11. Avavaraccul ariyai
