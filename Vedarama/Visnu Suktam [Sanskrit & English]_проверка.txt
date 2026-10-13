@@ -1,0 +1,24 @@
+Книга: Visnu Suktam [Sanskrit & English]
+Адрес: https://vedarama.com/en/books/vsuk
+Страниц сайта: 12; заголовков: 13; текстов: 12; картинок: 0
+Глав по MCP: 12
+Букв в исходнике: 3828; в .md: 3828
+Первый заголовок: Visnu Suktam [Sanskrit & English]
+Последний заголовок: Text 12
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Visnu Suktam [Sanskrit & English]
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
