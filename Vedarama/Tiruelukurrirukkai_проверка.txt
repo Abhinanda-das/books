@@ -1,0 +1,28 @@
+Книга: Tiruelukurrirukkai
+Адрес: https://vedarama.com/en/books/tiruezhukurrirukkai
+Страниц сайта: 13; заголовков: 14; текстов: 0; картинок: 3
+Глав по MCP: 13
+Букв в исходнике: 48794; в .md: 48794
+Первый заголовок: Tiruelukurrirukkai
+Последний заголовок: 13. 13
+
+ЗАМЕЧАНИЯ:
+  - Картинка рис-001.png не скачана: скачивание https://divyaprabandham.koyil.org/wp-content/uploads/2015/07/pApAnAm_va.png: не удалось после 5 попыток: <urlopen error [Errno 9] Bad file descriptor>
+  - Картинка рис-002.jpg не скачана: скачивание https://divyaprabandham.koyil.org/wp-content/uploads/2015/07/thirumangai-azhwar.jpg: не удалось после 5 попыток: <urlopen error [Errno 9] Bad file descriptor>
+  - Картинка рис-003.jpg не скачана: скачивание https://divyaprabandham.koyil.org/wp-content/uploads/2015/07/idam_koNda_nenjangaL_thiruvAli_thirunagai_uthsavam_2013-Small.jpg: не удалось после 5 попыток: <urlopen error [Errno 9] Bad file descriptor>
+
+Оглавление выгрузки:
+Tiruelukurrirukkai
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+  5. 5
+  6. 6
+  7. 7
+  8. 8
+  9. 9
+  10. 10
+  11. 11
+  12. 12
+  13. 13

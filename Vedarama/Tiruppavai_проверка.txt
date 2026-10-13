@@ -1,0 +1,43 @@
+Книга: Tiruppavai
+Адрес: https://vedarama.com/en/books/tiruppavai
+Страниц сайта: 30; заголовков: 31; текстов: 0; картинок: 1
+Глав по MCP: 30
+Букв в исходнике: 290625; в .md: 290625
+Первый заголовок: Tiruppavai
+Последний заголовок: 30. Vangak kadal kadainda (and vali tirunamam, etc.)
+
+ЗАМЕЧАНИЯ:
+  - Картинка рис-001.jpg не скачана: скачивание https://divyaprabandham.koyil.org/wp-content/uploads/2015/01/abhimana_sthalam_mannargud_rajagopalan-768x576.jpg: не удалось после 5 попыток: <urlopen error [Errno 9] Bad file descriptor>
+
+Оглавление выгрузки:
+Tiruppavai
+  1. Margali tingal
+  2. Vaiyattu
+  3. Ongi ulagalanda
+  4. Ali malai
+  5. Mayanai
+  6. Pullum silambina kan
+  7. Kicu kicu
+  8. Kil vanam
+  9. Tumani madattu
+  10. Norru suvarggam
+  11. Karruk karavai
+  12. Kanaittilam karrerumai
+  13. Pullin vai kindanai
+  14. Ungal pulaikkadai
+  15. Elle ilam kiliye
+  16. Nayaganai ninra
+  17. Ambarame tannire
+  18. Undu madakalirran
+  19. Kuttu vilakkeriya
+  20. Muppattu muvar
+  21. Erra kalangal
+  22. Anganma jnalattu
+  23. Mari malai mulainjil
+  24. Anru ivvulagam
+  25. Orutti maganai
+  26. Male manivanna
+  27. Kudarai vellum
+  28. Karavaigal pin cenru
+  29. Cirram cirukale
+  30. Vangak kadal kadainda (and vali tirunamam, etc.)

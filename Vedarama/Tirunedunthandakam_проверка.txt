@@ -1,0 +1,54 @@
+Книга: Tirunedunthandakam
+Адрес: https://vedarama.com/en/books/thirunedunthandakam
+Страниц сайта: 39; заголовков: 40; текстов: 0; картинок: 3
+Глав по MCP: 39
+Букв в исходнике: 363955; в .md: 363955
+Первый заголовок: Tirunedunthandakam
+Последний заголовок: 30. 30
+
+ЗАМЕЧАНИЯ:
+  - Картинка рис-001.jpg не скачана: скачивание https://www.divyadesam.com/hindu/temples/kanchipuram/images/ulagam-1s.jpg: не удалось после 5 попыток: <urlopen error [Errno 9] Bad file descriptor>
+  - Картинка рис-002.jpg не скачана: скачивание https://divyaprabandham.koyil.org/wp-content/uploads/2018/07/Harihara_VA.jpg: не удалось после 5 попыток: <urlopen error [Errno 9] Bad file descriptor>
+  - Картинка рис-003.jpg не скачана: скачивание https://divyaprabandham.koyil.org/wp-content/uploads/2019/11/thiru-Urakam-ulagalantha-perumal-kanchee-1.jpg: не удалось после 5 попыток: <urlopen error [Errno 9] Bad file descriptor>
+
+Оглавление выгрузки:
+Tirunedunthandakam
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+  5. 5
+  6. Part 2
+  6. Part 1
+  7. 7
+  8. 8
+  9. Part 1
+  9. Part 2
+  10. Part 2
+  10. Part 1
+  11. Part 3 and Conclusion
+  11. Part 2
+  11. Part 1
+  12. Part 1
+  12. Part 2
+  13. Part 2
+  13. Part 1
+  14. 14
+  15. 15
+  16. 16
+  17. 17
+  18. Part 2
+  18. Part 1
+  19. 19
+  20. 20
+  21. Part 2
+  21. Part 1
+  22. 22
+  23. 23
+  24. 24
+  25. 25
+  26. 26
+  27. 27
+  28. 28
+  29. 29
+  30. 30

@@ -1,0 +1,22 @@
+Книга: Tiruppalliyelucci
+Адрес: https://vedarama.com/en/books/tiruppalliyezhucchi
+Страниц сайта: 10; заголовков: 11; текстов: 0; картинок: 0
+Глав по MCP: 10
+Букв в исходнике: 35010; в .md: 35010
+Первый заголовок: Tiruppalliyelucci
+Последний заголовок: 10. Kadimalar
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Tiruppalliyelucci
+  1. Katiravan
+  2. Kolungodi
+  3. Sudaroli
+  4. Mettila
+  5. Pulambina
+  6. Iraviyar
+  7. Antarattu
+  8. Vambavil
+  9. Etamil
+  10. Kadimalar
