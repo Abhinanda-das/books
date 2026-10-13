@@ -1,0 +1,695 @@
+---
+title: "Viṣṇu-sahasra-nāma-stotram By P.R.Ramachander"
+original_title: "Viṣṇu-sahasra-nāma-stotram By P.R. Ramachander"
+author: "Vyasadev"
+tags:
+  - "Английский"
+cssclasses:
+  - vedarama-book
+source: Vedarama
+source_url: "https://vedarama.com/en/books/vsn-prr"
+---
+
+# Viṣṇu-sahasra-nāma-stotram By P.R.Ramachander
+
+## Viṣṇu-sahasra-nāma-stotram By P.R.Ramachander
+
+## Introduction
+
+Stotras are devotional hymns of Hinduism sung in praise of God. This word is derived from Sthuthi which means praise. Though post puranic age has given rise to large number of popular mellifluous stotras composed by sages like Sankara, Ramanuja, Vedatha Desika, Appayya Deeksithar, Mooka Kavi etc and poets like Kalidasa, there are several great stotras which trace their origin to Puranas. Of these the greatest is possibly the Vishnu Sahasra Namam found in Mahabharatha. Literally translated this means thousand names of Vishnu. This is found in the Anushasanika Parvam (chapter relating to orders or rules to the kings) of Mahabharatha.
+
+Bheeshma Pitamaha was defeated and grievously wounded by Arjuna. But since he could choose the time of his death as per the boons received by him, he chose to die in Uttarayana and was waiting for the auspicious time. Meanwhile the war was over leading to death of all those male members in his family except the Pancha Pandavas and the unborn child of Abhimanyu. Yudishtra the eldest of the Pandavas became the King of Hasthinapura and whom else would he go for advise other than Bheeshma the great. Anushasanika Parva is in the form of questions and answers between Yudishtra and Bheeshma Pitamaha.To a question as to what is the best possible stotra, Bheeshma answers that it is the Vishnu Sahasra Nama and teaches it to Yudishtra.
+
+Though it describes one thousand aspects and praises of the lord, it is not simple and easy to understand. Many great Acharyas lead by Sankara Bhagavat Pada, felt a need to give its meaning in crystal clear terms so that the devotee can not only sing but meditate on the aspect of the God he is praising. But this again was done in Sanskrit. With the modern civilization several translations of this stotra is available in English and in almost all major languages of India.
+
+I have attempted yet another translation in English .My aim is to make the translation simple to understand and easy to meditate. Naturally I have leaned heavily on many translations, which are already available, especially the one in Tamil by Anna published by the Sri Ramakrishna Mutt, Mylapore, Madras.
+
+Though it is called Sahasra Nama in fact it contains only 901 distinct sounding names. Eight hundred and fifteen names are repeated once, Seventy-five of these names are repeated twice, nine of these names thrice and two of these names four times. The acharyas have attempted to give different meanings to the same word in different places successfully.
+
+In the afterward to the stotra Goddess Parvathi asks Siva the cosmic god for an easy way to sing this stotra for the learned .He replies that it is sufficient that the learned one repeats the name of Rama and this is equivalent to his singing of sahasranama. It is important to note that this is easy method is prescribed to the very learned who do not have time to recite it daily and not for everybody,
+
+It is also very important to meditate on the meaning of each word while it is sung.
+
+## Invocation
+
+Shuklam Baradaram Vishnum, Sasi Varnam Chatur Bhujam,  
+Prasanna Vadanan Dyayet, Sarva Vignoba Sandaye 1
+
+Dressed in white you are,  
+Oh, all pervading one,  
+And glowing with the colour of moon.  
+With four arms, you are, the all knowing one  
+I meditate on your ever-smiling face,  
+And pray, “ Remove all obstacles on my way”.
+
+Vyasam Vasishtanaptharam, Sakthe Poutramakalmasham,  
+Parasarathmajam vande, Shukathatham Taponidhim. 2
+
+I bow before you Vyasa,  
+The treasure house of penance,  
+The great grand son of Vasishta.  
+The grand son of Shakthi,  
+The son of Parasara.  
+And the father of Shuka.
+
+Vyasa Vishnu Roopaya, Vyasa Roopaya Vishnave,  
+Nmo Vai Brahma Vidaya, Vasishtaya Namo Nama. 3
+
+Bow I before,  
+Vyasa who is Vishnu,  
+Vishnu who is Vyasa,  
+And again and again bow before,  
+He, who is born,  
+In the family of Vasishta.
+
+Avikaraya Shuddhaya, Nityaya Paramatmane,  
+Sadaika Roopa Roopaya, Vishnave Sarva Jishnave. 4
+
+Bow I before Vishnu  
+Who is pure,  
+Who is not affected,  
+Who is permanent,  
+Who is the ultimate truth.  
+And He who wins over,  
+All the mortals in this world.  
+Yasya smarana Mathrena, Janma Samsara bandhanath.
+
+Vimuchayate Nama Tasmai , Vishnave Prabha Vishnave  
+OM Namo Vishnave Prabha Vishnave 5
+
+Bow I before Him,  
+The all-powerful Vishnu,  
+The mere thought of whom.  
+Releases one forever,  
+Of the ties of birth and life.  
+Bow I before the all powerful Vishnu
+
+Shri Vaisampayana Uvacha:-  
+Shrutva dharmaneshena , Pavanani cha Sarvasha,  
+Yudishtra santhanavam Puneravabhya Bhashata 6
+
+Sri Vaisampayana said:-  
+After hearing a lot,  
+About Dharma that carries life,,  
+And of those methods great,  
+That removes sins from ones life,  
+For ever and to cleanse,  
+Yudhishtra asked again,  
+Bheeshma, the abode of everlasting peace.
+
+Yudishtra Uvacha:-  
+Kimekam Daivatham Loke, Kim Vapyegam Parayanam,  
+Sthuvantha Kam Kamarchanda Prapnyur Manava Shubham, 7
+
+Ko Dharma sarva Dharmanam Paramo Matha  
+Kim Japan Muchyathe Jandur Janma Samsara Bhandanat 8
+
+Yudishtra asked:-  
+In this wide world , Oh Grandpa,  
+Which is that one God,  
+Who is the only shelter?  
+Who is He whom,  
+Beings worship and pray,  
+And get salvation great?  
+Who is He who should oft,  
+Be worshipped with love?  
+Which Dharma is so great,  
+There is none greater?  
+And which is to be oft chanted,  
+To get free.  
+From these bondage of life, cruel?
+
+Bheeshma Uvacha:-  
+Jagat Prabhum devadevam Anantham Purushottamam,  
+Stuvan nama Sahasrena, Purusha Sathathothida, 9
+
+Tameva charchayan nityam, Bhaktya purushamavyayam,  
+Dhyayan sthuvan namasyancha yajamanasthameva cha, 10
+
+Anadi nidhanam vishnum sarva loka Maheswaram  
+Lokadyaksham stuvannityam Sarva dukkhago bhaved, 11
+
+Brahmanyam sarva dharmagnam Lokanam keerthi vardhanam,  
+Lokanatham Mahadbhootham Sarva Bhootha bhavodbhavam 12
+
+Aeshame sarva dharmanam dharmadhika tamo matha,  
+Yad bhaktyo pundarikaksham Stuvyr-archanayr-nara sada, 13
+
+Paramam yo mahatteja, paramam yo mahattapa  
+Paramam yo mahad brahma paramam ya parayanam 14
+
+Pavithranam Pavithram yo mangalanam cha mangalam,  
+Dhaivatham devathanam cha bhootanam yo vya pitha 15
+
+Yatha sarvani bhoothani bhavandyathi yugagame  
+Yasmincha pralayam yanthi punareve yuga kshaye 16
+
+Tasya Loka pradhanasya Jagannatathasya bhoopathe  
+Vishno nama sahasram me Srunu papa bhayapaham 17
+
+Bheeshma Replied:-  
+That purusha with endless devotion,  
+Who chants the thousand names ,  
+Of He who is the lord of the Universe,  
+Of He who is the God of Gods,  
+Of He who is limitless,  
+Would get free ,  
+From these bondage of life, cruel  
+He who also worships and prays,  
+Daily without break,  
+That Purusha who does not change,  
+That Vishnu who does not end or begin,  
+That God who is the lord of all worlds,  
+And Him, who presides over the universe,  
+Would loose without fail,  
+All the miseries in this life.
+
+Chanting the praises,  
+Worshipping and singing,  
+With devotion great,  
+Of the lotus eyed one ,  
+Who is partial to the Vedas,  
+Who is the only one , who knows the dharma,  
+Who increases the fame ,  
+Of those who live in this world,  
+Who is the master of the universe,  
+Who is the truth among all those who has life,  
+And who decides the life of all living,  
+Is the dharma that is great.
+
+That which is the greatest light,  
+That which is the greatest penance,  
+That which is the greatest brahmam,  
+Is the greatest shelter that I know.  
+Please hear from me,  
+The thousand holy names,  
+Which wash away all sins,  
+Of Him who is purest of the pure,  
+Of That which is holiest of holies,  
+Of Him who is God among Gods,  
+Of That father who lives Without death,  
+Among all that lives in this world,  
+Of Him whom all the souls,  
+Were born at the start of the world,  
+Of Him in whom, all that lives,  
+Will disappear at the end of the world,  
+And of that the chief of all this world ,  
+Who bears the burden of this world..  
+I would teach you without fail,  
+Of those names with fame.  
+Which deal of His qualities great,  
+And which the sages sing,  
+So that beings of this wide world,  
+Become happy and great.
+
+*Rishir Namnam Sahsrasya Veda Vyaso Maha Muni*  
+Chando aunustup stada devo bhagawan devaki sutha 19
+
+Amruthamsu Bhavo Bhhejam Shakthir devaki nandana  
+Trisama hridayam tasya santhyarthe viniyujyade 20
+
+Vishnum Jishnum Mahavishnum Prabha vishnun Maheswaram  
+Aneka Roopa Daityantham Namami purushottamam 21
+
+These thousand names Yudishtra  
+Are Sung for peace,  
+And has Vyasa as the sage,  
+And is composed in Anusthup metre,  
+And has its God the son of Devaki,  
+And its root is Amrutamsudbhava
+
+And its strength the baby of Devaki,  
+And its heart is Trissama  
+Bow I before Him,  
+Who is everywhere,  
+Who is ever victorious,  
+Who is in every being,  
+Who is God of Gods,  
+Who is the killer of asuras,  
+And who is the greatest,  
+Among all purushas.
+
+## Dhyanam
+
+Ksheerodanvath pradese suchimani vilasad saikathe Maukthikanam  
+Malaklupthasanastha Spatikamani nibhai maukthiker mandithanga  
+Shubrai-rabrai-rathabrai ruparivirachitai muktha peeyusha varshai  
+Anandi na puniyadari nalina Gadha sankapanir Mukunda 1
+
+Let that Mukunda makes us all holy,  
+Who wears all over his body  
+Pearls made of spatika,  
+Who sits on the throne of garland of pearls ,  
+Located in the sand of precious stones,  
+By the side of the sea of milk,  
+Who gets happy of the white cloud,  
+Sprayed of drops of nectar,  
+And who has the mace , the wheel and the lotus in His hands.
+
+Bhoo padau yasya nabhi r viyadasu ranila schandra suryaau cha nether  
+Karnavasasiro dhaumugamabhi dhahano yasya vasteyamabhdhi  
+Anthastham yasya viswam sura nara khaga go bhogi gandharva dhaityai,  
+Chitram ram ramyathe tham thribhuvana vapusham vishnumeesam namami 2
+
+I bow before that God, Vishnu  
+Who is the lord of three worlds,  
+Who has earth as his feet,  
+Who has air as his soul,  
+Who has sky as his belly,  
+Who has moon and sun as eyes,  
+Who has the four directions as ears,  
+Who has the land of gods as head,  
+Who has fire as his mouth,  
+Who has sea as his stomach,  
+And in whose belly play and enjoy,  
+Gods, men birds, animals,  
+Serpent men, Gandharvas and Asuras.
+
+Santhakaram Bujaga sayanam Padmanabham suresam,  
+Viswadharam Gagana sadrusam Megha varnam shubangam  
+Lakshmi kantham kamala nayanam Yogi hrid dyana gamyam  
+Vande vishnum bava bhayaharam sava lokaika nadham 3
+
+I bow before the God Vishnu,  
+Who is personification of peace,  
+Who sleeps on his folded arms,  
+Who has a lotus on his belly,  
+Who is the God of gods,  
+Who is the basis of earth,  
+Who is similar to the sky,  
+Who is of the colour of the cloud,  
+Who has beautiful limbs,  
+Who is the consort of Lakshmi,  
+Who has lotus like eyes,  
+Who is seen by saints through thought,  
+Who kills all worries and fears,  
+And who is the lord of all the worlds.
+
+Megha syamam Peetha kouseys vasam Srivatsangam Kausthuboth bhasithangam  
+Punyopetham pundareekayathaksham Vishnum vande sarva lokaika natham 4
+
+I bow before that God Vishnu,  
+Who is the lord of all the universe,  
+Who is black like a cloud,  
+Who wears yellow silks,  
+Who has the sreevatsa on him,  
+Whose limbs shine because of Kousthubha,  
+Who has eyes like an open lotus,  
+And who is surrounded by the blessed always.
+
+Sasanga chakram sakerita kundalam sappeethavastram saraseruhekshanam,  
+Sahara vaksha sthala shobhi kousthubham namai Vishnum sirasa chaturbhujam 5
+
+I bow before the God Vishnu,  
+Who has four arms,  
+Who has a conch and wheel in his hands,  
+Who wears a crown and ear globes,  
+Who wears yellow silks,  
+Who has lotus like eyes,  
+Who shines because of Kousthbha ,  
+Worn in his garlanded chest.
+
+Chayayam Parijatasys hemasimhasanopari,  
+Aseenamam budha syama Mayathakashamalangrutham,  
+Chandranana chathurbahum sreevatsangitha vakshasam,  
+Rukmani Satyabhamabhyam Sahitham Krishnamasraye. 6
+
+I seek refuge in Lord Krishna,  
+Who is with Rukhmani and Satyabhama,  
+Who sits on a golden throne,  
+In the shade of Parijata tree,  
+Who is of the colour of the black cloud,  
+Who has long broad eyes,  
+Who has a face like moon,  
+Who has four hands,  
+And who has a chest adorned by Sreevatsa.
+
+## Stotram
+
+Stotram
+
+1 Viswam He who is the Universe itself   2 Vishnu He who is spread everywhere   3 Vashatkara He who is personification of Vedic sacrifice(Yagna)   4 Bhootha Bhavya Bhavat Prabhu He who is the master of past, present and future   5 Bhootakrit He who has created the beings in the universe   6 Bhootabrit He who takes care of all the beings in the universe   7 Bhava He who is everything that happens   8 Bhootaatma He who is the soul of every being in the Universe   9 Bhootabhavana He who nurtures every being in the universe   10 Pootatma He who is detached of every thing or He who has a clean character   11 Paramatma He who is in every being but beyond every being or the greatest soul .   12 Mukthanam Parama Gathi He who is the ultimate salvation of every freed being   13 Avyaya He who does not have different forms or He who is always same.   14 Purusha He who is inside every body   15 Sakshi He who is the witness of every thing that happens   16 Kshetragna He who knows the body   17 Akshara He who does not have death   18 Yoga He who can be attained by yoga (meditation?)   19 Yoga Vitham Netha He who is the leader of all those who know yoga   20 Pradhana -Purusheswara He who is the lord of nature and beings   21 Narasimha Vapusha He who is part human and part lion   22 Sriman He in whom Sri (Lakshmi or Goddess) resides   23 Kesava He who is served by Vishnu , Siva and BrahmaOr He who has beautiful hairOr He Who killed Kesi the Asura(Ogre)   24 Purushottama He who is the greatest among Purushas(beings) orHe who is greater than those who are bound, those who are free and those who are static.   25 Sarwa He who is everything   26 Ssarva He who destroys everything when the deluge comes   27 Shiva He who is pure   28 Sthanu He who is stable   29 Bhootaatha He from whom all the beings evolved   30 Nidhiravyaya He who is never destroyed (even at deluge)   31 Sambhava He who is all that happens   32 Bhavana He who is the giver of every thing   33 Bhartha He who is the basis supports all beings   34 Prabhava He in whom all things were born   35 Prabhu He who is extremely clever   36 Easwara He who controls and rules all beings or He who is a natural ruler.   37 Swayambhu He who is born from himself   38 Shambhu He who gives all pleasures   39 Aditya He who throws light on everything or He who is one but appears different.   40 Pushkaraksha He who has lotus like eyes   41 Mahaswana He who has a great voice   42 Anadhinidhana He who has neither birth nor death   43 Dhatha He who carries the world   44 Vidhatha He who creates all actions and their results   45 Dhatur-Uttama He who is greater than the creator (Brahma)   46 Aprameya He who is beyond rules , regulations and definitions.   47 Hrishikesa He who controls his five senses   48 Padmanabha He who has a lotus (from which the world evolved) growing on his belly   49 Amara -Prabhu He who is the chief of deathless beings   50 Viswa-Karma He who has made this universe   51 Manu He who thinks (worries) of every thing   52 Dwashta He who destroys every thing   53 Sthavishta He who is extremely fat   54 Sthaviro-Dhruva He who is ancient and permanent   55 Agrahya He who is not reachable by senses   56 Saswatha He who existed in the past, exists at present and will exist in future.   57 Krishna He who is black Or He who is personification of truth, happiness and that which is beyond us   58 Lohitaksha He who has red eyes   59 Prathardhana He who destroys every thing in the end (deluge)   60 Prabhootha He who is full of wealth and knowledge   61 Thrika-Kubhdhama He in whom resides the three worlds viz. Earth, Heaven and Hell   62 Pavithra He who is pure or He who makes others pure.   63 Mangalam-Param He who does good to others   64 Easana He who rules over (appoints) everything   65 Pranadha He who makes beings move   66 Prana He who is the soul   67 Jyeshta He who is elder to all others   68 Sreshta He who is better than all others   69 Prajapathi He who is the chief of all human beings   70 Hiranyagarbha He who resides as the soul (Brahmam) of this golden universe   71 Bhoogarbha He who carries the earth within himself   72 Maadhava He who is the consort of LakshmiOr He who can be realized only by silence , meditation and yoga   73 Madusudhana He who killed Madhu the Asura   74 Easwara He who is supremely strong   75 Vikrami He who has the ability to destroy all his enemies or He who has valour.   76 Dhanvi He who is the supreme archer   77 Medhavi He who is the supreme intelligence   78 Vikrama He who has measured the worlds Or He who rides on a bird (Garuda)   79 Krama He who has spread every where   80 Anuthama He who does not have anybody better than him   81 Duradharsha He who can not be cowed down by his enemies   82 Kridhagna He who knows good and bad of all beings or He who gives salvation even by giving leaves and flowers.   83 Krithi He who is busy in his work or He who is personification of work.   84 Athmavan He who has only his strength as his basis   85 Suresha He who is the lord of all Gods (Devas)   86 ssarana He who removes sadness from the unhappy   87 ssharma He who is personification of total happiness   88 Vishwaretha He who is the seed to this universe   89 PrajhaBhava He who is the reason for existence of human beings   90 Aaha He who is as bright as the day   91 Samvatsara He who is personification of the year   92 Vyala He who cannot be caught like the great serpent   93 Prathyaya He who is personification of knowledge   94 Sarvadarshana He who sees (knows) everything   95 Ajha He who does not have birth   96 Sarveshwara He who is God for everything   97 Siddha He who is always everywhere   98 Siddhi He who is the desirable effect of everything   99 Sarvadhi He who is the primary reason for everything   100 Achyutha He who does not slip Or He who does not allow his devotees to slip   101 Vrashakapi He who is the personification of Dharma and Varaha   102 Ameyatma He whose stature can not be measured   103 Sarva Yoga Vinisrutha He who is devoid of all attachmentsOr He who is known by all yogas   104 Vasu He who lives in every being   105 VasuMana He who has a good heart   106 Satya He who is truth personified   107 Samathma He who looks everybody as equal   108 Asammitha He who can not be measured   109 Sama He who is without change at all times   110 Amogha He who gives all to his devotees   111 Pundarikaksha He who is lotus eyedOr He who is like eyes for those living in the heaven called Pundarika   112 Vrishakarma He whose actions are dictated by Dharma   113 Vrishakritha He who is born to uphold Dharma   114 Rudhra He who drives away sadness and the reasons for it   115 Bahusiras He who has many heads   116 Bhabru He who carries the worlds   117 Viswayoni He from whom all beings are born   118 Suchisrava He who hears holy (clean) words of his devotees   119 Amritha He who does not die   120 SaswathaSthanu He who is perennially stableOr He who is permanent and unmovable   121 Varoraoha He who does not send back those who attain him   122 Mahathapa He who is extremely knowledgeable   123 Sarvaga He who goes (reaches) every where   124 Sarvavid-bhanu He who shines in the knowledge of every thing   125 Vishvaksena He who attacks the armies of Rakshasas from all directions. Or He who attacks bad things from everywhere   126 Janardhana He who troubles bad people Or He whom people pray for benefits   127 Veda He who is the Vedas   128 Vedavidha He who knows the meaning of Vedas   129 Avyanga He who is beyond the reach of five senses   130 Vedanga He who has Vedas as parts of his body   131 VedaVith He who examines (interprets) Vedas   132 Kavi He who sees (knows) everything   133 Lokadhyaksha He who presides over the Universe   134 Suradyaksha He who directs the devas   135 Dharmadyaksha He who presides over Dharma   136 KrithaKritha He who is the means and result of every thing   137 Chathurathma He who is Brahma during creation, Vishnu during the upkeep , Rudra during destruction and Janardhana during Pralaya(deluge) of the world   138 Chathur Vyuha He who is Aniruddha when we are awake, Pradhyumna when we are dreaming, Sangarshana when we are in Sushupthi and Vasudeva when we are in Thuriya   139 Chathur Damshtra He who has four protruding incisors( as in Narasimha Avatara) Or He who has four horns   140 Chathur Bhuja He who has four hands   141 Brajishnu He who is in the form of lightOr He who is the light   142 Bhojana He who is in the form which can be enjoyed like foodOr He who consumes food offered to him by devotees   143 Bhoktha He who is the consumer of nature   144 Sahishnu He who can pardonOr He who wins and converts   145 JagataDhija He who was born before the world   146 Anagha He whom no sin gets attached or He who is sinless   147 Vijaya He who is wins   148 Jetha He who is always the victor   149 Viswayoni He who is the universe and its creator   150 Punarvasu He who is in every being as its controller   151 Upendra He who is Indra to Indra himself   152 Vamana He who was born as VamanaOr He whom devotees can worship   153 Pramsu He who grew big when measuring the world as Vamana   154 Amogha He whose actions are never wasted   155 Suchi He who cleans the mind of those who pray Him   156 OOrjitha He who is very powerful   157 Athindra He who is above Indra   158 Sangriha He who destroys during the deluge   159 Sarga He who is the personification of creation   160 Dhritatma He who is birth less and stable   161 Niyama He who appoints others   162 Yama He who controls others   163 Vedya He who can be known   164 Vaidya He who knows all knowledge   165 Sada Yogi He who is lustrous always   166 Veeraha He who kills Asura Heroes   167 Madhava He who is the lord of knowledge (Vidya)   168 Madhu He who is like honey   169 Athindriya He who is beyond human senses   170 Maha maya He who is an illusion to those great illusionists   171 Mahotsaha He who has great enthusiasm   172 Mahabala He who is very strong   173 Maha Buddhi He who has tremendous knowledge   174 Maha Veerya He who even if there is reason to worry never gets worried   175 Maha Shakthi He who is very strong   176 Maha Dyuthi He who has great luster   177 Anirdesya Vapu He of whom nobody can tell that he is thus   178 Shreeman He in whom godly wealth resides   179 Ameyatma He who has immeasurable knowledge   180 Mahadri Drik He who lifted large mountains   181 Maheshvasa He who is a great archer   182 Mahee Bhartha He who lifted the earth when he was born as Varaha   183 Sreenivasa He in whose chest resides Shree Devi   184 Sadam Gathi He who is the ultimate goal of good people   185 Aniruddha He who can not be stopped by any body   186 Surananda He who makes Devas happy   187 Govinda He who lifted the earth(Go)Or He who is the chief of cows Or He who makes the word ’Go” attain him   188 Govidam Pathi He who is the leader of those who know Vedas   189 Mareechi He who is in the form of light   190 Dhamana He who punishes   191 Hamsa He who removes fear of those who consider Him as themselves   192 Suparna He who has beautiful wings   193 Bhujagottama He who is the shape of a good serpent   194 Hiranya Nabha He who has a belly like gold   195 Suthapa He who has done great penance   196 Padmanabha He who shines in the belly of the lotus of our heart   197 Prajapathi He who is the chief of people   198 Amruthyu He who does not have death   199 Sarvadrikh He who sees everything   200 Simha He who troubles sinners   201 Samdatha He who adds devotees to himself   202 Sandhiman He who adds all those who experience Him to himself   203 Sthira He who is permanent   204 Ajha He who is inside everything   205 Dhurmarshana He whom enemies cannot defeat or bear   206 Shaaratha He who orders and makes others obey   207 Vishrutathma He who is the soul of all the good one is told   208 Surariha He who destroys the enemies of devas   209 Guru He who is a teacher of all knowledge   210 Guru-Thama He who is the teacher of teachers   211 Dhama He who is light   212 Satya He who is truth   213 Satyaparakrama He who is truly a hero   214 Nimisha He who closes his eyes (during Yoganidhra)   215 Animisha He who sees everything without batting his eyelids   216 Ssraghvi He who wears a garland   217 Vachaspathi Udharathi He who is the supreme personification of knowledge   218 Agrani He who takes one to a higher life   219 Grammani He who appoints (controls) Pancha Bhutas   220 Shriman He who shines   221 Nyaya He who is justice   222 Netha He who drives the world machine as its leader   223 Sameerana He who in the form of wind makes beings move   224 Sahasra Moordha He who has countless heads (all heads of beings are his)   225 Viswathma He who is the soul of every thing   226 Sahasraksha He who has thousand eyes (All eyes are his)   227 Sahasrapath He who has thousand feet   228 Avarthana He who rotates (the wheel of life)   229 Nivrithathma He who is not attached to life   230 Samvritha He who is not visible due to net of illusion (Maya)   231 Sampramardhana He who destroys the world (in the form of Yama and Rudhra)   232 Aha Samvarthakaya He who makes day in the form of sun   233 Vahnni He who is in the form of fire   234 Anila He who is in the form of air   235 Dharanidhara He who supports the earth (in the form of Adi sesha)   236 Suprasadha He who is mercy personified   237 Prasannathma He who is forever clear headed   238 Viswa Drik He who takes care of the world   239 Viswa Bhuja He who eats up the world during deluge   240 Vibhu He who has many forms   241 Satkartha He who worships those who do good deeds   242 Satkritha He who is worshipped by good people   243 Sadhu He who walks in the righteous path   244 Jahnnu He who prevents people without Bhakthi from attaining him   245 Narayana He who resides in all things that he createsOr He in whom all souls reside   246 Nara He who shows the path   247 Asangyeya He who is beyond counting or He who is infinite   248 Aprameyatman He who is beyond knowledge   249 Visishta He who is the greatest   250 SishtaKrith He who orders or he who protects good people   251 Suchi He who is blemish less   252 Siddhartha He who has all he wants   253 Siddha Sankalpa He who realizes all that he wants   254 Siddhitha He who gives devotees the ability to attain their wants   255 Siddhi Sadhana He who is ‘wants’ and the reason for ‘wants’   256 Vrishahi He who shines like day   257 Vrishabha He who showers all wishes on his devotees   258 Vishnu He who measured the worlds in Vamana Avatara   259 Vrishaparvana He who can be attained through the stair case of Dharma (right action)   260 Vrishodhara He who keeps all beings in his belly during deluge   261 Vardhana He who rears beings   262 Vardhamana He who grows like the beings whom He grows   263 Viviktha He who stands alone   264 Shruthisagara He who is the ocean in which all Shrutis( Vedas) lead   265 Subhuja He who has good arms   266 Dhurdhara He who carries everything but not carried by anybody or He who is impossible to carry   267 Vagmi He who is a great orator   268 Mahendra He who is God to the Gods   269 Vasudha He who gives good pleasures and wealth   270 Vasu He who is wealth   271 Naikaroopa He who does not have one appearance   272 Brihadroopa He who has a big appearance   273 Shipivishta He who is inside a ray of lightOr He who is sacrifice in a sacrificial animal   274 Prakasana He who makes everything shine   275 Ojastejodyuthidhara He who has strength, valor and luster   276 Prakasathma He who is the soul of luster Or He who makes others shine   277 Prathapana He who emits heat   278 Kriddha He who is full (of knowledge, Dharma and renunciation)   279 Spashtakshara He who is denoted by the sound of OM   280 Manthra He who is the shape of Vedic manthras   281 Chandramsa He who is as pleasant as the ray of moon   282 Bhaskaradyuthi He who has light like the sun   283 Amruthamsurbhava He who made moon appear from the Ocean of milk   284 Bhanu He who shines himself   285 Shasabindu He who is like moon   286 Sureswra He who is the chief of those who do good   287 Aushadha He who is medicine   288 Jagatha-Sethu He who is the bridge for the worlds   289 Sathya Dharma Parakrama He who is truth, Dharma and valorous   290 Bhootha Bhava Bhannatha He who is the lord of past, present and future   291 Pavana He who cleans in the form of wind   292 Paavana He who makes the wind blow   293 Anala He whom we never get satisfied   294 Kamaha He who removes bondage of life   295 Kama Krit He who satisfies wishes   296 Kantha He who is attractive because of his beauty   297 Kama He who is desired by everybody   298 Kamapradha He who gives all wishes for those who wish   299 Prabhu He who stands tall   300 Yugadhi Krit He who created the divisions of time   301 Yuga Vartha He who makes time periods come again and again   302 Naika Maya He who creates many illusions   303 Mahasana He who is a big eater during deluge   304 Adhrisya He who is not visible   305 Vyaktha roopa He who is clearly visible (to yogis)   306 Sahasra Jit He who defeats thousands (of Rakshsas-bad people)   307 Anantha Jit He who is for ever victorious   308 Ishta He who is liked by every one   309 Avisishta He who does not have any one above him   310 Sishteshta He who is dear to the learned   311 Shikandi He who wears the feathers of pea cock   312 Nahusha He who ties souls by illusion   313 Vrisha He who rains (wishes of devotees)   314 Krodha He who removes anger from devotees   315 Krodha Krit Kartha He who destroys those becoming angry (like Rakshasas)   316 Viswa Bhahu He who has hands all over the universe (He who supports us every where)   317 Mahee Dhara He who supports the earth   318 Achyutha He who never changes   319 Pradhitha He who is famous   320 Prana He who is the soul   321 Pranaadha He who gives strength   322 Vasavanuja He who is the brother of Indra   323 Apam Nidhi He who is the ocean   324 Adhishtana He in whom the world stays   325 Apramaththa He who is always watchful   326 Prathishtitha He who has become stable   327 Skandha He who is the ambrosia (nectar)   328 Skandha Dhara He who supports the path of the righteous   329 Dhurya He who carries the weight of the world   330 Varadha He who gives boons   331 Vayu Vahana He who makes even the wind move   332 Vasu Deva He who is in everything and plays there   333 Brihat Bhanu He who has wide rays which go every where   334 Adhi Deva He who is the first reason of the world   335 Purandhara He who destroyed cities of Asuras   336 Ashoka He who is never sad   337 Stharana He who helps one to cross the sea of life   338 Sthara He who gives strength to face the fears of life   339 Shura He who has valor   340 Shouri He who is a hero (He who is shura , the son of Vasudeva)   341 Janeswara He who is God for all those who are born   342 Anukoola He who is positively interested I every one   343 Satha Vartha He who was born several times (to protect Dharma)   344 Padhmi He who has lotus in his hand   345 Padhma Nibhekshana He who has two lotus like eyes   346 Padhma Nabha He who has the lotus on his belly   347 Aravindaksha He who has beautiful lotus like eyes   348 Padhma Garbha He who is being meditated in the lotus of our mind   349 Sarrera Brit He who takes many forms by his illusion   350 Mahardhi He who has great wealth   351 Hriddha He grows in the form of universe   352 Vridhatma He who is oldest   353 Maha Aksha He who has big eyes (all seeing)   354 Garuda Dwaja He who has Garuda(eagle) in his flag   355 Athula He who has no equals   356 Sharabha He who lives as soul in beings   357 Bheema He who makes everyone afraid of Him   358 Sama Yagna He who knows the time for action or He who treats all as equals   359 Havirhari He who takes share of Gods in a Yaga (fire sacrifice)   360 Sarva Lakshana Lakshanya He who has all known good characteristicsOr He who is known to all known rules   361 Lakshmi Vaan He from whom Lakshmi (goddess of wealth) never leaves   362 Samithinjaya He who wins in all wars   363 Vikshara He who is never destroyed   364 Rohitha He who took the form of red fish called RohitaOr He who is red like the inside of lotus   365 Maarga He who is the way for eternal bliss   366 Hetha He who is the cause   367 Damodhara He who is known by knowledge got by self restraintOr He who was tied by Yasodha in the stomachOr He who keeps in his belly the world called Dhama   368 Saha He who tolerates everything   369 Mahidhara He who carries the world   370 Maha Bhaga He who is great in the Avataras (holy births) he takes Or He who receives the best share offered by devotees   371 Vega Van He who is very fast   372 Amithasana He who takes immeasurable food ( during deluge)   373 Udbhava He who is the reason for the birth of the worlds   374 Ksobhana He who during creation churns Purusha and Prakrithi   375 Deva He who plays in activities like creationOr He who wins over Asuras   376 Srigarbha He who keeps his wealth (of worlds) in his belly   377 Parameshwara He who is the most efficient ruler   378 Karana He who is the instrument for creation of the world   379 Kaarana He who is the cause for creation of the world   380 Kartha He who is independent master   381 Vikartha He who created peculiar worlds   382 Gahana He whose shape, strength and actions are difficult to know   383 Guha He who hides everything by illusion (Maya)   384 Vyavasaya He who is personification of knowledge   385 Vyavasthana He who is not bound by any limitations   386 Samsthana He who has the best position   387 Sthanada He who gives positions   388 Dhruva He who is permanent   389 Parardhi He who has great wealth   390 Parama Spashta He who is the limit of beauty and self evidenceOr He who is extremely clear   391 Thushta He who is the form of immortal bliss   392 Pushta He who is always complete   393 Shubekshana He who has a blissful sightOr He whose sight gives all persons their wants   394 Raama He who makes others to be happy with him   395 Virama He who is the ultimate end of everything   396 Viratha He who is not interested in worldly pleasures   397 Maargha He who is the path (for Moksha or immortal bliss)   398 Neya He who obeys orders of sages devoted to him   399 Naya He who makes everything work (lead)   400 Anaya He who cannot be lead by any body   401 Veera He who is personification of valor   402 Shakthi Matham Shreshta He who is strongest among the strong   403 Dharma He who is the basis of every thingOr He who is worshipped by all faiths   404 Dharma Vidhuttama He who is greatest among those who know Dharma   405 Vaikunta He who keeps the five Bhutas ( air, water , sky. Fire and earth) bound together at the beginning of creation orHe who removes all obstacles in the way of devotees to attain Him.   406 Purusha He who is in front of every thing or He who washes off all sins or He who is the soul in all beings   407 Prana He who is the soul of souls   408 Pranadha He who gives life (movement)   409 Pranava He who is the holy sound (Om)   410 Pruddhu He who is spread in the form of the worlds   411 Hiranya Garbha He who keeps the golden source for all creations   412 Shatrugna He who kills Asuras or He who controls sensual weakness by knowledge   413 Vyaptha He who pervades in all beings as the cause   414 Vayu He who makes perfumes spread or He who spreads to the places where he is worshipped   415 Adokshaja He who is never gets exhausted by use by his devotees or He who never dries up   416 Hrithu He who is the seasons   417 Sudarshana He who has eyes like lotus petals or He who can be easily seen by his devotees   418 Kaala He who always keeps thinking of everything   419 Parameshti He who by his power stays in the lotus of heart   420 Parigraha He who is known in all possible manner by his devotees   421 Ugra He who gives strict orders   422 Samvatsara He who makes all things reside in Him   423 Daksha He who completes all jobs quickly   424 Vishrama He who provides rest for those who are tired (of life)   425 ViswaDakshina He who is an expert in all things or He who is more powerful than all others   426 Visthara He who makes all the world broaden in Him   427 StavaraStanu He who is stable and he who makes the world stable within Him   428 Pramana He who is the law to support every thing or He who is personification of Knowledge   429 Bhijamavyaya He who is the deathless reason   430 Artha He who is loved by others (because He is Sweet)   431 Anartha He who does not wish any thing   432 Mahakosa He who is immersed in the five continents   433 Mahabhoga He who is pleasures in life personified   434 Mahadhana He who has great wealth   435 Anirvinna He who does not hate others   436 Stavishta He who is spread every where in his majestic form   437 Abhu He who does not have birth   438 Dharmayupa He who is like a pillar in which right action (dharma) is tied   439 Maha makha He by whom yagas become great (by giving to Him)   440 Nakshatra Nemi He who is like the zodiac   441 Nakshatri He who is like the moon who is the chief of stars   442 Kshama He who is perennially patient   443 Kshaama He who remains alone after the deluge   444 Sameehana He who likes his jobs like creation   445 Yagna He who is personification of Sacrifice (Yagna)   446 Ijhya He who is being worshipped by Yagas   447 Mahejya He who is the greatest among those worshipped by Yagas   448 Krathu He who is personification of performance of Yaga   449 Sathram He who is the form of Sathra Yaga or He who protects good people (Sadhu)   450 Satham Gathi He who is the ultimate goal of those who seek for salvation (Moksha)   451 Sarva Darshi He who knows every thing naturally or He who sees everything   452 Vimukthathma He who is the soul which has left all its bondages   453 Sarvagna He who knows all that is to be known   454 Gnanamuuttamam He who is not born, ever existing, giver of all that is needed and personification of right knowledge   455 Suvritha He who has great penance   456 Sumukha He who has a handsome face   457 Suukshma He who is the smallest known thing from which every thing came   458 Sugosha He who sings (shouts?) good sounds like Vedas   459 Sukhadha He who gives pleasures to devotees   460 Suhrith He who has a great heart (mind)   461 Manohara He who steals our mind (by his beauty)   462 Jitakrodha He who is in control of anger   463 Vira Bahu He who has heroic arms (to kill asuras)   464 Vidharana He who tears off, those who do sins   465 Swaapana He who makes all beings sleep by illusion   466 Swa Wasa He who is not in the control of others or He who lives within Himself   467 Vyapi He who has spread every where   468 Nykathma He who takes various forms depending on need   469 Nykha Karma Krit He who does various jobs (like creation , upkeep and destruction)   470 Vatsara He who is the abode of everything   471 Vatsala He who loves his devotees   472 Vathsi He who protects calves (all are calves /children to Him)   473 Rathna Garbha He who is the ocean which keeps pearls within itself   474 Dhaneswara He who is the God of wealth   475 Dharma Gupa He who protects Dharma   476 Dharma Krith He who practices Dharma (in spite of His being much above it)   477 Dharmi He who supports Dharma   478 Sadha He who is the ultimate permanent truth (Para Brahman)   479 Asadha He who is the ultimate truth which is hidden (by illusion)   480 Kshara He who is all who deceives themselves as the mind , body and senses   481 Akshara He who is beyond mind, body and senses or He who lives in ones heart as a permanent witness   482 Avignatha He who is not one who does not know   483 Sahsramsu He who has thousand rays   484 Vidhatha He who carries the world and also those who carry it like Adisesha, Diggaja etc   485 Kritha Lakshana He who made the science of properties of all aspects or He who is the grammar of appearance of every known being   486 Gabasthi Nemi He who is in the form of the zodiac   487 Sath vastha He who permeates in Sathva guna (kind hearted disciplined life?) or He who lives among souls   488 Simha He who was born as a lion or He who is as royal as a lion   489 Bhootha Maheswara He who is the first and ultimate God of all beings or He who is God of everything   490 Adhi Deva He who was God before the Devas or He who was the first God   491 Maha Deva He who lived in renunciation and by Yoga became the greatest truth (God?)   492 Devesha He who is the Lord of Devas   493 Deva Brit Guru He who is the teacher (guru) for Indra the chief of devas   494 Utthara He who saves all beings from the miserable ocean of mortal life or He who awoke to help the Devas   495 Gopathi He who rears the cattle (Pasu or Go can also be taken to denote all mortals)   496 Goptha He who is the saviour   497 Gnana Gamya He who can only be attained by right knowledge (Gnana)   498 Purathana He who is very ancient   499 Sareera Bhootha Brit He who is the soul of Pancha Bhoothas which is the basis of all beings   500 Bhoktha He who enjoys the truth in himself or He who takes care of all beings   501 Kapindra He who is Rama who is dear to all monkeys or He who has taken the avathara of Varaha   502 Bhoori Dakshina He who conducts Yagas and gives cash benefits (Dakshina) to many   503 Somapa He who drinks Soma   504 Amruthapa He who drinks the nectar of the bliss of the soul (Athmananda)   505 Soma He who in the form of moon helps plants to grow   506 Puru Jit He who has won over several   507 Puru sattama He who is the best in several forms   508 Vinaya He who punishes bad people   509 Jaya He who wins every other being   510 Sathya Sandha He who never breaks his word (oath)   511 Dasarha He who gives all to his devotes or He who was born among the yadavas   512 Sathvatham Pathi He who is takes care of the authors of the sastra of Saathvatha   513 Jiva He who in the form of soul makes all beings   514 Vinayitha Sakshi He who is a witness to obedience by others to Him   515 Mukunda He who gives immortal bliss (Moksha)   516 Amitha Vikrama He who is immeasurable steps or He who has greatest Valor   517 Ambho Nidhi He who is the ultimate sojourn to devas, Manushyas, asuras and pithrs or He Who has kept himself in the ocean to carry the worlds   518 Anantha Atma He who is immeasurable or He who is the soul of adi sesha   519 Maho Dadhi Saya He who sleeps on the ocean   520 Anthaka He who brings about end of everything   521 Ajha He who is the beginning and in the form of Manmadha(God of love)   522 Maharha He who is fit to be worshipped   523 Swaabhavya He who by nature is not different or He who is usual   524 Jithamitra He who has won the enemies inside and outside   525 Pramodhana He who is always happy or He who makes those devotees who meditate on Him happy   526 Ananda He who is the personification of happiness   527 Nandana He who makes his devotees happy   528 Nanda He who is full of everything that is needed or He who has crossed the ordinary pleasures   529 Satyadharma He who is the truthful dharma   530 Trivikrama He who measured the worlds in three steps   531 Maharshi Kapilacharya He who is the sage Kapila   532 Krithagna He who is the world and the soul which knows the world   533 Medhini pathi He who is the lord of the worlds   534 Tripadha He who has three steps or He who is formed by three letters AA UU and Ma (that is OM)   535 Tridasadyaksha He who directs (sees from above) the states of wakefulness, sleep and dream   536 Mahasringa He who has the great horn (in which he tied the earth traveling in a boat during deluge)   537 Krithantha Krit He who destroys the world created by Himself   538 Mahavaraha He who took the shape of Varaha (boar)   539 Govinda He who is attained by Vedic words   540 Sushena He who has a great army (the Stanzas in Upa Nishads are his army)   541 Kankam Gathi He who has Golden Shoulders (Golden has been translated as refined by some)   542 Guhya He who is known only by the secret Upanishads or He who is in the cave of the mind   543 Gabhira He who appears majestic because of knowledge, wealth, strength and valor   544 Gahana He whose depth can not be measured   545 Guptha He who is hidden from mind and the words   546 Chakra Gathadhara He who keeps the holy Wheel (representing mind) and Holy Mace (Representing Philosophy) to save the world   547 Vedhasa He who creates or He who gives immeasurable happiness and wealth to his devotees   548 Swanga He who is the instrument reason and cause for existence   549 Ajitha He who cannot be won   550 Krishna He who is the colour of the black cloud or He who is Krishna Dwaipayana the sage   551 Dhrida He who has no change in character and ability   552 Samkarshano Achyutha He who draws beings within Himself during the deluge   553 Varuna He who is purple sun who is about to set or He who hides everything   554 Vaaruna He who is Vasishta who is the son of Varuna   555 Vriksha He who is firm and stable like the tree   556 Pushkaraksha He who has spread completely or He who rained kindness from his eyes   557 Maha Manaa He who performs creation, upkeep and destruction by a thought in his great mind   558 Bhagawan He who is the storehouse of wealth, Dharma, fame. .riches., renunciation and Moksha   559 Bhagagna He who destroys wealth during deluge   560 Anandi He who is the personification of pleasure   561 Vanamali He who wears nature as a garland   562 Halayudha He who has plough as his weapon   563 Adhitya He who was born as Vamana to Adhithi   564 Jyotir Adithya He who shines in the zodiac   565 Sahishnu He who tolerates everything   566 Gathisathama He who is the truth and He whom every one attains   567 Sudhanva He who has the holy bow called Saranga which is personification of our senses   568 Kkhanda Parasu He who has axe as a weapon to kill enemies   569 Dharuna He who is cruel to those who prevent the right path   570 Dhravina Pradha He who gives the wealth asked by devotees   571 Dhiva Sprikh He who touches the sky or He who shows his secret form by touch   572 Sarva Drik Vyasa He who writes about all knowledge   573 Vachaspathirayonija He who was not born and is the Lord of knowledge   574 Thrisama He who is worshipped by the three samas (Briht, Rathandara and Vamadeva branches of Sama Veda)   575 Samaga He who sings sama veda   576 Sama He who is the sama veda   577 Nirvana He who is beyond all sadness   578 Beshaja He who is the medicine   579 Bhisahkh He who is the Doctor   580 Sanyasa Krit He who introduced Sanyasa (renunciation) as the method for salvation   581 Chama He who controls every thing   582 Shantha He who is not attracted by bodily pleasures   583 Nishta He who is the place where everything ends   584 Shanthi He who is the cause of removing ignorance   585 Paarayana He who is in the high pedestal and never returns to bodily pleasures   586 Shubhanga He who has beautiful limbs or He who carries out the Ashtangas , the path to salvation   587 Shanthida He who gives peace   588 Srishta He who creates everything   589 Kumuda He who is happy to be in the world   590 Kuvalesaya He who sleeps on the ocean surrounding the world   591 Gohitha He who does good to earthly beings or He who puts limits to nature   592 Gopathi He who is the lord of all beings in the world   593 Goptha He who takes care of the world   594 Vrishabhaksha He whose merciful eyes showers whatever is prayed for   595 Vrisha Priya He who loves Dharma   596 Anivarthee He who never returns from a war without victory   597 Nivrthathma He whose mind never attaches itself to pleasures   598 Samksheptha He who shrinks the wide world during deluge   599 Kshemakritha He who keeps those recognized by Him comfortable   600 Shiva He who removes sins as soon as His name is thought of   601 Shrivatsa Vakshas He who has Shrivatsa on his chest   602 Shrivasa He in whom Goddess Lakshmi lives   603 Shripathi He who is the Lord of Goddess Lakshmi   604 Shrimatam Vara He who is greatest among Gods   605 Shridha He who gives wealth to his devotees   606 Shrisa He who is the God of Goddess Lakshmi   607 Shrinivasa He who lives in Gentlemen (Shriman) or He in whom Goddess Lakshmi lives   608 Shri Nidhi He who is the treasure of all strengths   609 Shrivibhavana He who gives to all beings wealth according to merits earned by them   610 Shridhara He who carries the Goddess Lakshmi on his chest   611 Shrikara He who gives all wealth to his devotees   612 Shreya He who is the personification of perennial happiness   613 Shriman He who is a gentle man   614 Loka Trayasraya He on whom the three worlds depend   615 Swaksha He who has lotus like eyes   616 Swanga He who has beautiful limbs   617 Ssathananda He who has several types (hundred) happiness   618 Nanda He who is personification of supreme happiness   619 Jyothir ganeswara He who is the chief of lustrous bodies   620 Vijhitatma He who has conquered the mind   621 Avidheyatma He who is not under the control of anybody   622 Sathkeerthi He who has good fame   623 Chinna samsaya He who does not suspect or He who sees everything clearly   624 Uudheerna He who is greater than all beings   625 Sarwata Chakshu He who sees everything everywhere   626 Aaneesa He who does not have any God above him   627 Saswatha sthira He who is permanently stable   628 Bhoosa He who slept on the ground (as Rama waiting for sea God to respond) or He Who lives in idols on the Ground   629 Bhooshana He who decorated the world (by several births)   630 Bhootha He who has existence   631 Vishoka He who is never sad   632 Shoka nasana He who destroys sadness of his devotees   633 Archishma He who gives light to astral bodies   634 Architha He who is worshipped in all the three worlds   635 Khumba He who is the basis of everything or He who is being worshipped in temples in earth   636 Vishudhatma He who has supremely clean habits   637 Vishodhana He who removes sins of those who think of Him   638 Aniruddha He who can never be stopped by His enemies   639 Aprathiradha He who has no enemies   640 Pradhyumna He who has great wealth or He who makes others sparkle   641 Amitha vikrama He who has immeasurable fame   642 Kala neminiha He who killed Kala Nemi   643 Veera He who is valorous   644 Sowra He who was born in the Sura dynasty (Sri Krishna)   645 Shoora janeswara He who is God for heroes like Indra   646 Thrilokathma He who is not different from the three worlds   647 Thrilokesa He who is the Lord of three worlds   648 Kesava He who gave rays to lustrous bodies or He in whom Brahma, Vishnu and Shiva reside   649 Kesiha He who killed the Asura called Kesi   650 Hari He who removes births and deaths with their cause or He who is green   651 Kama deva He who is passionately loved by his devotees   652 Kama pala He who takes care of desires   653 Kaami He who fulfills desires   654 Kaantha He who has attraction   655 Krithagama He who created holy rule books (agamas)   656 Anirdesya vapu He whose looks cannot be defined   657 Vishnu He who has spread all over   658 Veera He who goes, spreads, creates, throws and eats   659 Anantha He who is endless   660 Dhananjaya He who is Arjuna or He who wins the attraction over money   661 Brahmanya He who favours penance,(Tapas) knowledge, brahmanas and Vedas   662 Brahma Krit He who made penance (tapas)   663 Brahma He who is Brahma the creator   664 Brahmana He who is Brahmam   665 Brahma vivardhana He who encourages the ways to Brhamam like Tapas   666 Brahma vid He who knows Vedas properly   667 Brahmana He who in the Form of Brahmins teaches Vedas   668 Brahmi He who controls all that is denoted by Brahma   669 Brahmangna He who knows Vedas as Himself   670 Brahmana priya He who is liked by Brahmins   671 Maha krama He who takes big steps   672 Maha karma He who does the great works like creation, upkeep and destruction   673 Maha teja He who gives light to stars or He who is the great star   674 Mahoraga He who has the form of the great serpent   675 Maha krithu He who is the great doer   676 Mahar yajwa He who shows the way by performing great sacrifices (yagna)   677 Maha yagna He who is the greatest Yagna (sacrifice)   678 Maha havi He who is the greatest sacrificial offering in the yagna   679 Stavya He who is being praised by everybody   680 Sthava priya He who likes being praised   681 Stotra He who is the song about Himself   682 Sthutha He who is the act of being sung about God   683 Sthothra He who is the devotee who sings about him   684 Rana priya He who likes war   685 Poorna He who is complete   686 Poorayitha He who completes the wishes of his devotees   687 Pushya He who removes sins as one thinks about Him   688 Punya keerthi He who is famous for removing sins   689 Anamaya He who never becomes ill   690 Manojava He who is as fast as the mind   691 Theertha kara He who created methods for salvation of all beings in the world   692 Vasu rethas He who is the golden essence of Himself   693 Vasu pradha He who gives wealth to his devotees   694 Vasupradha He who leads His devotees to salvation   695 Vasu deva He who was born as son of Vasudeva   696 Vasu He in whom all others live   697 Vasu manas He who has a mind which lives in all others   698 Havi He who is the sacrificial offering in the yagas   699 Sad Gadhi He who is attained by good people   700 Sad krithi He who does good action   701 Saththa He who is personification of non differential knowledge   702 Sad brithi He who is Sat and Chit (Truth and Ultimate truth)   703 Sad parayana He who is attained by those who know him   704 Sura sena He who lead an army of heroes   705 Yadu sreshta He who is the greatest among Yadus (Krishna belonged to this family)   706 Sannivasa He who is the ultimate place where scholars go.   707 Suyamuna He who is surrounded by residents of Yamuna   708 Bhootavasa He who keeps all beings in his caring sight   709 Vasudeva He who hides the world by illusion   710 Sarvasunilaya He who is the form of Jivatma (the form of God within every being)   711 Anala He who has unending strength   712 Darpaha He who destroys the pride of those who are against Dharma   713 Darpadha He who gives self satisfaction to those who walk in the path of Dharma   714 Drptha He who is supremely happy or He who never gets proud of his strength   715 Durdhara He who can be brought to the mind with difficulty   716 Aparajitha He who can not be won   717 Viswa Murthi He who has the universe as his body   718 Maha Murthi He who has a big body   719 Deepthamurthy He who has a body which shines due to knowledge   720 Murthyman He whose body when he is born is not a result of Karma   721 Aneka Murthy He who is born several times   722 Avyaktha He who is not clear or He who cannot be determined to be a certain thing by any body   723 Satha Murthy He who has several forms   724 Sathanana He who has several faces   725 Eka He who is one   726 Naika He who appears as in different forms by illusion   727 Sava He who is the personification of soma yaga   728 Kava He who shines even among those who are sinners or He who is worshipped as ‘ka’ indicating pleasures   729 Kasmai He who can be investigated and known   730 Yasmai He who tries to help is devotees always or He who is indicated by ‘yat’   731 Thasmai He who is indicated by the word ‘THAT’   732 Padamanuttamam He who is in such a high position that the most knowledgeable want to attain him   733 Loka Bhandu He who is a relation of all beings   734 Loka Natha He who rules over the world   735 Madhava He who was born in the family of Madhu   736 Bhaktha Vatsala He who loves his devotees   737 Suvarna varna He who is of a golden colour   738 Hemanga He who has a golden body   739 Varanga He who has beautiful body   740 Chandanam gathi He who wears Golden armlets to give happiness   741 Veeraha He who is a hero destroying sins   742 Vishama He who cannot be compared to any one else   743 Sunya He who appears as if he is not there   744 Grithasi He who does not have desires   745 Achala He who is supremely stable   746 Chala He who moves in the form of wind for example   747 Amani He who does not have pride and willing to be any thing   748 Manada He who by his illusion makes people love their body   749 Manya He who is fit to be worshipped   750 Loka swami He who is the lord of the universe   751 Thriloka drik He who carries the three worlds   752 Sumedha He who is having good causing knowledge   753 Medhaja He who is created in Yagas   754 Dhanya He who has all facilities   755 Sathya medha He who has a knowledge which is unalloyed truth   756 Dhara Dhara He who carried the mountain   757 Thejovrisha He who rains light   758 Dhythi dhara He who has shining limbs   759 Sarva Sastra Bhritham Vara He who is the greatest among those who are armed   760 Pragraha He who receives (the flowers .leaves etc offered by his devotees)   761 Nigraha He who keeps every thing within himself   762 Vyanga He who does not have end   763 Naika Sringa He who has several horns ( Dharma , Artha , Kama and Moksha are the horns)   764 Gadhagraja He who appears before by Manthras or He who appeared before Gatha   765 Chatur murthy He who has four forms   766 Chathur Bahu He who has four arms   767 Chatur Vyooha He who has four Vyoohas ( Four gates)   768 Chatur Gathi He who is the destination for four varnas (brahmana, Kshatriya, Vysya and shudra)   769 Chatur Atma He who has four aspects of mind. Brain., thought and pride   770 Chatur Bhava He who is the reason for Dharma, Artha , Kama and Moksha (right action, wealth, pleasure and salvation)   771 Chatur Veda Vidha He who knows properly the meaning of four Vedas   772 Eka Patha He who keeps all the worlds under one of his feet   773 Sama Vartha He who rotates the wheel of birth and death   774 Nivrittatma He who is always available everywhere.   775 Dur Jaya He who can not be won   776 Durathikrama He whose orders can never be disobeyed   777 Dur Labha He who can not be attained except by devotion   778 Dur Gama He who is easily not known   779 Durga He who is difficult to attain due to way side road blocks   780 Dura Vasa He who can be kept in the mind with great difficulty   781 Durariha He who kills those adopting the wrong path   782 Shubhanga He who has a beautiful body   783 Loka Saranga He who understands the essence of the world   784 Suthanthu He who keeps with him the wide world   785 Thanthu Vardhana He who broadens the world   786 Indra Karma He who has the work like Indra   787 Maha Karma He who created all great beings   788 Kritha Karma He who does not have a need to do any thing   789 Kritha Agama He who created the Vedas   790 Udbhava He who attains great births   791 Sundara He who is the epitome of beauty   792 Sunda He who is wet (has mercy)   793 Rathna Nabha He who has a beautiful belly   794 Sulochana He who has beautiful eyes   795 Arka He who is suitable to be worshipped by all great Gods   796 Vaja sana He who gives Anna (food)   797 Shringa He who was born as a fish with horn   798 Jayantha He who is the cause of victory   799 Sarva Vijjayi He who knows all and wins over all   800 Suvarna Bindu He who has limbs of the body like Gold or He who is the God of Pranava (OM)   801 Akshobya He who should not be disturbed   802 Sarva Vagesware swara He who is the chief among Gods who speak   803 Maha Hrida He whose heart is full of the eternal water of happiness   804 Maha Gartha He who is the lord of illusion which is like a big hole or He who is a great charioteer   805 Maha Bhootha He who is spread in all places always   806 Maha Nidhi He in Whom all wealth is saved   807 Kumudha He who makes the earth happy   808 Kundara He who recognizes results of good deeds   809 Kunda He who gave earth as Dana to Kasyapa ( as Parasurama)   810 Parjanya He who is a cloud (which showers comfort to the sad people)   811 Pavana He who makes one pure by mere thought   812 Anila He who does not have any one to order him Or He who never sleeps   813 Amruthasa He who eats nectar which is the greatest happiness   814 Amritha Vapu He who has a body which cannot be destroyed   815 Sarvagna He who knows every thing   816 Sarvatho Muga He who has faces everywhere or He who can be approached from any where   817 Sulabha He who can be easily attained   818 Suvritha He who does great penance   819 Siddha He for no reason is always Himself   820 Sathuru Jita He who wins over his enemies   821 Sathru Thapana He who makes his enemies suffer   822 Nyagrodha He who is above all beings in the worlds below   823 Udhumbara He who is above skies or He who gives food to all the world   824 Aswatha He who is like a banyan tree   825 Chanurandra Nishudhana He who killed Chanoora who belonged to Andhra   826 Sahasrarchi He who has thousand rays   827 Satha Jihwa He who is the fire God with seven tongues   828 Sapthaida He who has seven flames   829 Saptha Vahana He who is the Sun God with seven horses   830 Amoorthi He who does not have shape   831 Anagha He who is not touched by sins   832 Achintya He who cannot be known by thought process   833 Bhaya Krit He who creates fear in bad people   834 Bhaya Nasana He who destroys fear in good people   835 Anu He who is small like an atom   836 Brihat He who is extremely big   837 Krisa He who is thin   838 Sthoola He who is stout   839 Guna Britha He who has the nature to create, upkeep and destroy   840 Nirguna He who does not have any properties   841 Mahaan He who is great   842 Adhritha He who is not carried by any thing   843 Swadhritha He who carries Himself   844 Swasya He who has a beautiful face or He from whose face Vedas came out   845 Pragvamsa He who belongs to the first dynasty   846 Vamsa Vardhana He who makes dynasties grow   847 Bhara Brit He who carries heavy worlds   848 Khadhitha He who is called as ultimate truth by the Vedas   849 Yogi He who can be attained by yoga or He who sees his essence always   850 Yogisa He who is the greatest among Yogis   851 Sarva Kamada He who fulfills all desires   852 Asrama He who is the place where beings can relax   853 Sravana He who gives sorrow to sinners   854 Kshama He who destroys during deluge   855 Suparna He who is a tree of whose leaves are the Vedas   856 Vayu Vahana He who makes winds move   857 Dhanur dhara He who is a great archer ( in the form of Rama)   858 Dhanur veda He who knows the science of Archery   859 Dhanda He who is the weapon to those who punish and also is the punishment   860 Dhamayitha He who controls and rules people   861 Dhama He who is also the patience when being ruled   862 Aparajitha He who can never be won by His enemies   863 Sarva saha He who is an expert in every thing   864 Niyantha He who makes people obey rules   865 Aniyama He who is not subject to any rules   866 Ayama He who does not have fear of death (caused by Yama)   867 Sathva van He who is brave and valorous   868 Saathvika He who is soft natured ( Of Sathva Guna)   869 Satya He who is good to the good people or He who is available to good people   870 Satya dharma parayana He who holds truth and charity (dharma) as important   871 Abhipraya He who is approached by seekers of salvation   872 Priyarha He who is suitable for giving away of our most cherished things   873 Arha He who is most appropriate for prayers   874 Priya krit He who fulfills desires (Of devotees)   875 Preethi vardhana He who increases devotion of his devotees   876 Vihaya sagatha He who lives in the sky   877 Jyothi He who glitters himself   878 Suruchi He who shines beautifully   879 Hartha bujha He who eats what has been offered to him through fire   880 Vibha He who is every where   881 Ravi He who is the sun   882 Virochana He who shines in several ways   883 Surya He who makes everything   884 Savitha He who creates worlds   885 Ravi lochana He who has the sun for his eyes   886 Anantha He who is limitless   887 Hutha bhuja He who eats what is offered in fire sacrifice (homa)   888 Bhoktha He who consumes nature   889 Sukhada He who gives his devotees the pleasure of salvation   890 Naikaja He who took several forms   891 Agraja He who is in front of everything   892 Anirvinna He who does not have any worries   893 Sadhamarshi He who pardons mistakes (committed by his devotees)   894 Loka adhishtana He who is the basis of the world   895 Adbhuta He who is the wonder   896 Sanaath He who is from the very beginning   897 Sanathana thama He who is older than the oldest   898 Kapila He who is of purple colour or He who was sage Kapila   899 Kapi He who is the sun   900 Avyaya He in whom all disappear during the deluge   901 Swasthida He who gives all good things to his devotees   902 Swasthi krith He who does good   903 Swasthi He who is good Himself   904 Swasthi bukh He who enjoys goodness   905 Swasthi dakshina He who has the nature of giving good   906 Aroudhra He who is never cruel   907 Kundali He who is Adi Sesha or He who wears shining ear globes   908 Chakree He who wears Chakra (the holy wheel )   909 Vikramee He walks beautifully   910 Urjitha Sasana He who gives firm orders   911 Sabdhathiga He who can not be reached by words   912 Sabdhasaha He who can tolerate all sounds   913 Shisira He who is cool like winter   914 Ssarvarikara He who creates darkness like night   915 Akroora He who is not cruel   916 Pesala He who is extremely handsome   917 Dhaksha He who is clever   918 Dhakshina He who goes everywhere or He who kills his enemies   919 Kshaminam vara He who is the greatest among those who have patience   920 Vidhuthama He who is greatest among those who know   921 Veetha bhaya He who is not afraid   922 Punya sravana keerthana He who increases boons to those who sing about him   923 Uthaarana He who makes you climb the shore from ocean of misery   924 Dushkrathiha He who removes sins   925 Punya He who gives rewards to good deeds   926 Dhuswapna nasana He who destroys bad dreams   927 Veeraha He who gives the suffering people of the world salvation   928 Rakshana He who protects   929 Santha He who is personification of good people   930 Jivana He who makes all beings live by being their soul   931 Paryavasthitha He who is spread every where   932 Anantha roopa He who has countless forms or He who is Adisesha   933 Anantha shree He whose strength cannot be estimated   934 Jithar manyu He who has won over anger   935 Bhayapaha He who removes fear   936 Chathurasra He who is just   937 Gabeerathma He whose depth can never be found   938 Vidhisa He who gives special favors   939 Vyaadhisa He who gives different works to different gods   940 Dhisa He who as Veda, points out the results of different actions   941 Anadhi He who does not have a cause   942 Bhor bhuva He who is the basis of the earth and its goal   943 Lakshmi He who is the luster of the earth or He who is himself the wealth   944 Suveera He who has been praised in several ways   945 Ruchirangadha He who has beautiful shoulders   946 Janana He who creates people   947 Jana janmadi He who is the existence of all people   948 Bheema He of whom all beings are afraid   949 Bheema parakrama He who creates fear in his adversaries   950 Adhara Nilaya He who is the basis of the basis (five elements)   951 Adhatha He who drinks all beings at the time of deluge or He who is the only one basis   952 Pushpa hasa He who opens like a flower at the time of primal creation   953 Praja gara He who is always awake   954 Urdhwaga He who is above everything   955 Satpadachara He who adopts good deeds prescribed by him   956 Pranada He who gives life   957 Pranava He who is OM   958 Pana He who accepts all offerings to him and gives rewards   959 Pramana He who is the lustrous personification of knowledge   960 Prana nilaya He in whom all souls live   961 Prana brit He who nurtures beings   962 Prana jivana He who makes beings live   963 Thathvam He who is the real meaning   964 Thathva vidhe He who knows his essence   965 Eka athma He who is the one and only one soul   966 Janma mrutyu jarathiga He who is above birth, death and ageing   967 Bhurbhuva Swastharu sthara He who is spread as a tree to Bhuu Loka, Bhuvar Loka, and Suvar Loka   968 Thara He who makes us cross the sea of births and deaths   969 Savitha He who has created everything   970 Prapithamaha He who is the great grand father (All human beings are grand children of Brahma, the son of Vishnu)   971 Yagna He who shows results to those who conduct Yagna(Fire sacrifice)   972 Yagna pathi He who protects Yagna   973 Yajwa He who conducts Yagnas   974 Yagna anga He whose limbs are Yagna   975 Yagna vahana He who carries forward Yagna   976 Yagna brit He who accepts yagna   977 Yagna krit He who created Yagna   978 Yagni He who is the head of Yagna   979 Yagna bhuja He who uses Yagna   980 Yagna sadhana He who indicates Yagna as a method of attaining Him   981 Yagna antha krit He who increases the effect of Yagna   982 Yagna guhya He who is the secret of Yagna   983 Anna He who is food   984 Annada He who eats food   985 Athma yoni He who is the cause of all beings   986 Swayam jatha He who is the cause of His own birth   987 Vaikhkhana He who dug earth as a boar (varaha)   988 Sama gayana He who sings Sama Veda   989 Deavaki nandana He who is the son of Devaki   990 Srishta He who created the world   991 Ksitheesa He who is the God to all worlds   992 Papa nasana He who destroys sin   993 Sankha brit He who has a Conch (Called Pancha Janya)   994 Nandaki He who has the sword called Nandaka   995 Chakri He who has the wheel called Sudharsana   996 Sarnga dhanwa He who has the bow called Saranga   997 Gadha dhara He who has a mace called Gowmodaki   998 Radanga pani He who keeps the wheel in his hand ready to use   999 Akshobya He who cannot be broken down by his enemies   1000 Sarva praharanayudha He who uses everything as a weapon
+
+Sarvapraharanayuda OM Nama Idi  
+He who uses everything as a weapon Om  
+Vanamali Gadhi Sarnkhee Chakree cha nandaki  
+Sreeman narayano vishnur vasudevobhi rakshatu  
+Protect us Oh Lord Narayana  
+Who wears the forest garland,  
+Who has the mace, conch , sword and the wheel.  
+And who is called Vishnu and the Vasudeva
+
+## Uttara Bhaga
+
+Afterward  
+Phalashruthi  
+Hearing of the benefits  
+Itidam Keerthanasya Kesavasya mahatmana,  
+Namnam sahasram Diwyanamaseshesna prakeerthitham 1
+
+Thus was told,  
+All the holy thousand names ,  
+Of Kesava who is great.
+
+Ya tdam srunyuan nityam yaschapi parikeerthayed,  
+Nasubham prapunayad kinchid Soamuthre ha cha manava 2
+
+He who hears or sings,  
+It all without fail,  
+In all days of the year,  
+Will never get in to bad,  
+In this life and after.
+
+Vedantago brahmana syad kshatriyo vijayi bhaved,  
+Vaisyo dhana samruddha syachyutha Sugapnuyad 3
+
+The Brahmin will get knowledge,  
+The kshatriya will get victory,  
+The vaisya will get wealth,  
+The shudra will get pleasures ,  
+By reading these/
+
+Dharmarthi Prapnuyad Dharmam, Artharthi Cha Arthamapnuyad,  
+Kamanvapnuyad Kami, PrajarthiChapnuyad Prajam 4
+
+He who seeks Dharma,  
+He who seeks wealth,  
+He who seeks pleasures,  
+He who seeks children,  
+Will all without fail,  
+Get what they want.
+
+Bhakthiman Ya sdaothaya , Suchistad gatha manasa,  
+Sahasram vasudevasya Namnamedat prakeerthayed 5
+
+Yasa Prapnodhi vipulam yadi pradanya meva cha  
+Achalam sriyamapnodhi sryaprapnothyanuttamam 6
+
+Na Bhayam kwachidapnodhi Veerya tejascha vindhati  
+Bhavatyarogo dyuthiman bala roopa gunanvidha 7
+
+Rogartho muchayade rogat , Bhaddo muchyathe Bandanath,  
+Bhayan muchyathe Bheedasthu, muchyadepanna apada, 8
+
+He who sings the thousand names of Vasudeva ,  
+With utmost devotion ,  
+After he rises in the morn,  
+With a mind tied in Him always,  
+Will get fame without fail ,  
+Will be first in what he does,  
+Will get riches that last,  
+Would attain salvation from these bonds,  
+Will never be afraid of anything,  
+Will be bubbling with vim and valour,  
+Will not get any ills,  
+Will be handsome forever,  
+Will have all the virtues in this wide world,  
+And he who is ill will get cured,  
+He who is bound will be free,  
+He who is afraid , will get rid of fear,  
+He who is in danger , will be safe.
+
+Durganyadarthyasu purusha purushottamam,  
+Stuvan nama sahasrena nityam bhakthi samanvida 9
+
+He who chants these holy thousand names,  
+With devotion to Purushottama,  
+Will cross the miseries ,  
+That cannot be crossed  
+Without fail.
+
+Vasudevasryo marthyo vasudeva parayana,  
+Sarva papa vishudhatma Yati brahma sanathanam 10
+
+The man who nears Vasudeva,  
+The man who takes Him as shelter,  
+Would get rid of all sins,  
+And become purer than the pure,  
+And will reach Brahmam,  
+Which existed forever.
+
+Na vasudevabhaktanamasubham vidyate Kwachit  
+Janma Nrutyu jara Vyadhi Bhayam naivopa jayade 11
+
+The devotees of Vasudeva the great,  
+Never fall into days that are difficult,  
+And never forever suffer,  
+Of birth, death , old age and fear.
+
+Imam stavamaddeyana sraddha Bhakthi samanvidha,  
+Yujyedathma sukha kshanthi sri dhrithi smrithi keerthibhi 12
+
+He who sings these names with devotion,  
+And with Bhakthi,  
+Will get pleasure the great,  
+Patience to allure,  
+Wealth to attract,  
+Bravery and memory to excel.
+
+Na krodho na cha matsarya na shubha mati,  
+Bhavanthi kritha punyanam Bhakthanam puroshottame 13
+
+The devotee of the Lord Purushottama,  
+Has neither anger nor fear,  
+Nor avarice and nor bad thoughts  
+Dhyau sachandrarka nakshatra Kham diso bhur mahadathi.
+
+Vasudevasya veeryena vidhrithani mahatmana 14
+
+All this world of sun and stars,  
+Moon and sky, Sea and the directions,  
+Are but borne by valour the great,  
+Of the great god Vasudeva.
+
+Sasurasura gandharwa, sayakshoraga rahshasam,  
+Jagaddese vartatedam krishnasya sacharacharam 15
+
+All this world,  
+Which moves and moves not,  
+And which has devas, rakshasas and Gandharwas,  
+And also asuras and nagas,  
+Is with Lord Krishna without fail.
+
+Indriyani mano bhuddhi satvam tejo bala dhruti.  
+Vasudevatmakanyahu kshetram ksheragna eve cha 16
+
+The learned ones say,  
+That all the limbs,  
+Mind, wisdom, and thought,  
+And also strength, bravery, body and the soul,  
+Are full of Vasudeva.
+
+Sarvagamanamachara pradamm parikalpathe,  
+Achara prabhavo dharma dharmasya prabhurachyutha 17
+
+Rule of life was first born  
+And from it came Dharma,  
+And from it came Achyutha the Lord.
+
+Hrishaya pitaro deva mahabhootani dhatava,  
+*Jangamajangamam chedam jagannarayanodbhavam 18*
+
+All the sages,  
+All the ancestors,  
+All the devas,  
+All the five elements,  
+All the pleasures,  
+All the luck,  
+All that moves,  
+All that does not move,  
+All came only ,  
+From the great Narayana.
+
+Yogo gnanan thada sankhyam vidhya shilpadhi karma cha  
+Veda shastradi vignanam death sravam janardhanath. 19
+
+The Art of Yoga  
+And the science of Sankhya.  
+The treasure of knowledge.  
+The divine art of sculpture .  
+And all Vedas and sciences,  
+All these came from Janardhana
+
+Eko vishnu Mahadbhutham pradag Bhutanyanekasa,  
+Treem lokan vyapya bhutatma bhungte viswabhugavyaya 20
+
+Vishnu is many ,  
+But He is one,  
+And he divides himself,  
+And exists in all beings,  
+That is in three worlds,  
+And rules all of them,  
+Without death and decay.
+
+Imam stavam bhagavatho vishnur vyasena keerthitham,  
+Padedya icched purusha sreys prapthum sukhani cha 21
+
+He who desires fame and pleasure,  
+Should chant these verses, sung by Vyasa,  
+Of this great stotra of Vishnu without fail.
+
+Visweswaramajam devam Jagatha Prabhumavyayam,  
+Bhajanthi Ye pushkaraksham na te yanthi parabhavam  
+*Na te Yanthi Parabhava Om Na Ithi 22*
+
+He will never fail,  
+Who sings the praise of the Lord,  
+Of this universe,  
+Who does not have birth,  
+Who is always stable,  
+And who shines and sparkles,  
+And has lotus eyes.
+
+Om Nama He will not fail  
+Arjuna Uvacha:-  
+Padma Pathra Visalakha padmanabha surothama,  
+Bhakthanamanu rakthanam Tratho Bhava Janardhana 23
+
+Arjuna Said:-  
+Oh God Who has eyes,  
+Like the petals of lotus,  
+Oh God, Who has a lotus,  
+On his stomach,  
+Oh God, Who has eyes,  
+Seeing all things,  
+Oh God, Who is the Lord,  
+Of all devas,  
+Please be kind,  
+And be shelter,  
+To all your devotees ,  
+Who come to you with love.
+
+Sri Bhagawanuvacha:-  
+Yo mam nama sahasrena stothumichadi pandava,  
+Sohamekena slokena sthutha eva na samsaya  
+*Sthutha eva na samsaya Om Nama Ithi 24*
+
+The Lord Said:-  
+He who likes , Oh Arjuna,  
+To sing my praise,  
+Using these thousand names,  
+Should know Arjuna ,  
+That I would be satisfied,  
+By his singing of,  
+Even one stanza ,  
+Without any doubt.
+
+Om Nama without any doubt  
+Vyasa Uvacha:-  
+Vasanad Vasudevasya vasitham bhuvana trayam,  
+Sarva bhutha nivasosi vasudeva namosthuthe.
+
+*Sri Vasudeva namosthuthe om nama ithi 24*  
+Vyasa said:-  
+My salutations to you Vasudeva,  
+Because you who live in all the worlds,  
+Make these worlds as places ,  
+Where beings live,  
+And also Vasudeva,  
+You live in all beings,  
+As their soul.
+
+Om Nam salutations to Vasudeva  
+Parvatyuvacha:-  
+Kenoupayena Laguna Vishnor nama sahasragam,  
+Patyadher Pandither nithyam Srothumichamyaham Prabho 25
+
+Parvathi said:-  
+I am desirous to know oh Lord,  
+How the scholars of this world,  
+Will chant without fail,  
+These thousand names ,  
+By a method that is easy and quick.
+
+Easwara Uvacha:-  
+Sri Rama Rama ramethi reme rame manorame,  
+Sahasra nama thathulyam rama nama varanane  
+*Rama nama varanane om nama ithi 27*
+
+Lord Shiva said:-  
+Hey beautiful one,  
+I play with Rama always,  
+By chanting Rama Rama and Rama,  
+Hey lady with a beautiful face,  
+Chanting of the name Rama ,  
+Is same as the thousand names.
+
+Om Nama Rama Nama is same as  
+Brahmouvacha:-  
+Namostvanandaya sahasra moorthaye  
+Sahasra Padakshi sirory Bahave,  
+Sahasra namne purushaya saswathe ,  
+Sahasra koti yuga dharine nama  
+*Sahasra Koti yuga dharine nama om nama ithi 28*
+
+Brahma said:-  
+Salutations to thee oh lord,  
+Who runs the immeasurable time,  
+Of thousand crore yugas,  
+Who has no end,  
+Who has thousand names,  
+Who has thousand forms,  
+Who has thousand feet,  
+Who has thousand eyes,  
+Who has thousand heads,  
+Who has thousand arms,  
+And Who is always there.
+
+Om Nama He who runs thousand crore yugas  
+Sanchaya Uvacha:-  
+Yatra Yogiswara Krishno Yatra Partho dhanurdhara  
+Tatra srirvijaya bhoothirdhruva neethir murthir mama 29
+
+Sanjaya said:-  
+Where Krisna, the king of Yogas,  
+And where the wielder of bow,  
+Arjuna is there,  
+There will exist all the good,  
+All the the victory,  
+All the fame ,  
+And all the justice.  
+In this world.
+
+Sri Bhagawan Uvacha:-  
+Ananyaschinatayanto Mam ye jana parypasathe,  
+Thesham nityabhi yukthanam yogakshemam vahamyaham 30
+
+Parithrayana sadhunam vinasaya cha dushkritham,  
+Dharma samsthapanarthaya sambhavami yuge yuge 31
+
+Artha vishanna sidhilascha beetha, Goreshu cha vyadeeshu varthamana  
+Samkalpa narayana sabdha mathram vimuktha dukho sukhino bhavanthu 32
+
+Sri Bhagavan said:-  
+I would take care ,  
+Of worries and cares of Him,  
+Who thinks and serves me ,  
+Without any other Thoughts,  
+To take care of Dharma,  
+To protect those who are good,  
+And to destroy all who are bad.
+
+I will be born from time to time.  
+If he who is worried,  
+If he who is sad,  
+If he who is broken,  
+If he who is afraid,  
+If he who is severely ill,  
+If he who has heard tidings bad,  
+Sings Narayana and Narayana,  
+All his cares would be taken care of.
+
+Prayer for completion:-  
+Kayenavacha Manasendryrva budhyatmanava prakrithai swabhawat,  
+Karomi yadyat sakalam parasmai narayanayethi samarpayami 33
+
+**OM TAT SAT**
+
+I offer all that I do,  
+To :Lord Narayana,  
+Whatever I do with my body,  
+Whatever I do with my mind,  
+Whatever I do with my brain,  
+Whatever I do with my soul,  
+And whatever I do with natures help  
+Om that is the truth.
