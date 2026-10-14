@@ -1,0 +1,27 @@
+Книга: Nirukta of Yāska [San]
+Адрес: https://vedarama.com/st/books/nirukta-san
+Страниц сайта: 15; заголовков: 16; текстов: 0; картинок: 0
+Глав по MCP: 15
+Букв в исходнике: 216666; в .md: 216666
+Первый заголовок: Nirukta of Yāska [San]
+Последний заголовок: bhaga XIV
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Nirukta of Yāska [San]
+  Nirukta of Yaksa [San]
+  bhaga I
+  bhaga II
+  bhaga III
+  bhaga IV
+  bhaga V
+  bhaga VI
+  bhaga VII
+  bhaga VIII
+  bhaga IX
+  bhaga X
+  bhaga XI
+  bhaga XII
+  bhaga XIII
+  bhaga XIV

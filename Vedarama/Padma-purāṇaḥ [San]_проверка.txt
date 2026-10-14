@@ -1,0 +1,697 @@
+Книга: Padma-purāṇaḥ [San]
+Адрес: https://vedarama.com/st/books/padpur-san
+Страниц сайта: 687; заголовков: 686; текстов: 0; картинок: 0
+Глав по MCP: 8
+Букв в исходнике: 4178913; в .md: 4178913
+Первый заголовок: Padma-purāṇaḥ [San]
+Последний заголовок: (26) ṣaḍviṁśo'dhyāyaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Padma-purāṇaḥ [San]
+  Padma-purāṇaḥ [San]
+  sṛṣṭi-khaṇḍaḥ
+  (1) prathamo'dhyāyaḥ
+  (2) dvitīyo'dhyāyaḥ
+  (3) tṛtīyo'dhyāyaḥ
+  (4) caturtho'dhyāyaḥ
+  (5) pañcamo'dhyāyaḥ
+  (6) ṣaṣṭho'dhyāyaḥ
+  (7) saptamo'dhyāyaḥ
+  (8) aṣṭamodhyāyaḥ
+  (9) navamodhyāyaḥ
+  (10) daśamodhyāyaḥ
+  (11) ekādaśodhyāyaḥ
+  (12) dvādaśo'dhyāyaḥ
+  (13) trayodaśo'dhyāyaḥ
+  (14) caturdaśo'dhyāyaḥ
+  (15) pañcadaśo'dhyāyaḥ
+  (19) ekonaviṁśo'dhyāyaḥ
+  (20) viṁśo'dhyāyaḥ
+  (21) ekaviṁśatitamo'dhyāyaḥ
+  (22) dvāviṁśatitamo'dhyāyaḥ
+  (23) trayoviṁśo'dhyāyaḥ
+  (24) caturviṁśatitamo'dhyāyaḥ
+  (25) paṁ ñcaviṁśo'dhyāyaḥ
+  (26) ṣaḍviṁśo'dhyāyaḥ
+  (27) saptaviṁśo'dhyāyaḥ
+  (28) aṣṭāviṁśatitamo'dhyāyaḥ
+  (29) ekonatriṁśo'dhyāyaḥ
+  (30) triṁśo'dhyāyaḥ
+  (31) ekatriṁśo'dhyāyaḥ
+  (32) dvātriṁśo'dhyāyaḥ
+  (33) trayastriṁśo'dhyāyaḥ
+  (34) catustriṁśo'dhyāyaḥ
+  (35) pañcatriṁśo'dhyāyaḥ
+  (36) ṣaṭtriṁśo'dhyāyaḥ
+  (37) saptatriṁśo'dhyāyaḥ
+  (38) aṣṭātriṁśo'dhyāyaḥ
+  (39) ekonacatvāriṁ śo'dhyāyaḥ
+  (40) catvāriṁ śo'dhyāyaḥ
+  (41) ekacatvāriṁ śo'dhyāyaḥ
+  (42) dvicatvāriṁ śattamo'dhyāyaḥ
+  (43) tricatvāriṁ śo'dhyāyaḥ
+  (44) catuś ca tvāriṁ śo'dhyāyaḥ
+  (45) pañcacatvāriṁ śattamo'dhyāyaḥ
+  (46) ṣaṭcatvāriṁ śattamo'dhyāyaḥ
+  (47) saptacatvāriṁ śattamo'dhyāyaḥ
+  (48) aṣṭacatvāriṁ śattamo'dhyāyaḥ
+  (49) ekonapañcāśo'dhyāyaḥ
+  (50) pañcāśattamo'dhyāyaḥ
+  (51) ekapañcāśattamo'dhyāyaḥ
+  (52) dvipañcāśattamo'dhyāyaḥ
+  (53) tripañcāśattamo'dhyāyaḥ
+  (54) catuḥpañcāśattamo'dhyāyaḥ
+  (55) pañcapañcāśattamo'dhyāyaḥ
+  (56) ṣaṭpañcāśattamo'dhyāyaḥ
+  (57) saptapañcāśattamo'dhyāyaḥ
+  (58) aṣṭapañcāśattamo'dhyāyaḥ
+  (59) ekonaṣaṣṭhittamo'dhyāyaḥ
+  (60) ṣaṣṭhitamo'dhyāyaḥ
+  (61) ekaṣaṣṭitamo'dhyāyaḥ
+  (62) dviṣaṣṭitamo'dhyāyaḥ
+  (63) triṣaṣṭhitamo'dhyāyaḥ
+  (64) catuṣṣaṣṭitamo'dhyāyaḥ
+  (65) pañcaṣaṣṭitamo'dhyāyaḥ
+  (66) ṣaṭṣaṣṭitamo'dhyāyaḥ
+  (67) saptaṣaṣṭitamo'dhyāyaḥ
+  (68) aṣṭaṣaṣṭitamo'dhyāya
+  (69) ekonasaptatitamo'dhyāyaḥ
+  (70) saptatitamo'dhyāyaḥ
+  (71) ekasaptatitamo'dhyāyaḥ
+  (72) dvisaptatitamo'dhyāyaḥ
+  (73) trisaptatitamo'dhyāyaḥ
+  (74) catuḥ saptatitamo'dhyāyaḥ
+  (75) pañcasaptatitamo'dhyāyaḥ
+  (76) ṣaṭsaptatitamo'dhyāyaḥ
+  (77) saptasaptatitamo'dhyāyaḥ
+  (78) aṣṭasaptatitamo'dhyāyaḥ
+  (79) ekonāśītitamo'dhyāyaḥ
+  (80) aśītitamo'dhyāyaḥ
+  (81) ekāśītitamo'dhyāyaḥ
+  (82) dvyaśītitamo'dhyāyaḥ
+  bhūmi-khaṇḍaṁ
+  (1) prathamo'dhyāyaḥ
+  (2) dvitīyo'dhyāyaḥ
+  (3) tṛtīyo'dhyāyaḥ
+  (4) caturtho'dhyāyaḥ
+  (5) pañcamo'dhyāyaḥ
+  (6) ṣaṣṭho'dhyāyaḥ
+  (7) saptamo'dhyāyaḥ
+  (8) aṣṭamo'dhyāyaḥ
+  (9) navamo'dhyāyaḥ
+  (10) daśamo'dhyāyaḥ
+  (11) ekādaśo'dhyāyaḥ
+  (12) dvādaśo'dhyāyaḥ
+  (13) trayodaśo'dhyāyaḥ
+  (14) caturdaśo'dhyāyaḥ
+  (15) pañcadaśo'dhyāyaḥ
+  (16) ṣoḍaśo'dhyāyaḥ
+  (17) saptaśo'dhyāyaḥ
+  (18) aṣṭādaśo'dhyāyaḥ
+  (19) ekonaviṁśo'dhyāyaḥ
+  (20) viṁśo'dhyāyaḥ
+  (21) ekaviṁśatitamo'dhyāyaḥ
+  (22) dvāviṁśatitamo'dhyāyaḥ
+  (23) trayoviṁśo'dhyāyaḥ
+  (24) caturviṁśatitamo'dhyāyaḥ
+  (26) ṣaḍviṁśo'dhyāyaḥ
+  (27) saptaviṁśo'dhyāyaḥ
+  (28) aṣṭāviṁśatitamo'dhyāyaḥ
+  (29) ekonatriṁśo'dhyāyaḥ
+  (30) triṁ śo'dhyāyaḥ
+  (31) ekatriṁ śo'dhyāyaḥ
+  (32) dvātriṁ śo'dhyāyaḥ
+  (33) trayastriṁ śo'dhyāyaḥ
+  (34) catusiṁ traśo'dhyāyaḥ
+  (35) pañcatriṁ śo'dhyāyaḥ
+  (36) ṣaṭtriṁ śo'dhyāyaḥ
+  (37) saptatriṁ śo'dhyāyaḥ
+  (38) aṣṭatriṁ śo'dhyāyaḥ
+  (39) ekonacatvāriṁ śo'dhyāyaḥ
+  (40) catvāriṁ śo'dhyāyaḥ
+  (41) ekacatvāriṁ śo'dhyāyaḥ
+  (42) dvicatvāriṁ śattamo'dhyāyaḥ
+  (43) trayaścatvāriṁśattamo'dhyāyaḥ
+  (44) catuścatvāriṁ śattamo'dhyāyaḥ
+  (45) pañcacatvāriṁ śattamo'dhyāyaḥ
+  (46) ṣaṭcatvāriṁ śo'dhyāyaḥ
+  (47) saptacatvāriṁ śo'dhyāyaḥ
+  (48) aṣṭacatvāriṁ śo'dhyāyaḥ
+  (49) ekonapañcāśattamo'dhyāyaḥ
+  (50) pañcāśattamo'dhyāyaḥ
+  (51) ekapañcāśattamo'dhyāyaḥ
+  (52) dvipañcāśattamo'dhyāyaḥ
+  (53) tripañcāśattamo'dhyāyaḥ
+  (54) catuḥ pañcāśattamo'dhyāyaḥ
+  (55) pañcapañcāśattamo'dhyāyaḥ
+  (56) ṣaṭpañcāśattamo'dhyāyaḥ
+  (57) saptapañcāśattamo'dhyāyaḥ
+  (58) aṣṭapañcāśattamo'dhyāyaḥ
+  (59) ekonaṣaṣṭitamo'dhyāyaḥ
+  (60) ṣaṣṭitamo'dhyāyaḥ
+  (61) ekaṣaṣṭitamo'dhyāyaḥ
+  (62) dviṣaṣṭitamo'dhyāyaḥ
+  (63) triṣaṣṭitamo'dhyāyaḥ
+  (64) catuḥ ṣaṣṭitamo'dhyāyaḥ
+  (65) pañcaṣaṣṭitamo'dhyāyaḥ
+  (66) ṣaṭṣaṣṭitamo'dhyāyaḥ
+  (67) saptaṣaṣṭitamo'dhyāyaḥ
+  (68) aṣṭaṣaṣṭitamo'dhyāyaḥ
+  (69) ekonasaptatitamo'dhyāyaḥ
+  (70) saptatitamo'dhyāyaḥ
+  (71) ekasaptatitamo'dhyāyaḥ
+  (72) dvisaptatitamo'dhyāyaḥ
+  (73) trisaptatitamo'dhyāyaḥ
+  (74) catuḥ saptatitamo'dhyāyaḥ
+  (75) pañcasaptatitamo'dhyāyaḥ
+  (76) ṣaṭsaptatitamo'dhyāyaḥ
+  (77) saptasaptatitamo'dhyāyaḥ
+  (78) aṣṭasaptatitamo'dhyāyaḥ
+  (79) ekonāśītitamo'dhyāyaḥ
+  (80) aśītitamo'dhyāyaḥ
+  (81) ekāśītitamo'dhyāyaḥ
+  (82) dvyaśītitamo'dhyāyaḥ
+  (83) tryaśītitamo'dhyāyaḥ
+  (85) paṁ cāśītitamo'dhyāyaḥ
+  (86) ṣaḍaśītitamo'dhyāyaḥ
+  (87) saptāśītitamo'dhyāyaḥ
+  (88) aṣṭāśītitamo'dhyāyaḥ
+  (89) ekonanavatitamo'dhyāyaḥ
+  (90) navatitamo'dhyāyaḥ
+  (91) ekanavatitamo'dhyāyaḥ
+  (92) dvinavatitamo'dhyāyaḥ
+  (93) trinavatitamo'dhyāyaḥ
+  (94) caturnavatitamo'dhyāyaḥ
+  (95) pañcanavatitamo'dhyāyaḥ
+  (96) ṣaṇṇavatitamo'dhyāyaḥ
+  (97) saptanavatitamo'dhyāyaḥ
+  (98) aṣṭanavatitamo'dhyāyaḥ
+  (99) navanavatitamo'dhyāyaḥ
+  (100) śatatamo'dhyāyaḥ
+  (101) ekādhikaśatatamo'dhyāyaḥ
+  (102) dvyadhikaśatatamo'dhyāyaḥ
+  (103) tryadhikaśatatamo'dhyāyaḥ
+  (104) caturadhikaśatatamo'dhyāyaḥ
+  (105) paṁ cottaraśatatamo'dhyāyaḥ
+  (106) ṣaḍadhikaśatatamo'dhyāyaḥ
+  (107) saptottaraśatatamo'dhyāyaḥ
+  (108) aṣṭottaraśatatamo'dhyāyaḥ
+  (109) navādhikaśatatamo'dhyāyaḥ
+  (110) daśādhikaśatatamo'dhyāyaḥ
+  (111) ekādaśādhikaśatatamo'dhyāyaḥ
+  (112) dvādaśādhikaśatatamo'dhyāyaḥ
+  (113) trayodaśādhikaśatatamo'dhyāyaḥ
+  (114) caturdaśādhikaśatatamo'dhyāyaḥ
+  (115) pañcadaśādhikaśatatamo'dhyāyaḥ
+  (116) ṣoḍaśādhikaśatatamo'dhyāyaḥ
+  (117) saptadaśādhikaśatatamo'dhyāyaḥ
+  (118) aṣṭādaśādhikaśatatamo'dhyāyaḥ
+  (119) ekonaviṁśatyadhikaśatatamo'dhyāyaḥ
+  (120) viṁ śādhikaśatatamo'dhyāyaḥ
+  (121) ekaviṁśatyadhikaśatatamo'dhyāyaḥ
+  (122) dvāviṁśatyadhikaśatatamo'dhyāyaḥ
+  (123) trayoviṁśatyadhikaśatatamo'dhyāyaḥ
+  (124) caturviṁśatyadhikaśatatamo'dhyāyaḥ
+  (125) pañcaviṁśatyadhikaśatatamo'dhyāyaḥ
+  svarga-khaṇḍaṁ
+  (1) prathamo'dhyāyaḥ
+  (2) dvitīyo'dhyāyaḥ
+  (3) tṛtīyo'dhyāyaḥ
+  (4) caturtho'dhyāyaḥ
+  (5) pañcamo'dhyāyaḥ
+  (6) ṣaṣṭho'dhyāyaḥ
+  (7) saptamo'dhyāyaḥ
+  (8) aṣṭamo'dhyāyaḥ
+  (9) navamo'dhyāyaḥ
+  (10) daśamo'dhyāyaḥ
+  (11) ekādaśo'dhyāyaḥ
+  (12) dvādaśo'dhyāyaḥ
+  (13) trayodaśo'dhyāyaḥ
+  (14) caturdaśo'dhyāyaḥ
+  (15) pañcadaśo'dhyāyaḥ
+  (16) ṣoḍaśo'dhyāyaḥ
+  (17) saptadaśo'dhyāyaḥ
+  (18) aṣṭādaśo'dhyāyaḥ
+  (19) ūnaviṁśo'dhyāyaḥ
+  (20) viṁśatitamo’dhyāyaḥ
+  (21) ekaviṁśo'dhyāyaḥ
+  (22) dvāviṁśo'dhyāyaḥ
+  (23) trayoviṁśo'dhyāyaḥ
+  (24) caturviṁśo'dhyāyaḥ
+  (25) pañcaviṁśo'dhyāyaḥ
+  (26) ṣaḍviṁ vaśo'dhyāyaḥ
+  (27) saptaśo'dhyāyaḥ
+  (28) aṣṭāviṁśo'dhyāyaḥ
+  (29) ūnatriṁśo'dhyāyaḥ
+  (30) triṁśo'dhyāyaḥ
+  (31) ekatriṁśo'dhyāyaḥ
+  (32) dvātriṁśo'dhyāyaḥ
+  (33) trayastriṁśo'dhyāyaḥ
+  (34) catustriṁśo'dhyāyaḥ
+  (35) pañcatriṁśo'dhyāyaḥ
+  (36) ṣaṭtriṁśo'dhyāyaḥ
+  (37) saptatriṁśo'dhyāyaḥ
+  (38) aṣṭatriṁśo'dhyāyaḥ
+  (39) navatriṁśo'dhyāyaḥ
+  (40) catvāriṁ śo'dhyāyaḥ
+  (41) ekacatvāriṁ śo'dhyāyaḥ
+  (42) dvicatvāriṁ śo'dhyāyaḥ
+  (43) dvicatvāriṁśo'dhyāyaḥ
+  (44) catuś ca tvāriṁ śo'dhyāyaḥ
+  (45) pañcacatvāriṁ śo'dhyāyaḥ
+  (46) ṣaṭcatvāriṁ śo'dhyāyaḥ
+  (47) saptacatvāriṁ śo'dhyāyaḥ
+  (48) aṣṭacatvāriṁ śo'dhyāyaḥ
+  (49) ūnapañcāśattamo'dhyāyaḥ
+  (50) pañcāśattamo'dhyāyaḥ
+  (51) ekapañcāśattamo'dhyāyaḥ
+  (52) dvipañcāśattamo'dhyāyaḥ
+  (53) tripañcāśattamo'dhyāyaḥ
+  (54) catuḥ pañcāśattamo'dhyāyaḥ
+  (55) pañcapañcāśattamo'dhyāyaḥ
+  (56) ṣaṭpañcāśattamo'dhyāyaḥ
+  (57) saptapañcāśattamo'dhyāyaḥ
+  (58) aṣṭapañcāśattamo'dhyāyaḥ
+  (59) ekonaṣaṣṭitamo'dhyāyaḥ
+  (60) ṣaṣṭitamo'dhyāyaḥ
+  (61) ekaṣaṣṭitamo'dhyāyaḥ
+  (62) dviṣaṣṭitamo'dhyāyaḥ
+  brahma-khaṇḍaṁ
+  (1) prathamo'dhyāyaḥ
+  (2) dvitīyo'dhyāyaḥ
+  (3) tṛtīyo'dhyāyaḥ
+  (4) caturtho'dhyāyaḥ
+  (5) pañcamo'dhyāyaḥ
+  (6) ṣaṣṭho'dhyāyaḥ
+  (7) saptamo'dhyāyaḥ
+  (8) aṣṭamo'dhyāyaḥ
+  (9) navamo'dhyāyaḥ
+  (10) daśamo'dhyāyaḥ
+  (11) ekādaśo'dhyāyaḥ
+  (12) dvādaśo'dhyāyaḥ
+  (13) trayodaśo'dhyāyaḥ
+  (14) caturdaśo'dhyāyaḥ
+  (15) pañcadaśo'dhyāyaḥ
+  (16) ṣoḍaśo'dhyāyaḥ
+  (17) saptadaśo'dhyāyaḥ
+  (18) aṣṭādaśo'dhyāyaḥ
+  (19) ekonaviṁ śo'dhyāyaḥ
+  (20) viṁ śatitamo'dhyāyaḥ
+  (21) ekaviṁ śo'dhyāyaḥ
+  (22) dvāviṁ śo'dhyāyaḥ
+  (23) trayoviṁ śo'dhyāyaḥ
+  (24) caturviṁ śatitamo'dhyāyaḥ
+  (25) pañcaviṁ śatitamo'dhyāyaḥ
+  (26) ṣaḍviṁ śatitamo'dhyāyaḥ
+  pātāla-khaṇḍaṁ
+  (1) prathamo'dhyāyaḥ
+  (2) dvitīyo'dhyāyaḥ
+  (3) tṛtīyo'dhyāyaḥ
+  (4) caturtho'dhyāyaḥ
+  (5) pañcamo'dhyāyaḥ
+  (6) ṣaṣṭho'dhyāyaḥ
+  (7) saptamo'dhyāyaḥ
+  (8) aṣṭamo'dhyāyaḥ
+  (9) navamo'dhyāyaḥ
+  (10) daśamo'dhyāyaḥ
+  (11) ekādaśo'dhyāyaḥ
+  (12) dvādaśo'dhyāyaḥ
+  (13) trayodaśo'dhyāyaḥ
+  (14) caturdaśo'dhyāyaḥ
+  (15) pañcadaśo'dhyāyaḥ
+  (16) ṣoḍaśo'dhyāyaḥ
+  (17) saptadaśo'dhyāyaḥ
+  (18) aṣṭādaśo'dhyāyaḥ
+  (19) ūnaviṁśo'dhyāyaḥ
+  (20) viṁśo'dhyāyaḥ
+  (21) ekaviṁśo’dhyāyaḥ
+  (22) dvāviṁśo'dhyāyaḥ
+  (23) trayoviṁśo’dhyāyaḥ
+  (24) caturviṁśatitamo'dhyāyaḥ
+  (25) pañcaviṁśo’dhyāyaḥ
+  (26) ṣaḍviṁśatitamo'dhyāyaḥ
+  (27) saptaviṁśatitamo'dhyāyaḥ
+  (28) aṣṭāviṁśatitamo'dhyāyaḥ
+  (29) ekonatriṁ śattamo'dhyāyaḥ
+  (30) triṁśo’dhyāyaḥ
+  (31) ekatriṁśo’dhyāyaḥ
+  (32) dvātriṁśo’dhyāyaḥ
+  (33) trayastriṁ śattamo'dhyāyaḥ
+  (34) catustriṁśattamo'dhyāyaḥ
+  (35) pañcatriṁ śattamo'dhyāyaḥ
+  (36) ṣaṭtriṁ śattamo'dhyāyaḥ
+  (37) saptatriṁ śattamo'dhyāyaḥ
+  (38) aṣṭatriṁ śattamo'dhyāyaḥ
+  (39) eko na ca tvāriṁ śattamo'dhyāyaḥ
+  (40) catvāriṁ śattamo'dhyāyaḥ
+  (41) ekacatvāriṁ śattamo'dhyāyaḥ
+  (42) dvicatvāriṁ śattamo'dhyāyaḥ
+  (43) tricatvāriṁ śattamo'dhyāyaḥ
+  (44) catuścatvāriṁśattamo'dhyāyaḥ
+  (45) pañcacatvāriṁ śattamo'dhyāyaḥ
+  (46) ṣaṭcatvāriṁ śattamo'dhyāyaḥ
+  (47) saptacatvāriṁ śattamo'dhyāyaḥ
+  (48) aṣṭacatvāriṁ śattamo'dhyāyaḥ
+  (49) ekonapañcāśattamo'dhyāyaḥ
+  (50) pañcāśattamo'dhyāyaḥ
+  (51) ekapañcāśattamo'dhyāyaḥ
+  (52) dvipañcāśattamo'dhyāyaḥ
+  (53) tripañcāśattamo'dhyāyaḥ
+  (54) catuḥ -pañcāśattamo'dhyāyaḥ
+  (55) pañcapañcāśattamo'dhyāyaḥ
+  (56) ṣaṭpañcāśattamo'dhyāyaḥ
+  (58) aṣṭapañcāśattamo'dhyāyaḥ
+  (59) ekonaṣaṣṭitamo'dhyāyaḥ
+  (60) ṣaṣṭitamo'dhyāyaḥ
+  (61) ekaṣaṣṭitamo'dhyāyaḥ
+  (62) dviṣaṣṭitamo'dhyāyaḥ
+  (63) triṣaṣṭitamo'dhyāyaḥ
+  (64) catuḥ -ṣaṣṭitamo'dhyāyaḥ
+  (65) pañcaṣaṣṭitamo'dhyāyaḥ
+  (66) ṣaṭṣaṣṭitamo'dhyāyaḥ
+  (67) saptaṣaṣṭitamo'dhyāyaḥ
+  (68) aṣṭaṣaṣṭitamo'dhyāyaḥ
+  (69) ekonasaptatitamo'dhyāyaḥ
+  (70) saptatitamo'dhyāyaḥ
+  (71) eka-saptatitamo'dhyāyaḥ
+  (72) dvisaptatitamo'dhyāyaḥ
+  (73) trisaptatitamo'dhyāyaḥ
+  (74) catuḥ -saptatitamo'dhyāyaḥ
+  (75) pañcasaptatitamo'dhyāyaḥ
+  (76) ṣaṭsaptatitamo'dhyāyaḥ
+  (77) saptasaptatitamo'dhyāyaḥ
+  (78) aṣṭasaptatitamo'dhyāyaḥ
+  (79) navasaptatitamo'dhyāyaḥ
+  (80) aśītitamo'dhyāyaḥ
+  (81) ekāśītitamo'dhyāyaḥ
+  (82) dvyaśītitamo'dhyāyaḥ
+  (83) tryaśītitamo'dhyāyaḥ
+  (84) caturaśītitamo'dhyāyaḥ
+  (85) pañcāśītitamo'dhyāyaḥ
+  (86) ṣaḍaśītitamo'dhyāyaḥ
+  (87) saptāśītitamo'dhyāyaḥ
+  (88) aṣṭāśītitamo'dhyāyaḥ
+  (89) ekonanavatitamo'dhyāyaḥ
+  (90) navatitamo'dhyāyaḥ
+  (91) ekanavatitamo'dhyāyaḥ
+  (92) dvinavatitamo'dhyāyaḥ
+  (93) trinavatitamo'dhyāyaḥ
+  (94) caturnavatitamo'dhyāyaḥ
+  (95) pañcanavatitamo'dhyāyaḥ
+  (96) ṣaṇṇavatitamo'dhyāyaḥ
+  (97) saptanavatitamo'dhyāyaḥ
+  (98) aṣṭanavatitamo'dhyāyaḥ
+  (99) navanavatitamo'dhyāyaḥ
+  (100) śatatamo'dhyāyaḥ
+  (101) ekottaraśatatamo'dhyāyaḥ
+  (102) dvyuttaraśatatamo'dhyāyaḥ
+  (103) tryuttaraśatatamo'dhyāyaḥ
+  (104) caturuttara-śatatamo'dhyāyaḥ
+  (105) pañcottaraśatatamo'dhyāyaḥ
+  (106) ṣaḍuttaraśatatamo'dhyāyaḥ
+  (107) saptottaraśatatamo'dhyāyaḥ
+  (108) aṣṭottaraśatatamo'dhyāyaḥ
+  (109) navottaraśatatamo'dhyāyaḥ
+  (110) daśottaraśatatamo'dhyāyaḥ
+  (111) ekādaśottaraśatatamo'dhyāyaḥ
+  (112) dvādaśottaraśatatamo'dhyāyaḥ
+  (113) trayodaśottaraśatatamo'dhyāyaḥ
+  (114) caturdaśottaraśatatamo'dhyāyaḥ
+  (115) pañcadaśottaraśatatamo'dhyāyaḥ
+  (116) ṣoḍaśottaraśatatamo'dhyāyaḥ
+  (117) saptadaśādhikaśatatamo'dhyāyaḥ
+  uttara-khaṇḍaṁ
+  (1) prathamo’dhyāyaḥ
+  (2) dvitīyo’dhyāyaḥ
+  (3) tṛtīyo’dhyāyaḥ
+  (4) caturtho’dhyāyaḥ
+  (5) pañcamo’dhyāyaḥ
+  (6) ṣaṣṭho’dhyāyaḥ
+  (7) saptamo’dhyāyaḥ
+  (8) aṣṭamo’dhyāyaḥ
+  (9) navamo’dhyāyaḥ
+  (10) daśamo’dhyāyaḥ
+  (11) ekādaśo’dhyāyaḥ
+  (12) dvādaśo’dhyāyaḥ
+  (13) trayodaśo’dhyāyaḥ
+  (14) caturdaśo’dhyāyaḥ
+  (15) pañcadaśo’dhyāyaḥ
+  (16) ṣoḍaśo’dhyāyaḥ
+  (17) saptadaśo’dhyāyaḥ
+  (18) aṣṭādaśo’dhyāyaḥ
+  (19) ekonaviṁśo’dhyāyaḥ
+  (20) viṁśo’dhyāyaḥ
+  (21) ekaviṁśo’dhyāya
+  (22) dvāviṁśo’dhyāyaḥ
+  (23) trayoviṁśo’dhyāyaḥ
+  (24) caturviṁśo’dhyāyaḥ
+  (25) pañcaviṁśo’dhyāyaḥ
+  (26) ṣaḍviṁśo’dhyāyaḥ
+  (27) saptaviṁśo’dhyāyaḥ
+  (28) aṣṭāviṁśo’dhyāyaḥ
+  (29) ekonatriṁśo’dhyāyaḥ
+  (30) triṁśo’dhyāyaḥ
+  (31) ekatriṁśo’dhyāyaḥ
+  (32) dvātriṁśo’dhyāyaḥ
+  (33) trayastriṁśo’dhyāyaḥ
+  (34) catustriṁśo’dhayāyaḥ
+  (35) pañcatriṁśo’dhayāyaḥ
+  (36) ṣaṭtriṁśo’dhyāyaḥ
+  (37) saptatriṁśo’dhyāyaḥ
+  (38) aṣṭatriṁśo’dhyāyaḥ
+  (39) ekona-catvāriMśo’dhyāyaḥ
+  (40) catvāriṁśo’dhyāyaḥ
+  (41) ekacatvāriṁśo’dhyāyaḥ
+  (42) dvicatvāśo’dhyāyaḥ
+  (43) tricatvāriṁśo’dhyāyaḥ
+  (44) catuścatvāriṁśo’dhyāyaḥ-
+  (45) pañcacatvāriṁśo’dhyāyaḥ
+  (46) ṣaṭcatvāriṁśo’dhyāyaḥ
+  (47) saptacatvāriṁśo’dhyāyaḥ
+  (48) aṣṭacatvāriṁśo’dhyāyaḥ
+  (49) ekonapañcāśattamo’dhyāyaḥ
+  (50) pañcāśattamo’dhyāyaḥ
+  (51) ekapañcāśattamo’dhyāyaḥ
+  (52) dvipañcāśattamo’dhyāyaḥ
+  (53) tripañcāśattamo’dhyāyaḥ
+  (54) catuṣpañcāśattamo’dhyāyaḥ
+  (55) pañcapañcāśattamo’dhyāyaḥ
+  (56) ṣaṭpañcāśattamo’dhyāyaḥ
+  (57) saptapañcāśattamo’dhyāyaḥ
+  (58) aṣṭa pañcāśattamo’dhyāyaḥ
+  (59) ekoniṣaṣṭitamo’dhyāyaḥ
+  (60) ṣaṣṭitamo’dhyāyaḥ
+  (61) ekaṣaṣṭitamo’dhyāyaḥ
+  (62) dviṣaṣṭitamo’dhyāyaḥ
+  (63) triṣaṣṭitamo’dhyāyaḥ
+  (64) catuḥṣaṣṭitamo’dhyāyaḥ
+  (65) pañcaṣaṣṭitamo’dhyāyaḥ
+  (66) ṣaṭṣaṣṭhitamo’dhyāyaḥ
+  (67) saptaṣaṣṭhitamo’dhyāyaḥ
+  (68) aṣṭaṣaṣṭitamo’dhyāyaḥ
+  (69) ekonasaptatitamo’dhyāyaḥ
+  (70) saptatitamo’dhyāyaḥ
+  (71) ekasaptatitamo’dhyāyaḥ
+  (72) dvisaptatitamo’dhyāyaḥ
+  (73) trisaptatitamo’dhyāyaḥ
+  (74) catuḥ saptatitamo’dhyāyaḥ
+  (75) pañcasaptatitamo’dhyāyaḥ-
+  (76) ṣaṭsaptatitamo’dhyāyaḥ
+  (87) saptāśītitamo’dhyāyaḥ
+  (88) aṣṭāśītitamo’dhyāyaḥ
+  (89) ekonanavatitamo’dhyāyaḥ
+  (90) navatitamo’dhyāyaḥ
+  (91) ekanavatitamo’dhyāyaḥ
+  (92) dvinavatitamo’dhyāyaḥ
+  (93) trinavatitamo’dhyāyaḥ
+  (94) caturnavatitamo’dhyāyaḥ
+  (95) pañca-navatitamo’dhyāyaḥ
+  (96) ṣaṇ-ṇavatitamo’dhyāyaḥ
+  (97) sapta-navatitamo’dhyāyaḥ
+  (98) aṣṭa-navatitamo’dhyāyaḥ
+  (99) nava-navatitamo’dhyāyaḥ
+  (100) śatatamo’dhyāyaḥ
+  (101) ekādhikaśatatamo’dhyāyaḥ
+  (102) dvyadhika śatatamo’dhyāyaḥ
+  (103) try-adhika-śatatamo’dhyāyaḥ
+  (104) catur-adhika-śatatamo’dhyāyaḥ
+  (105) pañcādhika-śatatamo’dhyāyaḥ
+  (106) ṣaḍadhika-śatatamo’dhyāyaḥ
+  (107) saptādhika-śatatamo’dhyāyaḥ
+  (108) aṣṭādhika-śatatamo’dhyāyaḥ
+  (109) navādhika-śatatamo’dhyāyaḥ
+  (110) daśādhika-śatatamo’dhyāyaḥ
+  (111) ekādaśādhika-śatatamo’dhyāyaḥ
+  (112) dvādaśādhika-śatatamo’dhyāyaḥ
+  (113) trayodaśādhika-śatatamo’dhyāyaḥ
+  (114) caturdaśādhika śatatamo’dhyāyaḥ
+  (115) pañcadaśādhika-śatatamo’dhyāyaḥ
+  (116) ṣoḍaśādhika-śatatamo’dhyāyaḥ
+  (117) saptadaśādhika-śatatamo’dhyāyaḥ
+  (118) aṣṭādaśādhika-śatatamo’dhayāyaḥ
+  (119) ekonaviṁśaty-adhika śatatamo’dhyāyaḥ
+  (120) viṁśaty-adhika-śatatamo’dhayāyaḥ
+  (121) ekaviṁśaty-adhika-śatatamo’dhyāyaḥ
+  (122) dvāviṁśaty-adhika-śatatamo’dhyāyaḥ
+  (123) trayoviṁśaty-adhika-śatatamo’dhyāyaḥ
+  (124) caturviṁśaty-adhika-śatatamo’dhyāyaḥ
+  (125) pañca-viṁśaty-adhika-śatatamo'dhyāyaḥ
+  (126) ṣaḍ-viṁśaty-adhika-śatatamo'dhyāyaḥ
+  (127) sapta-viṁśaty-adhika-śatatamo'dhyāyaḥ
+  (128) aṣṭāviṁśaty-adhika-śatatamo'dhyāyaḥ
+  (129) ekonatriṁśādhika-śatatamo'dhyāyaḥ
+  (130) triṁśādhika-śatatamo'dhyāyaḥ
+  (131) ekatriṁśādhika-śatamo'dhyāyaḥ
+  (132) dvātriṁśādhika-śatatamo'dhyāyaḥ
+  (133) trayastriṁśādhika-śatatamo'dhyāyaḥ
+  (134) catustriṁśādhika-śatatamo'dhayāyaḥ
+  (135) pañcatriṁśādhika-śatatamo'dhyāyaḥ
+  (136) ṣaṭtriṁśādhika-śatatamo'dhyāyaḥ
+  (137) sapta-triṁśādhika-śatatamo'dhyāyaḥ
+  (138) aṣṭatriṁśādhika śatatamo'dhyāyaḥ
+  (139) ekona-catvāriṁśad-adhika-śatatamo'dhyāyaḥ
+  (140) catvāriṁśad-adhika-śatatamo'dhyāyaḥ
+  (141) ekacatvāriṁśad-adhika-śatatamo'dhyāyaḥ
+  (142) dvicatvāriṁśad-adhika-śatatamo'dhyāyaḥ
+  (143) tricatvāśad-adhika-śatatamo'dhyāyaḥ
+  (144) catuś-catvāriṁśad-adhika-śatatamo'dhyāyaḥ
+  (145) pañcacatvāriṁśad-adhika-śatatamo'dhyāyaḥ
+  (146) ṣaṭcatvāriṁśad-adhika-śatatamo'dhyāyaḥ
+  (147) saptacatvāriṁśad-adhika-śatatamo'dhyāyaḥ
+  (148) aṣṭacatvāriṁśad-adhika-śatatamo'dhyāyaḥ
+  (149) ekonapañcāśad-adhika-śatatamo'dhyāyaḥ
+  (150) pañcāśad-adhika-śatatamo'dhyāyaḥ
+  (151) ekapañcāśad-adhika-śatatamo'dhyāyaḥ
+  (152)
+  (153) tripañcāśad-adhika-śatatamo'dhyāyaḥ
+  (154) catuṣpañcāśad-adhika-śatatamo'dhyāyaḥ
+  (155) pañcapañcāśad-adhika-śatatamo'dhyāyaḥ
+  (156) ṣaṭpañcāśad-adhika-śatatamo'dhyāyaḥ
+  (157) saptapañcāśad-adhika-śatatamo'dhyāyaḥ
+  (158) aṣṭapañcāśad-adhika-śatatamo'dhyāyaḥ
+  (159) ekonaṣaṣṭyadhika-śatatamo'dhyāyaḥ
+  (160) ṣaṣṭyadhika-śatatamo'dhyāyaḥ
+  (161) ekaṣaṣṭyadhika-śatatamo'dhyāyaḥ
+  (162) dviṣaṣṭyadhika-śatatamo'dhyāyaḥ
+  (163) triṣaṣṭyadhika-śatatamo'dhyāyaḥ
+  (164) catuḥṣaṣṭyadhika-śatatamo'dhyāyaḥ
+  (165) pañcapaṣṭyadhika-śatatamo'dhyāyaḥ
+  (166) ṣaṭṣaṣṭyadhika-śatatamo'dhyāyaḥ
+  (167) saptaṣaṣṭyadhika-śatatamo'dhyāyaḥ
+  (168) aṣṭa-ṣaṣṭy-adhika-śatatamo'dhyāyaḥ
+  (169) ekonasaptatyadhika-śatatamo'dhyāyaḥ
+  (170) saptatyadhika-śatatamo'dhyāyaḥ
+  (171) eka-saptaty-adhika-śatatamo'dhyāyaḥ
+  (172) dvisaptaty-adhika-śatatamo'dhyāyaḥ
+  (173) trisaptatyadhika-śatatamo'dhyāyaḥ
+  (174) catuḥ saptatyadhika-śatatamo'dhyāyaḥ
+  (175) pañcasaptatyadhika śatatamo'dhyāyaḥ
+  (176) ṣaṭsaptatyadhika-śatatamo'dhyāyaḥ
+  (177) sapta saptatyadhika śatatamo'dhyāyaḥ
+  (178) aṣṭa-saptaty-adhika śatatamo'dhyāyaḥ
+  (179) ekonāśītyadhika-śatatamo'dhyāyaḥ
+  (180) aśītyadhika-śatatamo'dhyāyaḥ
+  (181) ekāśītyadhika śatatamo'dhyāyaḥ
+  (182) dvyasaśītyadhika śatatamo'dhyāyaḥ
+  (183) tryaśītyadhika-śatatamo'dhyāyaḥ
+  (184) caturaśītyadhika-śatatamo'dhyāyaḥ
+  (185) pañcāśītyadhika-śatatamo'dhyāyaḥ
+  (186) ṣaḍaśītyadhika-śatatamo'dhyāyaḥ
+  (187) saptāśītyadhika-śatatamo'dhyāyaḥ
+  (188) aṣṭāśītyadhika-śatatamo'dhyāyaḥ
+  (189) ekonanavatyadhika śatatamo'dhyāyaḥ
+  (190) navatyadhika-śatatamo'dhyāyaḥ
+  (191) ekanavatyadhika-śatatamo'dhyāyaḥ
+  (192) dvinavatyadhika-śatatamo'dhyāyaḥ
+  (193) trinavatyadhika-śatatamo'dhyāyaḥ
+  (194) catur-navaty-adhika-śatatamo'dhyāyaḥ
+  (195) pañcanavatyadhikaśatatamo'dhyāyaḥ
+  (196) ṣaṇṇavatyadhikaśatatamo'dhyāyaḥ
+  (197) saptanavatyadhikaśatatamo'dhyāyaḥ
+  (198) aṣṭanavatyadhikaśatatamo'dhyāyaḥ
+  (199) ekonadviśatatamo'dhyāyaḥ
+  (200) dviśatatamo'dhyāyaḥ -
+  (201) ekādhika-dviśatatamo'dhyāyaḥ
+  (202) dvayadhikadviśatatamo'dhyāyaḥ -
+  (203) tryadhikadviśatatamo'dhyāyaḥ
+  (204) caturadhikadviśatatamo'dhyāyaḥ -
+  (205)
+  (206) ṣaḍadhikadviśatatamo'dhyāyaḥ
+  (207) saptādhikadviśatatamo'dhyāyaḥ
+  (208) aṣṭottaradviśatatamo'dhyāyaḥ
+  (209) navadhikadviśatatamo'dhyāyaḥ
+  (210) daśādhikadviśatatamo'dhyāyaḥ
+  (211) ekādaśadhikadviśatatamo'dhyāyaḥ
+  (212) dvādaśādhikadviśatatamo'dhyāyaḥ
+  (213) trayodāśādhikadviśatatamo'dhyāyaḥ
+  (214) caturdaśādhikadviśatatamo'dhyāyaḥ
+  (215) pañcadaśādhikadviśatatamo'dhyāyaḥ
+  (216)
+  (217) saptadaśādhikadviśatatamo'dhyāyaḥ
+  (218) aṣṭādaśādhikadviśatatamo'dhyāyaḥ
+  (219) ekonaviṁ śādhikadviśatatamo'dhyāyaḥ
+  (220) viṁ śādhikadviśatatamo'dhyāyaḥ
+  (221) ekaviṁ śādhikadviśatatamo'dhyāyaḥ
+  (222) dvviṁśatyadhikadviśatatamo'dhyāyaḥ
+  (223) trayoviṁśatyadhikadviśatatamo'dhyāyaḥ
+  (224) catuviṁśatya-dhika-dviśatatamo'dhyāyaḥ
+  (225) pañcaviṁśatyadhika-dviśatatamo'dhyāyaḥ
+  (226) ṣaḍviṁśaty-adhika-dviśatatamo'dhyāyaḥ
+  (227) saptaviṁśaty-adhika-dviśatatamo'dhyāyaḥ
+  (228) aṣṭāviṁśatyadhika dviśatatamo'dhyāyaḥ
+  (229) ekona-triṁśad-adhika-dviśatatamo'dhyāyaḥ
+  (230) triṁśad-adhika- dviśatatamo'dhyāyaḥ
+  (231) eka-triṁśad-adhika- dviśatatamo'dhyāyaḥ
+  (232) dvātriṁ śadadhi dviśatatamo'dhyāyaḥ
+  (233) trayas-triṁśad-adhika- dviśatatamo'dhyāyaḥ
+  (234) catus-triṁśad-adhika-dviśatatamo'dhyāyaḥ
+  (235) pañcatriṁśad-adhika-dviśatatamo’dhyāyaḥ
+  (236) ṣaṭ-triṁśad-adhika-dviśatatamo'dhyāyaḥ
+  (237) sapta-triṁśad-adhika- dviśatatamo'dhyāyaḥ
+  (238) aṣṭatriṁśad-adhika-dviśatatamo'dhyāyaḥ
+  (239) ekona catvāriṁśad-adhika-dviśatatamo'dhayāyaḥ
+  (240)
+  (241) ekacatvāriṁ śadadhika dviśatatamo'dhyāyaḥ
+  (242) dvicatvāriṁ śadadhika dviśatatamo'dhyāyaḥ
+  (243) tricatvāriṁ śadadhika dviśatatamo'dhyāyaḥ
+  (244) catuścatvāriṁ śadadhika dviśatatamo'dhyāyaḥ
+  (245) pañcacatvāriṁ śadadhika dviśatatamo'dhyāyaḥ
+  (246) ṣaṭcatvāriṁ śadhika dviśatatamo'dhyāyaḥ
+  (247) saptacatvāriṁ śadadhika dviśatatamo'dhyāyaḥ
+  (248) aṣṭacatvāriṁ śadadhikadviśatatamo'dhyāyaḥ
+  (249) ekonapañcāśadadhika dviśatatamo'dhyāyaḥ
+  (250) pañcāśadadhika dviśatatamo'dhyāyaḥ
+  (251) ekapañcāśad-adhika-dviśatata-mo'dhyāyaḥ
+  (252) dvipañcāśadadhika dviśatatamo'dhyāyaḥ
+  (253) tripañcāśadadhikadviśatatamo'dhyāyaḥ
+  (254) catuḥ-pañcāśad-adhika-dviśatatamo'dhyāyaḥ
+  (255) pañcapañcāśadadhika dviśatatamo'dhyāyaḥ
+  kriyā-khaṇḍaṁ
+  (1) prathamo'dhyāyaḥ
+  (2) dvitīyo'dhyāyaḥ
+  (3) tṛtīyo'dhyāyaḥ
+  (4) caturtho'dhyāyaḥ
+  (5) pañcamo'dhyāyaḥ
+  (6) ṣaṣṭho'dhyāyaḥ
+  (7) saptamo'dhyāyaḥ
+  (8) aṣṭamo'dhyāyaḥ
+  (9) navamo'dhyāyaḥ
+  (10) daśamo'dhyāyaḥ
+  (11) ekādaśo'dhyāyaḥ
+  (12) dvādaśo'dhyāyaḥ
+  (13) trayodaśo'dhyāyaḥ
+  (14) caturdaśo'dhyāyaḥ
+  (15) pañcadaśo'dhyāyaḥ
+  (16) ṣoḍaśodhyāyaḥ
+  (17) saptadaśo'dhyāyaḥ
+  (18) aṣṭādaśo'dhyāyaḥ
+  (19) ekonaviṁśo'dhyāyaḥ
+  (20) viṁśo'dhyāyaḥ
+  (21) ekaviṁśo'dhyāyaḥ
+  (22) dvāviṁśo'dhyāyaḥ
+  (23) triviṁśo'dhyāyaḥ
+  (24) caturviṁśo'dhyāyaḥ
+  (25) pañcaviṁśo'dhyāyaḥ
+  (26) ṣaḍviṁśo'dhyāyaḥ
