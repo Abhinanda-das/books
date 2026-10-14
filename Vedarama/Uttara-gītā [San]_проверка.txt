@@ -1,0 +1,16 @@
+Книга: Uttara-gītā [San]
+Адрес: https://vedarama.com/st/books/uttaragita-san
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 10864; в .md: 10864
+Первый заголовок: Uttara-gītā [San]
+Последний заголовок: Chapter III
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Uttara-gītā [San]
+  |Uttara-gītā [San]
+  Chapter I
+  Chapter II
+  Chapter III

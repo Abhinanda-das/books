@@ -1,0 +1,43 @@
+Книга: Taittirīya-Brāhmaṇa - Black Yajur-Veda [San]
+Адрес: https://vedarama.com/st/books/tb-byv
+Страниц сайта: 31; заголовков: 32; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 484691; в .md: 484691
+Первый заголовок: Taittirīya-Brāhmaṇa - Black Yajur-Veda [San]
+Последний заголовок: Chapter: 12
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Taittirīya-Brāhmaṇa - Black Yajur-Veda [San]
+  Book: 1
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
+  Chapter: 6
+  Chapter: 7
+  Chapter: 8
+  Book: 2
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
+  Chapter: 6
+  Chapter: 7
+  Chapter: 8
+  Book: 3
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
+  Chapter: 6
+  Chapter: 7
+  Chapter: 8
+  Chapter: 9
+  Chapter: 10
+  Chapter: 11
+  Chapter: 12
