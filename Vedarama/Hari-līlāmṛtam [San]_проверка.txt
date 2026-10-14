@@ -1,0 +1,25 @@
+Книга: Hari-līlāmṛtam [San]
+Адрес: https://vedarama.com/st/books/vd-hla
+Страниц сайта: 13; заголовков: 14; текстов: 0; картинок: 0
+Глав по MCP: 13
+Букв в исходнике: 15563; в .md: 15563
+Первый заголовок: Hari-līlāmṛtam [San]
+Последний заголовок: dvādaśa-skandha-kathā-sāraḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Hari-līlāmṛtam [San]
+  Hari-līlāmṛtam [San]
+  prathama-skandha-kathā-sāraḥ
+  dvitīya-skandha-kathā-sāraḥ
+  tṛtīya-skandha-kathā-sāraḥ
+  caturtha-skandha-kathāsāraḥ
+  pañcama-skandha-kathā-sāraḥ
+  ṣaṣṭha-skandha-kathā-sāraḥ
+  saptama-skandha-kathā-sāraḥ
+  aṣṭama-skandha-kathā-sāraḥ
+  navama-skandha-kathā-sāraḥ
+  daśama-skandha-kathā-sāraḥ
+  ekādaśa-skandha-kathā-sāraḥ
+  dvādaśa-skandha-kathā-sāraḥ
