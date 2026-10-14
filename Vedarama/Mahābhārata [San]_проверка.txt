@@ -1,0 +1,30 @@
+Книга: Mahābhārata [San]
+Адрес: https://vedarama.com/st/books/mahabh-san
+Страниц сайта: 18; заголовков: 19; текстов: 0; картинок: 0
+Глав по MCP: 18
+Букв в исходнике: 6381875; в .md: 6381875
+Первый заголовок: Mahābhārata [San]
+Последний заголовок: Book XVIII Svargaroha-parva [concluding words]
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Mahābhārata [San]
+  Book I Adi-parva
+  Book II Sabha-Parva
+  Book III Vana-Parva
+  Book IV Virata-parva
+  Book V Udyoga-parva
+  Book VI Bhiśma-parva
+  Book VII Drona-parva
+  Book VIII Karna-parva
+  Book IX Salya-parva
+  Book X Sauptika-parva
+  Book XI Stri-parva
+  Book XII Santi-parva
+  Book XIII Anuśasana-parva
+  Book XIV Aśvamedha-parva
+  Book XV Aśramvasika-parva
+  Book XVI Mausala-parva
+  Book XVII Mahaprasthanika-parva
+  Book XVIII Svargaroha-parva [concluding words]
