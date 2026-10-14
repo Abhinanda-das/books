@@ -1,0 +1,37 @@
+Книга: Govinda-līlāmṛtam [San]
+Адрес: https://vedarama.com/st/books/gl
+Страниц сайта: 25; заголовков: 26; текстов: 0; картинок: 0
+Глав по MCP: 25
+Букв в исходнике: 766185; в .md: 766185
+Первый заголовок: Govinda-līlāmṛtam [San]
+Последний заголовок: References
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Govinda-līlāmṛtam [San]
+  Govinda-līlāmṛtam [San]
+  prathamaḥ sargaḥ
+  dvitīyaḥ sargaḥ
+  tṛtīyaḥ sargaḥ
+  caturthaḥ sargaḥ
+  pañcamaḥ sargaḥ
+  ṣaṣṭhaḥ sargaḥ
+  saptamaḥ sargaḥ
+  aṣṭamaḥ sargaḥ
+  navamaḥ sargaḥ
+  daśamaḥ sargaḥ
+  ekādaśaḥ sargaḥ
+  dvādaśaḥ sargaḥ
+  trayodaśaḥ sargaḥ
+  caturdaśaḥ sargaḥ
+  pañcadaśaḥ sargaḥ
+  ṣoḍaśaḥ sargaḥ
+  saptadaśaḥ sargaḥ
+  aṣṭadaśaḥ sargaḥ
+  ekonaviṁśaḥ sargaḥ
+  viṁśaḥ sargaḥ
+  ekaviṁśaḥ sargaḥ
+  dvāviṁśaḥ sargaḥ
+  trayoviṁśaḥ sargaḥ
+  References

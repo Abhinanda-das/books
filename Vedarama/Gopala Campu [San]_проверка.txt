@@ -1,0 +1,72 @@
+Книга: Gopala Campu [San]
+Адрес: https://vedarama.com/st/books/jg-gc
+Страниц сайта: 56; заголовков: 57; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 969625; в .md: 969625
+Первый заголовок: Gopala Campu [San]
+Последний заголовок: Chapter 33
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №33 идёт «Chapter 1».
+  - Разрыв нумерации разделов: после №8 идёт «Chapter 10».
+  - Разрыв нумерации разделов: после №10 идёт «Chapter 16».
+  - Разрыв нумерации разделов: после №18 идёт «Chapter 29».
+
+Оглавление выгрузки:
+Gopala Campu [San]
+  Gopala Campu [San]
+  First Campu [Purva Campa]
+  Chapter 1
+  Chapter 2
+  Chapter 3
+  Chapter 4
+  Chapter 5
+  Chapter 6
+  Chapter 7
+  Chapter 8
+  Chapter 9
+  Chapter 10
+  Chapter 11
+  Chapter 12
+  Chapter 13
+  Chapter 14
+  Chapter 15
+  Chapter 16
+  Chapter 17
+  Chapter 18
+  Chapter 19
+  Chapter 20
+  Chapter 21
+  Chapter 22
+  Chapter 23
+  Chapter 24
+  Chapter 25
+  Chapter 26
+  Chapter 27
+  Chapter 28
+  Chapter 29
+  Chapter 30
+  Chapter 31
+  Chapter 32
+  Chapter 33
+  Uttara Campu (Incomplete)
+  Chapter 1
+  Chapter 2
+  Chapter 3
+  Chapter 4
+  Chapter 5
+  Chapter 6
+  Chapter 7
+  Chapter 8
+  9th Chapter not yet available
+  Chapter 10
+  11-15 Chapters not yet available
+  Chapter 16
+  Chapter 17
+  Chapter 18
+  19-28 Chapters not yet available
+  Chapter 29
+  Chapter 30
+  Chapter 31
+  Chapter 32
+  Chapter 33
