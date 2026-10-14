@@ -1,0 +1,16 @@
+Книга: Bhartṛhari-kṛtaṁ Vākyapadīyam [San]
+Адрес: https://vedarama.com/st/books/bhharikrt-san
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 170859; в .md: 170859
+Первый заголовок: Bhartṛhari-kṛtaṁ Vākyapadīyam [San]
+Последний заголовок: tṛtīyokhaṇaḍaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Bhartṛhari-kṛtaṁ Vākyapadīyam [San]
+  bhartṛharikṛtaṁ vākyapadīyaṁ [San]
+  prathamokhaṇḍaḥ
+  dvitīyokhaṇaḍaḥ
+  tṛtīyokhaṇaḍaḥ
