@@ -1,0 +1,40 @@
+Книга: Nārada-smṛti [San]
+Адрес: https://vedarama.com/st/books/ns-san
+Страниц сайта: 28; заголовков: 29; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 87992; в .md: 87992
+Первый заголовок: Nārada-smṛti [San]
+Последний заголовок: [dhaṭaḥ]
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Nārada-smṛti [San]
+  mātṛkā 1
+  [vyavahāraḥ]
+  mātṛkā 2
+  [bhāṣā]
+  mātṛkā 3
+  [sabhā]
+  vyavahārapadāni
+  1. ṛṇādānam
+  2.nikṣipaḥ
+  3.saṁbhūyasamutthānam
+  4.dattāpradānikam
+  5.abhyupetyāśuśrūṣā
+  6.vetanasyānapākarma
+  7.asvāmivikrayaḥ
+  8.krītānuśayaḥ
+  9.vikrīyāsaṁpradānam
+  10.samayasyānapākarma
+  11.kṣetrajavivādaḥ
+  12.strīpuṁsayogaḥ
+  13.dāyabhāgaḥ
+  14.sāhasam
+  15-16.vāgdaṇḍapāruṣye
+  17.dyūtasamāhvayam
+  18.prakīrṇakam
+  pariśiṣṭam
+  19.steyam
+  20.divyāni
+  [dhaṭaḥ]

@@ -1,0 +1,32 @@
+Книга: muktā-phalam [San]
+Адрес: https://vedarama.com/st/books/vp-mp
+Страниц сайта: 20; заголовков: 21; текстов: 0; картинок: 0
+Глав по MCP: 20
+Букв в исходнике: 319838; в .md: 319838
+Первый заголовок: muktā-phalam [San]
+Последний заголовок: (19) ūnaviṁśo’dhyāyaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+muktā-phalam [San]
+  muktā-phalam [San]
+  (1) atha prathamo’dhyāyaḥ
+  (2) dvitīyo'dhyāyaḥ
+  (3) atha tṛtīyo’dhyāyaḥ
+  (4) atha caturtho’dhyāyaḥ
+  (5) pañcamo’dhyāyaḥ
+  (6) atha ṣaṣṭho’dhyāyaḥ
+  (7) saptamo’dhyāyaḥ
+  (8) aṣṭamo’dhyāyaḥ
+  (9) navamo’dhyāyaḥ
+  (10) daśamo’dhyāyaḥ
+  (11) ekādaśo’dhyāyaḥ
+  (12) dvādaśo’dhyāyaḥ
+  (13) trayodaśo’dhyāyaḥ
+  (14) caturdaśo’dhyāyaḥ
+  (15) pañcadaśo’dhyāyaḥ
+  (16) ṣoḍaśo’dhyāyaḥ
+  (17) saptadaśo’dhyāyaḥ
+  (18) athāṣṭadaśo’dhyāyaḥ
+  (19) ūnaviṁśo’dhyāyaḥ
