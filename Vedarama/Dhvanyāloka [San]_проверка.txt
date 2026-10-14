@@ -1,0 +1,17 @@
+Книга: Dhvanyāloka [San]
+Адрес: https://vedarama.com/st/books/a-dl
+Страниц сайта: 5; заголовков: 6; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 137202; в .md: 137202
+Первый заголовок: Dhvanyāloka [San]
+Последний заголовок: dhvanyāloka 4
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Dhvanyāloka [San]
+  Dhvanyāloka [San]
+  dhvanyāloka 1
+  dhvanyāloka 2
+  dhvanyāloka 3
+  dhvanyāloka 4
