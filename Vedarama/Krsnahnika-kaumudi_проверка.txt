@@ -1,0 +1,19 @@
+Книга: Krsnahnika-kaumudi
+Адрес: https://vedarama.com/st/books/kk-kk
+Страниц сайта: 7; заголовков: 8; текстов: 0; картинок: 0
+Глав по MCP: 7
+Букв в исходнике: 93215; в .md: 93215
+Первый заголовок: Krsnahnika-kaumudi
+Последний заголовок: 6. ṣaṣṭhaḥ prakāśaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Krsnahnika-kaumudi
+  śrīkṛṣṇāhnikakaumudī
+  1. prathamaḥ prakāśaḥ
+  2. dvitīyaḥ prakāśaḥ
+  3. tṛtīyaḥ prakāśaḥ
+  4. caturthaḥ prakāśaḥ
+  5. pañcamaḥ prakāśaḥ
+  6. ṣaṣṭhaḥ prakāśaḥ
