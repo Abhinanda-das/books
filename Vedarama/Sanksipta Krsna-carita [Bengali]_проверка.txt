@@ -1,0 +1,105 @@
+Книга: Sanksipta Krsna-carita [Bengali]
+Адрес: https://vedarama.com/st/books/gk-skc
+Страниц сайта: 92; заголовков: 93; текстов: 85; картинок: 0
+Глав по MCP: 7
+Букв в исходнике: 5935; в .md: 5935
+Первый заголовок: Sanksipta Krsna-carita [Bengali]
+Последний заголовок: Text 16
+
+ЗАМЕЧАНИЯ:
+  - Пропуск/сбой нумерации: после «25» идёт «Text 12».
+
+Оглавление выгрузки:
+Sanksipta Krsna-carita [Bengali]
+  Sanksipta Krsna-carita [Bengali]
+  Lord Krsna's Pastimes
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+  Balya-krida Krsna's Childhood Pastimes
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+  Sri Narader Sri Krsner Alaukika Bicitra-bilas Darsan Sri Narada Sees Very Wonderful Pastimes of Lord Krsna
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+  Sri Radhar Vilapa Sri Radha's Lament
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  Jala-keli Water Pastimes
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+  Kaliya's wives
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
