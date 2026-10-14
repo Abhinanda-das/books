@@ -1,0 +1,15 @@
+Книга: Sudarśana Kavaca
+Адрес: https://vedarama.com/st/books/sudarskavaca-san
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 4288; в .md: 4288
+Первый заголовок: Sudarśana Kavaca
+Последний заголовок: “The Preceptor’s Lotus Feet”
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Sudarśana Kavaca
+  Sudarśana Kavaca
+  Sundara Bālā
+  “The Preceptor’s Lotus Feet”
