@@ -1,0 +1,16 @@
+Книга: śrī-bhagavad-bhakti-rasāyaṇam
+Адрес: https://vedarama.com/st/books/ms-sbbr
+Страниц сайта: 4; заголовков: 5; текстов: 0; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 74230; в .md: 74230
+Первый заголовок: śrī-bhagavad-bhakti-rasāyaṇam
+Последний заголовок: tṛtīya ullāsaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+śrī-bhagavad-bhakti-rasāyaṇam
+  śrī-bhagavad-bhakti-rasāyaṇam
+  prathama ullāsaḥ
+  dvitīya ullāsaḥ
+  tṛtīya ullāsaḥ
