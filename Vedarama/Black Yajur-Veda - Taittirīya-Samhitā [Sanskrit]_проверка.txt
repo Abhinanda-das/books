@@ -1,0 +1,64 @@
+Книга: Black Yajur-Veda - Taittirīya-Samhitā [Sanskrit]
+Адрес: https://vedarama.com/st/books/byvtittsamh-san
+Страниц сайта: 52; заголовков: 53; текстов: 0; картинок: 0
+Глав по MCP: 8
+Букв в исходнике: 794728; в .md: 794728
+Первый заголовок: Black Yajur-Veda - Taittirīya-Samhitā [Sanskrit]
+Последний заголовок: Chapter: 5
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Black Yajur-Veda - Taittirīya-Samhitā [Sanskrit]
+  Black Yajur-Veda - Taittirīya-Samhitā [San]
+  Book: 1
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
+  Chapter: 6
+  Chapter: 7
+  Chapter: 8
+  Book: 2
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
+  Chapter: 6
+  Book: 3
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
+  Book: 4
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
+  Chapter: 6
+  Chapter: 7
+  Book: 5
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
+  Chapter: 6
+  Chapter: 7
+  Book: 6
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
+  Chapter: 6
+  Book: 7
+  Chapter: 1
+  Chapter: 2
+  Chapter: 3
+  Chapter: 4
+  Chapter: 5
