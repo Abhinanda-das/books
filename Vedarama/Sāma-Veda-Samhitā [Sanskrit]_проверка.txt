@@ -1,0 +1,17 @@
+Книга: Sāma-Veda-Samhitā [Sanskrit]
+Адрес: https://vedarama.com/st/books/samavedasamh-san
+Страниц сайта: 5; заголовков: 6; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 171809; в .md: 171809
+Первый заголовок: Sāma-Veda-Samhitā [Sanskrit]
+Последний заголовок: Arcika: 4
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Sāma-Veda-Samhitā [Sanskrit]
+  Sāma-Veda-Samhitā [San]
+  Arcika: 1
+  Arcika: 2
+  Arcika: 3
+  Arcika: 4

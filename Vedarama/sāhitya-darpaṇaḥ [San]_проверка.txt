@@ -1,0 +1,23 @@
+Книга: sāhitya-darpaṇaḥ  [San]
+Адрес: https://vedarama.com/st/books/sahdar-san
+Страниц сайта: 11; заголовков: 12; текстов: 0; картинок: 0
+Глав по MCP: 11
+Букв в исходнике: 68220; в .md: 68220
+Первый заголовок: sāhitya-darpaṇaḥ [San]
+Последний заголовок: (10) daśama-paricchedaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+sāhitya-darpaṇaḥ [San]
+  sāhitya-darpaṇaḥ [San]
+  (1) prathamaḥ prakāśaḥ
+  (2) dvitīyaḥ prakāśaḥ
+  (3) tṛtīyaḥ paricchedaḥ
+  (4) caturthaḥ paricchedaḥ
+  (5) pañcamaḥ paricchedaḥ
+  (6) ṣaṣṭhaḥ paricchedaḥ
+  (7) saptamaḥ paricchedaḥ (doṣa-nirṇayaḥ)
+  (8) aṣṭamaḥ paricchedaḥ
+  (9) navamaḥ paricchedaḥ
+  (10) daśama-paricchedaḥ

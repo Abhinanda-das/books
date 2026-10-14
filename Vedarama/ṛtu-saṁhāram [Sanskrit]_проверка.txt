@@ -1,0 +1,19 @@
+Книга: ṛtu-saṁhāram  [Sanskrit]
+Адрес: https://vedarama.com/st/books/rtusam-san
+Страниц сайта: 7; заголовков: 8; текстов: 0; картинок: 0
+Глав по MCP: 7
+Букв в исходнике: 18784; в .md: 18784
+Первый заголовок: ṛtu-saṁhāram [Sanskrit]
+Последний заголовок: (6) ṣaṣṭhaḥ sargaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+ṛtu-saṁhāram [Sanskrit]
+  ṛtu-saṁhāram [Sanskrit]
+  (1) prathamaḥ sargaḥ
+  (2) dvitīyaḥ sargaḥ
+  (3) tṛtīyaḥ sargaḥ
+  (4) caturthaḥ sargaḥ
+  (5) pañcamaḥ sargaḥ
+  (6) ṣaṣṭhaḥ sargaḥ

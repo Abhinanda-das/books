@@ -1,0 +1,19 @@
+Книга: Sāmānya-virudāvalī-lakṣaṇam [Sanskrit]
+Адрес: https://vedarama.com/st/books/rg-svl-san
+Страниц сайта: 7; заголовков: 8; текстов: 0; картинок: 0
+Глав по MCP: 7
+Букв в исходнике: 16841; в .md: 16841
+Первый заголовок: Sāmānya-virudāvalī-lakṣaṇam [Sanskrit]
+Последний заголовок: atha gadya-kalikā
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Sāmānya-virudāvalī-lakṣaṇam [Sanskrit]
+  Sāmānya-virudāvalī-lakṣaṇam [Sanskrit]
+  namaḥ śrī-kṛṣṇāya
+  atha dvigādi-gaṇa-vṛtta-kalikā
+  atha tribhaṅgī-vṛtta-kalikā
+  atha madhya-kalikā
+  atha miśra-kalikā
+  atha gadya-kalikā

@@ -1,0 +1,33 @@
+Книга: Sādhanā-dīpikā [San]
+Адрес: https://vedarama.com/st/books/rkg-sd-san
+Страниц сайта: 21; заголовков: 22; текстов: 0; картинок: 0
+Глав по MCP: 11
+Букв в исходнике: 228003; в .md: 228003
+Первый заголовок: Sādhanā-dīpikā [San]
+Последний заголовок: (10) daśama-kakṣā
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Sādhanā-dīpikā [San]
+  Sādhanā-dīpikā [San]
+  (1) prathama-kakṣā
+  (2) dvitīya-kakṣā
+  (3) tṛtīya-kakṣā
+  (4) caturtha-kakṣā
+  (5) pañcama-kakṣā
+  [atha puruṣa-bodhinī śrutiḥ]
+  prathamaḥ prapāṭhakaḥ
+  dvitīyaḥ prapāṭhakaḥ
+  tṛtīyaḥ prapāṭhakaḥ
+  caturthaḥ prapāṭhakaḥ
+  (6) ṣaṣṭha-kakṣā
+  [rādhikāṣṭottara-śata-nāma-stotram]
+  atha śrī-gopeśvarī-sādhanam
+  atha sammohana-tantre pañca-bāṇeśvarī-vidhānam |
+  [ūrdhvāmnāya-tantre pañcākṣarī-sādhanam]
+  [śrī rādhā-kṛpā-kaṭākṣa-stava-rājaḥ]
+  (7) saptama-kakṣā
+  (8) aṣṭa-kakṣā
+  (9) navama-kakṣā
+  (10) daśama-kakṣā
