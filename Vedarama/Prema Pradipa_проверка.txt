@@ -1,0 +1,23 @@
+Книга: Prema Pradipa
+Адрес: https://vedarama.com/en/books/bt-ppd
+Страниц сайта: 11; заголовков: 12; текстов: 0; картинок: 0
+Глав по MCP: 11
+Букв в исходнике: 123884; в .md: 123884
+Первый заголовок: Prema Pradipa
+Последний заголовок: Tenth Ray
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Prema Pradipa
+  Dedication
+  First Ray
+  Second Ray
+  Third Ray
+  Fourth Ray
+  Fifth Ray
+  Sixth Ray
+  Seventh Ray
+  Eighth Ray
+  Ninth Ray
+  Tenth Ray

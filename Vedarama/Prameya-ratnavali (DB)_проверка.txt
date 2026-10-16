@@ -1,0 +1,114 @@
+Книга: Prameya-ratnavali (DB)
+Адрес: https://vedarama.com/en/books/db-pr
+Страниц сайта: 102; заголовков: 103; текстов: 77; картинок: 0 + обложка
+Глав по MCP: 14
+Букв в исходнике: 218787; в .md: 218787
+Первый заголовок: Prameya-ratnavali (DB)
+Последний заголовок: Text 4
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Prameya-ratnavali (DB)
+  Introduction
+  Preface
+  Authorship and Time
+  Commentator
+  Gloss
+  Polemics
+  Sundarananda Vidyavinoda
+  Radhagovinda Natha
+  Kanai Lal Adhikari
+  Aksaya Kumara Sastri
+  Sources
+  Acknowledgements
+  Prameya-ratnavali
+    Text 1
+    Text 2
+    Text 3
+  Guru-parampara
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+  Prameyas
+    Text 8
+  First Prameya
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+  Second Prameya
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+  Third Prameya
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  Fourth Prameya
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+  Fifth Prameya
+    Text 1
+    Text 2
+  Sixth Prameya
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  Seventh Prameya
+    Text 1
+  Eighth Prameya
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+  Ninth Prameya
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+  Epilogue
+    Text 1
+    Text 2
+    Text 3
+    Text 4

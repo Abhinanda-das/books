@@ -1,0 +1,25 @@
+Книга: Manaḥ-śikṣā (KKd)
+Адрес: https://vedarama.com/en/books/rdg-manah-siksa2
+Страниц сайта: 13; заголовков: 14; текстов: 12; картинок: 0
+Глав по MCP: 13
+Букв в исходнике: 11418; в .md: 11418
+Первый заголовок: Manaḥ-śikṣā (KKd)
+Последний заголовок: Text 12
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Manaḥ-śikṣā (KKd)
+  Instructions to the Mind
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
