@@ -1,0 +1,45 @@
+Книга: The Role of the Siksa Guru
+Адрес: https://vedarama.com/en/books/sivaramasw-trotsg
+Страниц сайта: 32; заголовков: 33; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 329973; в .md: 329973
+Первый заголовок: The Role of the Siksa Guru
+Последний заголовок: Appendix 6
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №11 идёт «Chapter 13 - The Relationship Between Siksa and Diksa Gurus».
+
+Оглавление выгрузки:
+The Role of the Siksa Guru
+  Preface
+  Introduction
+  Section 1 - General Overview
+  Chapter 1 - A General Overview
+  Chapter 2 - Rules of Etiquette Regarding Siksa Guru
+  Section 2 - Evidence and Arguments in Support
+  Chapter 3 - The Principle of the Guru
+  Chapter 4 - Two Types of Guru
+  Chapter 5 - Roles of the Two Gurus
+  Chapter 6 - Resolving the Oneness and Difference
+  Chapter 7 - Understanding Traditional Protocol
+  Chapter 8 - Exception to Traditional Protocol
+  Chapter 9 - The Distinctive Role of the Adi Guru
+  Chapter 10 - Vaisnavas of Varying Spiritual Strength
+  Chapter 11 - Gurus of Varying Commitment
+  Сhapter 12 - Other Differences and Preliminary Guidelines
+  Chapter 13 - The Relationship Between Siksa and Diksa Gurus
+  Chapter 14 - The Relationship Between the Disciple and the Gurus
+  Chapter 15 - Considerations of Etiquette on the Liberated and Non Liberated Gurus
+  Chapter 16 - Conduct of Siksa Gurus
+  Chapter 17 - Conclusion: Codes of Etiquette
+  Chapter 18 - Our Siksa Sampradaya
+  Chapter 19 - Implementation in ISKCON
+  Chapter 20 - Possible Excesses and Abuse
+  Chapter 21 - Summary
+  Appendices
+  Appendix 1
+  Appendix 2
+  Appendix 3
+  Appendix 4
+  Appendix 5
+  Appendix 6

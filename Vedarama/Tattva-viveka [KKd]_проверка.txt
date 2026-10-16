@@ -1,0 +1,62 @@
+Книга: Tattva-viveka [KKd]
+Адрес: https://vedarama.com/en/books/bt-tattva-viveka
+Страниц сайта: 50; заголовков: 51; текстов: 48; картинок: 0 + обложка
+Глав по MCP: 2
+Букв в исходнике: 123707; в .md: 123707
+Первый заголовок: Tattva-viveka [KKd]
+Последний заголовок: Text 15
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Tattva-viveka [KKd]
+  Prathamānubhava - <strong>First Realization</strong>
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+    Text 30
+    Text 31
+    Text 32
+    Text 33
+  Dvitīyānubhava - <strong>Second Realization</strong>
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15

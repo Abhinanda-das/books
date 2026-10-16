@@ -1,0 +1,85 @@
+Книга: Taittiriya Upanisad [BS]
+Адрес: https://vedarama.com/en/books/tup
+Страниц сайта: 73; заголовков: 74; текстов: 31; картинок: 0
+Глав по MCP: 4
+Букв в исходнике: 69501; в .md: 69501
+Первый заголовок: Taittiriya Upanisad [BS]
+Последний заголовок: 6
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Taittiriya Upanisad [BS]
+  Taittiriya Upanisad
+  1. Siksa-valli
+  First Anuvāka
+  Second Anuvāka
+  Third Anuvāka
+  1.
+  2.
+  3.
+  4.
+  5.
+  6.
+  Fourth Anuvāk
+    1
+    2-3
+  Fifth Anuvāk
+    1
+    2
+    3
+    4
+    5
+    6
+  Sixth Anuvāk
+    1
+    2
+    3
+  Seventh Anuvāk
+  Eighth Anuvāk
+  Ninth Anuvāk
+  Tenth Anuvāk
+  Eleventh Anuvāk
+    1
+    2
+    3
+    4
+    5
+    6
+  Twelfth Anuvāk
+  2. Ananda-valli
+  First Anuvāk
+  Śānti-pāṭhaḥ
+    1-2
+    3
+    4-6
+  Second Anuvāk
+  Third Anuvāk
+  Fourth Anuvak
+  Fifth Anuvāk
+  Sixth Anuvāk
+  Seventh Anuvāk
+  Eighth Anuvāk
+    1
+    2
+    3
+    4
+    5
+  Ninth Anuvāk
+  3. Bhṛguvallī
+  First Anuvaka
+  Second Anuvāk
+  Third Anuvāk
+  Fourth Anuvāk
+  Fifth Anuvāk
+  Sixth Anuvāk
+  Seventh Anuvāk
+  Eigth Anuvāk
+  Ninth Anuvāk
+  Tenth Anuvāk
+    1
+    2
+    3
+    4
+    5
+    6

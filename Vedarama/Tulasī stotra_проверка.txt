@@ -1,0 +1,33 @@
+Книга: Tulasī stotra
+Адрес: https://vedarama.com/en/books/tulstotra
+Страниц сайта: 21; заголовков: 22; текстов: 14; картинок: 0
+Глав по MCP: 21
+Букв в исходнике: 41840; в .md: 41840
+Первый заголовок: Tulasī stotra
+Последний заголовок: References
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Tulasī stotra
+  Typography
+  Maṅgalācaraṇa
+  Introduction
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12-13
+    Text 14
+    Text 15
+  Conclusion
+  Glossary
+  Literary Works
+  References
