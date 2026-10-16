@@ -1,0 +1,78 @@
+Книга: Gopāla-Campū
+Адрес: https://vedarama.com/en/books/jg-gc2
+Страниц сайта: 64; заголовков: 65; текстов: 0; картинок: 0
+Глав по MCP: 3
+Букв в исходнике: 449610; в .md: 449610
+Первый заголовок: Gopāla-Campū
+Последний заголовок: Virudāvali 4 (2.37.143-152)
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №4 идёт «Song 1 (1.6.57)».
+  - Разрыв нумерации разделов: после №28 идёт «Song 1 (2.50.131)».
+
+Оглавление выгрузки:
+Gopāla-Campū
+  First Campū
+  Сhapter 1 - Sri Goloka-rupa-nirupana - Description of Sri Goloka
+  Chapter 2 - Sri Goloka-vilasa-nikasana - Pastimes in Sri Goloka
+  Chapter 3 - Krta-purana-vraja-varti-trsna-Sri-Krsna-janma-sampanmaya - To Satisfy the Desires of Vraja’s People, Lord Krsna Takes Birth
+  Chapter 4 - Sriman Nanda-nandana-parva - The Festival For Nanda’s Son
+  Seventeenth Pūraṇa
+  Twenty-third Pūraṇa
+  Twenty-fourth Puraṇa
+  Twenty-fifth Purana
+  Twenty-sixth Pūraṇa
+  Twenty-seventh Pūraṇa
+  Twenty-ninth Puraṇa
+  Second Campū
+  Thirty-fourth Pūraṇa (incomplete)
+  Songs from Gopāla-campū
+  First Campū
+  Song 1 (1.6.57)
+  Song 2 (1.7.63)
+  Song 3 (1.7.68)
+  Song 4 (1.8.4)
+  Song 5 (1.9.32)
+  Song 6 (1.11.53)
+  Song 7 (1.12.46)
+  Song 8 (1.14.22)
+  Song 9 (1.17.43)
+  Song 10 (1.21.16)
+  Song 11 (1.21.142)
+  Song 12 (1.22.35)
+  Song 13 (1.18.45)
+  Song 14 (1.23.44)
+  Song 15 (1.24.13)
+  Song 16 (1.26.15)
+  Song 17 (1.27.9)
+  Song 18 (1.29.40)
+  Song 19 (1.29.50)
+  Song 20 (1.29.52)
+  Song 21 (1.30.76)
+  Song 22 (1.31.23)
+  Song 23 (1.31.27)
+  Song 24 (1.21.29)
+  Song 25 (1.31.32)
+  Song 26 (1.31.36)
+  Song 27 (1.31.54)
+  Song 28 (1.31.55)
+  Second Campū
+  Song 1 (2.50.131)
+  Song 2 (2.9.57)
+  Song 3 (2.14.125)
+  Song 4 (2.16.117)
+  Song 5 (2.17.18)
+  Song 6 (2.18.98)
+  Song 7 (2.21.68)
+  Song 8 (2.22.18)
+  Song 9 (2.33.19)
+  Song 10 (2.33.58)
+  Song 11 (2.33.74)
+  Song 12 (2.35.38)
+  Song 13 (2.35.65)
+  Song 14 (2.35.116)
+  Song 15 (2.36.113)
+  Virudāvali 1 (2.19.117)
+  Virudāvali 2 (2.27.62)
+  Virudāvali 3 (2.28.38)
+  Virudāvali 4 (2.37.143-152)
