@@ -1,0 +1,1076 @@
+Книга: Stava-mala (BS)
+Адрес: https://vedarama.com/en/books/sm-bs
+Страниц сайта: 1017; заголовков: 1018; текстов: 920; картинок: 0
+Глав по MCP: 50
+Букв в исходнике: 834144; в .md: 834144
+Первый заголовок: Stava-mala (BS)
+Последний заголовок: About Bhanu Swami
+
+ЗАМЕЧАНИЯ:
+  - Пропуск/сбой нумерации: после «2» идёт «Text 4».
+  - Пропуск/сбой нумерации: после «2» идёт «Text 4».
+  - Пропуск/сбой нумерации: после «2» идёт «Text 1».
+  - Пропуск/сбой нумерации: после «4» идёт «Text 1».
+  - Пропуск/сбой нумерации: после «6» идёт «Text 5».
+  - Пропуск/сбой нумерации: после «6» идёт «1».
+  - Пропуск/сбой нумерации: после «8» идёт «1».
+  - Пропуск/сбой нумерации: после «3» идёт «Text 9».
+  - Пропуск/сбой нумерации: после «10» идёт «1».
+  - Пропуск/сбой нумерации: после «6» идёт «Text 11».
+  - Пропуск/сбой нумерации: после «12» идёт «1».
+  - Пропуск/сбой нумерации: после «10» идёт «Text 13».
+  - Пропуск/сбой нумерации: после «14» идёт «1».
+  - Пропуск/сбой нумерации: после «6» идёт «Text 15».
+  - Пропуск/сбой нумерации: после «16» идёт «1».
+  - Пропуск/сбой нумерации: после «8» идёт «Text 17».
+  - Пропуск/сбой нумерации: после «18» идёт «1».
+  - Пропуск/сбой нумерации: после «7» идёт «Text 19».
+  - Пропуск/сбой нумерации: после «20» идёт «1».
+  - Пропуск/сбой нумерации: после «4» идёт «Text 21».
+  - Пропуск/сбой нумерации: после «22» идёт «1».
+  - Пропуск/сбой нумерации: после «5» идёт «Text 23».
+  - Пропуск/сбой нумерации: после «24» идёт «1».
+  - Пропуск/сбой нумерации: после «6» идёт «Text 25».
+  - Пропуск/сбой нумерации: после «26» идёт «1».
+  - Пропуск/сбой нумерации: после «10» идёт «Text 27».
+  - Пропуск/сбой нумерации: после «28» идёт «1».
+  - Пропуск/сбой нумерации: после «3» идёт «Text 29».
+  - Пропуск/сбой нумерации: после «30» идёт «1».
+  - Пропуск/сбой нумерации: после «14» идёт «Text 31».
+  - Пропуск/сбой нумерации: после «33» идёт «1».
+  - Пропуск/сбой нумерации: после «4» идёт «Text 34».
+  - Пропуск/сбой нумерации: после «35» идёт «1».
+  - Пропуск/сбой нумерации: после «3» идёт «Text 36».
+  - Пропуск/сбой нумерации: после «37» идёт «1».
+  - Пропуск/сбой нумерации: после «6» идёт «Text 38».
+  - Пропуск/сбой нумерации: после «41» идёт «1».
+  - Пропуск/сбой нумерации: после «9» идёт «Text 42».
+  - Пропуск/сбой нумерации: после «4» идёт «Text 6».
+  - Пропуск/сбой нумерации: после «22» идёт «Text 24».
+  - Пропуск/сбой нумерации: после «1» идёт «1».
+  - Пропуск/сбой нумерации: после «7» идёт «Text 2».
+  - Пропуск/сбой нумерации: после «8» идёт «Text 10».
+  - Пропуск/сбой нумерации: после «28» идёт «Text 30».
+  - Пропуск/сбой нумерации: после «30» идёт «Text 2».
+  - Пропуск/сбой нумерации: после «2» идёт «Text 4».
+  - Пропуск/сбой нумерации: после «22» идёт «24».
+
+Оглавление выгрузки:
+Stava-mala (BS)
+  stavamālā
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+  mangalacarana
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  prathamaṁ caitanyāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  dvitīyaṁ caitanyāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  tṛtīyaṁ caitanyāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  ānanda-stotram
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+  līlāṁṛta-stotram
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+  premendu-sāgara-stotram
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+    Text 30
+    Text 31
+    Text 32
+    Text 33
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+    Text 39
+    Text 40
+    Text 41
+    Text 42
+    Text 43
+    Text 44
+    Text 45
+  keśavāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  prathamaṁ kuñjavihāryaṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  dvitīyaṁ kuñjavihāryaṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  mukundāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  vraja-navayuva-rājāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  praṇāma-praṇaya-stavaḥ
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+  hari-kusuma-stavakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+  gāthā-cchandaḥ stavaḥ
+    Text 1
+  tribhaṅgī-cchandaḥ-stavaḥ
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+  Unknown players
+    Text 1
+    Text 2
+  mukunda-muktāvalī
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+    Text 30
+  Unknown player
+  ānanda-candrikā
+    Text 1
+    Text 2
+    Text 4
+  prema-sudhāsatram
+    Text 1
+    Text 2
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+    Text 30
+    Text 31
+    Text 32
+    Text 33
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+    Text 39
+    Text 40
+    Text 41
+    Text 42
+  śrī-rādhāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  prārthanā-paddhatiḥ
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+  cāṭu-puṣpāñjaliḥ
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+  gāndharvā-prārthanāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  nāma-yugāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+  vraja-navīna-yuva-dvandvāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+  kārpaṇya-pañjikā-stotram
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+    Text 30
+    Text 31
+    Text 32
+    Text 33
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+    Text 39
+    Text 40
+    Text 41
+    Text 42
+    Text 43
+    Text 44
+    Text 45
+  utkalikā-vallariḥ
+    1
+    2
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+    Text 30
+    Text 31
+    Text 32
+    Text 33
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+    Text 39
+    Text 40
+    Text 41
+    Text 42
+    Text 43
+    Text 44
+    Text 45
+    Text 46
+    Text 47
+    Text 48
+    Text 49
+    Text 50
+    Text 51
+    Text 52
+    Text 53
+    Text 54
+    Text 55
+    Text 56
+    Text 57
+    Text 58
+    Text 59
+    Text 60
+    Text 61
+    Text 62
+    Text 63
+    Text 64
+    Text 65
+    Text 66
+    Text 67
+    Text 68
+    Text 69
+    Text 70
+  sri-sri-radha-krsnayoh kunjad vesmagamanam
+    Text 1
+    Text 2
+  srī-govinda-virudāvaliḥ
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 29
+    Text 30
+    Text 31
+    Text 32
+    Text 33
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+    Text 39
+    Text 40
+    Text 41
+    Text 42
+    Text 43
+    Text 44
+    Text 45
+    Text 46
+    Text 47
+    Text 48
+    Text 49
+    Text 50
+    Text 51
+    Text 52
+    Text 53
+    Text 54
+    Text 55
+    Text 56
+    Text 57
+    Text 58
+    Text 59
+    Text 60
+    Text 61
+    Text 62
+    Text 63
+    Text 64
+    Text 65
+    Text 66
+    Text 67
+  chando’ṣṭādaśakam
+    1
+    2
+    3
+    4
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  tatra nandotsavādi-caritam
+    1
+    2
+    3
+    4
+    5
+    6
+    Text 5
+  atha sakata-trnavarta-bhangadi
+    Text 6
+    1
+    2
+    3
+    4
+    5
+    6
+    Text 7
+  atha yamal-ārjuna bhañjanam
+    Text 8
+    1
+    2
+    3
+    Text 9
+  atha vṛndāvane vatsacāraṇādi
+    Text 10
+    1
+    2
+    3
+    4
+    5
+    6
+    Text 11
+  atha vatsa-cāraṇādi caritam
+    Text 12
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    Text 13
+  atha tālavana-caritam
+    Text 14
+    1
+    2
+    3
+    4
+    5
+    6
+    Text 15
+  atha kāliya-damanam
+    Text 16
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    Text 17
+  atha bhāṇḍīra-krīḍanādi
+    Text 18
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    Text 19
+  atha varṣā-śarad-vihā-racaritam
+    Text 20
+    1
+    2
+    3
+    4
+    Text 21
+  atha vastra-haraṇam
+    Text 22
+    1
+    2
+    3
+    4
+    5
+    Text 23
+  atha yajña-patnī-prasādaḥ
+    Text 24
+    1
+    2
+    3
+    4
+    5
+    6
+    Text 25
+  atha govardhanoddhāraṇam
+    Text 26
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    Text 27
+  atha nandāpaharaṇam
+    Text 28
+    1
+    2
+    3
+    Text 29
+  atha rāsakrīḍā
+    Text 30
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    Text 31
+    Text 32
+  atha sudarśanādi-mocanam sankhacuda-nidhanam
+    Text 33
+    1
+    2
+    3
+    4
+    Text 34
+  atha gopikā-gītam
+    Text 35
+    1
+    2
+    3
+    Text 36
+  atha ariṣṭa-vadhādi
+    Text 37
+    1
+    2
+    3
+    4
+    5
+    6
+    Text 38
+    Text 39
+    Text 40
+  atha raṅga-sthala-krīḍanam
+    Text 41
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    Text 42
+    Text 43
+    Text 44
+  līlāntara-varṇanam
+  atha govardhanoddharanam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+  atha vastra-haraṇam
+    Text 1
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    Text 2
+    Text 3
+  atha rasa krida
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+  atha svayum utprekṣita-līlā
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+    Text 15
+    Text 16
+    Text 17
+    Text 18
+    Text 19
+    Text 20
+    Text 21
+    Text 22
+    Text 23
+    Text 24
+    Text 25
+    Text 26
+    Text 27
+    Text 28
+    Text 30
+  atha khanḍitā
+    Text 2
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+  atha lalitokta-toṭakāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+  citra-kavitvāni
+  tatra yakṣarāṇi | Two letter poem
+    Text 1
+    Text 2
+    Text 3
+  ekākṣaram | A poem with one letter
+    Text 4
+  cakrabandhaḥ | The wheel poem
+    Text 5
+  sarpa-bandhaḥ | Snake poem
+    Text 6
+  padma-bandhaḥ | Lotus poem
+    Text 7
+  prātilomyānulomya samam | Read forwards and backwards with the same syllables
+    Text 8
+  go-mūtrikā-bandhaḥ | The cow’s urine
+    Text 9
+  muraja-bandhaḥ | The drum
+    Text 10
+  sarvatobhadraḥ | Auspicious diagram
+    Text 11
+  bṛhat-padma-bandhaḥ | The big Lotus
+    Text 12
+  gītāvalī
+  prathamaṁ nandotsavādi
+    1
+    2
+    3
+  vasanta-pañcamī
+    1
+    2
+  dolotsavaḥ
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+    17
+    18
+    19
+    20
+    21
+    22
+    24
+    25
+    26
+    27
+    28
+    29
+    30
+  atha rāsaḥ
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+  atha nayika-bhedah
+    1
+  tatrābhisārikā
+    1
+    2
+    3
+  atha vāsaka-sajjā
+    1
+    2
+    3
+  athotkaṇṭhitā
+    1
+    2
+    3
+  atha vipralabdhā
+    1
+    2
+    3
+  atha khaṇḍitā
+    1
+    2
+    3
+    4
+    5
+  atha kalahāntaritā
+    1
+    2
+    3
+  atha virahiṇī proṣita-preyasau
+    1
+    2
+    3
+  atha svādhīna-bhartṛkā
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    14
+    15
+    16
+    17
+    18
+    19
+    20
+    21
+  śrī lalitā-praṇāma-stotram
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  yamunāṣṭakam vā viśākhā-stotram
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  śrī mathurā-stavaḥ
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  prathamaṁ govardhanāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  dvitīyaṁ govardhanāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  śrī-vṛndāvanāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  śrī-nāmāṣṭakam
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+  About Srila Rupa Gosvami
+  Works of Srila Rupa Gosvami
+  About Srila Jiva Gosvami
+  Works of Srila Jiva Gosvami
+  About Sri Baladeva Vidyabhusana
+  Works of Sri Baladeva Vidyabhusana
+  About Bhanu Swami

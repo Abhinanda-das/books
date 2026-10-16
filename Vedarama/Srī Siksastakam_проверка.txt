@@ -1,0 +1,21 @@
+Книга: Srī Siksastakam
+Адрес: https://vedarama.com/en/books/bt-sh
+Страниц сайта: 9; заголовков: 10; текстов: 8; картинок: 0
+Глав по MCP: 9
+Букв в исходнике: 26476; в .md: 26476
+Первый заголовок: Srī Siksastakam
+Последний заголовок: Verse 8
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Srī Siksastakam
+  Introduction
+    Verse 1
+    Verse 2
+    Verse 3
+    Verse 4
+    Verse 5
+    Verse 6
+    Verse 7
+    Verse 8
