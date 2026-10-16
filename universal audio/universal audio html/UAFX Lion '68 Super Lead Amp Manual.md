@@ -51,7 +51,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--ad8bf93b72017718.png)
+<img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--ad8bf93b72017718.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.
@@ -83,7 +83,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--302c2ab937023fc3.png)
+<img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--302c2ab937023fc3.png" alt="rear-callouts-amp.png">
 </figure>
 
  
@@ -346,7 +346,7 @@ Each speaker, cabinet, and mic setting has a unique sound. Toggle up or down to 
 When you register your pedal using the UA Connect or UAFX Control apps, your free bonus EV12, D65, and V30 speaker cabinets are added to the pedal. To select these speaker cabinets, push the Cab switch until the top, middle, or bottom Cab LED is lit green.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-speaker-switch.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--a78e93c20d7d7eb4292e87ee3be2d8c0bf08fed9--e3b29fbcef87d65c.png)
+<img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--a78e93c20d7d7eb4292e87ee3be2d8c0bf08fed9--e3b29fbcef87d65c.png" alt="lion-speaker-switch.png">
 </figure>
 
 **Note:** The speaker cabinet labels on the pedal apply only when that speaker switch's LED is red. The labels when the LED is green are only visible in UAFX Control.
@@ -500,7 +500,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-fs-modes.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--827212db9d834374bc4e155cf34e9fbcf26cfb57--dd6d0e01b37ad537.png)
+<img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--827212db9d834374bc4e155cf34e9fbcf26cfb57--dd6d0e01b37ad537.png" alt="lion-fs-modes.png">
 </figure>
 
  
@@ -532,7 +532,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-fs-live-ab.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--8413fd7812b6117b5efa415ecdc595ba80436210--c617d4f8c1679513.png)
+<img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--8413fd7812b6117b5efa415ecdc595ba80436210--c617d4f8c1679513.png" alt="lion-fs-live-ab.png">
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -544,7 +544,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-fs-ab.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--3531668c134e9093f2986a29296b109b0def8956--b6acd44a6c2f24e9.png)
+<img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--3531668c134e9093f2986a29296b109b0def8956--b6acd44a6c2f24e9.png" alt="lion-fs-ab.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -556,7 +556,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-fs-abcd.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--089c08763781722554a749623cca4b604831bc96--4d7825b17c2c8c3d.png)
+<img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--089c08763781722554a749623cca4b604831bc96--4d7825b17c2c8c3d.png" alt="lion-fs-abcd.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)
@@ -610,17 +610,17 @@ When either Volume is on 0, Lion behaves as if you are plugging in to only the H
 <td style="text-align: left; width: 59.5714%;"><strong>Description</strong></td>
 </tr>
 <tr>
-<td style="width: 19.1429%">![input-routing-low.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--69541afdf90c7f35a381598809cabbfd41124fff--ad24bec896e3327b.png)</td>
+<td style="width: 19.1429%"><img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--69541afdf90c7f35a381598809cabbfd41124fff--ad24bec896e3327b.png" alt="input-routing-low.png"></td>
 <td style="text-align: center; width: 21.1429%;">LOW</td>
 <td style="text-align: left; width: 59.5714%;">Y cable into Low inputs. Cleaner, slightly darker sound. When only one Volume is turned up, you get the sound of only that channel on the Low input. When both channels are above 0, you get the sound of a Y cable plugged into both Low inputs.</td>
 </tr>
 <tr>
-<td style="width: 19.1429%">![input-routing-hi.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--77e1cd69dff8743cdc27ae94fc3f187e94c4c6cd--669c0be63e595c52.png)</td>
+<td style="width: 19.1429%"><img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--77e1cd69dff8743cdc27ae94fc3f187e94c4c6cd--669c0be63e595c52.png" alt="input-routing-hi.png"></td>
 <td style="text-align: center; width: 21.1429%;">HIGH</td>
 <td style="text-align: left; width: 59.5714%;">Y cable into High inputs. Brighter sound, with more gain and edge. When only one Volume is turned up, you get the sound of only that channel on the High input. When both Volumes are above 0, you get the sound of a Y cable plugged into both High inputs.</td>
 </tr>
 <tr>
-<td style="width: 19.1429%">![input-routing-jump.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--83501935e45f01aedcc118be701af1340b5d3c84--c28476239567f951.png)</td>
+<td style="width: 19.1429%"><img src="../../attachments/uafx-lion-68-super-lead-amp-manual_assets--83501935e45f01aedcc118be701af1340b5d3c84--c28476239567f951.png" alt="input-routing-jump.png"></td>
 <td style="text-align: center; width: 21.1429%;">JUMP</td>
 <td style="text-align: left; width: 59.5714%;">Replicates the exact signal path of plugging into High input I, and connecting a short patch cable ("jumping") from the Low input of Channel I into the High input of Channel II. Adds some circuit coloration and attenuation to Channel II. Subtle but noticeable tonal differences with the Jump setting include less treble and slightly less gain from Volume II.</td>
 </tr>

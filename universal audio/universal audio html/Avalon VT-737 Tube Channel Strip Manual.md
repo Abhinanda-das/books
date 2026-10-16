@@ -173,7 +173,7 @@ The available preamp gain range depends on INPUT SELECT setting, as follows.
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 59.75px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
+<td style="width: 59.75px"><img src="../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png" alt="unison-icon1.png"></td>
 <td style="width: 617.25px"><h4 id="h_01HDME8MHS1BVAPWKFFKTBZQNB">Apollo Unison Interactions</h4></td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ This control interacts with the Preamp Gain control. The gain range and amount o
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 56.8594px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
+<td style="width: 56.8594px"><img src="../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png" alt="unison-icon1.png"></td>
 <td style="width: 620.141px"><h4 id="h_01HDMETJPXWP0XTDJ7WFJT6AM7">Apollo Unison Interactions</h4></td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ When Input Select is set to LINE, preamp gain is increased by +8 dB. When Input 
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 56.8828px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
+<td style="width: 56.8828px"><img src="../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png" alt="unison-icon1.png"></td>
 <td style="width: 620.117px"><h4 id="h_01HDMEX9H25XWY668GEYHF5EG4">Apollo Unison Interaction</h4></td>
 </tr>
 <tr>
@@ -256,7 +256,7 @@ Pad is available with the plug-in only; the feature is not available on the orig
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 50.1094px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
+<td style="width: 50.1094px"><img src="../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png" alt="unison-icon1.png"></td>
 <td style="width: 626.891px"><h4 id="h_01HDMF2K01FBJFMF6KXYJJH7GT">Apollo Unison Interactions</h4></td>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ This switch enables the 6 dB per octave high-pass input filter. The input filter
 </colgroup>
 <tbody>
 <tr>
-<td>![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
+<td><img src="../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png" alt="unison-icon1.png"></td>
 <td><h4 id="h_01HDMF2K01F37HWQXX9A0GW6QJ">Apollo Unison Interaction</h4></td>
 </tr>
 <tr>
@@ -310,7 +310,7 @@ When more than one microphone is used to record a single source, inverting the p
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 52.0625px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
+<td style="width: 52.0625px"><img src="../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png" alt="unison-icon1.png"></td>
 <td style="width: 624.938px"><h4 id="h_01HDMF2K01KEWF7FS0M5T6JV2Y">Apollo Unison Interaction</h4></td>
 </tr>
 <tr>

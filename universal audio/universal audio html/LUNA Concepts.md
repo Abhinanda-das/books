@@ -63,7 +63,7 @@ If you do not have an Apollo connected, LUNA automatically starts in Core Audio 
 - At the bottom left of the LUNA screen, click on the info area to open the Audio Settings popover, and choose Apollo or Core Audio.
 
 <figure class="wysiwyg-image">
-![select-apollo-core-audio-in-luna.png](../../attachments/luna-concepts_assets--4de7d1585bf9cb139c0215f3a516e9d6f4ff600e--a66c04d5a8c72de7.png)
+<img src="../../attachments/luna-concepts_assets--4de7d1585bf9cb139c0215f3a516e9d6f4ff600e--a66c04d5a8c72de7.png" alt="select-apollo-core-audio-in-luna.png">
 </figure>
 
 ## ASIO Mode
@@ -77,7 +77,7 @@ If you do not have an Apollo connected, LUNA automatically starts in ASIO mode.
 - At the bottom left of the LUNA screen, click on the info area to open the Audio Settings popover, and choose Apollo or ASIO.
 
 <figure class="wysiwyg-image">
-![apollo-asio-choose.png](../../attachments/luna-concepts_assets--8d1b865f6751358688cc1e9019b83afa4b357a14--bf52ec2c21caea56.png)
+<img src="../../attachments/luna-concepts_assets--8d1b865f6751358688cc1e9019b83afa4b357a14--bf52ec2c21caea56.png" alt="apollo-asio-choose.png">
 </figure>
 
 ------------------------------------------------------------------------
@@ -155,7 +155,7 @@ LUNA's Multitrack Tape sounds, courtesy of the included Oxide LUNA Extension and
 You can even mix-and-match up to four tape machines total, harnessing different tape formulas, tape speeds, and per-track controls for Bias, Repro, and Tone. It's a tape-head's delight — perfect for gluing together your mixes.
 
 <figure class="wysiwyg-image">
-![tape-channel-expanded-alt.png](../../attachments/luna-concepts_assets--3f9102e2726fecb798b18ca64400c96fe1b5986e--c2f12c07a4104494.png)
+<img src="../../attachments/luna-concepts_assets--3f9102e2726fecb798b18ca64400c96fe1b5986e--c2f12c07a4104494.png" alt="tape-channel-expanded-alt.png">
 </figure>
 
 ## Integrated Master Tape
@@ -163,7 +163,7 @@ You can even mix-and-match up to four tape machines total, harnessing different 
 LUNA’s Master Tape sounds are provided by the Ampex ATR-102 Extension, which can be applied on bus tracks and on the Main track. Master Tape allows you to configure separate machines with different presets or settings on each bus and the main track, allowing deep flexibility in the mixing stage. You can set the tape machine as pre or post-fader, configure tape speed, tape head width, and tape formula directly on each bus track and on the main track. From the tape browser, you can configure the record and reproduce level, and configure bias settings, EQ, and enable noise.
 
 <figure class="wysiwyg-image">
-![master-tape-action-alt.png](../../attachments/luna-concepts_assets--5fc0a20e8b3e63758cf638a1155f65fe572ae7d3--38010c7bed75c993.png)
+<img src="../../attachments/luna-concepts_assets--5fc0a20e8b3e63758cf638a1155f65fe572ae7d3--38010c7bed75c993.png" alt="master-tape-action-alt.png">
 </figure>
 
 ## Console Summing
@@ -171,7 +171,7 @@ LUNA’s Master Tape sounds are provided by the Ampex ATR-102 Extension, which c
 LUNA includes optional Neve® Summing and API Summing LUNA Extensions. These extensions impart the sound and feel of meticulously modeled consoles into the fabric of the LUNA mixer, on bus tracks and the Main track. Console Summing LUNA Extensions change the behavior and appearance of the LUNA buses and Main track to display accurate fader tapers. When you route tracks to a bus with a summing model enabled, the fader tapers of the bus or Main track and the source tracks change.
 
 <figure class="wysiwyg-image">
-![summing-bus-source-track-taper.png](../../attachments/luna-concepts_assets--078f75ed3b8b9413a79ea7efe391780340b7effc--ff9632fcaa86a381.png)
+<img src="../../attachments/luna-concepts_assets--078f75ed3b8b9413a79ea7efe391780340b7effc--ff9632fcaa86a381.png" alt="summing-bus-source-track-taper.png">
 </figure>
 
 ### Built-in Neve® Summing
@@ -219,7 +219,7 @@ The Shape and Spitfire Audio UAD instruments are exclusive to LUNA Recording Sys
 A comprehensive creative toolkit included free with LUNA, Shape is a painstakingly curated UAD Instrument featuring a collection of the best vintage keys, drums/percussion, guitar/bass, orchestral content, and real time synthesis - courtesy of Universal Audio, Spitfire Audio, Orange Tree Samples, Loops de la Creme, and more. You can expand Shape with more content and sample packs.
 
 <figure class="wysiwyg-image">
-![shape-new.png](../../attachments/luna-concepts_assets--6abf7e17b734a4cd3274342a1d63f81c6cfceeb4--568aae633b56f71d.png)
+<img src="../../attachments/luna-concepts_assets--6abf7e17b734a4cd3274342a1d63f81c6cfceeb4--568aae633b56f71d.png" alt="shape-new.png">
 </figure>
 
 ## About UAD instruments documentation
@@ -288,13 +288,13 @@ In LUNA, many operations open a Focus Browser at the left of the screen. For exa
 The default view of the Focus Browser shows Tracks, Plug-Ins, and Presets in a tabbed view. For more information, see [Using LUNA](360041440592-Using-LUNA.html) .
 
 <figure class="wysiwyg-image">
-![tracks-browser-callouts.png](../../attachments/luna-concepts_assets--0a259e947f142d4f7ee19cf1078179b2f772b23c--fc39477fca40068a.png)
+<img src="../../attachments/luna-concepts_assets--0a259e947f142d4f7ee19cf1078179b2f772b23c--fc39477fca40068a.png" alt="tracks-browser-callouts.png">
 </figure>
 
 With a Focus Browser, you typically make a choice. For example, you choose an input to use for a track, or a preset to use with a plug-in.
 
 <figure class="wysiwyg-image">
-![general-browser-callouts-2x.png](../../attachments/luna-concepts_assets--36b71fdbad12f1ca0e62079bc33c4e8651617c54--8f99a0603ca18d0b.png)
+<img src="../../attachments/luna-concepts_assets--36b71fdbad12f1ca0e62079bc33c4e8651617c54--8f99a0603ca18d0b.png" alt="general-browser-callouts-2x.png">
 </figure>
 
 ## Expanding and collapsing folders in the Focus Browser

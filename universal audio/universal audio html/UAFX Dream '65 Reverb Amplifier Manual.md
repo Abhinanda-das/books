@@ -40,7 +40,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--39c2dcb00f168aa5.png)
+<img src="../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--39c2dcb00f168aa5.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.
@@ -135,7 +135,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here</span>](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--96a236e9548a8e76.png)
+<img src="../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--96a236e9548a8e76.png" alt="rear-callouts-amp.png">
 </figure>
 
  
@@ -554,7 +554,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![dream-fs-modes.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--eed79b4336386037fc2300e9250ac6270f803c4f--417f3612fac09343.png)
+<img src="../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--eed79b4336386037fc2300e9250ac6270f803c4f--417f3612fac09343.png" alt="dream-fs-modes.png">
 </figure>
 
 The following Dream '65 footswitch modes can be selected with the UAFX Control app.
@@ -633,7 +633,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![dream-fs-live-ab.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--b8d2723223607f2fa0e83c56e9fcd3e848897f01--f125170ad5288793.png)
+<img src="../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--b8d2723223607f2fa0e83c56e9fcd3e848897f01--f125170ad5288793.png" alt="dream-fs-live-ab.png">
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -645,7 +645,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![dream-ab.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--945d8bf70d258071d6175ea90bb0fbafaaa5700b--2132eeef7cb7d6ba.png)
+<img src="../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--945d8bf70d258071d6175ea90bb0fbafaaa5700b--2132eeef7cb7d6ba.png" alt="dream-ab.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -657,7 +657,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![dream-fs-abcd.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--aa37dddbc96deeb795125d9da04bd5a66fd66c79--a8103648412840b5.png)
+<img src="../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--aa37dddbc96deeb795125d9da04bd5a66fd66c79--a8103648412840b5.png" alt="dream-fs-abcd.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)

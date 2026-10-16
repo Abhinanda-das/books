@@ -151,7 +151,7 @@ The SOURCE rotary switch provides an attenuation pad for the input signal. When 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;"><img src="../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png" alt="unison-icon1.png"></td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWPMMJG8X1YKKVKX9D0">Apollo Unison Interactions</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -181,7 +181,7 @@ The Low Cut filter has a gentle slope of 6 dB per octave with minimal phase shif
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;"><img src="../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png" alt="unison-icon1.png"></td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWPQX1MC6H8ESKX26VP">Apollo Unison Interactions</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -211,7 +211,7 @@ Polarity inversion can help reduce phase cancellations when more than one microp
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;"><img src="../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png" alt="unison-icon1.png"></td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWQVBA5HYADW80TW06R">Apollo Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -238,7 +238,7 @@ The available range is 0 to 10 but values are arbitrary. Rotate the knob counter
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;"><img src="../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png" alt="unison-icon1.png"></td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWQ0QGHA8PD034DMJ17">Apollo Unison Interactions</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -268,7 +268,7 @@ GAIN values of 40, 45, 50, 55, and 60 dB are available.
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;"><img src="../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png" alt="unison-icon1.png"></td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWQHWDH31JC8SSNEH81">Apollo Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -502,7 +502,7 @@ This control, which does not exist on the original hardware, facilitates the abi
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;"><img src="../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png" alt="unison-icon1.png"></td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWQ4GD17JNC0WVZGPYD">Apollo Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">

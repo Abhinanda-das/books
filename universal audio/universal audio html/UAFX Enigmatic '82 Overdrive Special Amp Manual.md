@@ -78,7 +78,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--569a41d554c0a3f9.png)
+<img src="../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--569a41d554c0a3f9.png" alt="rear-callouts-amp.png">
 </figure>
 
 ------------------------------------------------------------------------
@@ -572,7 +572,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![enigmatic-all-fs-modes.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--49f4ff5026cb15c9c8184c4eaff3657e04287095--7f25eaa98ffff7f1.png)
+<img src="../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--49f4ff5026cb15c9c8184c4eaff3657e04287095--7f25eaa98ffff7f1.png" alt="enigmatic-all-fs-modes.png">
 </figure>
 
  
@@ -626,7 +626,7 @@ In Overdrive \| Preamp Boost mode, you can toggle the Overdrive channel and the 
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![enigmatic-fs-live-off-ab.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--8b9eefb68a340b594f5df737c3f9048495697067--e51d66c65100d56b.png)
+<img src="../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--8b9eefb68a340b594f5df737c3f9048495697067--e51d66c65100d56b.png" alt="enigmatic-fs-live-off-ab.png">
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -638,7 +638,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![enigmatic-fs-ab-off.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--09ead1993149a91387402e2e5723bbf6b6fbcd04--27542c99b50a1877.png)
+<img src="../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--09ead1993149a91387402e2e5723bbf6b6fbcd04--27542c99b50a1877.png" alt="enigmatic-fs-ab-off.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -650,7 +650,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![enigmatic-fs-abcd.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--ddc3a323900a5f303033205a7f95cd9f1d7d9598--5e81a38f43fcd4a5.png)
+<img src="../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--ddc3a323900a5f303033205a7f95cd9f1d7d9598--5e81a38f43fcd4a5.png" alt="enigmatic-fs-abcd.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)

@@ -22,7 +22,7 @@ UAD Console remotely controls the digital mixing and signal processing functions
 ![console-icon.png](../../attachments/uad-console-overview_assets--31a99b2e0b37d2aa334fe5a99628e7c892223396--2c665ecd78cef95f.png)
 
 <figure class="wysiwyg-image">
-![console-callouts.png](../../attachments/uad-console-overview_assets--0f812ccdb61b541626f6645a42ce46a7a1babd1b--4bee116d2fd02a90.png)
+<img src="../../attachments/uad-console-overview_assets--0f812ccdb61b541626f6645a42ce46a7a1babd1b--4bee116d2fd02a90.png" alt="console-callouts.png">
 </figure>
 
 *UAD Console's application icon and main window*
@@ -93,7 +93,7 @@ Any of the methods below can be used to open the UAD Console application.
 - Click the UA diamond logo in the Menu Bar (upper right of screen) then choose Console from the drop menu
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 40%;">
-![console-menu.png](../../attachments/uad-console-overview_assets--193a43978140ac6b8f0166033a1b1b154578dc67--bcb4e2dd8537f171.png)
+<img src="../../attachments/uad-console-overview_assets--193a43978140ac6b8f0166033a1b1b154578dc67--bcb4e2dd8537f171.png" alt="console-menu.png">
 </figure>
 
 *Accessing UAD Console from the macOS Menu Bar*

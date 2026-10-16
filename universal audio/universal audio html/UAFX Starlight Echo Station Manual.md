@@ -44,7 +44,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure style="width: 25%;">
-<p>![bill-putnam-jr-signature.png](../../attachments/uafx-starlight-echo-station-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--06b01d9c0e9ace8b.png)</p>
+<p><img src="../../attachments/uafx-starlight-echo-station-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--06b01d9c0e9ace8b.png" alt="bill-putnam-jr-signature.png"></p>
 </figure>
 
 Bill Putnam Jr.
@@ -60,7 +60,7 @@ Bill Putnam Jr.
 <div>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![callouts-starlight.png](../../attachments/uafx-starlight-echo-station-manual_assets--53619acad0152430ffb1d4e963d0aee8761d0345--30def6d3b0e1b05a.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--53619acad0152430ffb1d4e963d0aee8761d0345--30def6d3b0e1b05a.png" alt="callouts-starlight.png">
 </figure>
 
 </div>
@@ -144,7 +144,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-non-amp.png](../../attachments/uafx-starlight-echo-station-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--71232b6528175d51.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--71232b6528175d51.png" alt="rear-callouts-non-amp.png">
 </figure>
 
  
@@ -190,7 +190,7 @@ When the preset is on, the right footswitch LED blinks green with the preset tem
 <div>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 60%;">
-![starlight-switches-preset-on.png](../../attachments/uafx-starlight-echo-station-manual_assets--18c32ac6e8a3ef10532e8fffa115d24fc1c0c765--6ac7fc600befe021.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--18c32ac6e8a3ef10532e8fffa115d24fc1c0c765--6ac7fc600befe021.png" alt="starlight-switches-preset-on.png">
 </figure>
 
 </div>
@@ -234,7 +234,7 @@ Starlight's right footswitch has three available settings:
 <div>
 
 <figure class="wysiwyg-image">
-![footswitch-state-preset-tap.png](../../attachments/uafx-starlight-echo-station-manual_assets--5bbef7b5e87a3dc5d88f5e22e5e4e37bbb0b12a8--ed2ab9090be47586.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--5bbef7b5e87a3dc5d88f5e22e5e4e37bbb0b12a8--ed2ab9090be47586.png" alt="footswitch-state-preset-tap.png">
 </figure>
 
 </div>
@@ -252,7 +252,7 @@ When set to Preset + Tap, the right footswitch performs multiple functions.
 <div>
 
 <figure class="wysiwyg-image">
-![footswitch-state-preset.png](../../attachments/uafx-starlight-echo-station-manual_assets--65df200d2b5a25d9485c8532c145427c3635f093--b51cd8c5235a831f.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--65df200d2b5a25d9485c8532c145427c3635f093--b51cd8c5235a831f.png" alt="footswitch-state-preset.png">
 </figure>
 
 </div>
@@ -264,7 +264,7 @@ When set to preset, the right footswitch immediately loads the preset with its s
 <div>
 
 <figure class="wysiwyg-image">
-![footswitch-state-tap.png](../../attachments/uafx-starlight-echo-station-manual_assets--f12d04f9dbda91a258e886ca18a6ceda58c227c1--073a628e5238be32.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--f12d04f9dbda91a258e886ca18a6ceda58c227c1--073a628e5238be32.png" alt="footswitch-state-tap.png">
 </figure>
 
 </div>
@@ -299,7 +299,7 @@ Starlight Echo Station effect bypass routing can be set for true bypass or trail
 <div>
 
 <figure class="wysiwyg-image">
-![tbp-starlight.png](../../attachments/uafx-starlight-echo-station-manual_assets--0c7404b3a79fd0325303fee56dfba11e62658cdc--bc2292d1d027b674.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--0c7404b3a79fd0325303fee56dfba11e62658cdc--bc2292d1d027b674.png" alt="tbp-starlight.png">
 </figure>
 
 </div>
@@ -313,7 +313,7 @@ When set for true bypass and the effect is on, the dry signal remains analog dry
 <div>
 
 <figure class="wysiwyg-image">
-![bbp-starlight.png](../../attachments/uafx-starlight-echo-station-manual_assets--e182d2f23e0869ce7838f54444fdeabca27c53e4--91fa590847fc8c10.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--e182d2f23e0869ce7838f54444fdeabca27c53e4--91fa590847fc8c10.png" alt="bbp-starlight.png">
 </figure>
 
 </div>
@@ -429,7 +429,7 @@ Sets the division of the tempo. The right footswitch LED always blinks the tempo
 - Dual: quarter note + eighth note
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![starlight-divisions.png](../../attachments/uafx-starlight-echo-station-manual_assets--ac52d44f9b93830348bd30071d6dbbe034ad4351--2bc78375c397a97b.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--ac52d44f9b93830348bd30071d6dbbe034ad4351--2bc78375c397a97b.png" alt="starlight-divisions.png">
 </figure>
 
 <div>
@@ -513,7 +513,7 @@ A glorious system of motors and tape, vintage early-'70s tape echo units are bey
 <div>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![map-starlight-ep-iii.png](../../attachments/uafx-starlight-echo-station-manual_assets--78128fbbadf5eb1b4bbd6b98873faab5a4161c59--169d74e37c017445.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--78128fbbadf5eb1b4bbd6b98873faab5a4161c59--169d74e37c017445.png" alt="map-starlight-ep-iii.png">
 </figure>
 
 </div>
@@ -756,7 +756,7 @@ This additional effect is available after you register your Starlight Echo Stati
 <div>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 35%;">
-![starlight-select-leds.png](../../attachments/uafx-starlight-echo-station-manual_assets--fcb7b2fe2b528230dd7229c1094ce655ed75a168--5407bd9d982cf233.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--fcb7b2fe2b528230dd7229c1094ce655ed75a168--5407bd9d982cf233.png" alt="starlight-select-leds.png">
 </figure>
 
 </div>
@@ -766,7 +766,7 @@ This additional effect is available after you register your Starlight Echo Stati
 <div>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![map-starlight-ctc.png](../../attachments/uafx-starlight-echo-station-manual_assets--a295e50e0d6dd7241607b4a35bb814bfed6ae61a--48f0e23675f657b5.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--a295e50e0d6dd7241607b4a35bb814bfed6ae61a--48f0e23675f657b5.png" alt="map-starlight-ctc.png">
 </figure>
 
 </div>
@@ -857,7 +857,7 @@ Tap Settings at the bottom right of the screen to access the settings for a peda
 After registration, the Cooper Time Cube delay is added to the pedal. To select this effect, push the Effect Type switch until the top LED is lit green.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 35%;">
-![starlight-select-leds.png](../../attachments/uafx-starlight-echo-station-manual_assets--fcb7b2fe2b528230dd7229c1094ce655ed75a168--5407bd9d982cf233.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--fcb7b2fe2b528230dd7229c1094ce655ed75a168--5407bd9d982cf233.png" alt="starlight-select-leds.png">
 </figure>
 
 ## Configuring Bypass Routing
@@ -924,7 +924,7 @@ When preamp coloration is on and bypass routing is set for trails bypass, the dr
 ### MIDI Clock Mode
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![starlight-midi-clock-mode.png](../../attachments/uafx-starlight-echo-station-manual_assets--61e1aa256991868e6a3d5d9d73575b80f1eb5cdb--636bd4bc32046adb.png)
+<img src="../../attachments/uafx-starlight-echo-station-manual_assets--61e1aa256991868e6a3d5d9d73575b80f1eb5cdb--636bd4bc32046adb.png" alt="starlight-midi-clock-mode.png">
 </figure>
 
 You can set a MIDI Clock mode for Starlight. This allows Starlight to sync to MIDI clock. Note that with multiple UAFX pedals that are synced to MIDI clock, only one pedal should be designated as the leader, and other pedals should be designated as followers. 

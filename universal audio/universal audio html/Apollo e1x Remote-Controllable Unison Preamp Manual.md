@@ -10,11 +10,11 @@ word_count: 5368
 
 
 <figure class="wysiwyg-image">
-![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--4cdc530b8625a9f7c327cc6d69c13b669d140c9b--9fe510ed2c25cf21.png)
+<img src="../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--4cdc530b8625a9f7c327cc6d69c13b669d140c9b--9fe510ed2c25cf21.png" alt="">
 </figure>
 
 <figure class="wysiwyg-image">
-![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--aefe7ab35b38060e4369a08d3cf2cf4cc359277c--82495c01cd913c12.png)
+<img src="../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--aefe7ab35b38060e4369a08d3cf2cf4cc359277c--82495c01cd913c12.png" alt="">
 </figure>
 
 ## Put Unison preamps on stage or in your studio with Dante
@@ -117,8 +117,8 @@ UAD Console selects the mic or line input according to the cable that is connect
 <table style="border-collapse: collapse;">
 <tbody>
 <tr>
-<td style="width: 50%">![Apollo_e1x_Front_Mic_Input.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--f2c7a21a15dd3a185e74e848c7c3bc96ed3c3896--b44f19319e3e0821.png)</td>
-<td style="width: 50%">![Apollo_e1x_Rear_Dante_Input.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--a3aada8a970c6b3d7dd8add34ca273e17ba093a7--3eb5376154748421.png)</td>
+<td style="width: 50%"><img src="../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--f2c7a21a15dd3a185e74e848c7c3bc96ed3c3896--b44f19319e3e0821.png" alt="Apollo_e1x_Front_Mic_Input.png"></td>
+<td style="width: 50%"><img src="../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--a3aada8a970c6b3d7dd8add34ca273e17ba093a7--3eb5376154748421.png" alt="Apollo_e1x_Rear_Dante_Input.png"></td>
 </tr>
 </tbody>
 </table>
@@ -127,7 +127,7 @@ UAD Console selects the mic or line input according to the cable that is connect
  
 
 <figure class="wysiwyg-image">
-![apollo_e1x_bottom.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--05aaee12443bd4ff506c3b3071dfee5775d7ed47--9fb1194fc1ddf27f.png)
+<img src="../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--05aaee12443bd4ff506c3b3071dfee5775d7ed47--9fb1194fc1ddf27f.png" alt="apollo_e1x_bottom.png">
 </figure>
 
 ------------------------------------------------------------------------
@@ -252,7 +252,7 @@ In the apollo \| e window, you can:
 - View and reset network settings (if desired) for devices: click Network Settings.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![apollo-e-tab.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--84bfc6bf141f80f47119affa25178093711505cf--ddd08c0521ebf425.png)
+<img src="../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--84bfc6bf141f80f47119affa25178093711505cf--ddd08c0521ebf425.png" alt="apollo-e-tab.png">
 </figure>
 
 ## Adjusting Apollo e1x preamp settings
@@ -277,8 +277,8 @@ Apollo e1x devices routed to adjacent (odd/even) Apollo x16D channels can be lin
 <table>
 <tbody>
 <tr>
-<td style="text-align: center; vertical-align: top;">![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--f41f335e795ccc974cf65a8c6e0d4d5198046610--87ac7565bc55f8ef.png)</td>
-<td style="text-align: center; vertical-align: top;">![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--b883ca8967698e571416e2f8d65199344e20bb83--d29ccf4028360be1.png)</td>
+<td style="text-align: center; vertical-align: top;"><img src="../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--f41f335e795ccc974cf65a8c6e0d4d5198046610--87ac7565bc55f8ef.png" alt=""></td>
+<td style="text-align: center; vertical-align: top;"><img src="../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--b883ca8967698e571416e2f8d65199344e20bb83--d29ccf4028360be1.png" alt=""></td>
 </tr>
 </tbody>
 </table>

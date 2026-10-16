@@ -42,7 +42,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-flow-vintage-tremolo-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--3311a7b12d3e8d4a.png)
+<img src="../../attachments/uafx-flow-vintage-tremolo-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--3311a7b12d3e8d4a.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.

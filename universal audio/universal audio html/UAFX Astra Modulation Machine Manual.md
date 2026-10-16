@@ -48,7 +48,7 @@ Sincerely,
 <div layout="align-start" node-type="mediaSingle" data-width="40">
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left">
-![bill-putnam-jr-signature.png](../../attachments/uafx-astra-modulation-machine-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--4fd0496477758bb7.png)
+<img src="../../attachments/uafx-astra-modulation-machine-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--4fd0496477758bb7.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 </div>
@@ -114,7 +114,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here</span>](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-non-amp.png](../../attachments/uafx-astra-modulation-machine-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--02ad848497aaa70c.png)
+<img src="../../attachments/uafx-astra-modulation-machine-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--02ad848497aaa70c.png" alt="rear-callouts-non-amp.png">
 </figure>
 
 ------------------------------------------------------------------------
@@ -132,7 +132,7 @@ To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here<
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the live effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-on-led.png](../../attachments/uafx-astra-modulation-machine-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--1e999dfd0415bd16.png)
+<img src="../../attachments/uafx-astra-modulation-machine-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--1e999dfd0415bd16.png" alt="golden-switches-on-led.png">
 </figure>
 
 ### Preset Mode
@@ -178,7 +178,7 @@ Astra’s right footswitch has two available settings:
 ### Preset
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![astra-fs-preset.png](../../attachments/uafx-astra-modulation-machine-manual_assets--37c76aca54332311105ed1e536f57ab99d05cf7f--913c15ff74d44bb5.png)
+<img src="../../attachments/uafx-astra-modulation-machine-manual_assets--37c76aca54332311105ed1e536f57ab99d05cf7f--913c15ff74d44bb5.png" alt="astra-fs-preset.png">
 </figure>
 
 When set to Preset, the right footswitch immediately loads the preset with its stored tempo, and toggles the preset on/off. Tap tempo is unavailable with this setting.
@@ -188,7 +188,7 @@ When set to Preset, the right footswitch immediately loads the preset with its s
 <div layout="center" node-type="mediaSingle" data-width="">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![astra-fs-preset-tap.png](../../attachments/uafx-astra-modulation-machine-manual_assets--b05e95253a4c2296e0ffdf452e6701fc49cd49c0--f2943afded734d3b.png)
+<img src="../../attachments/uafx-astra-modulation-machine-manual_assets--b05e95253a4c2296e0ffdf452e6701fc49cd49c0--f2943afded734d3b.png" alt="astra-fs-preset-tap.png">
 </figure>
 
 </div>
@@ -875,7 +875,7 @@ Under Right footswitch, tap Preset or Preset + Tap.
 ### Preset
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![astra-fs-preset.png](../../attachments/uafx-astra-modulation-machine-manual_assets--37c76aca54332311105ed1e536f57ab99d05cf7f--913c15ff74d44bb5.png)
+<img src="../../attachments/uafx-astra-modulation-machine-manual_assets--37c76aca54332311105ed1e536f57ab99d05cf7f--913c15ff74d44bb5.png" alt="astra-fs-preset.png">
 </figure>
 
 When set to Preset, the right footswitch immediately loads the preset with its stored tempo, and toggles the preset on/off. Tap tempo is unavailable with this setting.
@@ -883,7 +883,7 @@ When set to Preset, the right footswitch immediately loads the preset with its s
 ### Preset + Tap
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![astra-fs-preset-tap.png](../../attachments/uafx-astra-modulation-machine-manual_assets--b05e95253a4c2296e0ffdf452e6701fc49cd49c0--f2943afded734d3b.png)
+<img src="../../attachments/uafx-astra-modulation-machine-manual_assets--b05e95253a4c2296e0ffdf452e6701fc49cd49c0--f2943afded734d3b.png" alt="astra-fs-preset-tap.png">
 </figure>
 
 When set to Preset + Tap, the right footswitch performs multiple functions.
@@ -897,7 +897,7 @@ When set to Preset + Tap, the right footswitch performs multiple functions.
 ### MIDI Clock Mode
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![sstra-midi-clock-mode.png](../../attachments/uafx-astra-modulation-machine-manual_assets--5615928f4f2fb7300ee16e88c48de00bfdf66f9c--bc35ddbe42adc88f.png)
+<img src="../../attachments/uafx-astra-modulation-machine-manual_assets--5615928f4f2fb7300ee16e88c48de00bfdf66f9c--bc35ddbe42adc88f.png" alt="sstra-midi-clock-mode.png">
 </figure>
 
 You can set a MIDI Clock mode for Astra. This allows Astra to sync to MIDI clock. Note that with multiple UAFX pedals that are synced to MIDI clock, only one pedal should be designated as the leader, and other pedals should be designated as followers. 

@@ -35,7 +35,7 @@ UA Connect and UAFX Control are the companion software apps for UAFX pedals. To 
 These reference sheets, which are included in the box, provide a brief description of UAFX controls. For complete control details, see the <a href="../sections/360012250151-UAFX-Documentation.html" rel="noopener noreferrer" target="_blank">UAFX manuals</a>.
 
 <figure class="wysiwyg-image">
-![UAFX_Golden_QuickStart_Thumb_Detail.png](../../attachments/uafx-pedal-downloads_assets--de81cc0ad08958a471d70aaab91ed9d57af54e9d--0e36126700b75c62.png)
+<img src="../../attachments/uafx-pedal-downloads_assets--de81cc0ad08958a471d70aaab91ed9d57af54e9d--0e36126700b75c62.png" alt="UAFX_Golden_QuickStart_Thumb_Detail.png">
 </figure>
 
 #### Amp Pedals
@@ -72,7 +72,7 @@ These reference sheets, which are included in the box, provide a brief descripti
 Some UAFX pedals have knobs and switches that control more than one function. The UAFX control maps provide a convenient visual reference for these pedals. For complete effect details, see the <a href="../sections/360012250151-UAFX-Documentation.html" rel="noopener noreferrer" target="_blank">UAFX manuals</a>.
 
 <figure class="wysiwyg-image">
-![astra-effect-control-maps.png](../../attachments/uafx-pedal-downloads_assets--25fdd5866be85b47ec8efdbb62f7ee893f52a330--cab91716d12285bf.png)
+<img src="../../attachments/uafx-pedal-downloads_assets--25fdd5866be85b47ec8efdbb62f7ee893f52a330--cab91716d12285bf.png" alt="astra-effect-control-maps.png">
 </figure>
 
 #### Effect Pedals
@@ -95,7 +95,7 @@ Some UAFX pedals have knobs and switches that control more than one function. Th
 The UAFX recall sheets are blank templates you can use to sketch your own settings.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![astra-recall-sheet.png](../../attachments/uafx-pedal-downloads_assets--7ab7a65dc78e1d9c2aa266dad4c89e465c723d0b--fe94181c53b24155.png)
+<img src="../../attachments/uafx-pedal-downloads_assets--7ab7a65dc78e1d9c2aa266dad4c89e465c723d0b--fe94181c53b24155.png" alt="astra-recall-sheet.png">
 </figure>
 
 #### Effect Pedals

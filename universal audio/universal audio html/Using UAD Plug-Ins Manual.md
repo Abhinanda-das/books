@@ -43,7 +43,7 @@ DSP and native plug-ins sound the same, and offer the ability to copy and paste 
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: center; width: 130px; vertical-align: middle;">![NKS-logo-black.png](../../attachments/using-uad-plug-ins-manual_assets--bc3d1f07dfec34c44528c3edae60214c01b881dc--05595f3565003ae8.png)</td>
+<td style="text-align: center; width: 130px; vertical-align: middle;"><img src="../../attachments/using-uad-plug-ins-manual_assets--bc3d1f07dfec34c44528c3edae60214c01b881dc--05595f3565003ae8.png" alt="NKS-logo-black.png"></td>
 <td style="text-align: left; vertical-align: top;"><p>All native UAD plug-ins and instruments are NKS-compatible, for deep integration with Native Instruments KOMPLETE KONTROL and MASCHINE series hardware and software. Presets and sound previews appear in NI’s powerful tag-based browsers, and all parameters are intelligently pre-mapped across the control knobs on supported NKS hardware.</p>
 <p>For more details, see <a href="41807112025364-FAQ-How-to-Use-UAD-Native-Plug-Ins-with-NKS-Compatible-Controllers.html">this article</a>.</p></td>
 </tr>

@@ -154,7 +154,7 @@ MCU-compatible control surfaces use standardized controls for the system transpo
 <div layout="center" node-type="mediaSingle" data-width="">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![surface-transport-controls.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--f45fab25c2e02d2deefbb62e162cf92b20559bbf--26ae31eeea98a1ec.png)
+<img src="../../attachments/using-mcu-control-surfaces-with-luna_assets--f45fab25c2e02d2deefbb62e162cf92b20559bbf--26ae31eeea98a1ec.png" alt="surface-transport-controls.png">
 </figure>
 
 </div>
@@ -376,7 +376,7 @@ When you have a defined focus module in LUNA settings, and you spill a bus, that
 <div layout="center" node-type="mediaSingle" data-width="">
 
 <figure class="wysiwyg-image">
-![bus-spill-with-focus-module.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--2026e7fec1f2d449b9efbf5aeb800ebeb93193fa--7f48f22cecb86ced.png)
+<img src="../../attachments/using-mcu-control-surfaces-with-luna_assets--2026e7fec1f2d449b9efbf5aeb800ebeb93193fa--7f48f22cecb86ced.png" alt="bus-spill-with-focus-module.png">
 </figure>
 
 </div>

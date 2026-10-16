@@ -32,7 +32,7 @@ This article explains how to download and install UA Connect, and general usage 
 **LUNA:** Use UA Connect<span style="font-weight: 400;"> to manage authorize, download, and install LUNA and LUNA Extensions</span>.
 
 <figure class="wysiwyg-image">
-![uac-volt-page.png](../../attachments/getting-started-with-ua-connect_assets--a7e9fc4f0bce5a88629fd045ed6d9e254f2aede4--85173ab8fa091d5f.png)
+<img src="../../attachments/getting-started-with-ua-connect_assets--a7e9fc4f0bce5a88629fd045ed6d9e254f2aede4--85173ab8fa091d5f.png" alt="uac-volt-page.png">
 </figure>
 
 *UA Connect window showing multiple UA products with Volt Interfaces tab selected*
@@ -127,7 +127,7 @@ You need to log in to UA Connect before you can access its features.  
 When you first launch or login to UA Connect, click the item that most describes what you want to do. 
 
 <figure class="wysiwyg-image">
-![uac-first-page.png](../../attachments/getting-started-with-ua-connect_assets--dc0a037ab3bdc43e17e6231b7d414c92c4435ae1--0b6d06a64478a9e9.png)
+<img src="../../attachments/getting-started-with-ua-connect_assets--dc0a037ab3bdc43e17e6231b7d414c92c4435ae1--0b6d06a64478a9e9.png" alt="uac-first-page.png">
 </figure>
 
 - **Complete Apollo Registration –** Click this link to register an Apollo interface, Satellite, or Apollo E Series device. See [UA Connect with Apollo, Apollo E Series, and UAD-2](23058068068372-UA-Connect-with-Apollo-Apollo-E-Series-and-UAD-2.html) for more information. 
@@ -143,7 +143,7 @@ When you first launch or login to UA Connect, click the item that most describes
 When one or more products are downloading in UA Connect, the Active Downloads tab becomes available. Click on Active Downloads to monitor download activity. 
 
 <figure class="wysiwyg-image">
-![uac-active-downloads.png](../../attachments/getting-started-with-ua-connect_assets--e820b2a1440633b8466317cbdc76087fadd6331f--2b6a90628352c6ed.png)
+<img src="../../attachments/getting-started-with-ua-connect_assets--e820b2a1440633b8466317cbdc76087fadd6331f--2b6a90628352c6ed.png" alt="uac-active-downloads.png">
 </figure>
 
  
@@ -157,7 +157,7 @@ Every UA Connect page (except for the Apollo & UAD-2 page) includes a Search fie
 For example, to see all plug-ins with "reverb" in the name, on the UAD Plug-Ins page, type **reverb** in the search bar. 
 
 <figure class="wysiwyg-image">
-![uac-filter-reverb.png](../../attachments/getting-started-with-ua-connect_assets--edaa6a999235be3a111ac3ca4d061107d316ce11--a0e0f688c74c2b98.png)
+<img src="../../attachments/getting-started-with-ua-connect_assets--edaa6a999235be3a111ac3ca4d061107d316ce11--a0e0f688c74c2b98.png" alt="uac-filter-reverb.png">
 </figure>
 
 ## Filtering the UAD Plug-Ins page
@@ -169,7 +169,7 @@ In addition to the search bar, the UAD Plug-Ins page includes a category filter 
 Click Filter by category, and select a category to filter UAD plug-ins by a category. 
 
 <figure class="wysiwyg-image">
-![uac-filter-category.png](../../attachments/getting-started-with-ua-connect_assets--85b5168e1829451b15ba350fc2a8452d87fff5ba--e2dd1a0e44d47a06.png)
+<img src="../../attachments/getting-started-with-ua-connect_assets--85b5168e1829451b15ba350fc2a8452d87fff5ba--e2dd1a0e44d47a06.png" alt="uac-filter-category.png">
 </figure>
 
 *Selecting a plug-in filter category*

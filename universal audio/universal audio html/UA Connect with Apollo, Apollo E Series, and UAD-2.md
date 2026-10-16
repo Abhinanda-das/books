@@ -55,13 +55,13 @@ You install UAD-2 Software and UAD Console from UA Connect. 
 **Note:** UAD Console is automatically installed when you download UAD software. 
 
 <figure class="wysiwyg-image">
-![uac-apollo-page.png](../../attachments/ua-connect-with-apollo-apollo-e-series-and-uad-2_assets--d436adae89d0610c59dc11f5c63a6568ee96aa6f--c6718fe3cdf75ebe.png)
+<img src="../../attachments/ua-connect-with-apollo-apollo-e-series-and-uad-2_assets--d436adae89d0610c59dc11f5c63a6568ee96aa6f--c6718fe3cdf75ebe.png" alt="uac-apollo-page.png">
 </figure>
 
 *Apollo & UAD-2 tab in UA Connect*
 
 <figure class="wysiwyg-image">
-![uac-apollo-e-page.png](../../attachments/ua-connect-with-apollo-apollo-e-series-and-uad-2_assets--1c1fcf519ffae7456a0e24cc56ece0125dbf085b--e0cdb32c00af98d8.png)
+<img src="../../attachments/ua-connect-with-apollo-apollo-e-series-and-uad-2_assets--1c1fcf519ffae7456a0e24cc56ece0125dbf085b--e0cdb32c00af98d8.png" alt="uac-apollo-e-page.png">
 </figure>
 
 *Apollo E Series tab in UA Connect*

@@ -197,7 +197,7 @@ You can manage plug-ins, UAD Instruments, and LUNA Extensions in UA Connect.
 LUNA installs and updates the instruments and Extensions. You will see a notification as each Instrument or Extension is installed or updated.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![manage-luna-ex\-inst-uac.png](../../attachments/getting-started-with-luna_assets--20270f4bc6fe9408b18227e9a566f30b29853497--fe5d685673a84f3c.png)
+<img src="../../attachments/getting-started-with-luna_assets--20270f4bc6fe9408b18227e9a566f30b29853497--fe5d685673a84f3c.png" alt="manage-luna-ex\-inst-uac.png">
 </figure>
 
 ## Extension and instrument options
@@ -236,7 +236,7 @@ LUNA includes the Shape UAD Instrument, which is authorized with your LUNA appli
 When you start LUNA, you see the Session panel.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![open-session.png](../../attachments/getting-started-with-luna_assets--c498df4da17f277a9c02eca48fd1972d5a7fbb81--bec30df0f599305c.png)
+<img src="../../attachments/getting-started-with-luna_assets--c498df4da17f277a9c02eca48fd1972d5a7fbb81--bec30df0f599305c.png" alt="open-session.png">
 </figure>
 
 ## To create a new empty session

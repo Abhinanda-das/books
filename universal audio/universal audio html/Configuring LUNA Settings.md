@@ -76,7 +76,7 @@ LUNA can run in Apollo mode, Core Audio mode, or ASIO mode. The mode is displaye
 3.  From the Device menu, choose Apollo, Core Audio, or ASIO.
 
 <figure class="wysiwyg-image">
-![audio-settings-popover-apollo.png](../../attachments/configuring-luna-settings_assets--e3f01e7fc1fca5f551abb8b8d7203ad93055e68a--f4927a32aa627594.png)
+<img src="../../attachments/configuring-luna-settings_assets--e3f01e7fc1fca5f551abb8b8d7203ad93055e68a--f4927a32aa627594.png" alt="audio-settings-popover-apollo.png">
 </figure>
 
 ------------------------------------------------------------------------
@@ -92,7 +92,7 @@ LUNA can run a session at any supported hardware sample rate. The sample rate is
 3.  From the Rate menu, choose the sample rate.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![audio-settings-popover-rate.png](../../attachments/configuring-luna-settings_assets--eb2a0ae55b658a400b07a58cf7f5781950e3eab5--51c0cebafb26665f.png)
+<img src="../../attachments/configuring-luna-settings_assets--eb2a0ae55b658a400b07a58cf7f5781950e3eab5--51c0cebafb26665f.png" alt="audio-settings-popover-rate.png">
 </figure>
 
 <div class="wysiwyg-text-align-center" title="Attachment">

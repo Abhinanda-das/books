@@ -73,7 +73,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--1ea0e566e3d82b28.png)
+<img src="../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--1ea0e566e3d82b28.png" alt="rear-callouts-amp.png">
 </figure>
 
 ------------------------------------------------------------------------
@@ -457,7 +457,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![knuckles-fs-modes.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--0699af361b30fe3c62a8c9aae9e4bb7eac54ef0a--56abae39ac40b476.png)
+<img src="../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--0699af361b30fe3c62a8c9aae9e4bb7eac54ef0a--56abae39ac40b476.png" alt="knuckles-fs-modes.png">
 </figure>
 
 ### Live \| Preset
@@ -498,7 +498,7 @@ In Gate \| Live/Preset mode, you can switch the Gate on and off, and toggle betw
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![knuckles-fs-live-ab.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--712313b46d2a042478e53629423a9974e5808713--88854939d8180850.png)
+<img src="../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--712313b46d2a042478e53629423a9974e5808713--88854939d8180850.png" alt="knuckles-fs-live-ab.png">
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -510,7 +510,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![knuckles-fs-ab.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--2ed113391639414cecdbd938abdef808b9465515--f24775f388848889.png)
+<img src="../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--2ed113391639414cecdbd938abdef808b9465515--f24775f388848889.png" alt="knuckles-fs-ab.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -522,7 +522,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![knuckles-fs-abcd.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--799c73d99fb214bbf587576cd288c37bf8f949f3--c36c245bbb8e32c7.png)
+<img src="../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--799c73d99fb214bbf587576cd288c37bf8f949f3--c36c245bbb8e32c7.png" alt="knuckles-fs-abcd.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)

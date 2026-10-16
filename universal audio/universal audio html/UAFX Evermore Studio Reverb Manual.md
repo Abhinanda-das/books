@@ -39,7 +39,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-resized wysiwyg-image-block-align-left" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-evermore-studio-reverb-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--992875a28935aa05.png)
+<img src="../../attachments/uafx-evermore-studio-reverb-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--992875a28935aa05.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.

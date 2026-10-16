@@ -45,13 +45,13 @@ You use inserts to add UAD DSP (UAD -2), UAD Native (UADx), Audio Unit (AU), and
 - **Standard inserts:** Standard inserts appear in the input row. processing from standard insert plug-ins is not recorded to disk. You can expand the Inserts row to view the standard inserts. 
 
 <figure class="wysiwyg-image">
-![mixer-track-insert-plugins.png](../../attachments/using-insert-plug-ins_assets--231f33906890bb4e55b261a5ca9a490c5db85cbb--30b7c4ccf803e6c0.png)
+<img src="../../attachments/using-insert-plug-ins_assets--231f33906890bb4e55b261a5ca9a490c5db85cbb--30b7c4ccf803e6c0.png" alt="mixer-track-insert-plugins.png">
 </figure>
 
 - **Unison insert & Record FX inserts:** When LUNA is in Apollo mode, the unison insert and Record FX inserts appear in the Input row, when a track is Input or Record enabled.  Note that only UAD DSP plug-ins can be used in Record FX inserts. Only Unison-capable UAD DSP plug-ins can be used in Unison inserts.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 33%;">
-![unison-record-fx-inserts.png](../../attachments/using-insert-plug-ins_assets--2a42023cb0c47d35e456bc083a265ccce06b79f4--70a379cfc910289d.png)
+<img src="../../attachments/using-insert-plug-ins_assets--2a42023cb0c47d35e456bc083a265ccce06b79f4--70a379cfc910289d.png" alt="unison-record-fx-inserts.png">
 </figure>
 
 ## Plug-in states

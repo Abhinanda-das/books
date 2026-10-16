@@ -49,7 +49,7 @@ You use audio tracks to record audio and to place imported audio files within a 
 ## Creating an empty audio track
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 33%;">
-![create-new-track.png](../../attachments/creating-tracks_assets--a8a4a7e24ca16469c338f1696cf60c59123a6bba--db382b5dcfff5ef3.png)
+<img src="../../attachments/creating-tracks_assets--a8a4a7e24ca16469c338f1696cf60c59123a6bba--db382b5dcfff5ef3.png" alt="create-new-track.png">
 </figure>
 
  
@@ -104,7 +104,7 @@ You can use instrument tracks to play audio from UAD instruments, a MIDI virtual
 ## Creating an empty instrument track
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 33%;">
-![create-new-instrument-track.png](../../attachments/creating-tracks_assets--f111880ac3d13aff39de1d35dd14f81cd59417ca--d1fbb9fb8a92b2f7.png)
+<img src="../../attachments/creating-tracks_assets--f111880ac3d13aff39de1d35dd14f81cd59417ca--d1fbb9fb8a92b2f7.png" alt="create-new-instrument-track.png">
 </figure>
 
  

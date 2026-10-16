@@ -40,7 +40,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--cc8bb5914ff385e7.png)
+<img src="../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--cc8bb5914ff385e7.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.
@@ -117,7 +117,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-non-amp.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--370ae45e536c696e.png)
+<img src="../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--370ae45e536c696e.png" alt="rear-callouts-non-amp.png">
 </figure>
 
 ------------------------------------------------------------------------
@@ -333,7 +333,7 @@ The dry signal remains analog dry-through when the effect is on and off, and the
 ### MIDI Clock Mode
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![galaxy-midi-clock-mode.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--c355e3b2124c95fb6bf8feb266c10caaba9611b1--cd0c9f661ddf6556.png)
+<img src="../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--c355e3b2124c95fb6bf8feb266c10caaba9611b1--cd0c9f661ddf6556.png" alt="galaxy-midi-clock-mode.png">
 </figure>
 
 You can set a MIDI Clock mode for Galaxy. This allows Galaxy to sync to MIDI clock. Note that with multiple UAFX pedals that are synced to MIDI clock, only one pedal should be designated as the leader, and other pedals should be designated as followers. 

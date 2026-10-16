@@ -10,11 +10,11 @@ word_count: 3019
 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo-2x.png](../../attachments/volt-276-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--bbda7704c2f05ea3.png)
+<img src="../../attachments/volt-276-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--bbda7704c2f05ea3.png" alt="volt-logo-2x.png">
 </figure>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-276-photo.png](../../attachments/volt-276-hardware-manual_assets--7f5a8d0157bb72a81cf573bcae9f83cb4518157e--bad730249742826d.png)
+<img src="../../attachments/volt-276-hardware-manual_assets--7f5a8d0157bb72a81cf573bcae9f83cb4518157e--bad730249742826d.png" alt="volt-276-photo.png">
 </figure>
 
 This article contains complete instructions for Volt 276 hardware controls and connections.
@@ -124,7 +124,7 @@ Use this diagram to identify the features on the Volt front panel.
 </div>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 92.13%;">
-![volt-276-front-callouts.png](../../attachments/volt-276-hardware-manual_assets--b1394a6b520b87d718d2da21dc43d3ce8ede1d3b--cfe8e92c846aef87.png)
+<img src="../../attachments/volt-276-hardware-manual_assets--b1394a6b520b87d718d2da21dc43d3ce8ede1d3b--cfe8e92c846aef87.png" alt="volt-276-front-callouts.png">
 </figure>
 
 ### (1) XLR/TRS Combo Inputs 
@@ -182,7 +182,7 @@ Use this diagram to identify the features on the Volt top panel.
 </div>
 
 <figure class="wysiwyg-image">
-![volt-276-top-callouts.png](../../attachments/volt-276-hardware-manual_assets--bfa740fc3a728afaf5f287787fea5792e3524700--77af06770d4a56e3.png)
+<img src="../../attachments/volt-276-hardware-manual_assets--bfa740fc3a728afaf5f287787fea5792e3524700--77af06770d4a56e3.png" alt="volt-276-top-callouts.png">
 </figure>
 
 ### (6) Monitor Knob
@@ -285,7 +285,7 @@ Use this diagram to identify the features on the Volt rear panel.
 </div>
 
 <figure class="wysiwyg-image">
-![volt-276-rear-callouts.png](../../attachments/volt-276-hardware-manual_assets--8d1284a4f98dea870387de177f04bb0868df0be8--82cdec7c860538a7.png)
+<img src="../../attachments/volt-276-hardware-manual_assets--8d1284a4f98dea870387de177f04bb0868df0be8--82cdec7c860538a7.png" alt="volt-276-rear-callouts.png">
 </figure>
 
 ### (15) Monitor Outputs

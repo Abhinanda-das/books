@@ -44,7 +44,7 @@ Use UA Connect to:
 2.  When UA Connect is open, click the Access Spark & Native Plug-Ins button.
 
 <figure class="wysiwyg-image">
-![uac-first-page.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--dc0a037ab3bdc43e17e6231b7d414c92c4435ae1--b2340f31ce150d38.png)
+<img src="../../attachments/ua-connect-with-native-uad-plug-ins_assets--dc0a037ab3bdc43e17e6231b7d414c92c4435ae1--b2340f31ce150d38.png" alt="uac-first-page.png">
 </figure>
 
 # Creating or Linking your iLok Account
@@ -153,7 +153,7 @@ To download a native UAD plug-in, click its Download button to install it, or cl
 **Note:** Ravel Grand Piano does not download automatically (even when you click Download All) because it has specific storage requirements. Click Download next to Ravel to download Ravel. See <a href="#h_01GS6FN3N7XESR7YY692TJCSNB" rel="undefined" target="_self">Installing sample-based UAD instrument content</a> for more information.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![uac-download-products.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--0e9d2bda130b362aa92a367a8729a9b8883e2c01--1b0d848e535df618.png)
+<img src="../../attachments/ua-connect-with-native-uad-plug-ins_assets--0e9d2bda130b362aa92a367a8729a9b8883e2c01--1b0d848e535df618.png" alt="uac-download-products.png">
 </figure>
 
 ## Installing sample-based UAD instrument content
@@ -197,7 +197,7 @@ After you activate and download your plug-ins, they appear in UA Connect with th
 Plug-Ins are arranged in categories, with new releases at the top. 
 
 <figure class="wysiwyg-image">
-![uac-plugins-view.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--3ed2eb315a17519c59c0b4ef1c3053ca43db4559--cedb44c83659dfca.png)
+<img src="../../attachments/ua-connect-with-native-uad-plug-ins_assets--3ed2eb315a17519c59c0b4ef1c3053ca43db4559--cedb44c83659dfca.png" alt="uac-plugins-view.png">
 </figure>
 
 ## Searching the plug-in list
@@ -207,7 +207,7 @@ Type in the Search field to search plug-ins.
 For example, to see all plug-ins with "channel" in the name, on the Plug-Ins page, type **channel** in the search bar. 
 
 <figure class="wysiwyg-image">
-![uac-search-channel.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--b5c6b6eeafd6808a365201cd5f60e445da8625bb--dbb5c0dad82ca21a.png)
+<img src="../../attachments/ua-connect-with-native-uad-plug-ins_assets--b5c6b6eeafd6808a365201cd5f60e445da8625bb--dbb5c0dad82ca21a.png" alt="uac-search-channel.png">
 </figure>
 
 ## Filtering plug-ins by category
@@ -215,13 +215,13 @@ For example, to see all plug-ins with "channel" in the name, on the Plug-Ins pag
 Click Filter by category, and select a category to filter UAD plug-ins by a category. 
 
 <figure class="wysiwyg-image">
-![uac-filter-by-category.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--2d8dd2652013a46db75b2e33e66821da81c5cff8--670d1e05e7f07cfe.png)
+<img src="../../attachments/ua-connect-with-native-uad-plug-ins_assets--2d8dd2652013a46db75b2e33e66821da81c5cff8--670d1e05e7f07cfe.png" alt="uac-filter-by-category.png">
 </figure>
 
 *Selecting a plug-in filter category*
 
 <figure class="wysiwyg-image">
-![plug-in-categories-filtered.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--5e7e88fa8330dce45c4f987dffc3dad34500fb38--6ae7e09433ef7105.png)
+<img src="../../attachments/ua-connect-with-native-uad-plug-ins_assets--5e7e88fa8330dce45c4f987dffc3dad34500fb38--6ae7e09433ef7105.png" alt="plug-in-categories-filtered.png">
 </figure>
 
 *Plug-ins filtered by category*
@@ -239,7 +239,7 @@ Select from the drop-down selector to filter plug-ins by the license type. The p
 When a newer native UAD plug-in is available, the Update button appears next to the plug-in. Click Update to install the latest version of the plug-in. Click Update All to update all plug-ins. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![update-plugin.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--37dfb29608e245dfb1f9711365bf0a7864dff89f--49356223b2f1c329.png)
+<img src="../../attachments/ua-connect-with-native-uad-plug-ins_assets--37dfb29608e245dfb1f9711365bf0a7864dff89f--49356223b2f1c329.png" alt="update-plugin.png">
 </figure>
 
 ## Removing a native UAD plug-in

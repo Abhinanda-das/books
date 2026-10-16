@@ -10,11 +10,11 @@ word_count: 3186
 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo-2x.png](../../attachments/volt-476p-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--584197c13192e28e.png)
+<img src="../../attachments/volt-476p-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--584197c13192e28e.png" alt="volt-logo-2x.png">
 </figure>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-476p-photo.png](../../attachments/volt-476p-hardware-manual_assets--add97f3ade3468a9c1e6c401f3abbbb94d32504b--be1a67e5a0265ff6.png)
+<img src="../../attachments/volt-476p-hardware-manual_assets--add97f3ade3468a9c1e6c401f3abbbb94d32504b--be1a67e5a0265ff6.png" alt="volt-476p-photo.png">
 </figure>
 
 This article contains complete instructions for Volt 476P hardware controls and connections.
@@ -59,7 +59,7 @@ At UA, we're dedicated to the idea that technology should serve the creative pro
 Please feel free to reach out to us via our website [www.uaudio.com](https://www.uaudio.com) and our social media channels. We look forward to hearing from you, and thank you once again for choosing Universal Audio.
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/volt-476p-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--18b8cb9a3290eb05.png)
+<img src="../../attachments/volt-476p-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--18b8cb9a3290eb05.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam, Jr.

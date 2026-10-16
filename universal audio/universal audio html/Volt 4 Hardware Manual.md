@@ -10,11 +10,11 @@ word_count: 2961
 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo-2x.png](../../attachments/volt-4-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--79569fbe7691c1eb.png)
+<img src="../../attachments/volt-4-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--79569fbe7691c1eb.png" alt="volt-logo-2x.png">
 </figure>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-4-photo.png](../../attachments/volt-4-hardware-manual_assets--a1a2ed725b9bfa7071931a008c89540c3d12ef15--14664c88ae0d294a.png)
+<img src="../../attachments/volt-4-hardware-manual_assets--a1a2ed725b9bfa7071931a008c89540c3d12ef15--14664c88ae0d294a.png" alt="volt-4-photo.png">
 </figure>
 
 This article contains complete instructions for Volt 4 hardware controls and connections.
@@ -57,7 +57,7 @@ At UA, we're dedicated to the idea that technology should serve the creative pro
 Please feel free to reach out to us via our website [www.uaudio.com](https://www.uaudio.com) and our social media channels. We look forward to hearing from you, and thank you once again for choosing Universal Audio.
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/volt-4-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--16d9b38b2030f2e6.png)
+<img src="../../attachments/volt-4-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--16d9b38b2030f2e6.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam, Jr.
@@ -211,7 +211,7 @@ From the factory, OUT 1-2 is selected. With this setting, you hear audio from yo
 - **Listen to preamp inputs and audio software:** Select IN 1-2 to hear hardware inputs 1 and 2, and select OUT 1-2 to hear audio from your computer.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![volt-4-monitor-example-in-1-2-out-1-2.png](../../attachments/volt-4-hardware-manual_assets--16873cf390f592ff1253d1c8adaed1019ae23104--86974b5f08ded68d.png)
+<img src="../../attachments/volt-4-hardware-manual_assets--16873cf390f592ff1253d1c8adaed1019ae23104--86974b5f08ded68d.png" alt="volt-4-monitor-example-in-1-2-out-1-2.png">
 </figure>
 
 ### (8) Mono Button

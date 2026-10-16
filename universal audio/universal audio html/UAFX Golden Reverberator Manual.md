@@ -40,7 +40,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-golden-reverberator-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--dd8c440870920603.png)
+<img src="../../attachments/uafx-golden-reverberator-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--dd8c440870920603.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.
@@ -108,7 +108,7 @@ To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here<
 <div class="fabric-editor-block-mark fabric-editor-align-center" data-align="center">
 
 <figure class="wysiwyg-image">
-![rear-callouts-non-amp.png](../../attachments/uafx-golden-reverberator-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--1f13343380f28ec4.png)
+<img src="../../attachments/uafx-golden-reverberator-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--1f13343380f28ec4.png" alt="rear-callouts-non-amp.png">
 </figure>
 
 </div>
@@ -179,7 +179,7 @@ Golden Reverberator effect bypass routing can be set for true bypass or trails b
 **True Bypass**
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![tbp-golden.png](../../attachments/uafx-golden-reverberator-manual_assets--e4ce1c85602f97e215417d426e191b898a6c7e84--83c6ea0266b7af73.png)
+<img src="../../attachments/uafx-golden-reverberator-manual_assets--e4ce1c85602f97e215417d426e191b898a6c7e84--83c6ea0266b7af73.png" alt="tbp-golden.png">
 </figure>
 
 When bypass routing is set for true bypass and the effect is off, the dry signal is pure analog dry-through from input to output, without buffering or any other circuitry, via mechanical relays. By default, your UAFX pedal is set for true bypass.
@@ -191,7 +191,7 @@ When bypass routing is set for true bypass and the effect is on, the dry signal 
 <div layout="center" node-type="mediaSingle" data-width="50">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![bbp-golden-flow.png](../../attachments/uafx-golden-reverberator-manual_assets--d0747859b3c00f1ff167fecd14e4ed78aa4cf0ed--cc6da20318fe9248.png)
+<img src="../../attachments/uafx-golden-reverberator-manual_assets--d0747859b3c00f1ff167fecd14e4ed78aa4cf0ed--cc6da20318fe9248.png" alt="bbp-golden-flow.png">
 </figure>
 
 </div>
@@ -566,7 +566,7 @@ This bonus effect is available after you register your Golden Reverberator. To s
 <div layout="center" node-type="mediaSingle" data-width="50">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 35%;">
-![chamber-and-plate-switch.png](../../attachments/uafx-golden-reverberator-manual_assets--d3fe6064ba2853571a1459311b43285a9274124f--a104f2790c474b37.png)
+<img src="../../attachments/uafx-golden-reverberator-manual_assets--d3fe6064ba2853571a1459311b43285a9274124f--a104f2790c474b37.png" alt="chamber-and-plate-switch.png">
 </figure>
 
 </div>
@@ -684,7 +684,7 @@ Tap Settings at the bottom right of the screen to access the settings for a peda
 After registration, the Chamber & Plate 224 reverb is added to the pedal. To select this effect, push the Effect Type switch until the top LED is lit green.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 35%;">
-![chamber-and-plate-switch.png](../../attachments/uafx-golden-reverberator-manual_assets--d3fe6064ba2853571a1459311b43285a9274124f--a104f2790c474b37.png)
+<img src="../../attachments/uafx-golden-reverberator-manual_assets--d3fe6064ba2853571a1459311b43285a9274124f--a104f2790c474b37.png" alt="chamber-and-plate-switch.png">
 </figure>
 
 ## Configuring Bypass Routing

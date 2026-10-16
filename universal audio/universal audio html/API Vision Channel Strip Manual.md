@@ -193,7 +193,7 @@ Presets from prominent Universal Audio artists are included. You can access the 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: left; width: 7.42861%; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: left; width: 7.42861%; vertical-align: middle; height: 0px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 88.0001%; height: 0px"><h2 id="h_01HZ00QNX74W6ZHXZQY7P9F9DV">Unison Integration (UAD-2 DSP only)</h2></td>
 </tr>
 </tbody>
@@ -250,7 +250,7 @@ The active setting is indicated by an LED next to the input's gain knob. When th
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JE6ZAMW2XZQ9P2DGBYGN9QE9">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -272,7 +272,7 @@ This knob adjusts the amount of gain applied to the mic input signal. The availa
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHJS0KBGSNW2VX68A11166Q">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -294,7 +294,7 @@ The available Line Gain range is adopted from API VIsion Console's dedicated Lin
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHJTQS5G5YGBJ98J4Z7XH2N">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -330,7 +330,7 @@ When PAD is enabled with line input, the input signal level is attenuated by -6 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHK5AJ2E284P9NHZG51K5MZ">Unison Interactions</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -353,7 +353,7 @@ The Phase (ø) button inverts the polarity of the signal. The polarity is invert
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHKR3A8SE4QTS1NGGG42RQ0">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -375,7 +375,7 @@ This button activates a 50 Hz low cut filter that has a slope of 6 dB per octave
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHKS761HX0NPRKM6NV8V6N5">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -411,7 +411,7 @@ The Hi-Pass (low cut) filter has a continuous range of 12 Hz to 596 Hz. The slop
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHKWA0Q507YDQYYAR4SFCEW">Unison Interaction (Legacy)</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -749,7 +749,7 @@ Note that because the output buffer amplifier precedes the fader in signal flow,
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHNNEMD46NV2CR536CK2VYF">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -771,7 +771,7 @@ This control provides -24 dB to +12 dB of clean uncolored gain at the output of 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHNP9JV5K5FV5KW1VM5TXA2">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">

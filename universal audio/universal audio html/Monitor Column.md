@@ -63,8 +63,8 @@ These switches show and hide the visibility of the auxiliary return strips and/o
 </colgroup>
 <tbody>
 <tr>
-<td>![show-aux-ctrlrm-off.png](../../attachments/monitor-column_assets--fb7544be73234e42f7bc90fb5f45368c0e5f9727--9e6d761caa62e0f2.png)</td>
-<td>![show-aux-ctrlrm-on.png](../../attachments/monitor-column_assets--6671ae203f5928ebfeefecbf1929ef1dd4711e17--4e5946355d4c188d.png)</td>
+<td><img src="../../attachments/monitor-column_assets--fb7544be73234e42f7bc90fb5f45368c0e5f9727--9e6d761caa62e0f2.png" alt="show-aux-ctrlrm-off.png"></td>
+<td><img src="../../attachments/monitor-column_assets--6671ae203f5928ebfeefecbf1929ef1dd4711e17--4e5946355d4c188d.png" alt="show-aux-ctrlrm-on.png"></td>
 </tr>
 </tbody>
 </table>
@@ -233,12 +233,12 @@ In addition to indicating the relative signal level of the monitor outputs, the 
 </colgroup>
 <tbody>
 <tr>
-<td>![](../../attachments/monitor-column_assets--b74025e58cfb45a9115889838d091a1895cd54e1--07971cd940c81ca8.png)</td>
-<td>![](../../attachments/monitor-column_assets--188b10b3575a50689b15fa1b1d0d208936b326f3--ea2c7ed6972ed780.png)</td>
-<td>![](../../attachments/monitor-column_assets--54eda9226bf202067053f62ba366941f64277ab5--b7d86835ef3e9dd9.png)</td>
-<td>![](../../attachments/monitor-column_assets--fdf1dcfa309aa45d2e960bbb514ce5df852e82e7--f06c8ffeb2f640e6.png)</td>
-<td>![](../../attachments/monitor-column_assets--1dfe5280b2e65633ee9acee3dd7e808b879efc2b--ec8c392675d8942e.png)</td>
-<td>![](../../attachments/monitor-column_assets--5fcf9fdf43b91b3fa76914e7a1929b408eac3261--7f9278766cd50df4.png)</td>
+<td><img src="../../attachments/monitor-column_assets--b74025e58cfb45a9115889838d091a1895cd54e1--07971cd940c81ca8.png" alt=""></td>
+<td><img src="../../attachments/monitor-column_assets--188b10b3575a50689b15fa1b1d0d208936b326f3--ea2c7ed6972ed780.png" alt=""></td>
+<td><img src="../../attachments/monitor-column_assets--54eda9226bf202067053f62ba366941f64277ab5--b7d86835ef3e9dd9.png" alt=""></td>
+<td><img src="../../attachments/monitor-column_assets--fdf1dcfa309aa45d2e960bbb514ce5df852e82e7--f06c8ffeb2f640e6.png" alt=""></td>
+<td><img src="../../attachments/monitor-column_assets--1dfe5280b2e65633ee9acee3dd7e808b879efc2b--ec8c392675d8942e.png" alt=""></td>
+<td><img src="../../attachments/monitor-column_assets--5fcf9fdf43b91b3fa76914e7a1929b408eac3261--7f9278766cd50df4.png" alt=""></td>
 </tr>
 </tbody>
 </table>

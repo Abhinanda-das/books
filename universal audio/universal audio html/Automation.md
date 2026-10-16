@@ -67,7 +67,7 @@ The View browser for a track (accessed from Timeline view) shows the items you c
 The browser shows all automatable parameters for all plug-ins on a track. When automation has been added, the View browser highlights any automated parameter in yellow.
 
 <figure class="wysiwyg-image">
-![automation-extension.png](../../attachments/automation_assets--a80b84e166062dbe1e3fe8cf05c59462874c377c--d1cf364db0653e42.png)
+<img src="../../attachments/automation_assets--a80b84e166062dbe1e3fe8cf05c59462874c377c--d1cf364db0653e42.png" alt="automation-extension.png">
 </figure>
 
 ------------------------------------------------------------------------

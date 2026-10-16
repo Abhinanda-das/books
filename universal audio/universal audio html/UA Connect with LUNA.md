@@ -28,7 +28,7 @@ To get LUNA, [download UA Connect](https://www.uaudio.com/downloads/luna).
 9.  Complete the installation.
 
 <figure class="wysiwyg-image">
-![uac-luna-page.png](../../attachments/ua-connect-with-luna_assets--c1c5858b649b584c5c0eb1a13bdec1639fe4c8bd--0e95d87ba25efd11.png)
+<img src="../../attachments/ua-connect-with-luna_assets--c1c5858b649b584c5c0eb1a13bdec1639fe4c8bd--0e95d87ba25efd11.png" alt="uac-luna-page.png">
 </figure>
 
 After the install completes, the Shape UAD Instrument downloads and installs automatically.

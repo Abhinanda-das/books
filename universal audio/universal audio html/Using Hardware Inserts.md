@@ -41,7 +41,7 @@ The Hardware Insert plug-in routes audio from your track through its Output to y
 - **Mix:** Adjust to blend the hardware signal with the dry signal.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![hw-insert-callouts.png](../../attachments/using-hardware-inserts_assets--685093c4a2d6b1bdfd8cbdb91f9757d2535477a3--71d3a8b98db9e42c.png)
+<img src="../../attachments/using-hardware-inserts_assets--685093c4a2d6b1bdfd8cbdb91f9757d2535477a3--71d3a8b98db9e42c.png" alt="hw-insert-callouts.png">
 </figure>
 
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ You can use any available input and output pair, provided the signal levels are 
 When you have configured your hardware insert, you can save it as a preset, using the plug-in's preset browser. Hardware insert presets appear in the Hardware Inserts folder in LUNA, which you can see when you click an insert in the LUNA mixer or on a Focus channel. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![hardware-inserts-folder.png](../../attachments/using-hardware-inserts_assets--b753f0e70be61be0ab2c279f8c006df0dfb3d3ee--3e134dfda8d68b80.png)
+<img src="../../attachments/using-hardware-inserts_assets--b753f0e70be61be0ab2c279f8c006df0dfb3d3ee--3e134dfda8d68b80.png" alt="hardware-inserts-folder.png">
 </figure>
 
 A Hardware Insert preset saves the hardware input and output settings, and the plug-in control settings. Make sure that the correct connections are still made when you load a preset. 
@@ -84,7 +84,7 @@ A Hardware Insert preset saves the hardware input and output settings, and the p
 Because hardware inserts must be processed in real time, all mixdowns, bounces, and track freezes occur in real time. The bounce, mixdown, and freeze dialogs include a message to explain this. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![bounce-hardware-insert.png](../../attachments/using-hardware-inserts_assets--2f0e9830da0fe9d5b6652412266528928acc6524--c0a5eafb91001043.png)
+<img src="../../attachments/using-hardware-inserts_assets--2f0e9830da0fe9d5b6652412266528928acc6524--c0a5eafb91001043.png" alt="bounce-hardware-insert.png">
 </figure>
 
  
@@ -114,13 +114,13 @@ By default, Apollo Twin outputs 3-4 are assigned to the ALT monitor outputs. To 
 After the channels are configured, hardware inputs 3-4 appear assigned to channels 7-8 in the i/O Matrix.
 
 <figure>
-<p>![assign-line-3-4-twin-hw-inserts.png](../../attachments/using-hardware-inserts_assets--85c9aa03bf0f35b0b44d1740d6443abe455324e8--594e5fc55b694565.png)</p>
+<p><img src="../../attachments/using-hardware-inserts_assets--85c9aa03bf0f35b0b44d1740d6443abe455324e8--594e5fc55b694565.png" alt="assign-line-3-4-twin-hw-inserts.png"></p>
 </figure>
 
 You can now choose Line 3 and Line 4 as outputs in a LUNA hardware insert.
 
 <figure>
-<p>![hw-insert-line-3-4-selected-twin.png](../../attachments/using-hardware-inserts_assets--32117956d359508d660058ae1b80e147689f3c72--a1a1c1865dfd2dad.png)</p>
+<p><img src="../../attachments/using-hardware-inserts_assets--32117956d359508d660058ae1b80e147689f3c72--a1a1c1865dfd2dad.png" alt="hw-insert-line-3-4-selected-twin.png"></p>
 </figure>
 
 ##  

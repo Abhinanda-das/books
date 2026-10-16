@@ -10,7 +10,7 @@ word_count: 2501
 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo-2x.png](../../attachments/volt-1-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--3a2366a604b0f003.png)
+<img src="../../attachments/volt-1-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--3a2366a604b0f003.png" alt="volt-logo-2x.png">
 </figure>
 
 ![volt-1-photo.png](../../attachments/volt-1-hardware-manual_assets--ca85711ff863fa3f2f27dd98c61481ff25d7329a--a150fbfb045add21.png)
@@ -55,7 +55,7 @@ At UA, we're dedicated to the idea that technology should serve the creative pro
 Please feel free to reach out to us via our website [www.uaudio.com](https://www.uaudio.com) and our social media channels. We look forward to hearing from you, and thank you once again for choosing Universal Audio.
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/volt-1-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--e519c9792fbbb6e6.png)
+<img src="../../attachments/volt-1-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--e519c9792fbbb6e6.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam, Jr.

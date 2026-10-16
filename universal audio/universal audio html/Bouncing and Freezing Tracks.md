@@ -32,7 +32,7 @@ Bounce and Freeze both allow you to save tracks in their current state, to reduc
 - **Consolidation:** Creates individual clips where audio exists unless you choose to "Consolidate" into a single clip.
 
 <figure class="wysiwyg-image">
-![drums-bounce.png](../../attachments/bouncing-and-freezing-tracks_assets--e826d5302900884b96dcf88c8dda9f36acab3c8b--87f1e75753349db5.png)
+<img src="../../attachments/bouncing-and-freezing-tracks_assets--e826d5302900884b96dcf88c8dda9f36acab3c8b--87f1e75753349db5.png" alt="drums-bounce.png">
 </figure>
 
 *Multi-out drum plug-in bounce showing silence between clips*

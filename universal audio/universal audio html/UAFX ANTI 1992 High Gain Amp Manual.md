@@ -79,7 +79,7 @@ To learn how to power your UAFX pedal,[<span class="wysiwyg-underline"> go here<
 To learn how to wire your UAFX pedals, [<span class="wysiwyg-underline">go here</span>](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--ead6a8d56744d309.png)
+<img src="../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--ead6a8d56744d309.png" alt="rear-callouts-amp.png">
 </figure>
 
  
@@ -571,7 +571,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![anti-fs-modes.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--60bff664166a4cb9e7f0ec60d3e8731fc5ffece1--329471dc76e2e5a6.png)
+<img src="../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--60bff664166a4cb9e7f0ec60d3e8731fc5ffece1--329471dc76e2e5a6.png" alt="anti-fs-modes.png">
 </figure>
 
  
@@ -616,7 +616,7 @@ In Gate \| Live/Preset mode, you can switch the Gate on and off, and toggle betw
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![anti-fs-live-off-a-b.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--cbee48075a76449e48ed02261a0604374cf43d1c--6aead7f90b23a76e.png)
+<img src="../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--cbee48075a76449e48ed02261a0604374cf43d1c--6aead7f90b23a76e.png" alt="anti-fs-live-off-a-b.png">
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -630,7 +630,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![anti-fs-a-off-b-off.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--d6cae247b1cfe75f1802a598eba6ee02a7dc2d4f--8721de8a9266ee13.png)
+<img src="../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--d6cae247b1cfe75f1802a598eba6ee02a7dc2d4f--8721de8a9266ee13.png" alt="anti-fs-a-off-b-off.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -642,7 +642,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![anti-fs-ab-cd.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--88a7b37c6f27e3357e1f66a01e67664c3cc1869f--b9fe752b98faffad.png)
+<img src="../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--88a7b37c6f27e3357e1f66a01e67664c3cc1869f--b9fe752b98faffad.png" alt="anti-fs-ab-cd.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)

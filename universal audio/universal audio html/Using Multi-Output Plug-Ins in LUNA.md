@@ -34,19 +34,19 @@ You can add as many mixer channels as your creative needs require.
  
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![](../../attachments/using-multi-output-plug-ins-in-luna_assets--a72eecc3ae59d9d8c81df24de99ea38d79ca4dcc--0435b6a22eb9fe4b.png)
+<img src="../../attachments/using-multi-output-plug-ins-in-luna_assets--a72eecc3ae59d9d8c81df24de99ea38d79ca4dcc--0435b6a22eb9fe4b.png" alt="">
 </figure>
 
 *Multi-output plug-in channels in a multi-output plug-in* 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![](../../attachments/using-multi-output-plug-ins-in-luna_assets--c8b4dedcdfef8dbc8640518e11aba32f66349b12--6d678900efbccea8.png)
+<img src="../../attachments/using-multi-output-plug-ins-in-luna_assets--c8b4dedcdfef8dbc8640518e11aba32f66349b12--6d678900efbccea8.png" alt="">
 </figure>
 
 *Multi-output plug-in channels in the LUNA timeline*
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![](../../attachments/using-multi-output-plug-ins-in-luna_assets--0d99a481fb7b2170596c67d40e9400f7515c470c--14041330ce7c5548.png)
+<img src="../../attachments/using-multi-output-plug-ins-in-luna_assets--0d99a481fb7b2170596c67d40e9400f7515c470c--14041330ce7c5548.png" alt="">
 </figure>
 
 *Multi-output plug-in channels in the LUNA mixer*
@@ -79,7 +79,7 @@ You can very simply add multiple channels from inside a multi-output plug-in.
 New plug-in channels appear in the MULTI-OUT MIXER area, and separate tracks are created in LUNA for each multi-out channel.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![](../../attachments/using-multi-output-plug-ins-in-luna_assets--b3c30ecaf5e42feec48fe6a401365178e694822c--acc621c8696573bd.png)
+<img src="../../attachments/using-multi-output-plug-ins-in-luna_assets--b3c30ecaf5e42feec48fe6a401365178e694822c--acc621c8696573bd.png" alt="">
 </figure>
 
  
@@ -120,7 +120,7 @@ In general, multi-output plug-ins include a mixer or other method to assign audi
 For example, in Toontrack's EZ Drummer, on the Mixer page, you click the output for a mixer channel and select an output pair. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![](../../attachments/using-multi-output-plug-ins-in-luna_assets--08d9acbe9ecce1640f413a506e065768b1de513d--bff80d8ea0a38a8a.png)
+<img src="../../attachments/using-multi-output-plug-ins-in-luna_assets--08d9acbe9ecce1640f413a506e065768b1de513d--bff80d8ea0a38a8a.png" alt="">
 </figure>
 
 Refer to your plug-in documentation for more information on how to assign channels to additional outputs within the plug-in. 
@@ -194,7 +194,7 @@ In the following examples, we use the Kontakt instrument, but every multi-timbra
  
 
 <figure class="wysiwyg-image">
-![](../../attachments/using-multi-output-plug-ins-in-luna_assets--74c24860b4d61415bf4a146769396523c287adbd--8dcb358a58742a97.png)
+<img src="../../attachments/using-multi-output-plug-ins-in-luna_assets--74c24860b4d61415bf4a146769396523c287adbd--8dcb358a58742a97.png" alt="">
 </figure>
 
 *Kontakt configured for multi-channel output*

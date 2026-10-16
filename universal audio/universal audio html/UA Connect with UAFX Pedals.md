@@ -89,7 +89,7 @@ After registration, the 4x12 UK V30, 2x12 JBF120, 1x12 Black EV12, 4x12 Stripped
 After registration, the Chamber & Plate 224 reverb is added to the pedal. To select this effect, push the Effect Type switch until the top LED is lit green.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 39.7%;">
-![chamber-and-plate-switch.png](../../attachments/ua-connect-with-uafx-pedals_assets--d3fe6064ba2853571a1459311b43285a9274124f--2fe33c7439dc9dbf.png)
+<img src="../../attachments/ua-connect-with-uafx-pedals_assets--d3fe6064ba2853571a1459311b43285a9274124f--2fe33c7439dc9dbf.png" alt="chamber-and-plate-switch.png">
 </figure>
 
 ## Knuckles '92 bonus speaker cabinets
@@ -103,7 +103,7 @@ After registration, the D65, Super 80, and Brown JB speaker cabinets are added t
 After registration, the EV12, D65, and V30 speaker cabinets are added to the pedal. To select these speaker cabinets, push the Effect Type switch until the top, middle, or bottom LED is lit green.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 58.29%;">
-![lion-speaker-switch.png](../../attachments/ua-connect-with-uafx-pedals_assets--a78e93c20d7d7eb4292e87ee3be2d8c0bf08fed9--2b18cdd0b49adbde.png)
+<img src="../../attachments/ua-connect-with-uafx-pedals_assets--a78e93c20d7d7eb4292e87ee3be2d8c0bf08fed9--2b18cdd0b49adbde.png" alt="lion-speaker-switch.png">
 </figure>
 
 ## Ruby '63 bonus speaker cabinets
@@ -117,7 +117,7 @@ After registration, the Blue Mod, Match, and Gold speaker cabinets are added to 
 After registration, the Cooper Time Cube delay is added to the pedal. To select this effect, push the Effect Type switch until the top LED is lit green.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 35.64%;">
-![starlight-select-leds.png](../../attachments/ua-connect-with-uafx-pedals_assets--fcb7b2fe2b528230dd7229c1094ce655ed75a168--14fc715f5752875a.png)
+<img src="../../attachments/ua-connect-with-uafx-pedals_assets--fcb7b2fe2b528230dd7229c1094ce655ed75a168--14fc715f5752875a.png" alt="starlight-select-leds.png">
 </figure>
 
 ## Woodrow '55 bonus speaker cabinets

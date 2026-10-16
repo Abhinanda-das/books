@@ -10,11 +10,11 @@ word_count: 2975
 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo-2x.png](../../attachments/volt-176-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--c1f0dbb8ba0c3374.png)
+<img src="../../attachments/volt-176-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--c1f0dbb8ba0c3374.png" alt="volt-logo-2x.png">
 </figure>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-176-photo.png](../../attachments/volt-176-hardware-manual_assets--aaaabd2abe96efe339660318ac15a0eadf2d2ad0--ed6119dc970c06f4.png)
+<img src="../../attachments/volt-176-hardware-manual_assets--aaaabd2abe96efe339660318ac15a0eadf2d2ad0--ed6119dc970c06f4.png" alt="volt-176-photo.png">
 </figure>
 
 This article contains complete instructions for Volt 176 hardware controls and connections.
@@ -59,7 +59,7 @@ At UA, we're dedicated to the idea that technology should serve the creative pro
 Please feel free to reach out to us via our website [www.uaudio.com](https://www.uaudio.com) and our social media channels. We look forward to hearing from you, and thank you once again for choosing Universal Audio.
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/volt-176-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--5bdb725fba125685.png)
+<img src="../../attachments/volt-176-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--5bdb725fba125685.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam, Jr.

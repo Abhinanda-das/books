@@ -82,7 +82,7 @@ Visit <a href="13178401374612-Getting-Started-with-UA-Connect.html" target="_sel
 You will be prompted to set up and register your Volt. 
 
 <figure class="wysiwyg-image">
-![add-detected-volt.png](../../attachments/how-to-set-up-your-volt-interface_assets--fd17390b29a4e505d1c652b57deaa3d27d7e42d1--e57788b0ff3e98f4.png)
+<img src="../../attachments/how-to-set-up-your-volt-interface_assets--fd17390b29a4e505d1c652b57deaa3d27d7e42d1--e57788b0ff3e98f4.png" alt="add-detected-volt.png">
 </figure>
 
 ## Adding additional Volt interfaces
@@ -92,7 +92,7 @@ If you are adding additional Volt interfaces to your system, you may need to add
 Click the Volt Interfaces tab, then click Add New Volt to add your new Volt to UA Connect. 
 
 <figure class="wysiwyg-image">
-![add-new-volt.png](../../attachments/how-to-set-up-your-volt-interface_assets--d61bd71f33c256e6a867b8107a958026eb18bff4--d9e533f4e23b3d68.png)
+<img src="../../attachments/how-to-set-up-your-volt-interface_assets--d61bd71f33c256e6a867b8107a958026eb18bff4--d9e533f4e23b3d68.png" alt="add-new-volt.png">
 </figure>
 
 Connect Volt to your system using the included USB-A to USB-C cable (Volt desktop models) or the included USB-C cable (Volt 876). You can use another appropriate USB 2.0 or higher data cable. Power on your Volt with the power switch.  
@@ -110,7 +110,7 @@ After you log in and connect and power your Volt, follow the prompts to register
 **Note:** On a PC, you'll install the Volt hardware driver after registration.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![uac-new-volt.png](../../attachments/how-to-set-up-your-volt-interface_assets--620a177291d7f1d9d0e55d3343457c5b3787ceb9--4bc8ccd887a43aa6.png)
+<img src="../../attachments/how-to-set-up-your-volt-interface_assets--620a177291d7f1d9d0e55d3343457c5b3787ceb9--4bc8ccd887a43aa6.png" alt="uac-new-volt.png">
 </figure>
 
 ### PC only: Install driver
@@ -120,7 +120,7 @@ Volt is USB class-compliant and can be used for WDM audio without installing the
 Driver installation is part of the Volt registration process. After you complete the registration on a Windows system, you are prompted to install the Volt hardware driver. Click the Install button to install the hardware driver.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![uac-install-volt-driver.png](../../attachments/how-to-set-up-your-volt-interface_assets--e131c0724c3c06f4af52cebce4e02c2b26c68a98--9e65d5653a1da6a1.png)
+<img src="../../attachments/how-to-set-up-your-volt-interface_assets--e131c0724c3c06f4af52cebce4e02c2b26c68a98--9e65d5653a1da6a1.png" alt="uac-install-volt-driver.png">
 </figure>
 
 ------------------------------------------------------------------------

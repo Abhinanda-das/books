@@ -46,7 +46,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--b274c23d7d5e7898.png)
+<img src="../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--b274c23d7d5e7898.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.
@@ -146,7 +146,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image">
-![rear-callouts-amp.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--46338df2a776acbb.png)
+<img src="../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--46338df2a776acbb.png" alt="rear-callouts-amp.png">
 </figure>
 
  
@@ -172,7 +172,7 @@ You can store a preset you've created with your own settings by holding down the
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-on-led.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--d641feae8e31104d.png)
+<img src="../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--d641feae8e31104d.png" alt="golden-switches-on-led.png">
 </figure>
 
 ### Preset Mode
@@ -182,7 +182,7 @@ To enter Preset mode, press the right footswitch. Press the right footswitch aga
 **Note:** The left and right footswitch functions can be changed in the UAFX Control mobile app.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-preset-led.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--c319f5c810b48930.png)
+<img src="../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--c319f5c810b48930.png" alt="golden-switches-preset-led.png">
 </figure>
 
 ## Stored Preset
@@ -554,7 +554,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![ruby-fs-modes.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--12e488aad31020fef0f52e47f37c2e5fc34d0b18--065755fc82cfe4c5.png)
+<img src="../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--12e488aad31020fef0f52e47f37c2e5fc34d0b18--065755fc82cfe4c5.png" alt="ruby-fs-modes.png">
 </figure>
 
 The following Ruby '63 footswitch modes can be selected with the UAFX Control app.
@@ -602,7 +602,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![ruby-fs-live-ab.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--bd4201e67406db84e9d756cd086197f45842c2f9--73a2afa85699b744.png)
+<img src="../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--bd4201e67406db84e9d756cd086197f45842c2f9--73a2afa85699b744.png" alt="ruby-fs-live-ab.png">
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -614,7 +614,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![ruby-fs-ab.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--d23d9a1825e42f44347c7574123c9fa183d6f14a--376af06d7f95a9d6.png)
+<img src="../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--d23d9a1825e42f44347c7574123c9fa183d6f14a--376af06d7f95a9d6.png" alt="ruby-fs-ab.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -626,7 +626,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![ruby-fs-abcd.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--1e819915e232ffd200875fa0d19ef3bb45ca5f40--477ab4675c194b77.png)
+<img src="../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--1e819915e232ffd200875fa0d19ef3bb45ca5f40--477ab4675c194b77.png" alt="ruby-fs-abcd.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)

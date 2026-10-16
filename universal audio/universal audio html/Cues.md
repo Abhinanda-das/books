@@ -139,19 +139,19 @@ The colored rectangular switches next to each headphone icon in the Cue Outputs 
 <table>
 <tbody>
 <tr>
-<td>![](../../attachments/cues_assets--a9577c52ccab1ed0783dd6de795388d87f45f1c7--30d93d2c97b681be.png)</td>
+<td><img src="../../attachments/cues_assets--a9577c52ccab1ed0783dd6de795388d87f45f1c7--30d93d2c97b681be.png" alt=""></td>
 <td><p>The main mix is the cue source for Cue 1 and Cue 2.</p>
 <p>The main mix is heard on A and B HP 1 and HP 2.</p></td>
 </tr>
 <tr>
-<td>![](../../attachments/cues_assets--ceb979ff348e93a3a15d0c46142396c7304a389d--08ca6a942b1f2f36.png)</td>
+<td><img src="../../attachments/cues_assets--ceb979ff348e93a3a15d0c46142396c7304a389d--08ca6a942b1f2f36.png" alt=""></td>
 <td><p>The main mix is the cue source for Cue 1. </p>
 <p>The main mix is heard on A and B HP1. </p>
 <p>The Cue mix is the source for Cue 2. </p>
 <p>The Cue 2 mix is heard on A and B HP 2.</p></td>
 </tr>
 <tr>
-<td>![](../../attachments/cues_assets--7d54a31caaaa2d16f4741751732b0b7bd5e4e509--d79e88f8e48f86b9.png)</td>
+<td><img src="../../attachments/cues_assets--7d54a31caaaa2d16f4741751732b0b7bd5e4e509--d79e88f8e48f86b9.png" alt=""></td>
 <td><p>The main mix is the cue source for Cue 1. </p>
 <p>The main mix is heard on A and B HP1. </p>
 <p>The Cue 2 mix is the source for Cue 2. </p>
@@ -159,7 +159,7 @@ The colored rectangular switches next to each headphone icon in the Cue Outputs 
 <p>The Cue 2 mix is mono.</p></td>
 </tr>
 <tr>
-<td>![](../../attachments/cues_assets--afc804ee019be25344639e47454538bbbb86f767--c5c2c9db632bb145.png)</td>
+<td><img src="../../attachments/cues_assets--afc804ee019be25344639e47454538bbbb86f767--c5c2c9db632bb145.png" alt=""></td>
 <td><p>The main mix is the cue source for Cue 1. </p>
 <p>The main mix is heard on B HP 1.</p>
 <p>The Cue 2 bus is the source for Cue 2. </p>

@@ -43,7 +43,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--e3244aedf93ddb07.png)
+<img src="../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--e3244aedf93ddb07.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.
@@ -133,7 +133,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here</span>](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--0f7777bcf2bc6a65.png)
+<img src="../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--0f7777bcf2bc6a65.png" alt="rear-callouts-amp.png">
 </figure>
 
  
@@ -159,7 +159,7 @@ You can store a preset you’ve made with your own settings by holding down the 
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the live effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-on-led.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--e9b01084c46f62c3.png)
+<img src="../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--e9b01084c46f62c3.png" alt="golden-switches-on-led.png">
 </figure>
 
  
@@ -169,7 +169,7 @@ To enter Live mode, press the left footswitch. Press the left footswitch again t
 To enter Preset mode, press the right footswitch. Press the right footswitch again to toggle the preset on/off. The right footswitch LED is lit green when the preset is on.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-preset-led.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--f19e17d58c7fe92e.png)
+<img src="../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--f19e17d58c7fe92e.png" alt="golden-switches-preset-led.png">
 </figure>
 
 **Note:** The left and right footswitch functions can be changed in the UAFX Control mobile app.
@@ -366,7 +366,7 @@ For more details about footswitch modes and how to enable them, see [Woodrow '55
 Each speaker, cabinet, and mic setting has a unique sound. Toggle up or down through the list with the Speaker switch. When you register your pedal with UAFX Control software, you get three free bonus speaker cabinets (green LEDs).
 
 <figure class="wysiwyg-image">
-![bonus-cabs-woodrow.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--0b96390b0853323491f81cd25755554769ab14e8--b157078608185d6c.png)
+<img src="../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--0b96390b0853323491f81cd25755554769ab14e8--b157078608185d6c.png" alt="bonus-cabs-woodrow.png">
 </figure>
 
 **Note:** The speaker cabinet labels on the pedal apply only when the speaker LED is red. When the speaker LED is green, the active speaker name is visible in the UAFX Control mobile app.
@@ -518,7 +518,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![woodrow-fs-modes.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--6e5c90cfe05776da2ea47f9d181f302e77cd8a6a--0de14118ca264c0e.png)
+<img src="../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--6e5c90cfe05776da2ea47f9d181f302e77cd8a6a--0de14118ca264c0e.png" alt="woodrow-fs-modes.png">
 </figure>
 
  
@@ -554,7 +554,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![woodrow-fs-live-ab.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--b38b9bfe4d015b78e38690a51a908f4e28fc5736--ff98d62f0f29c622.png)
+<img src="../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--b38b9bfe4d015b78e38690a51a908f4e28fc5736--ff98d62f0f29c622.png" alt="woodrow-fs-live-ab.png">
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -566,7 +566,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![woodrow-fs-ab.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--6d085596c25ce264de5c82028363db100473b80f--3aad5d75b32c0402.png)
+<img src="../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--6d085596c25ce264de5c82028363db100473b80f--3aad5d75b32c0402.png" alt="woodrow-fs-ab.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -578,7 +578,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![woodrow-fs-abcd.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--7ffbfce01555f2a458e65401516258af61de69ff--142fc1736d085fe2.png)
+<img src="../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--7ffbfce01555f2a458e65401516258af61de69ff--142fc1736d085fe2.png" alt="woodrow-fs-abcd.png">
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)

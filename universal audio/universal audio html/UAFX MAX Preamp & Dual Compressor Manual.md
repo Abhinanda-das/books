@@ -43,7 +43,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--1ab8a356751415b7.png)
+<img src="../../attachments/uafx-max-preamp-dual-compressor-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--1ab8a356751415b7.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.
@@ -108,7 +108,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-non-amp.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--1189723291a9c227.png)
+<img src="../../attachments/uafx-max-preamp-dual-compressor-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--1189723291a9c227.png" alt="rear-callouts-non-amp.png">
 </figure>
 
 ------------------------------------------------------------------------

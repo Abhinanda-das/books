@@ -43,7 +43,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--fed96d8f77b66884.png)
+<img src="../../attachments/uafx-del-verb-ambience-companion-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--fed96d8f77b66884.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.
@@ -120,7 +120,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to connect your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-non-amp.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--765e98d19cc9035a.png)
+<img src="../../attachments/uafx-del-verb-ambience-companion-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--765e98d19cc9035a.png" alt="rear-callouts-non-amp.png">
 </figure>
 
 ------------------------------------------------------------------------

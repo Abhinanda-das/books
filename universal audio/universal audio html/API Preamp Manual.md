@@ -57,7 +57,7 @@ Of course, the API Preamp plug-in isn't just for Apollo interface owners. UAD ha
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: left; width: 7.28576%; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
+<td style="text-align: left; width: 7.28576%; vertical-align: middle; height: 0px;"><img src="../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png" alt="unison-icon1.png"></td>
 <td style="width: 88.1428%; height: 0px"><h3 id="h_01HZ00QNX74W6ZHXZQY7P9F9DV">Unison Integration</h3></td>
 </tr>
 </tbody>
@@ -96,7 +96,7 @@ Apollo's hardware preamp knob can independently adjust the gain and level parame
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;"><img src="../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6Z9BZ98PBNNKP96RPPEZKT">About Unison Interactions</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -120,7 +120,7 @@ The active setting is indicated by an LED next to the input's gain knob. When th
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;"><img src="../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JE6ZAMW2XZQ9P2DGBYGN9QE9">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -142,7 +142,7 @@ This knob adjusts the amount of gain applied to the mic input signal. The availa
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;"><img src="../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBEAHT0A1NRXNWTR5RZNT">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -164,7 +164,7 @@ The available Line Gain range is adopted from API VIsion Console's dedicated Lin
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;"><img src="../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBHE6TRV4R92ZB7ZESJ2S">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -192,7 +192,7 @@ When PAD is enabled with line input, the input signal level is attenuated by 6 d
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;"><img src="../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBNK5X8QY6Y654F8126BB">Unison Interactions</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -215,7 +215,7 @@ Polarity inversion can help reduce phase cancellations when more than one microp
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;"><img src="../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBSWGJYAGPV2DESKA6M3T">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -235,7 +235,7 @@ This button activates a 50 Hz low cut filter that has a slope of 6 dB per octave
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;"><img src="../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBXAKTX79B47SRZ45FNQP">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -261,7 +261,7 @@ This control provides -24 dB to +12 dB of clean uncolored gain at the output of 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;"><img src="../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png" alt="unison-icon1.png"></td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZC15YXXBVX8XYB1JV4NXV">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">

@@ -14,7 +14,7 @@ UAD Console’s visual and control elements are designed with a layout similar t
 UAD Console always shows certain screen elements (the title bar, info bar, meter bridge, and bank bar). Other UAD Console elements can be shown, hidden, resized, or collapsed, with a wide range of flexibility.   
 
 <figure class="wysiwyg-image">
-![console-callouts.png](../../attachments/layout-general-operation_assets--0f812ccdb61b541626f6645a42ce46a7a1babd1b--7b9eeba957e8c430.png)
+<img src="../../attachments/layout-general-operation_assets--0f812ccdb61b541626f6645a42ce46a7a1babd1b--7b9eeba957e8c430.png" alt="console-callouts.png">
 </figure>
 
 # Window Title Bar
@@ -22,7 +22,7 @@ UAD Console always shows certain screen elements (the title bar, info bar, meter
 The Window Title Bar is the topmost strip in the UAD Console window, as shown below.
 
 <figure class="wysiwyg-image">
-![uad-console-top-bar.png](../../attachments/layout-general-operation_assets--a0ffe59dc673aedcbd5cb15ced944ce2ba6ba8df--a8031403af6fb412.png)
+<img src="../../attachments/layout-general-operation_assets--a0ffe59dc673aedcbd5cb15ced944ce2ba6ba8df--a8031403af6fb412.png" alt="uad-console-top-bar.png">
 </figure>
 
 *Console Title Bar*

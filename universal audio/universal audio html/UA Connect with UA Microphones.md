@@ -66,7 +66,7 @@ UAD Sphere plug-ins are contained within UAD software. To download and install U
 4.  If the native Hemisphere plug-in is already installed, but a newer version is available, the Update button appears. Click to update the plug-in. 
 
 <figure class="wysiwyg-image">
-![uac-microphones-page.png](../../attachments/ua-connect-with-ua-microphones_assets--f52f0090ab0a1f8a16be6b05ff70d401f52725b7--c28245783c014feb.png)
+<img src="../../attachments/ua-connect-with-ua-microphones_assets--f52f0090ab0a1f8a16be6b05ff70d401f52725b7--c28245783c014feb.png" alt="uac-microphones-page.png">
 </figure>
 
 ------------------------------------------------------------------------
@@ -92,7 +92,7 @@ Apollo channel strip presets can be downloaded and automatically installed for y
 3.  Next to Apollo channel strip presets (in the Additional Downloads section), click Install to download and install the Apollo channel strip presets for your mic. 
 
 <figure class="wysiwyg-image">
-![channel-strip-presets-download.png](../../attachments/ua-connect-with-ua-microphones_assets--a95f926a301e2762c32cc56e572d978575e78cb6--d207a265ac1bcff1.png)
+<img src="../../attachments/ua-connect-with-ua-microphones_assets--a95f926a301e2762c32cc56e572d978575e78cb6--d207a265ac1bcff1.png" alt="channel-strip-presets-download.png">
 </figure>
 
 <span class="wysiwyg-font-size-small">v260204</span>

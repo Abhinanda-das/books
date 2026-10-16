@@ -39,7 +39,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](../../attachments/uafx-heavenly-plate-reverb-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--44e1560207762173.png)
+<img src="../../attachments/uafx-heavenly-plate-reverb-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--44e1560207762173.png" alt="bill-putnam-jr-signature.png">
 </figure>
 
 Bill Putnam Jr.
