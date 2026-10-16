@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/lotdahcaw"
 ---
 
-![обложка|156](<Life of Tulasi Devi and Her Care and Worship/обложка.jpeg>)
+![обложка|156](<../attachments/life-of-tulasi-devi-and-her-care-and-worship--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--167fc1197857e029.jpeg>)
 
 Find out why:
 

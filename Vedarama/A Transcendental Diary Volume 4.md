@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/td4"
 ---
 
-![обложка|156](<A Transcendental Diary Volume 4/обложка.jpeg>)
+![обложка|156](<../attachments/a-transcendental-diary-volume-4--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a95a6bb942b97f6c.jpeg>)
 
 This is the fourth of five volumes, covering the period between August 1976 – October 1976. This fourth volume provides one of the most detailed and fascinating accounts of the formation of a new religious movement available. As the personal servant of Srila Prabhupada, Hari Sauri Dasa enjoyed unprecedented access to both his public and private life, which he detailedly recorded and now shares with us. In this volume we follow Srila Prabhupada on the last leg of his final world tour to Teheran, Bombay, Hyberabad, New Delhi and the sacred town of Vrindavan. Foreward by Dr.Charles R. Brook, Institute for Program Evaluation, New York.
 

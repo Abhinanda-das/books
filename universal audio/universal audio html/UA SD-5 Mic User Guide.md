@@ -17,9 +17,9 @@ This printed guide is included in your UA SD-5 retail package. 
 
  
 
-![UA SD-5 User Guide 1.png](UA%20SD-5%20Mic%20User%20Guide_assets/3561799a92a4f9d63636a8a1d421686d9446b0ee.png)
+![UA SD-5 User Guide 1.png](../../attachments/ua-sd-5-mic-user-guide_assets--3561799a92a4f9d63636a8a1d421686d9446b0ee--2d0e33e00bd59303.png)
 
-![UA SD-5 User Guide 2.png](UA%20SD-5%20Mic%20User%20Guide_assets/e6db9decc5baaf485d1a25a704a4b8a646b617e3.png)
+![UA SD-5 User Guide 2.png](../../attachments/ua-sd-5-mic-user-guide_assets--e6db9decc5baaf485d1a25a704a4b8a646b617e3--58b393edf04ca520.png)
 
  
 

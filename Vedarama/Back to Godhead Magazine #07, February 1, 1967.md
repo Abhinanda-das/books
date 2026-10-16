@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg7"
 ---
 
-![обложка|156](<Back to Godhead Magazine #07, February 1, 1967/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-07-february-1-1967--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--164b03628b76c562.jpeg>)
 
 # Back to Godhead Magazine #07, February 1, 1967
 

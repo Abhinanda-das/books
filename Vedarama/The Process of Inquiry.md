@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gourgovindasw-tpoi"
 ---
 
-![обложка|156](<The Process of Inquiry/обложка.jpeg>)
+![обложка|156](<../attachments/the-process-of-inquiry--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f953339a92d82a5c.jpeg>)
 
 Gour Govinda Maharaja guides us through the method of properly inquiring from a self-realized soul.
 

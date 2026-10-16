@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gp-mnd"
 ---
 
-![обложка|156](<Garuda Purāṇa by Manmatha Nath Dutt/обложка.jpeg>)
+![обложка|156](<../attachments/garuda-pur%C4%81%E1%B9%87a-by-manmatha-nath-dutt--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c2d2e66998369f1f.jpeg>)
 
 This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible.
 

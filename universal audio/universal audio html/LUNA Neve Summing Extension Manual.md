@@ -39,7 +39,7 @@ When audio sources flow through the transformers and custom-built op-amps of a c
 
 For more than two years, UA dissected and studied multiple vintage Neve 80 series consoles and their components — pouring over original service manuals and gaining crucial insight into its Class A transformer/transistor circuitry. UA's team of engineers impeccably emulated all of the original hardware's nonlinearities and clipping characteristics, yielding results that are virtually indistinguishable from the original console.
 
-![neve-summing.png](LUNA%20Neve%20Summing%20Extension%20Manual_assets/ee701184de8938b6615eac8aa04cf0d259ee1861.png)
+![neve-summing.png](../../attachments/luna-neve-summing-extension-manual_assets--ee701184de8938b6615eac8aa04cf0d259ee1861--c48e7c54b8fb3dea.png)
 
 # Get Neve Summing
 
@@ -56,7 +56,7 @@ When you change the Neve Summing setting for a bus, the faders for the bus and f
 - In the Input row of a bus or the Main track, click the Summing button, and choose Neve Summing.
 - Set the controls for Headroom (HR), Trim, and Impedance.
 
-![summing-select.png](LUNA%20Neve%20Summing%20Extension%20Manual_assets/94fed44ea11f872e951f4acce3bc7abdac0a6509.png)
+![summing-select.png](../../attachments/luna-neve-summing-extension-manual_assets--94fed44ea11f872e951f4acce3bc7abdac0a6509--fd57cc2add04be20.png)
 
 To adjust controls on multiple tracks, select multiple tracks, then change the controls on one track. A Track Group (Command+G) or Selection Grouping (Track \> Selection Grouping, or Control+G) must be enabled to adjust Neve Summing settings on multiple tracks at one time.
 
@@ -90,5 +90,5 @@ Bypass is useful for comparing the processed signal to the original, unprocessed
 
 Console Summing LUNA Extensions change the behavior and appearance of the LUNA buses and Main track to display accurate fader tapers. When you route tracks to a bus with a summing model enabled, the fader tapers on the bus or Main track and the source tracks change.
 
-![summing-bus-source-track-taper.png](LUNA%20Neve%20Summing%20Extension%20Manual_assets/078f75ed3b8b9413a79ea7efe391780340b7effc.png)
+![summing-bus-source-track-taper.png](../../attachments/luna-neve-summing-extension-manual_assets--078f75ed3b8b9413a79ea7efe391780340b7effc--a3b206f2bf7260d4.png)
 

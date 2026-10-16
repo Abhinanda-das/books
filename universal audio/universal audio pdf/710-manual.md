@@ -139,7 +139,7 @@ And when we need to direct you to a page or section elsewhere in the manual, we'
 - **Step 16:** Finally, experiment with the Blend control to hear the different sonic signatures imparted by the two discrete preamplifiers contained within the 710. At the fully counterclockwise (TRANS) position, only signal from the solid-state preamplifier is heard. At the fully clockwise (TUBE) position, only the signal from the tube preamplifier is heard. Most uniquely, it is the in-between settings that allow you to access the "twin-finity" of sounds offered by the 710 and create a custom blend that best complements your signal source.
   - **For more information, refer to the "Front Panel" and "Rear Panel" sections on pages 4 7 of this manual.**
 
-![](710-manual_assets/_page_7_Figure_1.jpeg)
+![](../../attachments/710-manual_assets--page_7_figure_1--f6a3a9d80741bc6b.jpeg)
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -172,14 +172,14 @@ meter reading of 0 VU corresponds to a level of +4 dBm at the rear panel LINE OU
 - **(12) Power** Turns the 710 power on or off. When powered on, the front panel meter lights up.
   - -**The 710 should be powered off when it is not being used for extended periods of time.**
 
-![](710-manual_assets/_page_10_Figure_1.jpeg)
+![](../../attachments/710-manual_assets--page_10_figure_1--36c681b27af38733.jpeg)
 
 - **(1) AC Power Connector** Connect a standard, detachable IEC power cable (supplied) here.
 - **(2) LINE OUTPUT** A balanced XLR connector that carries the line-level output signal of the 710. Note that Pin 2 is positive when the front panel Polarity switch is off (INø). Pin 3 is positive when the front panel Polarity switch is engaged (OUTø). ( see #11 on page 6)
 - **(3) LINE INPUT** Connect a line-level input signal (coming from a device such as a mixer, DAW, tape machine, or signal processor) into this balanced XLR connector. Pin 2 is wired positive (hot).
 - **(4) MIC INPUT** Connect a microphone to this standard XLR connector. Pin 2 is wired positive (hot).
 
-![](710-manual_assets/_page_11_Figure_1.jpeg)
+![](../../attachments/710-manual_assets--page_11_figure_1--1ef495a2c550b1b6.jpeg)
 
 **For most applications, we recommend setting the 710 Gain and Level controls at approximately "5" (their twelve o'clock position). Adjustments can then be made to the Gain, Level, and Blend controls to achieve the optimum sound for your signal source.**
 
@@ -291,7 +291,7 @@ While, in theory, this should result in no harm to the connected microphone even
 
 The occasional need for phase inversion (changing the 710 front panel switch from INø to OUTø) is best demonstrated by a common example: recording an open-backed guitar amplifier with two microphones, where one mic is placed close to the front of the amp's speaker and the other near the back of the amp. The waveform display of the first mic will show an upward peak when the speaker pushes outward, placing positive sound pressure on the mic. However, the waveform display of the second mic (the one behind the amp) will show a downward (negative) valley when the speaker pushes forward, because from the back of the amp the speaker moves away from the mic, thus creating negative sound pressure. If these two signals are mixed, the positive waveform from the front mic combines with the negative waveform from the back mic to result in cancellation of much of the amp's sound and a "thinning effect" that is sonically disappointing. However, if the phase of one of the mic signals is inverted, the two signals will combine instead of cancelling, and the result will be much fuller and sonically pleasing.
 
-![](710-manual_assets/_page_17_Picture_8.jpeg)
+![](../../attachments/710-manual_assets--page_17_picture_8--a602acf6a3f11380.jpeg)
 
 Other double-mic applications often requiring phase inversion include piano soundboards, drum heads (one mic on top of the drum and the other below it), and acoustic guitar miking, where one mic is placed close to the soundhole and another further away or behind the guitar.
 
@@ -305,15 +305,15 @@ Typically, a low cut filter can be used to remove: vocal "B","P" and other poppi
 
 The 710 ships with all the necessary brackets and hardware required for mounting one or two units in a standard 19" rack; the only tool necessary is a medium Phillips-head screwdriver. When mounted, the 710 takes two rack spaces. Bracket and hardware locations are shown below:
 
-![](710-manual_assets/_page_18_Figure_7.jpeg)
+![](../../attachments/710-manual_assets--page_18_figure_7--7a70bb46c6cce71c.jpeg)
 
 ### **Optional Desktop Handle Kit**
 
 An optional 710 desktop handle kit is available from www.uaudio.com. Bracket and hardware locations are shown below:
 
-![](710-manual_assets/_page_19_Picture_1.jpeg)
+![](../../attachments/710-manual_assets--page_19_picture_1--ec0c099d306fdd89.jpeg)
 
-![](710-manual_assets/_page_19_Picture_2.jpeg)
+![](../../attachments/710-manual_assets--page_19_picture_2--09f5b03927c6f766.jpeg)
 
 ### **Maintenance Information**
 
@@ -329,7 +329,7 @@ The 710 contains a universal auto-sensing, filtered, multi-stage regulated power
 
 ### **Block Diagram**
 
-![](710-manual_assets/_page_21_Figure_2.jpeg)
+![](../../attachments/710-manual_assets--page_21_figure_2--2b8508e41c960507.jpeg)
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -388,7 +388,7 @@ OFF ON
 
 UNIVERSAL AUDIO
 
-![](710-manual_assets/_page_24_Picture_1.jpeg)
+![](../../attachments/710-manual_assets--page_24_picture_1--126b5af7f6183020.jpeg)
 
 ## 10 Twin-Finit
 
@@ -396,11 +396,11 @@ UNIVERSAL AUDIO
 
 # UNIVERSAL AUDIO
 
-![](710-manual_assets/_page_24_Picture_6.jpeg)
+![](../../attachments/710-manual_assets--page_24_picture_6--1d05eff1a3f773cf.jpeg)
 
-![](710-manual_assets/_page_24_Picture_7.jpeg)
+![](../../attachments/710-manual_assets--page_24_picture_7--45cb21fd08a754f8.jpeg)
 
-![](710-manual_assets/_page_24_Picture_8.jpeg)
+![](../../attachments/710-manual_assets--page_24_picture_8--634568a3f6fd478e.jpeg)
 
 OFF ON ON
 

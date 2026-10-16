@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rg-kbrp-bs"
 ---
 
-![обложка|156](<Kṛṣṇa-bhakti-ratna-prakāśa [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/k%E1%B9%9B%E1%B9%A3%E1%B9%87a-bhakti-ratna-prak%C4%81%C5%9Ba-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1d43c6220403651f.jpeg>)
 
 Description of worship of Krishna, rejecting all other worship, establishing Krsna as the most complete form, establishing Krishna’s eternal manifestations inside Vrindavana, establishing Krsna’s kaisora svarupa and description of bhakti are just some of the topic of this book.
 

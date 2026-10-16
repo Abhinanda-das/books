@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sambi-thalotgv"
 ---
 
-![обложка|156](<The History & Literature of The Gaudiya Vaishnavas and their Relation to other Medieval Vaishnava Schools/обложка.jpeg>)
+![обложка|156](<../attachments/the-history-literature-of-the-gaudiya-vaishnavas-and-their-relati--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--497a56a29fd859b0.jpeg>)
 
 Although this is a posthumous publication, it supplies very substantial material about the history & literature of the Gaudiya Vaishnavism and their relation to other Medieval Vaishnava Schools.
 

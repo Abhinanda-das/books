@@ -36,9 +36,9 @@ JavaScript kann nicht ausgeführt werden.
 
 #### macOS
 
-![auth_mac.gif](Authorizing%20UAD%20DSP%20Plug-Ins_assets/4176e4619d124752b3f4e783e42783564340037d.gif)
+![auth_mac.gif](../../attachments/authorizing-uad-dsp-plug-ins_assets--4176e4619d124752b3f4e783e42783564340037d--1743ccbf4c882cee.gif)
 
 #### Windows
 
-![auth_pc.gif](Authorizing%20UAD%20DSP%20Plug-Ins_assets/13d034bba558c8346b4aca959cbf7194a9aa06cd.gif)
+![auth_pc.gif](../../attachments/authorizing-uad-dsp-plug-ins_assets--13d034bba558c8346b4aca959cbf7194a9aa06cd--f44365eadfcc9f74.gif)
 

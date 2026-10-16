@@ -63,7 +63,7 @@ _1 WHAT IS DYNAMIC EQ?_
 ## **1 What is dynamic EQ?** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0004-02.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0004-02--57c240d6da5c9d98.png>)
 
 
 Equalisation is the audio engineer’s most widely used processing tool. However, the equalisation applied is usually static – it remains the same over time. 
@@ -129,13 +129,13 @@ _2 EQ CONTROLS_
 ## **2 EQ Controls** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0007-02.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0007-02--d9336d1e8e2492d5.png>)
 
 
 ## **2.1** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0007-04.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0007-04--ebc8c29205a10a97.png>)
 
 
 The Offset Gain determines the resting, or static gain of each equaliser section. 
@@ -153,7 +153,7 @@ _2 EQ CONTROLS_
 ## **2.2 Target Gain** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0008-03.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0008-03--f2b7b08a3c2075d6.png>)
 
 
 The Target Gain determines the gain which the EQ band will attempt to reach dynamically. 
@@ -165,7 +165,7 @@ When multiple EQ sections overlap, their combined response can exceed the range 
 ## **2.3 EQ Enabled** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0008-08.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0008-08--1c357c7e8abc9e5f.png>)
 
 
 Enable and Disable all processing for this band. 
@@ -173,11 +173,11 @@ Enable and Disable all processing for this band.
 ## **2.4 EQ Listen** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0008-11.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0008-11--1fb2f118a2393054.png>)
 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0008-12.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0008-12--7d4e21de0ff6aca5.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -197,7 +197,7 @@ Listen to just the frequency range which will be processed. This can help when f
 ## **2.5 EQ Channel** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0009-04.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0009-04--2ef4d9096e928afb.png>)
 
 
 Select the output channel to apply this band’s EQ to. 
@@ -217,7 +217,7 @@ You can select to process:
 ## **2.6 EQ Type** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0009-13.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0009-13--9529f4962434556e.png>)
 
 
 Select the EQ type which is applied to the output signal. 
@@ -243,7 +243,7 @@ _2 EQ CONTROLS_
 ## **2.7 EQ Frequency** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0010-03.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0010-03--f4798e81687daf00.png>)
 
 
 Set the centre frequency (Bell EQ type), or corner frequency (Shelf EQ types) for this band. 
@@ -251,7 +251,7 @@ Set the centre frequency (Bell EQ type), or corner frequency (Shelf EQ types) fo
 ## **2.8 EQ Q** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0010-06.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0010-06--5d0fe471086104b1.png>)
 
 
 Set the Q (width) of this band’s Bell EQ type. The Q control is disabled for the Shelf EQ types. 
@@ -275,7 +275,7 @@ _2 EQ CONTROLS_
 ## **2.10 EQ Graph Zoom** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0011-03.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0011-03--d9be579974910c8c.png>)
 
 
 Toggle the graph dB scale between -/+4 dB, -/+6 dB, -/+12 dB and -/+20 dB scales. 
@@ -307,7 +307,7 @@ By default the side chain filter matches the EQ band, using the same type, frequ
 ## **3.2 SC Enabled** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0012-07.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0012-07--1449c6985db64b0e.png>)
 
 
 Enable to control the side chain filter independently of the EQ band. 
@@ -315,7 +315,7 @@ Enable to control the side chain filter independently of the EQ band.
 ## **3.3 SC Drag handle** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0012-10.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0012-10--862507e441989b1a.png>)
 
 
 Drag the middle node left/right to set the centre frequency of this side chain filter. Drag the edge nodes left/right to set the Q of this side chain filter. 
@@ -335,7 +335,7 @@ _3 SIDE CHAIN CONTROLS_
 ## **3.4 SC Listen** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0013-03.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0013-03--0d3986f0d1e14e6f.png>)
 
 
 Listen to the side chain signal filtered using the side chain filter settings. This can help when fine tuning the frequency range to react to dynamically. 
@@ -343,7 +343,7 @@ Listen to the side chain signal filtered using the side chain filter settings. T
 ## **3.5 SC Channel** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0013-06.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0013-06--28559208aeb2f031.png>)
 
 
 Select the input signal channel to feed into this band’s side chain path. 
@@ -363,7 +363,7 @@ You can select to feed the side chain with:
 ## **3.6 SC Type** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0013-15.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0013-15--8b5979d3a2f64cb5.png>)
 
 
 _Go to contents_ 
@@ -391,7 +391,7 @@ These correspond to an EQ Type of Low Shelf, Bell, and High Shelf respectively.
 ## **3.7 SC Frequency** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0014-09.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0014-09--8b3b3c41ebec2452.png>)
 
 
 Set the centre frequency (Band Pass filter type), or cutoff frequency (High and Low Pass filter types) of the side chain filter. 
@@ -399,7 +399,7 @@ Set the centre frequency (Band Pass filter type), or cutoff frequency (High and 
 ## **3.8 SC Q** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0014-12.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0014-12--0cd4607a86b0259c.png>)
 
 
 Set the Q (width) of the side chain Band Pass filter. The Q control is disabled for the Low Pass and High Pass filter types. 
@@ -419,7 +419,7 @@ Each EQ band is controlled by a powerful dynamics processor, providing upwards a
 ## **4.1 Detect** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0015-04.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0015-04--d8a4abc5fbc5fe50.png>)
 
 
 Choose Peak to react to overall peak signal level. Choose Onsets to react only to sudden increases in signal level, while ignoring the overall peak level. 
@@ -429,7 +429,7 @@ Onset detection is useful for reacting to transients, staccato notes and even si
 ## **4.2 Trigger** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0015-08.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0015-08--9319ef84d8c81334.png>)
 
 
 _Go to contents_ 
@@ -453,7 +453,7 @@ See Dynamic Transfer Function for more details.
 ## **4.3 Threshold** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0016-07.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0016-07--3b9fcc728a3e44b7.png>)
 
 
 Set the level at which the dynamics processing becomes active (depending on the Trigger setting). 
@@ -473,7 +473,7 @@ _4.4 Dynamics_
 ## **4.4 Dynamics** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0017-03.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0017-03--813431a729e2cdd2.png>)
 
 
 Set how reactive the band’s gain is. This is similar to a compressor’s ratio control. 
@@ -483,7 +483,7 @@ At high Dynamics settings, the band’s gain is more likely to reach the Target 
 ## **4.5 Attack** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0017-07.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0017-07--29ce9da811425ac8.png>)
 
 
 Set how slowly the band approaches the Target Gain. 
@@ -501,7 +501,7 @@ _4.6 Release_
 ## **4.6 Release** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0018-03.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0018-03--133485d217e5f0a6.png>)
 
 
 Set how slowly the band recovers to the Offset Gain. 
@@ -563,7 +563,7 @@ _6.3_
 sound over-processed or harsh as more gain cut/boost is applied. 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0021-04.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0021-04--261191873bb45785.png>)
 
 
 ## **Blue** 
@@ -589,7 +589,7 @@ _6.3 Dynamic Transfer Function_
 ## **6.3.1 Downwards Compression** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0022-03.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0022-03--9ef69898de8580c8.png>)
 
 
 ## **Settings** 
@@ -611,7 +611,7 @@ _6.3 Dynamic Transfer Function_
 ## **6.3.2 Upwards Expansion** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0023-03.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0023-03--d10abe8bd5ff457e.png>)
 
 
 ## **Settings** 
@@ -631,7 +631,7 @@ _6.3 Dynamic Transfer Function_
 ## **6.3.3 Upwards Compression** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0024-03.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0024-03--66c3a70319f5d8c7.png>)
 
 
 ## **Settings** 
@@ -655,7 +655,7 @@ _6 TECH NOTES_
 _6.3 Dynamic Transfer Function_ 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0025-02.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0025-02--b21e912a82c635b3.png>)
 
 
 _Go to contents_ 
@@ -669,7 +669,7 @@ _7 PRESET MANAGER TOOLBAR_
 ## **7 Preset Manager Toolbar** 
 
 
-![](<Oxford Dynamic EQ Manual_assets/Oxford_Dynamic_EQ_Manual.pdf-0026-02.png>)
+![](<../../attachments/oxford-dynamic-eq-manual_assets--oxford_dynamic_eq_manual.pdf-0026-02--23ee5e6de00209a0.png>)
 
 
 Sonnox Oxford plug-ins come equipped with their own onboard Preset Manager, which is displayed at the top of the plug-in window. The reasoning behind this is to allow increased portability of your presets across all the host applications, while also providing a consistent and versatile interface. While most host platforms allow creation and loading of presets, those host-created preset files are not portable between different host applications. With the Oxford plug-ins’ Preset Manager, you can create a named preset in one host application and load it when using an alternative application. 

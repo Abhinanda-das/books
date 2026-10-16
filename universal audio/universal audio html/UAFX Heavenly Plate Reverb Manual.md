@@ -39,7 +39,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Heavenly%20Plate%20Reverb%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-heavenly-plate-reverb-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--44e1560207762173.png)
 </figure>
 
 Bill Putnam Jr.
@@ -48,7 +48,7 @@ Bill Putnam Jr.
 
 # Heavenly Quick Start
 
-![qs-heavenly.png](UAFX%20Heavenly%20Plate%20Reverb%20Manual_assets/e5e7b9a07e8e53b81c6cf0bbad2113495d70222c.png)
+![qs-heavenly.png](../../attachments/uafx-heavenly-plate-reverb-manual_assets--e5e7b9a07e8e53b81c6cf0bbad2113495d70222c--e9bd66b1d7d1f45d.png)
 
 [**Download Heavenly Quick Start**](360058186352-UAFX-Pedal-Downloads.html)
 
@@ -79,7 +79,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
-![heavenly-rear-panel.png](UAFX%20Heavenly%20Plate%20Reverb%20Manual_assets/192d7c762e501a2b9543b4adc74df686556b9c1e.png)
+![heavenly-rear-panel.png](../../attachments/uafx-heavenly-plate-reverb-manual_assets--192d7c762e501a2b9543b4adc74df686556b9c1e--fe0ec3c4d4c8c8c6.png)
 
 ------------------------------------------------------------------------
 
@@ -270,11 +270,11 @@ You can adjust the mod rate for Heavenly’s reverb signal using the slider swit
 
 # Heavenly Safety
 
-![safety-symbol-exclaim.png](UAFX%20Heavenly%20Plate%20Reverb%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![safety-symbol-exclaim.png](../../attachments/uafx-heavenly-plate-reverb-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--0081340e1b9d5bba.png)
 
 **Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 250 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20Heavenly%20Plate%20Reverb%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![safety-symbol-book-info.png](../../attachments/uafx-heavenly-plate-reverb-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--6bef7dd001bc519f.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -298,7 +298,7 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 (This is Class B equipment. Although this equipment is intended for use in residential environments, it could cause poor reception if used near a radio television receiver. Please follow all instructions in the instruction manual.)
 
-![safety-symbol-trash.png](UAFX%20Heavenly%20Plate%20Reverb%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-heavenly-plate-reverb-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--a466114e25455066.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

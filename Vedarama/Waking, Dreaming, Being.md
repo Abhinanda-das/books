@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ev-wdb"
 ---
 
-![обложка|156](<Waking, Dreaming, Being/обложка.jpeg>)
+![обложка|156](<../attachments/waking-dreaming-being--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9e41b8e083ad7f30.jpeg>)
 
 # Waking, Dreaming, Being
 

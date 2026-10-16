@@ -9,15 +9,15 @@ word_count: 4910
 1 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0001-01.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0001-01--c34faeb3042ce7e7.png>)
 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0001-02.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0001-02--f0af4b78aca8c680.png>)
 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0002-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0002-00--15627c5db8056285.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -43,7 +43,7 @@ I worked with our Brainworx team and external mastering experts to verify that t
 2 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0003-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0003-00--b6c7682fbbbce109.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -73,7 +73,7 @@ Happy mixing and mastering!
 I know that a lot of modern solutions in plug-in form or via online mastering services offer you a sheer insane amount of tools and tricks, virtual assistants to do the job for you and even artificial intelligence... BUT: in my mind many people are overthinking the mastering process, and maybe they are even 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0003-12.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0003-12--fe21e99bc9a92dd1.png>)
 
 
 Dirk Ulrich 
@@ -83,7 +83,7 @@ Owner Brainworx & Designer of bx_masterdesk
 3 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0004-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0004-00--f5f3822f2f9c5650.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -115,7 +115,7 @@ bx_masterdesk<br>Plug-in Manual<br>**----- End of picture text -----**<br>
 4 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0005-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0005-00--93767e80bea1d083.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -145,7 +145,7 @@ The Mastering De-Esser sits at the end of the processing chain and is a great to
 5 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0006-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0006-00--e2c5fe17173354a1.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -167,7 +167,7 @@ In the Unlinked mode the compressor will detect peaks on Left and Right channels
 6 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0007-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0007-00--166afa97d8ada221.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -191,7 +191,7 @@ All four modes allow for parallel compression using the Compressor Mix knob, and
 7 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0008-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0008-00--1e5d64ba27598d41.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -221,7 +221,7 @@ The default setting is -60dB, but you can easily go higher if needed. For modern
 8 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0009-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0009-00--f910fa7ab4615684.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -257,7 +257,7 @@ The values -30 to +30 represent a dB range of -3dB to +3dB, so even at maximum s
 9 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0010-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0010-00--ec736ec27f1b2014.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -283,7 +283,7 @@ In fact, your music will sound tighter and punchier in the low end once you have
 10 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0011-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0011-00--4352b0e66032ab23.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -315,7 +315,7 @@ While almost every master sounds better using one of the Low Resonance filters (
 11 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0012-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0012-00--e74d284ddb23d099.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -345,7 +345,7 @@ If all this sounds way too technical for you and you´re only producing music fo
 12 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0013-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0013-00--f240e11c085c17e4.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -375,7 +375,7 @@ This way you can save presets for your songs that will recall the various loudne
 13 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0014-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0014-00--fe62ed5d1d681cf3.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -403,7 +403,7 @@ Based on the level of your mix you may have to adjust at least the VOLUME knob w
 **1 2** 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0015-01.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0015-01--3d9533a9dd009d56.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -411,7 +411,7 @@ Based on the level of your mix you may have to adjust at least the VOLUME knob w
 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0015-02.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0015-02--e6f07696b44b3a28.png>)
 
 
 ## ~~**Top Toolbar**~~ 
@@ -455,11 +455,11 @@ For more information and videos on M/S Technology for Recording, Mixing and Mast
 15 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0016-00.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0016-00--3c88dc28d09b666a.png>)
 
 
 
-![](<bx_masterdesk Manual_assets/bx_masterdesk_Manual.pdf-0016-01.png>)
+![](<../../attachments/bx_masterdesk-manual_assets--bx_masterdesk_manual.pdf-0016-01--0ccc44624e7183a7.png>)
 
 
 Plug in, Rock out!   - **www.brainworx.audio** 

@@ -7,13 +7,13 @@ word_count: 350
 ---
 
 
-![](<UAFX Golden Quick Start_assets/UAFX_Golden_Quick_Start.pdf-0001-00.png>)
+![](<../../attachments/uafx-golden-quick-start_assets--uafx_golden_quick_start.pdf-0001-00--0e6ac78a4c6f4e2a.png>)
 
 
 ~~10004209R9~~ 
 
 
-![](<UAFX Golden Quick Start_assets/UAFX_Golden_Quick_Start.pdf-0002-00.png>)
+![](<../../attachments/uafx-golden-quick-start_assets--uafx_golden_quick_start.pdf-0002-00--82c67aab50d55864.png>)
 
 
 ## **STORE** 
@@ -43,7 +43,7 @@ Lit when knob settings active
 Toggle effect on/off with knob settings 
 
 
-![](<UAFX Golden Quick Start_assets/UAFX_Golden_Quick_Start.pdf-0002-14.png>)
+![](<../../attachments/uafx-golden-quick-start_assets--uafx_golden_quick_start.pdf-0002-14--5fa98aae96004cb9.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -81,7 +81,7 @@ Lit when stored settings active
 Toggle effect on/off with stored settings 
 
 
-![](<UAFX Golden Quick Start_assets/UAFX_Golden_Quick_Start.pdf-0002-30.png>)
+![](<../../attachments/uafx-golden-quick-start_assets--uafx_golden_quick_start.pdf-0002-30--64aeca728c6bf7c2.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -115,6 +115,6 @@ Connect TS cable for stereo only (in addition to MONO output)
 **Get More** Free Chamber & Plate 224 effect, UAFX Control app, and complete documentation: uaudio.com/uafx/start 
 
 
-![](<UAFX Golden Quick Start_assets/UAFX_Golden_Quick_Start.pdf-0002-44.png>)
+![](<../../attachments/uafx-golden-quick-start_assets--uafx_golden_quick_start.pdf-0002-44--11e8802ef0ddc549.png>)
 
 

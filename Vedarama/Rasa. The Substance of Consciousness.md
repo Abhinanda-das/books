@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rsc"
 ---
 
-![обложка|156](<Rasa. The Substance of Consciousness/обложка.jpeg>)
+![обложка|156](<../attachments/rasa.-the-substance-of-consciousness--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d1c7bd4f3604a5c6.jpeg>)
 
 # Rasa. The Substance of Consciousness
 

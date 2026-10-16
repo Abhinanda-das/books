@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/fme"
 ---
 
-![обложка|156](<Five Mystical Experiences in Indian Wisdom Today/обложка.jpeg>)
+![обложка|156](<../attachments/five-mystical-experiences-in-indian-wisdom-today--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b484bd04451d327a.jpeg>)
 
 # Five Mystical Experiences in Indian Wisdom Today
 
@@ -306,7 +306,7 @@ Some of such characteristics which distinguish self-actualized individuals from 
 6\.   Seldom depend upon their environment or culture to form their opinions.  
 7\.   Tendency to view life as a mission which calls them to a purpose beyond themselves.
 
-![рис-001.jpg|518](<Five Mystical Experiences in Indian Wisdom Today/рис-001.jpg>)
+![рис-001.jpg|518](<../attachments/five-mystical-experiences-in-indian-wisdom-today--%D1%80%D0%B8%D1%81-001--b6e21437d9b4dbdf.jpg>)
 
 The need for self-actualization simply means the need to become everything one is capable of becoming. Therefore, in 1970 Maslow added levels to his pyramid, involving a change of hierarchy:  
 5\.   Need for knowledge  
@@ -314,7 +314,7 @@ The need for self-actualization simply means the need to become everything one i
 7\.   Need for self-actualization  
 8\.   Need for transcendental, mystical experiences, etc. (www.sloww.co/transcendence-maslow/)
 
-![рис-002.jpg|430](<Five Mystical Experiences in Indian Wisdom Today/рис-002.jpg>)
+![рис-002.jpg|430](<../attachments/five-mystical-experiences-in-indian-wisdom-today--%D1%80%D0%B8%D1%81-002--fabb26a2348dc792.jpg>)
 
 Charles A. Filion, M.A.  
 May 2021  

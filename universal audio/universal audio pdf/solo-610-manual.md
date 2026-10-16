@@ -6,7 +6,7 @@ tool_version: 1.10.2
 word_count: 8407
 ---
 
-![](solo-610-manual_assets/_page_0_Picture_0.jpeg)
+![](../../attachments/solo-610-manual_assets--page_0_picture_0--22d1c354c3277e65.jpeg)
 
 # **SOLO/610 Classic Tube Preamplifier & DI Box**
 
@@ -142,7 +142,7 @@ Rack mounting the SOLO can be done with the use of a standard rack mount shelf. 
 
 # **Front Panel Descriptions**
 
-![](solo-610-manual_assets/_page_6_Figure_1.jpeg)
+![](../../attachments/solo-610-manual_assets--page_6_figure_1--423b6a51f183bc92.jpeg)
 
 - **(1) GAIN Knob –** Adjusts the gain of the input stage. Turning the knob clockwise increases the gain. Because this also has the effect of reducing negative feedback (see page 13), the GAIN control also alters the amount of the input tube's harmonic distortion, a major contribution to the "warm" sound characteristic of tube equipment. The higher the GAIN setting, the more coloration the SOLO/610 will impart to the incoming signal. For the cleanest, most uncolored signal from the SOLO/610, set the GAIN to a low value while increasing the LEVEL knob until the appropriate output level is attained.
 - **(2) LEVEL Knob –** LEVEL determines the amount of signal sent from the input stage to the final output stage and the rear panel OUTPUT jack. LEVEL behaves like a master volume control, where GAIN controls the amount of coloration and LEVEL controls the final output volume.
@@ -173,7 +173,7 @@ With DI inputs, LO-Z is typically used for instruments with high output and/or a
 
 # **Rear Panel Descriptions**
 
-![](solo-610-manual_assets/_page_8_Figure_2.jpeg)
+![](../../attachments/solo-610-manual_assets--page_8_figure_2--2518bda4b07b1dc9.jpeg)
 
 **(12) AC Input –** Connect a standard, grounded, detachable IEC power cable (supplied) here.
 
@@ -197,11 +197,11 @@ For additional information about this switch, see "Application Notes" on page 12
 
 # Typical SOLO/610 Live Setup
 
-![](solo-610-manual_assets/_page_10_Figure_2.jpeg)
+![](../../attachments/solo-610-manual_assets--page_10_figure_2--a8addf90c0ce3a27.jpeg)
 
 #### Typical SOLO/610 Recording Setup
 
-![](solo-610-manual_assets/_page_10_Figure_4.jpeg)
+![](../../attachments/solo-610-manual_assets--page_10_figure_4--91cb75ea484ca5d1.jpeg)
 
 # **Quickstart**
 
@@ -375,9 +375,9 @@ To convert the AC input voltage on the 115VAC/230VAC unit, the internal voltage 
 - **5.** Replace the chassis cover and the 14 chassis cover screws.
 - **6. When changing operating voltage, the fuse value must be changed as well.** Replace the fuse with the proper value to match the new AC input voltage per instructions on next page.
 
-![](solo-610-manual_assets/_page_18_Picture_0.jpeg)
+![](../../attachments/solo-610-manual_assets--page_18_picture_0--6a4e3b0ee1e32a43.jpeg)
 
-![](solo-610-manual_assets/_page_18_Picture_1.jpeg)
+![](../../attachments/solo-610-manual_assets--page_18_picture_1--89a8642c332df6a0.jpeg)
 
 **Connector setting for 115VAC input Connector setting for 230VAC input**
 
@@ -410,11 +410,11 @@ If your SOLO/610 should ever require service, please see "Service & Support" on 
 
 Session Recall Sheet
 
-![](solo-610-manual_assets/_page_19_Figure_3.jpeg)
+![](../../attachments/solo-610-manual_assets--page_19_figure_3--9d3fc27671445bdf.jpeg)
 
 # **Block Diagram**
 
-![](solo-610-manual_assets/_page_20_Figure_1.jpeg)
+![](../../attachments/solo-610-manual_assets--page_20_figure_1--4cea1a6a9e971f3d.jpeg)
 
 # SOLO/610 BLOCK DIAGRAM
 

@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rj"
 ---
 
-![обложка|156](<Rāja-Vidyā The King of Knowledge/обложка.jpeg>)
+![обложка|156](<../attachments/r%C4%81ja-vidy%C4%81-the-king-of-knowledge--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--362a32d7629bee7d.jpeg>)
 
 The King of Knowledge
 

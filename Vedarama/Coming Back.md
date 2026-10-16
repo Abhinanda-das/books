@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/cb"
 ---
 
-![обложка|156](<Coming Back/обложка.jpeg>)
+![обложка|156](<../attachments/coming-back--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--ca974b5da73f194a.jpeg>)
 
 The Science of Reincarnation
 

@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ns-kv"
 ---
 
-![обложка|156](<The Nāṭya-śāstra [Kapila Vatsyayan]/обложка.jpeg>)
+![обложка|156](<../attachments/the-n%C4%81%E1%B9%ADya-%C5%9B%C4%81stra-kapila-vatsyayan--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--cae00ea6391e2b43.jpeg>)
 
 This treatise asks fundamental questions not only on the Natyasastra but on the nature of the Indian textual tradition. It re-examines issues of authorship, dating, primary material, orality and text. It traces the history of the inflows and outflows, of the pretext, the precursors, the commentators and the interpreters of the text.
 

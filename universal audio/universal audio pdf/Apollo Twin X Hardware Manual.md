@@ -6,13 +6,13 @@ tool_version: 1.10.2
 word_count: 10608
 ---
 
-![](<Apollo Twin X Hardware Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_0_picture_1--53281b42d17b9cc5.jpeg>)
 
 # **Apollo Twin X Hardware Manual**
 
 Manual Version 210429
 
-![](<Apollo Twin X Hardware Manual_assets/_page_0_Picture_4.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_0_picture_4--342cc71c5e0f41a9.jpeg>)
 
 # <span id="page-1-0"></span>**A Letter from Bill Putnam Jr.**
 
@@ -111,7 +111,7 @@ Beyond the included Realtime Analog Classics plug-ins, Apollo Twin X lets you ta
 
 With exclusive emulations from Neve, Lexicon, Capitol Studios, API, Manley, Ampex, Fender, and more, it's like having an endless analog studio, right on your desktop. And unlike competing interfaces, these DSP-powered plug-ins are also available in your DAW for mixing.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_4_Picture_8.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_4_picture_8--c041548ef161fd0b.jpeg>)
 
 # **Record with Vintage Amps**
 
@@ -306,7 +306,7 @@ Each host DAW software application has its own particular methods for configurin
 
 For additional resources, or if you need to contact Universal Audio for assistance, see the [Technical Support](#page-38-1) page.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_11_Picture_9.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_11_picture_9--99b88501c02e2a17.jpeg>)
 
 # <span id="page-12-0"></span>**Quick Start**
 
@@ -355,11 +355,11 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 
 #### *Does your USB-C connector support Thunderbolt 3?*
 
-![](<Apollo Twin X Hardware Manual_assets/_page_13_Picture_10.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_13_picture_10--ce397585fd365c79.jpeg>)
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_13_Picture_12.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_13_picture_12--0803b887b26ccf53.jpeg>)
 
 *Thunderbolt icon on USB-C cable (left) and USB-C port (right)*
 
@@ -387,7 +387,7 @@ To determine if a USB-C port or cable connector supports Thunderbolt 3, look for
 
 *Important: After ensuring the locking barrel tabs are aligned with the chassis slots and the barrel is fully inserted, rotate the barrel to secure the connector.*
 
-![](<Apollo Twin X Hardware Manual_assets/_page_14_Picture_10.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_14_picture_10--da09c67e3e0e88a2.jpeg>)
 
 3. Apply power to Apollo Twin X using the rear panel's power switch. Apollo Twin X is now ready for [Software Setup](#page-15-1).
 
@@ -433,7 +433,7 @@ Many instructional videos are available to help you get started with Apollo Twin
 
 One typical Apollo Twin X audio setup is illustrated below. For complete details about all of Apollo Twin X's connectors and controls, see [Controls & Connectors](#page-18-1).
 
-![](<Apollo Twin X Hardware Manual_assets/_page_16_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_16_picture_2--e0ebf5169fe57087.jpeg>)
 
 *Typical Apollo Twin X audio connections. In this example, the mic is connected to channel 2, so the mic and the instrument (which connects to channel 1) can be used at the same time.*
 
@@ -489,7 +489,7 @@ Apollo Twin X's top panel has two operating modes: *Preamp* and *Monitor*. The f
 
 When Apollo Twin X is in Preamp mode, the top panel controls are related to input functions only. To adjust input functions, press the PREAMP button to enter Preamp mode and activate the input channel controls.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_18_Picture_10.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_18_picture_10--8a04d72d7477cf2e.jpeg>)
 
 *Important: Apollo Twin X must be in Preamp mode to modify preamp gain levels and other input options.*
 
@@ -507,7 +507,7 @@ Apollo Twin X has one set of preamp input channel controls. The input channel co
 
 The currently selected input channel is shown by the CH1 and CH2 indicators at the upper left of the main display panel, above the input meters. When a channel is selected, its indicator is lit.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_19_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_19_picture_2--725949e158508ce7.jpeg>)
 
 *Note: The preamp controls adjust the functions for the currently selected channel.*
 
@@ -519,7 +519,7 @@ When in Preamp mode, press the PREAMP button to change the selected channel so i
 
 The Mic, Line, or Hi-Z input source is routed into the channel's preamplifier. The active input source jack is shown by the indicators below the input meters. When an input is selected, its indicator is lit.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_19_Picture_8.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_19_picture_8--9c9699118935db0e.jpeg>)
 
 The MIC (XLR) or LINE (¼") combo inputs on the rear panel are selected by the pressing the INPUT button when the channel is selected. The Hi-Z input (available on channel 1 only) is selected automatically when an instrument cable is plugged into the Hi-Z input on the front panel.
 
@@ -533,7 +533,7 @@ The Level knob adjusts the amount of preamp gain (input signal level) for the cu
 
 Each input channel has a set of preamp options. The preamp options for the currently selected input channel are activated using the row of six buttons when in Preamp mode.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_19_Picture_15.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_19_picture_15--de95adf8dc01314c.jpeg>)
 
 The current state of the preamp options are indicated in the upper row of the options display panel above the six option buttons. Available options are dim when inactive, bright when enabled, and unlit when unavailable.
 
@@ -543,7 +543,7 @@ The current state of the preamp options are indicated in the upper row of the op
 
 When Apollo Twin X is in Monitor mode, the top panel controls are related to output functions only. To adjust output functions, press the MONITOR button to enter Monitor mode and activate the monitor and headphone controls.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_20_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_20_picture_2--177a72aade1c43db.jpeg>)
 
 *Note: Input functions cannot be performed in Monitor mode. Press the PREAMP button to perform input functions.*
 
@@ -563,7 +563,7 @@ The Level knob is used to set the volume level for each stereo output independen
 
 The currently selected stereo output is shown by the MONITOR and HEADPHONE indicators at the right of the main display, above and below the output meters. When a stereo output is selected, its indicator is lit.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_20_Picture_12.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_20_picture_12--8bd5d4f099d84529.jpeg>)
 
 *Note: The Level knob adjusts the volume for the currently selected stereo output.*
 
@@ -575,7 +575,7 @@ When in Monitor mode, press the MONITOR button to change the selected stereo out
 
 Apollo Twin X has monitor options that perform the functions of a dedicated monitor controller. The monitor options are controlled using the row of six buttons when in MONITOR Mode.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_20_Picture_18.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_20_picture_18--21bdf2c65b3cdda2.jpeg>)
 
 The current state of the monitor options are indicated in the lower row of the options display panel above the option buttons. Available options are dim when inactive, bright when enabled, and unlit when unavailable.
 
@@ -585,7 +585,7 @@ The current state of the monitor options are indicated in the lower row of the o
 
 Refer to the illustration below for numbered control descriptions in this section.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_21_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_21_picture_2--dc0ed36ac3b44bf4.jpeg>)
 
 *Top panel elements*
 
@@ -597,7 +597,7 @@ When in [PREAMP Mode](#page-18-2), rotate clockwise to increase the amount of pr
 
 ### **Unison Integration**
 
-![](<Apollo Twin X Hardware Manual_assets/_page_21_Picture_8.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_21_picture_8--2e26c6ca380c4d86.jpeg>)
 
 The Level knob can also be used to control Unison-enabled UAD preamp, guitar/bass amp, and pedal plug-in parameters. See the Apollo Software Manual for complete Unison details.
 
@@ -663,11 +663,11 @@ Each of the six Option Buttons has dual functions. In Preamp mode, the buttons c
 
 ### **Unison Integration**
 
-![](<Apollo Twin X Hardware Manual_assets/_page_23_Picture_11.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_23_picture_11--6f555cb4ba471cc2.jpeg>)
 
 In Preamp mode, the Option Buttons can also be used to control Unisonenabled UAD preamp, guitar/bass amp, and pedal plug-in parameters. See the Apollo Software Manual for complete Unison details.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_23_Picture_13.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_23_picture_13--a8a656d1fe21a541.jpeg>)
 
 *Options Display (12) and Option Buttons (13)*
 
@@ -679,7 +679,7 @@ A preamp option is active when its indicator in the upper row of the Options Dis
 
 *Note: In MONITOR mode, the preamp options cannot be modified and the upper row of the Options Display is unlit.*
 
-![](<Apollo Twin X Hardware Manual_assets/_page_24_Picture_4.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_24_picture_4--7d415f5d8cb6a235.jpeg>)
 
 *Preamp options*
 
@@ -725,7 +725,7 @@ The TALK, DIM, ALT, and FCN functions are configured in the companion Console so
 
 **Note:** In Preamp mode, the monitor options cannot be modified and the lower row of the Options Display is unlit.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_25_Picture_8.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_25_picture_8--7a6d4765531ebdb2.jpeg>)
 
 #### (g) TALK
 
@@ -759,7 +759,7 @@ Mutes the monitor outputs. When MUTE is active, the MONITOR Selected Indicator (
 
 Refer to the illustration below for numbered control descriptions in this section.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_26_Picture_7.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_26_picture_7--1cc2efa33259a656.jpeg>)
 
 *Front panel elements*
 
@@ -787,7 +787,7 @@ Refer to the illustration below for numbered control descriptions in this sectio
 
 *Note: All rear panel ¼" jacks can accept unbalanced TS (tip-sleeve) or balanced TRS (tip-ring-sleeve) plugs.*
 
-![](<Apollo Twin X Hardware Manual_assets/_page_27_Picture_3.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_27_picture_3--448e6c3f36e278fc.jpeg>)
 
 *Rear panel elements*
 
@@ -813,7 +813,7 @@ The included power supply must be connected here (Apollo Twin X cannot be bus po
 
 *Important: After ensuring the locking barrel tabs are aligned with the chassis slots and the barrel is fully inserted, rotate the barrel to secure the connector to the chassis.* 
 
-![](<Apollo Twin X Hardware Manual_assets/_page_28_Picture_3.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_28_picture_3--b32b7adb7cd9e2fa.jpeg>)
 
 #### **(20) Power Switch**
 
@@ -955,7 +955,7 @@ Specifications are subject to change without notice.
 
 # <span id="page-32-0"></span>**Hardware Block Diagram**
 
-![](<Apollo Twin X Hardware Manual_assets/_page_32_Figure_1.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_32_figure_1--20c8757d835981d4.jpeg>)
 
 # <span id="page-33-1"></span><span id="page-33-0"></span>**Troubleshooting**
 
@@ -985,7 +985,7 @@ Universal Audio provides a limited warranty on all UA hardware products. To lear
 
 # **Maintenance**
 
-![](<Apollo Twin X Hardware Manual_assets/_page_34_Picture_4.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_34_picture_4--435c96b96346ad40.jpeg>)
 
 - **CAUTION:** To reduce the risk of electric shock, do not open the unit.
 - Apollo Twin X does not contain a fuse or any other user-replaceable parts. The unit is internally calibrated at the factory. No internal user adjustments are available.
@@ -999,7 +999,7 @@ To learn about repair service, or for technical support, visit [help.uaudio.com.
 
 # <span id="page-35-0"></span>**Important Safety Information**
 
-![](<Apollo Twin X Hardware Manual_assets/_page_35_Picture_1.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_35_picture_1--d9e64768066b26dd.jpeg>)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -1020,11 +1020,11 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 # **Description of symbols used**
 
-![](<Apollo Twin X Hardware Manual_assets/_page_35_Picture_18.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_35_picture_18--5723eb2cde1800cc.jpeg>)
 
 The lightning flash represented by the arrow symbol in an equilateral triangle is intended to alert users to the presence of high voltage within the unit that could cause an electrical shock hazard.
 
-![](<Apollo Twin X Hardware Manual_assets/_page_35_Picture_20.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_35_picture_20--b7ce988ce599d6a7.jpeg>)
 
 The exclamation mark in an equilateral triangle is intended to alert users to the existence of important instructions in the manual relating to the use and maintenance of the unit.
 
@@ -1092,4 +1092,4 @@ To contact UA support staff for technical or repair assistance, please visit:
 
 **[help.uaudio.com](https://help.uaudio.com)**
 
-![](<Apollo Twin X Hardware Manual_assets/_page_39_Picture_0.jpeg>)
+![](<../../attachments/apollo-twin-x-hardware-manual_assets--page_39_picture_0--68e6d67d0d3ab286.jpeg>)

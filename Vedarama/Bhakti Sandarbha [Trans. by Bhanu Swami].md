@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jg-bhs"
 ---
 
-![обложка|156](<Bhakti Sandarbha [Trans. by Bhanu Swami]/обложка.jpeg>)
+![обложка|156](<../attachments/bhakti-sandarbha-trans.-by-bhanu-swami--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d4723a627f6bcd5c.jpeg>)
 
 Bhakti Sandarbha is the fifth Sandarbha of Jiva Goswami. The first Sandarbha deals with pranama, the BHagavatam. The second, third and fourth Sandarbhas deal with sambandha: defining the Lord in his aspects as Paramatma, BHagavan and Krsna. The Bhakti Sandarbha deals with the abidheya (method), the sadhana of Bhakti. This is the means to realize Krsna. The same topic is covered in the second chapter of the eastern section of Bhakti-rasamrta-sindhu of Rupa Goswami, but is expanded greatly. It discusses the spiritual nature of this process, the qualification for bhakti, the various actions of bhakti, vaidhi and raganuga types, mixed and pure forms of bhakti and various types of the devotees.
 

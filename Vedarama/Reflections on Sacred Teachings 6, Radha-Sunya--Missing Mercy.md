@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btrthsw-rost6"
 ---
 
-![обложка|156](<Reflections on Sacred Teachings 6, Radha-Sunya--Missing Mercy/обложка.jpeg>)
+![обложка|156](<../attachments/reflections-on-sacred-teachings-6-radha-sunya--missing-mercy--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--71cba60a3adee48d.jpeg>)
 
 Srimati Radharani is the hladini-sakti, the internal potency of Krishna. She is the mother of devotion, the topmost devotee, and therefore the overseer of the entire province of bhakti. Thus, aparadha means becoming devoid of Radharani by creating a situation by which the blessings, the mercy, the protection, and the benediction of the divine caretaker of bhakti is absent.
 

@@ -10,7 +10,7 @@ word_count: 206
 
 
 <figure class="wysiwyg-image">
-![LUNA_RS_logo_black-01.png](About%20the%20LUNA%20Manual_assets/51511532dac2454768868265474190e917e204ad.png)
+![LUNA_RS_logo_black-01.png](../../attachments/about-the-luna-manual_assets--51511532dac2454768868265474190e917e204ad--bd2e4c8c6ee340c8.png)
 </figure>
 
 # LUNA Documentation

@@ -114,7 +114,7 @@ The following settings are available on the Hardware tab in Core Audio mode. 
 
 **Important:** When you finish configuring LUNA Core Audio hardware settings, click the Apply button at the bottom of the audio devices list.
 
-![native-hardware-settings.png](Using%20LUNA%20with%20Core%20Audio_assets/f64ea300a16c1ff7dd8a855ee8a40c30732c0b6e.png)
+![native-hardware-settings.png](../../attachments/using-luna-with-core-audio_assets--f64ea300a16c1ff7dd8a855ee8a40c30732c0b6e--8d5f03a3e9ee2ca4.png)
 
 ## Audio Device
 
@@ -146,7 +146,7 @@ Choose a Cue output pair for LUNA with this setting. After you configure Cue out
 
 In the following example, the Volt 276 monitor outputs are configured as the main outputs, and two cue buses are configured on Volt 476 Line outputs 1-2 and 3-4.
 
-![setting-cues-outputs-multiple-devices.png](Using%20LUNA%20with%20Core%20Audio_assets/f929b605e9088a3004df5c8a6db117659408eab8.png)
+![setting-cues-outputs-multiple-devices.png](../../attachments/using-luna-with-core-audio_assets--f929b605e9088a3004df5c8a6db117659408eab8--5acd76d6cd12dac1.png)
 
 ## Devices list
 
@@ -159,7 +159,7 @@ Enable and disable your audio devices from this list. You can enable or disable 
 3.  In the Hardware panel, select the devices you want to enable by clicking their boxes. Enabled devices are highlighted orange.
 4.  Click Apply.
 
-![multiple-devices-enabled.png](Using%20LUNA%20with%20Core%20Audio_assets/ea8e29806279941d05c7bab7e89f9dc6ea9a14c5.png)\
+![multiple-devices-enabled.png](../../attachments/using-luna-with-core-audio_assets--ea8e29806279941d05c7bab7e89f9dc6ea9a14c5--f8cf62fb8d3cd16c.png)\
  
 
 ### Device Notes
@@ -167,7 +167,7 @@ Enable and disable your audio devices from this list. You can enable or disable 
 - You can configure LUNA to use the System Settings option, which specifies that LUNA uses the settings configured for macOS Sound settings. When this option is selected, you cannot select multiple audio devices.
 - If you do not select an audio device, any connected Volt or Apollo interfaces are automatically selected. Automatically selected devices appear highlighted in white.
 
-![automatic-volt-selection.png](Using%20LUNA%20with%20Core%20Audio_assets/86c96fd534fb98acead8bf9cd1fa70712a1a89a1.png)
+![automatic-volt-selection.png](../../attachments/using-luna-with-core-audio_assets--86c96fd534fb98acead8bf9cd1fa70712a1a89a1--6face487e6f9ef91.png)
 
 ------------------------------------------------------------------------
 
@@ -182,7 +182,7 @@ On the I/O Settings screen, you can rename inputs and outputs.
 3.  Click the I/O Settings tab.
 4.  Click and type in the Custom Name field for any input or output to rename it, then press Return.
 
-![native-io-settings.png](Using%20LUNA%20with%20Core%20Audio_assets/de601a8218b0d26e32817a7ec2e36656a96fe9f9.png)
+![native-io-settings.png](../../attachments/using-luna-with-core-audio_assets--de601a8218b0d26e32817a7ec2e36656a96fe9f9--d4840436adc5e89b.png)
 
 ------------------------------------------------------------------------
 

@@ -7,7 +7,7 @@ word_count: 4255
 ---
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0001-00.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0001-00--722c42a98d0993ac.png>)
 
 
 # **User Manual Metal Amp Room** 
@@ -15,7 +15,7 @@ word_count: 4255
 Rev. Aug 05, 2013 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0002-00.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0002-00--2a703f78157c904c.png>)
 
 
 ## **Softube User Manual** 
@@ -79,13 +79,13 @@ Softube plug-ins are “what you see is what you get” products. You should be 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0005-06.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0005-06--ef2ca9601f82b14d.png>)
 
 
 ## **Menu Row** 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0005-08.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0005-08--b4bda9dbdb74c08b.png>)
 
 
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Dyna-mite plug-in as example, but the same goes for all plug-ins. 
@@ -101,7 +101,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0005-15.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0005-15--ba9688955728838e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -109,7 +109,7 @@ Enable Setup<br>**----- End of picture text -----**<br>
 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0005-16.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0005-16--cae9e88cf4f2fb7c.png>)
 
 
 **6** | USER INTERFACE 
@@ -173,7 +173,7 @@ METAL AMP ROOM IS JUST WHAT IT SAYS IT IS. It’s an amp room, just like the oth
 Second, and perhaps the most important of the building blocks, are the cabinets. You can choose between two different four by twelve cabinets, and each cabinet has two mics. A dynamic microphone for the classic metal sound, and a condenser mic with a fuller and richer sound. Just playing around with different cabinets and mic settings is a science in itself, and we have worked really hard to make it as easy as possible for you to find the sound you look for. To make this even easier, we had to design the third building block – the BALANCING STEREO PREAMP. This is basically two channel strips with a volume, a pan and a phase control each, that we combined into a single channel strip with a MIC BALANCE control instead of two volumes and a STEREO WIDTH control instead of two pan knobs. Just to make the handling easy, without compromising the sound. 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0007-06.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0007-06--b184f20a62e4e5d8.png>)
 
 
 Room, Metal Amp Room has none of the added gadgets or weird- sounding presets sometimes found in simulation software. Focusing on quality and accuracy, it gives you a hard hitting metal sound that is authentically raw. The goal is not to give you a pre produced, ultimate guitar sound, but to provide you with the ultimate tool to create your own. Because after all, only you know exactly what sound you want. 
@@ -199,19 +199,19 @@ SIMPLICITY WAS THE GOAL when we developed this product–the amps and mics shoul
 ## Amp Panel 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0008-09.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0008-09--dff0aec806d7e1c0.png>)
 
 
 Room View 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0008-11.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0008-11--23000831c7f64d35.png>)
 
 
 Mic Panel 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0008-13.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0008-13--3e6182050053e86e.png>)
 
 
 SOFTUBE USER’S GUIDE | **9** 
@@ -225,7 +225,7 @@ In the amp panel you can alter the settings of the amp by clicking the knob and 
 In the room view you can do two things, select the other cabinet or change the mic’s positions. 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0009-05.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0009-05--4eb861d3807a605f.png>)
 
 
 ## Mic Position 
@@ -241,7 +241,7 @@ If you press and hold Shift while moving a mic, the other mic will also move to 
 You can change the cabinet by clicking on the background and dragging the mouse to the left or right. The mouse pointer becomes a “left- right” arrow when you are pointing at the background to indicate that it is possible to change cabinet. 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0009-12.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0009-12--5097b25c52f71e51.png>)
 
 
 ## Mic Panel (Bottom Area) 
@@ -253,7 +253,7 @@ Clicking on the background while holding the Shift- key toggles through the cabs
 **10** | METAL AMP ROOM 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0010-01.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0010-01--6716881c9b8f575a.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -295,7 +295,7 @@ The **Gate** is program -dependent, which means that if you play fast and tight 
 ## The Metal Cabinet 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0011-10.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0011-10--4753bdcd4c30c879.png>)
 
 
 The left cabinet is called the Metal Cabinet since it has a stylish metal grille and an uncompromising metal sound. This is a predictable cabinet 
@@ -305,7 +305,7 @@ in the sense that there are very few surprises as you move the mics around. The 
 ## The Black Cabinet 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0011-14.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0011-14--aa0145869fe1fdf4.png>)
 
 
 To the right is the Black Cabinet, which has a classic rock 4x12 sound. With this one, there are plenty of bass resonances as you move the mics around, producing a lively, sometimes almost unruly sound. To get a vintage sound, set the 
@@ -319,11 +319,11 @@ balance all the way to Mic One or blend in Mic Two to get a more scooped sounds.
 ## Stereo Width 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0012-03.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0012-03--0059f0c7506c817f.png>)
 
 
 
-![](<Softube Metal Amp Room Manual_assets/Softube_Metal_Amp_Room_Manual.pdf-0012-04.png>)
+![](<../../attachments/softube-metal-amp-room-manual_assets--softube_metal_amp_room_manual.pdf-0012-04--cbcb900144ccd700.png>)
 
 
 **----- Start of picture text -----**<br>

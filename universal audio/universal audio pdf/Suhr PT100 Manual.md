@@ -9,7 +9,7 @@ word_count: 4845
 1 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0001-01.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0001-01--83b535aa25f6eeb4.png>)
 
 
 The PT100 is the result of the combined efforts of two guitar legends - John Suhr and and Pete Thorn. Pete’s decades of experience in studio and touring performance, combine with John’s decades of designing amplifiers to form a unique partnership. The PT100 is the culmination of five years work, tweaking, fine tuning, and shaping the amp into what it is today. 
@@ -25,7 +25,7 @@ On top of this you find no less than 100 Brainworx Advanced Recording Chains (Im
 **2** 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0003-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0003-00--ac48b6c68d3c3bb2.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -57,7 +57,7 @@ Suhr PT100<br>Plug-in Manual<br>**----- End of picture text -----**<br>
 3 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0004-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0004-00--afe309ac29b8394f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -79,7 +79,7 @@ The advantage of recording pre-processed guitar tracks is that you will have mor
 4 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0005-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0005-00--7cc4f00573790e4e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -127,7 +127,7 @@ Adds brightness to Channels 2 and 3.
 5 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0006-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0006-00--e911a8a9fe6fe487.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -173,7 +173,7 @@ Selects the amount of low-end boost added to the PT-100’s power section, this 
 6 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0007-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0007-00--56d60b72cc445dfe.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -211,7 +211,7 @@ On/Off switch. Enable or disable the Noise Gate completely. Switch up (‘On‘)
 7 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0008-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0008-00--b573051916b12b29.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -251,7 +251,7 @@ With the Tight filter you can cut Low frequencies of either the DI guitar signal
 8 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0009-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0009-00--682d559800182aea.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -295,7 +295,7 @@ Both buttons can be pressed repeatedly as long as the maximum delay time of 400m
 9 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0010-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0010-00--c96a5484f5bb5cff.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -331,7 +331,7 @@ In the past two decades Brainworx owner Dirk Ulrich has produced and recorded wi
 10 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0011-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0011-00--ab462b38b48924b5.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -357,7 +357,7 @@ Browse through the Recording Chains by either using the pull-down menu of the Re
 11 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0012-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0012-00--695e8fbb35ae591c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -393,7 +393,7 @@ Switch up: Preamp is bypassed (off), Switch down: Preamp is active (on).
 12 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0013-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0013-00--5c84683f8cc50700.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -431,7 +431,7 @@ The Suhr PT 2x12 speaker closed-back cabinet comes loaded with two Celestion G12
 13 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0014-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0014-00--a46f5678189c54e3.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -465,7 +465,7 @@ Loaded in the two bottom slots are two Celestion Vintage 30 speakers. The V30’
 14 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0015-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0015-00--6da31c77bedf43eb.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -495,7 +495,7 @@ The 120W Orange Amplifiers PPC212-C guitar speaker cabinet is crafted using 13-p
 **5** 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0016-05.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0016-05--700ed99104f4b031.png>)
 
 
 ## ~~**Top Toolbar**~~ 
@@ -539,7 +539,7 @@ Information about the development of the plugin.
 16 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0017-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0017-00--784813884ed2c5f9.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -575,11 +575,11 @@ Combine the PT100 amps with other plugins (dynamics, effects, room simulation), 
 17 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0018-00.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0018-00--e795ac066aaf56e0.png>)
 
 
 
-![](<Suhr PT100 Manual_assets/Suhr_PT100_Manual.pdf-0018-01.png>)
+![](<../../attachments/suhr-pt100-manual_assets--suhr_pt100_manual.pdf-0018-01--fbfefdff8a6abcd5.png>)
 
 
 Plug in, Rock out!   - **www.brainworx.audio** 

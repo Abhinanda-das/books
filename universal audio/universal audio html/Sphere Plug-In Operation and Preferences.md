@@ -130,7 +130,7 @@ If your DAW sorts plug-ins by category or tags:
 - VST2 and VST3 plug-ins appear in the **Spatial** or **FX \| Spatial** categories
 - Audio Units plug-ins appear in the **Specialized** category
 
-![sphere-plug-ins-naming-categories.png](Sphere%20Plug-In%20Operation%20and%20Preferences_assets/141d7a5aa0f338cb529c807a6924309a7ca568f4.png)
+![sphere-plug-ins-naming-categories.png](../../attachments/sphere-plug-in-operation-and-preferences_assets--141d7a5aa0f338cb529c807a6924309a7ca568f4--13306b3335d4e244.png)
 
 *An example of Sphere plug-in sorting in a DAW*
 

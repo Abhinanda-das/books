@@ -19,5 +19,5 @@ word_count: 156
 \
 </span>
 
-![console_insert_autotune_access_CS.png](Why%20Doesn%E2%80%99t%20Auto-Tune%20Realtime%20Access%20Show%20Up%20in%20UAD%20Meter%20%26%20Control%20Panel_assets/f5314db9f4ca49db4809f9d81c2c3b56e1a55c9a.png)
+![console_insert_autotune_access_CS.png](../../attachments/why-doesn-t-auto-tune-realtime-access-show-up-in-uad-meter-contro--f5314db9f4ca49db4809f9d81c2c3b56e1a55c9a--2496ec793548456b.png)
 

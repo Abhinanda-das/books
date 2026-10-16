@@ -7,7 +7,7 @@ word_count: 1141
 ---
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0001-00.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0001-00--88c4d06956a22219.png>)
 
 
 ## **bx_saturator V2** 
@@ -15,7 +15,7 @@ word_count: 1141
 ## **Thank you for using Brainworx plug-ins.** 
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0001-03.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0001-03--ef61a4e8cc1daee2.png>)
 
 
 The bx_saturator V2 is an M/S & multi-band saturation tool which can be used for mastering, mixing and sound design. From easy glue to heavy crunch, you choose. 
@@ -35,13 +35,13 @@ Page 1
 www.brainworx-music.de 
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0002-00.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0002-00--885cacdf5346688e.png>)
 
 
 ## **Brainworx toolbar** 
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0002-02.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0002-02--d2ee57eb9731a11a.png>)
 
 
 The top toolbar will enable you to bypass the plug-in. 32 steps of Undo / Redo give you the freedom to experiment without losing your initial ideas. 4 settings can be used to store and recall momentary snapshots that can also be automated. You can Copy / Paste settings as expected and reset individual settings as well. 
@@ -49,7 +49,7 @@ The top toolbar will enable you to bypass the plug-in. 32 steps of Undo / Redo g
 ## **Main panel** 
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0002-05.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0002-05--58414529bdd2edd3.png>)
 
 
 XL Active will engage or disengage all 4 XL units in the bx_saturator V2 (2 in the mono version). Mono-Maker and Output levels will not be bypassed here, so this is not a global bypass switch. You can also bypass single XL units using their respective switches (see below). Auto Solo will only make isolated elements of your signal audible as long as you click & hold certain knobs & controls. This way it might be easier to set the distortion of any of the 4 XL units. 
@@ -61,7 +61,7 @@ The Mid / Side meter will indicate if you are changing the ratio between the Mid
 ## **XL units** 
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0002-10.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0002-10--04dd1d6e85cba34c.png>)
 
 
 Each of the 4 XL units can be adjusted individually with the XL knob, which is the main level of distortion for that channel. Look at it as a mix control between your original signal and the distorted audio. The Drive control determines the level of distortion in the signal. Use “1” as the standard mode for all clean mastering work to increase the perceived volume of the signal without boosting its actual output level (with Compensation set to mode 1 as well). Drive values of 3-6 will give you a soft, creamy distortion that can be used on Side-channels of rock and pop mixes or to slightly crunch any stereo sound. Drive values of 7 and higher (up to 16) will give you a very audible and tight distortion. 
@@ -71,7 +71,7 @@ Page 2
 www.brainworx-music.de 
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0003-00.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0003-00--a8388e507d941072.png>)
 
 
 Above the drive knob, there is an option menu that switches the Level Compensation mode. By default, mode 1 is selected (Compens.1). This automatically compensates the level increase caused by the Drive control. Mode 2 will do the same (Compens.2), but will keep a louder signal at the output. 
@@ -81,7 +81,7 @@ Above the drive knob, there is an option menu that switches the Level Compensati
 Gain can be used to trim or boost any XL unit, while setting the Gain to PRE mode will result in more or less distortion (gain at the input stage) whereas POST will trim the level at the output stage without altering the actual distortion sound. 
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0003-04.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0003-04--a894b8b1247aa4c2.png>)
 
 
 ## **Crossover frequencies** 
@@ -97,13 +97,13 @@ Page 3
 www.brainworx-music.de 
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0004-00.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0004-00--260bf135911f8337.png>)
 
 
 ## **M/S Controls** 
 
 
-![](<bx_saturator V2 Manual_assets/bx_saturator_V2_Manual.pdf-0004-02.png>)
+![](<../../attachments/bx_saturator-v2-manual_assets--bx_saturator_v2_manual.pdf-0004-02--f35bc1136016c2c1.png>)
 
 
 You may increase or decrease the overall output level of the plug-in using the linked mode of the Gain controls, or you can alter the stereo width by changing the ratio between the unlinked M & S gains (using the Link button left and right of the knobs). Monitor the Output Level LEDs in the upper graphics to make sure you don't clip your signal. 

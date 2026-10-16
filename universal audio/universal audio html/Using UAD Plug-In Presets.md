@@ -17,7 +17,7 @@ Click the preset name (for example, Default) in the UAD Toolbar to open the pres
 
 To close the preset browser, press the Esc key. 
 
- ![](Using%20UAD%20Plug-In%20Presets_assets/1a7f215b99bfe360d029f538401829a06712a917.png)
+ ![](../../attachments/using-uad-plug-in-presets_assets--1a7f215b99bfe360d029f538401829a06712a917--6afe74ce463ba61d.png)
 
 # Using a preset
 
@@ -31,13 +31,13 @@ Press the up and down arrow keys to navigate through the list of presets and loa
 
 To search for a preset by name or tag, type in the search bar. The list of presets is filtered as you type. Press Enter to use the first preset in the list, or navigate up/down with the arrow keys, then press Enter.
 
-![](Using%20UAD%20Plug-In%20Presets_assets/661e8ccc023da0f9cb0aa5fe6fc27733dd4dcb46.png)
+![](../../attachments/using-uad-plug-in-presets_assets--661e8ccc023da0f9cb0aa5fe6fc27733dd4dcb46--49b9b28c75debd7f.png)
 
 # Setting a default preset
 
 You can set a default preset that will load automatically when you instantiate a UAD plug-in.
 
-![](Using%20UAD%20Plug-In%20Presets_assets/3a9ad31030f36543c67ab565acd3e476183e14dc.png)
+![](../../attachments/using-uad-plug-in-presets_assets--3a9ad31030f36543c67ab565acd3e476183e14dc--a96a215dd9d33b43.png)
 
 - To set a default preset, right-click/ctrl-click the preset name and choose Set Default Preset to \[preset name\]. The current default preset includes \[DEFAULT\] after the preset name. 
 - To clear the default preset, right-click/ctrl-click the preset name and choose Clear Default Preset.
@@ -50,7 +50,7 @@ You can favorite presets, and filter the list of presets by your favorites.
 - To unfavorite a preset, hover over the preset name, and click the favorite star again, or right-click the preset name and choose Unfavorite. 
 - To show only favorites in your preset list, click Favorites in the Tags bar.
 
-![](Using%20UAD%20Plug-In%20Presets_assets/cf1d257d179d9edc949801b8e5787b179cba4856.png)
+![](../../attachments/using-uad-plug-in-presets_assets--cf1d257d179d9edc949801b8e5787b179cba4856--470922e6cd56e6b2.png)
 
 # Working with User Presets
 
@@ -66,7 +66,7 @@ You can also delete and rename presets that you have created. If you save change
 
 1.  Select a preset.
 2.  Make changes to the plug-in as required. If the preset browser is not open, click the preset name to open the preset browser, then click Save. The Save dialog opens.\
-    ![](Using%20UAD%20Plug-In%20Presets_assets/d031a340eb4c65534450a78b62c94bf3e77cc288.png)
+    ![](../../attachments/using-uad-plug-in-presets_assets--d031a340eb4c65534450a78b62c94bf3e77cc288--4cc0c12d40ecb518.png)
 3.  Click Save to save the changes to the existing preset. To save the preset with a new name, type a name for the preset, then click Save As. 
 
 If you save a preset that is based on a factory preset, the preset is saved in the User list with the original preset name. You cannot overwrite factory presets.
@@ -74,7 +74,7 @@ If you save a preset that is based on a factory preset, the preset is saved in t
 #### To rename a preset:
 
 1.  Select a preset from the User list, and click Rename, or right-click on the user preset and choose Rename. The rename dialog opens.\
-    ![](Using%20UAD%20Plug-In%20Presets_assets/57098b9c0f474e78c18c2700e11631c1e396da2c.png)
+    ![](../../attachments/using-uad-plug-in-presets_assets--57098b9c0f474e78c18c2700e11631c1e396da2c--8f69c669696d1194.png)
 2.  Type a new name for the preset and click Rename. 
 
 The preset is renamed. Factory presets cannot be renamed. 
@@ -82,9 +82,9 @@ The preset is renamed. Factory presets cannot be renamed. 
 #### To delete a preset:
 
 1.  Select a preset from the User Presets list, and click Delete, or right-click on the user preset and choose Delete.\
-    ![](Using%20UAD%20Plug-In%20Presets_assets/e10d7b8f2a943427f6f8370bdbc080b0c38ea09b.png)
+    ![](../../attachments/using-uad-plug-in-presets_assets--e10d7b8f2a943427f6f8370bdbc080b0c38ea09b--904be6bc2b063e21.png)
 2.  The Delete dialog appears. Click Delete again.\
-    ![](Using%20UAD%20Plug-In%20Presets_assets/be03ccfc1dec29571c77785a1db71977eb83f984.png)
+    ![](../../attachments/using-uad-plug-in-presets_assets--be03ccfc1dec29571c77785a1db71977eb83f984--542d6d72dd4d7b13.png)
 
 The preset is deleted from the User Presets list. Factory presets cannot be deleted.
 
@@ -107,7 +107,7 @@ You can organize user presets into folders. 
 
 **Note:** You must have created one or more user presets to create a preset folder. 
 
-![](Using%20UAD%20Plug-In%20Presets_assets/64048f12cf130c845b4644c7e64d2c98ff21e0ff.png)
+![](../../attachments/using-uad-plug-in-presets_assets--64048f12cf130c845b4644c7e64d2c98ff21e0ff--63d4ca633ba1b7bc.png)
 
 #### To create a user preset folder:
 

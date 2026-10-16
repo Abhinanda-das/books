@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rupa-unt"
 ---
 
-![обложка|156](<Ujjvala-nīlamaṇi-ṭīka [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/ujjvala-n%C4%ABlama%E1%B9%87i-%E1%B9%AD%C4%ABka-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--641cca086591ab18.jpeg>)
 
 Ujjvala-nilamani is a supplement to Bhakti-rasamrta-sindhu, which describes all the rasa, yet the conjugal one only in brief. Ujjvala-nilamani describes the conjugal rasa in great detail, following the general pattern of analyzing vibhavas, anubhavas, vyabhicari-bhavas, sattvika-bhavas and sthayi-bhavas. Parakiya and svakiya forms of love are discussed. Jiva Goswami in his commentary justifies svakiya whereas Visvanatha Cakravarti accepts parakiya as stronger.
 

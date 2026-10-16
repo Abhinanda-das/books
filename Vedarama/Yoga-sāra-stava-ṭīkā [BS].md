@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jg-ysst-bs"
 ---
 
-![обложка|156](<Yoga-sāra-stava-ṭīkā [BS]/обложка.png>)
+![обложка|156](<../attachments/yoga-s%C4%81ra-stava-%E1%B9%AD%C4%ABk%C4%81-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d8a555097f91d6bb.png>)
 
 # Yoga-sāra-stava-ṭīkā \[BS\]
 

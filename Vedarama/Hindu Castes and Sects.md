@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/hcas"
 ---
 
-![обложка|156](<Hindu Castes and Sects/обложка.jpeg>)
+![обложка|156](<../attachments/hindu-castes-and-sects--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--aac026da450051b0.jpeg>)
 
 Interest in caste as well as the sects of India has increasingly been in evidence among sociologists and anthropologists all over the world. Books on caste are generally descriptions of some of the features of the institutions as observed in some part of India by the authors. Books written on the same subject by earlier historians or anthropologists generally partook of the character of encyclopedic notes, alphabetically arranged, of the origin, division and distribution of various castes in different provinces of India.
 

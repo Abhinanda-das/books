@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/mm"
 ---
 
-![обложка|156](<Mukunda-mālā-stotra/обложка.jpeg>)
+![обложка|156](<../attachments/mukunda-m%C4%81l%C4%81-stotra--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--ce0cf4ca5db62379.jpeg>)
 
 Of the many hundreds of poetic Sanskrit stotras—songs of glorification offered to the Supreme Lord, His devotees, and the holy places of His pastimes—King Kulashekhara's Mukunda-mala-stotra is one of the most perennially famous. Srila Prabhupada frequently enjoyed citing certain favorite stanzas from it.
 

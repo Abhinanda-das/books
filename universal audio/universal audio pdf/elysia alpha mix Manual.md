@@ -7,7 +7,7 @@ word_count: 6005
 ---
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0001-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0001-00--d96a2a5ae63e3767.png>)
 
 
 # **alpha compressor** 
@@ -15,7 +15,7 @@ word_count: 6005
 ## **WeLcOMe! introduction** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0002-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0002-01--ebd8f090b481f60a.png>)
 
 
 ## **FIRST OF ALL...** 
@@ -53,7 +53,7 @@ The integration of an M/S encoder and decoder into a compressor generates new po
 Of course it is also possible to enhance the presence of the side signals in an already finished mix. The stereo width can be influenced fast and effectively, too, and it is also possible to compress specific parts of a mix that could not be selected in a stereo mix as precisely as it is possible in M/S mode. 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0003-08.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0003-08--9ea51351e08719d8.png>)
 
 
 A practical example helps to understand the general idea. The ideal track for this would be the following: Important parts like voice, drums and bass have been placed in the middle whereas the remaining instruments have been mixed stereophonically. 
@@ -75,13 +75,13 @@ introduction - about m/s
 3 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0004-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0004-00--98b4920a67fc4aa4.png>)
 
 
 ## **controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0004-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0004-02--7924313815975677.png>)
 
 
 **Threshold:** If the input level exceeds this value, the compression process will start. 
@@ -121,13 +121,13 @@ controls - overview master version
 4 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0005-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0005-00--1ed231a9b869d697.png>)
 
 
 ## **controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0005-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0005-02--d766b9859a0ef551.png>)
 
 
 **Direct:** activates the direct and unprocessed signal taken from the input. 
@@ -163,13 +163,13 @@ controls - overview master version
 5 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0006-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0006-00--f331a0837593e403.png>)
 
 
 ## **controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0006-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0006-02--b233ed8adeef010e.png>)
 
 
 **Active:** sets the plugin from bypass to active status. 
@@ -213,7 +213,7 @@ controls - overview mix version
 ## **THReSHOLD controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0007-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0007-01--9885dc0f503366cf.png>)
 
 
 The threshold determines the operating point of the compressor. If the input level exceeds the value set with this controller, the compression process will start. 
@@ -235,7 +235,7 @@ From the technical point of view, this function mainly influences the characteri
 The values of the attack controller also change noticeably in feed forward mode, as they are almost twice as high as the values shown on the scale. 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0007-11.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0007-11--222f8a64e57b2a38.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -249,13 +249,13 @@ controls - threshold
 7 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0008-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0008-00--6f457a8c6441231c.png>)
 
 
 ## **controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0008-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0008-02--8e704231fa0e114b.png>)
 
 
 The attack time parameter is a very crucial factor for the control behavior of a compressor. Choosing the right setting is very important, but depending on the dynamic progress of the source material this can be a difficult task. 
@@ -269,7 +269,7 @@ This way the compressor can be very fast, but only if it is really needed. The A
 The compressor reduces the signal quickly and prevents it from slipping through. Then the attack time directly and automatically returns to its original setting. 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0008-08.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0008-08--c7c16bb2453ce58c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -281,13 +281,13 @@ controls - attack
 8 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0009-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0009-00--48618ec60c2fcb99.png>)
 
 
 ## **controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0009-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0009-02--0e63e867b2e9c417.png>)
 
 
 The release parameter, on the other hand, has a strong influence on the character of the compression being obvious or unobtrusive to the ear. 
@@ -303,7 +303,7 @@ This function can be a great help especially for applications with difficult dyn
 On top of this, it prevents the music from losing loudness and pressure caused by too slow release settings at the same time. 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0009-09.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0009-09--25afc81b7d090a0b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -315,13 +315,13 @@ controls - release
 9 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0010-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0010-00--cca1cefc70cba5c6.png>)
 
 
 ## **controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0010-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0010-02--f857e2413a2fd861.png>)
 
 
 The alpha compressor works with a soft knee characteristic with rising gain reduction values at increasing ratios. The scale on the front panel is based on a measured gain reduction of 6 dB. 
@@ -337,7 +337,7 @@ Anyhow, the scale is optimized to the lower gain reduction settings as these are
 In feed forward mode, the ratio characteristics differs strongly from the one in feedback mode. Although they remain quite comparable up to a value of 1:1.5, the differences become extreme- 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0010-09.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0010-09--c980455126adb411.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -351,7 +351,7 @@ controls - ratio
 ## **NIVeAU FILTeR controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0011-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0011-01--261671e698e45819.png>)
 
 
 This filter specialized in changing the overall sonic character of a track in fine nuances. It features two controllers per channel and is capable of flexibly producing convincing results in no time at all. 
@@ -365,7 +365,7 @@ _Note:_ Settings in the border areas of the covered frequency range produce ‘a
 Turning the gain controller into the other direction will cut the treble and boost the bass instead. 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0011-07.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0011-07--e00851f17812c542.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -379,7 +379,7 @@ controls - niveau filter
 ## **SIDecHAIN FILTeR controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0012-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0012-01--390054c796c463b8.png>)
 
 
 The sidechain filter allows frequency-dependent shaping of the compression process by giving specific frequency areas a stronger or weaker influence on the detection circuit. 
@@ -393,7 +393,7 @@ If the SC gain controller is set to HP (High Pass), the filter will act like a 6
 The combination of the sidechain filters, M/S matrix and different attack settings enables you to make very selective changes and – depending on the source material – even allows to process single instruments or voices in finished mixes. 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0012-07.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0012-07--b2ad34d29d6e8aba.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -405,13 +405,13 @@ controls - sidechain filter
 12 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0013-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0013-00--76d4a84a13b4977d.png>)
 
 
 ## **controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0013-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0013-02--a145c389cd50db42.png>)
 
 
 Parallel compression, also known as ‘New York’ compression, is a technique based on mixing a dry signal with a heavily compressed identical signal. It is thought to maintain the subtleties of a performance while stabilizing the dynamics. 
@@ -429,7 +429,7 @@ In practice this lets you switch between unprocessed, compressed or mixed signal
 original, the compressed or the mixed signal. To mute the other channel, just deactivate its associated Direct and Compressed buttons. 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0013-10.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0013-10--de45baeaeb87faa6.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -441,13 +441,13 @@ controls - mix
 13 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0014-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0014-00--4bdf7960c2e1c3e6.png>)
 
 
 ## **controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0014-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0014-02--a8df0fbc725e7d73.png>)
 
 
 The gain controller is responsible for compensating the reduction of overall gain which is caused by the compression process, therefore it is often called ‘makeup gain’ as well. 
@@ -469,7 +469,7 @@ Because of the mastering approach of the alpha compressor, this feature is much 
 tle audio shaping feature than a glaring sound effect, but it’s certainly nice to add a little bit of color to a signal which might otherwise seem to be too clean. 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0014-12.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0014-12--e81a711a7c6fc9dd.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -485,7 +485,7 @@ controls - gain
 ## **SOFT cLIP LIMITeR controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0015-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0015-01--88d1f649f5cdb51d.png>)
 
 
 Even the fastest compressor cannot always catch the all impulses and peaks. Although its time parameters might be fast enough for this job from a technical point of view, the required settings and their effects would not correspond to the original intention of using a compressor in the first place. 
@@ -503,7 +503,7 @@ The Soft Clip modules are placed directly in front of the outputs of the plugin.
 The Soft Clip LEDs located on top of the gain reduction meters should only light up shortly from time to time as noticeable distortion will appear if you drive this circuit too hard. 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0015-09.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0015-09--19291647158a4aa7.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -519,7 +519,7 @@ controls - soft clip limiter
 ## **M/S | AcTIVe | LINK controls** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0016-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0016-01--6f83827f80c430d2.png>)
 
 
 ## **M/S** 
@@ -555,7 +555,7 @@ controls - m/s | active | link
 ## **STeReO LINKeD settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0017-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0017-01--35cf15ee93e44d2f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -581,7 +581,7 @@ settings - stereo linked
 ## **M/S LINKeD settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0018-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0018-01--33a8565e4e506054.png>)
 
 
 The function of the compressor in linked M/S mode is quite similar to its function in linked stereo mode, and the resulting gain reduction in the middle and the side channel is exactly the same. 
@@ -601,7 +601,7 @@ settings - m/s linked
 ## **M/S UNLINKeD settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0019-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0019-01--fd367504870f7078.png>)
 
 
 The true strengths of an M/S compressor will not be revealed until it is switched into unlinked M/S mode. Depending on the mix and the style of music, the dynamics and loudness in the middle and side channel can be completely different from each other. 
@@ -621,7 +621,7 @@ settings - m/s unlinked
 ## **UPWARD LeVeLING settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0020-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0020-01--9d1f442ef7b840a1.png>)
 
 
 Upward Leveling – this describes the possibility of making only the low signal parts louder and leave the louder changes in dynamics unprocessed. 
@@ -643,7 +643,7 @@ settings - upward leveling
 ## **M/S LeVeLING settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0021-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0021-01--2fdb4da71c5f606a.png>)
 
 
 As with Upward Leveling, long attack times are the secret of M/S Leveling. The compressor primarily reacts to the overall signal energy and not so much to single rhythmic accents. 
@@ -657,13 +657,13 @@ settings - m/s leveling
 21 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0022-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0022-00--985e0a5f51efbf5f.png>)
 
 
 ## **settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0022-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0022-02--8e23776289335ef2.png>)
 
 
 Sometimes it would be great being able to just emphasize the rhythmical elements of a mix in order to bring out the groove with the purpose of giving a track the right kick. 
@@ -681,7 +681,7 @@ settings - groove compression
 ## **VOcALS DOWN settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0023-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0023-01--f44f81517e3cd379.png>)
 
 
 If you have a track in which the vocals are too loud, the compressor can be set in a way that it mainly reacts to the lead vocals placed in the middle, resulting in a better integration into the mix. 
@@ -701,7 +701,7 @@ settings - vocals down
 ## **DeeSSING settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0024-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0024-01--4b35f2eabea52aca.png>)
 
 
 A variation of the Vocals Down scenario is DeEssing which is used for reducing unwanted ess and hiss sounds. 
@@ -717,13 +717,13 @@ settings - deessing
 24 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0025-00.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0025-00--eab07a1986871b43.png>)
 
 
 ## **settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0025-02.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0025-02--546fb65395327ebc.png>)
 
 
 If it should (or must) become really loud, you can also use the alpha compressor to drive a track against the wall – but without the negative effects this usually brings with it. 
@@ -743,7 +743,7 @@ settings - parallel compression
 ## **STeReO eNHANceR settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0026-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0026-01--ed9a5701491f8f5a.png>)
 
 
 Even when there is nothing to compress from time to time, your productions can still benefit from the alpha compressor, as the combination of the M/S matrix and the audio filters makes a very nice tool for influencing the stereo spectrum. 
@@ -761,7 +761,7 @@ settings - stereo enhancer
 ## **LOFI cOMPReSSION settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0027-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0027-01--6b009a502923be31.png>)
 
 
 Can the alpha compressor also sound really bad? Of course not, but sometimes it can be, well … different. 
@@ -777,7 +777,7 @@ settings - lofi compression
 ## **eXTReMe SeTTINGS settings** 
 
 
-![](<elysia alpha mix Manual_assets/elysia_alpha_mix_Manual.pdf-0028-01.png>)
+![](<../../attachments/elysia-alpha-mix-manual_assets--elysia_alpha_mix_manual.pdf-0028-01--559868592681e87f.png>)
 
 
 Even though the main focus of the alpha compressor lies on mastering applications, you can also use it to find interesting and sometimes extreme settings for single channels or subgroups. 

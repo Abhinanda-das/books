@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/mmit"
 ---
 
-![обложка|156](<Magic & Mystery in Tibet/обложка.jpeg>)
+![обложка|156](<../attachments/magic-mystery-in-tibet--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b65362e0878fcfce.jpeg>)
 
 Alexandra David-Neel was the first European woman to meet the Dalai Lama and in 1924 became the first to enter the forbidden Tibetan capital, Lhasa. She had already spent a decade travelling through China, living in a cave on the Tibetan border, where she learned about Buddhism from hermits, mystics and bandits. Magic and Mystery in Tibet records the mysterious, magical world David-Neel discovered in Tibet. Among the extraordinary events she describes are the Tibetan mystics who could live naked in temperatures below freezing, the psychic sports practiced in Tibet, the lamas who could run for incredible distances without rest, food or drink and the monks who could defy gravity.
 

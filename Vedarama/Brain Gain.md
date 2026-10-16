@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gb-dg"
 ---
 
-![обложка|156](<Brain Gain/обложка.jpeg>)
+![обложка|156](<../attachments/brain-gain--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8cfa7f364147ca85.jpeg>)
 
 # Brain Gain
 

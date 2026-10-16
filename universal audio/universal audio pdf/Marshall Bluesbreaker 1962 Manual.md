@@ -7,7 +7,7 @@ word_count: 6274
 ---
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0001-00.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0001-00--df6f4c8dfd79cdcf.png>)
 
 
 ## **LEGENDS** 
@@ -17,7 +17,7 @@ word_count: 6274
 Rev. Oct 05, 2015 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0002-00.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0002-00--eb7f0dfb7de17e41.png>)
 
 
 ## **Softube User Manual** 
@@ -101,15 +101,15 @@ Marshall’s first ever combo amp was nicknamed the Bluesbreaker after **Eric Cl
 The Silver Jubilee series hit like a bomb in 1987, and tapped perfectly into the rock sound of that era. Unsurprisingly, guitarists such as **Slash** and **John Frusciante** took the amps to their hearts. The three different channels, flexible EQ and the ability to switch the power amp between pentode/triode operation made it a versatile amp that could go from vibrant cleans to soaring leads by the push of a button. 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0006-07.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0006-07--43533514ebfee283.png>)
 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0006-08.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0006-08--9d9a70c818b57a39.png>)
 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0006-09.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0006-09--a765d997ab8eacf1.png>)
 
 
 | **7** 
@@ -129,11 +129,11 @@ MARsHALL LEGENDS plug-ins are “what you see is what you get” products. You s
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Bass Amp Room plug-in as example, but the same goes for all plug-ins. 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0007-08.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0007-08--87f08840e66fd0a0.png>)
 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0007-09.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0007-09--2becc8411725e5ae.png>)
 
 
 ~~About Box Opens the “About” Box with~~ version info. 
@@ -149,11 +149,11 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 Enable Setup 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0007-16.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0007-16--3449b1c443fcc5d7.png>)
 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0007-17.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0007-17--8efafc85f07948a2.png>)
 
 
 **8** | USER INTERFACE 
@@ -305,7 +305,7 @@ By patching the inputs you will get different input gain and different tonality 
 The most common way of patching is going into 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0013-14.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0013-14--df58693b2f27a2bb.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -313,17 +313,17 @@ Click<br>**----- End of picture text -----**<br>
 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0013-15.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0013-15--ac1bad5801d5649c.png>)
 
 
 _**Black cable (guitar) in Input I High input, no patching between channels. Click on the input to select the first patch configuration, or another input to select a different input.**_ 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0013-17.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0013-17--29af462a9ac096e7.png>)
 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0013-18.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0013-18--4eca5217d189b007.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -333,7 +333,7 @@ Click<br>**----- End of picture text -----**<br>
 _**Black cable (guitar) in Input I High input, patching between Input I Low and Input II High. This is the standard patch. Click the input again to select the second patch configuration.**_ 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0013-20.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0013-20--74a5da52c8a68570.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -341,7 +341,7 @@ Click<br>**----- End of picture text -----**<br>
 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0013-21.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0013-21--97124e977419a1d0.png>)
 
 
 _**Black cable (guitar) in Input I High input, patching between Input I Low and Input II Low. Click the input to remove the patch.**_ 
@@ -393,7 +393,7 @@ The 16 ohms **1960 BHW** cabinet was recorded with a legendary range of micropho
 SOFTUBE USER’S GUIDE | **15** 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0015-01.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0015-01--e965db4850e664f7.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -439,7 +439,7 @@ Slightly more open sound with lots of ambience from the room mic.
 Sets the cabinet and microphone emulation in bypass, so that only the direct sound from the Marshall Plexi amplifier head is heard. This is usually not regarded as a very pleasant sound, but the setting is useful for combining the amplifier with other cabinet/microphone models, such as the ones available in Softube Vintage Amp Room, Bass Amp Room, Metal Amp Room, Half Stack or Bass Amp Room 8x10. In all these plug-ins, the amplifier section can be bypassed. This would be the recommended setting, when combining the Marshall Plexi head with the cabinet in either of those plug-ins. 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0016-18.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0016-18--ee73c1f7ce80c09f.png>)
 
 
 | **17** 
@@ -481,7 +481,7 @@ The functionality of the front panel controls corresponds exactly to that of the
 On/Off and Tremolo Tremolo Loudness I Loudness II Patch Standby Speed Intensity[Presence] Bass Middle Treble High Treble Normal Switching 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0018-11.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0018-11--e5ab56bee4f7a11b.png>)
 
 
 SOFTUBE USER’S GUIDE | **19** 
@@ -529,7 +529,7 @@ The channel strip can be opened by clicking the right hand wood panel with the g
 **20** | MARSHALL BLUESBREAKER 1962 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0020-01.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0020-01--57b179625f841fe2.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -585,7 +585,7 @@ This plug-in model, exclusive for the UAD-2/ Apollo platform, is based on Marsha
 The Silver Jubilee was based on the Marshall JCM800 amplifier, but had an innovative and unusual preamp section which offered higher gain and a somewhat darker and smoother sound compared to the JCM800. The preamp circuit had three gain modes: Clean, Rhythm Clip and Lead. The EQ section also set the Silver Jubilee apart from other Marshall amps with its much wider range of tonal variety, and it was the first Marshall amplifier where the power amp tubes could be switched from their normal pentode operation mode into triode mode. With the power amp tubes working as triodes, the power amp’s output was cut in half, and the power amp distortion was silkier and less aggressive. All of these features have been accurately modeled by Softube in the Marshall Silver Jubilee 2555 plug-in. 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0024-00.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0024-00--5ed1e25f807e1aee.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -683,7 +683,7 @@ Settings the cabinet to OFF is usually not regarded as a very pleasant sound, bu
 SOFTUBE USER’S GUIDE | **27** 
 
 
-![](<Marshall Bluesbreaker 1962 Manual_assets/Marshall_Bluesbreaker_1962_Manual.pdf-0027-01.png>)
+![](<../../attachments/marshall-bluesbreaker-1962-manual_assets--marshall_bluesbreaker_1962_manual.pdf-0027-01--12cb04f066091411.png>)
 
 
 **----- Start of picture text -----**<br>

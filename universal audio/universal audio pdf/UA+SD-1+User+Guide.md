@@ -6,15 +6,15 @@ tool_version: 1.10.2
 word_count: 227
 ---
 
-![](UA+SD-1+User+Guide_assets/_page_0_Picture_0.jpeg)
+![](../../attachments/ua-sd-1-user-guide_assets--page_0_picture_0--d590bc7c6f21df60.jpeg)
 
-![](UA+SD-1+User+Guide_assets/_page_0_Picture_1.jpeg)
+![](../../attachments/ua-sd-1-user-guide_assets--page_0_picture_1--2aa6ff724a2da75d.jpeg)
 
 Universal Audio, Inc.
 
 4585 Scotts Valley Drive, Scotts Valley, CA 95066 www.uaudio.com
 
-![](UA+SD-1+User+Guide_assets/_page_0_Picture_6.jpeg)
+![](../../attachments/ua-sd-1-user-guide_assets--page_0_picture_6--fe963593a2aebfe0.jpeg)
 
 # **Congratulations Specifications**
 
@@ -26,7 +26,7 @@ There are two control switches below the XLR connector. Move switch #1 to its up
 
 The SD-1 comes with convenient Apollo Channel Strip Presets. These downloadable settings for UA's Apollo audio interfaces give you professional results, instantly.
 
-![](UA+SD-1+User+Guide_assets/_page_1_Picture_5.jpeg)
+![](../../attachments/ua-sd-1-user-guide_assets--page_1_picture_5--4593c9664531001f.jpeg)
 
 ### **Get Apollo Interface Presets**
 

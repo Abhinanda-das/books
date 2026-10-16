@@ -48,7 +48,7 @@ You can find other external sidechain examples on our support site.
 
 Each sidechain-capable UADx plug-in includes a Sidechain switch on the control bar. In most instances, you cannot enable this switch unless the correct sidechain routing is configured in the DAW. This switch is usually enabled automatically when the DAW sidechain routing to the plug-in is configured. 
 
-  ![fl-sc-sidechain-ui.png](Using%20an%20External%20Sidechain%20with%20UAD%20Plug-Ins_assets/e752add6e9a8807d2bb147a48455950f97240e8a.png)
+  ![fl-sc-sidechain-ui.png](../../attachments/using-an-external-sidechain-with-uad-plug-ins_assets--e752add6e9a8807d2bb147a48455950f97240e8a--b0b2ac9cef256cde.png)
 
 ## About DAW sidechain configuration
 
@@ -74,7 +74,7 @@ In this example, we use the output of a kick drum track to trigger an API 2500 c
 2.  Assign the destination channel (the channel that will include your plug-in and the source to be modified by the sidechain input) to a separate Mixer track. In this example, we've assigned a PolyMAX synth channel to Mixer track 2. 
 3.  Assign any other channels to separate mixer tracks that will not interfere with the sidechain.\
     \
-    ![fls-sc-mixer-assignments.png](Using%20an%20External%20Sidechain%20with%20UAD%20Plug-Ins_assets/a8da915f6023ff4e3af69e6a2ea5a057d785bab8.png)\
+    ![fls-sc-mixer-assignments.png](../../attachments/using-an-external-sidechain-with-uad-plug-ins_assets--a8da915f6023ff4e3af69e6a2ea5a057d785bab8--ef0e2f533ed2f6e8.png)\
     \
 4.  Double-click the Mixer track routing slot to open the Mixer, or choose View \> Mixer from the FL Studio menus.\
     The Mixer opens.
@@ -89,9 +89,9 @@ In FL Studio, you assign the mixer sidechain routing connection from one channel
     This track contains the audio output that you want to use to trigger the sidechain.
 3.  On the sidechain destination track (the track with the plug-in you want to be triggered by the sidechain source), right-click the triangle under the track fader, and choose Sidechain to this track.\
     \
-    ![fl-sc-sidechain-configure.png](Using%20an%20External%20Sidechain%20with%20UAD%20Plug-Ins_assets/b0810faabb2a49a8bc994fa582f3457e0b95536c.png)\
+    ![fl-sc-sidechain-configure.png](../../attachments/using-an-external-sidechain-with-uad-plug-ins_assets--b0810faabb2a49a8bc994fa582f3457e0b95536c--8388f1b80e0af5ac.png)\
     \
-    ![fl-sc-routing-created.png](Using%20an%20External%20Sidechain%20with%20UAD%20Plug-Ins_assets/e561e5b4a961cde2f52424c2e3d96dc00959dd84.png)
+    ![fl-sc-routing-created.png](../../attachments/using-an-external-sidechain-with-uad-plug-ins_assets--e561e5b4a961cde2f52424c2e3d96dc00959dd84--80882fad453baadd.png)
 
 The sidechain routing is created.
 
@@ -99,7 +99,7 @@ The sidechain routing is created.
 
 1.  On the sidechain destination mixer track, assign the UAD plug-in. In this example, we use the UADx API 2500 Bus Compressor.\
     \
-    ![fl-sc-assign-plug-in.png](Using%20an%20External%20Sidechain%20with%20UAD%20Plug-Ins_assets/7e23e73e206ea2e8310487d7c06be9534d8bdbe8.png)\
+    ![fl-sc-assign-plug-in.png](../../attachments/using-an-external-sidechain-with-uad-plug-ins_assets--7e23e73e206ea2e8310487d7c06be9534d8bdbe8--68996b8d6b2f90d6.png)\
     \
     The plug-in interface opens. If the plug-in is not open, click the plug-in name in the mixer to open the interface. 
 
@@ -107,16 +107,16 @@ The sidechain routing is created.
 
 2.  On the plug-in, click the gear icon to open the plug-in's detailed settings.\
     \
-    ![fl-sc-plug-in-detailed-settings.png](Using%20an%20External%20Sidechain%20with%20UAD%20Plug-Ins_assets/a8df2b8171a12818ac09e9c5d5e9de190e1fb072.png)\
+    ![fl-sc-plug-in-detailed-settings.png](../../attachments/using-an-external-sidechain-with-uad-plug-ins_assets--a8df2b8171a12818ac09e9c5d5e9de190e1fb072--7109a4910eea3ade.png)\
     \
 3.  Click the combined plug and gear icon to open the plug-in wrapper settings.\
     \
-    ![fl-sc-wrapper-settings.png](Using%20an%20External%20Sidechain%20with%20UAD%20Plug-Ins_assets/107562722cc7b3ee1b197d95fb695aa1b16259de.png)\
+    ![fl-sc-wrapper-settings.png](../../attachments/using-an-external-sidechain-with-uad-plug-ins_assets--107562722cc7b3ee1b197d95fb695aa1b16259de--409e8280c51437db.png)\
     \
 4.  Under Connections, next to the label "2.sidechain", click the circle to enable the sidechain. Click in the field to the left of label "2.sidechain" and drag to select the Mixer track that is the sidechain source. In this example, the sidechain source is Mixer track 1.\
     **Note:** In the Audio Units version of the plug-in, the primary and sidechain connections are labeled "Node 0" and "Node 1".\
     \
-    ![fl-sc-processing-tab-connections.png](Using%20an%20External%20Sidechain%20with%20UAD%20Plug-Ins_assets/b58e1fffdd540dc7d2c37b3c50ea46a05870b40f.png)
+    ![fl-sc-processing-tab-connections.png](../../attachments/using-an-external-sidechain-with-uad-plug-ins_assets--b58e1fffdd540dc7d2c37b3c50ea46a05870b40f--f3cf29f23e823d87.png)
 5.  The plug-in now receives key input from the sidechain source Mixer track. Click the plug icon again to return to the plug-in interface, and configure the plug-in settings.
 6.  Start playback to audition the effect, and adjust the Threshold control of the plug-in to adjust sensitivity to the sidechain input.
 7.  Toggle the Sidechain switch in the plug-in toolbar to enable or disable the sidechain for quick comparison.

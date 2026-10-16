@@ -9,7 +9,7 @@ word_count: 2175
 1 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0001-01.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0001-01--a436e9d20b1ab862.png>)
 
 
 ## **Introduction** 
@@ -25,7 +25,7 @@ Played through a real bass cabinet (via a standard studio power amp) this plug-i
 22 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0003-00.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0003-00--17436b367aa3e0a0.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -51,7 +51,7 @@ The Ampeg plug-in was developed with the Apollo series interfaces in mind and ma
 3 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0004-00.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0004-00--d520a0b85cb268fc.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -75,7 +75,7 @@ The advantage of recording pre-processed bass tracks might be that you will need
 4 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0005-00.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0005-00--7fa761cb38c03f72.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -121,7 +121,7 @@ flat at the center position.
 5 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0006-00.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0006-00--5858b155cf7f2849.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -161,7 +161,7 @@ Cabinet: SVT 410HLF 500W 4x Custom Designed Speakers + SVT 15E
 6 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0007-00.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0007-00--0c2f74f540d2fe55.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -201,7 +201,7 @@ Browse through the Rec Chains by either using the pull-down menu of the Rec Chai
 **5** 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0008-05.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0008-05--ea0943313ffd6144.png>)
 
 
 ## ~~**Top Toolbar**~~ 
@@ -243,7 +243,7 @@ Information about the development of the plugin.
 8 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0009-00.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0009-00--1e259aaf7fe7ec52.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -257,11 +257,11 @@ We have made a lot of presets for the SVT-VR Classic plugin, many of them have b
 9 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0010-00.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0010-00--24fe4b8f1aa0a4db.png>)
 
 
 
-![](<Ampeg SVTVR Classic Manual_assets/Ampeg_SVTVR_Classic_Manual.pdf-0010-01.png>)
+![](<../../attachments/ampeg-svtvr-classic-manual_assets--ampeg_svtvr_classic_manual.pdf-0010-01--c57a38bbaea90214.png>)
 
 
 Plug in, Rock out!   - **www.brainworx-music.de** 

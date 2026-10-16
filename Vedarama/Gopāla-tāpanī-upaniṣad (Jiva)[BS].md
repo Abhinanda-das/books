@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ptu-jg-bs"
 ---
 
-![обложка|156](<Gopāla-tāpanī-upaniṣad (Jiva)[BS]/обложка.png>)
+![обложка|156](<../attachments/gop%C4%81la-t%C4%81pan%C4%AB-upani%E1%B9%A3ad-jiva-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--2203684ac5813ca1.png>)
 
 Gopala-tapani Upanisad, part of Atharva Veda, is often quoted by Gaudiya acaryas since it is a sruti text which clearly praises Krsna and the path of bhakti as supreme. Its main subject is Krsna. It also explains the Krsna mantra in detail. jiva, Prabhodananda, Visvanatha, and Baladeva have written commentaries on this work. I have taken Visvanatha’s commentary from the Sarasvata Gaudiya Asana and Mission edition. However, it may be an enlarged edition of jiva’s commentary, since the text is largely similar to his, and the concluding verse (which I did not include) is the same as jiva’s.
 

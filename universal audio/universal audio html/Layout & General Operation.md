@@ -14,7 +14,7 @@ UAD Console’s visual and control elements are designed with a layout similar t
 UAD Console always shows certain screen elements (the title bar, info bar, meter bridge, and bank bar). Other UAD Console elements can be shown, hidden, resized, or collapsed, with a wide range of flexibility.   
 
 <figure class="wysiwyg-image">
-![console-callouts.png](Layout%20%26%20General%20Operation_assets/0f812ccdb61b541626f6645a42ce46a7a1babd1b.png)
+![console-callouts.png](../../attachments/layout-general-operation_assets--0f812ccdb61b541626f6645a42ce46a7a1babd1b--7b9eeba957e8c430.png)
 </figure>
 
 # Window Title Bar
@@ -22,7 +22,7 @@ UAD Console always shows certain screen elements (the title bar, info bar, meter
 The Window Title Bar is the topmost strip in the UAD Console window, as shown below.
 
 <figure class="wysiwyg-image">
-![uad-console-top-bar.png](Layout%20%26%20General%20Operation_assets/a0ffe59dc673aedcbd5cb15ced944ce2ba6ba8df.png)
+![uad-console-top-bar.png](../../attachments/layout-general-operation_assets--a0ffe59dc673aedcbd5cb15ced944ce2ba6ba8df--a8031403af6fb412.png)
 </figure>
 
 *Console Title Bar*
@@ -33,7 +33,7 @@ The Window Title Bar is the topmost strip in the UAD Console window, as shown be
 
 **Window Buttons –** In the title bar, the UAD Console window includes standard Close, Minimize, and Maximize buttons. 
 
-![](Layout%20%26%20General%20Operation_assets/e3293bd7ce28e4a3e1d475c88ae4a6bf434a8c3e.png)
+![](../../attachments/layout-general-operation_assets--e3293bd7ce28e4a3e1d475c88ae4a6bf434a8c3e--72f1039d10291c3b.png)
 
 *Close, Minimize, and Maximize buttons*
 
@@ -49,7 +49,7 @@ The Window Title Bar is the topmost strip in the UAD Console window, as shown be
 
 The Mixer Navigation section is visible at the left side of the UAD Console window when View \> Section \> Mixer Navigation is checked. You can use the Mixer Navigation controls to show and hide rows in the input channel strips and the faders, and to scroll mixer rows to the top of the view area. All Mixer rows are visible at one time in the input channel strips, though you may have to scroll to view them all. Mixer rows can be individually collapsed and expanded, or completely hidden from view. 
 
-![mixer-navigation-callouts.png](Layout%20%26%20General%20Operation_assets/7ceb6d37f09a58abc7455c02dc13995661c51606.png)
+![mixer-navigation-callouts.png](../../attachments/layout-general-operation_assets--7ceb6d37f09a58abc7455c02dc13995661c51606--426a35bbf3d6a577.png)
 
 # Showing & Hiding Channel Strip Rows
 
@@ -81,7 +81,7 @@ Each channel strip row can be opened (expanded) or closed (collapsed). When clos
 
 To open or close a mixer row, click the disclosure triangle at the left of the row in the Options column.
 
-![](Layout%20%26%20General%20Operation_assets/460f885cdf2fdf9eb75dabc8651a8b2b7be22a7c.png)
+![](../../attachments/layout-general-operation_assets--460f885cdf2fdf9eb75dabc8651a8b2b7be22a7c--37c45a6816353259.png)
 
 *Mixer rows closed (Inserts) and open (Sends)*
 
@@ -89,7 +89,7 @@ To open or close a mixer row, click the disclosure triangle at the left of the r
 
 You can open or close all mixer rows with the global control. In the Mixer Navigation area, click Open or Close to open or close all rows. 
 
-![mixer-sections-open-close-all.png](Layout%20%26%20General%20Operation_assets/60ed559df7a7da880dddbaabd88ca4f0fd89f634.png)
+![mixer-sections-open-close-all.png](../../attachments/layout-general-operation_assets--60ed559df7a7da880dddbaabd88ca4f0fd89f634--69ca6eb92129049e.png)
 
 ## Resizing Mixer Rows
 
@@ -101,13 +101,13 @@ In the UAD Console mixer, you can show a large or small view for the Inserts, Se
 
 To switch a mixer row to the large size, click the icon at the left of the row in the Options column. When a mixer row is large, the icon to the left of the row is highlighted yellow.
 
-![](Layout%20%26%20General%20Operation_assets/3bcf44da5c13b34a21b1391989af8453d52e5440.png)
+![](../../attachments/layout-general-operation_assets--3bcf44da5c13b34a21b1391989af8453d52e5440--8458756868efcff4.png)
 
 *Small and large Inserts section*
 
  
 
-### ![](Layout%20%26%20General%20Operation_assets/3229b6ca70d5d1f41be5154bcbc57a0967a3ee0a.png)
+### ![](../../attachments/layout-general-operation_assets--3229b6ca70d5d1f41be5154bcbc57a0967a3ee0a--c7ffaee569ec5b0f.png)
 
 *Small and large Sends rows*
 
@@ -115,7 +115,7 @@ To switch a mixer row to the large size, click the icon at the left of the row i
 
 You can resize all mixer rows to small or large view with the global control. In the Mixer Navigation area, click Large or Small to resize all mixer rows. 
 
-![mixer-sections-resize-all.png](Layout%20%26%20General%20Operation_assets/62986c5fe27c159b952a38fb24d2af82111076a8.png)
+![mixer-sections-resize-all.png](../../attachments/layout-general-operation_assets--62986c5fe27c159b952a38fb24d2af82111076a8--e427d4759dd78d05.png)
 
 ## Using Fixed Slots
 
@@ -123,19 +123,19 @@ By default, UAD Console shows one Insert row, and expands to show an empty inser
 
 If you want to toggle all insert slots, click Fixed Slots. When highlighted yellow, all insert slots are visible. When gray, only the insert slots currently in use, plus one empty row, are displayed, up to the maximum of four rows. 
 
-![](Layout%20%26%20General%20Operation_assets/f183a6dca4e98eda7656d08f74be71c75363840f.png)
+![](../../attachments/layout-general-operation_assets--f183a6dca4e98eda7656d08f74be71c75363840f--0674e39b33997296.png)
 
 ## Viewing the Sends Overview
 
 Click the Sends Overview switch to show the Sends Overview for all mixer channels. See [Sends](https://help.uaudio.com/hc/en-us/articles/25350937974676) for more information.
 
-![sends-overview-switch.png](Layout%20%26%20General%20Operation_assets/0554cfc1e26b54c333d53336d2d638166782a057.png)
+![sends-overview-switch.png](../../attachments/layout-general-operation_assets--0554cfc1e26b54c333d53336d2d638166782a057--e97244d107661517.png)
 
-![](Layout%20%26%20General%20Operation_assets/e3ba7c68f87d18c7839b5b6f10870703a3ae0631.png)
+![](../../attachments/layout-general-operation_assets--e3ba7c68f87d18c7839b5b6f10870703a3ae0631--0356bf0dcf8757cf.png)
 
 # Global Insert Effects Switch
 
-![](Layout%20%26%20General%20Operation_assets/0a432db935dbd3ea99f3c46e0af8b56722ca7b20.png)
+![](../../attachments/layout-general-operation_assets--0a432db935dbd3ea99f3c46e0af8b56722ca7b20--45b96188ea91ac7e.png)
 
 These buttons globally switch all UAD Console’s inserts to either pass all UAD insert effect processing to the DAW (print wet) or not (monitor wet but print dry).
 
@@ -147,13 +147,13 @@ Insert Effects can also be individually switched on a per-channel basis (see [In
 
 You can reconfigure the UAD Console view options. The Options column includes individual display controls for each input channel row, and the Clear Solo and Clear Over Limit switches. 
 
-![](Layout%20%26%20General%20Operation_assets/8f2e98d9cff916b0a4c4ba6f028838eb2e683ec3.png)
+![](../../attachments/layout-general-operation_assets--8f2e98d9cff916b0a4c4ba6f028838eb2e683ec3--0bb8fe7001fd692d.png)
 
  
 
 # Popovers
 
-![](Layout%20%26%20General%20Operation_assets/35b0f5294acbab1b88cedf2150a87676d5667c35.png)
+![](../../attachments/layout-general-operation_assets--35b0f5294acbab1b88cedf2150a87676d5667c35--5dc7342b116fcdae.png)
 
 Some Console functions that are not visible in the main window are accessed with popovers. Popovers are a special type of overlay that automatically close when any area outside of the popover is clicked.
 
@@ -197,7 +197,7 @@ Many Console functions can be controlled without using a mouse. When elements on
 
 Focused items can be selected by using the up/down arrow keys and/or the Return/Enter keys.
 
-![](Layout%20%26%20General%20Operation_assets/fd12f1a4121432b3060b418c79b2828bfb5e12fa.png)
+![](../../attachments/layout-general-operation_assets--fd12f1a4121432b3060b418c79b2828bfb5e12fa--6936ae8a27d0fc8a.png)
 
 *The preset is focused and can be navigated with the up/down arrow keys on the keyboard.*
 

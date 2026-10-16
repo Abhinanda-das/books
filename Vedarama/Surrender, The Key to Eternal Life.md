@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btrthsw-stktel"
 ---
 
-![обложка|156](<Surrender, The Key to Eternal Life/обложка.jpeg>)
+![обложка|156](<../attachments/surrender-the-key-to-eternal-life--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b56bcf69e939fe96.jpeg>)
 
 Surrender: The Key to Eternal Life is a deep meditation on topics such as the cultivation of humility and selflessness, as well as on the detrimental effects of envy, anxiety, and boredom. As usual, Bhakti Tīrtha Swami’s work contains specific and practical ways to engage in spiritual life. Mahārāja wants us to look at our weaknesses. Instead of leaving us to wallow in the muck of our anarthas, he encourages us to take inventory of them so that we can make genuine changes and advancement. He was especially compassionate in his approach to anartha-nivṛtti, understanding that many of us have a hard time relinquishing bad habits that we have carried with us lifetime after lifetime, even while trying sincerely to chant and hear the Lord’s holy name. Through his compassion, he listened to devotees, asked questions, and took care to pinpoint the exact nature of the problems that often trouble the individual and the community of devotees. He would address such concerns in person, in his lectures, and in his books.
 

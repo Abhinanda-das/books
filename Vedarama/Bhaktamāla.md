@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bmala"
 ---
 
-![обложка|156](<Bhaktamāla/обложка.jpeg>)
+![обложка|156](<../attachments/bhaktam%C4%81la--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--e941b3333b682bd6.jpeg>)
 
 Sri Bhaktamala is a compilation of +400 short biographies of Avataras, sages, and vaishnavas from the early times up to Lord Caitanya and following generations of devotees.
 

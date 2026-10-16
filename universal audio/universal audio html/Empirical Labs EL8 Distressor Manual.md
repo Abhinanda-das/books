@@ -54,13 +54,13 @@ The Distressor’s sidechain control gets rid of unwanted low-frequency pumping 
 
 # Distressor Controls
 
-![distressor-interface.png](Empirical%20Labs%20EL8%20Distressor%20Manual_assets/696fd7e0fe3a9b58c086329194030baf01d67224.png)
+![distressor-interface.png](../../attachments/empirical-labs-el8-distressor-manual_assets--696fd7e0fe3a9b58c086329194030baf01d67224--05b87c048ca31ba8.png)
 
 *Empirical Labs EL8 Distressor*
 
 A simplified version of the signal flow within the plug-in is shown in the diagram below. Understanding this signal flow may help you obtain a more predictable result.
 
-![distressor-flow.png](Empirical%20Labs%20EL8%20Distressor%20Manual_assets/be30377f960802aab0cf3db75ab95063850604a1.png)
+![distressor-flow.png](../../attachments/empirical-labs-el8-distressor-manual_assets--be30377f960802aab0cf3db75ab95063850604a1--a8d7463d6c2198cc.png)
 
 ## BYPASS
 
@@ -118,7 +118,7 @@ NUKE</p></td>
 
 ## DETECTOR
 
-![distressor-detector.png](Empirical%20Labs%20EL8%20Distressor%20Manual_assets/f11816bf7a060479a5aa80e2dd6a37f1d79534d5.png)
+![distressor-detector.png](../../attachments/empirical-labs-el8-distressor-manual_assets--f11816bf7a060479a5aa80e2dd6a37f1d79534d5--390969b38d290c22.png)
 
 This switch cycles through eight modes of sidechain signal processing. Each mode has a distinct effect on dynamics detection and compression behavior.
 
@@ -258,7 +258,7 @@ OUTPUT adjusts the signal level at the output of the plug-in. The nonlinear outp
 
 ## HEADROOM (HR)
 
-![distressor-headroom.png](Empirical%20Labs%20EL8%20Distressor%20Manual_assets/5b6c422a4acc2094df974b6f7c1915da58561628.png)
+![distressor-headroom.png](../../attachments/empirical-labs-el8-distressor-manual_assets--5b6c422a4acc2094df974b6f7c1915da58561628--4c837e9866d0a495.png)
 
 The Headroom control is a UAD-only feature that is not available in the original hardware. Headroom enables adjustment of the internal operating reference level for the plug-in so that the plug-in is not "pushed" into processing as much. Headroom enables best practice operating level matching, or it can be used creatively to expand the sonic range of the processor. 
 
@@ -375,7 +375,7 @@ Due to the transformerless design, you will maintain a low transient intermodula
 
 *Empirical Labs would like to thank Universal Audio for not only creating classic audio gear, but for kindly allowing us to refer to their model numbers. As they say "Once a classic, always a classic."*
 
-![empirical-labs-logo.jpg](Empirical%20Labs%20EL8%20Distressor%20Manual_assets/37c2fa7d2917fc7593cacd4089b7a29c7d52493d.jpg) ![empirical_labs_distressor_el8-hw.jpg](Empirical%20Labs%20EL8%20Distressor%20Manual_assets/f2fca65811be1eff713531a0669fdb24767e67ce.jpg)
+![empirical-labs-logo.jpg](../../attachments/empirical-labs-el8-distressor-manual_assets--37c2fa7d2917fc7593cacd4089b7a29c7d52493d--f491161c19426a63.jpg) ![empirical_labs_distressor_el8-hw.jpg](../../attachments/empirical-labs-el8-distressor-manual_assets--f2fca65811be1eff713531a0669fdb24767e67ce--d0d6628882dff30a.jpg)
 
 *Original Empirical Labs EL8 Distressor hardware*
 

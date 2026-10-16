@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/td5"
 ---
 
-![обложка|156](<A Transcendental Diary Volume 5/обложка.jpeg>)
+![обложка|156](<../attachments/a-transcendental-diary-volume-5--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--76a21483ec849eb5.jpeg>)
 
 This is the fifth of five volumes, covering the period from October 1976 – December 1976. It deeply describes Srila Prabhupada’s visits to Aligarh, New Delhi, and Chandigarh, as well as extended repose at ISKCON’s Krishna-Balarama Mandir in Sri Vrndavan-dhama. Hari Sauri Prabhu was a personal servant of Srila Prabhupada for a period of sixteen months, from late November 1975 to the end of March 1977. So we might well be prepared for a sixth volume that covers the last few months of his intensive service to His Divine Grace.
 

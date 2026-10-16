@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gourgovindasw-snb"
 ---
 
-![обложка|156](<Śuddha-nāma Bhajana/обложка.jpeg>)
+![обложка|156](<../attachments/%C5%9Buddha-n%C4%81ma-bhajana--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9b655eff9ec94b4c.jpeg>)
 
 “…If you are chanting the pure name or remembering the pure name, you will immediately see the all beautiful form of Syamasundara. It will be manifest before you. That is the test that you are chanting the pure name; you see Syamasundara immediately…”
 

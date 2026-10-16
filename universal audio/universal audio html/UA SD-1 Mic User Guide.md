@@ -19,7 +19,7 @@ This printed guide is included in your UA SD-1 retail package. 
 
  
 
-![UA_SD-1_User_Guide_1.png](UA%20SD-1%20Mic%20User%20Guide_assets/e7310828382b0e7c7b2289f2204d784a7b2d9b98.png)
+![UA_SD-1_User_Guide_1.png](../../attachments/ua-sd-1-mic-user-guide_assets--e7310828382b0e7c7b2289f2204d784a7b2d9b98--982b97988cbf630e.png)
 
-![UA_SD-1_User_Guide_2.png](UA%20SD-1%20Mic%20User%20Guide_assets/e94b5bf84b792ad3d5504a91b24f7a4edd748be4.png)
+![UA_SD-1_User_Guide_2.png](../../attachments/ua-sd-1-mic-user-guide_assets--e94b5bf84b792ad3d5504a91b24f7a4edd748be4--6e1d0b89c8296bf2.png)
 

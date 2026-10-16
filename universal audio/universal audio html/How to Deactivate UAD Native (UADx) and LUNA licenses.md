@@ -15,5 +15,5 @@ This article demonstrates how to deactivate licenses for UAD Native (UADx) plug-
 2.  Navigate to the "All Licenses," "Available," or "All Activations" tab.
 3.  **Right-click** on the license and choose **Deactivate**.\
     \
-    ![Screen_Shot_2020-07-09_at_4.48.40_PM.png](How%20to%20Deactivate%20UAD%20Native%20%28UADx%29%20and%20LUNA%20licenses_assets/dbb9401922775511fc652e3c0fe3b832433b4c19.png)
+    ![Screen_Shot_2020-07-09_at_4.48.40_PM.png](../../attachments/how-to-deactivate-uad-native-uadx-and-luna-licenses_assets--dbb9401922775511fc652e3c0fe3b832433b4c19--34dd4075a363798d.png)
 

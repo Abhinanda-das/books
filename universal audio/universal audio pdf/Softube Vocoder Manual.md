@@ -11,7 +11,7 @@ word_count: 2916
 Rev. Sep 25, 2018 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0002-00.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0002-00--1b2947e5079d38a5.png>)
 
 
 ## **Softube User Manual** 
@@ -91,7 +91,7 @@ The Softube Vocoder is an audio effect, designed to be controlled via a MIDI key
 **5.** Resynthesis control 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0005-10.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0005-10--77de54b97c83003b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -99,11 +99,11 @@ The Softube Vocoder is an audio effect, designed to be controlled via a MIDI key
 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0005-11.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0005-11--521ce8f9ad9f0b71.png>)
 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0005-12.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0005-12--b87032805f117c00.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -111,7 +111,7 @@ The Softube Vocoder is an audio effect, designed to be controlled via a MIDI key
 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0005-13.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0005-13--85ef021506cf5d51.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -127,7 +127,7 @@ This is the built in carrier sound source in Softube Vocoder. It is a six voice 
 The Carrier Synth can be controlled polyphonically via MIDI or be set to hold one or multiple notes in the Transpose Chord mode (where MIDI can be used for transposition of chords). When controlled via MIDI, it receives MIDI notes on all channels (omni mode). 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0006-04.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0006-04--af1175cf0cc39866.png>)
 
 
 ## **Resynthesis Control** 
@@ -135,7 +135,7 @@ The Carrier Synth can be controlled polyphonically via MIDI or be set to hold on
 The Resynthesis controls are the heart of the Softube Vocoder. This is where the user controls the levels of the separate bands of the bandpass filters that synthesize the speech. All bands also have common controls for emphasis (resonance) and shape of their envelope followers. 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0006-07.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0006-07--717699e57b3eaf32.png>)
 
 
 SOFTUBE USER’S GUIDE | **7** 
@@ -149,11 +149,11 @@ The unvoiced section of the Softube Vocoder reacts to, and synthesizes high freq
 The Freeze section lets the user capture a particular syllable or vocal formant in the resynthesis filters and hold it. This can be done via MIDI or in sync with your DAW (every bar, 1/2 bar, 1/4[th] note, 8[th] note or 16[th] note). 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0007-05.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0007-05--8244914525b4d87a.png>)
 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0007-06.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0007-06--e3d68defe5f04163.png>)
 
 
 ## **Output section** 
@@ -161,7 +161,7 @@ The Freeze section lets the user capture a particular syllable or vocal formant 
 The Output section features controls of the stereo width, wet/dry mix and overall output volume. 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0007-09.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0007-09--ef624fae7c1cdd0b.png>)
 
 
 | SOFTUBE VOCODER 
@@ -227,13 +227,13 @@ is short for Pulse Width Modulation and this pulsewave's width is being swiftly 
 The Softube Vocoder has been developed with a quite basic feature-set, but still with enough controls to make it flexible enough to cover all your vocoding needs. 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0011-02.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0011-02--8d63ffe45b01c776.png>)
 
 
 **1.** Use fewer bands for a more crude, vintage robotic sounding vocoder. 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0011-04.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0011-04--56b4971e6d607d21.png>)
 
 
 **2.** Make use of the DAW synced freeze function for creating fun and inspiring textures. 
@@ -241,13 +241,13 @@ The Softube Vocoder has been developed with a quite basic feature-set, but still
 **12** | SOFTUBE VOCODER 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0012-01.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0012-01--a18dde747b840851.png>)
 
 
 **3.** Add the vocoder to process rhythmic material in order to create interesting textures in your slow synth-pads. 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0012-03.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0012-03--621b06d58eec96b1.png>)
 
 
 **4.** Use a vocoded noise mix with high emphasis to create a kind of tuned “pseudo-reverb”. 
@@ -277,11 +277,11 @@ In the bottom of the plug-in interface, you will see a thin black row with some 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0014-07.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0014-07--aedc87b9222e4034.png>)
 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0014-08.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0014-08--97f0d0b06b4a9978.png>)
 
 
 ~~About Box Opens the “About” Box with~~ version info. 
@@ -297,7 +297,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 Enable Setup 
 
 
-![](<Softube Vocoder Manual_assets/Softube_Vocoder_Manual.pdf-0014-15.png>)
+![](<../../attachments/softube-vocoder-manual_assets--softube_vocoder_manual.pdf-0014-15--6babdac7c4e3b2a2.png>)
 
 
 **15** | GENERAL SETTINGS 

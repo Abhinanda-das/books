@@ -7,11 +7,11 @@ word_count: 13541
 ---
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0001-00.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0001-00--96bc3a330cfb4750.png)
 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0001-01.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0001-01--a3715600cde325b8.png)
 
 
 ## Thunderbolt 3 Audio Interface 
@@ -19,11 +19,11 @@ word_count: 13541
 with HEXA Core Realtime UAD Processing 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0001-04.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0001-04--2ef02f8605e51ef0.png)
 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0001-05.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0001-05--e0a1de981200fe20.png)
 
 
 ## **Apollo x6 Gen 2 Hardware Manual** 
@@ -31,7 +31,7 @@ with HEXA Core Realtime UAD Processing
 Manual Version 250902 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0001-08.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0001-08--82aa6aa0e5792310.png)
 
 
 www.uaudio.com 
@@ -53,7 +53,7 @@ Please feel free to reach out to us via our website www.uaudio.com, and via our 
 Sincerely, 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0002-08.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0002-08--7a2cdd5cf2835e6d.png)
 
 
 Bill Putnam Jr. 
@@ -131,7 +131,7 @@ Combine Apollo x6’s HEXA Core DSP with native processing from your host comput
 Build your studio by linking up to four Thunderbolt Apollo interfaces for up to 128 channels of premium I/O in your DAW, and control it all from your desktop using Apollo Twin or x4. So no matter how far your music takes you, an Apollo will always be in reach. 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0005-06.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0005-06--ce16912102bada73.png)
 
 
 _includes the Essentials+ or Studio+ Editions. Other UAD plug-ins available separately. All trademarks are property of their respective owners._ 
@@ -173,7 +173,7 @@ Introduction
 - Free industry-leading technical support from knowledgeable audio engineers 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0006-15.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0006-15--b2ee2f5d12b99c92.png)
 
 
 Apollo x6 Gen 2 Hardware Manual 
@@ -349,7 +349,7 @@ Note that UAD plug-in instantiations in UAD Console are not retained on power do
 _Note: Standalone use is unavailable when cascading multiple Apollo units._ 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0010-08.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0010-08--ad490076ccfc2af2.png)
 
 
 Apollo x6 Gen 2 Hardware Manual 
@@ -437,7 +437,7 @@ This section describes the features and functionality of all controls and visual
 _Tip: All front panel functions (except the METER switch, HP1/HP2 knobs, and POWER switch) can be controlled remotely with the included UAD Console software application. Changes made with the front panel controls are mirrored in the UAD Console application, and vice versa._ 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0013-03.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0013-03--d0cc8a30c01562d0.png)
 
 
 **----- Start of picture text -----**<br>
@@ -641,7 +641,7 @@ Green – LINE INPUT GAIN is OFF. The preamp circuitry is bypassed and the line 
 ## Unison Input Indicators 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0018-11.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0018-11--98c40a8f59841981.png)
 
 
 The U1 indicator is lit when a Unison UAD plug-in is active on the currently selected preamp channel. Unison technology is activated by placing a Unison UAD plug-in into the dedicated Unison insert for the input channel in the UAD Console application. 
@@ -681,7 +681,7 @@ Avoid digital clipping at the channel’s A/D converter by reducing the output l
 When set to OUTPUT, the channel meters display the signal peak output levels for analog channels 1 – 6 at the output of the D/A converters. 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0019-09.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0019-09--87ea3acb770e1018.png)
 
 
 **----- Start of picture text -----**<br>
@@ -865,7 +865,7 @@ Front Panel
 ## **Rear Panel** 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0024-01.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0024-01--5c207695e2204727.png)
 
 
 **----- Start of picture text -----**<br>
@@ -988,7 +988,7 @@ Rear Panel
 ## Analog I/O 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0028-01.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0028-01--c4bb4edb27f930c3.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1138,13 +1138,13 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 Does your USB-C connector support Thunderbolt 3? 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0032-05.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0032-05--5199eeff1de17264.png)
 
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer. 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0032-07.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0032-07--d9023fb8c3ff4729.png)
 
 
 _Thunderbolt icon on USB-C cable (left) and USB-C port (right)_ 
@@ -1160,7 +1160,7 @@ Interconnections
 The diagram below illustrates an Apollo x6 setup example that could be used for recording an ensemble. ALT monitors are connected for comparing different speakers. 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0033-02.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0033-02--b590ff71cc665124.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1168,7 +1168,7 @@ Instrument 1<br>Headphones 1 Headphones 2<br>Instrument 2<br>PREAMP INPUT INPUT 
 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0033-03.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0033-03--5c5bb1ff40d2cd9f.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1190,7 +1190,7 @@ The diagram below illustrates an example of how to interconnect multiple Apollo 
 _Important: For complete details about system operation when multi-unit cascading, see the UAD Console Manual._ 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0034-03.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0034-03--bb8451d876892d1e.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1374,7 +1374,7 @@ Apollo x6 Gen 2 Hardware Manual
 37 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0038-00.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0038-00--c4b3a9f4363e2d24.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1388,7 +1388,7 @@ Apollo x6 Gen 2 Hardware Manual
 38 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0039-00.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0039-00--2171ef802778bbb2.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1404,7 +1404,7 @@ Apollo x6 Gen 2 Hardware Manual
 ## **Block Diagram** 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0040-01.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0040-01--1c08ccbc6aeb47bc.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1422,7 +1422,7 @@ Block Diagram
 If your Apollo rack unit isn’t behaving as expected, check these common troubleshooting items. If you still experience issues after performing these checks, contact Technical Support. 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0041-02.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0041-02--f9a8e1fb5c76d6cb.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1465,7 +1465,7 @@ Troubleshooting
 ## **Notices** 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0042-01.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0042-01--16590015d9d63b34.png)
 
 
 ## Important Safety Information 
@@ -1525,7 +1525,7 @@ The product is covered by a limited warranty. For the current terms of such warr
 ## Maintenance 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0043-04.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0043-04--6afb74dc1112b7a3.png)
 
 
 **CAUTION:** To reduce the risk of electric shock, do not open the unit. 
@@ -1581,7 +1581,7 @@ Any modifications to the unit, unless expressly approved by Universal Audio, cou
 ## Product Label 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0044-08.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0044-08--171857bcc9ff6e4b.png)
 
 
 44 
@@ -1701,7 +1701,7 @@ Universal Audio
 47 
 
 
-![](Apollo+x6+Gen+2+Hardware+Manual+250902_assets/Apollo+x6+Gen+2+Hardware+Manual+250902.pdf-0048-00.png)
+![](../../attachments/apollo-x6-gen-2-hardware-manual-250902_assets--apollo-x6-gen-2-hardware-manual-250902.pdf-0048-00--07d020e452a30030.png)
 
 
 www.uaudio.com 

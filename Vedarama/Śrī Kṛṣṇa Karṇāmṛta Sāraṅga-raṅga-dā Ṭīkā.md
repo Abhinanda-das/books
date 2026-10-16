@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/kk-kkg"
 ---
 
-![обложка|156](<Śrī Kṛṣṇa Karṇāmṛta Sāraṅga-raṅga-dā Ṭīkā/обложка.jpeg>)
+![обложка|156](<../attachments/%C5%9Br%C4%AB-k%E1%B9%9B%E1%B9%A3%E1%B9%87a-kar%E1%B9%87%C4%81m%E1%B9%9Bta-s%C4%81ra%E1%B9%85ga-ra%E1%B9%85ga-d%C4%81-%E1%B9%AD%C4%ABk%C4%81--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--52c445634566d96a.jpeg>)
 
 by Śrīla Bilvamaṅgala Ṭhakkura (Līlāśuka)
 

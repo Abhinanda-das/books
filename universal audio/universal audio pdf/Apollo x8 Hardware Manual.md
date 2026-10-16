@@ -6,17 +6,17 @@ tool_version: 1.10.2
 word_count: 12394
 ---
 
-![](<Apollo x8 Hardware Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_0_picture_0--eb8c0995efc022bf.jpeg>)
 
 ## **Thunderbolt 3 Audio Interface**
 
-![](<Apollo x8 Hardware Manual_assets/_page_0_Picture_2.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_0_picture_2--854c023187ea6fcd.jpeg>)
 
 ## **Apollo x8 Hardware Manual**
 
 Manual Version 210429
 
-![](<Apollo x8 Hardware Manual_assets/_page_0_Picture_5.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_0_picture_5--3e3e03241e5fbe7e.jpeg>)
 
 # <span id="page-1-0"></span>**A Letter from Bill Putnam Jr.**
 
@@ -266,7 +266,7 @@ This section describes the features and functionality of all controls and visual
 
 **Tip:** All front panel functions (except the METER switch, headphone volume knobs, and power switch) can be controlled remotely with the included Console software application. Changes made with the front panel controls are mirrored in the Console application, and vice versa.
 
-![](<Apollo x8 Hardware Manual_assets/_page_11_Picture_3.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_11_picture_3--e54e00f5344efe40.jpeg>)
 
 Apollo x8 front panel (left portion)
 
@@ -432,7 +432,7 @@ The color of the LINE indicator changes to reflect the state of the LINE INPUT G
 
 ### **Unison Input Indicators**
 
-![](<Apollo x8 Hardware Manual_assets/_page_16_Picture_11.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_16_picture_11--04fd578f195b5c14.jpeg>)
 
 The U1 indicator is lit when a Unison UAD plug-in is active on the currently selected preamp channel. Unison technology is activated by placing a Unison UAD plug-in into the dedicated Unison insert for the input channel in the Console application.
 
@@ -462,7 +462,7 @@ Avoid digital clipping at the channel's A/D converter by reducing the output lev
 
 When set to OUTPUT, the channel meters display the signal peak output levels for analog channels 1 – 8 at the output of the D/A converters.
 
-![](<Apollo x8 Hardware Manual_assets/_page_18_Picture_0.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_18_picture_0--2b8aaf0e49a08c2d.jpeg>)
 
 Apollo x8 front panel (right portion)
 
@@ -608,7 +608,7 @@ This switch applies power to Apollo x8. When the unit is powered on, the Univers
 
 ## <span id="page-23-0"></span>**Rear Panel**
 
-![](<Apollo x8 Hardware Manual_assets/_page_23_Picture_1.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_23_picture_1--9768fbabc8ab6663.jpeg>)
 
 Apollo x8 rear panel (digital portion)
 
@@ -697,7 +697,7 @@ Per the Thunderbolt specification, bus power is supplied to downstream (daisy-ch
 
 ## <span id="page-27-0"></span>Analog I/O
 
-![](<Apollo x8 Hardware Manual_assets/_page_27_Picture_1.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_27_picture_1--959a185d9b7aa872.jpeg>)
 
 Apollo x8 rear panel (analog portion)
 
@@ -711,7 +711,7 @@ By default, the operating level of the line outputs is +20 dBu. The line outputs
 
 +24 dBu operation is typically used for interfacing with professional audio equipment such as large format consoles, analog tape machines, and similar devices that require higher signal levels. For additional details about +24 dBu operation, see the Apollo Software Manual.
 
-![](<Apollo x8 Hardware Manual_assets/_page_27_Picture_8.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_27_picture_8--c20b819b699c5180.jpeg>)
 
 Headroom menu within Console Settings
 
@@ -751,7 +751,7 @@ By default, the operating level of the line inputs is +20 dBu. The line inputs a
 
 +24 dBu operation is typically used for interfacing with professional audio equipment such as large format consoles, analog tape machines, and similar devices that require higher signal levels. For additional details about +24 dBu operation, see the [Apollo Software Manual](#page-9-1). *Headroom menu within* 
 
-![](<Apollo x8 Hardware Manual_assets/_page_28_Picture_13.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_28_picture_13--cc652df30c955548.jpeg>)
 
 *Console Settings*
 
@@ -817,11 +817,11 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 
 ### **Does your USB-C connector support Thunderbolt 3?**
 
-![](<Apollo x8 Hardware Manual_assets/_page_31_Picture_5.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_31_picture_5--408a4c6d6ccfa3d6.jpeg>)
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer.
 
-![](<Apollo x8 Hardware Manual_assets/_page_31_Picture_7.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_31_picture_7--3d50844e42d5f4cd.jpeg>)
 
 *Thunderbolt icon on USB-C cable (left) and USB-C port (right)*
 
@@ -829,9 +829,9 @@ To determine if a USB-C port or cable connector supports Thunderbolt 3, look for
 
 The diagram below illustrates an Apollo x8 setup example that could be used for recording an ensemble. ALT monitors are connected for comparing different speakers. Computer
 
-![](<Apollo x8 Hardware Manual_assets/_page_32_Picture_2.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_32_picture_2--5fa30fa458bdc1f8.jpeg>)
 
-![](<Apollo x8 Hardware Manual_assets/_page_32_Picture_3.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_32_picture_3--9fd5deefda6cb8c2.jpeg>)
 
 *Typical Apollo x8 connections*
 
@@ -841,7 +841,7 @@ The diagram below illustrates an example of how to interconnect multiple Apollo 
 
 **Important:** For complete details about system operation when multi-unit cascading, see the Apollo Software Manual.
 
-![](<Apollo x8 Hardware Manual_assets/_page_33_Picture_3.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_33_picture_3--bebea8ddda1ba93a.jpeg>)
 
 Connecting multiple Apollo X units via Thunderbolt 3
 
@@ -1030,7 +1030,7 @@ Specifications are subject to change without notice.
 
 # <span id="page-39-0"></span>**Block Diagram**
 
-![](<Apollo x8 Hardware Manual_assets/_page_39_Figure_1.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_39_figure_1--6aa86d4a17f17e92.jpeg>)
 
 # <span id="page-40-0"></span>**Troubleshooting**
 
@@ -1065,7 +1065,7 @@ If you are having trouble with Apollo X, first check all system setups, connecti
 
 To learn about repair service, or for technical support, visit [help.uaudio.com.](http://help.uaudio.com)
 
-![](<Apollo x8 Hardware Manual_assets/_page_41_Picture_6.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_41_picture_6--5eafc6986188adf1.jpeg>)
 
 ## **Maintenance**
 
@@ -1074,7 +1074,7 @@ To learn about repair service, or for technical support, visit [help.uaudio.com.
 
 ## <span id="page-42-0"></span>**Important Safety Information**
 
-![](<Apollo x8 Hardware Manual_assets/_page_42_Picture_1.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_42_picture_1--ee4ab5540d8429a0.jpeg>)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -1095,11 +1095,11 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 ## **Description of symbols used**
 
-![](<Apollo x8 Hardware Manual_assets/_page_42_Picture_18.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_42_picture_18--06ce41b61bbdc8ad.jpeg>)
 
 The lightning flash represented by the arrow symbol in an equilateral triangle is intended to alert users to the presence of high voltage within the unit that could cause an electrical shock hazard.
 
-![](<Apollo x8 Hardware Manual_assets/_page_42_Picture_20.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_42_picture_20--73ac9c5a40c772dc.jpeg>)
 
 The exclamation mark in an equilateral triangle is intended to alert users to the existence of important instructions in the manual relating to the use and maintenance of the unit.
 
@@ -1168,4 +1168,4 @@ To contact UA support staff for technical or repair assistance, please visit:
 
 **[help.uaudio.com](https://help.uaudio.com)**
 
-![](<Apollo x8 Hardware Manual_assets/_page_46_Picture_0.jpeg>)
+![](<../../attachments/apollo-x8-hardware-manual_assets--page_46_picture_0--ceb2308bf322b408.jpeg>)

@@ -24,7 +24,7 @@ The illustration below shows the signal flow using a mono Sphere plug-in. In mos
 
 **Note:** We generally recommend placing the Sphere plug-in first in the signal chain, or using only a clean Unison plug-in before the Sphere plug-in. 
 
-![sphere-audio-diagram-basic.png](Using%20Sphere%20Mics_assets/19804ea6780dc0a4cc441d179e05df14d93e0e3d.png)
+![sphere-audio-diagram-basic.png](../../attachments/using-sphere-mics_assets--19804ea6780dc0a4cc441d179e05df14d93e0e3d--fc27d09e24f05441.png)
 
 *Basic Sphere signal chain *
 
@@ -42,7 +42,7 @@ There are three recommended workflows for monitoring Sphere:
 
 When monitoring with Console, UAD plug-ins provide ultra-low latency processing and deterministic real-time performance. See the [Apollo Software Manual](13445960631700-Apollo-Software-Manuals.html) for information about how to create monitoring paths.
 
-![sphere-apollo-connections-basic.png](Using%20Sphere%20Mics_assets/5f1e22f4554bb9f682c2178cc2d035bde38cc50b.png)
+![sphere-apollo-connections-basic.png](../../attachments/using-sphere-mics_assets--5f1e22f4554bb9f682c2178cc2d035bde38cc50b--bf35be39d824ee02.png)
 
 *Sphere signal chain using Console for monitoring*
 
@@ -60,7 +60,7 @@ When monitoring with Console, UAD plug-ins provide ultra-low latency processing 
 
 You can monitor the Sphere mic live in your DAW from the Sphere plug-in output. You might prefer this if you normally use your DAW and native plug-ins to manage mon­itoring. With this method, you will incur some monitoring latency associated with I/O buffering, and this latency will be greater than when monitoring using Apollo Con­sole, the direct microphone output, or a hardware monitoring option.
 
-![sphere-daw-connections-diagram-native.png](Using%20Sphere%20Mics_assets/8cb2b193f4cab1f1e4de37fd52d4282bb9eb4196.png)
+![sphere-daw-connections-diagram-native.png](../../attachments/using-sphere-mics_assets--8cb2b193f4cab1f1e4de37fd52d4282bb9eb4196--b4e6efb44ceebf25.png)
 
 *Sphere signal chain using DAW software monitoring*
 
@@ -76,7 +76,7 @@ If you cannot monitor in real time or with usably low latency through the Sphere
 
 Your interface may include a “direct monitoring” or “hardware monitoring” option, or a hardware routing matrix in the included interface software. See your audio interface’s user manual for more information about how to create direct monitoring paths.
 
-![sphere-daw-connection-direct-out.png](Using%20Sphere%20Mics_assets/713571b5479ebe901b1c246b5dcc4fe9450559c1.png)
+![sphere-daw-connection-direct-out.png](../../attachments/using-sphere-mics_assets--713571b5479ebe901b1c246b5dcc4fe9450559c1--36470290e7dbd715.png)
 
 *Sphere signal chain with direct monitoring of front capsule*
 
@@ -100,13 +100,13 @@ Because it is the position and orientation of the capsules that must be precisel
 
 The illustration below compares the Sphere DLX capsule alignment to a Neumann U67/U87. The crossed dashed lines show the center position of the capsules. As you can see, aligning the mic bodies misaligns the capsules. 
 
-![align-sphere-u67.png](Using%20Sphere%20Mics_assets/f0f89963c6b2319766576f2d743f92adf6a10adf.png)
+![align-sphere-u67.png](../../attachments/using-sphere-mics_assets--f0f89963c6b2319766576f2d743f92adf6a10adf--7eeee364ba8f6bb9.png)
 
 *Lining up capsule centers for Sphere and Neumann U67/U87 *
 
 The illustration below shows a close-up view of the Sphere DLX from the front and side, so you can easily see where to align the microphone.
 
-![sphere-capsule-front-side.png](Using%20Sphere%20Mics_assets/84f25cf6211416f6b16c2559e84fe346823c77c2.png)
+![sphere-capsule-front-side.png](../../attachments/using-sphere-mics_assets--84f25cf6211416f6b16c2559e84fe346823c77c2--6f3bf77e017bb611.png)
 
 *Close-up view of Sphere capsule from front (left) and side (right)*
 

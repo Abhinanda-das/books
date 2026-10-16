@@ -7,7 +7,7 @@ word_count: 151
 ---
 
 
-![](<UAFX Starlight Control Map_assets/UAFX_Starlight_Control_Map.pdf-0001-00.png>)
+![](<../../attachments/uafx-starlight-control-map_assets--uafx_starlight_control_map.pdf-0001-00--66fc20724822ceac.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -27,11 +27,11 @@ DECAY FEEDBACK MIX DECAY FEEDBACK MIX DECAY FEEDBACK MIX<br>Time Repeats Dry/Wet
 
 
 
-![](<UAFX Starlight Control Map_assets/UAFX_Starlight_Control_Map.pdf-0001-01.png>)
+![](<../../attachments/uafx-starlight-control-map_assets--uafx_starlight_control_map.pdf-0001-01--de69d223fff291bc.png>)
 
 
 
-![](<UAFX Starlight Control Map_assets/UAFX_Starlight_Control_Map.pdf-0001-02.png>)
+![](<../../attachments/uafx-starlight-control-map_assets--uafx_starlight_control_map.pdf-0001-02--02cee30309e31838.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -39,7 +39,7 @@ NOTES<br>**----- End of picture text -----**<br>
 
 
 
-![](<UAFX Starlight Control Map_assets/UAFX_Starlight_Control_Map.pdf-0001-03.png>)
+![](<../../attachments/uafx-starlight-control-map_assets--uafx_starlight_control_map.pdf-0001-03--2ed57383a0ee59b1.png>)
 
 
 **----- Start of picture text -----**<br>

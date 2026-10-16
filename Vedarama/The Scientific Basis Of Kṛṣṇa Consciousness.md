@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bsdg-tsbokc2"
 ---
 
-![обложка|156](<The Scientific Basis Of Kṛṣṇa Consciousness/обложка.jpeg>)
+![обложка|156](<../attachments/the-scientific-basis-of-k%E1%B9%9B%E1%B9%A3%E1%B9%87a-consciousness--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--e7ee1752766ff781.jpeg>)
 
 Svarupa Damodara dasa is a scientist who is/was a disciple of A.C. Bhaktivedanta Swami Prabupada, the founder of the "Hare Krishna" movement. He stated in the first chapter of this 1974 book, "modern demoniac scientists ... think that they are God. To further intensify the matter, the modern institutions of so-called higher education, the colleges and universities, are filled with these people, who inject their own concepts within the minds of millions of students. Demons give demoniac knowledge, the result being that only demons are produced. This is the trend of the modern civilized world." (Pg. 7) Later, he adds, "The other \[planets\] are inhabited by residents who are full with six opulences---wealth, strength, knowledge, beauty, fame, and renunciation---and in each ... planet a different expansion of Krsna has His eternal abode. Material scientists have no information of this vast knowledge." (Pg. 24)
 

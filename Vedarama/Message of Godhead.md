@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/mog"
 ---
 
-![обложка|156](<Message of Godhead/обложка.jpeg>)
+![обложка|156](<../attachments/message-of-godhead--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1e545a06fd91d340.jpeg>)
 
 Srila Prabhupada wrote Message of Godhead in the 1950s, while still living at the Radha-Damodara temple in Vrindavan, India. It was one of his first book-length manuscripts, yet wasn't discovered until years after he had come to the West. It was first published in 1991.
 

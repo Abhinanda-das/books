@@ -13,13 +13,13 @@ UAD Console's preamp controls correspond to the equivalent preamp controls on th
 
 **Note:** The preamp controls are not available with Apollo 16, Apollo x16 Gen 1 & 2, or Apollo x16D, which do not feature mic preamps.
 
-![preamp-callouts.png](Preamp%20Controls_assets/cadd38794d383b345a6b7dfc02055b8834cf0db2.png)
+![preamp-callouts.png](../../attachments/preamp-controls_assets--cadd38794d383b345a6b7dfc02055b8834cf0db2--7f022e27f7ada425.png)
 
  
 
 # Unison Controls
 
-![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)
+![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)
 
 Some preamp hardware controls (Gain, Low Cut, 48V, Pad, Polarity) are Unison parameters that interact with Unison plug-ins placed in the Unison insert slot.
 
@@ -34,8 +34,8 @@ Unison preamp controls in this section are indicated by the Unison icon in the a
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 10px;">![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
-<td style="width: 13.7143%; height: 10px"><h3 id="h_01HTRAB8TSVP1KKNSCZ6FCCCK8">![input-preamp-gain-knob.png](Preamp%20Controls_assets/a64c6f149154a4292a88548ecb7893bdb71015e9.png)</h3></td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 10px;">![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)</td>
+<td style="width: 13.7143%; height: 10px"><h3 id="h_01HTRAB8TSVP1KKNSCZ6FCCCK8">![input-preamp-gain-knob.png](../../attachments/preamp-controls_assets--a64c6f149154a4292a88548ecb7893bdb71015e9--df9132e60826dceb.png)</h3></td>
 </tr>
 <tr style="height: 0px;">
 <td colspan="2" style="text-align: center; width: 15.1429%; height: 0px;"><p>The channel's preamp gain is adjusted with this knob. The input to be adjusted (Mic, Line, or Hi-Z) is determined by the state of the channel's Mic/Line switch or the Hi-Z input (if connected).</p>
@@ -54,8 +54,8 @@ Unison preamp controls in this section are indicated by the Unison icon in the a
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
-<td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JC1XY4BM59KGWD7SYQTBPMXZ">![input-preamp-gain-knob.png](Preamp%20Controls_assets/a64c6f149154a4292a88548ecb7893bdb71015e9.png)</h3></td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)</td>
+<td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JC1XY4BM59KGWD7SYQTBPMXZ">![input-preamp-gain-knob.png](../../attachments/preamp-controls_assets--a64c6f149154a4292a88548ecb7893bdb71015e9--df9132e60826dceb.png)</h3></td>
 </tr>
 <tr style="height: 0px;">
 <td colspan="2" style="text-align: center; width: 15.1429%; height: 0px;"><p>The specific amount of preamp gain in decibels is displayed in gray text below the gain control. The relative amount of preamp gain is indicated by the green LED ring surrounding the gain control in UAD Console. The LED ring is a different color when Unison is active in the channel.</p></td>
@@ -68,8 +68,8 @@ Unison preamp controls in this section are indicated by the Unison icon in the a
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
-<td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p>![preamp-line-input-bypass.png](Preamp%20Controls_assets/d5b25230d78c8fa163a75522767f0cab15939a8f.png)</p></td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)</td>
+<td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p>![preamp-line-input-bypass.png](../../attachments/preamp-controls_assets--d5b25230d78c8fa163a75522767f0cab15939a8f--b2caeb8c8ecacb25.png)</p></td>
 </tr>
 <tr style="height: 0px;">
 <td colspan="2" style="text-align: center; width: 15.1429%; height: 0px;"><p>When a preamp channel's line input is selected and its Line Input Gain is bypassed, the Gain Value field displays BYP, its gain cannot be adjusted, and the Unison plug-in (if inserted) is disabled. For related details, see <a href="25403573794836-Hardware-Settings-Panel.html#h_01HTY5D6CW58X0RBF0CKEY4H9F">Line Input Gain</a>. </p></td>
@@ -129,8 +129,8 @@ Arrow</p></td>
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
-<td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p>![input-preamp-selected.png](Preamp%20Controls_assets/fbbb66a04a9641c3a4ff828b7afd60c5ad9dd4ec.png)</p></td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)</td>
+<td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p>![input-preamp-selected.png](../../attachments/preamp-controls_assets--fbbb66a04a9641c3a4ff828b7afd60c5ad9dd4ec--eba63bc9ba9c817b.png)</p></td>
 </tr>
 <tr style="height: 0px;">
 <td colspan="2" style="text-align: center; width: 15.1429%; height: 0px;"><p>Apollo's channel selection can be changed using the hardware's PREAMP switch. The small colored dot that appears next to the gain control (as shown at right, outlined in red) indicates the preamp channel that is currently selected on the Apollo hardware panel.</p>
@@ -148,8 +148,8 @@ Arrow</p></td>
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
-<td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p>![input-preamp-select-highlighted.png](Preamp%20Controls_assets/0f1a1210eda343b1fab70524499ab01fc7fd2ac0.png)</p></td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)</td>
+<td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p>![input-preamp-select-highlighted.png](../../attachments/preamp-controls_assets--0f1a1210eda343b1fab70524499ab01fc7fd2ac0--c8a5a65a3d7e4b9f.png)</p></td>
 </tr>
 <tr style="height: 0px;">
 <td colspan="2" style="text-align: center; width: 15.1429%; height: 0px;"><p>This switch switches between the mic and line inputs on Apollo's rear panel. Click the Input Select switch or Input Select display to change the input type. The currently selected input type is highlighted. </p>
@@ -167,7 +167,7 @@ Arrow</p></td>
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p> </p></td>
 </tr>
 <tr style="height: 0px;">
@@ -186,7 +186,7 @@ Arrow</p></td>
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p> </p></td>
 </tr>
 <tr style="height: 0px;">
@@ -206,7 +206,7 @@ Arrow</p></td>
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p> </p></td>
 </tr>
 <tr style="height: 0px;">
@@ -226,7 +226,7 @@ Arrow</p></td>
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Preamp%20Controls_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/preamp-controls_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--dfba6c87f00d4cf5.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><p> </p></td>
 </tr>
 <tr style="height: 0px;">
@@ -238,7 +238,7 @@ Arrow</p></td>
 
 # Reference Level
 
-![](Preamp%20Controls_assets/b46ef8a087ad3345a70f64fa47f9e2f5d8f9d5b4.png)
+![](../../attachments/preamp-controls_assets--b46ef8a087ad3345a70f64fa47f9e2f5d8f9d5b4--fd9ea857f9b8bbc1.png)
 
 The signal reference level for analog line inputs without preamps can be switched between -10 dBV and +4 dBu. Click the level display to toggle the setting.
 
@@ -261,7 +261,7 @@ The availability and behavior of the reference level control depends on the hard
 
 # Sample Rate Convert
 
-![](Preamp%20Controls_assets/cbd1227fda3848877a5c2534c5cc42e68509185d.png)
+![](../../attachments/preamp-controls_assets--cbd1227fda3848877a5c2534c5cc42e68509185d--29631994edeccd29.png)
 
 Realtime sample rate conversion ("SR CONVERT") is available on\
 S/PDIF and AES/EBU inputs. This feature eliminates audio artifacts (clicks, distortion, etc) that can occur when the sample rate of external digital devices connected to the S/PDIF or AES/EBU inputs do not match Apollo's internal sample rate.

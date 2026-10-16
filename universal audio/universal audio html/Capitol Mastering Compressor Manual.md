@@ -40,7 +40,7 @@ Not just for the 2-bus, Capitol Mastering Compressor will add its tube-based mag
 - Tighten your low end and expand your stereo width using simple Mono Fold and Mid/Side features
 - Use with any audio interface, no UA hardware required
 
-![capitol-mastering-compressor.png](Capitol%20Mastering%20Compressor%20Manual_assets/570160d21edc0be2c9756a1bc5cd0fd03a588344.png)
+![capitol-mastering-compressor.png](../../attachments/capitol-mastering-compressor-manual_assets--570160d21edc0be2c9756a1bc5cd0fd03a588344--5d3381a5af9b2ccd.png)
 
 *Capitol Mastering Compressor*
 
@@ -62,7 +62,7 @@ You can compress your mix in stereo, or switch to mid/side operation to independ
 
 The diagram below represents how signals are processed in Capitol Mastering Compressor.
 
-![cmc-flow.png](Capitol%20Mastering%20Compressor%20Manual_assets/2907916e35faf247d080729ae89d17e5126be057.png)
+![cmc-flow.png](../../attachments/capitol-mastering-compressor-manual_assets--2907916e35faf247d080729ae89d17e5126be057--3eecd9c2be48261c.png)
 
 ## Artist Presets
 
@@ -226,7 +226,7 @@ The dBFS/LUFS switch sets the output meters to indicate compressor output in dec
 
 **Tip:** Click anywhere in the output meter display to clear meter peaks and reset 3 second hold metering.
 
-![metering-lufs-dbfs.png](Capitol%20Mastering%20Compressor%20Manual_assets/2f92a7b00902a3456e91b2d1e0c37f67fdde70d2.png)
+![metering-lufs-dbfs.png](../../attachments/capitol-mastering-compressor-manual_assets--2f92a7b00902a3456e91b2d1e0c37f67fdde70d2--cec6240a38b397f2.png)
 
 ## POWER
 
@@ -238,7 +238,7 @@ The POWER switch enables or disables plug-in processing. The plug-in is active w
 
 When Capitol Studios set out to create a compressor for in-house use by their mastering department, the design goals were clear: the staff needed a unit tailored for the modern world of high-headroom, low-noise mastering, but with a sound that encapsulated the character and warmth of beloved tube-based processors from Fairchild, Gates, Universal Audio, and others. The staff also required that the compressor be usable for mastering both digital and vinyl program material, and even suitable in the studio for production. 
 
-![cmc-proto-19.png](Capitol%20Mastering%20Compressor%20Manual_assets/e27043ae7cd0e7316f541721c1dd96bc0ce8cbf3.png)
+![cmc-proto-19.png](../../attachments/capitol-mastering-compressor-manual_assets--e27043ae7cd0e7316f541721c1dd96bc0ce8cbf3--f68e7ff82d6d8d17.png)
 
 #### *Capitol Mastering Compressor Prototype*
 
@@ -246,7 +246,7 @@ Capitol's in-house service department created several prototypes, evolving the d
 
 In 2011, the design was complete for a two-channel valve compressor with the highest quality components throughout, including vintage Mullard 6BC8 gain reduction tubes, mastering-grade John Hardy 990c discrete op amps, and carefully selected Cinemag input and output transformers. As expected for a mastering tool of this caliber, the unit features high quality precision-matched stepped controls for accurate recall, and the ability to link or unlink the two channels' side chains and controls. The electronics are packaged in a solid three rack unit chassis, with beautifully engraved overlays and faceplate. Vintage Bakelite knobs and classic custom VU meters complete the design.
 
-![cmc-3-qtr.png](Capitol%20Mastering%20Compressor%20Manual_assets/5b94c09ffedec65956d79d082afa93eb5e0498c8.png)
+![cmc-3-qtr.png](../../attachments/capitol-mastering-compressor-manual_assets--5b94c09ffedec65956d79d082afa93eb5e0498c8--d9ab82736e76fc76.png)
 
 With the final design complete, four CM5511 units were manufactured, and immediately put to use by Capitol's recording and mixing staff. (The compressor's name, "CM5511," is an amalgam of the year Capitol Records moved into the tower, 1955, and the year the compressor was completed, 2011.) The unique sound of the CM5511 made its way into all facets of the recording, mixing, and mastering process. Over time, one of the four units was adjusted further with a different sidechain filter center frequency and larger output attenuation steps. The CM5511 plug-in adopts both of these features from the modified unit. In addition, the modded unit's compression ratio was lowered from 4:1 to 3:1. The plug-in includes these original values and adds several other extrapolated ratios (2:1, 3:1, 4:1, 6:1 and 10:1). 
 
@@ -254,7 +254,7 @@ Capitol Studios granted Universal Audio unprecedented access to study two out of
 
 Universal Audio worked closely with Capitol staff and alumni to collect plug-in design feedback and use case information. Additional artist and user feedback led directly to the development of crucial added features, to make this plug-in a complete solution for modern in-the-box recording, mixing, and mastering workflows. We believe our dedication to the development of this unique hardware will provide you with a tool that becomes an indispensable element of your creative process.
 
-![cmc-internal.png](Capitol%20Mastering%20Compressor%20Manual_assets/a92ca64d38ca1776c82ae85f07a11cb428e6544d.png)
+![cmc-internal.png](../../attachments/capitol-mastering-compressor-manual_assets--a92ca64d38ca1776c82ae85f07a11cb428e6544d--78d6879490ff11cc.png)
 
 ### Special Thanks
 

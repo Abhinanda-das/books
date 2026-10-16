@@ -36,7 +36,7 @@ Of course, the API Preamp plug-in isn't just for Apollo interface owners. UAD ha
 
 <div class="wysiwyg-text-align-center">
 
-![api-preamp.png](API%20Preamp%20Manual_assets/97df55787bb717f528bedeef267ed577d6ee5c2f.png)
+![api-preamp.png](../../attachments/api-preamp-manual_assets--97df55787bb717f528bedeef267ed577d6ee5c2f--cfa5df245e695b3f.png)
 
 </div>
 
@@ -57,7 +57,7 @@ Of course, the API Preamp plug-in isn't just for Apollo interface owners. UAD ha
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: left; width: 7.28576%; vertical-align: middle; height: 0px;">![unison-icon1.png](API%20Preamp%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: left; width: 7.28576%; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
 <td style="width: 88.1428%; height: 0px"><h3 id="h_01HZ00QNX74W6ZHXZQY7P9F9DV">Unison Integration</h3></td>
 </tr>
 </tbody>
@@ -83,7 +83,7 @@ Apollo's hardware preamp knob can independently adjust the gain and level parame
 
 |  |  |  |
 |:--:|:--:|:--:|
-| ![api-preamp-unison-1.png](API%20Preamp%20Manual_assets/b640f033fee9e8e92da603c45a056b075e158d62.png) | ![api-preamp-unison-2.png](API%20Preamp%20Manual_assets/9378393b90cfe3f60a6c3c2ddb775783232994ec.png) | ![api-preamp-unison-3.png](API%20Preamp%20Manual_assets/29951249c539d7e0c5872d9087a0b53751007184.png) |
+| ![api-preamp-unison-1.png](../../attachments/api-preamp-manual_assets--b640f033fee9e8e92da603c45a056b075e158d62--94813c7f9c46393c.png) | ![api-preamp-unison-2.png](../../attachments/api-preamp-manual_assets--9378393b90cfe3f60a6c3c2ddb775783232994ec--ea26c78cc9064cb3.png) | ![api-preamp-unison-3.png](../../attachments/api-preamp-manual_assets--29951249c539d7e0c5872d9087a0b53751007184--a00a42d108c616a5.png) |
 
 *The outlined gain controls as they appear when in Unison Gain Stage Mode*
 
@@ -96,7 +96,7 @@ Apollo's hardware preamp knob can independently adjust the gain and level parame
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](API%20Preamp%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6Z9BZ98PBNNKP96RPPEZKT">About Unison Interactions</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -120,7 +120,7 @@ The active setting is indicated by an LED next to the input's gain knob. When th
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Preamp%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JE6ZAMW2XZQ9P2DGBYGN9QE9">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -142,7 +142,7 @@ This knob adjusts the amount of gain applied to the mic input signal. The availa
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](API%20Preamp%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBEAHT0A1NRXNWTR5RZNT">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -164,7 +164,7 @@ The available Line Gain range is adopted from API VIsion Console's dedicated Lin
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](API%20Preamp%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBHE6TRV4R92ZB7ZESJ2S">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -192,7 +192,7 @@ When PAD is enabled with line input, the input signal level is attenuated by 6 d
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](API%20Preamp%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBNK5X8QY6Y654F8126BB">Unison Interactions</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -215,7 +215,7 @@ Polarity inversion can help reduce phase cancellations when more than one microp
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](API%20Preamp%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBSWGJYAGPV2DESKA6M3T">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -235,7 +235,7 @@ This button activates a 50 Hz low cut filter that has a slope of 6 dB per octave
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](API%20Preamp%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZBXAKTX79B47SRZ45FNQP">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -261,7 +261,7 @@ This control provides -24 dB to +12 dB of clean uncolored gain at the output of 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](API%20Preamp%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-preamp-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--f69fe5c58d6ac375.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h3 id="01JE6ZC15YXXBVX8XYB1JV4NXV">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -276,13 +276,13 @@ The plug-in is active when the POWER switch is engaged and its associated LED is
 
 When this button is off, all plug-in processing is disabled and the UAD DSP load is reduced (unless DSP LoadLock is enabled in the UAD Meter & Control Panel application).
 
-![API logo.jpeg](API%20Preamp%20Manual_assets/8277e74ccbf9c2bbcd395a87f4d37fd4e41260cd.jpg)
+![API logo.jpeg](../../attachments/api-preamp-manual_assets--8277e74ccbf9c2bbcd395a87f4d37fd4e41260cd--8e7fea274d8320cd.jpg)
 
 <div>
 
 <div class="wysiwyg-text-align-center">
 
-![API_Console7.jpg](API%20Preamp%20Manual_assets/59f2e1acfcee2b85895bd3d6d05180cd3cb85c2c.jpg)
+![API_Console7.jpg](../../attachments/api-preamp-manual_assets--59f2e1acfcee2b85895bd3d6d05180cd3cb85c2c--68250ecc3b7cbcf4.jpg)
 
 </div>
 

@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ps-sm-bs"
 ---
 
-![обложка|156](<Saṅgīta Mādhava [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/sa%E1%B9%85g%C4%ABta-m%C4%81dhava-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--49aaaed5bfbd371a.jpeg>)
 
 # Saṅgīta Mādhava \[BS\]
 

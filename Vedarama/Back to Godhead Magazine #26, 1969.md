@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg26"
 ---
 
-![обложка|156](<Back to Godhead Magazine #26, 1969/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-26-1969--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3552208f185d30bd.jpeg>)
 
 # Back to Godhead Magazine #26, 1969
 

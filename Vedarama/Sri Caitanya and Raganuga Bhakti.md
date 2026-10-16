@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/kapoor-scarb"
 ---
 
-![обложка|156](<Sri Caitanya and Raganuga Bhakti/обложка.jpeg>)
+![обложка|156](<../attachments/sri-caitanya-and-raganuga-bhakti--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3ef54fdfeeb5a30b.jpeg>)
 
 Śrī Kṛṣṇa Himself came down on earth in the form of Śrī Caitanya with the sole purpose, as far as we are concerned, of preaching Rāgānugā Bhakti by precept as well as by example.
 

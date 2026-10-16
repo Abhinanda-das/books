@@ -6,7 +6,7 @@ tool_version: 1.10.2
 word_count: 4191
 ---
 
-![](<bx_digital V3 Manual_assets/_page_0_Figure_1.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_0_figure_1--09f886eea0887c34.jpeg>)
 
 **bx\_digital V3**
 
@@ -14,7 +14,7 @@ word_count: 4191
 
 # **Brainworx bx\_digital V3 The Brainworx Flagship M/S EQ**
 
-![](<bx_digital V3 Manual_assets/_page_1_Picture_1.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_1_picture_1--b4c1ac52d41ca999.jpeg>)
 
 ## **Contents**
 
@@ -36,19 +36,19 @@ word_count: 4191
 
 [The bx\\_digital V3 Toolbars • 12](#page-10-0)
 
-![](<bx_digital V3 Manual_assets/_page_1_Picture_12.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_1_picture_12--d89426d7e644b30f.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_1_Picture_13.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_1_picture_13--e7a236e44c6e6a61.jpeg>)
 
 The Legendary M/S Mastering and Recording EQ Developed under license by Brainworx GmbH Germany and Distributed by Universal Audio.
 
-![](<bx_digital V3 Manual_assets/_page_1_Picture_15.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_1_picture_15--27732667130e8405.jpeg>)
 
 ## <span id="page-2-0"></span>**About the Brainworx bx\_digital V3**
 
-![](<bx_digital V3 Manual_assets/_page_2_Picture_1.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_2_picture_1--fe8a4e77f9a2d092.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_2_Figure_2.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_2_figure_2--44488483ea5db5d5.jpeg>)
 
 #### **The bx\_digital Legacy**
 
@@ -133,7 +133,7 @@ Conversely, if you have a drum loop that was recorded with too much ambient soun
 
 ## <span id="page-5-0"></span>**The bx\_digital V3 Master Section**
 
-![](<bx_digital V3 Manual_assets/_page_5_Picture_1.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_5_picture_1--a1e0d8b4cc681ac3.jpeg>)
 
 **Gain In:** Continuous from (-oo) - 0 dB - (+12 dB) Drives the amount of signal input gain
 
@@ -145,7 +145,7 @@ Conversely, if you have a drum loop that was recorded with too much ambient soun
 - **\*Pan S**: Continuous from 100 L C 100 R Offers individual control over the position of the S signal within the stereo field; this is a much more subtle effect than positioning the M signal and should not be used to make drastic changes
 - **\*Auto Solo:** Discrete two-steps on/off When this is enabled, each section (M and S or L and R) will be automatically soloed when changing parameters within that section
 
-![](<bx_digital V3 Manual_assets/_page_5_Figure_9.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_5_figure_9--7be501d82f734145.jpeg>)
 
 **\*Modus Knob:** Discrete 3 steps: "L/R", "M/S Master", "M/S Record"
 
@@ -179,13 +179,13 @@ Configures the Auto Listen function, allowing for a customization of which EQ fu
 
 -**G** enables monitoring of gain on each band by soloing the change in gain being made to that band
 
-![](<bx_digital V3 Manual_assets/_page_5_Picture_26.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_5_picture_26--ba916d8c7ec3ed0a.jpeg>)
 
 ## <span id="page-6-0"></span>**The bx\_digital V3 Input Filters and EQ Bands**
 
-![](<bx_digital V3 Manual_assets/_page_6_Picture_2.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_6_picture_2--633eb8639df18036.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_6_Picture_4.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_6_picture_4--0b5e027aa7abb91b.jpeg>)
 
 #### **Input Filters**
 
@@ -201,9 +201,9 @@ The input filters on bx\_digital V3 have been upgraded from those of V2. A wider
 
 This button links the settings between both High Pass or Low Pass filters
 
-![](<bx_digital V3 Manual_assets/_page_6_Figure_12.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_6_figure_12--e53e576f3e9ec876.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_6_Picture_13.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_6_picture_13--3001530365cef044.jpeg>)
 
 #### **EQ Bands**
 
@@ -225,7 +225,7 @@ Each of the five bands has a 24 dB range of gain addition or reduction; the Gain
 
 Each EQ band can be deactivated via the button below the Frequency knob
 
-![](<bx_digital V3 Manual_assets/_page_6_Picture_24.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_6_picture_24--a5a7c6a24bb990d5.jpeg>)
 
 **Solo M (L) / Solo S (R):** Discrete two-steps on/off Use this to audition each signal in either the Mid/Left or Side/Right section of bx\_digital V3
 
@@ -235,17 +235,17 @@ Implements a proportional Q per-band that is similar to the behavior of an API 5
 
 ## <span id="page-7-0"></span>**The bx\_digital V3 Shifter and Dynamic EQs**
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_1.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_1--4d140d28b530d6bc.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_2.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_2--42e0207f11b1c47d.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_3.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_3--5a6dc1ec95643f82.jpeg>)
 
 #### **Bass Shift Module**
 
 This is a fixed-band tool that can be used to instantly achieve an excited and punchy bass while automatically reducing the effect of the unwanted partials in the adjacent higher frequencies, tilting the curve so as to achieve a more natural sounding 'thump.'
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_6.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_6--e99a14ed78fe7683.jpeg>)
 
 Conversely, one can also use the Bass Shift to reduce the core of a bass sound while emphasizing the adjacent frequencies, creating an implied bass.
 
@@ -261,7 +261,7 @@ Conversely, one can also use the Bass Shift to reduce the core of a bass sound w
 
 The Presence Shift is much like the Bass Shift, in that a tilted curve is used in order to excite the frequency range most associated with creating presence in a mix, and compensated for by reducing surrounding frequencies that would muddy the character. Use it to
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_14.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_14--5d34fc6ff7e841a4.jpeg>)
 
 easily boost non-sibilant frequencies and add more breath, or compensate for rigorous de-essing in the M signal by replacing lost frequencies in the S signal.
 
@@ -277,7 +277,7 @@ easily boost non-sibilant frequencies and add more breath, or compensate for rig
 
 The Dynamic EQ parameter is the successor to the De-Esser found on bx\_digital V2. Rather than exclusively performing dynamic reduction of a certain frequency, this
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_22.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_22--de35bbd1dd040572.jpeg>)
 
 parameter can now either boost or cut frequencies based on a signal trigger. Where the reaction speed and in-circuit position were once fixed, you now have the ability to shape the way the Dynamic EQ respnds to and affects sound as it relates to the entire process.
 
@@ -299,23 +299,23 @@ scaled)
 
 The bx\_digital V3 Shifters and Dynamic EQ - Master Version
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_33.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_33--70708631a7e4da9e.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_34.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_34--82f1dc81b4a8b8cb.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_35.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_35--a8d4fbcee4781b1c.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_36.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_36--565c81ea7eba8b33.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_37.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_37--320c38959e598fdb.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_38.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_38--d8b4a6ccdd568d03.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_7_Picture_39.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_7_picture_39--8f781bc6e1dc383b.jpeg>)
 
 # <span id="page-8-0"></span>**The bx\_digital V3 Gain Scale and Mono Maker**
 
-![](<bx_digital V3 Manual_assets/_page_8_Picture_1.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_picture_1--312efd1a4470c0ff.jpeg>)
 
 #### **Gain Scale**
 
@@ -331,41 +331,41 @@ Controls the factor by which every gain band is calculated. For example, 100% is
 
 This tool is a critical component to several Brainworx processors, and it is an invaluable tool when mastering or tightening up a mix. Sweepable from 20 Hz to 22 kHz, this parameter folds the processed sound to mono at and below the frequency set. The most common setting is between 100-200 Hz, below which bass frequencies reside, where common practice deems that most sound should be mono. Other uses include folding an entire mix in order to check mono compatibility and avoid phase incoherency.
 
-![](<bx_digital V3 Manual_assets/_page_8_Picture_9.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_picture_9--7a44a13df7837082.jpeg>)
 
 **Mono-Maker Frequency:** Continuous from 20 Hz to 22 kHz Sets the frequency at which the signal will be summed to mono; use this to tighten up the low end (<200) on a mix or ensure phase coherence when using stereo widening techniques
 
-![](<bx_digital V3 Manual_assets/_page_8_Picture_11.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_picture_11--b3fd3bba6938cf36.jpeg>)
 
 The bx\_digital V3 Gain Scale and Mono Maker
 
-![](<bx_digital V3 Manual_assets/_page_8_Picture_13.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_picture_13--8c1138af23f3abc5.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_8_Figure_14.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_figure_14--c1d5975a7172abf7.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_8_Figure_15.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_figure_15--8223d9c05b29ac99.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_8_Figure_16.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_figure_16--b4bf6bd667ff060b.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_8_Picture_17.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_picture_17--adaeb40c0f773b18.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_8_Figure_18.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_figure_18--86a264b976632e7c.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_8_Figure_19.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_figure_19--74519777a125d99a.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_8_Figure_20.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_8_figure_20--c7582e001dcaf1d4.jpeg>)
 
 ## <span id="page-9-0"></span>**The bx\_digital V3 Frequency Graphs and Metering**
 
-![](<bx_digital V3 Manual_assets/_page_9_Picture_1.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_9_picture_1--9d8b346b849e339c.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_9_Picture_2.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_9_picture_2--a9c2153d3c6b46ef.jpeg>)
 
 #### **EQ Panels**
 
 bx\_digital V3 offers accurate frequency response representation via two graphs at the bottom of the plug-in's interface; this section can be hidden by clicking the button at the top right corner of the interface. There are two graphs: one for the M (or L) channel, and one for the S (or R) channel. In the Mix version of bx\_digital, there is only one graph.
 
-![](<bx_digital V3 Manual_assets/_page_9_Figure_5.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_9_figure_5--195b76d5f7b56dbc.jpeg>)
 
 #### **Volume Meters**
 
@@ -383,15 +383,15 @@ The **Correlation** meter shows phase coherence between the stereo channels of t
 
 a value of 0 indicates a 90º phase shift, and a value of -1 indicates a full phase inversion between channels (mono-incompatible)
 
-![](<bx_digital V3 Manual_assets/_page_9_Picture_14.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_9_picture_14--a166183dbfae3ca1.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_9_Figure_15.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_9_figure_15--54a2e617be828b88.jpeg>)
 
 ## <span id="page-10-0"></span>**The bx\_digital V3 Toolbars**
 
-![](<bx_digital V3 Manual_assets/_page_10_Picture_1.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_10_picture_1--406e0c055d3e4bec.jpeg>)
 
-![](<bx_digital V3 Manual_assets/_page_10_Picture_2.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_10_picture_2--0936721b09a4ccd5.jpeg>)
 
 #### **Plug-in Settings Toolbar**
 
@@ -411,7 +411,7 @@ Select banks of paramter settings; use the A/B/C/D settings to copy a complex ch
 
 Copy and Paste between setting banks, reset paramters of selected bank
 
-![](<bx_digital V3 Manual_assets/_page_10_Picture_12.jpeg>)
+![](<../../attachments/bx_digital-v3-manual_assets--page_10_picture_12--404c8c98a1c5f42c.jpeg>)
 
 Closes and opens the bottom panel containing the frequency response graphs and the meters
 

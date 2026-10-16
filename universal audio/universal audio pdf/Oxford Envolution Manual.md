@@ -41,7 +41,7 @@ _1 OVERVIEW_
 ## **1 Overview** 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0003-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0003-02--b6829c5cb7bb9a3f.png>)
 
 
 The Oxford Envolution plug-in provides comprehensive control over the **transient** and **sustain** portions of an audio signal. Unlike most alternatives, attack, hold and release can be independently adjusted, enabling a wide variety of effects. 
@@ -61,11 +61,11 @@ _2 THE MAIN LEVEL CONTROLS_
 To enhance or reduce the Transient or Sustain portions of the input signal, simply increase or decrease the main level control. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0004-03.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0004-03--83608a55b0a4d9a0.png>)
 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0004-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0004-04--cfe73f2b505e674e.png>)
 
 
 Gain is set in dBs and will not exceed the selected setting, regardless of the Profile settings. The current level of the gain envelope is displayed in the circular meter inside each level control. 
@@ -85,7 +85,7 @@ The centre panel can be assigned to three views. Use the left-hand buttons to as
 ## **Scope** 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0005-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0005-04--41403e9a4a485b31.png>)
 
 
 See Envelope Scope 
@@ -93,7 +93,7 @@ See Envelope Scope
 ## **Transient Frequency Mix** 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0005-07.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0005-07--b45b0c20e043a6f7.png>)
 
 
 See Spectral Shaping 
@@ -109,7 +109,7 @@ _www.sonnox.com_
 _3 CENTRE PANEL ASSIGNMENT_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0006-01.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0006-01--2aeddb4010a5142f.png>)
 
 
 See Spectral Shaping 
@@ -131,7 +131,7 @@ By default, the scope operates in Scroll Mode, in which the time axis scrolls fr
 When using Envolution in a tempo-mapped project, the Bar Sync modes are more appropriate. To select a different mode, click the settings panel which appears with the mouse cursor over the Scope display. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0007-05.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0007-05--7f71247d5b7cccbd.png>)
 
 
 Particularly in Scroll mode, it may be useful to freeze scope display in order to inspect the shape of the envelopes. To do this, just click anywhere inside the Scope display. When frozen, a blue border is drawn around the display. Click again to unfreeze. 
@@ -145,7 +145,7 @@ _www.sonnox.com_
 _4 ENVELOPE SCOPE_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0008-01.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0008-01--a827896da1d87204.png>)
 
 
 Frozen scope display. Click to un-freeze. 
@@ -161,7 +161,7 @@ _5 ENVELOPE SHAPING_
 ## **5 Envelope Shaping** 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0009-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0009-02--d6c8a825a3c24699.png>)
 
 
 For high-quality and versatile detection and processing, all time constants are automatically adjusted based on characteristics of the input signal. Because of this, the timing profile parameters are shown as a percentage of the available range. 
@@ -171,7 +171,7 @@ While the Attack, Hold and Release controls perform similar functions for both t
 The Scope display in the centre panel of the plug-in helps to visualize the sensitivity and shape of the gain envelopes which are applied to the signal. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0009-07.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0009-07--fb03be7c30d5ac16.png>)
 
 
 See Envelope Scope 
@@ -193,13 +193,13 @@ _5.1 Transients_
 This can be used to smooth the leading edge of the transient envelope over time. Slower attack times allow some of the initial edge of the detected transient event to pass through the plug-in unchanged. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0010-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0010-04--bf2a3c6299d5876b.png>)
 
 
 Fast Transient Attack speed 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0010-06.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0010-06--449f29134a5af5a0.png>)
 
 
 Slow Transient Attack speed 
@@ -221,13 +221,13 @@ _5 ENVELOPE SHAPING_
 _5.1 Transients_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0011-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0011-02--31479688558e4e7f.png>)
 
 
 No Transient Hold 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0011-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0011-04--a7b40df798276fac.png>)
 
 
 Long Transient Hold 
@@ -249,13 +249,13 @@ _5 ENVELOPE SHAPING_
 _5.1 Transients_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0012-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0012-02--a812a17b0b57ac36.png>)
 
 
 Fast Transient Release 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0012-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0012-04--d924efc1eab060c9.png>)
 
 
 Slow Transient Release 
@@ -277,13 +277,13 @@ _5.2 Sustain_
 _5 ENVELOPE SHAPING_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0013-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0013-02--0eba44b9d47d11ec.png>)
 
 
 Default Sensitivity – not all of the audible transient events are detected! 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0013-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0013-04--ac3f922bfa596e72.png>)
 
 
 High Sensitivity – all audible transient events are detected and processed. 
@@ -297,7 +297,7 @@ If the Transient processing ever sounds like it is ‘distorting’ or ‘flutte
 This delays the onset of the attack portion of the Sustain envelope. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0013-10.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0013-10--e40fcaf5c9a514c0.png>)
 
 
 No Sustain Hold 
@@ -313,7 +313,7 @@ _5.2 Sustain_
 _5 ENVELOPE SHAPING_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0014-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0014-02--4166caebd1a82588.png>)
 
 
 Longer Sustain Hold 
@@ -321,7 +321,7 @@ Longer Sustain Hold
 In conjunction with the Sustain Attack control, this allows you to shift the focus of the Sustain envelope later in time, so that only the ‘decay’ portion of the signal is processed. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0014-05.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0014-05--71efeb3beceeacde.png>)
 
 
 Longer Sustain Hold and Release, pulling up only the decay 
@@ -343,13 +343,13 @@ _5.2 Sustain_
 _5 ENVELOPE SHAPING_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0015-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0015-02--0af3e2e15ce24d13.png>)
 
 
 Fast Sustain Attack 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0015-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0015-04--17ccfe20f2ddd382.png>)
 
 
 Slower Sustain Attack 
@@ -363,7 +363,7 @@ This sets the speed with which the Sustain envelope returns to 0 dB in response 
 As such, it is usually best left at the default setting, which is quite fast. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0015-10.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0015-10--c387b9fc4e361aa9.png>)
 
 
 Fast Sustain Release 
@@ -379,7 +379,7 @@ _5.2 Sustain_
 _5 ENVELOPE SHAPING_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0016-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0016-02--9836c34f7d31fb36.png>)
 
 
 Slow Sustain Release 
@@ -403,7 +403,7 @@ The Frequency Mix ( **FREQ** ) controls allow the Transient and Sustain effects 
 To view these controls, click the **FREQ** button for the Transient or Sustain section. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0017-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0017-04--bdd7c6a5548ee878.png>)
 
 
 Transient Frequency Mix controls 
@@ -433,13 +433,13 @@ allowing you to exclude low or high frequency signal components from the process
 If you’re ever hearing too much effect in the Low or High regions, use Tilt Amount to tilt the curve down in that region. For example, when using the Sustain section to reduce room ambience on a drum bus, the cymbals may begin to sound unnaturally ‘gated’. To resolve this, simply use Tilt Mode to reduce the Freq Mix Amount at high frequencies. High frequency ambience will be reduced by a smaller amount, allowing the cymbal decay to pass through unaffected! 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0018-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0018-04--d1ac87937209f270.png>)
 
 
 Sustain Frequency Mix configured to de-emphasise the effect in the HF region. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0018-06.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0018-06--51adc7def4c36cec.png>)
 
 
 ## **6.2 Focus Mode** 
@@ -459,19 +459,19 @@ _6 SPECTRAL SHAPING_
 _6.2 Focus Mode_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0019-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0019-02--560330ab09c4b997.png>)
 
 
 Use with a Sustain Level boost or cut to treat drum resonance without affecting the transients. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0019-04.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0019-04--d9101b3a85b36497.png>)
 
 
 Use with a Transient Level boost to add weight to kick drums without boosting LF ambience! 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0019-06.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0019-06--04b8f7749b794452.png>)
 
 
 Reduce high-mid frequency ambience without losing presence. 
@@ -487,7 +487,7 @@ _6 SPECTRAL SHAPING_
 _6.2 Focus Mode_ 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0020-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0020-02--324a322b58cc5417.png>)
 
 
 Tweak the balance of sustain enhancement to prevent excessive low-mid build-up. 
@@ -513,7 +513,7 @@ This effect will be seen on the plug-in’s Output Meters as well as on the Tran
 The Warmth process is included to allow a degree of relief from premature clipping if high modulation levels are required, by providing a method for the harmonic content of peak information above digital max to be included in the final output signal from the plug-in. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0021-07.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0021-07--211f2a4bdf0c5b7d.png>)
 
 
 When set to maximum ( **100%** ) the Warmth process will allow peak input signals up to +6dBFS to be included without the sound of hard clipping, while preventing output signal overloads greater than 0 dBFS. Warmth processing will also change the harmonic content of the programme to provide warmth and richness to many programme types. 
@@ -549,7 +549,7 @@ _8 MASTER DRY/WET MIX_
 A Master Dry/Wet Mix control is provided to adjust the strength of the combined Transient and Sustain effects. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0023-03.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0023-03--5778b0133a02222a.png>)
 
 
 This can be used to make final adjustments more easily than adjusting the Transient and Sustain controls independently. 
@@ -571,7 +571,7 @@ _9 DIFF LISTEN_
 The **DIFF** listen mode allows auditioning of the difference between the original input signal, and the Transient/Sustain processed signal; this can can have various uses. 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0024-03.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0024-03--1ecac3d5cf0b0824.png>)
 
 
 Listening to the difference signal can help hear the optimum Transient Sensitivity setting – where all transient events are detected without any false positives. 
@@ -599,7 +599,7 @@ _10 PRESET MANAGER TOOLBAR_
 ## **10 Preset Manager Toolbar** 
 
 
-![](<Oxford Envolution Manual_assets/Oxford_Envolution_Manual.pdf-0025-02.png>)
+![](<../../attachments/oxford-envolution-manual_assets--oxford_envolution_manual.pdf-0025-02--cf2201f468a74da7.png>)
 
 
 Sonnox Oxford plug-ins come equipped with their own onboard Preset Manager, which is displayed at the top of the plug-in window. The reasoning behind this is to allow increased portability of your presets across all the host applications, while also providing a consistent and versatile interface. While most host platforms allow creation and loading of presets, those host-created preset files are not portable between different host applications. With the Oxford plug-ins’ Preset Manager, you can create a named preset in one host application and load it when using an alternative application. 

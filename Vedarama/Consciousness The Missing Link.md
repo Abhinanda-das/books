@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ctml"
 ---
 
-![обложка|156](<Consciousness The Missing Link/обложка.jpeg>)
+![обложка|156](<../attachments/consciousness-the-missing-link--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--e67d5f2a2ab41546.jpeg>)
 
 Scientists of the Bhaktivedanta Institute examine key underlying concepts of the modern life sciences in light of India's age old Vedic knowledge. With an introductory survey of the issues by the Institute's founder, His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda.
 

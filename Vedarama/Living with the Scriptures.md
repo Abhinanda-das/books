@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/satdg-lwts"
 ---
 
-![обложка|156](<Living with the Scriptures/обложка.jpeg>)
+![обложка|156](<../attachments/living-with-the-scriptures--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--38262651b35ec44b.jpeg>)
 
 Through this selection and discussion I hope to draw myself and my readers into the inconceivable, often elusive realm of krsna-katha. Sometimes we are moved by a particular verse of lila of Krsna, but when we go to share it with a friend, we find they are in a different mood or on a different "wave length" and are not able to really appreciate our individual realization. And sometimes when our friend comes to us with his Krsna conscious realization, we may be distracted or otherwise absorbed. But when we read submissively, we are in a mood to more patiently give our time and share the wave length of another devotee. And when this patience it rightly reciprocated by the author, we may thus encounter the scriptures in a more enlivening and penetrating way and see new lights within them. As devotees, we live not only by the sastra (in the sense that they govern us), but also with the sastra, and we may grow with them just as we grow and serve in the personal association of guru and sadhu.
 

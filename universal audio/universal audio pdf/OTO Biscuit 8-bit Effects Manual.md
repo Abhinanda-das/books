@@ -7,7 +7,7 @@ word_count: 3897
 ---
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0001-00.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0001-00--cab454f7e328bc47.png>)
 
 
 # OTO BISCUIT 8-BIT EFFECTS 
@@ -15,7 +15,7 @@ word_count: 3897
 Rev. Feb 16, 2017 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0002-00.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0002-00--960e37e42742b8c4.png>)
 
 
 ## **Softube User Manual** 
@@ -63,7 +63,7 @@ SOFTUBE USER’S GUIDE | **iii**
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0005-00.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0005-00--98b897c13691c7dc.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -91,7 +91,7 @@ the Biscuit is a bitcrusher, but some clever additions extends its use far beyon
 It produces distortion by reducing the resolution and bandwidth of digital audio data. The resulting quantization noise can be varied from adding the familiar warm 8-bit character and lo-fi digital artifacts, to harsh numeric distortion. The “bitcrusher” section of the Biscuit is followed by an analog multimode filter (with low pass, high pass and band pass modes) and a simple mixing section (dry/wet). Furthermore, each of the eight data bits can be removed or inverted for more variation to the character, and there are four on-board digital effects—waveshaper, delay, pitch shifter and step filter. 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0006-07.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0006-07--f01c09f75d013705.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -99,13 +99,13 @@ Top Panel<br>Brain/Effects<br>Panel<br>**----- End of picture text -----**<br>
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0006-08.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0006-08--71a4feb4c021a32f.png>)
 
 
 SOFTUBE USER’S GUIDE | **7** 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0007-01.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0007-01--df1dc159975b3079.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -161,19 +161,19 @@ Wave Shaper
 Pitch Shifter 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0009-12.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0009-12--b2f1ff0345d58689.png>)
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0009-13.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0009-13--89c2a388b69e4dd0.png>)
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0009-14.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0009-14--31927ce84cd5a5cd.png>)
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0009-15.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0009-15--aeb1f6b3d28c2ca1.png>)
 
 
 Delay 
@@ -181,7 +181,7 @@ Delay
 Step Filter 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0010-00.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0010-00--8e956938106722fe.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -189,7 +189,7 @@ Step Filter
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0010-01.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0010-01--6d02953d3a8808ac.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -213,7 +213,7 @@ Wave Delay Pitch Step DAW  Tempo<br>Tempo Tap<br>**----- End of picture text ---
 Each mode has one to four "soft parameters" that are specific for the different modes. For a description of those parameters, see the section corresponding to the effect mode. 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0011-00.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0011-00--aad4ba5689ce3d09.png>)
 
 
 ## Wave 
@@ -239,11 +239,11 @@ To allow proper tracking, crank up the drive knob properly so that the bypass bu
 **6.** SawTOOTH: Tracking Sawtooth waveform. 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0011-12.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0011-12--8363122b96e03f6e.png>)
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0011-13.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0011-13--dcdd6e925c333168.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -251,7 +251,7 @@ Wave Type<br>VCF/ENF<br>**----- End of picture text -----**<br>
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0012-00.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0012-00--bfaba78fb2542c73.png>)
 
 
 **7.** LO SAWTOOTH: Tracking Sawtooth waveform one octave down below source. 
@@ -281,7 +281,7 @@ When using both the **Biscuiting** switches (bitcrusher) and **Wave Shapers** at
 SOFTUBE USER’S GUIDE | **13** 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0013-01.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0013-01--ba76421f1440bd73.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -319,7 +319,7 @@ The Pitch Shifter is a 8-bit mono effect that transposes the audio signal by usi
 You can either use the knob, or click directly on the dots on the displayed keyboard to change pitch. Middle C is for creating chorus-like effects by mixing the **Naked** and **Dressed** signals. Click twice on the lowest C to alternate between -1 octave and -2 octaves pitch shift. 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0014-05.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0014-05--86dd3733c01d36fb.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -327,11 +327,11 @@ Shift<br>**----- End of picture text -----**<br>
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0014-06.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0014-06--f19b10bf4ffb4530.png>)
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0014-07.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0014-07--878914ab02104542.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -395,7 +395,7 @@ When the **DAW Tempo** is inactive (unlit), the Step Filter is in a free running
 Frequency Select Step 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0016-02.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0016-02--02ab4fd74bde264a.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -459,11 +459,11 @@ In the bottom of the plug-in interface, you will see a thin black row with some 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0019-08.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0019-08--47f6583b95fa8e50.png>)
 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0019-09.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0019-09--e379a2df058ae42e.png>)
 
 
 ## Enable 
@@ -481,7 +481,7 @@ Value Display
 Enable Setup 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0019-17.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0019-17--f8d275baf1943b68.png>)
 
 
 **20** | GENERAL SETTINGS 
@@ -525,7 +525,7 @@ All numbers and labels in the plug-in are clickable. This allows you to easily s
 Some plug-ins have linked parameters, such as the two mics in Metal Amp Room, or the Input and Output volume in Zener Limiter. In order to change both knobs at once, adjust one of the knobs while holding shift. 
 
 
-![](<OTO Biscuit 8-bit Effects Manual_assets/OTO_Biscuit_8-bit_Effects_Manual.pdf-0021-00.png>)
+![](<../../attachments/oto-biscuit-8-bit-effects-manual_assets--oto_biscuit_8-bit_effects_manual.pdf-0021-00--fbc133c655805b59.png>)
 
 
 **Softube AB, S:t Larsgatan 9D, 582 24 Linköping, Sweden. www.softube.com** 

@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/krop"
 ---
 
-![обложка|156](<Kṛṣṇa, the Reservoir of Pleasure/обложка.jpeg>)
+![обложка|156](<../attachments/k%E1%B9%9B%E1%B9%A3%E1%B9%87a-the-reservoir-of-pleasure--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5c3dc019e6962c37.jpeg>)
 
 Since its first publication in 1970, Krishna, the Reservoir of Pleasure, a collection of essays on the personality of God, has been widely distributed by Krishna devotees in many languages ​​and in all parts of the world. The title piece was transcribed from a lecture that Srila Prabhupada gave in San Francisco in 1967 on a verse from the Srimad-Bhagavatam,
 

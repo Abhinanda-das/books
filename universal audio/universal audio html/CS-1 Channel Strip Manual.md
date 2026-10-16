@@ -15,7 +15,7 @@ The CS-1 Channel Strip provides the EX-1 Equalizer and Compressor, DM-1 Delay Mo
 
 The CS-1 is provided for compatibility with sessions created with UAD versions prior to v8.2. In UAD v8.2 and later, the EX-1, DM-1, DM-1L, and RS-1 plug-ins are replaced by the newer Precision Channel Strip, Precision Delay Modulation/Delay Modulation Long, and Precision Reflection Engine plug-ins, respectively. See [CS-1 Compatibility with Prior Sessions](#h_01JNPRZ9J89GTZ9S7R9NB5081C) for related information.
 
-![CS-1.png](CS-1%20Channel%20Strip%20Manual_assets/33aebf2a6fc6ad51eab59e264eff947ecc1f66f8.png)
+![CS-1.png](../../attachments/cs-1-channel-strip-manual_assets--33aebf2a6fc6ad51eab59e264eff947ecc1f66f8--8d2063dd9229dc1c.png)
 
 *CS-1 Channel Strip*
 
@@ -25,7 +25,7 @@ The CS-1 is provided for compatibility with sessions created with UAD versions p
 
 The EX-1 plug-in consists of a five-band parametric EQ and compressor.
 
-![CS-1-eq-comp.png](CS-1%20Channel%20Strip%20Manual_assets/022eb286eb57f35cc117a21ebd09fa16be12e61b.png)
+![CS-1-eq-comp.png](../../attachments/cs-1-channel-strip-manual_assets--022eb286eb57f35cc117a21ebd09fa16be12e61b--5e7d3ad533eb2c31.png)
 
 *EX-1 EQ/Compressor*
 
@@ -111,7 +111,7 @@ The DM-1L is identical to the DM-1, except that the maximum available delay time
 
 **Note:** DM-1L requires more UAD memory resources than the DM-1.
 
-![CS-1-delay-mod.png](CS-1%20Channel%20Strip%20Manual_assets/f731d72a7e5e673d1532b1a195ff0f1ab8fe5571.png)
+![CS-1-delay-mod.png](../../attachments/cs-1-channel-strip-manual_assets--f731d72a7e5e673d1532b1a195ff0f1ab8fe5571--9bfbbf3285a74210.png)
 
 *DM-1 Delay Modulator*
 
@@ -203,7 +203,7 @@ The RS-1 Reflection Engine simulates a wide range of room shapes, and sizes, to 
 
 The Delay control sets the time between the direct signal and the first reflection. The Size parameter controls the spacing between the reflections. The Recir control affects the amount of reflections that are fed back to the input and controls how many repeats you hear.
 
-![CS-1-reflection.png](CS-1%20Channel%20Strip%20Manual_assets/fdba259df282fdccf4b7207efb237410c49ba0ad.png)
+![CS-1-reflection.png](../../attachments/cs-1-channel-strip-manual_assets--fdba259df282fdccf4b7207efb237410c49ba0ad--7e801e41757d0c8d.png)
 
 *RS-1 Reflection Engine*
 

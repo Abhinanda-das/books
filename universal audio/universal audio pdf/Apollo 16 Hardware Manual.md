@@ -6,15 +6,15 @@ tool_version: 1.10.2
 word_count: 11127
 ---
 
-![](<Apollo 16 Hardware Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_0_picture_0--64e7ac89ad9e2f6b.jpeg>)
 
-![](<Apollo 16 Hardware Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_0_picture_1--b39a616c4ce94d20.jpeg>)
 
 # **Apollo 16 Hardware Manual**
 
 Manual Version 180508
 
-![](<Apollo 16 Hardware Manual_assets/_page_0_Picture_4.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_0_picture_4--0efc6822e6409ef5.jpeg>)
 
 # <span id="page-1-0"></span>**A Letter from Bill Putnam Jr.**
 
@@ -236,7 +236,7 @@ Universal Audio provides free technical support to registered product owners. Su
 
 This section describes the features and functionality of all controls and visual elements on the Apollo 16 front panel. Note that most front panel functions can be controlled remotely with the Console software application.
 
-![](<Apollo 16 Hardware Manual_assets/_page_9_Picture_2.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_9_picture_2--c3d2320cc72ecca6.jpeg>)
 
 ### **(1) Meter**
 
@@ -323,7 +323,7 @@ This section describes the features and functionality of all connectors and cont
 
 ### **Analog I/O**
 
-![](<Apollo 16 Hardware Manual_assets/_page_12_Picture_3.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_12_picture_3--249290e38f8caa64.jpeg>)
 
 ### **(1) Monitor Outputs 1 & 2**
 
@@ -359,7 +359,7 @@ To eliminate risk of circuit damage, connect only the factory-supplied power sup
 
 ### **Digital I/O**
 
-![](<Apollo 16 Hardware Manual_assets/_page_13_Figure_5.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_13_figure_5--c3c67d3ebae81167.jpeg>)
 
 ### **(5) Word Clock Out**
 
@@ -473,7 +473,7 @@ This diagram illustrates a basic Apollo 16 system. In this example, only analog 
 - DB25 audio snakes are used for connections to line-level audio gear
 - Although this example uses XLR connectors, DB25 snakes that terminate to XLR, TRS, or other DB25 connectors can be used
 
-![](<Apollo 16 Hardware Manual_assets/_page_17_Picture_13.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_17_picture_13--705fcb0b1154f5dc.jpeg>)
 
 ### <span id="page-18-1"></span><span id="page-18-0"></span>**Thunderbolt Setup**
 
@@ -488,7 +488,7 @@ This diagram illustrates how Apollo 16 can be connected to a host computer with 
 
 *Note: The FireWire ports are disabled with Apollo Thunderbolt software.*
 
-![](<Apollo 16 Hardware Manual_assets/_page_18_Picture_8.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_18_picture_8--7eb179085b95b624.jpeg>)
 
 ### <span id="page-19-0"></span>**Multi-Unit Cascading Setup – FireWire Host Connection**
 
@@ -538,7 +538,7 @@ The diagram below illustrates how to interconnect multiple Apollo units and the 
 
 **Note:** The FireWire ports are disabled with Apollo Thunderbolt software.
 
-![](<Apollo 16 Hardware Manual_assets/_page_20_Picture_15.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_20_picture_15--cb3fe5cadcc0b2eb.jpeg>)
 
 # <span id="page-21-1"></span><span id="page-21-0"></span>**FireWire Basics**
 
@@ -572,7 +572,7 @@ The most common FireWire devices are available in two speeds: FireWire 400 (IEEE
 
 FireWire 800 and FireWire 400 devices use different connectors, as illustrated below. This helps to differentiate between the two device speeds (the connectors are not interchangeable).
 
-![](<Apollo 16 Hardware Manual_assets/_page_22_Picture_2.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_22_picture_2--60b85f3f5b652f46.jpeg>)
 
 #### FireWire 400 connectors
 
@@ -592,13 +592,13 @@ Apollo 16 can function as a FireWire repeater, by using the unused port on the u
 
 The examples below show a few of the many interconnection possibilities using daisy chains and repeaters.
 
-![](<Apollo 16 Hardware Manual_assets/_page_22_Picture_12.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_22_picture_12--f866bc4695e252fc.jpeg>)
 
-![](<Apollo 16 Hardware Manual_assets/_page_22_Picture_13.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_22_picture_13--d9517dd3359990a8.jpeg>)
 
 FireWire bus connections via repeater
 
-<span id="page-23-0"></span>![](<Apollo 16 Hardware Manual_assets/_page_23_Picture_0.jpeg>)
+<span id="page-23-0"></span>![](<../../attachments/apollo-16-hardware-manual_assets--page_23_picture_0--b3ad891bc24cba6f.jpeg>)
 
 FireWire bus connections via repeater and daisy chain in a "tree chain"
 
@@ -610,13 +610,13 @@ Although FireWire 400 and FireWire 800 devices can be connected to the same Fire
 
 FireWire 800 devices are backwards-compatible and can be connected to a FireWire 400 bus using a 9-pin to 6-pin FireWire cable or adapter. However in this scenario any 800 megabit-capable devices on the bus (including Apollo 16) will operate at a maximum of 400 megabits because FireWire bandwidth cannot exceed the maximum bus speed of the host computer.
 
-![](<Apollo 16 Hardware Manual_assets/_page_23_Picture_6.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_23_picture_6--2c3a694cf8bcfdd9.jpeg>)
 
 #### FireWire 400 devices on a FireWire 800 bus
 
 FireWire 400 devices can be connected to a FireWire 800 bus using a 6-pin to 9-pin FireWire cable or adapter. However, if the FireWire 800 devices are located after the FireWire 400 devices in the daisy chain, all FireWire devices will operate at a maximum of 400 megabits because the FireWire 400 devices force all subsequent devices to run at FireWire 400 speeds.
 
-![](<Apollo 16 Hardware Manual_assets/_page_23_Picture_9.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_23_picture_9--5fa50e195d0b4e9e.jpeg>)
 
 #### <span id="page-24-0"></span>Combining FireWire 400 and 800 devices on a FireWire 800 bus
 
@@ -624,7 +624,7 @@ It is possible to configure a FireWire bus to run at both FireWire 400 and FireW
 
 #### Recommended Mixed Speed Setup
 
-![](<Apollo 16 Hardware Manual_assets/_page_24_Picture_3.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_24_picture_3--34ebf69c010fefa3.jpeg>)
 
 The example above shows the correct method of interconnecting FireWire 800 and FireWire 400 devices to a FireWire 800 computer bus. Any mixture of daisy chains, repeaters, and/or tree chains may be used, as long as all the FireWire 400 devices are placed after all the FireWire 800 devices.
 
@@ -782,7 +782,7 @@ All specifications are typical performance unless otherwise noted, tested under 
 
 Apollo 16 Hardware Manual 30 Specifications
 
-<span id="page-30-0"></span>![](<Apollo 16 Hardware Manual_assets/_page_30_Figure_1.jpeg>)
+<span id="page-30-0"></span>![](<../../attachments/apollo-16-hardware-manual_assets--page_30_figure_1--ef4128fbc796ad76.jpeg>)
 
 # <span id="page-31-1"></span><span id="page-31-0"></span>**DB25 Wiring**
 
@@ -792,7 +792,7 @@ Apollo 16's analog I/O is accessed via 25-pin D-sub female connectors. Each DB25
 
 The pin numbers for female DB25 connectors are shown in the diagram below. When facing the Apollo 16 rear panel, pin 1 is the upper rightmost pin.
 
-![](<Apollo 16 Hardware Manual_assets/_page_31_Figure_4.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_31_figure_4--9f32212ad8a32027.jpeg>)
 
 *Apollo 16 female DB25 pin numbers*
 
@@ -960,4 +960,4 @@ Weight [30](#page-29-0) Welcome [ii](#page-1-0) Word Clock [29](#page-28-0) Word
 
 XLR [13](#page-12-0)
 
-![](<Apollo 16 Hardware Manual_assets/_page_38_Picture_0.jpeg>)
+![](<../../attachments/apollo-16-hardware-manual_assets--page_38_picture_0--c32e0ffc79be7850.jpeg>)

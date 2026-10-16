@@ -16,7 +16,7 @@ word_count: 2083
   —_ 
 
 
-![](<Shadow Hills Mastering Compressor Manual_assets/Shadow_Hills_Mastering_Compressor_Manual.pdf-0001-03.png>)
+![](<../../attachments/shadow-hills-mastering-compressor-manual_assets--shadow_hills_mastering_compressor_manual.pdf-0001-03--a8d33e1f7a8a8544.png>)
 
 
 _You 
@@ -618,7 +618,7 @@ The
   meters. 
 
 
-![](<Shadow Hills Mastering Compressor Manual_assets/Shadow_Hills_Mastering_Compressor_Manual.pdf-0003-03.png>)
+![](<../../attachments/shadow-hills-mastering-compressor-manual_assets--shadow_hills_mastering_compressor_manual.pdf-0003-03--9e5618eb8e2d5c13.png>)
 
 
 The 
@@ -1163,7 +1163,7 @@ This
   “24”. 
 
 
-![](<Shadow Hills Mastering Compressor Manual_assets/Shadow_Hills_Mastering_Compressor_Manual.pdf-0005-07.png>)
+![](<../../attachments/shadow-hills-mastering-compressor-manual_assets--shadow_hills_mastering_compressor_manual.pdf-0005-07--977fc3d1d1ed36db.png>)
 
 
 p. 5 
@@ -1218,7 +1218,7 @@ The
   sounds. 
 
 
-![](<Shadow Hills Mastering Compressor Manual_assets/Shadow_Hills_Mastering_Compressor_Manual.pdf-0006-03.png>)
+![](<../../attachments/shadow-hills-mastering-compressor-manual_assets--shadow_hills_mastering_compressor_manual.pdf-0006-03--5030e96e90563173.png>)
 
 
 ## _DISCRETE 
@@ -1962,7 +1962,7 @@ Your
   appreciated. 
 
 
-![](<Shadow Hills Mastering Compressor Manual_assets/Shadow_Hills_Mastering_Compressor_Manual.pdf-0008-03.png>)
+![](<../../attachments/shadow-hills-mastering-compressor-manual_assets--shadow_hills_mastering_compressor_manual.pdf-0008-03--f74e457f006ad8e4.png>)
 
 
 p. 8 

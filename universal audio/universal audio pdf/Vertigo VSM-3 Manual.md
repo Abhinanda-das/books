@@ -6,9 +6,9 @@ tool_version: 1.10.2
 word_count: 1405
 ---
 
-![](<Vertigo VSM-3 Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_0_picture_0--17e9712ee30d469b.jpeg>)
 
-![](<Vertigo VSM-3 Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_0_picture_1--e45b9264976e528a.jpeg>)
 
 **The Vertigo Sound VSM-3 plugin is modeled faithfully by Brainworx after the VSM-2 a.k.a The Mix Satellite hardware by VERTIGO SOUND.**
 
@@ -39,11 +39,11 @@ A level of 0dBFS in the digital domain results in a readout of +22dBU on any of 
 
 #### **Here's an overview of the various sections of the plug-in**
 
-![](<Vertigo VSM-3 Manual_assets/_page_0_Figure_22.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_0_figure_22--4b3ff5c16ccbca00.jpeg>)
 
-![](<Vertigo VSM-3 Manual_assets/_page_1_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_1_picture_0--4cda8d0117fc61fa.jpeg>)
 
-![](<Vertigo VSM-3 Manual_assets/_page_1_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_1_picture_1--22c4d103430d6fd1.jpeg>)
 
 #### *The Input*
 
@@ -53,7 +53,7 @@ Start with the Input Knob in the 12 o'clock position. You can use the Input pot 
 
 The tube sound is often subjectively described as having a "warmth" and "richness". It may be due to the nonlinear clipping that occurs with tube amps, or due to the higher levels of second-order harmonic distortion. The VSM-3 "FET Crusher" circuitry produces pure 2nd harmonics emulating a Class A and triode tube stage. This versatile coloration, saturation or distortion circuitry is adaptable, easily.
 
-![](<Vertigo VSM-3 Manual_assets/_page_1_Picture_8.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_1_picture_8--09c683528ad52841.jpeg>)
 
 #### **Here are the controls**
 
@@ -69,9 +69,9 @@ Sets the Input level or threshold to "What" and "How much" is going into the dis
 
 With the Input Filter you can define what frequency **range is passed** into the harmonic generator. See the table on the next page for the frequency range of each setting of the Input Filter. Note: "Track" mode is designed to process individual instruments. In this Mode the THD Mix control is disabled. The Shape control filters the output of the affected signal only. The original, or dry, portion of the signal is unaffected by the Shape control.
 
-![](<Vertigo VSM-3 Manual_assets/_page_2_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_2_picture_0--32b09a5878174d94.jpeg>)
 
-![](<Vertigo VSM-3 Manual_assets/_page_2_Figure_1.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_2_figure_1--2e8917a9bbcc1a5c.jpeg>)
 
 | The filter modes |                   |
 |------------------|-------------------|
@@ -110,21 +110,21 @@ same because processing occurs outside the knee.
 
 The "Zener Blender" creates 3rd harmonics but will also generate some higher order odd harmonics depending on the amount of Drive. It is like driving a pentode into overload. The Zener circuitry makes things sound brighter, and brings out detail, adding a subtle compression or limiting effect.
 
-![](<Vertigo VSM-3 Manual_assets/_page_3_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_3_picture_0--7a048db1bac5db91.jpeg>)
 
-![](<Vertigo VSM-3 Manual_assets/_page_3_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_3_picture_1--b95b727d57e81ebf.jpeg>)
 
 ## **Operation Manual**
 
 # The Vertigo Sound VSM-3
 
-![](<Vertigo VSM-3 Manual_assets/_page_3_Picture_4.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_3_picture_4--75f26f0eb0a4fdac.jpeg>)
 
 #### Hint
 
 All controls are identical to the 2<sup>nd</sup> harmonic generator. Please read the above description first (2<sup>nd</sup> Harmonic FET Crusher).
 
-![](<Vertigo VSM-3 Manual_assets/_page_3_Picture_7.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_3_picture_7--2d466b695a2d3b33.jpeg>)
 
 #### THD Mixer
 
@@ -140,17 +140,17 @@ In parallel mode the "THD Mixer" allows you to control the balance between the s
 
 Harmonic Zener Blender engaged. Turn it to the 12 o'clock position to obtain a 50% mix of both signals. Again, the THD Mixer has no effect when the VSM-3 runs in serial mode
 
-![](<Vertigo VSM-3 Manual_assets/_page_4_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_4_picture_0--2662af59cfaadc4e.jpeg>)
 
-![](<Vertigo VSM-3 Manual_assets/_page_4_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_4_picture_1--23a34caab261ba97.jpeg>)
 
 ## **Operation Manual**
 
 # The Vertigo Sound VSM-3
 
-![](<Vertigo VSM-3 Manual_assets/_page_4_Figure_4.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_4_figure_4--de0cf7f81b1f2c57.jpeg>)
 
-![](<Vertigo VSM-3 Manual_assets/_page_4_Figure_5.jpeg>)
+![](<../../attachments/vertigo-vsm-3-manual_assets--page_4_figure_5--b7f19428ef3af36f.jpeg>)
 
 ## Monitoring section
 

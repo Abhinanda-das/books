@@ -23,7 +23,7 @@ The Plug-Ins tab shows all plug-ins, and allows you to quickly search by text or
 
 - Use the up and down arrow keys to navigate the list of plug-ins.
 
-![plugin-browser-callouts-2x.png](Plug-Ins%20%26%20Presets%20Browser_assets/b8d3126089ab0bdf24a1adde57aa16edb5f176d1.png)
+![plugin-browser-callouts-2x.png](../../attachments/plug-ins-presets-browser_assets--b8d3126089ab0bdf24a1adde57aa16edb5f176d1--e5142ce7f430ae28.png)
 
 <div layout="center" node-type="mediaSingle" prosemirror-content-type="node" prosemirror-node-block="true" prosemirror-node-name="mediaSingle" data-width="673" width-type="pixel">
 
@@ -37,24 +37,24 @@ The Plug-Ins tab shows all plug-ins, and allows you to quickly search by text or
 
 The plug-in icon view shows images of the plug-ins in the plug-in browser. Click the plug-in icon switch to toggle the plug-in icon view.
 
-![plug-in-views-2x.png](Plug-Ins%20%26%20Presets%20Browser_assets/66b2e0ada80bfaabde75a593d4a9f6ef07aad88b.png)
+![plug-in-views-2x.png](../../attachments/plug-ins-presets-browser_assets--66b2e0ada80bfaabde75a593d4a9f6ef07aad88b--908de9f575910f0e.png)
 
 ### Assigning plug-ins
 
 You can assign plug-ins in Assign mode, or drag plug-ins directly to inserts.
 
 - Right-click and choose Assign to start Assign mode. In Assign mode, all places where you can add a plug-in are highlighted with green plus symbols. Click a plus symbol to add the plug-in. \
-  ![assign-plug-in-2x.png](Plug-Ins%20%26%20Presets%20Browser_assets/ea5cc6909af1e34c25fa2f0de598d0ca478e5eb1.png)
+  ![assign-plug-in-2x.png](../../attachments/plug-ins-presets-browser_assets--ea5cc6909af1e34c25fa2f0de598d0ca478e5eb1--815765ef63c783fc.png)
 
 ### <span style="font-size: 1.2em; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Dragging plug-ins</span>
 
 You can drag a plug-in from the Plug-Ins browser to a specific insert slot. Drag the plug-in to the slot in the channel. Note that if you drag the plug-in to a slot that is already occupied, the plug-in replaces the current plug-in in that slot. You cannot drag a non-Unison plug-in to a Unison slot.  
 
-![drag-insert-over-insert.png](Plug-Ins%20%26%20Presets%20Browser_assets/ac14c946729f2e3a3d1dba4e45eac84664192914.png)
+![drag-insert-over-insert.png](../../attachments/plug-ins-presets-browser_assets--ac14c946729f2e3a3d1dba4e45eac84664192914--2dd21c20b1582e5b.png)
 
 *Dragging a plug-in over an existing plug-in (replace)*
 
-![dragged-plug-in.png](Plug-Ins%20%26%20Presets%20Browser_assets/58ec8b9b3dff25907db905d408c022b2a9abef25.png)
+![dragged-plug-in.png](../../attachments/plug-ins-presets-browser_assets--58ec8b9b3dff25907db905d408c022b2a9abef25--0fd9c651b9f42fa1.png)
 
 *Dragging a plug-in to an empty slot*
 
@@ -62,7 +62,7 @@ You can drag a plug-in from the Plug-Ins browser to a specific insert slot. Drag
 
 Channel Presets are complete channel plug-in chains and settings that you can save in UAD Console, or load from existing factory presets. See [Channel Strip Presets](https://help.uaudio.com/hc/en-us/articles/25350821938580) for more information.
 
-![presets-browser-callouts-2x.png](Plug-Ins%20%26%20Presets%20Browser_assets/9ce501afee8f8b6e130b4f0532ac1b27872e013f.png)
+![presets-browser-callouts-2x.png](../../attachments/plug-ins-presets-browser_assets--9ce501afee8f8b6e130b4f0532ac1b27872e013f--995e832a048a3644.png)
 
 ## Assigning channel strip presets
 
@@ -70,7 +70,7 @@ Channel Presets are complete channel plug-in chains and settings that you can sa
 
     <div layout="center" node-type="mediaSingle" prosemirror-content-type="node" prosemirror-node-block="true" prosemirror-node-name="mediaSingle" data-width="199" width-type="pixel">
 
-    ![assign-channel-strip-presets.png](Plug-Ins%20%26%20Presets%20Browser_assets/3fb4813d2320490a4b6792802fec11cd9241ed4b.png)
+    ![assign-channel-strip-presets.png](../../attachments/plug-ins-presets-browser_assets--3fb4813d2320490a4b6792802fec11cd9241ed4b--65b065f040e0472c.png)
 
     </div>
 
@@ -82,5 +82,5 @@ Channel Presets are complete channel plug-in chains and settings that you can sa
 
 <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px;">You can drag a channel strip preset from the Presets browser to a specific channel. The channel is highlighted in yellow until you drop the preset. Note that if you drag the preset to a channel that already includes plug-ins, those plug-ins are replaced.</span>
 
-<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px;"> ![preset-drag.png](Plug-Ins%20%26%20Presets%20Browser_assets/82a1953bf21477cf635f50167dc8e70d015b4c18.png)</span>
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px;"> ![preset-drag.png](../../attachments/plug-ins-presets-browser_assets--82a1953bf21477cf635f50167dc8e70d015b4c18--099a7f919f7ae787.png)</span>
 

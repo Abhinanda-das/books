@@ -21,7 +21,7 @@ A comprehensive creative toolkit included free with LUNA, Shape is a painstaking
 
 <div collection="contentId-194609362" context-id="194609362" file-mime-type="image/png" file-name="shape-new.png" file-size="921294" data-height="560" data-id="4ecf1019-b187-4463-aef4-370078ad8ec9" node-type="media" data-type="file" data-width="857" title="Attachment">
 
-![shape-new.png](UAD%20Instruments_assets/6abf7e17b734a4cd3274342a1d63f81c6cfceeb4.png)
+![shape-new.png](../../attachments/uad-instruments_assets--6abf7e17b734a4cd3274342a1d63f81c6cfceeb4--1194cef5cc945b5d.png)
 
 </div>
 
@@ -43,7 +43,7 @@ Expertly sampled and recorded at London's AIR Studios, Spitfire Audio's industry
 
 <div collection="contentId-194609362" context-id="194609362" file-mime-type="image/png" file-name="spitfire-chamber-strings.png" file-size="1852898" data-height="501" data-id="5c479ba5-7a1a-411c-9938-554e77418fc2" node-type="media" data-type="file" data-width="750" title="Attachment">
 
-![spitfire-chamber-strings.png](UAD%20Instruments_assets/3f8e86766808a7415dd2292b1e269cc472cbcae0.png)
+![spitfire-chamber-strings.png](../../attachments/uad-instruments_assets--3f8e86766808a7415dd2292b1e269cc472cbcae0--8159a239a3d2d79c.png)
 
 </div>
 

@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gourgovindasw-tholjsy"
 ---
 
-![обложка|156](<The History of Lord Jagannatha’s Snana-Yatra/обложка.jpeg>)
+![обложка|156](<../attachments/the-history-of-lord-jagannatha-s-snana-yatra--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9205bd39128fb3c3.jpeg>)
 
 An  evening lecture by Śrī Śrīmad Gour Govinda Swami Mahārāja, given on the 23rd June 1994, in Towaco, USA.
 

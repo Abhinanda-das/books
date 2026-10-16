@@ -15,7 +15,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vct-sdt6"
 ---
 
-![обложка|156](<Sārārtha-Darśini-ṭīkā 6 Canto/обложка.jpeg>)
+![обложка|156](<../attachments/s%C4%81r%C4%81rtha-dar%C5%9Bini-%E1%B9%AD%C4%ABk%C4%81-6-canto--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--084114db62558b2c.jpeg>)
 
 Srimad-Bhagavatam, an epic philosophical and literary classic, holds a prominent position in India’s voluminous written wisdom. This ancient text touches upon all fields of human knowledge.
 

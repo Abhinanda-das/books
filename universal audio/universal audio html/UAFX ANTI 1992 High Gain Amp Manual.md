@@ -11,7 +11,7 @@ word_count: 7494
 
 This article contains complete operating instructions for the UAFX ANTI 1992 High Gain Amp effects pedal from Universal Audio.
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/e06ad42959827c4d423d8efaf7151503b3db25f6.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--e06ad42959827c4d423d8efaf7151503b3db25f6--3cd7382979af1b33.png)
 
  
 
@@ -44,7 +44,7 @@ Thank you for your support, and enjoy your sonic exploration!
 
 Sincerely,
 
-![bill-putnam-jr-signature.png](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--23d8d90803782d6b.png)
 
 Bill Putnam Jr.
 
@@ -62,7 +62,7 @@ UAFX pedals include a quick start sheet in the box. To download the sheet, [<spa
 
  
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/48292ea8723cfa6ebce3de1246f61c294ece5c7d.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--48292ea8723cfa6ebce3de1246f61c294ece5c7d--0c88df9616f2e19d.png)
 
  
 
@@ -79,7 +79,7 @@ To learn how to power your UAFX pedal,[<span class="wysiwyg-underline"> go here<
 To learn how to wire your UAFX pedals, [<span class="wysiwyg-underline">go here</span>](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/71a90f387ababfc5588e23519cf25abe839971d2.png)
+![rear-callouts-amp.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--ead6a8d56744d309.png)
 </figure>
 
  
@@ -176,13 +176,13 @@ You can store a preset you've made with your own settings by holding down the ST
 
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the live effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
-![golden-switches-on-led.png](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/039ea6f067a659c26bac8c58abbbf5de3c79066c.png)
+![golden-switches-on-led.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--e69f555be64158e7.png)
 
 ### Preset Mode
 
 To enter Preset mode, press the right footswitch. Press the right footswitch again to toggle the preset on/off. The right footswitch LED is lit green when the preset is on.
 
-![golden-switches-preset-led.png](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/381e83806fbca2e28a4cc8d1d3a4d7b015b0194c.png)
+![golden-switches-preset-led.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--5fb51376f4fd5cc4.png)
 
 **Note:** The left and right footswitch functions can be changed in UAFX Control.
 
@@ -408,7 +408,7 @@ Each speaker, cabinet, and mic setting has a unique sound. Toggle up or down to 
 
 When you register your pedal using the UA Connect or UAFX Control apps, your free bonus speaker cabinets are added to the pedal. To select these speaker cabinets, push the Cab switch until the top, middle, or bottom Cab LED is lit green.
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/7aa9299a1eeb055f41a24c12f5822e29026ab9c2.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--7aa9299a1eeb055f41a24c12f5822e29026ab9c2--0105a4f28147dbc3.png)
 
 **Note:** The speaker cabinet labels on the pedal apply only when that speaker switch's LED is red. The labels when the LED is green are only visible in UAFX Control.
 
@@ -571,7 +571,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![anti-fs-modes.png](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/60bff664166a4cb9e7f0ec60d3e8731fc5ffece1.png)
+![anti-fs-modes.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--60bff664166a4cb9e7f0ec60d3e8731fc5ffece1--329471dc76e2e5a6.png)
 </figure>
 
  
@@ -580,7 +580,7 @@ To assign a preset to a footswitch slot in multi-preset modes, tap the footswitc
 
 In Live \| Preset mode, you can access Live mode (knobs and switches) and the stored preset.
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/6ed5329109e39b872e431b77d9b1ca991870b24d.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--6ed5329109e39b872e431b77d9b1ca991870b24d--649abe0a2c710f6b.png)
 
 - **Left Footswitch** toggles the Live sound on/off
 - **Right Footswitch** toggles the stored preset on/off
@@ -593,7 +593,7 @@ In Live \| Preset mode, you can access Live mode (knobs and switches) and the st
 
 In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/46cfd62d400a1da5585158170f6143cf1871aad9.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--46cfd62d400a1da5585158170f6143cf1871aad9--d196d0d0d47ba202.png)
 
 - **Left Footswitch** toggles Boost on/off
 - **Right Footswitch** toggles between Live mode (red LED) and the stored preset (green LED)
@@ -604,7 +604,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 
 In Gate \| Live/Preset mode, you can switch the Gate on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/4cfae364ac751a99d67ab99690c54f34835d0e47.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--4cfae364ac751a99d67ab99690c54f34835d0e47--71f7747a41e899f0.png)
 
 - **Left Footswitch** toggles Gate on/off
 - **Right Footswitch** toggles between Live mode (red LED) and the stored preset (green LED)
@@ -616,7 +616,7 @@ In Gate \| Live/Preset mode, you can switch the Gate on and off, and toggle betw
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![anti-fs-live-off-a-b.png](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/cbee48075a76449e48ed02261a0604374cf43d1c.png)
+![anti-fs-live-off-a-b.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--cbee48075a76449e48ed02261a0604374cf43d1c--6aead7f90b23a76e.png)
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -630,7 +630,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![anti-fs-a-off-b-off.png](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/d6cae247b1cfe75f1802a598eba6ee02a7dc2d4f.png)
+![anti-fs-a-off-b-off.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--d6cae247b1cfe75f1802a598eba6ee02a7dc2d4f--8721de8a9266ee13.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -642,7 +642,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![anti-fs-ab-cd.png](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/88a7b37c6f27e3357e1f66a01e67664c3cc1869f.png)
+![anti-fs-ab-cd.png](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--88a7b37c6f27e3357e1f66a01e67664c3cc1869f--b9fe752b98faffad.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)
@@ -723,13 +723,13 @@ Rare vintage black preamp pedal with volume, bass, and treble controls gives a m
 
 ### <span style="color: #434343;">Bright Switch</span>
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/c95f2901ecd25b3cc1c6fa1cdf4051f1be097657.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--c95f2901ecd25b3cc1c6fa1cdf4051f1be097657--076e6920d7ba2b48.png)
 
 The Bright Switch, when on, adds bite and edge to your tone. The bright switch is a global setting, but does not have an audible effect on the LEAD channel. 
 
 ### <span style="color: #434343;">ANTI Noise Gate</span>
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/ccb75dccc22af04de00f70e284efa373a7372d1c.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--ccb75dccc22af04de00f70e284efa373a7372d1c--47df54ca4377cf54.png)
 
 Toggle the noise gate by tapping the red button next to Noise Gate. Adjust the noise gate settings for your current instrument and sound to eliminate any extraneous noise.
 
@@ -781,13 +781,13 @@ ANTI's noise gate silences extraneous noise by detecting your guitar signal at t
 
 ### <span style="color: #434343;">Input Routing</span>
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/ca6e16253db3abad799698406bc4bd33e6436de8.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--ca6e16253db3abad799698406bc4bd33e6436de8--814f62f9f6dc5731.png)
 
 Sets whether the low or high amp input is used. The High input has more gain and the low input is cleaner. This setting is stored per-channel. 
 
 ### <span style="color: #434343;">Rhythm Mode (RTHM channel only)</span>
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/0a3952eeb0adc28eb1d4dfa22379a0a2a5894779.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--0a3952eeb0adc28eb1d4dfa22379a0a2a5894779--bacd742fbeb69158.png)
 
 On the RTHM channel, you have a choice of three rhythm modes, two of which are unique to ANTI. Tap the mode to select it. 
 
@@ -824,7 +824,7 @@ On the RTHM channel, you have a choice of three rhythm modes, two of which are u
 
 ### <span style="color: #434343;">Bias Mode</span>
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/6bbcc291b1c36c7dd707cbee634501f6800b20d2.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--6bbcc291b1c36c7dd707cbee634501f6800b20d2--5a8e14f0dc3aa2d6.png)
 
 The Bias Mode sets the power tube bias and configuration of the amplifier, with four common configurations. Tap to choose the bias mode. 
 
@@ -863,13 +863,13 @@ The Bias Mode sets the power tube bias and configuration of the amplifier, with 
 
 ### <span style="color: #434343;">Post Gain</span>
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/dbe011c2eb5226c65ea667e3bdf2b133c7065f7e.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--dbe011c2eb5226c65ea667e3bdf2b133c7065f7e--f19fd9e61783cfee.png)
 
 Post Gain adds another level of output gain with some harmonic content, based on the Post Gain control from the original amp. Use this to add more output volume for your setup, or for creative effect. By default, Post Gain is set to the minimum.
 
 ### <span style="color: #434343;">Room</span>
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/79c8b64338931bb7221256fa1dda5cc0487a0fb0.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--79c8b64338931bb7221256fa1dda5cc0487a0fb0--2fec6bdbb254f98d.png)
 
 Room adds room tone into the signal. By default, Room level is at the minimum in Live Mode and on the default preset. Turning up the Room knob adds ambience from the room microphones set up in the tracking room of a studio.
 
@@ -881,13 +881,13 @@ Room adds room tone into the signal. By default, Room level is at the minimum in
 
 ### <span style="color: #434343;">Revert to Default (Live sound only)</span>
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/9cd71e7a85116c45428fba27b287fae7ac0625b0.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--9cd71e7a85116c45428fba27b287fae7ac0625b0--7256e4f6898523f9.png)
 
 Tap to revert to the default Edit screen settings for the Live Sound (knob and switch settings are unchanged). Reverting to default also reverts all per-channel and global settings for all channels on the pedal to their default settings. 
 
 ### <span style="color: #434343;">Restore Preset (Preset sound only)</span>
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/996e83fbb5aa283932d3152988067a3938a667d6.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--996e83fbb5aa283932d3152988067a3938a667d6--a09928a5d835ed9d.png)
 
 Tap to revert any changes you have made to the current preset. 
 
@@ -1231,11 +1231,11 @@ Sending the program change and bypass state first allows the pedal to load the i
 
 # ANTI Safety
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--67ccf2bb9b4c77bf.png)
 
 Caution: To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--829a3ed057f561c4.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -1297,7 +1297,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 The company's products have obtained the NCC low-power radio frequency equipment verification certificate according to the new warnings of "Low-power radio frequency equipment technical specifications" as follows: "The low-power radio frequency equipment that has obtained the verification certificate shall not be changed by the company, firm or user without approval. Frequency, increase power, or change the features and functions of the original design. The use of low-power radio frequency equipment shall not affect flight safety and interfere with legal communications; continue to use.
 
-![](UAFX%20ANTI%201992%20High%20Gain%20Amp%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![](../../attachments/uafx-anti-1992-high-gain-amp-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--1e4b81b4837a3fe6.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

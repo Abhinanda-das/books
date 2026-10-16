@@ -143,7 +143,7 @@ v
 Input and Output connections are made using standard XLR style connectors.  Terminal strips are also provided. 
 
 
-![](la-2a_manual_assets/la-2a_manual.pdf-0007-03.png)
+![](../../attachments/la-2a_manual_assets--la-2a_manual.pdf-0007-03--98b5a801836f91fa.png)
 
 
 **----- Start of picture text -----**<br>
@@ -223,7 +223,7 @@ To calibrate the units for stereo operation:
 Before we dig in to a description of the LA-2A circuit, it is useful to examine the general characteristics of compressors and review some terminology.  Figure 1 depicts the input/output characteristics of a compressor, an expander and a perfect amplifier.  When operated within its specified range, an amplifier provides a constant amount of gain regardless of the level of the input signal.  In Figure 1, the middle line depicts a perfect amplifier with a gain of 10 dB.  To see this, notice that a signal with an input level of –30 dB will result in an output level of –20 dB, which is an increase of 10 dB.  Similarly, an input level of 0 dB will result in an output level of 10 dB, hence the gain stays fixed at 10 dB regardless of the input level. 
 
 
-![](la-2a_manual_assets/la-2a_manual.pdf-0010-03.png)
+![](../../attachments/la-2a_manual_assets--la-2a_manual.pdf-0010-03--9d0c4770aa168afa.png)
 
 
 **----- Start of picture text -----**<br>
@@ -251,7 +251,7 @@ The point at which a compressor transitions into compression is commonly called 
 Many modern compressors provide a control which adjusts the threshold directly.  In the case of the LA-2A, the _Peak Reduction_ knob controls both the threshold and the amount of compression. 
 
 
-![](la-2a_manual_assets/la-2a_manual.pdf-0011-06.png)
+![](../../attachments/la-2a_manual_assets--la-2a_manual.pdf-0011-06--1e3d868c882e616f.png)
 
 
 **----- Start of picture text -----**<br>
@@ -263,7 +263,7 @@ Figure 2 - Input/output curve of a compressor with a ratio of 2:1 and a threshol
 6 
 
 
-![](la-2a_manual_assets/la-2a_manual.pdf-0012-00.png)
+![](../../attachments/la-2a_manual_assets--la-2a_manual.pdf-0012-00--bd38d03b59821acf.png)
 
 
 **----- Start of picture text -----**<br>
@@ -279,7 +279,7 @@ _**Figure 3 - Block diagram of the LA-2A compressor.**_
 A functional block diagram of the LA-2A is provided in Figure 3.  A brief overview of the operation will be provided here.  The input transformer provides isolation and impedance matching.  After this the signal is fed into both the side-chain circuit and the  gain reduction circuit.  The side-chain is comprised of a voltage amplifier, a pre-emphasis filter, and a driver stage which provides the voltage necessary to drive the electro-luminescent panel. This signal controls the gain of the compressor.  After the gain reduction circuit, the signal is sent through an Output Gain control and a two-stage output amplifier, followed by the output transformer. 
 
 
-![](la-2a_manual_assets/la-2a_manual.pdf-0013-02.png)
+![](../../attachments/la-2a_manual_assets--la-2a_manual.pdf-0013-02--53faf618040624ab.png)
 
 
 **----- Start of picture text -----**<br>
@@ -287,7 +287,7 @@ Electro-luminescent<br>Panel<br>Photo-Electric Cell<br>**----- End of picture te
 
 
 
-![](la-2a_manual_assets/la-2a_manual.pdf-0013-03.png)
+![](../../attachments/la-2a_manual_assets--la-2a_manual.pdf-0013-03--305c8054187acd31.png)
 
 
 _**Figure 4 - Diagram of the T4 electro-optical cell.**_ 
@@ -305,7 +305,7 @@ As depicted in Figure 5, the photo-cell is used to control the gain of the circu
 stage.  To see why this is true, we can look at the extreme cases.  If the resistance is extremely high (this is the case when there is a small input signal and the light is off) then the photo-cell does not affect the circuit and there is no gain reduction.  The second case we can look at is when there is a large signal present.  In this condition, the light shines brightly and the photo-cell exhibits very low resistance.  If the resistance of the photo-cell becomes zero (a dead short), then the signal would be grounded and there would be no output.  In reality, the photo-cell resistance can not go completely to zero and hence there will always be some signal present. 
 
 
-![](la-2a_manual_assets/la-2a_manual.pdf-0014-01.png)
+![](../../attachments/la-2a_manual_assets--la-2a_manual.pdf-0014-01--a0c8797d7ae78ff9.png)
 
 
 **----- Start of picture text -----**<br>
@@ -329,7 +329,7 @@ The next aspect is the “memory” of the cell.  This results in two important 
 The amount of compression, as well as the compression threshold, is controlled by the “Peak Reduction” potentiometer.  This potentiometer controls the gain of the side-chain circuit.  The greater the gain of this circuit, the lower the threshold and the greater the amount of compression will be.  Many modern limiters and compressors allow for the direct adjustment of the threshold.  Other units such as the 1176LN use a fixed threshold and provide an input level control, which adjusts the signal level before it is applied to the compression circuit.  In contrast, the LA-2A, while also having a fixed threshold, does not control the input level, but rather controls the amount of side chain gain applied to the input signal. 
 
 
-![](la-2a_manual_assets/la-2a_manual.pdf-0015-03.png)
+![](../../attachments/la-2a_manual_assets--la-2a_manual.pdf-0015-03--6736dc8b02229e8c.png)
 
 
 **----- Start of picture text -----**<br>
@@ -349,7 +349,7 @@ Subsequent to the filter, a 6AQ5 provides the signal necessary to drive the elec
 ## _**Output Circuit**_ 
 
 
-![](la-2a_manual_assets/la-2a_manual.pdf-0016-04.png)
+![](../../attachments/la-2a_manual_assets--la-2a_manual.pdf-0016-04--d6b924667395b565.png)
 
 
 **----- Start of picture text -----**<br>

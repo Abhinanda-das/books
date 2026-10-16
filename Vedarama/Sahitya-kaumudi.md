@@ -1047,7 +1047,7 @@ The six kinds of Indication, with examples, are as follows:
 
 However, in his commentary on the above sutra, Visvanatha Kaviraja says these six categories apply both to purposeful figurative
 
-![рис-001.jpg|1044](<Sahitya-kaumudi/рис-001.jpg>)
+![рис-001.jpg|1044](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-001--dc1415d8e3914ae1.jpg>)
 
 and to conventional figurative usage, for a total of sixteen varieties of Indication. Visvanatha Kaviraja’s eight basic types of figurative usage, whether conventional or purposeful, are as follows (sixteen in total):
 
@@ -3792,7 +3792,7 @@ bhedah—varieties; astadasa—eighteen; asya—of it (of dhvani); tat—therefo
 
 **Комментарий:**
 
-![рис-002.jpg|742](<Sahitya-kaumudi/рис-002.jpg>)
+![рис-002.jpg|742](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-002--7401d10ab9403481.jpg>)
 
 (vastu and alahkara) of sabda-sakti-bhu dhvani, the twelve varieties of artha-sakti-bhu dhvani—in the three main subdivisions of svatah-sambhavi, kavi-praudhokti-siddha, and kavi-kalpita-vaktr- praudhokti-siddha—and the one type of ubhaya-sakti-bhu dhvani.
 
@@ -9773,7 +9773,7 @@ vina—\[is fascinating like\] a lute; vanl—she whose speech; sundarl— of be
 
 **The Sword**
 
-![рис-003.jpg|515](<Sahitya-kaumudi/рис-003.jpg>)
+![рис-003.jpg|515](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-003--3dbd157ed6ab553f.jpg>)
 
 ### 9.39
 
@@ -9793,7 +9793,7 @@ gandha—by means of an aroma; akrsta—are attracted; guru- unmada—whose rapt
 
 **The Wheel**
 
-![рис-004.jpg|696](<Sahitya-kaumudi/рис-004.jpg>)
+![рис-004.jpg|696](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-004--3b158d33dd090363.jpg>)
 
 **This diagram contains the name of the poet, who is worthy of praise.**
 
@@ -9801,7 +9801,7 @@ gandha—by means of an aroma; akrsta—are attracted; guru- unmada—whose rapt
 
 The author of Krmanandim specifies that the following message is hidden in the verse: kr.sfia-siuiir asau mpa-viracita, “This praise of Кг^nа was composed by Rupa”:
 
-![рис-005.jpg|495](<Sahitya-kaumudi/рис-005.jpg>)
+![рис-005.jpg|495](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-005--282c7e1aaf612523.jpg>)
 
 ### 9.40
 
@@ -9821,7 +9821,7 @@ kala—are mellowly sweet; vakya—O You whose statements; sat—for sadhus; alo
 
 **The Lotus**
 
-![рис-006.jpg|754](<Sahitya-kaumudi/рис-006.jpg>)
+![рис-006.jpg|754](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-006--bf159290b2b505b5.jpg>)
 
 ### 9.41
 
@@ -9841,7 +9841,7 @@ rase—in the rasa dance; saran-ga—of bees (“they go to the essence”); san
 
 **The Snake**
 
-![рис-007.jpg|686](<Sahitya-kaumudi/рис-007.jpg>)
+![рис-007.jpg|686](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-007--afb244fbd6030b71.jpg>)
 
 ### 9.42
 
@@ -9861,7 +9861,7 @@ dhara—of showers of rain; asara—is like the hard shower; rasa— the rasa in
 
 **Sarvato-bhadra (good on each side)**
 
-![рис-008.jpg|608](<Sahitya-kaumudi/рис-008.jpg>)
+![рис-008.jpg|608](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-008--6852ff16b041c8a1.jpg>)
 
 ### 9.43
 
@@ -9881,7 +9881,7 @@ kuru—do make; larurii—O young woman; rusam—anger; na—not; upatapa—affl
 
 **The Necklace**
 
-![рис-009.jpg|671](<Sahitya-kaumudi/рис-009.jpg>)
+![рис-009.jpg|671](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-009--ac27321ea5506cc5.jpg>)
 
 ### 9.44
 
@@ -9901,7 +9901,7 @@ smara—you should remember; agha—of sin; nasi—the destroyer; bhasuram—shi
 
 **Go-mutrika (urination of a cow) (zig-zag)**
 
-![рис-010.jpg|665](<Sahitya-kaumudi/рис-010.jpg>)
+![рис-010.jpg|665](<../attachments/sahitya-kaumudi--%D1%80%D0%B8%D1%81-010--07633e3c2b35414b.jpg>)
 
 ***esa eva baddha-kapato mukta-kapato ’sva-gatis ca. evam anye ’pi bhedah samunneyah, nirasatvad grantha-gaurava-bhayac ca natra kartsnyena darsitah.***
 

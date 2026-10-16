@@ -7,11 +7,11 @@ word_count: 11224
 ---
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0001-00.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0001-00--1963713476cb51eb.png)
 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0001-01.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0001-01--d383fe8cdf440536.png)
 
 
 ## Thunderbolt 3 Audio Interface 
@@ -19,7 +19,7 @@ word_count: 11224
 with QUAD Core Realtime UAD Processing 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0001-04.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0001-04--c003dc1a30837983.png)
 
 
 ## **Apollo x4 Gen 2 Hardware Manual** 
@@ -27,7 +27,7 @@ with QUAD Core Realtime UAD Processing
 Manual Version 250902 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0001-07.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0001-07--ab52c4e428cb953a.png)
 
 
 www.uaudio.com 
@@ -49,7 +49,7 @@ Please feel free to reach out to us via our website www.uaudio.com, and via our 
 Sincerely, 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0002-08.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0002-08--3035ad2eee7ba35f.png)
 
 
 Bill Putnam Jr. 
@@ -127,7 +127,7 @@ Combine Apollo x4’s DSP processing with native processing from your computer t
 Build out your dream studio by linking up to four Thunderbolt Apollo interfaces for up to 128 channels of premium I/O, and control it all from your desktop using Apollo x4. So no matter how far your music takes you, an Apollo will always be in reach. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0005-08.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0005-08--098d722feaad08d1.png)
 
 
 _includes the Essentials+ or Studio+ Editions. Other UAD plug-ins available separately. All trademarks are property of their respective owners._ 
@@ -169,7 +169,7 @@ Introduction
 - Free industry-leading technical support from knowledgeable audio engineers 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0006-15.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0006-15--66d4a4c7c052564e.png)
 
 
 Apollo x4 Gen 2 Hardware Manual 
@@ -343,7 +343,7 @@ Note that UAD plug-in instantiations are not retained on power down, because the
 _Note: Standalone use is unavailable when cascading multiple Apollo units._ 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0010-08.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0010-08--1a46e294668cba8b.png)
 
 
 Apollo x4 Gen 2 Hardware Manual 
@@ -491,13 +491,13 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 ## _Does your USB-C connector support Thunderbolt 3?_ 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0014-10.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0014-10--dfa722ed40b56300.png)
 
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0014-12.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0014-12--b1ce62c5ffd7c6a6.png)
 
 
 _Thunderbolt icon on USB-C cable (left) and USB-C port (right)_ 
@@ -597,7 +597,7 @@ One typical Apollo x4 audio setup is illustrated below. For complete details abo
 _Tip: In the example below, the mics are connected to channels 3 and 4, so that the mics and the instruments (which are connected to channels 1 and 2) can be used at the same time._ 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0017-03.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0017-03--b4850666715958bc.png)
 
 
 **----- Start of picture text -----**<br>
@@ -605,7 +605,7 @@ Hi-Z Instruments Headphones<br>1 2 1 2<br>**----- End of picture text -----**<br
 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0017-04.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0017-04--14d2260134e8cc17.png)
 
 
 **----- Start of picture text -----**<br>
@@ -689,7 +689,7 @@ When Apollo x4 is in Preamp mode, the top panel controls are related to input fu
 _Important: Apollo x4 must be in Preamp mode to change preamp gain levels and other input options._ 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0019-11.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0019-11--f068e9ec440b59d4.png)
 
 
 _Note: Output functions (monitor and headphone) cannot be performed in Preamp mode. Press the MONITOR button to perform output functions._ 
@@ -713,7 +713,7 @@ Controls & Connectors
 The currently selected input channel (CH1, CH2, CH3, or CH4) is shown by the Select Channel Indicators at the upper left of the main display panel, above the input meters. When a channel is selected, its indicator is lit. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0020-02.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0020-02--7b26fe314f25280f.png)
 
 
 _Note: The preamp controls adjust the functions for the currently selected channel._ 
@@ -729,7 +729,7 @@ The Mic, Line, or Hi-Z input source is routed into the channel’s preamplifier.
 The MIC (XLR) or LINE (¼”) combo inputs on the rear panel are selected by the pressing the INPUT button when the channel is selected. The HI-Z input (available on channels 1 and 2 only) is selected automatically when an instrument cable is plugged into a Hi-Z input on the front panel. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0020-09.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0020-09--bdd5073f9cc2d922.png)
 
 
 _Note: Only one input jack at a time (Mic, Line, or Hi-Z) can be used as a channel’s input source._ 
@@ -743,7 +743,7 @@ The Level knob adjusts the amount of preamp gain (input signal level) for the cu
 Each input channel has a set of preamp options. The preamp options for the currently selected input channel are activated using the row of six buttons when in Preamp mode. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0020-15.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0020-15--63c2aca83e9484c8.png)
 
 
 The current state of the preamp options are indicated in the upper row of the options display area above the six option buttons. Available options are dim when inactive, bright when enabled, and unlit when unavailable. 
@@ -763,7 +763,7 @@ When Apollo x4 is in Monitor mode, top panel controls are related to output func
 _Note: Input functions cannot be performed in Monitor mode. Press the PREAMP button to perform input functions._ 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0021-03.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0021-03--d07e3403af691bfa.png)
 
 
 _Important: Apollo x4 must be in Monitor mode to change the volume of the monitor/ headphone outputs and other output options._ 
@@ -783,7 +783,7 @@ The Level knob is used to set the volume level for each stereo output independen
 The currently selected stereo output is shown by the HP1, HP2, and MONITOR indicators at the right of the main display, above the output meters. When a stereo output is selected, its indicator is lit. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0021-12.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0021-12--445e7d80dd737b80.png)
 
 
 _Note: The Level knob adjusts the volume for the currently selected stereo output._ 
@@ -797,7 +797,7 @@ When in Monitor mode, press the MONITOR button repeatedly to change the selected
 Apollo x4 has monitor options that perform the functions of a dedicated monitor controller. The monitor options are controlled using the row of six buttons when in Monitor Mode. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0021-18.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0021-18--6246e671976bd182.png)
 
 
 The current state of the monitor options are indicated in the lower row of the options display area above the six option buttons. Available options are dim when inactive, bright when enabled, and unlit when unavailable. 
@@ -815,7 +815,7 @@ Controls & Connectors
 Refer to the illustration below for numbered control descriptions in this section. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0022-02.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0022-02--f8caf77f25ba1efa.png)
 
 
 **----- Start of picture text -----**<br>
@@ -833,7 +833,7 @@ When in PREAMP Mode, rotate clockwise to increase the amount of preamp gain for 
 ## Unison Integration 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0022-08.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0022-08--04a2a41de349dfba.png)
 
 
 The Level knob can also be used to control Unison-enabled UAD preamp, guitar/bass amp, and pedal plug-in parameters. See the UAD Console Manual for complete Unison details. 
@@ -909,13 +909,13 @@ Each of the six Option Buttons has dual functions. In Preamp mode, the buttons c
 ## Unison Integration 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0024-09.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0024-09--dcbddd2c56b5566f.png)
 
 
 In Preamp mode, the Option Buttons can also be used to control Unison-enabled UAD preamp, guitar/bass amp, and pedal plug-in parameters. See the UAD Console Manual for complete Unison details. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0024-11.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0024-11--c6d67d0868e8e898.png)
 
 
 _Options Display (7) and Option Buttons (8)_ 
@@ -935,7 +935,7 @@ A preamp option is active when its indicator in the upper row of the Options Dis
 _Note: In MONITOR mode, the preamp options cannot be modified and the upper row of the Options Display is unlit._ 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0025-04.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0025-04--8c4edd4789097164.png)
 
 
 **----- Start of picture text -----**<br>
@@ -943,7 +943,7 @@ a b c d e f<br>**----- End of picture text -----**<br>
 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0025-05.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0025-05--76078363ad1e0b24.png)
 
 
 ## _Preamp options_ 
@@ -997,11 +997,11 @@ The TALK, DIM, ALT, and FCN functions are configured in the companion UAD Consol
 _Note: In Preamp mode, the monitor options cannot be modified and the lower row of the Options Display is unlit._ 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0026-05.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0026-05--e00c840f15245213.png)
 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0026-06.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0026-06--4058dacdbc4940f6.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1047,7 +1047,7 @@ _Note: MUTE does not apply to the headphone outputs. Headphone outputs cannot be
 Refer to the illustration below for numbered control descriptions in this section. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0027-05.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0027-05--10c1c31af1f99254.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1087,7 +1087,7 @@ Apollo x4 Gen 2 Hardware Manual
 Controls & Connectors 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0028-00.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0028-00--5644bf300b2bba32.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1285,7 +1285,7 @@ Apollo x4 Gen 2 Hardware Manual
 32 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0033-00.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0033-00--c3ca91a2f9ad9bac.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1301,7 +1301,7 @@ Apollo x4 Gen 2 Hardware Manual
 ## Hardware Block Diagram 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0034-01.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0034-01--baedc34ca69f9919.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1319,7 +1319,7 @@ Apollo x4 Gen 2 Hardware Manual
 If Apollo x4 isn’t behaving as expected, some common troubleshooting items to confirm are below. If you are still experiencing issues after performing these checks, contact Technical Support. 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0035-02.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0035-02--9df24b07e1a95b25.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1364,7 +1364,7 @@ Troubleshooting
 ## **Notices** 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0036-01.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0036-01--268e136a57b9b260.png)
 
 
 ## Important Safety Information 
@@ -1424,7 +1424,7 @@ The product is covered by a limited warranty. For the current terms of such warr
 ## Maintenance 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0037-04.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0037-04--65f03a2784f43b81.png)
 
 
 **CAUTION:** To reduce the risk of electric shock, do not open the unit. 
@@ -1536,7 +1536,7 @@ Apollo x4 Gen 2 Hardware Manual
 ## Product Label 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0040-08.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0040-08--ecd3e7fb4c214c05.png)
 
 
 40 
@@ -1608,7 +1608,7 @@ Technical Support
 Universal Audio 
 
 
-![](Apollo+x4+Gen+2+Hardware+Manual+250902_assets/Apollo+x4+Gen+2+Hardware+Manual+250902.pdf-0043-00.png)
+![](../../attachments/apollo-x4-gen-2-hardware-manual-250902_assets--apollo-x4-gen-2-hardware-manual-250902.pdf-0043-00--d21473e79eeda989.png)
 
 
 www.uaudio.com 

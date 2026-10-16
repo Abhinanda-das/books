@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bvp"
 ---
 
-![обложка|156](<Brahma-vaivarta Purāṇa [San & Eng] incomplete/обложка.jpeg>)
+![обложка|156](<../attachments/brahma-vaivarta-pur%C4%81%E1%B9%87a-san-eng-incomplete--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--e07de80c41d79b49.jpeg>)
 
 Brahma Vaivarta Purana is one of the eighteen Puranas. It is divided into four parts. The first part deals with the creation of the universe and all beings, the second parts gives the description and history of various goddesses. The third part deals with the life and deeds of Ganesha and the fourth part describes the life and deeds of Lord Krishna.
 

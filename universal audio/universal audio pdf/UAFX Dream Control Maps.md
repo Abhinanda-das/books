@@ -9,7 +9,7 @@ word_count: 144
 ## SPEAKER MODES 
 
 
-![](<UAFX Dream Control Maps_assets/UAFX_Dream_Control_Maps.pdf-0001-01.png>)
+![](<../../attachments/uafx-dream-control-maps_assets--uafx_dream_control_maps.pdf-0001-01--c7edb9722e4c3b9d.png>)
 
 
 **----- Start of picture text -----**<br>

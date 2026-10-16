@@ -49,7 +49,7 @@ The minimal controls on dbx 160 make it simple to operate.
 
  
 
-![dbx 160 interface](dbx%20160%20Compressor%20Manual_assets/cace71a3c5a1a24f0f824ad5638b57782a3a83f8.png)
+![dbx 160 interface](../../attachments/dbx-160-compressor-manual_assets--cace71a3c5a1a24f0f824ad5638b57782a3a83f8--c9cb4318c1c9d57b.png)
 
 *dbx 160*
 
@@ -119,7 +119,7 @@ The plug-in is active when the POWER switch is engaged and the VU Meter is lit. 
 
 When POWER is Off, the plug-in uses no processor or DSP. When the UAD plug-in is set to Off and UAD-2 DSP LoadLock is inactive, UAD DSP usage is reduced.
 
-![dbx-160-hero.png](dbx%20160%20Compressor%20Manual_assets/a640defbbf40edde03cf05f6352b131e38210067.png)
+![dbx-160-hero.png](../../attachments/dbx-160-compressor-manual_assets--a640defbbf40edde03cf05f6352b131e38210067--d946da0a0d58667f.png)
 
 *Original dbx 160 hardware*
 

@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sc"
 ---
 
-![обложка|156](<A Second Chance/обложка.jpeg>)
+![обложка|156](<../attachments/a-second-chance--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1f809ba0cb93bb90.jpeg>)
 
 During the winter of 1970-71, Srila Prabhupada was traveling in India with some of his Western disciples. They had heard him speak about Ajamila several times, and at their request he gave a systematic series of lectures on Ajamila's history. This book includes the original Bhagavatam verses outlining Ajamila's NDE, selections from Srila Prabhupada's published commentary, and excerpts from transcriptions of his lectures during the '70-71 India tour.
 

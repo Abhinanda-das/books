@@ -82,7 +82,7 @@ To balance audio levels in LUNA's mixer, you can use:
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![volume-with-fader.png](Mixing%20in%20LUNA_assets/ffb8a32a4160bbcc29dc0f6a64a651bb7dbebbc5.png)
+![volume-with-fader.png](../../attachments/mixing-in-luna_assets--ffb8a32a4160bbcc29dc0f6a64a651bb7dbebbc5--4c712f2a90d7f0a9.png)
 
 </div>
 
@@ -96,7 +96,7 @@ Note that after entry, the value in the track controls shows the nearest whole v
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![volume--track-controls-slider.png](Mixing%20in%20LUNA_assets/e4d4f4ea365697f8ff11b5004fa30e5e7a11fde8.png)
+![volume--track-controls-slider.png](../../attachments/mixing-in-luna_assets--e4d4f4ea365697f8ff11b5004fa30e5e7a11fde8--3bb44fd2976928a8.png)
 
 </div>
 
@@ -112,7 +112,7 @@ Clip gain allows a wide range of adjustment, from -144 dB to +48 dB. As you adju
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![clip-gain-slider-text.png](Mixing%20in%20LUNA_assets/b9cd42381cd3235a07f13aff415e9d053acebcad.png)
+![clip-gain-slider-text.png](../../attachments/mixing-in-luna_assets--b9cd42381cd3235a07f13aff415e9d053acebcad--8f42a407e3b871d5.png)
 
 </div>
 
@@ -120,7 +120,7 @@ Clip gain allows a wide range of adjustment, from -144 dB to +48 dB. As you adju
 
 You pan a track to locate the track in the stereo field. In LUNA, a track can be mono or stereo, and you can pan tracks differently based on the track format. Use the pan knobs to pan the tracks to the left or right of the stereo image. A mono track has a single pan knob, while a stereo track has two pan controls–one for the left track, and one for the right track.
 
-![panning.png](Mixing%20in%20LUNA_assets/66b1d239d78fffa7489c0536ae6fb0a018837e42.png)
+![panning.png](../../attachments/mixing-in-luna_assets--66b1d239d78fffa7489c0536ae6fb0a018837e42--8a0b04d822096bd7.png)
 
 ### To pan a track in the mixer
 
@@ -130,7 +130,7 @@ You pan a track to locate the track in the stereo field. In LUNA, a track can be
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![simple-stereo-pan.png](Mixing%20in%20LUNA_assets/73cde6366be66378f6520d3b56f3193d49579bac.png)
+![simple-stereo-pan.png](../../attachments/mixing-in-luna_assets--73cde6366be66378f6520d3b56f3193d49579bac--9f9b472be87b39f0.png)
 
 </div>
 
@@ -142,7 +142,7 @@ In the track controls for each track, you can double-click and drag on the pan s
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![pan-controls-timeline.png](Mixing%20in%20LUNA_assets/d4e71262f4e36c9c0e2374289bfced8c180d7386.png)
+![pan-controls-timeline.png](../../attachments/mixing-in-luna_assets--d4e71262f4e36c9c0e2374289bfced8c180d7386--695ce06731eba40a.png)
 
 </div>
 
@@ -158,7 +158,7 @@ The Bus Spill control is a feature on a bus track and the Main track that allows
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![bus-spilled.png](Mixing%20in%20LUNA_assets/e6692e2b87d69c085294b97cf86c296cc11d95a5.png)
+![bus-spilled.png](../../attachments/mixing-in-luna_assets--e6692e2b87d69c085294b97cf86c296cc11d95a5--9ade720d0bea7173.png)
 
 </div>
 
@@ -166,17 +166,17 @@ The Bus Spill control is a feature on a bus track and the Main track that allows
 
 You can click at the top of the mixer fader section to compact the mixer faders, and allow more space to work with the mixer slots. Click again to expand the mixer faders to full height. You can also toggle this setting with the menu item View \> Compact Monitor Faders.
 
-![compact-mixer-faders.png](Mixing%20in%20LUNA_assets/6433e35763ace8b78fcd1f6ccb17289ae5c0cd3e.png)
+![compact-mixer-faders.png](../../attachments/mixing-in-luna_assets--6433e35763ace8b78fcd1f6ccb17289ae5c0cd3e--54730f1eaf0f9caa.png)
 
 ## Showing or hiding Mixer faders
 
 You can toggle faders in the mixer to show more of LUNA's controls when screen area is limited. Select or clear the FADERS item in the Mixer Navigation area to show or hide the faders.
 
-![luna-hiding-faders.png](Mixing%20in%20LUNA_assets/82e76350a0a9dd957ad4a0935993286131b15b1e.png)
+![luna-hiding-faders.png](../../attachments/mixing-in-luna_assets--82e76350a0a9dd957ad4a0935993286131b15b1e--87872c2ad13c72a5.png)
 
 *Faders hidden in the Mixer*
 
-![luna-showing-faders.png](Mixing%20in%20LUNA_assets/f85ebe4e2a2801e40ce9d5a2acc0f8a3a0b4421f.png)
+![luna-showing-faders.png](../../attachments/mixing-in-luna_assets--f85ebe4e2a2801e40ce9d5a2acc0f8a3a0b4421f--5072a0cc8a49abfe.png)
 
 *Faders shown in the Mixer*
 
@@ -193,7 +193,7 @@ You can scroll in the Mixer view using the arrow keys.
 
 You can use the Utility row tools on any LUNA channel to trim the track after console summing, and before tape, plug-ins, or channel faders by as much as +12 dB or -144 dB. In the Utility row and on the channel fader you can invert polarity 180º for any track. You can delay a track by .1–1000 milliseconds. You can adjust linked stereo channels or unlink them to invert polarity or adjust trims independently.
 
-![utility-row-callouts.png](Mixing%20in%20LUNA_assets/f4bb1667a12922c1748b342b0875df397da0eaa2.png)
+![utility-row-callouts.png](../../attachments/mixing-in-luna_assets--f4bb1667a12922c1748b342b0875df397da0eaa2--f100beb06b999cf3.png)
 
 <div title="Attachment">
 
@@ -203,7 +203,7 @@ Polarity invert is also available at the track fader.
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![invert-polarity-fader.png](Mixing%20in%20LUNA_assets/da17a78dad2f981835c5f80c9b89bbf2eff28e6b.png)
+![invert-polarity-fader.png](../../attachments/mixing-in-luna_assets--da17a78dad2f981835c5f80c9b89bbf2eff28e6b--81305d66bd29397c.png)
 
 </div>
 
@@ -213,7 +213,7 @@ Polarity invert is also available at the track fader.
 
     <div title="Attachment">
 
-    ![utility-row-show-expand.png](Mixing%20in%20LUNA_assets/9efcb1e720fcbfb2cbdabc111a4fe67aa8565cc2.png)
+    ![utility-row-show-expand.png](../../attachments/mixing-in-luna_assets--9efcb1e720fcbfb2cbdabc111a4fe67aa8565cc2--a6151bb9f8765aae.png)
 
     </div>
 
@@ -221,7 +221,7 @@ Polarity invert is also available at the track fader.
 
     <div title="Attachment">
 
-    ![trim-value-set.png](Mixing%20in%20LUNA_assets/86a95cf17d5bba82b2eb3d6030f2c4e5d79d1ca2.png)
+    ![trim-value-set.png](../../attachments/mixing-in-luna_assets--86a95cf17d5bba82b2eb3d6030f2c4e5d79d1ca2--a0526cb7f4578a8f.png)
 
     </div>
 
@@ -233,7 +233,7 @@ To reset the Trim value, Option-click the Trim level.
 
     <div title="Attachment">
 
-    ![utility-row-show-expand.png](Mixing%20in%20LUNA_assets/9efcb1e720fcbfb2cbdabc111a4fe67aa8565cc2.png)
+    ![utility-row-show-expand.png](../../attachments/mixing-in-luna_assets--9efcb1e720fcbfb2cbdabc111a4fe67aa8565cc2--a6151bb9f8765aae.png)
 
     </div>
 
@@ -241,7 +241,7 @@ To reset the Trim value, Option-click the Trim level.
 
     <div title="Attachment">
 
-    ![reverse-polarity-utility-row.png](Mixing%20in%20LUNA_assets/18dfada3fbbed7cd3b1187c286b978f9479ace64.png)
+    ![reverse-polarity-utility-row.png](../../attachments/mixing-in-luna_assets--18dfada3fbbed7cd3b1187c286b978f9479ace64--6460787e9068f984.png)
 
     </div>
 
@@ -249,7 +249,7 @@ To reset the Trim value, Option-click the Trim level.
 
     <div title="Attachment">
 
-    ![invert-polarity-fader.png](Mixing%20in%20LUNA_assets/da17a78dad2f981835c5f80c9b89bbf2eff28e6b.png)
+    ![invert-polarity-fader.png](../../attachments/mixing-in-luna_assets--da17a78dad2f981835c5f80c9b89bbf2eff28e6b--81305d66bd29397c.png)
 
     </div>
 
@@ -259,7 +259,7 @@ To reset the Trim value, Option-click the Trim level.
 
     <div title="Attachment">
 
-    ![utility-row-show-expand.png](Mixing%20in%20LUNA_assets/9efcb1e720fcbfb2cbdabc111a4fe67aa8565cc2.png)
+    ![utility-row-show-expand.png](../../attachments/mixing-in-luna_assets--9efcb1e720fcbfb2cbdabc111a4fe67aa8565cc2--a6151bb9f8765aae.png)
 
     </div>
 
@@ -267,7 +267,7 @@ To reset the Trim value, Option-click the Trim level.
 
     <div title="Attachment">
 
-    ![hover-utility-unlink.png](Mixing%20in%20LUNA_assets/9ca6a02f644a63106dc97528e1c94cf10c00f92e.png)
+    ![hover-utility-unlink.png](../../attachments/mixing-in-luna_assets--9ca6a02f644a63106dc97528e1c94cf10c00f92e--1cbd50a9c7171d2d.png)
 
     </div>
 
@@ -281,7 +281,7 @@ Hover over the TRIM area again and click LINK to relink the tracks.
 
     <div title="Attachment">
 
-    ![utility-row-show-expand.png](Mixing%20in%20LUNA_assets/9efcb1e720fcbfb2cbdabc111a4fe67aa8565cc2.png)
+    ![utility-row-show-expand.png](../../attachments/mixing-in-luna_assets--9efcb1e720fcbfb2cbdabc111a4fe67aa8565cc2--a6151bb9f8765aae.png)
 
     </div>
 
@@ -289,7 +289,7 @@ Hover over the TRIM area again and click LINK to relink the tracks.
 
     <div title="Attachment">
 
-    ![utility-track-delay-drag.png](Mixing%20in%20LUNA_assets/be6f37db49c6e43e23512636b624ed7126548331.png)
+    ![utility-track-delay-drag.png](../../attachments/mixing-in-luna_assets--be6f37db49c6e43e23512636b624ed7126548331--ae03a1932c3b47cc.png)
 
     </div>
 
@@ -297,7 +297,7 @@ Hover over the TRIM area again and click LINK to relink the tracks.
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![utility-track-delay-text.png](Mixing%20in%20LUNA_assets/54760723eea6dbe49afc0564a0907b6c4b05d3d0.png)
+![utility-track-delay-text.png](../../attachments/mixing-in-luna_assets--54760723eea6dbe49afc0564a0907b6c4b05d3d0--808217ea05f2415e.png)
 
 </div>
 
@@ -320,8 +320,8 @@ A custom dither algorithm is applied when exporting tracks to a format that requ
 ## To mix your LUNA session down to a stereo audio file
 
 1.  In Timeline view, select the length on the timeline or in the rulers that you want to mix down. **Note:** if you do not select a range of audio to mix down, mixdown starts from the beginning of the session, and ends after the end of all clips. \
-    ![mixdown-range.png](Mixing%20in%20LUNA_assets/4470e622710389a06b17dcfb6c33e040de594f58.png)
-2.  Select File \> Export \> Mixdown. The Mixdown browser appears. ![mixdown.png](Mixing%20in%20LUNA_assets/6b34b715f12e3e7318458f6d1635aaa79f5dec7c.png)
+    ![mixdown-range.png](../../attachments/mixing-in-luna_assets--4470e622710389a06b17dcfb6c33e040de594f58--47f0fab982e285fa.png)
+2.  Select File \> Export \> Mixdown. The Mixdown browser appears. ![mixdown.png](../../attachments/mixing-in-luna_assets--6b34b715f12e3e7318458f6d1635aaa79f5dec7c--ed41173ad9603494.png)
 3.  Choose the file type for the mixdown file.
 4.  For WAV or AIFF, choose the sample rate and bit depth for the mixed file. For an MP3 or AAC file, select VBR (variable bit rate) and quality, or CBR (continuous bit rate) and the bitrate in kbps.
 5.  To listen to your session during mixdown, choose the Real-Time Mixdown option. Note that the session will mix down faster if you deselect Real-Time Mixdown.
@@ -332,9 +332,9 @@ Files are automatically named with the name of the session, and the name of the 
 ## To mix down tracks and buses from a LUNA session
 
 1.  Define the range. In the Timeline view, highlight the section you want to export. If no range is selected, LUNA will mix down the entire session from the beginning.\
-    ![mixdown-range.png](Mixing%20in%20LUNA_assets/4470e622710389a06b17dcfb6c33e040de594f58.png)
+    ![mixdown-range.png](../../attachments/mixing-in-luna_assets--4470e622710389a06b17dcfb6c33e040de594f58--47f0fab982e285fa.png)
 
-2.  Open the Mixdown Dialog. Go to **File \> Export \> Mixdown** to open the settings window.![mixdown.png](Mixing%20in%20LUNA_assets/6b34b715f12e3e7318458f6d1635aaa79f5dec7c.png)
+2.  Open the Mixdown Dialog. Go to **File \> Export \> Mixdown** to open the settings window.![mixdown.png](../../attachments/mixing-in-luna_assets--6b34b715f12e3e7318458f6d1635aaa79f5dec7c--ed41173ad9603494.png)
 
 3.  Configure settings & sources. Adjust your preferences in the dialog:\
     **Format:** Choose your file type (WAV, AIFF, or AAC) and set the sample rate/bit depth.\
@@ -345,7 +345,7 @@ Files are automatically named with the name of the session, and the name of the 
 
 4.  Click **Export** to mix down files.
 
-5.  ![export-more-sources.png](Mixing%20in%20LUNA_assets/cd90b69ed615698c48c35ee492e59a9dfe6caf46.png)
+5.  ![export-more-sources.png](../../attachments/mixing-in-luna_assets--cd90b69ed615698c48c35ee492e59a9dfe6caf46--2aa51852d715da85.png)
 
 **Tip:** Click and drag to select multiple source checkboxes.
 
@@ -363,7 +363,7 @@ You can export individual audio clips as single files, multiple audio clips on t
 
 1.  In the Timeline view, click one or multiple audio clips to export.
 2.  Right-click an audio clip and select Export. You can also select one or more audio clips and press Command+Shift+K (macOS) / Ctrl+Shift+K (Windows), or choose the menu item File \> Export \> Clips. \
-    ![export-clip.png](Mixing%20in%20LUNA_assets/a79bbd8d5eefe0895eeeb8f8f16d6b63aac64476.png)
+    ![export-clip.png](../../attachments/mixing-in-luna_assets--a79bbd8d5eefe0895eeeb8f8f16d6b63aac64476--4097861172e38292.png)
 3.  While the Export dialog is open, select clips in your session you want to export. Each clip is added to the export list.
 4.  To remove a clip from the export list, click it again. **Tip:** you can click a clip in the Export browser to select and center that clip in the timeline.
 5.  Under Save To in the export browser, select the location where you want to export the clips by clicking the folder icon and choosing a location from the Finder.
@@ -380,7 +380,7 @@ Click the button for the bypassed item again to restore processing.
 
 To view the Monitor section, choose View \> Section \> Monitor from the LUNA menus.
 
-![monitor-column.png](Mixing%20in%20LUNA_assets/14462772e9f68c4c33c659f8f045a03f78162d9c.png)
+![monitor-column.png](../../attachments/mixing-in-luna_assets--14462772e9f68c4c33c659f8f045a03f78162d9c--115bd513e5f47f41.png)
 
 ------------------------------------------------------------------------
 
@@ -390,7 +390,7 @@ You can use the send slots to send audio from a track to a bus track, the main o
 
 Click on the send slot to open a list of send destinations in the Focus Browser on the left, to which you can route the send.
 
-![send-slots.png](Mixing%20in%20LUNA_assets/09f90f1f3b49704aa226e5f11e2fcedd62aeb46a.png)
+![send-slots.png](../../attachments/mixing-in-luna_assets--09f90f1f3b49704aa226e5f11e2fcedd62aeb46a--8dd012836b56192f.png)
 
 You can also send from a single send slot on a track to multiple buses. To assign a send slot to multiple outputs, click the Send assignment slot, then in the Sends browser, Shift-click or Command-click the outputs to assign. The send is then labeled with "Multiple."
 
@@ -398,7 +398,7 @@ After you add a send, the send appears in the mixer track, with a small set of s
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![send-single-multiple.png](Mixing%20in%20LUNA_assets/63ff5c22df1bed4cda193ef273a7c8458625a605.png)
+![send-single-multiple.png](../../attachments/mixing-in-luna_assets--63ff5c22df1bed4cda193ef273a7c8458625a605--7b7101b89057a50d.png)
 
 </div>
 
@@ -412,7 +412,7 @@ After you add a send, the send appears in the mixer track, with a small set of s
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![copy-mix-to-send.png](Mixing%20in%20LUNA_assets/82c9be2d7b3e2432514110a13ebe289acdbc7e3c.png)
+![copy-mix-to-send.png](../../attachments/mixing-in-luna_assets--82c9be2d7b3e2432514110a13ebe289acdbc7e3c--51259bed0c3ae951.png)
 
 </div>
 
@@ -422,7 +422,7 @@ After you add a send, the send appears in the mixer track, with a small set of s
 
 Hover your mouse over a send on a track to access send options. You can copy, paste, remove, mute, or unmute the current send or all sends. 
 
-![send-context-menu.png](Mixing%20in%20LUNA_assets/10979afb2860b401740ea0953386b8741b6c8cc5.png)
+![send-context-menu.png](../../attachments/mixing-in-luna_assets--10979afb2860b401740ea0953386b8741b6c8cc5--fae03964da0aca76.png)
 
 </div>
 
@@ -432,7 +432,7 @@ Hover your mouse over a send on a track to access send options. You can copy, pa
 
 Click the Large view box to to expand all sends in the selected slot in the LUNA mixer. You can also click the Large View icon on the left of the mixer window. Large view shows a Send fader instead of a knob, and also shows the Pan control or controls for the send. Use the Pan control or controls to pan the audio when routed to a stereo destination.
 
-![large-buses-with-button.png](Mixing%20in%20LUNA_assets/875fc45090fef9a902b2f379b680e90f92962fb4.png)
+![large-buses-with-button.png](../../attachments/mixing-in-luna_assets--875fc45090fef9a902b2f379b680e90f92962fb4--345d3660efffac95.png)
 
 ## Dragging, dropping, and disabling sends
 
@@ -440,7 +440,7 @@ Click the Large view box to to expand all sends in the selected slot in the LUNA
 
   <div title="Attachment">
 
-  ![drag-send.png](Mixing%20in%20LUNA_assets/c64b5bae10faff61162aaec7308b85b6c37af528.png)
+  ![drag-send.png](../../attachments/mixing-in-luna_assets--c64b5bae10faff61162aaec7308b85b6c37af528--e3aa210837894272.png)
 
   </div>
 
@@ -449,7 +449,7 @@ Click the Large view box to to expand all sends in the selected slot in the LUNA
   <div>
 
   Option-click (macOS) or Alt-click (Windows) and drag and drop a send to copy that send assignment, level and pan information to a different send track.\
-  ![option-drag-send.png](Mixing%20in%20LUNA_assets/a5738b549bdbeb3e43d038d8a998369fe99d0f03.png)
+  ![option-drag-send.png](../../attachments/mixing-in-luna_assets--a5738b549bdbeb3e43d038d8a998369fe99d0f03--b7038178964dc155.png)
 
   </div>
 
@@ -469,7 +469,7 @@ Click the Large view box to to expand all sends in the selected slot in the LUNA
 
 Right-click at the top of the Sends row on a track, and select Copy All to copy all send assignments from a track. You can then right-click at the top of the Sends row on another track and select Paste All from "*source*" to paste the sends from the track.
 
-![sends-copy-all.png](Mixing%20in%20LUNA_assets/82414f8a0bd1ab8801a5e81659348add38aa0205.png)
+![sends-copy-all.png](../../attachments/mixing-in-luna_assets--82414f8a0bd1ab8801a5e81659348add38aa0205--a862cd072c047adc.png)
 
 ------------------------------------------------------------------------
 
@@ -483,7 +483,7 @@ Use cue mix buses to create up to four custom stereo mixes that are separate fro
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![cues.png](Mixing%20in%20LUNA_assets/c69c3475cfc462ee186af8759b4c2e985e3329a1.png)
+![cues.png](../../attachments/mixing-in-luna_assets--c69c3475cfc462ee186af8759b4c2e985e3329a1--c3419597e19074a4.png)
 
 </div>
 
@@ -498,7 +498,7 @@ Click the Large view icon to expand the cues in a selected slot in the LUNA mixe
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![large-cues-with-button.png](Mixing%20in%20LUNA_assets/10bedec1d0ea8898ae1a019ebc9e4b68dcb2ec56.png)
+![large-cues-with-button.png](../../attachments/mixing-in-luna_assets--10bedec1d0ea8898ae1a019ebc9e4b68dcb2ec56--47fdb330ec595f88.png)
 
 </div>
 
@@ -510,7 +510,7 @@ The cues that are displayed and available are dependent on your Apollo hardware.
 
 2.  Choose the Cue to which you want to copy the mix.
 
-![copy-mix-to-cue.png](Mixing%20in%20LUNA_assets/d0e33d317388bad065b25498233e71ad1d6d1e2c.png)
+![copy-mix-to-cue.png](../../attachments/mixing-in-luna_assets--d0e33d317388bad065b25498233e71ad1d6d1e2c--350d1670981d00ce.png)
 
 ------------------------------------------------------------------------
 
@@ -526,7 +526,7 @@ You can change the track output, for example, to send a track's output directly 
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![outputs.png](Mixing%20in%20LUNA_assets/29e1c4c7a79691f14c4321d863cac0b44df82cb5.png)
+![outputs.png](../../attachments/mixing-in-luna_assets--29e1c4c7a79691f14c4321d863cac0b44df82cb5--b2421edc1e4bb58c.png)
 
 </div>
 

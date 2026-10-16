@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/krishna-karanamrita-3sat"
 ---
 
-![обложка|156](<Kṛṣṇa-karṇāmṛta. 3 śatakas [Eng]/обложка.jpeg>)
+![обложка|156](<../attachments/k%E1%B9%9B%E1%B9%A3%E1%B9%87a-kar%E1%B9%87%C4%81m%E1%B9%9Bta.-3-%C5%9Batakas-eng--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--6253b38aa33d53ea.jpeg>)
 
 # Kṛṣṇa-karṇāmṛta. 3 śatakas \[Eng\]
 

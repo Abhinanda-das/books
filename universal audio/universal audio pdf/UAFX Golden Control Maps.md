@@ -7,7 +7,7 @@ word_count: 157
 ---
 
 
-![](<UAFX Golden Control Maps_assets/UAFX_Golden_Control_Maps.pdf-0001-00.png>)
+![](<../../attachments/uafx-golden-control-maps_assets--uafx_golden_control_maps.pdf-0001-00--12dbcf770fe36e1c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -27,11 +27,11 @@ DECAY PREDELAY MIX DECAY PREDELAY MIX DECAY PREDELAY MIX<br>Stock Predelay Rever
 
 
 
-![](<UAFX Golden Control Maps_assets/UAFX_Golden_Control_Maps.pdf-0001-01.png>)
+![](<../../attachments/uafx-golden-control-maps_assets--uafx_golden_control_maps.pdf-0001-01--ebc771022b5256c8.png>)
 
 
 
-![](<UAFX Golden Control Maps_assets/UAFX_Golden_Control_Maps.pdf-0001-02.png>)
+![](<../../attachments/uafx-golden-control-maps_assets--uafx_golden_control_maps.pdf-0001-02--dfe5c19de4f72831.png>)
 
 
 **----- Start of picture text -----**<br>

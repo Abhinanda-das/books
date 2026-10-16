@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vs1"
 ---
 
-![обложка|156](<Bhagavata-Purana 1.1.1 with 2 commentari/обложка.png>)
+![обложка|156](<../attachments/bhagavata-purana-1.1.1-with-2-commentari--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--327c3a8bf2917810.png>)
 
 # Bhagavata-Purana 1.1.1 with 2 commentari
 

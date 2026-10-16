@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/nrisp"
 ---
 
-![обложка|156](<Narasiṁha-purāṇam [Eng]/обложка.jpeg>)
+![обложка|156](<../attachments/narasi%E1%B9%81ha-pur%C4%81%E1%B9%87am-eng--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--21ca2bae012c8736.jpeg>)
 
 Nrsimha Purana occupies an important place among the upa-Purans and like other Puranas, this is also considered to be compiled by Vyasa. On the contrary, every Purana dwells at length on one or more particular subjects and in some, five primary topics-(1) Primary creation or cosmogony (2) Secondary creation (3) genealogy of gods and patriarchs (4) reigns of the Manus (5) history of the solar and lunar dynasties. Nrsimha Purana also depicts these five topics, viz. It contains various episode of the incarnation of Lord Visnu; especially incarnation of Lord Rama. There are sixty-five chapters, which describe all topics related with Purana. It describes the story of Rishi Markandeya's victory over death and Yamagita. The form of devotion, definition of a true devotee and the character of devotees like Dhruva's has been described in this Puran. Despite of it being small it is pregnant with meaning.
 

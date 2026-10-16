@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ids-vl"
 ---
 
-![обложка|156](<Vraja Lila/обложка.jpeg>)
+![обложка|156](<../attachments/vraja-lila--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--ba4c1cf6ca006b85.jpeg>)
 
 On October 13, 1994, my dear disciple 19-year-old Vraja lila dasi left her body in Sri Vrindvana-dhama. By the mercy of Srila Prabhupada and Lord Krishna I was by her side, along with many other Vaisnavas, chanting the holy names.
 

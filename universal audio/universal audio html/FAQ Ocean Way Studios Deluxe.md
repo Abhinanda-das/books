@@ -12,7 +12,7 @@ word_count: 825
 <a href="https://www.uaudio.com/products/ocean-way-studios-deluxe" rel="noopener noreferrer" target="_blank"><strong><span class="wysiwyg-underline">Ocean Way Studios Deluxe</span></strong></a> is a fully redesigned and upgraded edition built on the original  **Ocean Way Studios UAD DSP plug-in**. Available natively (**UAD Native only**) via standalone purchase or as a part of our <a href="https://www.uaudio.com/products/uad-spark" rel="noopener noreferrer" target="_blank"><strong><span class="wysiwyg-underline">UAD Spark</span></strong></a> plug-in subscription, <a href="https://www.uaudio.com/products/ocean-way-studios-deluxe" rel="noopener noreferrer" target="_blank"><strong><span class="wysiwyg-underline">Ocean Way Studios Deluxe</span></strong></a> gives customers the complete, authentic sound of **Ocean Way’s Studio A and B rooms** — including classic mics, reverb chambers, and analog hardware — with unprecedented realism, thanks to UA's proprietary **Dynamic Room Modeling** technology.
 
 \
-![OWSD_Panel.png](FAQ%20Ocean%20Way%20Studios%20Deluxe_assets/f1024115cdfb978d0c6a16b2fe2caf128d33d54d.png)
+![OWSD_Panel.png](../../attachments/faq-ocean-way-studios-deluxe_assets--f1024115cdfb978d0c6a16b2fe2caf128d33d54d--3dc1b7b53be3a334.png)
 
 ### What's new in Ocean Way Studios Deluxe compared to Ocean Way Studios?
 

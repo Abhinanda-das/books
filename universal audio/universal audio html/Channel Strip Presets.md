@@ -9,7 +9,7 @@ word_count: 275
 # Channel Strip Presets
 
 
-![](Channel%20Strip%20Presets_assets/3e576ee7f1709a6960921e49be21b19b3b7fdf97.png)
+![](../../attachments/channel-strip-presets_assets--3e576ee7f1709a6960921e49be21b19b3b7fdf97--f172337485e2300f.png)
 
 *Channel strip presets in presets browser*
 
@@ -19,11 +19,11 @@ Channel strip presets can be accessed and managed through the dedicated channel 
 
 - To open the channel strip preset browser, click the **+** next to the Inserts label on a mixer channel, or right click the channel label and choose Channel Presets.
 
-![](Channel%20Strip%20Presets_assets/8f52b7cef20b597035c02b6878717ed3f4752a17.png)
+![](../../attachments/channel-strip-presets_assets--8f52b7cef20b597035c02b6878717ed3f4752a17--2a0d9358c914ffa3.png)
 
 - To manage presets from the Plug-Ins & Presets browser, click the Presets tab at the top of the Plug-Ins & Presets browser. If the Plug-Ins & Presets browser is not visible, choose View \> Section \> Browser from the UAD Console menus. 
 
-![presets-in-plugs-presets-browser.png](Channel%20Strip%20Presets_assets/2dba6dee9c14821c322a77f157453141f734a2ed.png)
+![presets-in-plugs-presets-browser.png](../../attachments/channel-strip-presets_assets--2dba6dee9c14821c322a77f157453141f734a2ed--4f3e776ac786e5ab.png)
 
 *Channel strip presets in Plug-Ins & Presets browser*
 

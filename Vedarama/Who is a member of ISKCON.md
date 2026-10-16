@@ -19,7 +19,7 @@ JUNE 13, 2012 · 3:57 PM
 
 Who is a member of ISKCON? #1
 
-![рис-001.bmp|531](<Who is a member of ISKCON/рис-001.bmp>)![⚠ картинки нет на сайте: рис-002.png](<>)​
+![рис-001.bmp|531](<../attachments/who-is-a-member-of-iskcon--%D1%80%D0%B8%D1%81-001--5378af64cfc89d27.bmp>)![⚠ картинки нет на сайте: рис-002.png](<>)​
 
 *A confusing sign on a door in India. And if everyone is included, what does ‘membership’ mean?*
 
@@ -65,7 +65,7 @@ More of this in the second part tomorrow.
 
 **Who is a member of ISKCON? #2**
 
-![рис-003.bmp|240](<Who is a member of ISKCON/рис-003.bmp>)
+![рис-003.bmp|240](<../attachments/who-is-a-member-of-iskcon--%D1%80%D0%B8%D1%81-003--0b3676b76baf5909.bmp>)
 
 *The ISKCON Apple. Its ‘Apple’ all the way through, but there’s a ‘core’ and a ‘skin’ and we need to know the difference.*![⚠ картинки нет на сайте: рис-004.png](<>)​
 
@@ -79,7 +79,7 @@ In an apple the core is the biological element that serves to create the next ap
 
 So it is the level of commitment – not only to developing ones personal spiritual potential but to sharing that and helping others – that will be influential in determining how any particular member will be instrumental in producing the next generation of members. And responsibility for producing the next generation of members is one way of identifying a member’s ‘layer’ within the ISKCON Apple.
 
-![рис-005.bmp|652](<Who is a member of ISKCON/рис-005.bmp>)
+![рис-005.bmp|652](<../attachments/who-is-a-member-of-iskcon--%D1%80%D0%B8%D1%81-005--568fea16fcfc8fd1.bmp>)
 
 Here is a diagram I am currently using to illustrate the membership ‘layers’ of ISKCON. It also looks like an apple. Previously I would have used a pyramid shape, but some of my readers said: “No, too hierarchical.” So here we are, a new, more rounded, way of looking at ISKCON. It won’t be the final diagram, of course, and I’ll take any suggestions my readers might have.
 
@@ -117,7 +117,7 @@ JUNE 14, 2012 · 8:54 PM
 
 Who is a member of ISKCON? #3
 
-![рис-006.bmp|292](<Who is a member of ISKCON/рис-006.bmp>)
+![рис-006.bmp|292](<../attachments/who-is-a-member-of-iskcon--%D1%80%D0%B8%D1%81-006--563633bc0fc4c59c.bmp>)
 
 In the past two posts I’ve written about some of the ways that people may self-identify as members of ISKCON; and I’ve also written something about ‘layers’ of membership defined by low or high commitment. Commitment, that is, to both personal spiritual practice and to sharing one’s spirituality with others – or resourcing those that do. I hope I haven’t been too presumptuous. ISKCON’s membership is important to me because I’ve spent a good part of my life trying to increase it – the better part of my life, actually – and I know that our founder would be happy with a large, flourishing membership. A big, juicy, healthy ISKCON apple.
 
@@ -147,7 +147,7 @@ JUNE 18, 2012 · 3:23 PM
 
 Who is a Member of ISKCON? #4
 
-![рис-007.bmp|323](<Who is a member of ISKCON/рис-007.bmp>)
+![рис-007.bmp|323](<../attachments/who-is-a-member-of-iskcon--%D1%80%D0%B8%D1%81-007--651fb31e7469b696.bmp>)
 
 ***Core, fruit or skin, where do I fit in?***
 
@@ -185,7 +185,7 @@ JUNE 20, 2012 · 12:01 PM
 
 Who is a member of ISKCON? #5
 
-![рис-008.bmp|682](<Who is a member of ISKCON/рис-008.bmp>)
+![рис-008.bmp|682](<../attachments/who-is-a-member-of-iskcon--%D1%80%D0%B8%D1%81-008--c43402e3b94cef7f.bmp>)
 
 ***Helicopter pilots.*** *Everyone is welcome to become a member of their group. But first: can you fly one?*
 
@@ -231,7 +231,7 @@ JUNE 20, 2012 · 8:57 PM
 
 Who is a Member of ISKCON? #6
 
-![рис-009.bmp|472](<Who is a member of ISKCON/рис-009.bmp>)
+![рис-009.bmp|472](<../attachments/who-is-a-member-of-iskcon--%D1%80%D0%B8%D1%81-009--da7190c7e4cbc0a4.bmp>)
 
 *The lineage of gurus in our sampradaya. Does initiation make us members of ISKCON?*
 
@@ -259,7 +259,7 @@ JUNE 21, 2012 · 2:48 PM
 
 Who is an ISKCON Member? #7
 
-![рис-010.bmp|500](<Who is a member of ISKCON/рис-010.bmp>)
+![рис-010.bmp|500](<../attachments/who-is-a-member-of-iskcon--%D1%80%D0%B8%D1%81-010--5dec49bce004ab3f.bmp>)
 
 *This is the last in a short series of posts about ISKCON membership. I hope you’ve found them either interesting or useful. Today I am talking about those who have closed the door behind them, and taken the ‘Way Out.’*
 

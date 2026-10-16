@@ -2820,7 +2820,7 @@ ya—who; pati—protects; apaya—in adversity; patitan—those who have fallen
 
 **The Lotus**
 
-![рис-001.jpg|678](<Versified History of Sanskrit Poetics/рис-001.jpg>)  
+![рис-001.jpg|678](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-001--a1637cdf48642068.jpg>)  
 The example of the sword diagram consists of two verses:
 
 *marari-sakra-ramebha-mukhair asara-ramhasa \|*  
@@ -2835,7 +2835,7 @@ mara-ari—by Siva (“Cupid’s enemy”); sakra—by Indra; rama— by Rama (P
 
 **The Sword**
 
-![рис-002.jpg|500](<Versified History of Sanskrit Poetics/рис-002.jpg>)
+![рис-002.jpg|500](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-002--2dfbd0a7462c248d.jpg>)
 
 This is the verse for the drum formation:
 
@@ -2850,7 +2850,7 @@ Commenting on Kavya-prakasa, Nagesa Bhatta says sarala (simple) means megha-nirm
 
 **The Muraja Drum**
 
-![рис-003.jpg|916](<Versified History of Sanskrit Poetics/рис-003.jpg>)
+![рис-003.jpg|916](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-003--5d0cacddb9152896.jpg>)
 
 Rudrata also wrote verses for other diagrams: the cudgel (musalam), the bow (dhanus), the arrow (Sara), the pike (sulam), the weapon (sakti), and the plough (hala). For his wheel diagram, he used eight verses: these six and the two for the sword illustration. In addition, he exemplified sarvato-bhadra (diagram of squares), pratilomanuloma (palindrome), and so forth.
 
@@ -2871,7 +2871,7 @@ Syntactical connection (prose order): (yah aham) linanah nanali- li-li lilili na
 
 **The Knight’s Tour**
 
-![рис-004.jpg|533](<Versified History of Sanskrit Poetics/рис-004.jpg>)
+![рис-004.jpg|533](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-004--8904af26d20b0796.jpg>)
 
 **I praise the compact armies whose commanders compliment those who divert themselves. My chariots are aligned, my men are backed up by manifold units, my superior is the reason the Earth has an amusement, and I have various types of soldiers: I do not melt. I am not deceitful, and my enemies shall perish.**
 
@@ -3509,7 +3509,7 @@ The Dhvanikara’s acceptance of Kumarila Bhatta’s tatparya, which implies the
 
 ## The Kashmiri Shaivite Tradition
 
-![рис-005.jpg|625](<Versified History of Sanskrit Poetics/рис-005.jpg>)
+![рис-005.jpg|625](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-005--e7159f5875b3e102.jpg>)
 
 The reason the Kashmiri Shaivites rejected Bhartrhari’s Sphota theory is that according to Bhartrhari, the phonemes of a word are unreal. The Kashmiri Shaivites cannot accept this because it implies that the world is unreal, whereas in their view the world is real, since it is a manifestation of Siva.
 
@@ -3915,7 +3915,7 @@ Bhoja cites verses of citra-kavya by specifying that Rajasekhara is the author. 
 
 **Dvi-srngataka**
 
-![рис-006.jpg|404](<Versified History of Sanskrit Poetics/рис-006.jpg>)
+![рис-006.jpg|404](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-006--5fa0f1198c1b1010.jpg>)
 
 The six syllables in the inner circle of the diagram denote the author’s name in the genitive case (“it belongs to”). kara-asanja—O you who make rays (or a hand) adhere; vasa- isam—to Siva, who has control; kha—in the sky; gaurava—O you who have venerability; sya—destroy; kala-rasam—the relishment of a fraction; samdhaya—after joining; bala-yam—which is attaining force; sankam—fear, doubt; agaurim—gloomy (“not bright”); me—my; vana—is in water; atmaka—O you whose body.
 
@@ -3957,7 +3957,7 @@ In addition, he made up the threefold rule of Indication, accepted by Abhinavagu
 
 Mukula’s four categories of Denotation (jati, guna, kriya, yadrccha), as stated by Patanjali, and six categories of Indication were virtually copied by Mammata. The two diagrams below show the similarities between Mukula’s six categories of figurative usage and Mammata’s six varieties:
 
-![рис-007.jpg|653](<Versified History of Sanskrit Poetics/рис-007.jpg>)
+![рис-007.jpg|653](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-007--7820069479dab04e.jpg>)
 
 Mukula Bhatta subdivided purposeful figurative usage (prayojana- vati laksana) and conventional figurative usage (rudhi-laksana), but Mammata did not subdivide the latter. Visvanatha Kaviraja partly followed Mukula by subdividing it in almost the same way Mammata subdivided the former. In the second chapter of Kavya- prakasa, Mammata gave these examples of purposeful figurative usage:
 
@@ -5613,7 +5613,7 @@ Notably, in the fifth chapter Vopadeva establishes eighteen subdivisions of bhak
 
 ## Eighteen Subdivisions of Bhakti
 
-![рис-008.png|600](<Versified History of Sanskrit Poetics/рис-008.png>)
+![рис-008.png|600](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-008--68be18ac095d9e53.png>)
 
 1 In this regard, in Mukta-phala 5.12 Vopadeva cites the verses beginning from: lakyayam bhakti-yogasya I'lirgimasya (Bhagavatam 3.29.12).
 
@@ -5884,7 +5884,7 @@ mara—of Cupid; ma—the mother; susama—very beautiful; caru—lovely; ruca�
 
 **May Rama not become averse to me. She, the mother of Cupid, is very beautiful. She does not dwell in the house of a very mischievous person. On account of her lovely radiance, she is superior to Cupid’s wife. (10.135)**
 
-![рис-009.jpg|500](<Versified History of Sanskrit Poetics/рис-009.jpg>)
+![рис-009.jpg|500](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-009--828fce1192533851.jpg>)
 
 **Karuna-rasa**
 
@@ -6265,7 +6265,7 @@ tanutam—the littleness; tanutam—may it cause; radha-krsnayoh— of Radha and
 
 **May the hearing of Radha’s and Krishna’s pastimes, which conveys the flow of an ocean of nectar, dispel the afflictions of the heart. All of you should praise a prolonged hearing of that sort. (7.83)**
 
-![рис-010.jpg|600](<Versified History of Sanskrit Poetics/рис-010.jpg>)
+![рис-010.jpg|600](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-010--a70c84c7a9bdf962.jpg>)
 
 Kavi Kamapura’s section on varna-citra (verses of few consonants) rivals Rupa Gosvami’s (in Stavamala). This is a verse where each line has only one consonant:
 
@@ -6508,7 +6508,7 @@ Jagannatha was born around 1590 CE in Tailanga (Telangana), a region formerly in
 
 At the outset of his Manorama-kuca-mardana, Jagannatha indicates that he also studied from Sesa Viresvara Pandita, who had taught his father. This diagram by Durga-prasada shows the connection between the greats in Varanasi in those days (KM edition, Introduction, p. 6):
 
-![рис-011.jpg|500](<Versified History of Sanskrit Poetics/рис-011.jpg>)
+![рис-011.jpg|500](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-011--e7b319935244e0b8.jpg>)
 
 Nagesa Bhatta wrote Marma-prakasa, a commentary on Rasa- gangadhara. In his invocatory verse, he bows to Gangadhara, his teacher. Jagannatha mentions Gangadhara in another one of his books. Har Dutt Sharma says the Gangadhara mentioned by Jagannatha is the same as the Gangadhara who was Nagesa’s teacher.
 
@@ -7091,7 +7091,7 @@ To fit the diagram, mihira-vrata in the third line should read mihiri-vrata. The
 
 **The Snake**
 
-![рис-012.jpg|600](<Versified History of Sanskrit Poetics/рис-012.jpg>)
+![рис-012.jpg|600](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-012--1f410006685e85f0.jpg>)
 
 This is the example of the zigzag diagram (go-mutrika-bandha):
 
@@ -7102,7 +7102,7 @@ This is the example of the zigzag diagram (go-mutrika-bandha):
 
 **Zigzag**
 
-![рис-013.jpg|600](<Versified History of Sanskrit Poetics/рис-013.jpg>)
+![рис-013.jpg|600](<../attachments/versified-history-of-sanskrit-poetics--%D1%80%D0%B8%D1%81-013--c8af889a10e73690.jpg>)
 
 The themes in the chapters sire: (I) Meyers, (II) The; essence (sara), (III) Slesa, (IV) Yamaka, (V) Citra-kavya, (VI) Gupti, (VII) Dramaturgy, (VIII) Nayaka, srngdra-ndyika, and the four vrttis (Kaisiki, Arabhati, Sattviki, Bharati), (IX) Rasa and its constituents, (X) Ornaments of sound, ornaments of meaning (including lesser- known ones such as lalita), categories of first-rate implied sense, categories of second-rate implied sense, and (XI) Miscellaneous topics.
 

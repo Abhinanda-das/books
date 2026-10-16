@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/asocottc"
 ---
 
-![обложка|156](<A Symphony of Commentaries on the Tenth Canto/обложка.jpeg>)
+![обложка|156](<../attachments/a-symphony-of-commentaries-on-the-tenth-canto--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--74612431d2ad6139.jpeg>)
 
 Srimad Bhagavatam is the nectar churned from the ocean of all revealed scriptures, the ripened fruit of the Vedas and its syllables rain pure love for the Almighty. This unalloyed spotless transcendental knowledge flows endlessly from Lord Krishna to the exalted and pure souls whose life and soul is Lord Krishna and such pure souls become a transparent medium for us to understand the intricate dynamics of the nectar of devotion and the nectarean Almighty Lord Sri Krishna. The treasured nectar of Bhagavatam has been impeccably churned by the scholarly stalwarts of Gaudiya Vaisnava lineage in the Symphony of Commentaries of the Tenth Canto of Srimad Bhagavatam.
 

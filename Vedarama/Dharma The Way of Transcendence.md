@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/dwt"
 ---
 
-![обложка|156](<Dharma The Way of Transcendence/обложка.jpeg>)
+![обложка|156](<../attachments/dharma-the-way-of-transcendence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--4a01f18bae0da405.jpeg>)
 
 Dharma, the Way of Transcendence is a compilation of lectures on human dharma that His Divine Grace A.C. Bhaktivedanta Swami Prabhupada gave during his 1972 tour of India. He says that every living being's dharma is service—no one can exist for a moment without serving someone or something else, even if it's only our mind and senses. But serving the Supreme Person is the one thing that can give the self genuine happiness.
 

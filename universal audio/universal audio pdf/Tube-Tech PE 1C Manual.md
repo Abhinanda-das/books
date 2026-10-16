@@ -6,7 +6,7 @@ tool_version: 1.10.2
 word_count: 1901
 ---
 
-![](<Tube-Tech PE 1C Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/tube-tech-pe-1c-manual_assets--page_0_picture_0--ee08f308e0fa5d14.jpeg>)
 
 ## **Softube User Manual**
 
@@ -60,15 +60,15 @@ Enable Enable/Activate the plug-in. Set to off for bypass.
 
 Setup Changes global options for all instances of that plug-in.
 
-![](<Tube-Tech PE 1C Manual_assets/_page_4_Picture_9.jpeg>)
+![](<../../attachments/tube-tech-pe-1c-manual_assets--page_4_picture_9--537566538a84de02.jpeg>)
 
-![](<Tube-Tech PE 1C Manual_assets/_page_4_Picture_10.jpeg>)
+![](<../../attachments/tube-tech-pe-1c-manual_assets--page_4_picture_10--f37407ec56be9fcf.jpeg>)
 
 # Enable
 
 When the **Enable** switch is set to on (I), the plugin is active and will process audio. When set to off (0), it will be bypassed and not process any audio. It will take considerably less CPU when it is bypassed.
 
-![](<Tube-Tech PE 1C Manual_assets/_page_4_Figure_13.jpeg>)
+![](<../../attachments/tube-tech-pe-1c-manual_assets--page_4_figure_13--f17a8170caec261c.jpeg>)
 
 # <span id="page-5-0"></span>Setup
 
@@ -138,7 +138,7 @@ The Tube-Tech PE 1C is a passive, tube-based equalizer suitable for many differe
 
 The equalizer features a Low Frequency section made up of two low shelf filters which can be combined to attenuate and boost at the same time.
 
-![](<Tube-Tech PE 1C Manual_assets/_page_6_Picture_15.jpeg>)
+![](<../../attachments/tube-tech-pe-1c-manual_assets--page_6_picture_15--51fcf1b195cc2678.jpeg>)
 
 These filters are actually bit apart in frequency even if they are controlled by the same frequency selector. The High Frequency section has a peak and shelving filter working in parallel, which provides a smooth top end while not getting too bright.
 
@@ -172,7 +172,7 @@ Boost Controls the gain for a boost peak filter that goes from 0 to 18 dB for sh
 
 Bandwidth Sets the width, or Q, of the **Boost** peak filter. Goes from SHARP to BROAD.
 
-![](<Tube-Tech PE 1C Manual_assets/_page_8_Figure_2.jpeg>)
+![](<../../attachments/tube-tech-pe-1c-manual_assets--page_8_figure_2--34b420d6de6ef041.jpeg>)
 
 High Frequency Sets the cut-off frequency for the high frequency **Boost** control. The frequency settings are 1 kHz, 1.5 kHz, 2 kHz, 3 kHz, 4 kHz, 5 kHz, 8 kHz, 10 kHz, 12 kHz and 16 kHz.
 
@@ -198,6 +198,6 @@ Anyway, Tube-Tech makes great gear. Period. Every time we get to borrow Tube-Tec
 
 TUBE-TECH IS A REGISTERED TRADEMARK OF LYDKRAFT ApS, DENMARK. ALL SPECIFICATIONS SUBJECT TO CHANGE WITHOUT NOTICE. ALL RIGHTS RESERVED.
 
-![](<Tube-Tech PE 1C Manual_assets/_page_9_Picture_8.jpeg>)
+![](<../../attachments/tube-tech-pe-1c-manual_assets--page_9_picture_8--494356ede63fdc06.jpeg>)
 
-![](<Tube-Tech PE 1C Manual_assets/_page_11_Picture_0.jpeg>)
+![](<../../attachments/tube-tech-pe-1c-manual_assets--page_11_picture_0--9472d06f3414a4fa.jpeg>)

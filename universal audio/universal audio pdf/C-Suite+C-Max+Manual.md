@@ -7,7 +7,7 @@ word_count: 2279
 ---
 
 
-![](C-Suite+C-Max+Manual_assets/C-Suite+C-Max+Manual.pdf-0001-00.png)
+![](../../attachments/c-suite-c-max-manual_assets--c-suite-c-max-manual.pdf-0001-00--0779de85a58ed5f4.png)
 
 
 - c max LIMITER and Maximiser 
@@ -57,7 +57,7 @@ Page 4
 C-Suite C-Max 
 
 
-![](C-Suite+C-Max+Manual_assets/C-Suite+C-Max+Manual.pdf-0005-01.png)
+![](../../attachments/c-suite-c-max-manual_assets--c-suite-c-max-manual.pdf-0005-01--9ea8d55b0ea1ab3c.png)
 
 
 **----- Start of picture text -----**<br>
@@ -81,7 +81,7 @@ C-Suite C-Max
 ## 3 
 
 
-![](C-Suite+C-Max+Manual_assets/C-Suite+C-Max+Manual.pdf-0006-03.png)
+![](../../attachments/c-suite-c-max-manual_assets--c-suite-c-max-manual.pdf-0006-03--ce30a1f1f8504cb0.png)
 
 
 ## **Gain (0dB to +20dB)** 
@@ -89,7 +89,7 @@ C-Suite C-Max
 This determines the gain applied to the signal before it is limited. If no gain is applied, C-Max will act in a similar way to a traditional peak limiter, ensuring that amplitude peaks do not exceed the specified ceiling. If moderate gains are applied then, depending upon the nature of the signal, maximising will occur, revealing low-level detail and making the audio sound louder. At high gains, colouration and creative distortion will occur, especially if the value of the Aggression parameter is increased. 
 
 
-![](C-Suite+C-Max+Manual_assets/C-Suite+C-Max+Manual.pdf-0006-06.png)
+![](../../attachments/c-suite-c-max-manual_assets--c-suite-c-max-manual.pdf-0006-06--1e9fe4f9c981c36b.png)
 
 
 ## **Ceiling (-20dB to 0dB)** 
@@ -97,7 +97,7 @@ This determines the gain applied to the signal before it is limited. If no gain 
 This determines the maximum level of the output signal. Very small inter-sample peaks can sometimes exceed the specified ceiling so it may be appropriate to reduce the ceiling to a value slightly below the desired maximum output level. 
 
 
-![](C-Suite+C-Max+Manual_assets/C-Suite+C-Max+Manual.pdf-0006-09.png)
+![](../../attachments/c-suite-c-max-manual_assets--c-suite-c-max-manual.pdf-0006-09--5a6bfe0031199d42.png)
 
 
 ## **Aggression (0 to 9)** 
@@ -105,7 +105,7 @@ This determines the maximum level of the output signal. Very small inter-sample 
 This modifies the algorithm to alter the nature of the limiting. When it’s set to zero, the limiting is clean and transparent. As you increase its value, the limiting becomes ‘grittier’ and, at high values, colouration and creative distortion will occur. 
 
 
-![](C-Suite+C-Max+Manual_assets/C-Suite+C-Max+Manual.pdf-0006-12.png)
+![](../../attachments/c-suite-c-max-manual_assets--c-suite-c-max-manual.pdf-0006-12--6b0fc27f1f3b3cf9.png)
 
 
 ## **Bypass** 
@@ -149,7 +149,7 @@ Page 7
 C-Suite C-Max 
 
 
-![](C-Suite+C-Max+Manual_assets/C-Suite+C-Max+Manual.pdf-0008-01.png)
+![](../../attachments/c-suite-c-max-manual_assets--c-suite-c-max-manual.pdf-0008-01--b01834875423ddaf.png)
 
 
 **----- Start of picture text -----**<br>
@@ -163,7 +163,7 @@ When processing is bypassed         the display will be shown in grey.
 ## The display elements 
 
 
-![](C-Suite+C-Max+Manual_assets/C-Suite+C-Max+Manual.pdf-0008-05.png)
+![](../../attachments/c-suite-c-max-manual_assets--c-suite-c-max-manual.pdf-0008-05--aec68daec51d148f.png)
 
 
 The action of C-Max is displayed by the three regions in the display – the light blue area, the darker blue area below it, and the black background. 
@@ -283,7 +283,7 @@ Page 11
 C-Suite C-Max 
 
 
-![](C-Suite+C-Max+Manual_assets/C-Suite+C-Max+Manual.pdf-0012-01.png)
+![](../../attachments/c-suite-c-max-manual_assets--c-suite-c-max-manual.pdf-0012-01--a494765c1bb79fd8.png)
 
 
 > C-Suite Audio and CEDAR Audio Ltd, © 2021 - 2023 

@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bst-vaibhava"
 ---
 
-![обложка|156](<Śrī Bhaktisiddhānta Vaibhava/обложка.jpeg>)
+![обложка|156](<../attachments/%C5%9Br%C4%AB-bhaktisiddh%C4%81nta-vaibhava--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8dba7a2ed51b5b4d.jpeg>)
 
 After getting an overwhelming response for the print edition of Sri Bhaktisiddhanta Vaibhava, we are pleased to release the Kindle edition. All three volumes are bundled together in a single ebook and all footnotes, endnotes, index entries and other references are hyperlinked across the three volumes.
 

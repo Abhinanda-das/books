@@ -11,11 +11,11 @@ word_count: 929
 
 Modifiers add several controls to UAD Console that make common workflow tasks much faster and easier to accomplish. With modifiers, you can easily power items on and off, remove items, copy and paste items, isolate channels, and set controls to their defaults. When you click a mixer modifier button, the control latches, and flashes to indicate it is active. 
 
-![](Mixer%20Navigation%20Modifiers_assets/c88cb50f2f365cb7db213af76e85d8a60fb13821.png) 
+![](../../attachments/mixer-navigation-modifiers_assets--c88cb50f2f365cb7db213af76e85d8a60fb13821--b0b0f3d17018b878.png) 
 
 # Modifier Latch
 
-![](Mixer%20Navigation%20Modifiers_assets/4f2c0a2bfe61974dc606bd59c71b6226f8895503.png)
+![](../../attachments/mixer-navigation-modifiers_assets--4f2c0a2bfe61974dc606bd59c71b6226f8895503--89cef0e470f63297.png)
 
 *Power option latched*
 
@@ -30,7 +30,7 @@ The latched option is unlatched (the switch stops flashing) when:
 
 ## Modifiers Timeout
 
-![](Mixer%20Navigation%20Modifiers_assets/fbbaedaee80d510ba51ec0d970328bfe640cd950.png)
+![](../../attachments/mixer-navigation-modifiers_assets--fbbaedaee80d510ba51ec0d970328bfe640cd950--8266a9e05fd27acc.png)
 
 When a modifier is latched, it is automatically unlatched (times out) after the Modifiers Timeout period to prevent inadvertent modifications.
 
@@ -42,13 +42,13 @@ Modifiers can be adjusted quickly across many items in the mixer by swiping. Whe
 
 **Tip:** Modifier swipe shortcuts are the fastest way to perform the same function on multiple items.
 
-![](Mixer%20Navigation%20Modifiers_assets/1d68c37d83db75942ab0fac6513f7f94439568e6.png)
+![](../../attachments/mixer-navigation-modifiers_assets--1d68c37d83db75942ab0fac6513f7f94439568e6--8ab042eab369e810.png)
 
 # Power Modifier
 
 This option toggles a plug-in, send, or cue’s power state, or all plug-ins, sends, or cues on a channel. When disabled, plug-ins no longer use UAD DSP resources, and sends or cues are disabled.
 
-![](Mixer%20Navigation%20Modifiers_assets/f1689608b75076c7f2af24bc54976e4e05857d50.png)
+![](../../attachments/mixer-navigation-modifiers_assets--f1689608b75076c7f2af24bc54976e4e05857d50--c9288cf12f8c5bc3.png)
 
 #### To power items on/off
 
@@ -62,7 +62,7 @@ This option toggles a plug-in, send, or cue’s power state, or all plug-ins, se
 
 The Remove Modifier removes a plug-in or all plug-ins from a channel. 
 
-![](Mixer%20Navigation%20Modifiers_assets/6b5aa3bbce82c5d3b5155f3bf35af445a9c78e85.png)
+![](../../attachments/mixer-navigation-modifiers_assets--6b5aa3bbce82c5d3b5155f3bf35af445a9c78e85--016fd0954106aa21.png)
 
 #### To remove plug-ins with the Remove Modifier
 
@@ -73,7 +73,7 @@ The Remove Modifier removes a plug-in or all plug-ins from a channel. 
 
 The Copy and Paste Modifiers copy a plug-in, send, cue, or channel and paste it where you choose. 
 
-![](Mixer%20Navigation%20Modifiers_assets/a33c127ea8af6d72edde1410ba64f0bb7c85c6f9.png)
+![](../../attachments/mixer-navigation-modifiers_assets--a33c127ea8af6d72edde1410ba64f0bb7c85c6f9--9e2846e0fd6c9ecc.png)
 
 #### To copy and paste items
 
@@ -89,13 +89,13 @@ The Copy and Paste Modifiers copy a plug-in, send, cue, or channel and paste it 
 
 **Note:** You cannot swipe across multiple channels when pasting a channel strip. To paste multiple channel strips, click each destination individually.
 
-![](Mixer%20Navigation%20Modifiers_assets/2a71e6d62b639c0841322c6833cc493037c6dd33.png)
+![](../../attachments/mixer-navigation-modifiers_assets--2a71e6d62b639c0841322c6833cc493037c6dd33--e806783580fe7462.png)
 
 # Isolate Modifier
 
 The Isolate modifier allows you to quickly Isolate channels. Isolate allows you to seamlessly monitor live hardware inputs with Realtime UAD Processing, even when changing UAD Console and LUNA sessions. Isolated channels always retain their current settings when different UAD Console and LUNA sessions are loaded. Isolated channels are also not controlled by LUNA. 
 
-![](Mixer%20Navigation%20Modifiers_assets/e39afcbca7fb48c43d35901569872573d992f4c6.png)
+![](../../attachments/mixer-navigation-modifiers_assets--e39afcbca7fb48c43d35901569872573d992f4c6--2a25b95b07faf443.png)
 
 **Tip:** To quickly isolate an individual channel, right-click a channel’s input label then choose Isolate from the Input Label Menu.
 
@@ -103,7 +103,7 @@ The Isolate modifier allows you to quickly Isolate channels. Isolate allows you 
 
 The Set Default modifier returns a parameter to its default value.
 
-![](Mixer%20Navigation%20Modifiers_assets/ac6274edc466d9aa845dfb5c10fdfb4c607826ea.png)
+![](../../attachments/mixer-navigation-modifiers_assets--ac6274edc466d9aa845dfb5c10fdfb4c607826ea--32ad91ad79471e7a.png)
 
 **Note:** The Set Default modifier is primarily for knob and fader values. It does not apply to any preamp settings, plug-in inserts, SOLO/MUTE switches, monitor levels, customized input names, and similar functions.
 
@@ -112,13 +112,13 @@ The Set Default modifier returns a parameter to its default value.
 
 # Settings Switch
 
-![](Mixer%20Navigation%20Modifiers_assets/40f14945005049a87df6cb02529c5860524ebbee.png)
+![](../../attachments/mixer-navigation-modifiers_assets--40f14945005049a87df6cb02529c5860524ebbee--c32d4ca96821a117.png)
 
 The SETTINGS switch is located at the bottom of the Mixer Navigation column. Click to open the UAD Console Settings window, where many global settings are defined. For complete details, see [UAD Console Settings](https://help.uaudio.com/hc/en-us/articles/25403524417812).
 
 # Clear Switches
 
-![](Mixer%20Navigation%20Modifiers_assets/9604cb633bc1caf07f149dbfc40499eaec747922.png)
+![](../../attachments/mixer-navigation-modifiers_assets--9604cb633bc1caf07f149dbfc40499eaec747922--8266fd3bd921e3b2.png)
 
 The Clear switches are located near the bottom of the UAD Console screen, in the Options column.
 
@@ -134,5 +134,5 @@ This switch clears all over limit (clip) indicators and peak hold indicators on 
 
 You can also clear individual meters or all meters by right-clicking/Ctrl-clicking in the meter display, and choosing Meter or All Meters under Clear.
 
-![clear-meters.png](Mixer%20Navigation%20Modifiers_assets/9b2bb97829e836591d458962ade7506ce55d4885.png)
+![clear-meters.png](../../attachments/mixer-navigation-modifiers_assets--9b2bb97829e836591d458962ade7506ce55d4885--bf5696091a30c351.png)
 

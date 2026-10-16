@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/kvatv"
 ---
 
-![обложка|156](<King Vikrama and the Vampire [English]/обложка.jpeg>)
+![обложка|156](<../attachments/king-vikrama-and-the-vampire-english--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d8bc4c014b0f9146.jpeg>)
 
 Translated by the noted Victorian Orientalist, Sir Richard F. Burton, from the original Sanskrit, these ancient Indian folk tales influenced such later works as 1001 Arabian Nights and Boccaccio's Decameron. First published in 1870, these stories will entertain and delight modern readers while illuminating the life and customs of classical India.
 

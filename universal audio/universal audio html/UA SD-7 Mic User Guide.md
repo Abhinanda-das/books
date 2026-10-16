@@ -17,7 +17,7 @@ This printed guide is included in your UA SD-7 retail package. 
 
  
 
-![UA SD-7 User Guide 1.png](UA%20SD-7%20Mic%20User%20Guide_assets/898123ff3e0b6651f95ec90ef72e56ee8b30f6cd.png)
+![UA SD-7 User Guide 1.png](../../attachments/ua-sd-7-mic-user-guide_assets--898123ff3e0b6651f95ec90ef72e56ee8b30f6cd--2d11c67b476112cd.png)
 
-![UA SD-7 User Guide 2.png](UA%20SD-7%20Mic%20User%20Guide_assets/5bcdf79fe9c327eda6fffa7ccc4cb2e400e1a4b0.png)
+![UA SD-7 User Guide 2.png](../../attachments/ua-sd-7-mic-user-guide_assets--5bcdf79fe9c327eda6fffa7ccc4cb2e400e1a4b0--de726ade5cd83747.png)
 

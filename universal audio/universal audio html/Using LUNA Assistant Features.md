@@ -36,16 +36,16 @@ LUNA Voice Control\* enables you to start, stop, and record in LUNA without pres
 
 1.  Enable the Assistant (Assistant \> Assistant from the LUNA menus).
 2.  In a session, hover over the LUNA Assistant icon in the bottom right corner of the timeline.\
-    ![analysis-voice-hover.png](Using%20LUNA%20Assistant%20Features_assets/a219719a5f84113f85d4fcc1dfa87ecb47b62aa0.png)
+    ![analysis-voice-hover.png](../../attachments/using-luna-assistant-features_assets--a219719a5f84113f85d4fcc1dfa87ecb47b62aa0--49e090f080790d9d.png)
 3.  Click Voice Control and switch the feature On.\
-    ![analysis-voice-on.png](Using%20LUNA%20Assistant%20Features_assets/cd6eece86b030c47f0cd17d76bf1b20f911be19e.png)
+    ![analysis-voice-on.png](../../attachments/using-luna-assistant-features_assets--cd6eece86b030c47f0cd17d76bf1b20f911be19e--4a4209ce2713d242.png)
 4.  Allow the machine learning model data to be downloaded.
 5.  To configure the input source, click the Gear icon. By default, LUNA responds to voice commands that are audible at the monitor outputs of your audio interface. In practice, this means voice control will respond to any input-monitored microphone. However, you may have better results if you set Voice Control to monitor a specific input.\
     See **Voice Control Settings** below for more information.
 6.  To issue a voice command, say "Hey LUNA" (or your custom wake up phrase), then the command. LUNA indicates that it is listening when it hears the wake up phrase. Commands must be issued shortly after you issue the wake up phrase (within a few seconds).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 44.86%;">
-![luna-listening.png](Using%20LUNA%20Assistant%20Features_assets/f2aea3386f864bfa6c857d268531a1934898a131.png)
+![luna-listening.png](../../attachments/using-luna-assistant-features_assets--f2aea3386f864bfa6c857d268531a1934898a131--f5f6932b2f2120bb.png)
 </figure>
 
 \*Available on Apple silicon Macs and in English only.
@@ -53,7 +53,7 @@ LUNA Voice Control\* enables you to start, stop, and record in LUNA without pres
 ## **Voice Control Settings**
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 82.97%;">
-![voice-settings.png](Using%20LUNA%20Assistant%20Features_assets/f7161bbe28fc554e03937db2a1dd7ab27eb84d03.png)
+![voice-settings.png](../../attachments/using-luna-assistant-features_assets--f7161bbe28fc554e03937db2a1dd7ab27eb84d03--085ec60720a32b9e.png)
 </figure>
 
 ### **Wake Up Phrase**
@@ -143,9 +143,9 @@ LUNA's AI instrument detection can optionally color-code, assign warp algorithms
 
 1.  Click the Turn On Feature Preview button at the bottom of the LUNA Feature Previews page and restart LUNA, or enable Assistant from the Assistant menu.
 2.  In a session, hover over the LUNA Assistant icon in the bottom right corner of the window.\
-    ![assistant-hover.png](Using%20LUNA%20Assistant%20Features_assets/6d8a2f2fd893d4cd47829650174e43120af101bb.png)
+    ![assistant-hover.png](../../attachments/using-luna-assistant-features_assets--6d8a2f2fd893d4cd47829650174e43120af101bb--99e33cb17eeb0e90.png)
 3.  Click Instrument Detection and switch the feature On.\
-    ![assistant-open-hover.png](Using%20LUNA%20Assistant%20Features_assets/13be7a91fffde366e5d8f00a083569a060ae0af4.png)
+    ![assistant-open-hover.png](../../attachments/using-luna-assistant-features_assets--13be7a91fffde366e5d8f00a083569a060ae0af4--70dedc7ae3e8e848.png)
 4.  To configure settings for detected instruments, click the the Gear icon.
 5.  To automatically color tracks and assign instrument icons, enable the Auto-Color by Instrument Type option.
 6.  To automatically name tracks, enable the Auto-Name by Instrument Type option.
@@ -153,7 +153,7 @@ LUNA's AI instrument detection can optionally color-code, assign warp algorithms
 8.  You can configure settings for track names and track colors here. Click a color square and use the color picker to assign a color.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![instrument-detection-options.png](Using%20LUNA%20Assistant%20Features_assets/83da203124b751748a11e2b03fad3ea467c89e5b.png)
+![instrument-detection-options.png](../../attachments/using-luna-assistant-features_assets--83da203124b751748a11e2b03fad3ea467c89e5b--199809d40a4ffd98.png)
 </figure>
 
 ## **Instrument Detection in use**
@@ -163,7 +163,7 @@ When Instrument Detection is enabled, after recording or importing tracks, LUNA 
 **Note:** Drum and percussion tracks are all named Drums: there is no distinction between percussion instruments. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 80.86%;">
-![auto-colored-tracks.png](Using%20LUNA%20Assistant%20Features_assets/6852d42447961be96cc9c7c214b168fb0d8cca9f.png)
+![auto-colored-tracks.png](../../attachments/using-luna-assistant-features_assets--6852d42447961be96cc9c7c214b168fb0d8cca9f--91181ec7e00a8c66.png)
 </figure>
 
 ### To change the detected instrument for a track
@@ -171,7 +171,7 @@ When Instrument Detection is enabled, after recording or importing tracks, LUNA 
 If you want to change the detected instrument for a track, click the instrument icon in the track header and choose a new instrument type. You can open instrument detection settings by clicking Detection Settings.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 39.56%;">
-![instrument-detection-change.png](Using%20LUNA%20Assistant%20Features_assets/66bc7247b7c90037b9b0b1903411dd9b77ded508.png)
+![instrument-detection-change.png](../../attachments/using-luna-assistant-features_assets--66bc7247b7c90037b9b0b1903411dd9b77ded508--1e1deed5e9a36bb7.png)
 </figure>
 
  

@@ -6,13 +6,13 @@ tool_version: 1.10.2
 word_count: 9723
 ---
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_0_picture_1--dc51a44202e6e4ad.jpeg>)
 
 ## **Apollo Twin MkII Hardware Manual**
 
 Manual Version 200330
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_0_Picture_4.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_0_picture_4--2d8ee1831c6dcb5e.jpeg>)
 
 # <span id="page-1-0"></span>**A Letter from Bill Putnam Jr.**
 
@@ -84,11 +84,11 @@ With its class-leading resolution and Realtime UAD Processing, Apollo Twin MkII 
 - Mix with UAD plug-ins like the included Teletronix® LA-2A, 1176, and Fairchild® compressors, Pultec® EQs, and 610-B Preamp
 - Track with near-zero latency through preamp emulations from Neve®, API®, Manley® and more using Unison™ technology\*
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_3_Picture_9.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_3_picture_9--f309ff136c9289ac.jpeg>)
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_3_Picture_10.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_3_picture_10--72c21b1833c636a4.jpeg>)
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_3_Picture_11.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_3_picture_11--c463411ed25215e3.jpeg>)
 
 ## **Unison Technology: The Genuine Sound of Neve, API & Manley Preamps**
 
@@ -334,7 +334,7 @@ Apollo Twin MkII hardware and software installation and setup consists of these 
 
 *Important: After ensuring the locking barrel tabs are aligned with the chassis slots and the barrel is fully inserted, rotate the barrel to secure the connector.*
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_12_Picture_18.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_12_picture_18--ed5886512f9f6cca.jpeg>)
 
 4. Apply power to Apollo Twin MkII using the rear panel's power switch. Apollo Twin MkII is now ready for [Software Setup](#page-13-1).
 
@@ -384,7 +384,7 @@ Many informational videos are available online to help you get started with Apol
 
 One typical Apollo Twin MkII setup is illustrated below. For complete details about all of Apollo Twin MkII's connectors and controls, see [Controls & Connectors.](#page-16-1)
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_14_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_14_picture_2--869b592a30668479.jpeg>)
 
 *Typical Apollo Twin MkII setup connections*
 
@@ -440,7 +440,7 @@ Apollo Twin MkII's top panel has two operating modes: *Preamp* and *Monitor*. Th
 
 When Apollo Twin MkII is in Preamp mode, all top panel controls are related to the input functions only. To adjust any input function, press the PREAMP button to enter preamp mode and activate the input channel controls.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_16_Picture_10.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_16_picture_10--9331c7900a51cac6.jpeg>)
 
 *Note: Output functions (monitor and headphone) cannot be performed in Preamp mode.*
 
@@ -458,7 +458,7 @@ Apollo Twin MkII has one set of input channel preamp controls. The input channel
 
 The currently selected input channel is shown by the CH1 and CH2 indicators at the upper left of the main display panel, above the input meters. The top panel controls only adjust the functions for the currently selected channel.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_17_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_17_picture_2--ca9d0644e47faf6c.jpeg>)
 
 ### **Changing Channels**
 
@@ -468,9 +468,9 @@ When in Preamp mode, press the PREAMP button to change the selected channel so i
 
 The Mic, Line, or Hi-Z input is routed into the channel's preamplifier. The input source is shown by the indicators below the input meters.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_17_Picture_7.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_17_picture_7--e24fd5fba41b2212.jpeg>)
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_17_Picture_8.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_17_picture_8--3fd00d92fde0702f.jpeg>)
 
 *Note: Only one input type at a time (Mic, Line, or Hi-Z) can be used as a channel's input source.*
 
@@ -482,7 +482,7 @@ The Level knob adjusts the amount of preamp gain (input signal level) for the cu
 
 Each input channel has a set of preamp options. The preamp options for the currently selected input channel are activated using the row of six buttons at the bottom of the top panel when in PREAMP mode.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_17_Picture_14.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_17_picture_14--6175162de1651e23.jpeg>)
 
 The current state of the preamp options are indicated in the upper row of the options display panel above the option buttons. Available options are dim when inactive, bright when enabled, and unlit when unavailable.
 
@@ -492,7 +492,7 @@ The current state of the preamp options are indicated in the upper row of the op
 
 When Apollo Twin MkII is in Monitor mode, all top panel controls are related to output functions only. To adjust any output function, press the MONITOR button to enter Monitor mode and activate the monitor controls.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_18_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_18_picture_2--9397ef873aa5e8a5.jpeg>)
 
 *Note: Input functions cannot be performed in Monitor mode.*
 
@@ -512,7 +512,7 @@ The Level knob is used to set the volume level for each stereo output independen
 
 The currently selected stereo output is shown by the MONITOR and HEADPHONE indicators at the right of the main display, above and below the output meters.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_18_Picture_12.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_18_picture_12--282f77b758f03f64.jpeg>)
 
 When in Monitor mode, press the MONITOR button to change the selected output. Press again to switch to the other output. The Level knob adjusts volume for the currently selected output.
 
@@ -520,7 +520,7 @@ When in Monitor mode, press the MONITOR button to change the selected output. Pr
 
 Apollo Twin MkII has monitor options that perform the functions of a dedicated monitor controller. The monitor options are controlled using the row of six buttons at the bottom of the top panel when in MONITOR mode.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_18_Picture_16.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_18_picture_16--ae33839bf980a4d2.jpeg>)
 
 The current state of the monitor options are indicated in the lower row of the options display panel above the option buttons. Available options are dim when inactive, bright when enabled, and unlit when unavailable.
 
@@ -530,7 +530,7 @@ The current state of the monitor options are indicated in the lower row of the o
 
 Refer to the illustration below for control descriptions in this section.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_19_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_19_picture_2--49c5ab166580d0b8.jpeg>)
 
 *Top panel elements*
 
@@ -542,7 +542,7 @@ When in [PREAMP Mode](#page-16-2), rotate clockwise to increase the amount of pr
 
 #### **Unison Integration**
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_19_Picture_8.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_19_picture_8--a0224dc56546cbc2.jpeg>)
 
 The Level knob can also be used to control Unison-enabled UAD preamp and guitar amp plug-ins. See the [Apollo Software Manual](#page-10-1) for complete Unison details.
 
@@ -610,11 +610,11 @@ Each of the six Option Buttons has dual functions. In [PREAMP Mode,](#page-16-2)
 
 #### **Unison Integration**
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_21_Picture_11.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_21_picture_11--e2d2f514019c9b67.jpeg>)
 
 In PREAMP mode, the Option Buttons can also be used to control Unisonenabled UAD preamp and guitar amp plug-ins. See the [Apollo Software Manual](#page-10-1) for complete Unison details.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_21_Picture_13.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_21_picture_13--945a5ff0d14bcf6a.jpeg>)
 
 *Options Display (12) and Option Buttons (13)*
 
@@ -624,7 +624,7 @@ The Option Buttons control the PREAMP options (a – f below) for an input chann
 
 *Note: In [MONITOR Mode,](#page-18-0) the preamp options cannot be modified and the upper row of the Options Display is unlit.*
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_22_Picture_3.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_22_picture_3--128515dd57cf7aee.jpeg>)
 
 *Preamp options*
 
@@ -670,7 +670,7 @@ The TALK, DIM, ALT, and FCN functions are configured in the companion Console so
 
 **Note:** In PREAMP Mode, the monitor options cannot be modified and the lower row of the Options Display is unlit.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_23_Picture_5.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_23_picture_5--cdcb3fb62e0df5ed.jpeg>)
 
 #### (g) TALK
 
@@ -702,7 +702,7 @@ Mutes the monitor outputs. When MUTE is active, the MONITOR Selected Indicator (
 
 Refer to the illustration below for control descriptions in this section.
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_24_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_24_picture_2--39ac6cab6156dbc6.jpeg>)
 
 *Front panel elements*
 
@@ -730,7 +730,7 @@ Refer to the illustration below for control descriptions in this section.
 
 *Note: All rear panel ¼" jacks can accept unbalanced TS (tip-sleeve) or balanced TRS (tip-ring-sleeve) connections.*
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_25_Picture_3.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_25_picture_3--2f48a3cfebc1c0ce.jpeg>)
 
 *Rear panel elements*
 
@@ -756,7 +756,7 @@ The included power supply must be connected here (Apollo Twin MkII cannot be bus
 
 *Important: After ensuring the locking barrel tabs are aligned with the chassis slots and the barrel is fully inserted, rotate the barrel to secure the connector to the chassis.* 
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_25_Picture_16.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_25_picture_16--f288fe6cfbf7a3a9.jpeg>)
 
 #### **(20) Power Switch**
 
@@ -922,7 +922,7 @@ External Power Supply with (4) changeable AC connectors supporting USA, Europe, 
 
 ## <span id="page-31-0"></span>Hardware Block Diagram
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_31_Figure_1.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_31_figure_1--916f54542a00ce69.jpeg>)
 
 # <span id="page-32-0"></span>**Troubleshooting**
 
@@ -1055,4 +1055,4 @@ To contact UA support staff for technical or repair assistance, please visit:
 
 **[help.uaudio.com](https://help.uaudio.com)**
 
-![](<Apollo Twin MkII Hardware Manual_assets/_page_37_Picture_0.jpeg>)
+![](<../../attachments/apollo-twin-mkii-hardware-manual_assets--page_37_picture_0--57513fbbe9a3260f.jpeg>)

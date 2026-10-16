@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/dhanesvara-liseftbg1"
 ---
 
-![обложка|156](<Lessons in Spiritual Economics from the Bhagavad-gita Understanding and Solving the Economic Problem/обложка.jpeg>)
+![обложка|156](<../attachments/lessons-in-spiritual-economics-from-the-bhagavad-gita-understandi--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--25cd99b6988def98.jpeg>)
 
 "Spiritual Economics" is a cross-disciplinary study combining psychology, economics and the spiritual science of the Vedas to explain why there is vulture capitalism, cut-throat competition, unending economic hardship, exploitation, inequity, and struggle in this world. Spiritual Economics explains why present economic methods can do nothing to solve these problems, reveals the actual source of our economic problems, and explains the only factual solution that can create an economy that serves everyone. Spiritual Economics also explains the origin and solution of our ecological problems.There is a link between economic activity and human consciousness. Economics is not a physical science like electromagnetism that works according to natural laws. It is a set of ideas entirely created by human beings. The most important side of the economic equation therefore, is the human side, but this side is totally neglected in all discussions of economics. Since economics is a man-made creation, if we want to understand the economic problem and its solution we must understand how and why human beings act in this world. That will give us the insight needed to properly adjust all of the parameters of the economic calculus to get the desired result. Only Spiritual Economics explains the whys and wherefores of human behavior in relationship to their economic activity.
 

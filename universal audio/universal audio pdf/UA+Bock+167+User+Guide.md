@@ -36,7 +36,7 @@ For customer support, visit **help.uaudio.com**
 
 # **Get Apollo Interface Presets**
 
-![](UA+Bock+167+User+Guide_assets/_page_1_Picture_10.jpeg)
+![](../../attachments/ua-bock-167-user-guide_assets--page_1_picture_10--eed10b1512aad12a.jpeg)
 
 UA Bock 167 comes with Apollo Channel Strip Presets. These downloadable settings for UA's Apollo audio interfaces give you professional results on a wide range of sources, instantly. To get your presets, download UA Connect by scanning the QR code or visit **uaudio.com/mics/presets**
 
@@ -144,11 +144,11 @@ Refer all servicing to qualified service personnel. Servicing is required when t
 
 UA BOCK 167 does not contain a fuse or any other user-replaceable parts.
 
-![](UA+Bock+167+User+Guide_assets/_page_1_Picture_64.jpeg)
+![](../../attachments/ua-bock-167-user-guide_assets--page_1_picture_64--5b82da3e2831e8fd.jpeg)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 
-![](UA+Bock+167+User+Guide_assets/_page_1_Picture_66.jpeg)
+![](../../attachments/ua-bock-167-user-guide_assets--page_1_picture_66--6561b7b45d1864a5.jpeg)
 
 Hazardous voltage enclosed. Do not open, will cause shock or burn. If servicing is needed, disconnect power and contact Universal Audio customer support.
 

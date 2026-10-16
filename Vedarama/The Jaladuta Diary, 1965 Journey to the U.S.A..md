@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jd"
 ---
 
-![обложка|156](<The Jaladuta Diary, 1965 Journey to the U.S.A./обложка.jpeg>)
+![обложка|156](<../attachments/the-jaladuta-diary-1965-journey-to-the-u.s.a--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f536ea81336be559.jpeg>)
 
 # The Jaladuta Diary, 1965 Journey to the U.S.A.
 

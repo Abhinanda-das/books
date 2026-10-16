@@ -29,7 +29,7 @@ You warp audio in Warps view. Enter Warps view by clicking View on the Timeline 
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="choose-warps.png" file-size="60140" data-height="244" data-id="f9ae06c5-4470-486b-896d-3cb6acf37d05" node-type="media" data-type="file" data-width="530" title="Attachment">
 
-![choose-warps.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/c8ec138e475d67a9b669d7bece511fbc9dc3f3ea.png)
+![choose-warps.png](../../attachments/warping-pitch-shifting-and-ara_assets--c8ec138e475d67a9b669d7bece511fbc9dc3f3ea--fa4917d784a48a56.png)
 
 </div>
 
@@ -75,7 +75,7 @@ ARA (Audio Random Access) plug-ins are incorporated directly into the LUNA timel
 
 - Pitch adjustments must be applied (committed) when an ARA plug-in is instantiated on a clip. When you instantiate an ARA plug-in on a clip that has Pitch control changes, you will be prompted to revert, commit changes, or cancel.
 
-![ara-in-timeline.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/e34848605f60ded6a96397b2fcad174f568b2262.png)
+![ara-in-timeline.png](../../attachments/warping-pitch-shifting-and-ara_assets--e34848605f60ded6a96397b2fcad174f568b2262--1ddafb7f7a491364.png)
 
 *An ARA plug-in in the timeline*
 
@@ -118,7 +118,7 @@ You can easily change the pitch of an audio clip. You can change the duration of
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="settings-for-warping.png" file-size="42114" data-height="113" data-id="623527fe-a827-4458-8e8c-cdb1e6d6537c" node-type="media" data-type="file" data-width="417" title="Attachment">
 
-![settings-for-warping.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/ecc8a7c940cfe8f6d11c25a68e3be4d59e51ef07.png)
+![settings-for-warping.png](../../attachments/warping-pitch-shifting-and-ara_assets--ecc8a7c940cfe8f6d11c25a68e3be4d59e51ef07--e429a9b309949596.png)
 
 </div>
 
@@ -139,7 +139,7 @@ To pitch an audio clip up, use the pitch clip controls. You can do this with the
 
 <div collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="pitch-smart-tool.png" file-size="16561" data-height="147" data-id="ba627bba-e888-4d65-9cd6-95887de5e61f" node-type="media" data-type="file" data-width="223" title="Attachment">
 
-![pitch-smart-tool.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/25ad28288ff6d514fd5924fdf9597a3479f2d7a9.png)
+![pitch-smart-tool.png](../../attachments/warping-pitch-shifting-and-ara_assets--25ad28288ff6d514fd5924fdf9597a3479f2d7a9--86bb11a96cb3ec1f.png)
 
 </div>
 
@@ -151,7 +151,7 @@ To pitch an audio clip up, use the pitch clip controls. You can do this with the
 
 1.  Double-click the name of the clip or the empty area next to the pitch control to open the Clip controls.
 2.  Raise or lower the pitch with the Pitch knob. To type a value, double-click the Pitch knob and type a semitone and cent value, then click Done.\
-    ![open-clip-controls.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/abd0c78f9de6a392b9f4bd719b08662d254fdd63.png) 
+    ![open-clip-controls.png](../../attachments/warping-pitch-shifting-and-ara_assets--abd0c78f9de6a392b9f4bd719b08662d254fdd63--1a32388df97bfd5d.png) 
 
 ------------------------------------------------------------------------
 
@@ -168,7 +168,7 @@ You can Warp Trim to time-stretch or time-compress a clip. With Warp Trim, you c
 1.  With Clips view enabled, hover the cursor at the start or end of a clip, below the vertical center. The Trim Editing Tool appears.
 2.  Option+drag (macOS) or Alt+drag (Windows) to Warp Trim. Warp Trim snaps to the grid if Snap is enabled unless you hold the Command (macOS) or Windows (Windows) key while trimming.
 
-![warp-trim-clip-view.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/394eb5fd4f9a9870dcfca3ca0da65f14dd90eed9.png)
+![warp-trim-clip-view.png](../../attachments/warping-pitch-shifting-and-ara_assets--394eb5fd4f9a9870dcfca3ca0da65f14dd90eed9--7a9c0568eec32a53.png)
 
 ## Warp Trimming to time-stretch or time-compress a clip in Warps view
 
@@ -176,7 +176,7 @@ You can Warp Trim to time-stretch or time-compress a clip. With Warp Trim, you c
 
 1.  With Warps view enabled, hover the cursor at the start or end of a clip, below the vertical center. The Warp Trim Editing Tool appears.\
     \
-    ![smart-tool-warp-trim.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/fec856e703edc0b7fe15f7bac3226df2e4f36c2d.png)
+    ![smart-tool-warp-trim.png](../../attachments/warping-pitch-shifting-and-ara_assets--fec856e703edc0b7fe15f7bac3226df2e4f36c2d--19b6b3cbc723aa38.png)
 2.  Click and drag to Warp Trim. Warp Trim snaps to the grid if Snap is enabled unless you hold the Command key while trimming.
 
 </div>
@@ -187,7 +187,7 @@ Depending on the algorithm, extreme Warp Trims may not play or may have undesira
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="warp-trim-overcompressed.png" file-size="29166" data-height="217" data-id="06f2af09-fc09-46c5-a16a-d8d831a8858c" node-type="media" data-type="file" data-width="227" title="Attachment">
 
-![warp-trim-overcompressed.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/87044d2fb059150c5ac7aabad4dadd7e71642beb.png)
+![warp-trim-overcompressed.png](../../attachments/warping-pitch-shifting-and-ara_assets--87044d2fb059150c5ac7aabad4dadd7e71642beb--ff51e39243b346f8.png)
 
 </div>
 
@@ -214,7 +214,7 @@ There are three ways you can add Warp markers to a clip:
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="single-warp-stretch-compress.png" file-size="56591" data-height="328" data-id="53b08e83-602f-4ee0-9e53-759237866404" node-type="media" data-type="file" data-width="451" title="Attachment">
 
-![single-warp-stretch-compress.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/d5d95927decbd722849c4b4b4edaa8de7c367530.png)
+![single-warp-stretch-compress.png](../../attachments/warping-pitch-shifting-and-ara_assets--d5d95927decbd722849c4b4b4edaa8de7c367530--a1613ac2fd31c64a.png)
 
 </div>
 
@@ -239,7 +239,7 @@ There are three ways you can add Warp markers to a clip:
 
 </div>
 
-![bounded-warp-stretch-compress.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/fcdbb02893ed82451a4f242429157c16d0e932e2.png) 
+![bounded-warp-stretch-compress.png](../../attachments/warping-pitch-shifting-and-ara_assets--fcdbb02893ed82451a4f242429157c16d0e932e2--9cd405b2bee9e768.png) 
 
 ### To add an arbitrary warp marker
 
@@ -252,7 +252,7 @@ There are three ways you can add Warp markers to a clip:
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="arbitrary-warp-marker.png" file-size="24209" data-height="310" data-id="bcd118a6-3045-475f-ac85-4c6e32e4cb40" node-type="media" data-type="file" data-width="160" title="Attachment">
 
-![arbitrary-warp-marker.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/a0b25ef2eb7672483bd43813b2f35b55249170a0.png)
+![arbitrary-warp-marker.png](../../attachments/warping-pitch-shifting-and-ara_assets--a0b25ef2eb7672483bd43813b2f35b55249170a0--cce34d135fc0c1b8.png)
 
 </div>
 
@@ -272,7 +272,7 @@ There are several ways to delete one or more warp markers.
 
 - Hold Shift, then click in the vertical middle of the clip and drag to select multiple contiguous warp markers. Click one warp marker and drag to adjust all selected markers.
 
-![select-contiguous-warp-markers.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/c207d4ce5930e26192632936d665181ff9368b78.png) 
+![select-contiguous-warp-markers.png](../../attachments/warping-pitch-shifting-and-ara_assets--c207d4ce5930e26192632936d665181ff9368b78--a13a507a461c179e.png) 
 
 -  Hold Shift, and click and drag over only each warp marker you want to select, to select multiple non-contiguous warp markers (tip: disable Snap). Click one warp marker, and drag to adjust all selected markers.
 
@@ -280,7 +280,7 @@ There are several ways to delete one or more warp markers.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="select-non-contiguous-warp-markers.png" file-size="22443" data-height="189" data-id="5dd0723c-fa80-4b6e-8506-06eac0bc3be2" node-type="media" data-type="file" data-width="288" title="Attachment">
 
-![select-non-contiguous-warp-markers.png](Warping%2C%20Pitch%20Shifting%2C%20and%20ARA_assets/37bace09846e3cea0d8cc4081b0695b19b0ff994.png)
+![select-non-contiguous-warp-markers.png](../../attachments/warping-pitch-shifting-and-ara_assets--37bace09846e3cea0d8cc4081b0695b19b0ff994--2d8d5cedc36213d3.png)
 
 </div>
 

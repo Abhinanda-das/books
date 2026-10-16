@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/krishnabook"
 ---
 
-![обложка|156](<Kṛṣṇa, the Supreme Personality of Godhead/обложка.jpeg>)
+![обложка|156](<../attachments/k%E1%B9%9B%E1%B9%A3%E1%B9%87a-the-supreme-personality-of-godhead--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--17499bca3a6162d1.jpeg>)
 
 This is the original account of the extraordinary activities of Sri Krishna, who appeared on earth 5,000 years ago. Find out why He has enchanted people for centuries.
 

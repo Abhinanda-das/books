@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/cttsg"
 ---
 
-![обложка|156](<Come to the Secret Garden Sufi Tales of Wisdom/обложка.jpeg>)
+![обложка|156](<../attachments/come-to-the-secret-garden-sufi-tales-of-wisdom--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--cefda73f96f3fdf7.jpeg>)
 
 These inviting tales provide simple, yet profound advice to young children. M. R. Bawa Muhaiyaddeen speaks of the generosity of nature, of the tree that gives its fruit selflessly without expecting anything in return, and the forest life that lives in unity. He also warns about tiny red ants that can cause so much damage even though they are small, and reminds us to guard ourselves against any negative qualities, no matter how minor.
 

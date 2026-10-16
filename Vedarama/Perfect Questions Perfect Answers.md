@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/pqpa"
 ---
 
-![обложка|156](<Perfect Questions Perfect Answers/обложка.jpeg>)
+![обложка|156](<../attachments/perfect-questions-perfect-answers--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f49ff3926da9e0c8.jpeg>)
 
 In 1972, Bob Cohen, an American science teacher serving in the Peace Corps, found himself halfway around the world, in the holy village of Mayapur, West Bengal, on a search for spiritual enlightenment. There, in a small bamboo hut, he found a teacher able to answer his questions. Perfect Questions, Perfect Answers is the record of his transformative talks with Srila Prabhupada.
 

@@ -6,23 +6,23 @@ tool_version: 1.10.2
 word_count: 3799
 ---
 
-![](<ENGL E646 VS Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_0_picture_0--614fa174eea26a3a.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_0_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_0_picture_3--28bf9ebffb9eb19d.jpeg>)
 
 Developed by Brainworx in partnership with Engl Limited and Distributed by Universal Audio.
 
-![](<ENGL E646 VS Manual_assets/_page_0_Picture_5.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_0_picture_5--6ba453b9779fa532.jpeg>)
 
-![](<ENGL E646 VS Manual_assets/_page_0_Picture_6.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_0_picture_6--d3a587a2d5d75a82.jpeg>)
 
-![](<ENGL E646 VS Manual_assets/_page_0_Picture_7.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_0_picture_7--1e50b2dfd9571340.jpeg>)
 
-![](<ENGL E646 VS Manual_assets/_page_0_Picture_8.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_0_picture_8--b85b279762dff048.jpeg>)
 
-![](<ENGL E646 VS Manual_assets/_page_1_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_1_picture_0--44dec1cf8e2989ee.jpeg>)
 
 ### **The new Engl E646 Victor Smolski Ltd.**
 
@@ -32,11 +32,11 @@ Four channels of pure tube attack power deliver the widest modern range of tones
 
 The E646 plugin faithfully delivers all the fast attack, punchy rhythm, furious lead tones and the modern, sparkling clean sounds of the original amp. Through meticulous component modeling, that plugin version also captures the smooth, sonic transition of well-selected channel layouts including an adjustable Mid Boost switch in order to create modern rock tones from sustained shining clean to a vintage vibe crunch sound.
 
-![](<ENGL E646 VS Manual_assets/_page_2_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_2_picture_0--cf452f42351932b6.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_2_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_2_picture_3--212a5703ac344312.jpeg>)
 
 ### **Features**
 
@@ -62,15 +62,15 @@ Plug-in Manual
 - Playing live via a real power amp and speaker setup.
 - Playing LIVE, plugged straight into a live console and / or an in-ear system.
 
-![](<ENGL E646 VS Manual_assets/_page_3_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_3_picture_0--7cfe485b21e2a3c0.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_3_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_3_picture_3--3f5f544665e75039.jpeg>)
 
 ### **Unison Technology**
 
-![](<ENGL E646 VS Manual_assets/_page_3_Picture_5.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_3_picture_5--64ac80c836561986.jpeg>)
 
 greatly enhance your experience, making the tone and behavior of
 
@@ -92,11 +92,11 @@ Dial in as much crunch and distortion as you like with the gain knobs. Each of t
 
 Just like any guitar amp the Engl amps have controls to make the guitar tones sound more mellow or harsher, add or cut low end, and boost or cut mids. There are definitely no rules when it comes to adjusting the Tone Stack controls. If itsounds right it probably IS right... You may browse through our presets and listen to a wide range of different
 
-![](<ENGL E646 VS Manual_assets/_page_4_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_4_picture_0--0be867a460b56149.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_4_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_4_picture_3--9c11dec1c6769d3e.jpeg>)
 
 settings, many of which are customized for commonly used guitars like Teles, Strats or Paulas...
 
@@ -124,11 +124,11 @@ Add some serious low-end to your sound. Some of the Recording Chains contain les
 
 You may bypass all processing of the plug-in with these two switches. Contrary to the real amp in the plug-in these two switches are linked. No need to warm up tubes in the plug-in or protect speaker cabinets. If you only want to bypass the Amp section of the plug-in (to record your own hardware tube preamp, for example) please use the FX Rack / Zoom view. You will find the needed controls in the Power Soak section. Details below.
 
-![](<ENGL E646 VS Manual_assets/_page_5_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_5_picture_0--6e1a04d946866288.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_5_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_5_picture_3--5d90363d23475f23.jpeg>)
 
 ### **FX Rack**
 
@@ -160,11 +160,11 @@ Discrete 3 steps: "PRE", "POST", and "OFF". With the TIGHT filter you can cut LO
 - **• POST:** If you want to cut some of the low end of your amplifier setting (maybe even only temporary) you can use this studio quality high pass filter to reduce the bass.
 - **• OFF:** When set to OFF the TIGHT filter is in bypass mode.
 
-![](<ENGL E646 VS Manual_assets/_page_6_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_6_picture_0--6d0358481ae66380.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_6_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_6_picture_3--22f69c37934abf05.jpeg>)
 
 #### **<sup>1</sup> Tight Frequency**
 
@@ -193,11 +193,11 @@ Use this parameter to activate or deactivate the delay and all of its parameters
 - **• Switch up:** Delay is activated.
 - **• Switch down:** Delay is bypassed / off.
 
-![](<ENGL E646 VS Manual_assets/_page_7_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_7_picture_0--99987216996debac.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_7_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_7_picture_3--934593ccc7514cb4.jpeg>)
 
 #### **<sup>1</sup> Tap\***
 
@@ -233,11 +233,11 @@ This controls the number of repeats. While a setting of 99% will result in an al
 
 <sup>\*</sup> Note: Custom control, not automatable
 
-![](<ENGL E646 VS Manual_assets/_page_8_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_8_picture_0--4c951a813ac96921.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_8_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_8_picture_3--8c18d3f674f06c50.jpeg>)
 
 #### **<sup>1</sup> Lo-Fi**
 
@@ -257,11 +257,11 @@ We carefully placed up to 12 microphones on each cabinet used. These mics were t
 
 An innovative new approach was also used to capture various pre-amps and EQ chains. A parallel chain was created that was split to three different hardware preamps and EQs. These parallel chains were also routed to their own discrete channels on the Neve VXS console and then sent to Pro Tools for capture. This routing allowed us to record each chain individually or blend them for interesting combinations.
 
-![](<ENGL E646 VS Manual_assets/_page_9_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_9_picture_0--bee6b5ed425bda33.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_9_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_9_picture_3--7692da9fd882a590.jpeg>)
 
 #### **The external gear we used:**
 
@@ -287,11 +287,11 @@ For this reason the E646 Victor Smolski offers you AUTO mode: Just select a patt
 
 As soon as you hear the speaker setup you like best just stop AUTO mode by clicking the AUTO button again and manually select the
 
-![](<ENGL E646 VS Manual_assets/_page_10_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_10_picture_0--99cf4bdfbcd8c789.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_10_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_10_picture_3--f2417adf800baec3.jpeg>)
 
 desired REC CHAIN. Afterwards just fine-tweak the TONE Section and GAIN and there you are.
 
@@ -311,11 +311,11 @@ In the real world power soaks are being used to reduce the volume of a guitar po
 
 We have modeled the behavior of the Engl tube power amp, so you may experiment with different settings of the Master of the amp and the internal POWER SOAK. We recommend a setting of roughly -10dB for most scenarios.
 
-![](<ENGL E646 VS Manual_assets/_page_11_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_11_picture_0--e7adceaa5672fd8e.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_11_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_11_picture_3--a1ea29b222635842.jpeg>)
 
 #### **<sup>1</sup> Bypass Pre Amp**
 
@@ -329,11 +329,11 @@ Switch up: Preamp is bypassed (off), Switch down: Preamp is active (on).
 
 If you want to use only the distortion of the Engl preamp you may switch the power amp simulation off. This may sound cool if you use the E646 Victor Smolski plugin to distort other signals than a guitar. For a realistic guitar recording we recommend leaving the power amp on, as it is an integral part of the overall sound of the amp.
 
-![](<ENGL E646 VS Manual_assets/_page_12_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_12_picture_0--ce3415eb6deb3c58.jpeg>)
 
 # Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_12_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_12_picture_3--1fa3f1a115937aff.jpeg>)
 
 ### **Top Toolbar**
 
@@ -368,11 +368,11 @@ Toggle between FX Rack and Standard view.
 
 Information about the development of the plugin.
 
-![](<ENGL E646 VS Manual_assets/_page_13_Picture_0.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_13_picture_0--dd49c974080e33d4.jpeg>)
 
 Plug-in Manual
 
-![](<ENGL E646 VS Manual_assets/_page_13_Picture_3.jpeg>)
+![](<../../attachments/engl-e646-vs-manual_assets--page_13_picture_3--be73693e7ac73b20.jpeg>)
 
 ### **Factory Presets**
 

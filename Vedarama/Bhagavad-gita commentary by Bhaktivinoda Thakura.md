@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bg-bhaktivinod"
 ---
 
-![обложка|156](<Bhagavad-gita commentary by Bhaktivinoda Thakura/обложка.png>)
+![обложка|156](<../attachments/bhagavad-gita-commentary-by-bhaktivinoda-thakura--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--e7b1982a50821d5f.png>)
 
 # Bhagavad-gita commentary by Bhaktivinoda Thakura
 

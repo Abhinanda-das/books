@@ -7,17 +7,17 @@ word_count: 3293
 ---
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0001-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0001-00--570f21bccf2bd324.png>)
 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0001-01.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0001-01--08cfac327027c730.png>)
 
 
 1 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0002-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0002-00--ba6e3a9f26f6ebf9.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -43,7 +43,7 @@ I worked with our Brainworx team and external mastering experts to verify that t
 2 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0003-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0003-00--f85deb56987ad71f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -71,7 +71,7 @@ I know that a lot of modern solutions in plug-in form or via online mastering se
 Everything else is optional, and I am sure you´ll have as much fun using bx_masterdesk Classic and listening to your final results as we had creating this tool for you. Enjoy your new tool, and we´d be happy to hear some of your music. Tag us in your online releases! (#brainworx #masterdesk) Happy mixing and mastering! 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0003-11.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0003-11--146e33cbc19f7b58.png>)
 
 
 ## Dirk Ulrich 
@@ -81,7 +81,7 @@ Owner Brainworx & Designer of bx_masterdesk  and bx_masterdesk Classic
 3 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0004-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0004-00--36cbf7b387adee32.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -105,7 +105,7 @@ bx_masterdesk Classic<br>Plug-in Manual<br>**----- End of picture text -----**<b
 4 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0005-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0005-00--8e35f9d604c0ef5d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -133,7 +133,7 @@ In bx_masterdesk Classic switching between the 2 modes gives you 2 different set
 5 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0006-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0006-00--2f21c7773c96c634.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -161,7 +161,7 @@ With the buttons labeled A,B,C,D you can choose the behavior of the underlying t
 6 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0007-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0007-00--3c3a51dc24571970.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -185,7 +185,7 @@ Stereo Enhance is a new Brainworx design and the most musical way to increase wi
 7 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0008-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0008-00--a2c5b514a89737b4.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -215,7 +215,7 @@ If all this sounds way too technical for you and you´re only producing music fo
 8 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0009-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0009-00--ae0d129ae66ae56b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -245,7 +245,7 @@ This way you can save presets for your songs that will recall the various loudne
 9 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0010-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0010-00--b5a11161597fb58f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -267,7 +267,7 @@ Based on the level of your mix you may have to adjust at least the VOLUME knob w
 **4** 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0011-03.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0011-03--5d9f4f0bc70efcbd.png>)
 
 
 ## ~~**Top Toolbar**~~ 
@@ -311,11 +311,11 @@ For more information and videos on M/S Technology for Recording, Mixing and Mast
 11 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0012-00.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0012-00--963ef4036aa458cd.png>)
 
 
 
-![](<bx_masterdesk Classic Manual_assets/bx_masterdesk_Classic_Manual.pdf-0012-01.png>)
+![](<../../attachments/bx_masterdesk-classic-manual_assets--bx_masterdesk_classic_manual.pdf-0012-01--689ab478365c388c.png>)
 
 
 Plug in, Rock out!   - **www.brainworx.audio** 

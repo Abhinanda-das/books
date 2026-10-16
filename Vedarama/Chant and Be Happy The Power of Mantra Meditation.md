@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/cabh"
 ---
 
-![обложка|156](<Chant and Be Happy The Power of Mantra Meditation/обложка.jpeg>)
+![обложка|156](<../attachments/chant-and-be-happy-the-power-of-mantra-meditation--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a15e273fda290087.jpeg>)
 
 Chant And Be Happy is an introduction to the history, practice, and benefits of mantra meditation, and specifically the significance of chanting the Hare Krishna mantra. Also known as the maha-mantra, "great chant for deliverance," the Vedas recommend chanting Hare Krishna as the most effective form of meditation for the present age. Since the 1960s and '70s, this mantra has gained world popularity, partially due to its inclusion in the #1 song "My Sweet Lord" by George Harrison.
 

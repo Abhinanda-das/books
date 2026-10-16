@@ -7,23 +7,23 @@ word_count: 304
 ---
 
 
-![](Enigmatic+82+Quick+Start_assets/Enigmatic+82+Quick+Start.pdf-0001-00.png)
+![](../../attachments/enigmatic-82-quick-start_assets--enigmatic-82-quick-start.pdf-0001-00--b96d1d7b14dfe16b.png)
 
 
 
-![](Enigmatic+82+Quick+Start_assets/Enigmatic+82+Quick+Start.pdf-0001-01.png)
+![](../../attachments/enigmatic-82-quick-start_assets--enigmatic-82-quick-start.pdf-0001-01--be08ffeb6b7154bc.png)
 
 
 **GET MORE TONES!** Scan here, or go to uaudio.com/uafx/start for free cabs, presets, and deep editing. 
 
 
-![](Enigmatic+82+Quick+Start_assets/Enigmatic+82+Quick+Start.pdf-0001-03.png)
+![](../../attachments/enigmatic-82-quick-start_assets--enigmatic-82-quick-start.pdf-0001-03--ceda66334adcf05e.png)
 
 
 �000853�R2 
 
 
-![](Enigmatic+82+Quick+Start_assets/Enigmatic+82+Quick+Start.pdf-0002-00.png)
+![](../../attachments/enigmatic-82-quick-start_assets--enigmatic-82-quick-start.pdf-0002-00--024fed734d776ed7.png)
 
 
 |VOLUME|Adjusts amp gain|
@@ -80,15 +80,15 @@ word_count: 304
 - Power Supply Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector (sold separately) 
 
 
-![](Enigmatic+82+Quick+Start_assets/Enigmatic+82+Quick+Start.pdf-0002-03.png)
+![](../../attachments/enigmatic-82-quick-start_assets--enigmatic-82-quick-start.pdf-0002-03--566080e0224d14bc.png)
 
 
 
-![](Enigmatic+82+Quick+Start_assets/Enigmatic+82+Quick+Start.pdf-0002-04.png)
+![](../../attachments/enigmatic-82-quick-start_assets--enigmatic-82-quick-start.pdf-0002-04--0334d98aa9d5d887.png)
 
 
 
-![](Enigmatic+82+Quick+Start_assets/Enigmatic+82+Quick+Start.pdf-0002-05.png)
+![](../../attachments/enigmatic-82-quick-start_assets--enigmatic-82-quick-start.pdf-0002-05--c101a6faeb9d027a.png)
 
 
 Find complete documentation at **uaudio.com/uafx/start** 

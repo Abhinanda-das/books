@@ -7,7 +7,7 @@ word_count: 2854
 ---
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0001-00.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0001-00--f04f27a73a00925f.png>)
 
 
 # **User Manual Tonelux Tilt and Tilt Live** 
@@ -17,7 +17,7 @@ word_count: 2854
 Rev. Feb 21, 2013 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0002-00.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0002-00--2b8da2f4258067f2.png>)
 
 
 ## **Softube User Manual** 
@@ -77,13 +77,13 @@ Softube plug-ins are “what you see is what you get” products. You should be 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0005-06.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0005-06--7abc421721da951a.png>)
 
 
 ## **Menu Row** 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0005-08.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0005-08--4b034a6b548beaf9.png>)
 
 
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Dyna-mite plug-in as example, but the same goes for all plug-ins. 
@@ -99,7 +99,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0005-15.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0005-15--3e7b951ac3bc0240.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -107,7 +107,7 @@ Enable Setup<br>**----- End of picture text -----**<br>
 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0005-16.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0005-16--1fa7f52ca090b2f4.png>)
 
 
 **6** | USER INTERFACE 
@@ -165,7 +165,7 @@ Shift-click in the cabinet background will change cabinet (or amp) without any a
 ## **Foreword by Paul Wolff** 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0007-03.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0007-03--79443cf5297c2b79.png>)
 
 
 _After the success of the TILT control on the MP1 and MP1a Mic Preamps, I felt that a rack mount unit would be a nice addition to the Tonelux product line. The decision was made to make it an 8 channel unit, with polarity, in/out and access with D-subs for ease of use._ 
@@ -183,7 +183,7 @@ _Paul Wolff Designer and Founder of Tonelux_
 **8** 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0008-02.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0008-02--5a0c7061c0053f8d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -265,7 +265,7 @@ The TILT LIVE is perfect for in-ear systems when you want to tweak the mix to ad
 ## changing the actual volume of the mix. 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0010-13.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0010-13--b4e80ed9a5a936bd.png>)
 
 
 In normal operating mode ( **Boost Ceiling** on full), the filters in the Tilt/Loud circuit will attenuate some frequencies while boosting others, just like the normal TILT plug-in. For live performance purposes this can be a drawback, since boosting frequencies can sometimes cause feedback in a live monitoring system. 
@@ -289,7 +289,7 @@ dio level will never be amplified. The filters will have the same shape but will
 When the **Boost Ceiling** is set to its maximum it will work as the ordinary TILT. When set between, there will be some boosting of frequencies, but never more than you dialed in. 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0011-03.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0011-03--ec98a1ae0ebdf103.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -297,7 +297,7 @@ When the **Boost Ceiling** is set to its maximum it will work as the ordinary TI
 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0011-04.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0011-04--916efc6baa343eef.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -305,7 +305,7 @@ When the **Boost Ceiling** is set to its maximum it will work as the ordinary TI
 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0011-05.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0011-05--02951eb1da9b81eb.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -319,13 +319,13 @@ _**Tilt filter curves for different settings of the Boost Ceiling knob. Top: Boo
 The TILT and TILT LIVE plug-ins aren’t based on a single piece of hardware. Designer Paul Wolff wanted to create some extra functionality for the plug-in version of his Tilt module, and worked night and day to design a hardware prototype that is the basis of these two plug-ins. However, if you are desperate to find the Tilt control in a hardware package, we can strongly recommend the fantastic 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0011-09.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0011-09--49d2bda83c2eb876.png>)
 
 
 sounding Tonelux MP1a mic preamp module that features the Tilt filters, or the eight channel Tonelux Tilt rack unit. 
 
 
-![](<Tonelux Tilt Manual_assets/Tonelux_Tilt_Manual.pdf-0011-11.png>)
+![](<../../attachments/tonelux-tilt-manual_assets--tonelux_tilt_manual.pdf-0011-11--142b4b296c386783.png>)
 
 
 Here you can see the eight channel Tilt unit by Tonelux, and below is a photo of the prototype Paul Wolff sent us. It looks like, well, a prototype, but sounds fantastic! 

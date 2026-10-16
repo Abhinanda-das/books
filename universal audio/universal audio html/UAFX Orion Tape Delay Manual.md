@@ -53,7 +53,7 @@ Bill Putnam Jr.
 
 # Orion Quick Start
 
-![qs-orion.png](UAFX%20Orion%20Tape%20Delay%20Manual_assets/3abd2c32dec16eac49b417018ac2c2fc758a04e3.png)
+![qs-orion.png](../../attachments/uafx-orion-tape-delay-manual_assets--3abd2c32dec16eac49b417018ac2c2fc758a04e3--8cc52056dfc17409.png)
 
 [**Download Orion Quick Start**](360058186352-UAFX-Pedal-Downloads.html)
 
@@ -97,7 +97,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
-![orion-rear-panel.png](UAFX%20Orion%20Tape%20Delay%20Manual_assets/2433905875a16a7bee55ec99022521f705a4a7df.png)
+![orion-rear-panel.png](../../attachments/uafx-orion-tape-delay-manual_assets--2433905875a16a7bee55ec99022521f705a4a7df--cfb2e52a78799a9e.png)
 
  
 
@@ -267,11 +267,11 @@ The footswitch toggles the effect on/off. The LED lights to indicate when the ef
 
 # Orion Safety
 
-![safety-symbol-exclaim.png](UAFX%20Orion%20Tape%20Delay%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![safety-symbol-exclaim.png](../../attachments/uafx-orion-tape-delay-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--c59709302620d372.png)
 
 **Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 250 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20Orion%20Tape%20Delay%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![safety-symbol-book-info.png](../../attachments/uafx-orion-tape-delay-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--35c1d605423efdd3.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -295,7 +295,7 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 (This is Class B equipment. Although this equipment is intended for use in residential environments, it could cause poor reception if used near a radio television receiver. Please follow all instructions in the instruction manual.)
 
-![safety-symbol-trash.png](UAFX%20Orion%20Tape%20Delay%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-orion-tape-delay-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--44cc6b1932dcc1d9.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

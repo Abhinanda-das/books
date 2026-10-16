@@ -9,7 +9,7 @@ word_count: 5314
 1 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0001-01.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0001-01--fd4bd50954f77a63.png>)
 
 
 ## **The Legend** 
@@ -43,7 +43,7 @@ Founder/CEO, Brainworx
 **4** 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0005-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0005-00--8a49eb1e64110095.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -93,7 +93,7 @@ Engl Savage 120<br>    Plug-in Manual<br>**----- End of picture text -----**<br>
 5 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0006-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0006-00--f3a109c542e0df9b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -133,7 +133,7 @@ Master volume B for power amp output.
 6 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0007-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0007-00--b489070af811ec37.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -191,7 +191,7 @@ Switches between MASTER A and MASTER B; the active MASTER control is identified 
 7 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0008-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0008-00--e04c038f6db6edcb.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -247,7 +247,7 @@ upwards) and cuts lower midrange.
 8 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0009-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0009-00--9e2047877fdc96dd.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -295,7 +295,7 @@ EQ alteration in Main Channel 2‘s voicing section; voicing control features re
 9 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0010-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0010-00--e25c757d10fb186d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -345,7 +345,7 @@ Continuous knob, -120db to 0db. The Noise Gate will dim the output signal of the
 10 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0011-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0011-00--0e01d7f7f43e8f16.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -389,7 +389,7 @@ With the SMOOTH filter you can cut high frequencies of either the DI guitar sign
 11 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0012-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0012-00--72317d4897a90b22.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -433,7 +433,7 @@ Both buttons can be pressed repeatedly as long as the maximum delay time of 1000
 12 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0013-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0013-00--51bd6ebc6c3ae5dc.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -467,7 +467,7 @@ In the past two decades Brainworx owner Dirk Ulrich has produced and recorded wi
 13 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0014-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0014-00--4162e32d36c3308b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -497,7 +497,7 @@ And if for any reason you should not like any of the Recording Chains the Plugin
 14 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0015-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0015-00--f0270b439b44c964.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -533,7 +533,7 @@ With most standard guitars you can and should leave the INPUT GAIN at 0 (zero) t
 15 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0016-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0016-00--c85352e30329ca5e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -561,7 +561,7 @@ With the Bypass Pre switch you can switch off the Engl preamp completely, which 
 16 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0017-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0017-00--65d646a44bf67647.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -597,7 +597,7 @@ The Engl Straight E412VS 4x12 Guitar Speaker Cabinet 240W offers demanding perfo
 17 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0018-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0018-00--2e4caa7e4ec29a3d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -627,7 +627,7 @@ The 120W Orange Amplifiers PPC212-C guitar speaker cabinet is crafted using 13-p
 **5** 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0019-03.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0019-03--72ce3172c76aad5f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -635,7 +635,7 @@ The 120W Orange Amplifiers PPC212-C guitar speaker cabinet is crafted using 13-p
 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0019-04.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0019-04--ef72815736f8401e.png>)
 
 
 ## ~~**Top Toolbar**~~ 
@@ -675,7 +675,7 @@ Information about the development of the plugin.
 19 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0020-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0020-00--b227d70d029799c2.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -713,15 +713,15 @@ Combine the Savage 120 amps with other plugins (dynamics, effects, room simulati
 20 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0021-00.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0021-00--3b2764e1c17c3f80.png>)
 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0021-01.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0021-01--eff59c45d4115c4d.png>)
 
 
 
-![](<ENGL Savage 120 Manual_assets/ENGL_Savage_120_Manual.pdf-0021-02.png>)
+![](<../../attachments/engl-savage-120-manual_assets--engl_savage_120_manual.pdf-0021-02--eb384d4d1c86e9a2.png>)
 
 
 Plug in, Rock out!   - **www.brainworx-music.de** 

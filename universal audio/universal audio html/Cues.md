@@ -31,13 +31,13 @@ The complete cue system comprises the cue mix buses, the cue sends, and the cue 
 
 To show or hide Cues, click the circle next to Sends in the Mixer Navigation section at the left of UAD Console. Cues and sends are shown when the circle is illuminated. 
 
-![mixer-navigation-closeup-callouts.png](Cues_assets/d1caf942bbc73727f6502cbe5db8eff0febcf130.png)
+![mixer-navigation-closeup-callouts.png](../../attachments/cues_assets--d1caf942bbc73727f6502cbe5db8eff0febcf130--631b146198d6e629.png)
 
  
 
 # Large and Small Cues
 
-![cues-small-large.png](Cues_assets/c22729bbc6c1be76e1c1ac25f2bd4f5a9daaa3cc.png)
+![cues-small-large.png](../../attachments/cues_assets--c22729bbc6c1be76e1c1ac25f2bd4f5a9daaa3cc--cdbd00526b663c09.png)
 
 By default, cues are shown in Small view. This view allows you to easily adjust the level for a cue or to mute the send, while fitting more mixer sections on your screen. You can expand Cues, to reveal the additional pan control for the cue, and to use a long-throw fader for more accurate level control.  
 
@@ -48,17 +48,17 @@ By default, cues are shown in Small view. This view allows you to easily adjust 
 
 The Sends Overview allows you to quickly see the send and cue status of visible channels in UAD Console. Click the Sends Overview switch to toggle the Sends row between the standard appearance and Sends Overview. 
 
-![](Cues_assets/b2a1cbbdce243288b3ed870792aff3d206e51be6.png)
+![](../../attachments/cues_assets--b2a1cbbdce243288b3ed870792aff3d206e51be6--4bb7a102ace240c5.png)
 
 *The Sends Overview switch*
 
-![](Cues_assets/b2a1cbbdce243288b3ed870792aff3d206e51be6.png)
+![](../../attachments/cues_assets--b2a1cbbdce243288b3ed870792aff3d206e51be6--4bb7a102ace240c5.png)
 
 *Sends Overviews in UAD Console*
 
 You can click on any Sends Overview to open a popover window that allows you to easily control Aux and Cue send levels, mutes, and panning for that channel (you cannot adjust panning for Sends or Cues on stereo linked channels).
 
-![sends-overview-callouts.png](Cues_assets/3f447c05ed886d89f1c6f8bb4081e63148f0d012.png)
+![sends-overview-callouts.png](../../attachments/cues_assets--3f447c05ed886d89f1c6f8bb4081e63148f0d012--a79656be7b39599b.png)
 
 # Adjusting Cue Levels
 
@@ -66,19 +66,19 @@ To adjust the level of the input sent to the cue bus:
 
 - Rotate the Cue knob. The cue level is shown while you engage the knob. 
 
-![](Cues_assets/a5416cf58b145b7b5a76a66b25a14121549ead8a.png)
+![](../../attachments/cues_assets--a5416cf58b145b7b5a76a66b25a14121549ead8a--ccb9e1b401144dea.png)
 
 - Double-click the Cue knob to open the Cue volume popover, and type a dB value (-144 to +12), then click OK.
 
 \
-![](Cues_assets/35b0f5294acbab1b88cedf2150a87676d5667c35.png)
+![](../../attachments/cues_assets--35b0f5294acbab1b88cedf2150a87676d5667c35--a8c4a61b2a2f623a.png)
 
 - When Cues are in Large view, drag the fader to adjust the send level, or click the level at the bottom of the meter to open the Send volume popover and adjust the level. If the Cue is Stereo, you can also adjust the pan control. 
 
-![](Cues_assets/930b0a52030e8ad7b8399177f18164fe197e7fe8.png)
+![](../../attachments/cues_assets--930b0a52030e8ad7b8399177f18164fe197e7fe8--36af1c9ca22ef751.png)
 
 - When Sends Overview is active, click on the Sends Overview for a channel to open the Sends Overview popover, then adjust the levels and pan controls for Aux and Cue buses by dragging the faders and adjusting the pan controls. \
-  ![](Cues_assets/b2a1cbbdce243288b3ed870792aff3d206e51be6.png)
+  ![](../../attachments/cues_assets--b2a1cbbdce243288b3ed870792aff3d206e51be6--4bb7a102ace240c5.png)
 - To adjust any control with the mousewheel, hold Option on the keyboard, then scroll the wheel over the control.
 - To mute a cue, click the Mute button. This prevents any audio from the channel from being sent to the cue destination. 
 
@@ -88,13 +88,13 @@ You can open and close the Cues row. See [Opening and Closing Individual Channel
 
 # Routing Cue Outputs
 
-# ![](Cues_assets/2be782fccdf356c37b5adc9901c8a6ab1229067d.png)
+# ![](../../attachments/cues_assets--2be782fccdf356c37b5adc9901c8a6ab1229067d--8c4ab023b780f9e4.png)
 
 Cue Outputs are adjusted within the Cue Outputs window. To open the Cue Outputs window, click on the name of any Cue in the Cues area, or click Cue Outputs in the Monitor Column. The Mix (MIX switch highlighted) or Cue (MIX switch dim) can be assigned independently to each headphone output. Cue outputs can also be heard in mono, by clicking the MONO switch. 
 
 To assign a cue to a headphone output, click the rectangle under the desired Cue column that aligns with the headphone output. Selected pairs are highlighted, and unselected pairs are blank (black) The selected cue/headphone pair is highlighted, and available cue/headphone pairs are black. 
 
-![](Cues_assets/4f592d119276d2313d7e657fa7776fd7a9931532.png)
+![](../../attachments/cues_assets--4f592d119276d2313d7e657fa7776fd7a9931532--81631c196408873d.png)
 
  
 
@@ -126,7 +126,7 @@ This switch sums the left and right channels of the stereo cue mix bus into a mo
 
 The colored rectangular switches next to each headphone icon in the Cue Outputs window determine the Apollo headphone output to which each cue mix bus is routed. The headphone outputs are mutually exclusive (each headphone output can have only one source). The blue switches indicate the current output routing. The black spaces are available headphone outputs. Click a black space to switch the Apollo output to that headphone output. 
 
-### ![](Cues_assets/49ab0a2b01f65f3f531bc83e95b99a4544c5dcf9.png)
+### ![](../../attachments/cues_assets--49ab0a2b01f65f3f531bc83e95b99a4544c5dcf9--91ad60722eaa7f5b.png)
 
  
 
@@ -139,19 +139,19 @@ The colored rectangular switches next to each headphone icon in the Cue Outputs 
 <table>
 <tbody>
 <tr>
-<td>![](Cues_assets/a9577c52ccab1ed0783dd6de795388d87f45f1c7.png)</td>
+<td>![](../../attachments/cues_assets--a9577c52ccab1ed0783dd6de795388d87f45f1c7--30d93d2c97b681be.png)</td>
 <td><p>The main mix is the cue source for Cue 1 and Cue 2.</p>
 <p>The main mix is heard on A and B HP 1 and HP 2.</p></td>
 </tr>
 <tr>
-<td>![](Cues_assets/ceb979ff348e93a3a15d0c46142396c7304a389d.png)</td>
+<td>![](../../attachments/cues_assets--ceb979ff348e93a3a15d0c46142396c7304a389d--08ca6a942b1f2f36.png)</td>
 <td><p>The main mix is the cue source for Cue 1. </p>
 <p>The main mix is heard on A and B HP1. </p>
 <p>The Cue mix is the source for Cue 2. </p>
 <p>The Cue 2 mix is heard on A and B HP 2.</p></td>
 </tr>
 <tr>
-<td>![](Cues_assets/7d54a31caaaa2d16f4741751732b0b7bd5e4e509.png)</td>
+<td>![](../../attachments/cues_assets--7d54a31caaaa2d16f4741751732b0b7bd5e4e509--d79e88f8e48f86b9.png)</td>
 <td><p>The main mix is the cue source for Cue 1. </p>
 <p>The main mix is heard on A and B HP1. </p>
 <p>The Cue 2 mix is the source for Cue 2. </p>
@@ -159,7 +159,7 @@ The colored rectangular switches next to each headphone icon in the Cue Outputs 
 <p>The Cue 2 mix is mono.</p></td>
 </tr>
 <tr>
-<td>![](Cues_assets/afc804ee019be25344639e47454538bbbb86f767.png)</td>
+<td>![](../../attachments/cues_assets--afc804ee019be25344639e47454538bbbb86f767--c5c2c9db632bb145.png)</td>
 <td><p>The main mix is the cue source for Cue 1. </p>
 <p>The main mix is heard on B HP 1.</p>
 <p>The Cue 2 bus is the source for Cue 2. </p>
@@ -175,7 +175,7 @@ The colored rectangular switches next to each headphone icon in the Cue Outputs 
 
 # Using HP & LINE 3/4 Cues (Apollo Twin)
 
-![](Cues_assets/422ed49a52fe757da1964b8f99c432561018e15b.png)
+![](../../attachments/cues_assets--422ed49a52fe757da1964b8f99c432561018e15b--880a644c028f3795.png)
 
 *Cue Source select (Apollo Twin)*
 
@@ -195,13 +195,13 @@ Choose the cue source from the Devices column for HP and LINE 3/4.
 - You can either send the monitor mix (MIX selected) or cue mix (MIX deselected) to an output. 
 - When a cue is enabled, the cue appears with a colored bar in the Sends row in UAD Console. To hear audio sources from the output, signals must be sent to that cue's bus via the cue sends.
 
-![cues-rows-twin.png](Cues_assets/153202cf7f1700e7c026f42c4fcdcf74e04c7710.png)
+![cues-rows-twin.png](../../attachments/cues_assets--153202cf7f1700e7c026f42c4fcdcf74e04c7710--91d77c12e621928b.png)
 
 *Apollo Twin cue sends with cues enabled *
 
 # Using HP Cue (Apollo Solo)
 
-![](Cues_assets/1d7ca563cd89a3b9c8db78bd338da1b2d1172514.png)
+![](../../attachments/cues_assets--1d7ca563cd89a3b9c8db78bd338da1b2d1172514--aa5b7877c247ab1b.png)
 
 *Cue Source select (Apollo Solo)*
 
@@ -213,7 +213,7 @@ Choose the cue source from the Devices column for HP.
 - Clear the MIX switch to send an independent cue mix to the output, summed with all DAW outputs that are routed to the same output.
 - Select the MONO switch to send the main mix or cue mix in mono. 
 
-![cues-rows-solo.png](Cues_assets/bfe468bc2b313f8992a4982f3eea8052e7f8a297.png)
+![cues-rows-solo.png](../../attachments/cues_assets--bfe468bc2b313f8992a4982f3eea8052e7f8a297--4e7cfcd39e42ce3c.png)
 
 *Apollo Solo cue send with cue enabled *
 
@@ -221,7 +221,7 @@ Choose the cue source from the Devices column for HP.
 
 # Cue Mirror to Menu (Apollo rack models, Apollo x4)
 
-![](Cues_assets/4fb7863a0cccac0b712b46e1eab53fb0558af278.png)
+![](../../attachments/cues_assets--4fb7863a0cccac0b712b46e1eab53fb0558af278--8fab433097fd435e.png)
 
 *Cue Mirror to menu*
 

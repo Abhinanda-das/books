@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/babmah"
 ---
 
-![обложка|156](<Babaji Maharaja “Two Beyond Duality”/обложка.jpeg>)
+![обложка|156](<../attachments/babaji-maharaja-two-beyond-duality--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--7d8485e471797e10.jpeg>)
 
 Srila Gaurakisora dasa babaji appeared over one hundred years ago in the district of Pharidapura, next to the place called Tepakhola in the village of Vagyana, which is situated on the shore of the Padma River. Srila Gaurakisora was born in a mercantile family, and was nicknamed Vamsidasa by his father (not to be confused with Vamsi dasa babaji). During boyhood, his mother and father arranged for an early marriage. He remained in household life until he was twenty-nine years old. As a householder he worked as a broker in the grain business. After the death of his wife, Srila Gaurakisora left his business and approached Srila Bhagavat dasa babaji in order to accept the traditional Vaisnava babaji dress.
 

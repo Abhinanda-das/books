@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sssbgs"
 ---
 
-![обложка|156](<Sacred Song Symphony/обложка.png>)
+![обложка|156](<../attachments/sacred-song-symphony--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--30005aaad895e943.png>)
 
 Sacred Song Symphony is divided into 20 sections. The first ten are comprised of the 108 songs in transliterated Bengali or Sanskrit. The font used is clear-cut Helvetica in regular type and large enough to facilitate easy reading even from a distance. In the second ten sections are given the translations, word-for-word meanings and commentaries.
 

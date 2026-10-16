@@ -36,7 +36,7 @@ Combined with the Electro-Optical (LA-2A) and FET-based (1176) compressor plug-i
 
 <div class="wysiwyg-text-align-center">
 
-![fairchild-660.png](64c386b571ed2e0c52d0d202990f35b0e7cf8c9d.png)
+![fairchild-660.png](../../attachments/fairchild-tube-limiter-collection-manual_assets--64c386b571ed2e0c52d0d202990f35b0e7cf8c9d--80433e8c370accf4.png)
 
 </div>
 
@@ -44,7 +44,7 @@ Combined with the Electro-Optical (LA-2A) and FET-based (1176) compressor plug-i
 
 <div class="wysiwyg-text-align-center">
 
-![fairchild-670.png](39a8a78e9d8dae528113e83214a7ef6001236350.png)
+![fairchild-670.png](../../attachments/fairchild-tube-limiter-collection-manual_assets--39a8a78e9d8dae528113e83214a7ef6001236350--5d5767e9ab17a2da.png)
 
 </div>
 
@@ -52,7 +52,7 @@ Combined with the Electro-Optical (LA-2A) and FET-based (1176) compressor plug-i
 
 <div class="wysiwyg-text-align-center">
 
-![fairchild-670-legacy.png](b88cd0c6a86aedc58531bdf0ab7b1a2d470dbc69.png)
+![fairchild-670-legacy.png](../../attachments/fairchild-tube-limiter-collection-manual_assets--b88cd0c6a86aedc58531bdf0ab7b1a2d470dbc69--9a2cc18cd70500ad.png)
 
 </div>
 
@@ -465,7 +465,7 @@ When set to 0%, only the unprocessed (dry) source signal is output. When set to 
 
 **Tip:** Click the MIX text label to set the control to the 50% position. Click the 0 text label to set the control to its minimum position. Click the 100% text label to set the control to its maximum position.
 
-![fairchild-660-hw1.jpg](1c6f7391d1c22b1e0a5dc8f6e21bb73dc7768744.jpg)
+![fairchild-660-hw1.jpg](../../attachments/fairchild-tube-limiter-collection-manual_assets--1c6f7391d1c22b1e0a5dc8f6e21bb73dc7768744--50fa333e4dd9ca61.jpg)
 
 ------------------------------------------------------------------------
 
@@ -475,7 +475,7 @@ The origins of the Fairchild 660/670 design come from Estonian-born immigrant Re
 
 The compressor's Fairchild connection begins with Sherman Fairchild, the son of Congressman George Winthrop Fairchild, one of the founders of IBM. Sherman Fairchild built and designed the first aerial photography equipment during World War I. After that war ended, he started the Fairchild Aerial Camera Corporation in 1920. Sherman Fairchild eventually went on to design a multitude of products, from aircraft to semiconductors, and opened several more companies, including Fairchild Recording Equipment Corporation. After Narma began the limiter project for Les Paul, Sherman Fairchild heard about it, licensed the design, and hired Narma as the company's chief engineer. After his time at Fairchild, Narma moved to Northern California and was a vice-president at Ampex. The Fairchild was advertised as "The World Accepted Standard for Level Control" back in the 1950s when it was originally sold. It is still revered for its extremely smooth, artifact-free sound.
 
-![fairchild-670-hw1.jpg](966c9c5863a046b63e8151ca72f6811c41fca155.jpg)
+![fairchild-670-hw1.jpg](../../attachments/fairchild-tube-limiter-collection-manual_assets--966c9c5863a046b63e8151ca72f6811c41fca155--a958463f91321397.jpg)
 
 <span class="wysiwyg-font-size-small">v260205</span>
 

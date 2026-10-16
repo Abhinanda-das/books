@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/dn"
 ---
 
-![обложка|156](<Divine Nature/обложка.jpeg>)
+![обложка|156](<../attachments/divine-nature--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a61d9990e4099436.jpeg>)
 
 According to Divine Nature, the real cause of the global environmental crisis is an underlying lack of spiritual understanding. The authors systematically demonstrate that most proposed solutions are only palliative and that humankind must undergo a profound change in consciousness to live in an environmentally sound way.
 

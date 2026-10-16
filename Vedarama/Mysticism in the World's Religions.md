@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/parrinder-mitwr"
 ---
 
-![обложка|156](<Mysticism in the World's Religions/обложка.jpeg>)
+![обложка|156](<../attachments/mysticism-in-the-world-s-religions--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3fc680e81760bfc7.jpeg>)
 
 Aiming to provide clues to the diverse forms and expressions of mysticism, by considering some of the major religious traditions of both East and West, this book explores two principal areas. These are monistic mysticism (seeking self-identity or union with the All) and theistic mysticism (seeking communion, but not identity, with God). The search for the mystical through drugs, sex and visions is also discussed, as is the relationship of the expert to the ordinary seeker.
 

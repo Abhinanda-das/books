@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gourgovindasw-tas"
 ---
 
-![обложка|156](<Tṛṇād Api Sunīcena/обложка.jpeg>)
+![обложка|156](<../attachments/t%E1%B9%9B%E1%B9%87%C4%81d-api-sun%C4%ABcena--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3e155088952569b2.jpeg>)
 
 Trinad Api Sunicena is a series of lectures on how we need to develop the mood of humility, tolerance, patience, perseverance and how one should behave in a Vaisnava society. Developing these qualities will help us on our path of hari-bhajana! Sriman Mahaprabhuâ€™s main teaching was one of humility and tolerance.
 

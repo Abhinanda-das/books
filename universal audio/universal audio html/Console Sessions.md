@@ -69,7 +69,7 @@ Session files can be saved and loaded via several methods: the [Session Browser]
 # Session Name
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![session-name.png](Console%20Sessions_assets/af693dde8b53a6a6ac509243984b1e3cd7ea366d.png)
+![session-name.png](../../attachments/console-sessions_assets--af693dde8b53a6a6ac509243984b1e3cd7ea366d--a62160b1cc136110.png)
 </figure>
 
 Session names are displayed in the Meter Bridge, in device tabs at the top of the main UAD Console window ("live-session-ii" in the screenshot above), below the word SESSIONS above the Mixer Navigation panel, and at the top of the Session Browser. Session names are created when the file is saved; they can also be renamed via the OS file system.
@@ -77,7 +77,7 @@ Session names are displayed in the Meter Bridge, in device tabs at the top of th
 # Modified Session Name
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![sesssion-name-edited.png](Console%20Sessions_assets/8608d790d9b6fdce6261c57c5efe39403dcc1487.png)
+![sesssion-name-edited.png](../../attachments/console-sessions_assets--8608d790d9b6fdce6261c57c5efe39403dcc1487--b0c650cbe8dba3f8.png)
 </figure>
 
 When any UAD Console setting is changed after the session is saved, an asterisk (\*) appears after the session name. This is a convenient visual reminder that the session is modified and may need to be saved for future use. To clear the asterisk, save the session or create a new session.
@@ -85,7 +85,7 @@ When any UAD Console setting is changed after the session is saved, an asterisk 
 # SYNC Session Name
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![session-name-sync-session.png](Console%20Sessions_assets/abf212d4d6227cb82fef32a22bcb24a203487dd7.png)
+![session-name-sync-session.png](../../attachments/console-sessions_assets--abf212d4d6227cb82fef32a22bcb24a203487dd7--c23308b887b974a7.png)
 </figure>
 
 When a DAW project containing the UAD Console Recall plug-in is opened that has the SYNC function in the plug-in enabled, the session name changes to "- Sync Session -" indicating that the DAW has sent session settings to UAD Console. For complete Sync details, see [SYNC](https://help.uaudio.com/hc/en-us/articles/26489269396116#h_01HXHYD7277MFKPPCBS3NRJQDB).
@@ -93,7 +93,7 @@ When a DAW project containing the UAD Console Recall plug-in is opened that has 
 # Modified Session Dialog
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![](Console%20Sessions_assets/ccb7da36ff9a7fd5f4102785cc3b080fad19b0fa.png)
+![](../../attachments/console-sessions_assets--ccb7da36ff9a7fd5f4102785cc3b080fad19b0fa--3a3c085e3e9f2f0b.png)
 </figure>
 
 If the current UAD Console session has been modified and a new UAD Console session is loaded, a dialog displaying the current session name in quotes appears with options (note that the session name idoes not appear if the session has never been saved). The behavior of the options in this dialog are detailed below.
@@ -113,7 +113,7 @@ The Session Browser opens to the left of the UAD Console screen. The Browser pro
 When a session file is subsequently reloaded, UAD Console is returned to the same configuration state, regardless of any changes to UAD Console that were made in the interim.
 
 <figure class="wysiwyg-image">
-![](Console%20Sessions_assets/68b748fdd99b1411fe783b94812b80e75f674007.png)
+![](../../attachments/console-sessions_assets--68b748fdd99b1411fe783b94812b80e75f674007--651f47c504e12f66.png)
 </figure>
 
 *The Session Browser*
@@ -121,7 +121,7 @@ When a session file is subsequently reloaded, UAD Console is returned to the sam
 ## Session Browser Access
 
 <figure class="wysiwyg-image">
-![session-browser-open.png](Console%20Sessions_assets/b65a7f0f9216aa7dd0f1741a954d369c436bff0c.png)
+![session-browser-open.png](../../attachments/console-sessions_assets--b65a7f0f9216aa7dd0f1741a954d369c436bff0c--1ef686514e1ed27f.png)
 </figure>
 
 *Click to open the Session Browser*
@@ -138,7 +138,7 @@ The contents of the session folder include the list of saved sessions and any su
 - **Sub-Folders:** If the Session Browser contains one or more folders, expanding a folder by clicking the disclosure triangle displays its contents in the list. 
 
 <figure class="wysiwyg-image">
-![](Console%20Sessions_assets/7224641199ffaea7887f150c4e9ec8c1472d04cd.png)
+![](../../attachments/console-sessions_assets--7224641199ffaea7887f150c4e9ec8c1472d04cd--81e9f84e9d444c4e.png)
 </figure>
 
 *Sessions folder contents shown in macOS Finder*
@@ -162,7 +162,7 @@ Opens the operating system's standard "Open File" dialog for loading existing se
 Opens the Save Session dialog, in which you can save the file, or the current modified preset file in place. If the preset was not previously saved (if the file doesn't exist), or if you type a new name for the file, the Save button changes to Save As.
 
 <figure class="wysiwyg-image">
-![](Console%20Sessions_assets/2c2c8a7554d7af947ae186ca998e03b852d3811d.png)
+![](../../attachments/console-sessions_assets--2c2c8a7554d7af947ae186ca998e03b852d3811d--d996ea2b85ac732b.png)
 </figure>
 
 ### Save As
@@ -170,7 +170,7 @@ Opens the Save Session dialog, in which you can save the file, or the current mo
 This option appears when you type a new name for the session, after clicking Save. 
 
 <figure class="wysiwyg-image">
-![](Console%20Sessions_assets/48a730d09408aef8824ec9dffc956201c4d815ca.png)
+![](../../attachments/console-sessions_assets--48a730d09408aef8824ec9dffc956201c4d815ca--f935c7c89076c964.png)
 </figure>
 
 **Important:** Session settings will not be properly saved if the "/" (forward slash) or "?" (question mark) characters are in the filename. Avoid these and other special characters when saving session files.
@@ -186,7 +186,7 @@ Items in the menu are divided into three sections. File management options are i
 To access the Sessions menu, right-click or Control-click the Sessions area located at the top of the Mixer Navigation area. When the menu is displayed, clicking an item in the menu chooses that item.
 
 <figure class="wysiwyg-image">
-![](Console%20Sessions_assets/94d19fcb9ba1ec482760605de66638ec400ffe26.png)
+![](../../attachments/console-sessions_assets--94d19fcb9ba1ec482760605de66638ec400ffe26--7945fe1bd04771b8.png)
 </figure>
 
 *Display the Sessions Menu*
@@ -194,7 +194,7 @@ To access the Sessions menu, right-click or Control-click the Sessions area loca
  
 
 <figure class="wysiwyg-image">
-![](Console%20Sessions_assets/c28c4ba0ffffd147ddfe119b985877ecf6ae61cc.png)
+![](../../attachments/console-sessions_assets--c28c4ba0ffffd147ddfe119b985877ecf6ae61cc--c7dd2bc0358e0583.png)
 </figure>
 
 *The Sessions Menu*

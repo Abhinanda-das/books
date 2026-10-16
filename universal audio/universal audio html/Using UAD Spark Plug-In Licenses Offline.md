@@ -22,13 +22,13 @@ The iLok USB method applies to users with a UAD Spark subscription or users with
 
 1.  <span style="color: #464646;">Launch iLok License Manager and sign in using your iLok account credentials.\
     </span>**<span style="color: #464646;">Note:</span>**<span style="color: #464646;"> iLok License Manager was automatically installed when UA Connect was installed. If for some reason it is not installed, you can download it directly from **<a href="https://www.ilok.com" rel="noopener noreferrer" target="_blank">the PACE website</a>**.\
-    </span>![image4.png](Using%20UAD%20Spark%20Plug-In%20Licenses%20Offline_assets/a575a7db17247f6431017d61e51a2d79700dfa2e.png)
+    </span>![image4.png](../../attachments/using-uad-spark-plug-in-licenses-offline_assets--a575a7db17247f6431017d61e51a2d79700dfa2e--85ff7646e822fae0.png)
 2.  Click **File**<span style="color: #464646; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"> in the menu bar, and select </span>**Close Your Cloud Session**<span style="color: #464646; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">.\
-    </span>![image3.png](Using%20UAD%20Spark%20Plug-In%20Licenses%20Offline_assets/04159b02daecf278190b4af243001db22933b785.png)
+    </span>![image3.png](../../attachments/using-uad-spark-plug-in-licenses-offline_assets--04159b02daecf278190b4af243001db22933b785--51e4e4664215b865.png)
 3.  If you want to authorize the license to an iLok USB, connect your physical iLok USB to the computer.
 4.  From the **Available** tab, select your **Cloud** account in the left column, then drag the license(s) to your connected **iLok USB.**\
-    ![image1.png](Using%20UAD%20Spark%20Plug-In%20Licenses%20Offline_assets/d01997c703217114d2dbe6e71733555b63b3e239.png)
+    ![image1.png](../../attachments/using-uad-spark-plug-in-licenses-offline_assets--d01997c703217114d2dbe6e71733555b63b3e239--d0f11ba7844e3d89.png)
 5.  The iLok confirmation dialog appears.  Click **OK**<span style="color: #464646; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"> to continue, and the license is moved to the iLok USB hardware.\
-    </span>![image2.png](Using%20UAD%20Spark%20Plug-In%20Licenses%20Offline_assets/c356371d9e683abcead9e121abbb6173e905af27.png)\
+    </span>![image2.png](../../attachments/using-uad-spark-plug-in-licenses-offline_assets--c356371d9e683abcead9e121abbb6173e905af27--24b70491675be394.png)\
     **<span class="wysiwyg-color-red">Important Note</span>**<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">: If PACE services are suffering from an outage, make sure to turn your Wi-Fi off in order to use your licenses authorized to an iLok USB.</span>
 

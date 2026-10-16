@@ -20,17 +20,17 @@ This article contains complete operating instructions for UAD Console, your soft
  
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/9103ff4dde2744f55565a736f5f03c1fb5e26542.png)
+![volt-logo.png](../../attachments/uad-console-for-volt-876-manual_assets--9103ff4dde2744f55565a736f5f03c1fb5e26542--2c9d28f629d53b67.png)
 </figure>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-876-console.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/dcf4a7526e4a9d4dcc272add6924ac9e1e446741.png)
+![volt-876-console.png](../../attachments/uad-console-for-volt-876-manual_assets--dcf4a7526e4a9d4dcc272add6924ac9e1e446741--50de18ec8e8adaf1.png)
 </figure>
 
  
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![volt-876-3qtr.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/a18d2742bc7bd85b0c538a0fe268b089e2259fc4.png)
+![volt-876-3qtr.png](../../attachments/uad-console-for-volt-876-manual_assets--a18d2742bc7bd85b0c538a0fe268b089e2259fc4--fca876e2bca22f22.png)
 </figure>
 
  
@@ -135,7 +135,7 @@ UAD Console for Volt 876 always shows certain screen elements (the title bar, in
 **Tip:** UAD Console supports multiple levels of undo and redo. To undo a change in UAD Console, press Command+Z (Mac) or Alt+Z (Windows).
 
 <figure class="wysiwyg-image">
-![volt-876-console-callouts.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/c87fb719a43271cc9de81c277a0831df45b68f7c.png)
+![volt-876-console-callouts.png](../../attachments/uad-console-for-volt-876-manual_assets--c87fb719a43271cc9de81c277a0831df45b68f7c--43c7ba3c41d6112b.png)
 </figure>
 
  
@@ -226,7 +226,7 @@ UAD Console for Volt 876 always shows certain screen elements (the title bar, in
 The Title Bar is the topmost strip in the UAD Console window, as shown below.
 
 <figure class="wysiwyg-image">
-![volt-876-top-bar.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/8b010bf0c212b1cf5f960932ab9ae31e18646250.png)
+![volt-876-top-bar.png](../../attachments/uad-console-for-volt-876-manual_assets--8b010bf0c212b1cf5f960932ab9ae31e18646250--fd45dda73c9ce435.png)
 </figure>
 
 *UAD Console Title Bar*
@@ -242,7 +242,7 @@ The meter bridge appears at the top of the UAD Console window. The Meter Bridge 
 Drag left or right in the meter bridge to see any inputs that may be out of view (if all channels are not already visible). 
 
 <figure class="wysiwyg-image">
-![volt-876-meter-bridge-arrows.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/865bb42e7b0226e9603f38f78a204d66bd0058c1.png)
+![volt-876-meter-bridge-arrows.png](../../attachments/uad-console-for-volt-876-manual_assets--865bb42e7b0226e9603f38f78a204d66bd0058c1--dd0e8cb382be2892.png)
 </figure>
 
 ### Meter Bridge Channel Meters
@@ -254,7 +254,7 @@ The vertical LED meters represent input signal activity for each displayed chann
 The following illustration shows how signals move through an input channel strip in UAD Console. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![volt-876-channel-flow.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/80b59abf84a7fa2dfb1bcb4e769fff1b98e7cf61.png)
+![volt-876-channel-flow.png](../../attachments/uad-console-for-volt-876-manual_assets--80b59abf84a7fa2dfb1bcb4e769fff1b98e7cf61--ccf89eded124c3c3.png)
 </figure>
 
  
@@ -335,7 +335,7 @@ The following illustration shows how signals move through an input channel strip
 The Info Bar is where you can access commonly adjusted settings.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![volt-876-info-bar-usb.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/96a4b991ad6cc28dbd179531ca29f04b263e318e.png)
+![volt-876-info-bar-usb.png](../../attachments/uad-console-for-volt-876-manual_assets--96a4b991ad6cc28dbd179531ca29f04b263e318e--1420d2beaac4c277.png)
 </figure>
 
 ### Mode
@@ -387,7 +387,7 @@ All analog inputs have preamps and accept audio from analog sources such as a mi
 ## Analog preamp quick reference
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-876-analog-preamp-channel-callouts.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/76ec08385534a504c42ba27b5cac2cecb6af99b6.png)
+![volt-876-analog-preamp-channel-callouts.png](../../attachments/uad-console-for-volt-876-manual_assets--76ec08385534a504c42ba27b5cac2cecb6af99b6--d0dbeb7cea97ba2e.png)
 </figure>
 
 <div>
@@ -508,7 +508,7 @@ Press the INST switch to toggle the impedance and gain of the ¼" input to accom
 You can manually adjust the gain for an input channel with the gain knob in UAD Console, or you can use the encoder on the left side of the Volt 876 hardware. In UAD Console, drag the knob to adjust the level. Adjust the level so your loudest sources do not peak in the red on the UAD Console input strip meter. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 13%;">
-![gain-arrow.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/1565b3c98293cecf27abaca98ac16fe0f9a2fe06.png)
+![gain-arrow.png](../../attachments/uad-console-for-volt-876-manual_assets--1565b3c98293cecf27abaca98ac16fe0f9a2fe06--c12708a65bf7c355.png)
 </figure>
 
 ### Assistive Auto-Gain
@@ -522,7 +522,7 @@ You can set the preamp's input gain automatically with Assistive Auto-Gain.
 1.  On any preamp channel, press the Auto-Gain button under the gain knob. The Auto-Gain floating window opens.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![auto-gain-fw.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/749a7d028a3ad4f414490acc3f51ef7fdbb20781.png)
+![auto-gain-fw.png](../../attachments/uad-console-for-volt-876-manual_assets--749a7d028a3ad4f414490acc3f51ef7fdbb20781--e30fb3017ce99857.png)
 </figure>
 
 2.  Press Start, and play your source as loudly as you will play during the performance. The gain is set automatically.
@@ -540,7 +540,7 @@ The Auto-Gain floating window closes after the listening duration completes. To 
 Click SHOW MORE to see more settings for Auto-Gain.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![auto-gain-fw-more.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/86769073dc213b92b1748b7b2f9dbaef2b266480.png)
+![auto-gain-fw-more.png](../../attachments/uad-console-for-volt-876-manual_assets--86769073dc213b92b1748b7b2f9dbaef2b266480--9caaf956927f2230.png)
 </figure>
 
 <div>
@@ -613,7 +613,7 @@ Volt 876's ADAT channels can be shown or hidden in UAD Console. To toggle ADAT c
 Note that the visibility of an input does not mute or unmute audio. Use the Mute switch to mute a digital channel. If S/PDIF digital format is specified, those channels are always displayed and the buttons for ADAT channels do not appear.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 13%;">
-![show-adat-channels.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/defc78c4cb923c1de04d5008bcdbd934116ce888.png)
+![show-adat-channels.png](../../attachments/uad-console-for-volt-876-manual_assets--defc78c4cb923c1de04d5008bcdbd934116ce888--6e3da2d464930938.png)
 </figure>
 
 ### ADAT
@@ -711,7 +711,7 @@ A simple overview of the available digital audio channels at different sample ra
 The loopback (software playback) channel routes system audio into your UAD Console mixer. With this channel you can incorporate audio from audio apps, videos, games, or other system events into your audio production stream. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 13%;">
-![loopback-with-audio.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/92cdb350e19214134bb2d272074ff260545cc23c.png)
+![loopback-with-audio.png](../../attachments/uad-console-for-volt-876-manual_assets--92cdb350e19214134bb2d272074ff260545cc23c--71bee1be66ae7304.png)
 </figure>
 
 Typical loopback uses:
@@ -732,7 +732,7 @@ Monitor mix are the controls in UAD Console that allow you to mix audio signals 
 **Tip:** You can toggle compact faders (making them shorter) by clicking the top edge of the fader area. Alternatively, choose View \> Compact Monitor Faders from the UAD Console menus to toggle fader height. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-876-monitor-channel.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/6b60a49ee4116bab25dc78a0d138a05cde7308b6.png)
+![volt-876-monitor-channel.png](../../attachments/uad-console-for-volt-876-manual_assets--6b60a49ee4116bab25dc78a0d138a05cde7308b6--e906770078f9de94.png)
 </figure>
 
 <div>
@@ -797,7 +797,7 @@ Monitor mix are the controls in UAD Console that allow you to mix audio signals 
 Click on the name of an input at the bottom of the channel strip to open the rename / link popover. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![volt-876-rename-link.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/d99e31c659a62a00781856be2779b75faf338b14.png)
+![volt-876-rename-link.png](../../attachments/uad-console-for-volt-876-manual_assets--d99e31c659a62a00781856be2779b75faf338b14--89318df9386c8595.png)
 </figure>
 
  
@@ -845,7 +845,7 @@ Click on the name of an input at the bottom of the channel strip to open the ren
 The Monitor Column contains elements related to monitor outputs, fader display, and cues. The Monitor Column is visible at the right side of the UAD Console window, when View \> Section \> Monitor is selected from the UAD Console menus. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-876-monitor-column.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/da3b9094c5e7363361104751d125622a5aac07b0.png)
+![volt-876-monitor-column.png](../../attachments/uad-console-for-volt-876-manual_assets--da3b9094c5e7363361104751d125622a5aac07b0--240a59b5f9de9327.png)
 </figure>
 
 <div>
@@ -938,7 +938,7 @@ Monitor options are controlled with the switches in the Output section.
 By default, only Mono and Mute switches are displayed. When Alt monitoring is enabled, the Monitor and Alt switches are displayed.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 30%;">
-![output-alt-enabled-disabled.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/57a564811a035f14e55f332e2c964c5579009e5e.png)
+![output-alt-enabled-disabled.png](../../attachments/uad-console-for-volt-876-manual_assets--57a564811a035f14e55f332e2c964c5579009e5e--e5dd00e3b7288cea.png)
 </figure>
 
 *Output section with Alt disabled (left) and Alt enabled (right)*
@@ -1082,7 +1082,7 @@ Volt 876 session files have the ".volt876" suffix. The suffix is added to sessio
  
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![volt-876-session-browser.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/75ecfd659844190b8c43dc57d8a2569f24a927b4.png)
+![volt-876-session-browser.png](../../attachments/uad-console-for-volt-876-manual_assets--75ecfd659844190b8c43dc57d8a2569f24a927b4--fdb5126421407511.png)
 </figure>
 
 *The Session Browser*
@@ -1094,7 +1094,7 @@ Volt 876 session files have the ".volt876" suffix. The suffix is added to sessio
 The Control Room column can be accessed by clicking CTRL ROOM on the Show section of the Monitor column. The Control Room controls allow you to activate the Talkback mic and adjust talkback levels to the Cues, and select the source that is heard at the monitor 1–2 outputs. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![ctrl-room.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/931c08d0293ca308926cbce9c2d35b6d712963f5.png)
+![ctrl-room.png](../../attachments/uad-console-for-volt-876-manual_assets--931c08d0293ca308926cbce9c2d35b6d712963f5--067ebacb3dfe7e4c.png)
 </figure>
 
 <div>
@@ -1184,7 +1184,7 @@ Cues are assigned in the Cue Outputs popover, where you assign Cue mixes or the 
 By default, the headphones receive the main mix. To hear the cue mixes in the headphones, disable the MIX button in the Cue Outputs popover. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 13%;">
-![volt-876-cues-button.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/fec8e79b6ff108de540177523241b17e527b7495.png)
+![volt-876-cues-button.png](../../attachments/uad-console-for-volt-876-manual_assets--fec8e79b6ff108de540177523241b17e527b7495--ed700eaba349f356.png)
 </figure>
 
 ### Cue popover options
@@ -1192,7 +1192,7 @@ By default, the headphones receive the main mix. To hear the cue mixes in the he
 To open the Cue outputs popover, click Cues in the Monitor column.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![volt-876-cue-outputs png.](UAD%20Console%20for%20Volt%20876%20Manual_assets/780740b4043ff849376a2453ffb3d8449500d6cb.png)
+![volt-876-cue-outputs png.](../../attachments/uad-console-for-volt-876-manual_assets--780740b4043ff849376a2453ffb3d8449500d6cb--0373dfc361fba952.png)
 </figure>
 
 <div>
@@ -1253,7 +1253,7 @@ By default, cues are shown in Small view, which includes a level knob and mute s
 To expand a cue row, click the Large icon to the left of the row.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-876-cue-size.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/a9cf178bda54d0fba27d232d004ca4d17555584a.png)
+![volt-876-cue-size.png](../../attachments/uad-console-for-volt-876-manual_assets--a9cf178bda54d0fba27d232d004ca4d17555584a--6b936c635b5f6f58.png)
 </figure>
 
 ## Adjusting Cue Levels
@@ -1261,19 +1261,19 @@ To expand a cue row, click the Large icon to the left of the row.
 To adjust the level of the input sent to the cue mix, rotate the Cue knob. The cue level is shown while you engage the knob. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 13%;">
-![volt-876-cues.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/8789573abd9983d75ee1be56264f2b0e3df76bed.png)
+![volt-876-cues.png](../../attachments/uad-console-for-volt-876-manual_assets--8789573abd9983d75ee1be56264f2b0e3df76bed--14529ba031d518ba.png)
 </figure>
 
 You can enter a level by double-clicking the Cue knob to open the Cue volume popover, then type a dB value (-144 to +12), and click OK.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volume-popover.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/b1d2fdbba693700137df1f756d6181efce11ed7e.png)
+![volume-popover.png](../../attachments/uad-console-for-volt-876-manual_assets--b1d2fdbba693700137df1f756d6181efce11ed7e--6322b22dca1d6219.png)
 </figure>
 
 When Cues are in Large view, drag the fader to adjust the cue level, or click the level value at the bottom of the meter to open the cue volume popover and type the level. You can also adjust the pan control in this view. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 13%;">
-![volt-876-large-cue.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/e345532db0fe93d826e630e77e6a600e885a4eb0.png)
+![volt-876-large-cue.png](../../attachments/uad-console-for-volt-876-manual_assets--e345532db0fe93d826e630e77e6a600e885a4eb0--f9f16b52cfbb4d56.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -1333,7 +1333,7 @@ USB mode is the default configuration for Volt 876. In USB mode, analog inputs a
 </div>
 
 <figure class="wysiwyg-image">
-![volt-876-usb-mode.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/faab8129ad2fc3eac25918613f4a43f3261d844a.png)
+![volt-876-usb-mode.png](../../attachments/uad-console-for-volt-876-manual_assets--faab8129ad2fc3eac25918613f4a43f3261d844a--b2a83023ef730acd.png)
 </figure>
 
 *Volt 876 in USB interface mode*
@@ -1366,7 +1366,7 @@ In ADAT standalone mode, when Volt 876 is connected to your computer via USB, th
 - USB or ADAT mode
 
 <figure class="wysiwyg-image">
-![volt-876-adat-mode.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/53a7f7a95f701f9782b8267ba11b23ea11fffa6a.png)
+![volt-876-adat-mode.png](../../attachments/uad-console-for-volt-876-manual_assets--53a7f7a95f701f9782b8267ba11b23ea11fffa6a--f72f2c3933cdddf8.png)
 </figure>
 
 *Volt 876 in ADAT standalone mode in UAD Console*
@@ -1437,7 +1437,7 @@ For sample rates higher than 48 kHz, the maximum number of expander channels is 
 3.  Connect the USB interface unit and ADAT expander units to the computer via USB. You can use a USB hub to make these connections.
 4.  After making the connections, power on the Volt 876 hardware units.
 
-### Optical & USB Connections for Volt 876 ADAT expansion (44.1 kHz / 48 kHz) **![expanded-system.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/689fc7b115143cff6e4659d43c0b694d80d8466f.png)**
+### Optical & USB Connections for Volt 876 ADAT expansion (44.1 kHz / 48 kHz) **![expanded-system.png](../../attachments/uad-console-for-volt-876-manual_assets--689fc7b115143cff6e4659d43c0b694d80d8466f--445bca36912cae17.png)**
 
 <div>
 
@@ -1490,7 +1490,7 @@ For sample rates higher than 48 kHz, the maximum number of expander channels is 
 ### Optical & USB Connections for Volt 876 ADAT expansion (88.2 kHz – 192 kHz)
 
 <figure class="wysiwyg-image">
-![expanded-system-high-sr.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/60b588bc97df74863c68fc4216f2afcba8232a0d.png)
+![expanded-system-high-sr.png](../../attachments/uad-console-for-volt-876-manual_assets--60b588bc97df74863c68fc4216f2afcba8232a0d--e5785a2b51e3f9c4.png)
 </figure>
 
 ** **
@@ -1540,13 +1540,13 @@ For sample rates higher than 48 kHz, the maximum number of expander channels is 
 4.  From the Devices list, select the Volt 876 unit that is set to USB mode. This is the USB interface device that carries all computer audio I/O.
 5.  From the ADAT 1-8 menu (44.1 kHz – 96 kHz), select the ADAT expander unit connected to Optical in 1 and optical out 1 on the Usb interface unit. This becomes ADAT expander unit 1.\
     At 176.4 kHz or 192 kHz the menu label is ADAT 1-4.\
-    ![volt-876-selecting-adat-interface.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/da632835dba3d0d774c99e814213a919ae7e5ed8.png)\
+    ![volt-876-selecting-adat-interface.png](../../attachments/uad-console-for-volt-876-manual_assets--da632835dba3d0d774c99e814213a919ae7e5ed8--b7b21e83f69d35df.png)\
        
 6.  If using three Volt 876 units, from the ADAT 9-16 menu, select the second ADAT expander unit. 
 7.  Set the Volt 876 unit clock sources.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![volt-expanded-two-units-settings.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/dbe6e2fd4b5629b21d2e11222ca268a1d9e5d6cf.png)
+![volt-expanded-two-units-settings.png](../../attachments/uad-console-for-volt-876-manual_assets--dbe6e2fd4b5629b21d2e11222ca268a1d9e5d6cf--dad803381f394b19.png)
 </figure>
 
 **Note:** Settings shown are for 44.1 kHz and 48 kHz sample rate operation. At higher sample rates, labels and inputs appear differently. At 88.2 kHz and 96 kHz, only one expander unit can be selected, and the  expander unit is listed as ADAT 1–8. At 176.4 kHz and 192 kHz, only one expander unit can be selected, and the expander unit is listed as ADAT 1–4.
@@ -1558,13 +1558,13 @@ After configuring Volt 876 ADAT expansion with one or two additional Volt 876 un
 **Note:** Linking ADAT inputs on ADAT expander units is not supported.  
 
 <figure class="wysiwyg-image">
-![volt-876-usb-mode-16-channels.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/4c9c054b5fe002f3076d7015f5d20a3f00081347.png)
+![volt-876-usb-mode-16-channels.png](../../attachments/uad-console-for-volt-876-manual_assets--4c9c054b5fe002f3076d7015f5d20a3f00081347--3ab9c4bbce9a3c28.png)
 </figure>
 
 *UAD Console with one Volt 876 showing 16 inputs (no expander unit)*
 
 <figure class="wysiwyg-image">
-![volt-876-expanded-16-channels.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/65fcb6f9449ee44220760b4735db187e222b5ccb.png)
+![volt-876-expanded-16-channels.png](../../attachments/uad-console-for-volt-876-manual_assets--65fcb6f9449ee44220760b4735db187e222b5ccb--b959256f268f9b0e.png)
 </figure>
 
 *UAD Console with one ADAT expander unit, showing 16 preamp inputs*
@@ -1579,7 +1579,7 @@ You can expand your Volt 876 system to include one or two other ADAT or S/PDIF d
 - **Clocking:** If your gear is connected only from outputs to the inputs via the TOSLINK connections, the outboard gear must be the digital clock source, so you should set the clock source in UAD Console to ADAT.
 
 <figure class="wysiwyg-image">
-![volt-876-external-adat.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/15068b4ed7b66f357561af18a7306b4a0adda962.png)
+![volt-876-external-adat.png](../../attachments/uad-console-for-volt-876-manual_assets--15068b4ed7b66f357561af18a7306b4a0adda962--d0b576649598a201.png)
 </figure>
 
 *Example connections for digital outboard gear with Volt 876*
@@ -1603,7 +1603,7 @@ To access settings in UAD Console for Volt 876:
 2.  Choose UAD Console \> Settings from the UAD Console menus.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-876-settings.png](UAD%20Console%20for%20Volt%20876%20Manual_assets/b7c61048facb4868db33b0417670eb03eaba14e5.png)
+![volt-876-settings.png](../../attachments/uad-console-for-volt-876-manual_assets--b7c61048facb4868db33b0417670eb03eaba14e5--21d01880f679611a.png)
 </figure>
 
 <div>

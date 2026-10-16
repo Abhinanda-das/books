@@ -9,7 +9,7 @@ word_count: 2949
 **®** 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0001-01.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0001-01--109cd5b705b14f86.png>)
 
 
 **User’s Guide ®** 
@@ -17,7 +17,7 @@ word_count: 2949
 Rev. Oct 24, 2016 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0002-00.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0002-00--189513537b396f06.png>)
 
 
 ## **Softube User Manual** 
@@ -80,11 +80,11 @@ In the bottom of the plug-in interface, you will see a thin black row with some 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0005-07.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0005-07--e25f204595e0f378.png>)
 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0005-08.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0005-08--a393574f3044af0d.png>)
 
 
 ## Enable 
@@ -100,7 +100,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 Enable Setup 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0005-15.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0005-15--eca4013fe8edefbc.png>)
 
 
 **6** | USER INTERFACE 
@@ -154,7 +154,7 @@ Chandler Limited’s Zener Limiter continues the tradition of EMI Limiters start
 Abbey Road Studios, EMI, TG, RS, Zener Limiter and their associated logos are trade marks of EMI (IP) Limited. 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0008-00.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0008-00--3f3185ecb9b44f9b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -194,7 +194,7 @@ Left/Mid Center Section Section
 Right/Side Section 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0009-10.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0009-10--415d084d7946ac10.png>)
 
 
 **10** | CHANDLER LIMITED® ZENER LIMITER® 
@@ -202,7 +202,7 @@ Right/Side Section
 ## Left/Mid and Right/Side Section 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0010-02.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0010-02--31d7464e949ddadc.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -224,7 +224,7 @@ SOFTUBE USER’S GUIDE | **11**
 ~~Output Another 21-position gold con-~~ tact switch, set for +/-10 dB of gain control in 1 dB steps. Use 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0011-04.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0011-04--2086c0edf585ca7a.png>)
 
 
 this for gain make up when hard limiting or to drive the second channel into a higher THD range when in THD mode as described above. 
@@ -236,7 +236,7 @@ Hold SHIFT while adjusting either the **input** or **Output** to adjust both sim
 used for tailoring the overall tone of the Zener Limiter. COMP 1 is a 2:1 ratio with slower time constants that was originally designed by EMI technical engineers to emulate Abbey Road’s RS124 Compressor. LIMIT is much faster and designed to emulate the response curves of the studio’s Fairchild 660s. COMP 2 is an modern setting placing the limiter halfway between the two original settings and essentially giving you the compression curve of COMP 1 with faster release times similar to LIMIT. 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0012-00.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0012-00--f538a5fc70161d4c.png>)
 
 
 ~~Sidechain Sidechain fltering was added~~ to the Zener as part of the effort to make an ultimately flexible TG Limiter. In situations where a TG1 may be too aggressive, the sidechain filter, combined with other Zener modifications, makes this new TG limiter useable in nearly every situation. 
@@ -246,7 +246,7 @@ With this control you can remove low frequency information (30 to 300 Hz) feedin
 ~~Attack Te~~ ~~**Attack** control combined~~ with the **Sidechain** filter is the heart of the flexibility of the Zener. The RS168 and all TG versions of the limiter had fixed attack times, until now. You will notice that setting 2 is white, this is the original attack time with the remaining positions in yellow being new settings. Since the attack times were generally quite quick, especially in LIMIT mode, most additional settings are slower. These are extremely effective on drums and bass when combined with sidechain filter. 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0012-04.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0012-04--3bb127e8edb01704.png>)
 
 
 ~~Release A special feature of all EMI~~ limiters, from the RS114 tube limiter, RS124 compressor, RS168 Zener prototype, TG12345 console limiter, and TG12413 mastering desk limiter was that they all shared a special set of six recovery or release times. 
@@ -306,7 +306,7 @@ One excellent use of this is to patch the two Zener channels in series, using th
 **Björn Rödseth** - modelling. **Paul Shyrinskykh** - product owner, manual. **Niklas Odelholm** - graphic design. **Ulf Ekelöf** - 3D rendering. 
 
 
-![](<Chandler Limited Zener Limiter Manual_assets/Chandler_Limited_Zener_Limiter_Manual.pdf-0015-00.png>)
+![](<../../attachments/chandler-limited-zener-limiter-manual_assets--chandler_limited_zener_limiter_manual.pdf-0015-00--1308c48abb8f0ba6.png>)
 
 
 **Softube AB, S:t Larsgatan 9D, 582 24 Linköping, Sweden. www.softube.com** 

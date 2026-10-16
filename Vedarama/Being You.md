@@ -260,7 +260,7 @@ Measuring conscious level in humans is not the same as deciding whether someone 
 
 To track conscious level, we need to ask what in the brain underlies being conscious, as opposed to merely being awake. Could it simply be the number of neurons involved? It doesn’t seem so. The cerebellum (the ‘little brain’ hanging off the back of your cortex) has about four times as many neuronsas the rest of the brain put together, but seems barely involved in consciousness. There is a rare condition called cerebellar agenesis in which people fail to develop anything like a normal cerebellum yet still manage to lead largely normal lives. Certainly, there is no reason to doubt that they are conscious.
 
-![рис-001.png|612](<Being You/рис-001.png>)
+![рис-001.png|612](<../attachments/being-you--%D1%80%D0%B8%D1%81-001--94574fc44b2b7ff3.png>)
 
 **Fig. 1: The relation between conscious level (awareness) and wakefulness (arousal).**
 
@@ -356,7 +356,7 @@ What does it mean for a mechanism to be both integrated and informative? Let’s
 
 At the other extreme (on the right), all the elements do exactly the same thing, so that the state of each element is completely determined by the state of the other elements in the system. No randomness at all. This would be like the arrangement of atoms in a crystal lattice, in which the position of any individual atom is fully determined by the lattice structure, which is defined by the positions of all the other atoms. This kind of arrangement has maximum integration, but almost no information, because there are very few possible states that the system can be in.
 
-![рис-002.png|438](<Being You/рис-002.png>)
+![рис-002.png|438](<../attachments/being-you--%D1%80%D0%B8%D1%81-002--0fc9844c135a2d38.png>)
 
 **Fig. 2: The relation between complexity and regularity.**
 
@@ -484,7 +484,7 @@ This is an appealing picture. Patterns of thinking established over decades, may
 
 Here’s how the bottom-up picture is supposed to work. Stimuli from the world – light waves, sound waves, molecules conveying tastes and smells, and so on – impinge on sensory organs and cause electrical impulses to flow ‘upwards’ or ‘inwards’ into the brain. These sensory signals pass through several distinct processing stages, shown by the black arrows in the image below, with each stage analysing out increasingly complex features. Let’s take vision as an example. Early stages might respond to features like luminance or edges, and later, deeper stages to object parts – such as eyes and ears, or wheels and wing mirrors. Still later stages would respond to whole objects, or object categories, like faces, cars and coffee cups.
 
-![рис-003.png|443](<Being You/рис-003.png>)
+![рис-003.png|443](<../attachments/being-you--%D1%80%D0%B8%D1%81-003--c50bb51211451a9d.png>)
 
 **Fig. 3: Perception as bottom-up feature detection.**
 
@@ -528,7 +528,7 @@ First, the brain is constantly making predictions about the causes of its sensor
 
 Second, sensory signals – which stream into the brain from the bottom up, or outside in – keep these perceptual predictions tied in useful ways to their causes: in this case, a coffee cup. These signals serve as prediction errors registering the difference between what the brain expects and what it gets at every level of processing. By adjusting top-down predictions so as to suppress bottom-up prediction errors, the brain’s perceptual best guesses maintain their grip on their causes in the world. In this view, perception happens through a continual process of prediction error minimisation.
 
-![рис-004.png|430](<Being You/рис-004.png>)
+![рис-004.png|430](<../attachments/being-you--%D1%80%D0%B8%D1%81-004--1333f81b1e40781d.png>)
 
 **Fig. 4: Perception as top-down inference.**
 
@@ -580,7 +580,7 @@ In fact, A and B are precisely the same shade of grey. The checkerboard on the r
 
 What’s going on here is that the perception of greyness is determined not by the actual light waves coming from A or B – these are the same – but by the brain’s best guess about what caused these particular combinations of wavelengths, and – as with The Dress – this depends on context. B is in shadow, A is not, and the brain’s visual system has inscribed deep in its circuitry the knowledge that objects in shadow appear darker. In just the same way that the brain adjusts its perceptual inferences on the basis of ambient lighting, it adjusts its inferences about the shade of B on the basis of prior knowledge about shadows. This is why, in the left-side checkerboard, we perceive B as being lighter than the (shadow-free) A. By contrast, for the checkerboard on the right, the shadow context is disrupted by the superimposed grey bars, so we can see that A and B are in fact identical.
 
-![рис-005.png|477](<Being You/рис-005.png>)
+![рис-005.png|477](<../attachments/being-you--%D1%80%D0%B8%D1%81-005--48ee59993ed03284.png>)
 
 **Fig. 5: Adelson’s Checkerboard.**
 
@@ -588,7 +588,7 @@ This is all completely automatic. You are not – or at least were not – aware
 
 The final example reveals just how quickly new predictions can influence conscious perception. Take a look at the image below. Probably all you can see is a mess of black and white splodges. Then, after you’ve read the rest of this sentence, have a look at the image on p. 95, before returning here.
 
-![рис-006.png|471](<Being You/рис-006.png>)
+![рис-006.png|471](<../attachments/being-you--%D1%80%D0%B8%D1%81-006--c788c3196397e77d.png>)
 
 **Fig. 6: What is this?**
 
@@ -616,7 +616,7 @@ The short answer is that ‘seeing a gorilla’ is never a completely new percep
 
 The longer answer involves learning more about how the brain performs the wickedly complex neural gymnastics involved in perceptual inference – and this is precisely where we are headed in the next chapter.
 
-![рис-007.png|665](<Being You/рис-007.png>)
+![рис-007.png|665](<../attachments/being-you--%D1%80%D0%B8%D1%81-007--84219eee3eb89966.png>)
 
 **Fig. 7: This is what. Reference image for fig. 6.¶**
 
@@ -664,7 +664,7 @@ The simplest way to think about Bayesian beliefs – priors, likelihoods, and po
 
 The diagram below shows an example probability distribution for a variable X. A variable, in mathematics, is just a symbol that can take different values. A probability distribution for X describes the probability that the value of X lies within a particular range. As the diagram shows, it can be represented by a curve. The probability that X lies within a particular range is given by the area under the curve corresponding to that range. In this example, the probability that X lies between two and four is much higher than the probability that it lies between four and six. As with all probability distributions, the total area under the curve sums to exactly one. This is because when all possible outcomes are considered, something has to happen.
 
-![рис-008.png|481](<Being You/рис-008.png>)
+![рис-008.png|481](<../attachments/being-you--%D1%80%D0%B8%D1%81-008--adfe8f07881ed75f.png>)
 
 **Fig. 8: A Gaussian probability distribution.**
 
@@ -676,7 +676,7 @@ Let’s return to the gorilla example. The relevant priors, likelihoods, and pos
 
 What happens when new sensory data arrives? The process of Bayesian updating is easiest to see graphically. In the next diagram, the dotted curve represents the prior probability of encountering a gorilla. This curve has a low mean, indicating that gorillas are assumed to be unlikely, and a relatively high precision, indicating that this prior belief is held with high confidence. The dashed curve is the likelihood, corresponding to the sensory input. Here, the mean is higher, but the precision is lower: if a gorilla really was out there, these might be the sensory data you’d get, but you’re not too confident about this. The solid curve is the posterior, representing the probability of there being a gorilla, given the sensory data. As always, this is obtained by applying Bayes’ rule. When dealing with Gaussian probability distributions, applying Bayes’ rule amounts to multiplying the dotted and dashed curves together, while keeping the area under the resulting curve – the posterior – limited to exactly 1.
 
-![рис-009.png|628](<Being You/рис-009.png>)
+![рис-009.png|628](<../attachments/being-you--%D1%80%D0%B8%D1%81-009--553dbe332d2b2dac.png>)
 
 **Fig. 9: Bayesian inference with Gaussian probability distributions for best-guessing a gorilla sighting.**
 
@@ -776,7 +776,7 @@ Back in the lab, efforts to unravel the ways in which perceptual expectations un
 
 Yair used a set-up called ‘continuous flash suppression’ in which different images are presented to the left and right eyes. One eye is presented with a picture – in this case either a house or a face – while the other eye is presented with a rapidly changing pattern of overlapping oblongs. When the brain tries to fuse the two images into a single scene, it fails, and the changing oblongs tend to dominate, so that’s what the person consciously sees. Conscious perception of the picture is suppressed by the ‘continuous flashing’ shapes. Our experiment – illustrated below – used a version of this method in which the contrast of the oblongs started high and diminished over time, while that of the picture started low and increased. This meant that after a few seconds at most, the picture – either a house or a face – became consciously visible.
 
-![рис-010.png|353](<Being You/рис-010.png>)
+![рис-010.png|353](<../attachments/being-you--%D1%80%D0%B8%D1%81-010--df52ee1912ec972d.png>)
 
 **Fig. 10: Continuous flash suppression with ramping contrast.\***
 
@@ -798,7 +798,7 @@ For anyone who doubts that the brain is the organ of experience, the hallucinati
 
 Of course, it’s possible to see faces in clouds without a pharmaceutical boost – at least to see their hints and suggestions, their probabilistic shadows projected onto and into the sky. The general phenomenon of seeing patterns in things is called pareidolia (from the Greek ‘alongside’ and ‘image’). For humans – and some other animals – the significance of faces means that our brains come preloaded with strong face-related prior expectations. This is why we all tend to see faces in things, to some degree, whether in clouds, pieces of toast, or even old bathroom sinks – as in the image below. And because we all do it, we typically don’t think of pareidolia as hallucination. When a schizophrenic hears a voice commanding him to do violence to himself, or telling him that he is Jesus reborn, and when nobody else hears this voice, things are different and we call it hallucination. When on LSD I see Cilla Blacks marching across the sky, that too is hallucination.
 
-![рис-011.png|552](<Being You/рис-011.png>)
+![рис-011.png|552](<../attachments/being-you--%D1%80%D0%B8%D1%81-011--687266eb35d6d8cd.png>)
 
 **Fig. 11: Seeing a face in a sink.**
 
@@ -816,7 +816,7 @@ The standard way these networks are used is to present them with an image and th
 
 When I first tried it out, the experience was much more compelling than I’d anticipated. While it wasn’t anything like a full-blown acid trip or psychotic hallucination (as far as I know), the world was nevertheless substantially transformed. There were no Cilla Blacks, but this time dogs, and dog parts, were organically emerging out of all parts of the scene around me in a way that seemed entirely different from just pasting dog pictures onto a pre-existing movie (see the image overleaf for a black-and-white still). The power of 126the hallucination machine lies in its ability to simulate the effects of top-down best guesses that dogs are present, and in doing so to recapitulate in an exaggerated fashion the process by which we perceive and interpret visual scenes in the real world.
 
-![рис-012.png|629](<Being You/рис-012.png>)
+![рис-012.png|629](<../attachments/being-you--%D1%80%D0%B8%D1%81-012--a34328f0b41dad74.png>)
 
 **Fig. 12: Still from a ‘hallucination machine’ video.**
 
@@ -836,7 +836,7 @@ Artists have long recognised the relevance of objecthood for human perception. R
 
 In cognitive science, the phenomenology of objecthood has been most thoroughly explored by ‘sensorimotor contingency theory’. According to this theory, what we experience depends on a ‘practical mastery’ of how actions change sensory inputs. When we perceive something, the content of what we perceive is not carried by the sensory signals; instead it emerges from the brain’s implicit knowledge about how actions and sensations are coupled. On this view, vision – and all our perceptual modalities – are things an organism does, not passive information feeds for a centralised ‘mind’.
 
-![рис-013.png|646](<Being You/рис-013.png>)
+![рис-013.png|646](<../attachments/being-you--%D1%80%D0%B8%D1%81-013--7d446728fcc57d16.png>)
 
 **Fig. 13: René Magritte, The Treachery of Images (1929).**
 
@@ -850,7 +850,7 @@ Another situation where objecthood is typically absent is in ‘grapheme-colour 
 
 In our VR lab, we’ve started to put some of these ideas to the test. In one recent experiment, we created a range of deliberately unfamiliar virtual objects, each defined by a variety of blobs and protrusions, which participants viewed through a head-mounted display (see below). We adapted the flash suppression method used in our previous face/house experiment so that each object was initially invisible but eventually broke through into consciousness. Whereas the face/house experiment had manipulated whether a particular image was expected or not, our VR set-up allowed us instead to manipulate the validity of sensorimotor predictions by changing the way the objects responded to actions. Participants used a joystick to rotate the virtual objects, and we could make them respond either as a real object would, or by revolving in random, unpredictable directions. We predicted that normally behaving virtual objects would break through into consciousness sooner than those that violated sensorimotor predictions, and this is precisely what we found. This experiment is admittedly imperfect because it takes the speed of access to conscious perception as a proxy for the phenomenology of objecthood. But it still shows that the validity of sensorimotor predictions can affect conscious perception in specific and measurable ways.
 
-![рис-014.png|930](<Being You/рис-014.png>)
+![рис-014.png|930](<../attachments/being-you--%D1%80%D0%B8%D1%81-014--a48bc9f02a8e4033.png>)
 
 **Fig. 14: Some virtual objects, designed to look unfamiliar.**
 
@@ -860,7 +860,7 @@ Among the many intuitive but false ideas about perception is that changes in wha
 
 Many experiments have shown that physical change – change in the world – is neither necessary nor sufficient for the perception of change. The snake-filled image below provides a striking example in which nothing is moving, yet there can be a perceptual impression of movement, especially if you let your eyes rove around the image. What’s happening is that the fine details of the picture, when seen in the periphery of your vision – out of the corner of your eye – convince your visual cortex to infer motion even though no motion is present.
 
-![рис-015.png|685](<Being You/рис-015.png>)
+![рис-015.png|685](<../attachments/being-you--%D1%80%D0%B8%D1%81-015--fd322674c82bf1d2.png>)
 
 **Fig. 15: ‘Rotating snakes’ illusion.‡**
 
@@ -1000,7 +1000,7 @@ Moving on from the body, there’s the experience of perceiving the world from a
 
 Experiences of volition, of intending to do things – intention – and of being the cause of things that happen – agency – are also central to selfhood. This is the volitional self. When people talk about ‘free will’ it is these aspects of selfhood that they are usually talking about. For many people the notion of ‘free will’ captures that aspect of being-a-self which they’re least willing to give up to science.
 
-![рис-016.png|534](<Being You/рис-016.png>)
+![рис-016.png|534](<../attachments/being-you--%D1%80%D0%B8%D1%81-016--c00b3711de1e9980.png>)
 
 **Fig. 16: Ernst Mach, Self-portrait (1886).**
 
@@ -1022,7 +1022,7 @@ Take the experience of identifying with a particular object in the world that is
 
 The rubber hand illusion is easy to try out for yourself – all you need is a willing volunteer, some pieces of cardboard to form a barrier, a couple of paintbrushes, and a rubber hand. The set-up is shown in the illustration opposite. The volunteer places her (real) hand on one side of the cardboard partition, out of sight. The rubber hand is placed in front of her, in the location and orientation that her real hand would normally occupy. Then the experimenter 155takes the paintbrushes and gently strokes both her real hand and the rubber hand, back and forth. The idea is that when the hands are stroked synchronously, she will develop the uncanny feeling that the rubber hand is somehow actually part of her body, even though she knows that it isn’t. But when the hands are stroked asynchronously, out of time, the illusion should not develop and she will not assimilate the rubber hand into her experience of what is her body.
 
-![рис-017.png|680](<Being You/рис-017.png>)
+![рис-017.png|680](<../attachments/being-you--%D1%80%D0%B8%D1%81-017--98952ef8a7133c16.png>)
 
 **Fig. 17: The rubber hand illusion. When the rubber hand and the real hand are stroked simultaneously (left), the experience of body ownership can shift so that the rubber hand may begin to feel like part of the person’s body (right).**
 
@@ -1036,7 +1036,7 @@ In 2007 two papers appeared in the prestigious journal Science at almost the sam
 
 In the same way that the rubber hand illusion hints at a moment-to-moment flexibility of body ownership, experiments like this – which are called ‘full body illusions’ – suggest that the subjective ownership of the entire body, and the location of the first-person perspective, can also be manipulated on the fly. These experiments provide fascinating evidence that experiences of ‘what is my body’ can be dissociated, at least to some extent, from experiences of ‘where I am’.
 
-![рис-018.png|684](<Being You/рис-018.png>)
+![рис-018.png|684](<../attachments/being-you--%D1%80%D0%B8%D1%81-018--3c38142237c0e7c2.png>)
 
 **Fig. 18: Creating a ‘full body illusion’.**
 
@@ -1420,7 +1420,7 @@ The data were clear. After averaging across many trials, the readiness potential
 
 A common interpretation of Libet’s experiment is that it ‘disproves free will’. Indeed, it is clearly bad news for spooky free will (not that more bad news is needed) because it seems to exclude the possibility that the experience of volition caused the voluntary action. Libet himself was sufficiently worried by this implication, that in what now seems like a desperate rescue attempt, he floated the idea that enough time remained between the moment of the urge and the resulting action for spooky free will to intervene and prevent the action from happening. If there isn’t any genuine (i.e. spooky) free will, Libet thought, maybe there’s still ‘free won’t’. This is a cute trick, but of course it doesn’t work. Conscious inhibition is no more a little miracle than the original conscious intention.
 
-![рис-019.png|823](<Being You/рис-019.png>)
+![рис-019.png|823](<../attachments/being-you--%D1%80%D0%B8%D1%81-019--464e949afb830450.png>)
 
 **Fig. 19: Benjamin Libet’s famous volition experiment.\***
 
@@ -1502,7 +1502,7 @@ It’s time to look beyond the human.
 
 From the early ninth century all the way up until the mid 1700s, it was not uncommon for European ecclesiastical courts to hold animals criminally responsible for their actions. Pigs were executed or burned alive, as were bulls, horses, eels, dogs and, on at least one occasion, dolphins. In the almost two hundred cases documented in E. P. Evans’ 1906 history of animal criminal prosecution, pigs were the most common offenders, probably because they roamed rather freely in medieval villages. Their crimes varied from eating children to consuming consecrated biscuits. Sometimes they were charged with abetting – through their grunting and snorting – the crimes of another; often they were hanged, and occasionally they were acquitted.
 
-![рис-020.png|792](<Being You/рис-020.png>)
+![рис-020.png|792](<../attachments/being-you--%D1%80%D0%B8%D1%81-020--eb91df0ee93f23e6.png>)
 
 **Fig. 20: A sow and her piglets are tried for the murder of a child.**
 
@@ -1668,7 +1668,7 @@ Here are some of them. There is the worry that AI – whether conscious or not �
 
 Mix all these ingredients together and it is hardly surprising that many people think that conscious AI is just around the corner, and that we should be very worried about what happens when it arrives. The possibility cannot be ruled out completely. If the Singularity-mongers do turn out to be right then we should indeed be worried. But from where we stand now, the prospect is extremely unlikely. Much more likely is a situation of the sort illustrated below. Here, consciousness is not determined by intelligence, and intelligence can exist without consciousness. Both come in many forms and both are expressed along many different dimensions – meaning that there is not one single scale for either consciousness or intelligence.
 
-![рис-021.png|635](<Being You/рис-021.png>)
+![рис-021.png|635](<../attachments/being-you--%D1%80%D0%B8%D1%81-021--ee2a91ba583068f5.png>)
 
 **Fig. 21: Consciousness and intelligence are separable and multidimensional. The positions of animals and machines (real and imaginary) are illustrative.**
 
@@ -1728,7 +1728,7 @@ The Japanese roboticist Hiroshi Ishiguro has spent decades building robots that 
 
 Geminoids are undeniably creepy. They are realistic, but not quite realistic enough. Think of meeting a Geminoid as the opposite of meeting a cat. With a cat – or an octopus, for that matter – there is an immediate sense of the presence of another conscious entity, even though visual appearances are so different. With a Geminoid, the striking but imperfect physical similarity accentuates feelings of disconnection and otherness. In one study from 2009, the most common feeling experienced by visitors meeting a Geminoid was fear.
 
-![рис-022.png|565](<Being You/рис-022.png>)
+![рис-022.png|565](<../attachments/being-you--%D1%80%D0%B8%D1%81-022--efb99dee9fe3a070.png>)
 
 **Fig. 22: Hiroshi Ishiguro with his Geminoid.**
 
@@ -1742,7 +1742,7 @@ Anyone who thinks that these developments will hit a ceiling before a video-enha
 
 And if we do feel that way, what will that do to us?
 
-![рис-023.png|1000](<Being You/рис-023.png>)
+![рис-023.png|1000](<../attachments/being-you--%D1%80%D0%B8%D1%81-023--e296e0a93cebd8b7.png>)
 
 **Fig. 23: Eight faces. These people are not real.**
 

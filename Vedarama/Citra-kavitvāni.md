@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rupa-citra-kavitvani"
 ---
 
-![обложка|156](<Citra-kavitvāni/обложка.jpeg>)
+![обложка|156](<../attachments/citra-kavitv%C4%81ni--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--553e71d1d088d58d.jpeg>)
 
 The Citra-Kavitvani is a collection of 12 amazing verses written by Srila Rupa Goswami. These verses, full of transcendental tongue twisters and playful picture poetry, highlight Rupa Goswami’s genius as a foremost poet among the Gaudiya Vaisnavas.
 

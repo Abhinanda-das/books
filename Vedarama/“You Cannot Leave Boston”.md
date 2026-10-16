@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/you-cannot-leave-boston"
 ---
 
-![обложка|156](<“You Cannot Leave Boston”/обложка.jpeg>)
+![обложка|156](<../attachments/you-cannot-leave-boston--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d0963ca99d8d1e4f.jpeg>)
 
 You cannot leave Boston is the second volume in a series of commentaries on the letters His Divine Grace A.C. Bhaktivedanta Swami Prabhupada wrote to Satsvarupa Das Goswami. It covers only one year, 1969, and chronicles the development of the Boston temple and the establishment of ISKCON Press under Srila Prabhupada’s guidance.
 

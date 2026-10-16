@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/tlk"
 ---
 
-![обложка|156](<Teachings of Lord Kapila, the Son of Devahuti/обложка.jpeg>)
+![обложка|156](<../attachments/teachings-of-lord-kapila-the-son-of-devahuti--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f68bb3635c04b164.jpeg>)
 
 Lord Kapila is a renowned sage and the author of the philosophical system known as Sankhya, which forms an important part of India's ancient philosophical heritage.
 

@@ -17,7 +17,7 @@ This printed guide is included in your UA SD-3 retail package. 
 
  
 
-![UA SD-3 User Guide 1.png](UA%20SD-3%20Mic%20User%20Guide_assets/eab0abe82a69b008ef40de34c9814d463604ecf3.png)
+![UA SD-3 User Guide 1.png](../../attachments/ua-sd-3-mic-user-guide_assets--eab0abe82a69b008ef40de34c9814d463604ecf3--ce05e11a28bb0e70.png)
 
-![UA SD-3 User Guide 2.png](UA%20SD-3%20Mic%20User%20Guide_assets/e741f855134e9de496563403afd598d0aa6911d5.png)
+![UA SD-3 User Guide 2.png](../../attachments/ua-sd-3-mic-user-guide_assets--e741f855134e9de496563403afd598d0aa6911d5--118b42d33be34437.png)
 

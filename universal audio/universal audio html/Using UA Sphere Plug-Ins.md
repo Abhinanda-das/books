@@ -52,21 +52,21 @@ Both the Sphere Mic Collection (with Dual View enabled) and Sphere Mic Collectio
 
 The Sphere Mic Collection 180 plug-in outputs each mic model on a separate channel, which lets you create stereo recordings.
 
-![sphere-interface.png](Using%20UA%20Sphere%20Plug-Ins_assets/fad204a2356dc142a41f0f5e99bf32202b30ac73.png)
+![sphere-interface.png](../../attachments/using-ua-sphere-plug-ins_assets--fad204a2356dc142a41f0f5e99bf32202b30ac73--27b58d070cc82436.png)
 
-![sphere-180-interface.png](Using%20UA%20Sphere%20Plug-Ins_assets/725da66a13019b6dd91c9538d6b6fa522b780309.png)
+![sphere-180-interface.png](../../attachments/using-ua-sphere-plug-ins_assets--725da66a13019b6dd91c9538d6b6fa522b780309--cdd6f128a22ad5f5.png)
 
 *UA Sphere Mic Collection plug-ins (UA Sphere 180 on bottom)*
 
-![ocean-way-interface.png](Using%20UA%20Sphere%20Plug-Ins_assets/8a546373c402b5e091662d8881f5688dbb1d7643.png)
+![ocean-way-interface.png](../../attachments/using-ua-sphere-plug-ins_assets--8a546373c402b5e091662d8881f5688dbb1d7643--b4e8ea6a6c9fde82.png)
 
-![ocean-way-180-interface.png](Using%20UA%20Sphere%20Plug-Ins_assets/a36d991bd164c80d47c7d22d224e613e19a4e16f.png)
+![ocean-way-180-interface.png](../../attachments/using-ua-sphere-plug-ins_assets--a36d991bd164c80d47c7d22d224e613e19a4e16f--200876c9131993d7.png)
 
 *Ocean Way Microphone Collection plug-ins (Ocean Way 180 on bottom)*
 
-![putnam-interface.png](Using%20UA%20Sphere%20Plug-Ins_assets/8a116da8656b068eb836b88584fe79614a7e5cf8.png)
+![putnam-interface.png](../../attachments/using-ua-sphere-plug-ins_assets--8a116da8656b068eb836b88584fe79614a7e5cf8--07d552f698bcaaf0.png)
 
-![putnam-180-interface.png](Using%20UA%20Sphere%20Plug-Ins_assets/78d6849c1c5716d9c7a83669bca288adc6c42024.png)
+![putnam-180-interface.png](../../attachments/using-ua-sphere-plug-ins_assets--78d6849c1c5716d9c7a83669bca288adc6c42024--a5a89d4e7a138b29.png)
 
 *Bill Putnam Microphone Collection plug-in (Bill Putnam 180 on bottom)*
 
@@ -95,13 +95,13 @@ The same selection methods apply to the Sphere 180 plug-ins, and also the Sphere
 ### Selecting microphones in Sphere 180
 
 In a Sphere 180 plug-in, the mics are labeled Mic L and Mic R, and the plug-in includes Pan and Width controls.\
-![sphere-180-interface.png](Using%20UA%20Sphere%20Plug-Ins_assets/725da66a13019b6dd91c9538d6b6fa522b780309.png)
+![sphere-180-interface.png](../../attachments/using-ua-sphere-plug-ins_assets--725da66a13019b6dd91c9538d6b6fa522b780309--cdd6f128a22ad5f5.png)
 
 ### \
 Selecting microphones in Dual View
 
 In a Sphere plug-in that is in Dual View mode, the plug-in shows Mic 1 and Mic 2. Dual View also adds controls to Mix and Align the two microphones.\
-![sphere-dual-mode.png](Using%20UA%20Sphere%20Plug-Ins_assets/3116a15e904fad62dd1392adb63572a8003f53af.png)
+![sphere-dual-mode.png](../../attachments/using-ua-sphere-plug-ins_assets--3116a15e904fad62dd1392adb63572a8003f53af--2e23046cfebc4e41.png)
 
  
 
@@ -133,7 +133,7 @@ Available patterns are:
 - Sub-8
 - Figure-8
 
-![off-axis-correction-patterns-callouts.png](Using%20UA%20Sphere%20Plug-Ins_assets/3e17ba9c5884023401cb71d14f236342fbab1e8a.png)
+![off-axis-correction-patterns-callouts.png](../../attachments/using-ua-sphere-plug-ins_assets--3e17ba9c5884023401cb71d14f236342fbab1e8a--0c6823d510bb35b5.png)
 
 ## Filter
 
@@ -188,7 +188,7 @@ Click the IsoSphere settings button to display the available IsoSphere models. C
 - IsoSphere is not available in the 180 versions of the plug-ins.
 - IsoSphere and Off-Axis Correction cannot be enabled at the same time.
 
-![sphere-isosphere.png](Using%20UA%20Sphere%20Plug-Ins_assets/164103fccab8843ec661f97a4c88a92b6ce29f1d.png)
+![sphere-isosphere.png](../../attachments/using-ua-sphere-plug-ins_assets--164103fccab8843ec661f97a4c88a92b6ce29f1d--73eec6a77d9342e6.png)
 
 *IsoSphere controls*
 
@@ -254,7 +254,7 @@ This control adjusts the mic pattern, to select a more idealized pattern that ma
 
 There are nine settings that range from omni (fully counter-clockwise) to figure-8 (fully clockwise). The illustration below shows the pattern names as the control is adjusted.
 
-![off-axis-correction-patterns-callouts.png](Using%20UA%20Sphere%20Plug-Ins_assets/3e17ba9c5884023401cb71d14f236342fbab1e8a.png)
+![off-axis-correction-patterns-callouts.png](../../attachments/using-ua-sphere-plug-ins_assets--3e17ba9c5884023401cb71d14f236342fbab1e8a--0c6823d510bb35b5.png)
 
 *Off-Axis Correction pattern values*
 
@@ -309,7 +309,7 @@ The Polar Meter™ displays the approximate amplitude and direction of sound arr
 
 The Polar Meter in the screenshot below shows a sound source 135° off-axis, which is typically “bleed” or extraneous sound. You can create a polar pattern to reject as much of this unwanted sound as possible. The two shadowed pie wedges show where the polar pattern has the most rejection. If the desired (on-axis) sound source is muted, the off-axis bleed can be minimized by lining up the area of most rejection to cover as much of the yellow shape as possible.
 
-![polar-meters-sphere-and-ocean-way.png](Using%20UA%20Sphere%20Plug-Ins_assets/693c83f47abed2494621465f8ddd27c1843b3043.png)
+![polar-meters-sphere-and-ocean-way.png](../../attachments/using-ua-sphere-plug-ins_assets--693c83f47abed2494621465f8ddd27c1843b3043--c2e6d2b78d65d57d.png)
 
 *Polar Meter showing source approximately 135° off-axis*
 
@@ -321,7 +321,7 @@ There are some inherent inaccuracies in the Polar Meter due to the mic’s proxi
 
 Highly reverberant environments produce a more circular Polar Meter response (see screenshot below) showing that sound is arriving from all directions.
 
-![PolarMeterFullCircleExample-tiny.png](Using%20UA%20Sphere%20Plug-Ins_assets/9926cd60ac1bb8e8a213e9aa2fd51b33e3c910a2.png)
+![PolarMeterFullCircleExample-tiny.png](../../attachments/using-ua-sphere-plug-ins_assets--9926cd60ac1bb8e8a213e9aa2fd51b33e3c910a2--e684adb715054690.png)
 
 *Polar Meter showing a reverberant environment*
 

@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/nct-br"
 ---
 
-![обложка|156](<Bhakti-ratnakara/обложка.jpeg>)
+![обложка|156](<../attachments/bhakti-ratnakara--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3a6e5b5e5bccafe5.jpeg>)
 
 # Bhakti-ratnakara
 

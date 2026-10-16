@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sadaputa-tcotbp"
 ---
 
-![обложка|156](<The Cosmology of the Bhagavata Purana/обложка.jpeg>)
+![обложка|156](<../attachments/the-cosmology-of-the-bhagavata-purana--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--382b7f257b6cf0d3.jpeg>)
 
 From the flat earth to the sun\`s chariot traditional spiritual texts seem wedded to outmoded cosmologies that show, at best, the scientific limitations of their authors. The Bhagavata Purana, one of the classical scriptures of Hinduism, seems, at first glance, to be no exception. However, a closer examination of this text reveals unexpected depths of knowledge in ancient cosmology. This shows that the cosmology of the Bhagavata Purana is a sophisticated system, with multiple levels of meaning that encode at least four different astronomical, geographical, and spiritual world models.
 

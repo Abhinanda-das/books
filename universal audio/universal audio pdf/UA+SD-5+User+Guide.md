@@ -6,11 +6,11 @@ tool_version: 1.10.2
 word_count: 206
 ---
 
-![](UA+SD-5+User+Guide_assets/_page_0_Picture_1.jpeg)
+![](../../attachments/ua-sd-5-user-guide_assets--page_0_picture_1--94b996c068d7e3ff.jpeg)
 
 Standard Dynamic Microphone with Mic Modeling
 
-![](UA+SD-5+User+Guide_assets/_page_0_Figure_3.jpeg)
+![](../../attachments/ua-sd-5-user-guide_assets--page_0_figure_3--0a7679ed3e4d7190.jpeg)
 
 ## **Congratulations Get Hemisphere Specifications**
 
@@ -40,6 +40,6 @@ Output Impedance 50 Ohms
 
 Output Connector 3-pin XLRM
 
-![](UA+SD-5+User+Guide_assets/_page_1_Picture_17.jpeg)
+![](../../attachments/ua-sd-5-user-guide_assets--page_1_picture_17--745b0b6334ea929d.jpeg)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.

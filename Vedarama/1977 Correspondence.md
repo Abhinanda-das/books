@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1977"
 ---
 
-![обложка|156](<1977 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1977-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3a585b19c4c72a2d.jpeg>)
 
 # 1977 Correspondence
 

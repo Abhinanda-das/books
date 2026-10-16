@@ -11,7 +11,7 @@ word_count: 2919
 Rev. Mar 17, 2017 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0002-00.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0002-00--2d5c537b3e1775ae.png>)
 
 
 ## **Softube User Manual** 
@@ -92,7 +92,7 @@ The **Bass** is a type of shelving filter at around 100 Hz. **Treble** is a high
 Low Gain/Frequency Mid Gain/Frequency ~~High Gain/Frequency A three band parametric~~ equalizer; enhance the mid, 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0006-13.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0006-13--500676736e170acd.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -102,11 +102,11 @@ Amplifier Amplifier Channel<br>Click side bar, or click  Strip<br>and drag the a
 SOFTUBE USER’S GUIDE | **7** 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0007-01.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0007-01--275e1b6049c48883.png>)
 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0007-02.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0007-02--2854d6014e8993f8.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -130,7 +130,7 @@ from the amp is split up into a low frequency and a high frequency part with the
 **8** | EDEN WT-800 BASS AMPLIFIER 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0008-01.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0008-01--c173f2da17969ba4.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -174,7 +174,7 @@ frequencies from the 4x10" cabinet. The 4x10" has a builtin tweeter, with a leve
 How do I get a clear and uncolored tone with lots of headroom? That was the question that started Eden's quest for the perfect bass cab. They started building bass cabinets in the late 70s and their designs quickly became an industry standard for touring musicians. Since you didn't have to trade low end with clarity anymore, it's no wonder that it became a success. 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0009-12.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0009-12--7965ba5df659c1b9.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -202,25 +202,25 @@ The **AKG D112** has a classic scooped-out sound that just sounds right. Might f
 The final two mics are not studio classics for bass, but completes the palette in a very nice way. Royer's ribbon **R-121** has a super smooth top, and tames the 4x10" like nothing else. It's sounds both aggressive and smooth at the same time (a passive/ aggressive mic?). And last, but definitely not least: the huge **Melodium Type R** ribbon mic is as big as 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0010-10.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0010-10--2bacb8bf6d1a8ce6.png>)
 
 
 _**Melodium Type R**_ 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0010-12.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0010-12--bf74f13dda4194b8.png>)
 
 
 _**Setting up mics for the session.**_ 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0010-14.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0010-14--953b617f242c9283.png>)
 
 
 _**The Royer R-121 and U 47**_ 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0011-00.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0011-00--0e6ac9331f8ba559.png>)
 
 
 _**The real deal.**_ 
@@ -266,11 +266,11 @@ In the bottom of the plug-in interface, you will see a thin black row with some 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0013-08.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0013-08--8b215bdfcdce4d42.png>)
 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0013-09.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0013-09--5476a62e69f8d6f1.png>)
 
 
 ## Enable 
@@ -288,7 +288,7 @@ Value Display
 Enable Setup 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0013-17.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0013-17--347509406bcdbce5.png>)
 
 
 **14** | GENERAL SETTINGS 
@@ -332,7 +332,7 @@ All numbers and labels in the plug-in are clickable. This allows you to easily s
 Some plug-ins have linked parameters, such as the two mics in Metal Amp Room, or the Input and Output volume in Zener Limiter. In order to change both knobs at once, adjust one of the knobs while holding shift. 
 
 
-![](<Eden WT800 Manual_assets/Eden_WT800_Manual.pdf-0015-00.png>)
+![](<../../attachments/eden-wt800-manual_assets--eden_wt800_manual.pdf-0015-00--793c7ce0b0ad6657.png>)
 
 
 **Softube AB, S:t Larsgatan 9D, 582 24 Linköping, Sweden. www.softube.com** 

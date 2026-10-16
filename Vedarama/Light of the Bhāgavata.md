@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/lob"
 ---
 
-![обложка|156](<Light of the Bhāgavata/обложка.jpeg>)
+![обложка|156](<../attachments/light-of-the-bh%C4%81gavata--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3e129c38b739e2ab.jpeg>)
 
 In 1961, Srila Prabhupada was invited to make a presentation at Japan's Congress for Cultivating the Human Spirit. He expected that such an audience would appreciate descriptions of nature and think autumn particularly auspicious, so he chose for his subject one chapter from the Srimad-Bhagavatam's Tenth Canto which describes the autumn season in Vrindavan, the place of Lord Krishna’s appearance on earth.
 

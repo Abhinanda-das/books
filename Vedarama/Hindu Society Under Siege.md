@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/hsus"
 ---
 
-![обложка|156](<Hindu Society Under Siege/обложка.jpeg>)
+![обложка|156](<../attachments/hindu-society-under-siege--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8b79d0a311824bbf.jpeg>)
 
 # Hindu Society Under Siege
 

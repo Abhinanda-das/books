@@ -15,13 +15,13 @@ This plug-in has been faithfully modeled by BRAINWORX after the original BAX EQ 
 Using this plug-in will not only give you access to the standard BAX EQ features, but we even have added a Dual-Mono and M/S Mastering Version. 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0002-04.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0002-04--515115d2a6521c9b.png>)
 
 
 [BAX EQ - MIX VERSION PICTURED ABOVE] 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0002-06.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0002-06--46eaf9d77b013953.png>)
 
 
 [BAX EQ - MASTER VERSION PICTURED ABOVE] 
@@ -37,7 +37,7 @@ The MASTERING version is an enhanced 2RU version which enables you to adjust L/R
 ## **1. LOW FREQUENCY CUT FILTERS** 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0003-02.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0003-02--b98ca5333a66e142.png>)
 
 
 ## [LOW FREQUENCY CUT KNOB PICTURED ABOVE] 
@@ -47,7 +47,7 @@ Feature: Infrasonic rumble reduction.
 Benefit: INFRASONIC RUMBLE is a PC term for the omnipresent low frequency garbage that loiters unnoticed in the audio shadows. This headroom consuming thief propagates from HVAC units, jets, subways  and  yes, Rayleigh  Waves (i.e. earthquakes  and Elephants.) Eliminating  it dramatically increases low end clarity and punch while allowing higher maximum levels on any playback device. 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0003-06.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0003-06--5fbd7023551c73be.png>)
 
 
 - [LOW FREQUENCY FILTER GRAPH PICTURED ABOVE] 
@@ -73,7 +73,7 @@ Tip: Employ these knobs in conjunction with the shelf controls to instantly crea
 Operation: Simply rotate the knob to the appropriate frequency and trust your ears. 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0004-04.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0004-04--93dc3dfdd0fcdd21.png>)
 
 
 [EXAMPLE OF FILTERS AND SHELFS COMBINED IN THE GRAPH PICTURED ABOVE] 
@@ -81,7 +81,7 @@ Operation: Simply rotate the knob to the appropriate frequency and trust your ea
 ## **2. LOW FREQUENCY SHELF** 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0004-07.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0004-07--39aea6c8a113aa10.png>)
 
 
 - [LOW FREQUENCY SHELF KNOB PICTURED ABOVE] 
@@ -95,7 +95,7 @@ Tip: The frequencies noted on the faceplate reside at the bottom shoulder of the
 - Operation: Increase  the  tonal  power  by  engaging  the  filters  in  conjunction  with  the  boost/cut. Simultaneously boost with the main controls and cut with the filters. 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0005-02.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0005-02--df076700e149de2a.png>)
 
 
 ## [LOW FREQUENCY SHELF GRAPH PICTURED ABOVE] 
@@ -103,7 +103,7 @@ Tip: The frequencies noted on the faceplate reside at the bottom shoulder of the
 ## 3 **. LOW FREQUENCY LEVEL CONTROLS** 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0005-05.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0005-05--f3de6c6a86cda612.png>)
 
 
 ## [LOW FREQUENCY LEVEL CONTROLS PICTURED ABOVE] 
@@ -121,7 +121,7 @@ Benefit: Stepped knobs provide for the repetition of previous settings with dead
 ## **4. HIGH FREQUENCY LEVEL CONTROLS** 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0006-01.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0006-01--a43306c00163a3cd.png>)
 
 
 ## [HIGH FREQUENCY LEVEL CONTROLS PICTURED ABOVE] 
@@ -139,7 +139,7 @@ Feature: Individual Left and Right or M and S Controls in the MASTERING version.
 ## **5. HIGH FREQUENCY SHELF** 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0006-09.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0006-09--2a2ef4cc75acb8a9.png>)
 
 
 ## [HIGH FREQUENCY SHELF KNOB PICTURED ABOVE] 
@@ -151,7 +151,7 @@ Feature: Broad bandwidth shelving EQ that affects several octaves.
 - Tip: The frequencies noted on the faceplate reside in the middle of this slope, thus corresponding with the most audible band. The highest frequency shoulder is approximately twice the listed frequency (where the cut/boost is exactly 5dB). So for example, when modifying 1.6kHz, a 5dB boost occurs at 3.2kHz. 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0007-00.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0007-00--0e22f2787d453ce9.png>)
 
 
 [HIGH FREQUENCY SHELF GRAPH PICTURED ABOVE] 
@@ -163,7 +163,7 @@ Feature: Ultrasonic Noise Reduction.
 Benefit: ULTRASONIC or OUT OF BAND NOISE is derived from a myriad of man made and natural sources. It propagates slew rate overload, ultimately manifesting itself as harsh, brittle sound. 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0007-05.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0007-05--0806072e7bd80ce1.png>)
 
 
 [HIGH FREQUENCY FILTER GRAPH PICTURED ABOVE] 
@@ -173,7 +173,7 @@ Tip: While tracking, utilize the HI CUT FILTER. Especially when boosting bodacio
 See the following graph for an example. 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0008-02.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0008-02--5c64d090a3cc6907.png>)
 
 
 [FILTERS AND SHELVES COMBINED TO CRAFT A WARM SHIMMERING VOCAL] 
@@ -181,7 +181,7 @@ See the following graph for an example.
 ## **7. ENGAGE IN / OUT** 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0008-05.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0008-05--106bd1c56a05a1e8.png>)
 
 
 [ENGAGE IN / OUT BUTTON PICTURED ABOVE] 
@@ -205,7 +205,7 @@ Benefit: Allows true A/B comparison by completely removing the BAX EQ and all of
 - Tip: Add to any gear chain (i.e. mic pre, comp, eq) to take it from good to great without altering the original character. 
 
 
-![](<Dangerous BAX EQ Master Manual_assets/Dangerous_BAX_EQ_Master_Manual.pdf-0009-07.png>)
+![](<../../attachments/dangerous-bax-eq-master-manual_assets--dangerous_bax_eq_master_manual.pdf-0009-07--e8d36906d705f010.png>)
 
 
 [YOUR SCULPTING PICTURED ABOVE] 

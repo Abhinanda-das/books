@@ -7,11 +7,11 @@ word_count: 277
 ---
 
 
-![](UAFX+Dream+65+Quick+Start_assets/UAFX+Dream+65+Quick+Start.pdf-0001-00.png)
+![](../../attachments/uafx-dream-65-quick-start_assets--uafx-dream-65-quick-start.pdf-0001-00--484d3eba8577fa29.png)
 
 
 
-![](UAFX+Dream+65+Quick+Start_assets/UAFX+Dream+65+Quick+Start.pdf-0002-00.png)
+![](../../attachments/uafx-dream-65-quick-start_assets--uafx-dream-65-quick-start.pdf-0002-00--147f6312ec85c454.png)
 
 
 ## **REVERB** 
@@ -41,7 +41,7 @@ Lit when knob settings are active
 **ON SWITCH** Toggles amp on/off* 
 
 
-![](UAFX+Dream+65+Quick+Start_assets/UAFX+Dream+65+Quick+Start.pdf-0002-14.png)
+![](../../attachments/uafx-dream-65-quick-start_assets--uafx-dream-65-quick-start.pdf-0002-14--6c33b5c04a294fb0.png)
 
 
 ## **ALT / AMP / STORE** 
@@ -77,7 +77,7 @@ Toggles preset on/off*
 *Get more footswitch modes with the UAFX Control app 
 
 
-![](UAFX+Dream+65+Quick+Start_assets/UAFX+Dream+65+Quick+Start.pdf-0002-31.png)
+![](../../attachments/uafx-dream-65-quick-start_assets--uafx-dream-65-quick-start.pdf-0002-31--f28999ab745520f3.png)
 
 
 ## **MONO IN** 
@@ -113,7 +113,7 @@ Activate Bluetooth discovery for UAFX Control mobile app
 Connect TS cable for stereo only (in addition to MONO OUT) 
 
 
-![](UAFX+Dream+65+Quick+Start_assets/UAFX+Dream+65+Quick+Start.pdf-0002-48.png)
+![](../../attachments/uafx-dream-65-quick-start_assets--uafx-dream-65-quick-start.pdf-0002-48--4c83be2864caf6ac.png)
 
 
 10005657R4 

@@ -45,13 +45,13 @@ You use inserts to add UAD DSP (UAD -2), UAD Native (UADx), Audio Unit (AU), and
 - **Standard inserts:** Standard inserts appear in the input row. processing from standard insert plug-ins is not recorded to disk. You can expand the Inserts row to view the standard inserts. 
 
 <figure class="wysiwyg-image">
-![mixer-track-insert-plugins.png](Using%20Insert%20Plug-Ins_assets/231f33906890bb4e55b261a5ca9a490c5db85cbb.png)
+![mixer-track-insert-plugins.png](../../attachments/using-insert-plug-ins_assets--231f33906890bb4e55b261a5ca9a490c5db85cbb--30b7c4ccf803e6c0.png)
 </figure>
 
 - **Unison insert & Record FX inserts:** When LUNA is in Apollo mode, the unison insert and Record FX inserts appear in the Input row, when a track is Input or Record enabled.  Note that only UAD DSP plug-ins can be used in Record FX inserts. Only Unison-capable UAD DSP plug-ins can be used in Unison inserts.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 33%;">
-![unison-record-fx-inserts.png](Using%20Insert%20Plug-Ins_assets/2a42023cb0c47d35e456bc083a265ccce06b79f4.png)
+![unison-record-fx-inserts.png](../../attachments/using-insert-plug-ins_assets--2a42023cb0c47d35e456bc083a265ccce06b79f4--70a379cfc910289d.png)
 </figure>
 
 ## Plug-in states
@@ -65,7 +65,7 @@ Plug-in states are indicated with colors and outlines.
 - A blue plug-in plate indicates that the plug-in is focused in the browser.
 - A yellow outline around a plug-in plate indicates that the plug-in window is open in LUNA. 
 
-![plug-in-states.png](Using%20Insert%20Plug-Ins_assets/d3c4169dc95da3c4dec35ecf04369cdbd136e6a2.png)
+![plug-in-states.png](../../attachments/using-insert-plug-ins_assets--d3c4169dc95da3c4dec35ecf04369cdbd136e6a2--4d98ecd9b9961c65.png)
 
 ------------------------------------------------------------------------
 
@@ -73,11 +73,11 @@ Plug-in states are indicated with colors and outlines.
 
 You manage your plug-ins in LUNA's settings. To see the plug-in manager, click the three dots at the top left of the LUNA window to open the LUNA sidebar, and click Manage Plug-Ins, or choose Settings from the LUNA menus, and click the Plug-Ins tab. 
 
-![user-panel-annotated.png](Using%20Insert%20Plug-Ins_assets/64a0f3c26347190f99e34d41ae798e52cd27dc54.png)
+![user-panel-annotated.png](../../attachments/using-insert-plug-ins_assets--64a0f3c26347190f99e34d41ae798e52cd27dc54--7d4dc1cc83ae1e70.png)
 
 The Plug-In Manager allows you to enable or disable plug-in formats, and manage all of your Audio Units (macOS) and VST3 (macOS and Windows) plug-ins. 
 
-![plug-in-manager-callouts-2x.png](Using%20Insert%20Plug-Ins_assets/66b62796963ed3d2aec10b4733d763664f895f8e.png)
+![plug-in-manager-callouts-2x.png](../../attachments/using-insert-plug-ins_assets--66b62796963ed3d2aec10b4733d763664f895f8e--f7d7060924a113c6.png)
 
 ## Enable plug-ins
 
@@ -99,7 +99,7 @@ The Plug-In Manager includes a search bar that you can use to find plug-ins. Cli
 
 The Plug-In Manager lists information about each plug-in in columns. You can sort the list of plug-ins by clicking on any column name. 
 
-![plug-in-manager-columns-2x.png](Using%20Insert%20Plug-Ins_assets/a80c8d77791acac5710bbadac65f5b8599c26fe5.png)
+![plug-in-manager-columns-2x.png](../../attachments/using-insert-plug-ins_assets--a80c8d77791acac5710bbadac65f5b8599c26fe5--2ed551b3770c5f37.png)
 
 Plug-in information includes:
 
@@ -167,7 +167,7 @@ Plug-ins are organized by manufacturer, and you can click a manufacturer’s nam
 
 <div class="wysiwyg-text-align-center" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="uad-folders-plug-in-browser.png" file-size="85611" data-height="500" data-id="29515b10-ba09-473d-94ec-0aa248fe77ce" node-type="media" data-type="file" data-width="506" title="Attachment">
 
-![uad-folders-plug-in-browser.png](Using%20Insert%20Plug-Ins_assets/dad556706073e8bf1abb74625d5852d6aeda443e.png)
+![uad-folders-plug-in-browser.png](../../attachments/using-insert-plug-ins_assets--dad556706073e8bf1abb74625d5852d6aeda443e--8ce9387459e731e1.png)
 
 </div>
 
@@ -193,7 +193,7 @@ In addition, all plug-ins include a power button, which allows hard bypass, but 
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="soft-bypass-plugin.png" file-size="1221960" data-height="405" data-id="9814ff9c-c8f1-4f08-a6a2-cbe2c1f0e3ed" node-type="media" data-type="file" data-width="585" title="Attachment">
 
-![soft-bypass-plugin.png](Using%20Insert%20Plug-Ins_assets/1be1de4e4dd916fd155bc6bfdfe15f2783ca3f55.png)
+![soft-bypass-plugin.png](../../attachments/using-insert-plug-ins_assets--1be1de4e4dd916fd155bc6bfdfe15f2783ca3f55--b0e17b901b300276.png)
 
 </div>
 
@@ -205,7 +205,7 @@ Plug-ins that are soft bypassed (with the IN button) and disabled (with the Powe
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="soft-bypass-appearance.png" file-size="45889" data-height="192" data-id="cbe3b177-e95b-4e92-96aa-ade365d78ad0" node-type="media" data-type="file" data-width="360" title="Attachment">
 
-![soft-bypass-appearance.png](Using%20Insert%20Plug-Ins_assets/af2dc7e0b03424bfcf8d426e14e4e2bd5244ff0a.png)
+![soft-bypass-appearance.png](../../attachments/using-insert-plug-ins_assets--af2dc7e0b03424bfcf8d426e14e4e2bd5244ff0a--91c17e9d4e547fa0.png)
 
 </div>
 
@@ -226,7 +226,7 @@ You can add or remove categories from Audio Units/VST3 plug-ins (many popular pl
 
 Categories are displayed by default. To see a plug-in category, expand the Categories area above the list of plug-ins. To close or expand plug-in categories, click on Categories.
 
-![plugin-categories-expand.png](Using%20Insert%20Plug-Ins_assets/91f0a4fd16a0461103000c8307a8e45d24a61c35.png)
+![plugin-categories-expand.png](../../attachments/using-insert-plug-ins_assets--91f0a4fd16a0461103000c8307a8e45d24a61c35--1e4bab9871bea3e0.png)
 
 \
 To filter the list of plug-ins
@@ -234,7 +234,7 @@ To filter the list of plug-ins
 
 - Under the list of Categories, choose a category. The list of plug-ins is filtered by that category.
 
-![plugin-categories-selected.png](Using%20Insert%20Plug-Ins_assets/8e94ec824c42fbd7cb113aa88e2b48b8fcb50c94.png)
+![plugin-categories-selected.png](../../attachments/using-insert-plug-ins_assets--8e94ec824c42fbd7cb113aa88e2b48b8fcb50c94--c6fb02ad5d7519c7.png)
 
 \
 To stop filtering the list, click the **X** next to Categories.
@@ -245,9 +245,9 @@ You can select multiple categories by Command+Clicking (macOS) / Ctrl-Clicking (
 
 1.  Add an Audio Units/VST3 plug-in to an insert. After the plug-in window opens, click the three dots near the upper left corner.
 2.  Click Categories... The Categories screen opens.\
-    ![categorize-plug-ins-open.png](Using%20Insert%20Plug-Ins_assets/e594287d6ea09ead0524049bda64a932eb7c39f8.png)
+    ![categorize-plug-ins-open.png](../../attachments/using-insert-plug-ins_assets--e594287d6ea09ead0524049bda64a932eb7c39f8--8abd721835f99088.png)
 3.  On the Categories screen, select the category or categories in which the plug-in belongs. You can click categories to select them, and click again to clear them. A plug-in can be listed in multiple categories.\
-    ![categorize-plug-ins-categories.png](Using%20Insert%20Plug-Ins_assets/dbbe4dd8f0111c87652779ab27a3a3c74777b838.png)\
+    ![categorize-plug-ins-categories.png](../../attachments/using-insert-plug-ins_assets--dbbe4dd8f0111c87652779ab27a3a3c74777b838--fe2c7ecbefdf0170.png)\
      
 4.  Click Done when you have finished assigning categories.
 
@@ -267,7 +267,7 @@ You can navigate through the list of plug-ins and apply plug-ins using the up an
 
 <div class="wysiwyg-text-align-center" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="plug-in-browser-search.png" file-size="251694" data-height="618" data-id="ec5c497f-2ee2-4e97-96f3-f3bc3e7626c9" node-type="media" data-type="file" data-width="376" title="Attachment">
 
-![plug-in-browser-search.png](Using%20Insert%20Plug-Ins_assets/438d1a9bd9f7daf2cc4cd9777d400edaa3fc24c2.png)
+![plug-in-browser-search.png](../../attachments/using-insert-plug-ins_assets--438d1a9bd9f7daf2cc4cd9777d400edaa3fc24c2--1ca7ab95ef5c67d1.png)
 
 </div>
 
@@ -301,7 +301,7 @@ Plug-in presets are selected and saved using the Presets Browser. You can favori
 
 <div class="wysiwyg-text-align-center" collection="contentId-199393353" context-id="199393353" file-mime-type="image/png" file-name="plug-in-open-presets.png" file-size="232033" data-height="470" data-id="b3e1d315-61c0-4fd8-a8c2-18e706a5f327" node-type="media" data-type="file" data-width="430" title="Attachment">
 
-![plug-in-open-presets.png](Using%20Insert%20Plug-Ins_assets/3363dac7f5f0ff0e494f3f594e1b9cbb1e1fee44.png)
+![plug-in-open-presets.png](../../attachments/using-insert-plug-ins_assets--3363dac7f5f0ff0e494f3f594e1b9cbb1e1fee44--ca4a0d058c0738b8.png)
 
 </div>
 
@@ -320,7 +320,7 @@ You can use the Up and Down arrows to navigate through presets. To search for a 
 
 <div class="wysiwyg-text-align-center" collection="contentId-199393353" context-id="199393353" file-mime-type="image/png" file-name="save-plugin-preset-as.png" file-size="15726" data-height="103" data-id="03978b40-278f-4b77-8894-5b852e9ca126" node-type="media" data-type="file" data-width="245" title="Attachment">
 
-![save-plugin-preset-as.png](Using%20Insert%20Plug-Ins_assets/5eb538473629d49acf76704219ff20c3d09b024e.png)
+![save-plugin-preset-as.png](../../attachments/using-insert-plug-ins_assets--5eb538473629d49acf76704219ff20c3d09b024e--104e62e313314426.png)
 
 </div>
 
@@ -335,7 +335,7 @@ You can delete or rename presets that you have created. If you save changes to a
 1.  Click the preset name on the plug-in title bar, or on the plug-in icon in the Insert rack, click •••, and choose Presets… The Presets Browser opens.
 2.  Click the star to the right of a preset name to favorite or unfavorite a preset. 
 
-![presets-favorite.png](Using%20Insert%20Plug-Ins_assets/96748dce977dd119eda28beaf4f9c1e967d00d1b.png)
+![presets-favorite.png](../../attachments/using-insert-plug-ins_assets--96748dce977dd119eda28beaf4f9c1e967d00d1b--50407b71adef88f3.png)
 
  
 
@@ -344,7 +344,7 @@ You can delete or rename presets that you have created. If you save changes to a
 1.  Click the preset name on the plug-in title bar, or on the plug-in icon in the Insert rack, click •••, and choose Presets… The Presets Browser opens.
 2.  Click Favorites under Presets. When Favorites is highlighted, only favorited presets are shown.
 
-![presets-show-favorite.png](Using%20Insert%20Plug-Ins_assets/eba2e32041309f3f4b76df4f024716c49e91f632.png)
+![presets-show-favorite.png](../../attachments/using-insert-plug-ins_assets--eba2e32041309f3f4b76df4f024716c49e91f632--9e6f6fc533f8a69e.png)
 
  
 
@@ -355,7 +355,7 @@ You can delete or rename presets that you have created. If you save changes to a
 
 The default preset is now set. When you load the plug-in in the future, this default preset is loaded in the plug-in.
 
-![plug-in-default-preset.png](Using%20Insert%20Plug-Ins_assets/066ff498a83c7b3ea68cf54fac9783dfffe1e53b.png)
+![plug-in-default-preset.png](../../attachments/using-insert-plug-ins_assets--066ff498a83c7b3ea68cf54fac9783dfffe1e53b--19a72d4cdb3b55bb.png)
 
 ------------------------------------------------------------------------
 
@@ -367,7 +367,7 @@ In the Inserts section, click on the Large View icon to show expanded inserts. T
 
 <div class="wysiwyg-text-align-center" collection="contentId-199393353" context-id="199393353" file-mime-type="image/png" file-name="mixer-view-plugins-large.png" file-size="78924" data-height="191" data-id="087fc20a-3dff-4d51-beb8-eff2a409f40c" node-type="media" data-type="file" data-width="239" title="Attachment">
 
-![mixer-view-plugins-large.png](Using%20Insert%20Plug-Ins_assets/3cb6fa925f008c24a117cf687bcecb9645c94b7e.png)
+![mixer-view-plugins-large.png](../../attachments/using-insert-plug-ins_assets--3cb6fa925f008c24a117cf687bcecb9645c94b7e--bb9c9bc937c53671.png)
 
 </div>
 
@@ -391,7 +391,7 @@ The icon is created from the current plug-in settings.
 
 <div class="wysiwyg-text-align-center" collection="contentId-199393353" context-id="199393353" file-mime-type="image/png" file-name="create-plugin-icon.png" file-size="176338" data-height="230" data-id="a95c18b2-9adc-4728-be48-78cc000d6955" node-type="media" data-type="file" data-width="393" title="Attachment">
 
-![create-plugin-icon.png](Using%20Insert%20Plug-Ins_assets/fc0f880fd82c194a25b891fe0596880079aae52b.png)
+![create-plugin-icon.png](../../attachments/using-insert-plug-ins_assets--fc0f880fd82c194a25b891fe0596880079aae52b--5caadcc42e03974b.png)
 
 </div>
 
@@ -460,7 +460,7 @@ If you are using LUNA in Apollo mode, LUNA can convert between native (UADx) and
 2.  Click the three dots on the left of the plug-in control bar.
 3.  Under Processing, choose UADx or UAD-2.
 
-![convert-plug-uadx-uad.png](Using%20Insert%20Plug-Ins_assets/766b2313570204c032ff337fd2ae5fe1bae7222a.png)
+![convert-plug-uadx-uad.png](../../attachments/using-insert-plug-ins_assets--766b2313570204c032ff337fd2ae5fe1bae7222a--4512e50b464499bb.png)
 
 ## To convert all available UAD plug-ins to native or DSP
 

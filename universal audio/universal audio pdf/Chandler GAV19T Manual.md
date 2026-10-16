@@ -13,25 +13,25 @@ Physically modeled tube guitar amp, speaker simulation and FX rack.
 ## Owner’s Manual 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0001-03.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0001-03--78d3cb55e76e06cd.png>)
 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0001-04.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0001-04--ece3004f7d94039e.png>)
 
 
 Developed by Brainworx in partnership with Chandler Limited and Distributed by Universal Audio. 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0001-06.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0001-06--89accc92a4d359c3.png>)
 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0001-07.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0001-07--9317deb18e270554.png>)
 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0001-08.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0001-08--1d73b7af9cd3c7dd.png>)
 
 
 The CHANDLER GAV19T amp plug-in can be installed and operated like any other UAD-2 plug-in. Please check www.uaudio.com for general info about the system requirements, etc. 
@@ -41,7 +41,7 @@ The CHANDLER GAV19T amp plug-in can be installed and operated like any other UAD
 ## Physically modeled tube guitar amp, speaker simulation and FX rack. 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0002-02.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0002-02--e2a1e63d4a9a1698.png>)
 
 
 FX Rack / Zoom view 
@@ -69,7 +69,7 @@ The main applications for this plug-in are:
 4. Playing live via a real power amp and speaker setup. 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0003-06.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0003-06--fe70d2104d43d55a.png>)
 
 
 ## The Basics 
@@ -91,7 +91,7 @@ The advantage of only monitoring the processed sound is that you can alter the s
 The advantage of recording pre-processed guitar tracks might be that you will need less plug-ins during mix-down, as your guitar tracks will be ready to be mixed. All you can do then is EQ and compress the recorded guitar tracks, or add effects, just like you would with traditional guitar amp recordings. Once you know ‘your sound’ you may even save some time by recording processed guitar tracks and using them without further tweaking or fiddling around... your band mates or your producer may even appreciate this. 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0004-04.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0004-04--98b92e49af998882.png>)
 
 
 The controls of the CHANDLER Amplifier section (from left to right) 
@@ -147,11 +147,11 @@ You can make the amp less or more sensitive with this switch. Switch it to HIGH 
 The controls of the CHANDLER GAV19T Effects Rack (FX) 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0006-01.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0006-01--0eef3b0bb99fb0e4.png>)
 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0006-02.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0006-02--d97c6ed440329025.png>)
 
 
 ## 1. NOISE GATE 
@@ -195,11 +195,11 @@ POST: If you want to cut some of the high end of your amplifier setting (maybe e
 OFF: when set to OFF the SMOOTH filter is in bypass mode. 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0007-00.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0007-00--f2a63764faa7626d.png>)
 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0007-01.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0007-01--2973f92dfac6fd1f.png>)
 
 
 ## The controls of the CHANDLER FX Rack 
@@ -237,11 +237,11 @@ Now all you have to do is select the Recording Chain which sounds best for your 
 And if for any reason you should not like any of the Recording Chains the plug-in offers you may use the very last setting (labeled EMPTY PLAY VIA REAL CAB) and use your own miked cabinet. This setting will give you the sound of a tube guitar amp wired straight into a Console, which also may be a nice effects sound. 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0008-05.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0008-05--45fc153553a9e392.png>)
 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0008-06.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0008-06--7926e37bcfd0de21.png>)
 
 
 ## The controls of the CHANDLER FX Rack 
@@ -289,11 +289,11 @@ Alternatively you may just dial in a delay time based on milliseconds using the 
 By turning the LO-FI Knob to the right you effectively decrease the sound quality of the signal being fed back into the delayline. This is achieved by lowpass filtering and distorting the feedback signal. 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0009-12.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0009-12--e5175dfc9fe46fc6.png>)
 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0009-13.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0009-13--81acc0225015fa53.png>)
 
 
 ## The controls of the CHANDLER FX Rack 
@@ -331,11 +331,11 @@ Switch up: Preamp is bypassed (off) Switch down: Preamp is active (on).
 If you want to use only the distortion of the CHANDLER preamp you may switch the power amp simulation off. This may sound cool if you use the CHANDLER plug-in to distort other signals than a guitar. For a realistic guitar recording we recommend leaving the power amp on, as it is an integral part of the overall sound of the amp. 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0010-13.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0010-13--23350c888f6e40d7.png>)
 
 
 
-![](<Chandler GAV19T Manual_assets/Chandler_GAV19T_Manual.pdf-0010-14.png>)
+![](<../../attachments/chandler-gav19t-manual_assets--chandler_gav19t_manual.pdf-0010-14--8eee766a205a93f2.png>)
 
 
 The controls of the CHANDLER FX Rack 

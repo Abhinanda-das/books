@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg13-05"
 ---
 
-![обложка|156](<Back to Godhead Magazine #13-05, 1978/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-13-05-1978--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b9a3e48db5baf210.jpeg>)
 
 # Back to Godhead Magazine #13-05, 1978
 

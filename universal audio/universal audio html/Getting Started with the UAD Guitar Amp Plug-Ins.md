@@ -22,7 +22,7 @@ These tips apply to the following plug-ins:
 - <a href="https://www.uaudio.com/products/woodrow-55-instrument" rel="noopener noreferrer" target="_blank"><strong>Woodrow '55 Instrument Amplifier</strong></a>
 
 We recommend plugging into a **Hi-Z** input if that is available. Make sure you turn the preamp gain all the way down on your audio interface. Keep the input gain in the plug-in set to the default Hi-Z position as shown. This will ensure the plug-in sounds and responds just like the original hardware amp, as shown below:\
-![1_GuitarFX_InputGain.jpg](Getting%20Started%20with%20the%20UAD%20Guitar%20Amp%20Plug-Ins_assets/927b28c1c0108b57642d674d608b04ad97222282.jpg)
+![1_GuitarFX_InputGain.jpg](../../attachments/getting-started-with-the-uad-guitar-amp-plug-ins_assets--927b28c1c0108b57642d674d608b04ad97222282--4a6786df4dda73be.jpg)
 
 After the audio interface input gain is minimized and the plug-in **Input knob** is set appropriately, the amp’s actual input volume knob can be used like normal to dial in clean or overdriven tones
 

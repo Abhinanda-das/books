@@ -49,7 +49,7 @@ You can configure an API Vision Console Emulation LUNA Extension as a sidechain 
 #### Configuring an API Vision Console Emulation extension as a sidechain
 
 1.  Make sure the Console row is showing in the LUNA mixer.\
-    ![avc-console-row-show-hide.png](Sidechaining%20in%20LUNA_assets/acd2d1a8fac51f369ac650cf76e922e39220a161.png)
+    ![avc-console-row-show-hide.png](../../attachments/sidechaining-in-luna_assets--acd2d1a8fac51f369ac650cf76e922e39220a161--dd419d18276ced6e.png)
 
      
 
@@ -59,7 +59,7 @@ You can configure an API Vision Console Emulation LUNA Extension as a sidechain 
 
     <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="avc-add-console.png" file-size="54415" data-height="126" data-id="ffe2e84c-b57f-4267-b827-cfa879c1f46b" node-type="media" data-type="file" data-width="287" title="Attachment">
 
-    ![avc-add-console.png](Sidechaining%20in%20LUNA_assets/ea415f4e16c8f37e722bd1e0e35f2db2141ce43e.png)
+    ![avc-add-console.png](../../attachments/sidechaining-in-luna_assets--ea415f4e16c8f37e722bd1e0e35f2db2141ce43e--a4179d437133bc8c.png)
 
     </div>
 
@@ -81,7 +81,7 @@ You can configure an API Vision Console Emulation LUNA Extension as a sidechain 
 
     <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-assign-avc.png" file-size="360213" data-height="603" data-id="7f411004-729a-4395-ad58-eec29d3ebce9" node-type="media" data-type="file" data-width="578" title="Attachment">
 
-    ![sidechain-assign-avc.png](Sidechaining%20in%20LUNA_assets/ebc90d36c5198d62805fea46e4f1355e5a585692.png)
+    ![sidechain-assign-avc.png](../../attachments/sidechaining-in-luna_assets--ebc90d36c5198d62805fea46e4f1355e5a585692--ff8d89b45e60c271.png)
 
     </div>
 
@@ -91,7 +91,7 @@ You can configure an API Vision Console Emulation LUNA Extension as a sidechain 
 
 5.  From the Sources list, click the source track.
 
-    ![sidechain-source-select-avc.png](Sidechaining%20in%20LUNA_assets/d288b27456e3f6fbf135e03abf5640d37670eef0.png)
+    ![sidechain-source-select-avc.png](../../attachments/sidechaining-in-luna_assets--d288b27456e3f6fbf135e03abf5640d37670eef0--072ea96d972ccdf5.png)
 
 The sidechain is configured with the source and destination you selected.
 
@@ -99,7 +99,7 @@ The sidechain is configured with the source and destination you selected.
 
 <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-configured-no-callouts-extension.png" file-size="194826" data-height="397" data-id="e894067f-d4f3-4453-9866-1306888204d3" node-type="media" data-type="file" data-width="258" title="Attachment">
 
-![sidechain-configured-no-callouts-extension.png](Sidechaining%20in%20LUNA_assets/e5c5c6c035d141e1d56cd9e796a57a07d0682672.png)
+![sidechain-configured-no-callouts-extension.png](../../attachments/sidechaining-in-luna_assets--e5c5c6c035d141e1d56cd9e796a57a07d0682672--2cd8e0246b196979.png)
 
 </div>
 
@@ -119,7 +119,7 @@ You can configure a sidechain-capable UAD plug-in from within the plug-in. 
 
     <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-assign-plugin.png" file-size="1695808" data-height="691" data-id="d0c7c935-0654-4b4c-b8e9-ab310aadfb83" node-type="media" data-type="file" data-width="577" title="Attachment">
 
-    ![sidechain-uad-assign-plugin.png](Sidechaining%20in%20LUNA_assets/779b1352dd923a16e7983375ecbd4cea0fd71140.png)
+    ![sidechain-uad-assign-plugin.png](../../attachments/sidechaining-in-luna_assets--779b1352dd923a16e7983375ecbd4cea0fd71140--40be81ec7440c56d.png)
 
     </div>
 
@@ -133,7 +133,7 @@ You can configure a sidechain-capable UAD plug-in from within the plug-in. 
 
     <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-plugin-sc-button.png" file-size="1481574" data-height="633" data-id="4f6cf5a2-1c65-4991-bf9b-cc52fd027157" node-type="media" data-type="file" data-width="453" title="Attachment">
 
-    ![sidechain-uad-plugin-assign-button.png](Sidechaining%20in%20LUNA_assets/ab440f4e51b3a6549e3dead87f3ef1732c41db0c.png)
+    ![sidechain-uad-plugin-assign-button.png](../../attachments/sidechaining-in-luna_assets--ab440f4e51b3a6549e3dead87f3ef1732c41db0c--24b06d9b40c2faaf.png)
 
     </div>
 
@@ -147,7 +147,7 @@ You can configure a sidechain-capable UAD plug-in from within the plug-in. 
 
     <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-source-select-plugin.png" file-size="176264" data-height="541" data-id="6a36527a-3914-4377-baf7-7387dd2fcbf4" node-type="media" data-type="file" data-width="559" title="Attachment">
 
-    ![sidechain-uad-source-select-plugin.png](Sidechaining%20in%20LUNA_assets/31371b7b1bc87cd329df09d8dbdc46f94e46aefb.png)
+    ![sidechain-uad-source-select-plugin.png](../../attachments/sidechaining-in-luna_assets--31371b7b1bc87cd329df09d8dbdc46f94e46aefb--43401874010b529e.png)
 
     </div>
 
@@ -159,7 +159,7 @@ The sidechain is configured with the source and destination you selected. Config
 
 <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-configured-no-callouts-plugin.png" file-size="117365" data-height="405" data-id="807acb9b-1b64-4a1e-9977-c0e5b58198fe" node-type="media" data-type="file" data-width="256" title="Attachment">
 
-![sidechain-uad-source-assigned.png](Sidechaining%20in%20LUNA_assets/75b7d803b2de83b493fa2760808e9ea108f20b37.png)
+![sidechain-uad-source-assigned.png](../../attachments/sidechaining-in-luna_assets--75b7d803b2de83b493fa2760808e9ea108f20b37--f09d5cfeab44fe15.png)
 
 </div>
 
@@ -181,7 +181,7 @@ You can configure sidechain-capable Audio Units or VST3 plug-ins from within the
 
     <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-assign-plugin.png" file-size="1695808" data-height="691" data-id="d0c7c935-0654-4b4c-b8e9-ab310aadfb83" node-type="media" data-type="file" data-width="577" title="Attachment">
 
-    ![sidechain-assign-plugin.png](Sidechaining%20in%20LUNA_assets/d227c0314e97dedc6081fbc94e1dd1f03df6e03a.png)
+    ![sidechain-assign-plugin.png](../../attachments/sidechaining-in-luna_assets--d227c0314e97dedc6081fbc94e1dd1f03df6e03a--519d391839b6db25.png)
 
     </div>
 
@@ -195,7 +195,7 @@ You can configure sidechain-capable Audio Units or VST3 plug-ins from within the
 
     <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-plugin-sc-button.png" file-size="1481574" data-height="633" data-id="4f6cf5a2-1c65-4991-bf9b-cc52fd027157" node-type="media" data-type="file" data-width="453" title="Attachment">
 
-    ![sidechain-plugin-sc-button.png](Sidechaining%20in%20LUNA_assets/4a4cff8b201d0185dc5657f8ca557389f1051181.png)
+    ![sidechain-plugin-sc-button.png](../../attachments/sidechaining-in-luna_assets--4a4cff8b201d0185dc5657f8ca557389f1051181--40a2355a24cd38c0.png)
 
     </div>
 
@@ -207,7 +207,7 @@ You can configure sidechain-capable Audio Units or VST3 plug-ins from within the
 
     <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-source-select-plugin.png" file-size="176264" data-height="541" data-id="6a36527a-3914-4377-baf7-7387dd2fcbf4" node-type="media" data-type="file" data-width="559" title="Attachment">
 
-    ![sidechain-source-select-plugin.png](Sidechaining%20in%20LUNA_assets/7e9126b592aef785f223bc16ea234a93ea5349ae.png)
+    ![sidechain-source-select-plugin.png](../../attachments/sidechaining-in-luna_assets--7e9126b592aef785f223bc16ea234a93ea5349ae--0f5c3e39b0da7339.png)
 
     </div>
 
@@ -219,7 +219,7 @@ The sidechain is configured with the source and destination you selected. 
 
 <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-configured-no-callouts-plugin.png" file-size="117365" data-height="405" data-id="807acb9b-1b64-4a1e-9977-c0e5b58198fe" node-type="media" data-type="file" data-width="256" title="Attachment">
 
-![sidechain-configured-no-callouts-plugin.png](Sidechaining%20in%20LUNA_assets/6400908f2000b729ee8c14f7ccb7734ef11e23ed.png)
+![sidechain-configured-no-callouts-plugin.png](../../attachments/sidechaining-in-luna_assets--6400908f2000b729ee8c14f7ccb7734ef11e23ed--187a103ac29cbb11.png)
 
 </div>
 
@@ -233,7 +233,7 @@ Configure the plug-in to respond to key or sidechain input. The process for conf
 
 <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-enable-in-plugin .png" file-size="1556730" data-height="568" data-id="d871a924-8b19-4683-b93a-3a0db5e561cd" node-type="media" data-type="file" data-width="835" title="Attachment">
 
-![sidechain-enable-in-plugin_.png](Sidechaining%20in%20LUNA_assets/097b44258c680485a423cd81d29c70a1bf6d1e84.png)
+![sidechain-enable-in-plugin_.png](../../attachments/sidechaining-in-luna_assets--097b44258c680485a423cd81d29c70a1bf6d1e84--0a91193d3aa11216.png)
 
 </div>
 
@@ -247,7 +247,7 @@ Different plug-ins use different methods to enable the key or sidechain input, a
 
 <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-enabled-3rd-party.png" file-size="2306109" data-height="522" data-id="9c5056ef-a12d-4701-a397-580033ddc2e1" node-type="media" data-type="file" data-width="882" title="Attachment">
 
-![sidechain-enabled-3rd-party.png](Sidechaining%20in%20LUNA_assets/95229e812e64cdcf7709594d4b20afb7178656f9.png)
+![sidechain-enabled-3rd-party.png](../../attachments/sidechaining-in-luna_assets--95229e812e64cdcf7709594d4b20afb7178656f9--0182fa1be1e8533a.png)
 
 </div>
 
@@ -271,7 +271,7 @@ After you configure the sidechain source and destination, the sidechain configur
 
 <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-config.png" file-size="231907" data-height="392" data-id="335e3f92-78ab-4a79-bde0-06792a0e2621" node-type="media" data-type="file" data-width="630" title="Attachment">
 
-![sidechain-config.png](Sidechaining%20in%20LUNA_assets/1037e66890af4a41563a7c1269c6765fe2204c19.png)
+![sidechain-config.png](../../attachments/sidechaining-in-luna_assets--1037e66890af4a41563a7c1269c6765fe2204c19--5e35c8414e8eab80.png)
 
 </div>
 
@@ -285,7 +285,7 @@ After you configure the sidechain source and destination, the sidechain configur
 
 <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-config-3p.png" file-size="150323" data-height="405" data-id="c13077de-fd9e-4f59-b77a-4fad580fcd7a" node-type="media" data-type="file" data-width="616" title="Attachment">
 
-![sidechain-config-3p.png](Sidechaining%20in%20LUNA_assets/fb703b63c90b6de40825ad8e419ef1ea84ba4a59.png)
+![sidechain-config-3p.png](../../attachments/sidechaining-in-luna_assets--fb703b63c90b6de40825ad8e419ef1ea84ba4a59--f4768e1bf4a330ea.png)
 
 </div>
 
@@ -309,7 +309,7 @@ You can remove a sidechain by removing the sidechain source, or removing the sid
 
     <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-browser-open.png" file-size="116550" data-height="275" data-id="292793a4-5a10-4583-849f-75072097cf7e" node-type="media" data-type="file" data-width="440" title="Attachment">
 
-    ![sidechain-browser-open.png](Sidechaining%20in%20LUNA_assets/5cffddfb77e05a6bbb157e660821bbf20634afdb.png)
+    ![sidechain-browser-open.png](../../attachments/sidechaining-in-luna_assets--5cffddfb77e05a6bbb157e660821bbf20634afdb--dad3b1788ef264ea.png)
 
     </div>
 
@@ -325,7 +325,7 @@ You can remove a sidechain by removing the sidechain source, or removing the sid
 
 <div data-alt="" collection="contentId-225740764" context-id="225740764" file-mime-type="image/png" file-name="sidechain-remove.png" file-size="253162" data-height="446" data-id="6b3fa5af-a696-4959-bf55-b3f566c33643" node-type="media" data-type="file" data-width="559" title="Attachment">
 
-![sidechain-remove.png](Sidechaining%20in%20LUNA_assets/609a12fce9d7228fcd47798b8b3db6c86d268f2e.png)
+![sidechain-remove.png](../../attachments/sidechaining-in-luna_assets--609a12fce9d7228fcd47798b8b3db6c86d268f2e--0efb61a66c3a30c8.png)
 
 </div>
 
@@ -343,7 +343,7 @@ The sidechain control plate appears in the Utility row on the track where the si
 - Click the square to open or close the sidechain extension or plug-in.
 - Click ••• to show a menu that allows you to enable or disable the sidechain (this is the same as clicking the power button in the sidechain browser).
 
-![sidechain-hover-options.png](Sidechaining%20in%20LUNA_assets/ac6464c400aa9f07a5ce90a0ac7101c3f67c2f60.png)
+![sidechain-hover-options.png](../../attachments/sidechaining-in-luna_assets--ac6464c400aa9f07a5ce90a0ac7101c3f67c2f60--a748cc1d33bc926f.png)
 
 <div layout="center" node-type="mediaSingle" data-width="">
 

@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/mg"
 ---
 
-![обложка|156](<Kṛṣṇa Consciousness, The Matchless Gift/обложка.jpeg>)
+![обложка|156](<../attachments/k%E1%B9%9B%E1%B9%A3%E1%B9%87a-consciousness-the-matchless-gift--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--4eadc1d45b91db6e.jpeg>)
 
 This book is a collection of transcribed lectures by Srila Prabhupada on the philosophy and practice of bhakti-yoga—the process of reestablishing our connection with the Supreme Person. Matchless Gift contains an abundance of material on many facets of the science of Krishna consciousness, along with vivid examples, stories, and analogies not found elsewhere in Srila Prabhupada's writings. It's a light book, packed with heavy wisdom, and best appreciated in short installments.
 

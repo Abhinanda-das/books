@@ -32,7 +32,7 @@ LUNA is split into Mixer and Timeline views. At the top of the screen is the Con
 
 At the top of the LUNA screen is the Control Bar.
 
-![control-bar.png](Using%20LUNA_assets/4e2e6a6cd9385677c23c83ad5a33ce08bd640f0d.png)
+![control-bar.png](../../attachments/using-luna_assets--4e2e6a6cd9385677c23c83ad5a33ce08bd640f0d--88454d271763a527.png)
 
 The Control Bar includes several sections that you can use to navigate and control your LUNA session.
 
@@ -53,7 +53,7 @@ Choose the view by clicking in the selector at the far left of the control bar.
 
 <div class="wysiwyg-text-align-center">
 
-![control-bar-views.png](Using%20LUNA_assets/c7ddafc0735d15b856e1425dc7c23e0f1b04e2ee.png)
+![control-bar-views.png](../../attachments/using-luna_assets--c7ddafc0735d15b856e1425dc7c23e0f1b04e2ee--8a9af7ed0af164aa.png)
 
 </div>
 
@@ -71,7 +71,7 @@ Choose the view by clicking in the selector at the far left of the control bar.
 
 Mixer view allows you to view the track channel strips for a session, to set up inputs for tracks to record, and to mix a session. Each track in the Mixer consists of two sections: the Mixer rows and the Fader section.
 
-![full-mixer.png](Using%20LUNA_assets/951592e07c08cacb05d4cb360d3e0920166d6da5.png)
+![full-mixer.png](../../attachments/using-luna_assets--951592e07c08cacb05d4cb360d3e0920166d6da5--c6634aa4abcce47b.png)
 
 ## Mixer rows
 
@@ -81,7 +81,7 @@ In the Mixer rows, you assign audio and MIDI inputs, set trim, track delay, and 
 
 <div class="wysiwyg-text-align-center">
 
-![mixer-rows-callouts.png](Using%20LUNA_assets/31f3f0520c5f0bbe05be5b156ecdd6e21c402eaa.png)
+![mixer-rows-callouts.png](../../attachments/using-luna_assets--31f3f0520c5f0bbe05be5b156ecdd6e21c402eaa--c711495a08992ee2.png)
 
 </div>
 
@@ -95,7 +95,7 @@ In the Fader section, you adjust audio, instrument, and bus track levels and pan
 
 <div class="wysiwyg-text-align-center">
 
-![mixer-view-faders.png](Using%20LUNA_assets/21cedad0c2c620b113cec10fc100159045973113.png)
+![mixer-view-faders.png](../../attachments/using-luna_assets--21cedad0c2c620b113cec10fc100159045973113--48c9bcf2c0948375.png)
 
 </div>
 
@@ -105,7 +105,7 @@ In the Fader section, you adjust audio, instrument, and bus track levels and pan
 
 <div class="wysiwyg-text-align-center">
 
-![input-tape-controls.png](Using%20LUNA_assets/95f87e36a9f33d4d57dfaea1e9b567d7947619a6.png)
+![input-tape-controls.png](../../attachments/using-luna_assets--95f87e36a9f33d4d57dfaea1e9b567d7947619a6--bcb54df558d95c28.png)
 
 </div>
 
@@ -115,7 +115,7 @@ In the Fader section, you adjust audio, instrument, and bus track levels and pan
 
 <div class="wysiwyg-text-align-center">
 
-![plugs-sends-cues-output.png](Using%20LUNA_assets/86a8fff0c02f16fe53331d39755afc5c4e8032ee.png)
+![plugs-sends-cues-output.png](../../attachments/using-luna_assets--86a8fff0c02f16fe53331d39755afc5c4e8032ee--d3e0264b68319791.png)
 
 </div>
 
@@ -129,7 +129,7 @@ Timeline view shows you a visual layout of your audio and MIDI tracks. On the Ti
 
 <div class="wysiwyg-text-align-center" layout="align-start" node-type="mediaSingle" data-width="90">
 
-![timeline-view-callouts.png](Using%20LUNA_assets/34fc34ad4ca45b5f2ea4ddb263b28946da38fc8f.png)
+![timeline-view-callouts.png](../../attachments/using-luna_assets--34fc34ad4ca45b5f2ea4ddb263b28946da38fc8f--aa22668d801b21bc.png)
 
 </div>
 
@@ -141,7 +141,7 @@ In the Timeline, the tall vertical cursor that indicates where LUNA is currently
 
 <div class="wysiwyg-text-align-center">
 
-![playhead.png](Using%20LUNA_assets/8fcff257849fea423588eb27dd993ec409d9e087.png)
+![playhead.png](../../attachments/using-luna_assets--8fcff257849fea423588eb27dd993ec409d9e087--26143a8408f8a15e.png)
 
 </div>
 
@@ -164,7 +164,7 @@ There are two Transport modes. 
 - In the default mode, the transport has a stop button, and pressing Stop or the Spacebar returns to the last playhead start location. 
 - In Play From Stop Location mode, the transport's stop button becomes a pause button, and pressing Pause or the Spacebar stops the playhead at the current playback position. When you press play or the Spacebar again, playback continues from the current position.
 
-![transport-callouts.png](Using%20LUNA_assets/3a5737a2a9835f7f9c5c51633c0f452f3593468b.png)
+![transport-callouts.png](../../attachments/using-luna_assets--3a5737a2a9835f7f9c5c51633c0f452f3593468b--2b05102f24fd764d.png)
 
 - To play audio, click Play or press the Spacebar.
 - To stop playback, click Stop or press the Spacebar.
@@ -191,7 +191,7 @@ LUNA global controls are located at the top of the control bar in both mixer and
 
 <div class="wysiwyg-text-align-center">
 
-![luna-global-controls.png](Using%20LUNA_assets/774edc9ab4caad47001b07f08cff35f87d743c2c.png)
+![luna-global-controls.png](../../attachments/using-luna_assets--774edc9ab4caad47001b07f08cff35f87d743c2c--39534764cecd1dab.png)
 
 </div>
 
@@ -209,7 +209,7 @@ A subset of global controls for enabling and disabling ARM mode, enabling and di
 
 <div class="wysiwyg-text-align-center">
 
-![arm-solo-ol.png](Using%20LUNA_assets/ddb791469c85917bf451498f5376f0b2a4119fb6.png)
+![arm-solo-ol.png](../../attachments/using-luna_assets--ddb791469c85917bf451498f5376f0b2a4119fb6--9bf8bb0cd4dc31c5.png)
 
 </div>
 
@@ -250,7 +250,7 @@ The BPM, click and counter controls allow you to set and change the session temp
 
 <div class="wysiwyg-text-align-center">
 
-![control-bar-bpm-click-counter.png](Using%20LUNA_assets/3be8f3fca7b9e9dfe7bd04f378fe91727550c944.png)
+![control-bar-bpm-click-counter.png](../../attachments/using-luna_assets--3be8f3fca7b9e9dfe7bd04f378fe91727550c944--5d1fdb516ea33a6f.png)
 
 </div>
 
@@ -278,7 +278,7 @@ To set the tempo by tapping, add tempo changes, and automate tempo changes, see 
 
 <div class="wysiwyg-text-align-center">
 
-![click-enable-and-level.png](Using%20LUNA_assets/a665c32d4096d98b4491dc2ff93f7f75b268b117.png)
+![click-enable-and-level.png](../../attachments/using-luna_assets--a665c32d4096d98b4491dc2ff93f7f75b268b117--e85b9a24dbc59064.png)
 
 </div>
 
@@ -296,7 +296,7 @@ To set the tempo by tapping, add tempo changes, and automate tempo changes, see 
 
     <div>
 
-    ![click-bar-and-options.png](Using%20LUNA_assets/ec07dba4ab3cfdb3a43be6ab6acfb4f86eea6071.png)
+    ![click-bar-and-options.png](../../attachments/using-luna_assets--ec07dba4ab3cfdb3a43be6ab6acfb4f86eea6071--645e31f4c891f091.png)
 
     </div>
 
@@ -308,7 +308,7 @@ To set the tempo by tapping, add tempo changes, and automate tempo changes, see 
 
     <div>
 
-    ![click-during.png](Using%20LUNA_assets/be47e9d5183bbc483bc4cf274d1676b534af933c.png)
+    ![click-during.png](../../attachments/using-luna_assets--be47e9d5183bbc483bc4cf274d1676b534af933c--8965564ec0ece2f0.png)
 
     </div>
 
@@ -322,7 +322,7 @@ To set the tempo by tapping, add tempo changes, and automate tempo changes, see 
 
 1.  Click at the top of the click ruler to open Click options.
 
-    ![click-bar-and-options.png](Using%20LUNA_assets/ec07dba4ab3cfdb3a43be6ab6acfb4f86eea6071.png)
+    ![click-bar-and-options.png](../../attachments/using-luna_assets--ec07dba4ab3cfdb3a43be6ab6acfb4f86eea6071--645e31f4c891f091.png)
 
 2.  Under Send To, click the Outputs button to see the Cue Outputs popover. Configure cue sends as necessary.
 
@@ -331,7 +331,7 @@ To set the tempo by tapping, add tempo changes, and automate tempo changes, see 
 4.  Enable or disable the click globally with the Power button in the popover. Assign the click to the cues using the On buttons and the level faders.
 
     \
-    ![click-to-cue.png](Using%20LUNA_assets/ec34f69319bb2ba8e4e89f73209c689293ba4442.png)
+    ![click-to-cue.png](../../attachments/using-luna_assets--ec34f69319bb2ba8e4e89f73209c689293ba4442--f717a999c19702d1.png)
 
     <div layout="center" node-type="mediaSingle" data-width="">
 
@@ -346,7 +346,7 @@ To set the tempo by tapping, add tempo changes, and automate tempo changes, see 
 ### To set a click sound:
 
 1.  Click at the top of the click ruler to open Click options.\
-    ![click-bar-and-options.png](Using%20LUNA_assets/ec07dba4ab3cfdb3a43be6ab6acfb4f86eea6071.png)
+    ![click-bar-and-options.png](../../attachments/using-luna_assets--ec07dba4ab3cfdb3a43be6ab6acfb4f86eea6071--645e31f4c891f091.png)
 
 2.  Under Sound, click the Sound button to see and select an available click sound.
 
@@ -365,7 +365,7 @@ You can use Count In to play 1, 2, or 4 bars of clicks before recording starts. 
 
 <div class="wysiwyg-text-align-center">
 
-![count-in-enabled-bars.png](Using%20LUNA_assets/d38cc167d24a2fb0a5095398e7264164df5211a4.png)
+![count-in-enabled-bars.png](../../attachments/using-luna_assets--d38cc167d24a2fb0a5095398e7264164df5211a4--4d6876907ab65534.png)
 
 </div>
 
@@ -382,7 +382,7 @@ You can set the counter to show bars and beats, minutes and seconds, or samples.
 
 <div class="wysiwyg-text-align-center">
 
-![counter-menu.png](Using%20LUNA_assets/a6f82377a0e250ff71f12e81cb7f50de83e182d5.png)
+![counter-menu.png](../../attachments/using-luna_assets--a6f82377a0e250ff71f12e81cb7f50de83e182d5--85fd39cbf8cfd57b.png)
 
 </div>
 
@@ -396,7 +396,7 @@ You can navigate by entering a time value in the counter. For example, you can e
 
 <div class="wysiwyg-text-align-center">
 
-![counter-set-location.png](Using%20LUNA_assets/ed52d0242b143e75d4e5489f5e3f5b35d956089e.png)
+![counter-set-location.png](../../attachments/using-luna_assets--ed52d0242b143e75d4e5489f5e3f5b35d956089e--142118b800e9a957.png)
 
 </div>
 
@@ -426,7 +426,7 @@ By default, all mixer rows are open, and only slots that are in use plus one emp
 
 <div class="wysiwyg-text-align-center">
 
-![console-navigation-controls.png](Using%20LUNA_assets/6a39077d08e1ea73e93b726a911b2104bd65cea2.png)
+![console-navigation-controls.png](../../attachments/using-luna_assets--6a39077d08e1ea73e93b726a911b2104bd65cea2--64aa6ee681f9a36c.png)
 
 </div>
 
@@ -448,7 +448,7 @@ Just like the mixer, the focus channel can be configured to show only certain it
 
 By default, all focus channel rows are open, and only slots that are in use plus one empty slot row are displayed.
 
-![navigation-items-focus-channel.png](Using%20LUNA_assets/82ba9b3b0f192935522cc1d2ceeb98377d646028.png)
+![navigation-items-focus-channel.png](../../attachments/using-luna_assets--82ba9b3b0f192935522cc1d2ceeb98377d646028--0c752c1326112842.png)
 
 ## To use the focus channel navigation panel:
 
@@ -473,7 +473,7 @@ By default, all focus channel rows are open, and only slots that are in use plus
 
 </div>
 
-![modifiers.png](Using%20LUNA_assets/c58f2674d5e5943697bf5d44b8439a6f391bc329.png)
+![modifiers.png](../../attachments/using-luna_assets--c58f2674d5e5943697bf5d44b8439a6f391bc329--d6b9f48f67f9cdde.png)
 
 Mixer modifiers add several controls to the LUNA mixer that make common workflow tasks much faster and easier to accomplish. With mixer modifiers, you can easily copy and paste inserts or extensions, remove inserts or extensions, and power extensions or inserts on and off. When you click a mixer modifier button, the control latches.
 
@@ -481,7 +481,7 @@ Mixer modifiers add several controls to the LUNA mixer that make common workflow
 
 <div class="wysiwyg-text-align-center">
 
-![swipe-copy-paste.png](Using%20LUNA_assets/e778779c910cf034980a3cbb95f71b99b291db03.png)
+![swipe-copy-paste.png](../../attachments/using-luna_assets--e778779c910cf034980a3cbb95f71b99b291db03--b27c7fefa3953b83.png)
 
 </div>
 
@@ -526,11 +526,11 @@ For example, the headroom and trim controls on the Neve Summing Extension, or th
 
 You can use the Utility row tools on any LUNA channel to trim the track after console summing, and before tape, plug-ins, or channel faders by as much as +12 dB or -144 dB. In the Utility row and on the channel fader you can invert polarity 180º for any track. You can delay a track by .1–1000 milliseconds. You can adjust linked stereo channels or unlink them to invert polarity or adjust trims independently.
 
-![utility-row-callouts.png](Using%20LUNA_assets/f4bb1667a12922c1748b342b0875df397da0eaa2.png)
+![utility-row-callouts.png](../../attachments/using-luna_assets--f4bb1667a12922c1748b342b0875df397da0eaa2--e6f7acd59181e414.png)
 
 Polarity invert is also available at the track fader.
 
-![invert-polarity-fader.png](Using%20LUNA_assets/da17a78dad2f981835c5f80c9b89bbf2eff28e6b.png)
+![invert-polarity-fader.png](../../attachments/using-luna_assets--da17a78dad2f981835c5f80c9b89bbf2eff28e6b--30b51ac996e9c042.png)
 
 ------------------------------------------------------------------------
 
@@ -542,7 +542,7 @@ From the Other Views popover, click Focus to show the Focus Channel.
 
 <div class="wysiwyg-text-align-center">
 
-![other-views.png](Using%20LUNA_assets/fb5368394515bf223054253f76fe7d3cd44c7d24.png)
+![other-views.png](../../attachments/using-luna_assets--fb5368394515bf223054253f76fe7d3cd44c7d24--c27524fe26c31d82.png)
 
 </div>
 
@@ -556,7 +556,7 @@ The Focus Channel allows you to use a channel's Mixer channel strip without leav
 
 <div class="wysiwyg-text-align-center">
 
-![focused-channel.png](Using%20LUNA_assets/fff4e443291d6c47f62e2e3add3d0c39d65e6c59.png)
+![focused-channel.png](../../attachments/using-luna_assets--fff4e443291d6c47f62e2e3add3d0c39d65e6c59--c30a0fca3118b6af.png)
 
 </div>
 
@@ -575,7 +575,7 @@ Click the Other views icon to show and hide the other views in the Timeline and 
 
 <div class="wysiwyg-text-align-center">
 
-![other-views.png](Using%20LUNA_assets/fb5368394515bf223054253f76fe7d3cd44c7d24.png)
+![other-views.png](../../attachments/using-luna_assets--fb5368394515bf223054253f76fe7d3cd44c7d24--c27524fe26c31d82.png)
 
 </div>
 
@@ -613,7 +613,7 @@ In addition, the following informational settings are shown:
 
 <div class="wysiwyg-text-align-center">
 
-![audio-settings-popover-apollo.png](Using%20LUNA_assets/e3f01e7fc1fca5f551abb8b8d7203ad93055e68a.png)
+![audio-settings-popover-apollo.png](../../attachments/using-luna_assets--e3f01e7fc1fca5f551abb8b8d7203ad93055e68a--0e2ba80b4e2a4890.png)
 
 </div>
 
@@ -629,7 +629,7 @@ In addition, the following informational settings are shown:
 
 <div class="wysiwyg-text-align-center">
 
-![audio-settings-popover-volt.png](Using%20LUNA_assets/91b73159c8db98cb7794c723189c3647f0a78d57.png)
+![audio-settings-popover-volt.png](../../attachments/using-luna_assets--91b73159c8db98cb7794c723189c3647f0a78d57--0a609327e406167d.png)
 
 </div>
 
@@ -659,7 +659,7 @@ For more information on Apollo Monitor Correction, see [Apollo Monitor Correctio
 
 <div class="wysiwyg-text-align-center">
 
-![monitor-column.png](Using%20LUNA_assets/14462772e9f68c4c33c659f8f045a03f78162d9c.png)
+![monitor-column.png](../../attachments/using-luna_assets--14462772e9f68c4c33c659f8f045a03f78162d9c--bfdcb532ac24401d.png)
 
 </div>
 
@@ -675,7 +675,7 @@ Workflows provide common editing, arranging, and navigation commands on a toolba
 
 <div class="wysiwyg-text-align-center">
 
-![workflows-switch.png](Using%20LUNA_assets/685bd4a4629ab7b958baa48c4578f9eaa39487ac.png)
+![workflows-switch.png](../../attachments/using-luna_assets--685bd4a4629ab7b958baa48c4578f9eaa39487ac--037fb5b3524aa11f.png)
 
 </div>
 
@@ -687,7 +687,7 @@ Workflows provide common editing, arranging, and navigation commands on a toolba
 
 <div class="wysiwyg-text-align-center">
 
-![workflows-switch-record.png](Using%20LUNA_assets/d1c341739b4e27879bf392b6a5a811f41cbc3567.png)
+![workflows-switch-record.png](../../attachments/using-luna_assets--d1c341739b4e27879bf392b6a5a811f41cbc3567--79b9d1e8371fd0b5.png)
 
 </div>
 
@@ -697,7 +697,7 @@ Workflows provide common editing, arranging, and navigation commands on a toolba
 
 <div collection="contentId-225739029" context-id="225739029" file-mime-type="image/png" file-name="workflow-recording.png" file-size="27844" data-height="38" data-id="5ee76447-ecdb-4f59-ba15-ff1e7af31429" node-type="media" data-type="file" data-width="634" title="Attachment">
 
-![workflow-recording.png](Using%20LUNA_assets/a4b2d351e8c1139a0bba973330feb9c8f6c83fdd.png)
+![workflow-recording.png](../../attachments/using-luna_assets--a4b2d351e8c1139a0bba973330feb9c8f6c83fdd--88466f01be807d3e.png)
 
 </div>
 
@@ -723,7 +723,7 @@ Click the Record workflow icon to enable the Record workflow. The Record Workflo
 
 <div class="wysiwyg-text-align-center">
 
-![workflows-switch-midi.png](Using%20LUNA_assets/80c2ccd816cccfbd93c7e08212615d2184c5e9a8.png)
+![workflows-switch-midi.png](../../attachments/using-luna_assets--80c2ccd816cccfbd93c7e08212615d2184c5e9a8--3e04dabad739ee76.png)
 
 </div>
 
@@ -733,7 +733,7 @@ Click the Record workflow icon to enable the Record workflow. The Record Workflo
 
 <div class="wysiwyg-text-align-center">
 
-![workflow-midi.png](Using%20LUNA_assets/cf347fc20464060cefa3a659d4fb27e45e73c63f.png)
+![workflow-midi.png](../../attachments/using-luna_assets--cf347fc20464060cefa3a659d4fb27e45e73c63f--3aa8fbbd79f29ac8.png)
 
 </div>
 
@@ -777,7 +777,7 @@ Click the MIDI workflow icon to enable the MIDI workflow. The MIDI Workflow allo
 
 <div class="wysiwyg-text-align-center">
 
-![workflows-switch-edit.png](Using%20LUNA_assets/924cd4354e29be62f8e3ce991a4e1e8b19238f6b.png)
+![workflows-switch-edit.png](../../attachments/using-luna_assets--924cd4354e29be62f8e3ce991a4e1e8b19238f6b--c4f68af3ba71f47f.png)
 
 </div>
 
@@ -791,7 +791,7 @@ Click the MIDI workflow icon to enable the MIDI workflow. The MIDI Workflow allo
 
 </div>
 
-![workflow-edit.png](Using%20LUNA_assets/7ad6c886195429b5e626e747ee56d49f965c9b4e.png)
+![workflow-edit.png](../../attachments/using-luna_assets--7ad6c886195429b5e626e747ee56d49f965c9b4e--09b997e7015c5c07.png)
 
 Click the Edit workflow icon to enable the Edit workflow. The Edit Workflow allows you to use the following commands:
 
@@ -864,7 +864,7 @@ Click the Edit workflow icon to enable the Edit workflow. The Edit Workflow allo
 
 <div class="wysiwyg-text-align-center">
 
-![workflows-switch-mix.png](Using%20LUNA_assets/c52f247627e17a6529cddaee8edae8bc35c22499.png)
+![workflows-switch-mix.png](../../attachments/using-luna_assets--c52f247627e17a6529cddaee8edae8bc35c22499--7365c14eece19d3e.png)
 
 </div>
 
@@ -874,7 +874,7 @@ Click the Edit workflow icon to enable the Edit workflow. The Edit Workflow allo
 
 <div class="wysiwyg-text-align-center">
 
-![workflow-mix.png](Using%20LUNA_assets/1dbe9f9227c4753a64686d4ab1ff9d6704827741.png)
+![workflow-mix.png](../../attachments/using-luna_assets--1dbe9f9227c4753a64686d4ab1ff9d6704827741--c52217733a1753cf.png)
 
 </div>
 

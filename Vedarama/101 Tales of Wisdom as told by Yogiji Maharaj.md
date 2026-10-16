@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ygjmh-101t0w"
 ---
 
-![обложка|156](<101 Tales of Wisdom as told by Yogiji Maharaj/обложка.jpeg>)
+![обложка|156](<../attachments/101-tales-of-wisdom-as-told-by-yogiji-maharaj--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--ead7caaa77b98f2f.jpeg>)
 
 Simple, yet profound. 101 Tales of Wisdom as told by Yogiji Maharaj communicates timeless messages in an accessible form. Yogiji Maharaj, one of the modern era's greatest Hindu sages and spiritual luminaries, showcases the value of a virtuous life through these tales.
 

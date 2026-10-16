@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bid"
 ---
 
-![обложка|156](<Beyond Illusion & Doubt/обложка.jpeg>)
+![обложка|156](<../attachments/beyond-illusion-doubt--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--425c631c125660af.jpeg>)
 
 Beyond Illusion And Doubt is a compilation of conversations between Srila Prabhupada and some of his disciples, comparing Vedic wisdom with Western philosophy.
 

@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1950"
 ---
 
-![обложка|156](<1950 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1950-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--426b2fe2b433e453.jpeg>)
 
 # 1950 Correspondence
 

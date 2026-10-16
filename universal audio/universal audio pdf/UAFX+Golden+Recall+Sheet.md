@@ -7,7 +7,7 @@ word_count: 74
 ---
 
 
-![](UAFX+Golden+Recall+Sheet_assets/UAFX+Golden+Recall+Sheet.pdf-0001-00.png)
+![](../../attachments/uafx-golden-recall-sheet_assets--uafx-golden-recall-sheet.pdf-0001-00--f4865d512328c894.png)
 
 
 **----- Start of picture text -----**<br>
@@ -23,11 +23,11 @@ DECAY PREDELAY MIX DECAY PREDELAY MIX DECAY PREDELAY MIX<br>A
 
 
 
-![](UAFX+Golden+Recall+Sheet_assets/UAFX+Golden+Recall+Sheet.pdf-0001-01.png)
+![](../../attachments/uafx-golden-recall-sheet_assets--uafx-golden-recall-sheet.pdf-0001-01--00093de3802f7fbf.png)
 
 
 
-![](UAFX+Golden+Recall+Sheet_assets/UAFX+Golden+Recall+Sheet.pdf-0001-02.png)
+![](../../attachments/uafx-golden-recall-sheet_assets--uafx-golden-recall-sheet.pdf-0001-02--71f7928be4a5ce2d.png)
 
 
 **----- Start of picture text -----**<br>

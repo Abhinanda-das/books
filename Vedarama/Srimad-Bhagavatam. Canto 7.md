@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sb-7"
 ---
 
-![обложка|156](<Srimad-Bhagavatam. Canto 7/обложка.jpeg>)
+![обложка|156](<../attachments/srimad-bhagavatam.-canto-7--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f70ad3739912ffe7.jpeg>)
 
 # Srimad-Bhagavatam. Canto 7
 

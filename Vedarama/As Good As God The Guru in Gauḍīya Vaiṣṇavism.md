@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/mbroo-agag"
 ---
 
-![обложка|156](<As Good As God The Guru in Gauḍīya Vaiṣṇavism/обложка.jpeg>)
+![обложка|156](<../attachments/as-good-as-god-the-guru-in-gau%E1%B8%8D%C4%ABya-vai%E1%B9%A3%E1%B9%87avism--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--6022f3c3ef0564f8.jpeg>)
 
 Few concepts of contemporary Hinduism capture the imagination of Western observers as strongly as the guru, popularly seen as a "Godman" or saintly teacher of mystical doctrines - or as a sly misleader of gullible followers. The present study identifies, examines and characterises the guru institution within Gauḍīya Vaiṣṇavism, the devotional Hindu movement started by Kṛṣṇa Caitanya (1486-1533) in Bengal, a movement in which both the doctrine of the guru and his ritual worship has been particularly elaborated. The study is written from the viewpoint of the academic study of religion, incorporating religio-historical as well as anthropological and sociological perspectives and methods. Focusing on the seemingly paradoxical concepts of canon and charisma, it also presents more general conclusions regarding religious authority, the interpretation of sacred texts and the interplay between tradition and innovation.
 

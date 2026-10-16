@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/mnarada-tbaht"
 ---
 
-![обложка|156](<The Buddha and His Teachings/обложка.jpeg>)
+![обложка|156](<../attachments/the-buddha-and-his-teachings--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--40d3cb771256b9c1.jpeg>)
 
 The Buddha was the first most active missionary in the world. He wandered from place to place for forty-five years preaching His doctrine to the masses and the intelligentsia. Till His last moment, He served humanity both by example and by precept. His distinguished disciples followed suit. Penniless, they even travelled to distant lands to propagate the Dhamma, expecting nothing in return.
 

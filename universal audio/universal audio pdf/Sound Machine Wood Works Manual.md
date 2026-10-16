@@ -17,7 +17,7 @@ Wood Works brings dramatic new versatility, quality and simplicity to recording 
 Use Wood Works on its own, or alongside physical mic’ing. No matter how you’ve recorded and mixed acoustic guitars before, Wood Works now gives you the freedom to do it better. 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0001-05.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0001-05--b1b794af07398066.png>)
 
 
 The Sound Machine Wood Works plug-in window 
@@ -75,7 +75,7 @@ Sound Machine® Wood Works® UAD Plug-in User Manual revised January 14, 2015 ©
 ## **Voicing Dial** 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0005-02.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0005-02--8ae8a64f09ac73c9.png>)
 
 
 The dial selects from the available voicings, which provide resonances and other acoustic properties well-matched to Jumbo, Dreadnought and Studio (small body) guitars. Select the voicing that best matches the natural sound of the source acoustic guitar, or creatively re-voice the source acoustic guitar by choosing other settings. Changing voicing for different portions of a track allows the sound to evolve and transform to fit the emotional arc of a production, like swapping to a different guitar or a different set of microphones. Running multiple instances of Wood Works with varied voicings allows richer soundscapes to be built. 
@@ -83,7 +83,7 @@ The dial selects from the available voicings, which provide resonances and other
 ## **Defaults Enable Switch** 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0005-05.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0005-05--7a1c298cb2fa1e9a.png>)
 
 
 This toggle determines whether NECK, BODY and PAN controls will be set to default settings each time voicing is changed (DEFAULTS), or remain as previously set (MANUAL). Defaults have been chosen to give optimal starting settings for each voicing, and are particularly helpful when “browsing” voicings. 
@@ -95,7 +95,7 @@ pg. 5
 ## **Neck Knob** 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0006-01.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0006-01--9807aa4fe66f5226.png>)
 
 
 This knob sets the level of the virtual neck microphone, equivalent to a microphone placed to mic the guitar neck, near the 12th fret. This mic will tend to emphasize somewhat higher frequency resonance points than the body mic, as well as the high frequency content that comes directly off the vibrating strings. Turn the knob fully clockwise (minimum) to silence the microphone, and allow use of only the BODY microphone. 
@@ -103,7 +103,7 @@ This knob sets the level of the virtual neck microphone, equivalent to a microph
 ## **Body Knob** 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0006-04.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0006-04--d09711a6077570b8.png>)
 
 
 This knob sets the level of the virtual body microphone, equivalent to a microphone placed to mic the guitar body, near the lower bout. This mic will tend to emphasize somewhat lower frequency resonance points than the neck mic, as well as the high frequency content that comes off the top surface of the guitar around the bridge. Turn the knob fully clockwise (minimum) to silence the microphone, and allow use of only the NECK microphone. 
@@ -111,7 +111,7 @@ This knob sets the level of the virtual body microphone, equivalent to a microph
 ## **Pan Knobs** 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0006-07.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0006-07--540faf9e7a992f81.png>)
 
 
 Two pan knobs are provided, to independently control stereo placement for the neck and body virtual microphones. Double-click a knob or click the word PAN above it to re-set it to center position. These knobs are disabled when Wood Works is run with mono output. 
@@ -121,7 +121,7 @@ Sound Machine® Wood Works® UAD Plug-in User Manual revised January 14, 2015 ©
 ## **Input Knob** 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0007-01.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0007-01--44dd727a81e2db74.png>)
 
 
 This knob provides input level adjustment from infinite attenuation @ minimum, to +0dB @ noon, to +12dB @ maximum. 
@@ -129,7 +129,7 @@ This knob provides input level adjustment from infinite attenuation @ minimum, t
 ## **Output Knob** 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0007-04.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0007-04--6e381dedcb198214.png>)
 
 
 This knob provides input level adjustment from infinite attenuation @ minimum, to +0dB @ noon, to +12dB @ maximum. 
@@ -137,7 +137,7 @@ This knob provides input level adjustment from infinite attenuation @ minimum, t
 ## **Output Level Meter** 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0007-07.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0007-07--65675b4848b2fdc5.png>)
 
 
 The output level meter shows output level for neck and body virtual microphones combined. 
@@ -145,7 +145,7 @@ The output level meter shows output level for neck and body virtual microphones 
 ## **Power Switch** 
 
 
-![](<Sound Machine Wood Works Manual_assets/Sound_Machine_Wood_Works_Manual.pdf-0007-10.png>)
+![](<../../attachments/sound-machine-wood-works-manual_assets--sound_machine_wood_works_manual.pdf-0007-10--e7dca26dffda95ed.png>)
 
 
 The power switch bypasses all plug-in processing when off. You can use this switch to compare the processed sound to that of the original signal. 

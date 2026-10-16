@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ad-cosmology"
 ---
 
-![обложка|156](<Cosmic theogony/обложка.jpeg>)
+![обложка|156](<../attachments/cosmic-theogony--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--e4ee02480b713aa6.jpeg>)
 
 # Cosmic theogony
 
@@ -159,7 +159,7 @@ The new problem now is—how can the origin be the box? Isn’t the origin suppo
 
 This is when we have to replace the box with a tree. The box is like the root of the tree from which the many locations inside the box are created like branches from the root. The root is the context and each branch from the root is an object. The object is given a meaning in relation to the root, which means that if you define your location in relation to the origin of space, that location itself represents meaning, although this is not a location in a box, but on a tree. We have to now think of the box—i.e., the root—as the whole, and the objects inside the box as parts of the whole. However, the whole is logically prior to the parts because it is a higher node in the tree. Effectively, the whole and the part are separately real, and the whole cannot be reduced to its parts.
 
-![рис-001.jpg|546](<Cosmic theogony/рис-001.jpg>)
+![рис-001.jpg|546](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-001--2b1196c4c0d41e36.jpg>)
 
 Figure-1 Conversion of a Box into a Tree
 
@@ -179,7 +179,7 @@ The truth, right, and good may also vary from one person to another. For the wor
 
 Thus, each person has a product, process, and goal, but they are not the same for each person. Each person also has a judgment of the product, process, and goal, but they are not the same for each person. Clearly, all three have to be combined, but there is enormous variety in these combinations. Each of these three has its own hierarchy, so they are three separate trees which have to be combined. We will discuss the combination of three trees in the next chapter, but the basic idea is that an object can perform many functions (e.g., a knife can be used to cut and pierce), and a function can be used for many purposes (e.g., cutting vegetables to cook or cutting paper to make crafts).
 
-![рис-002.png|554](<Cosmic theogony/рис-002.png>)
+![рис-002.png|554](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-002--a7b7fd3c2602eccd.png>)
 
 Figure-2 The Combination of Three Trees
 
@@ -233,7 +233,7 @@ Abstract concepts—which we employ in scientific theories—are mental construc
 
 To understand this philosophy, we have to realize that both senses and the mind perceive concepts or information. The world is objectively comprised of ‘bits’ of information, but the interpretation of these bits is subjective. These bits are organized hierarchically in a tree—from root to leaf. Human perception is also hierarchical from sensations at the lowest level to concepts, beliefs, intentions, and morals at higher levels. The different souls are situated at different places on the tree. They consider their location on the tree as the ‘root’ of their subjective space, which means that the bits where they are situated are perceived as the morals (the highest-level reality), and the subsequent ‘branches’ are perceived as intentions, beliefs, concepts, and sensations. The soul doesn’t see the successive expansions of the tree beyond the branch that they subjectively call ‘sensations’. However, through experimental procedures, that which is smaller than the human perceptible sensations can be magnified. In such magnification we still perceive sensations, but those sensations are produced by making the very small sufficiently large for human perception. Indeed, this is how we know about the atomic reality at present: we do not see the atoms; we rather see moving needles and hear detector clicks.
 
-![рис-003.png|302](<Cosmic theogony/рис-003.png>)
+![рис-003.png|302](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-003--10c6d5c6571ec8dd.png>)
 
 Figure-3 Absolute and Relative Spaces
 
@@ -403,7 +403,7 @@ Translation: The total energy of the mahattattva, in the form of the gigantic vi
 
 The crucial point here is that when the soul enters the material world, he first acquires a self-identity, which constitutes his role in relation to other roles, and this identity is created in three parts—manas, prāna, and vāk. The manas is the awareness, vāk is the identity experienced, and prāna is the connection between the identity and the awareness. The identity is divided into three parts based on the three modes of nature (sattva, rajas, and tamas), but the connection to that identity is divided into ten parts (ten types of prāna). That connection is the process by which the identity is created and experienced.
 
-![рис-004.jpg|279](<Cosmic theogony/рис-004.jpg>)
+![рис-004.jpg|279](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-004--d7e2f8a5fc4d58ba.jpg>)
 
 Figure-4 The Hierarchy of Taxonomic Classification
 
@@ -425,13 +425,13 @@ We normally think that species (at the bottom of the hierarchy) are the only rea
 
 So far, we have spoken of how the sat creates classes, genus, phyla, species, etc. Now we will talk about the individual members of these species. Each member of the species also has a whole-part relationship, but that relation is of a different type. While the classification relation is called is-a, the member of the species creates the has-a relation from whole to part. Thus, the soul has a body, the body has hands, the hands have fingers, the fingers have nails, etc. This type of wholepart relationship is called chit or cognition where something is called ‘nail’ because it is part of the finger; something is called ‘hand’ because it is part of the body. The triad of manas, prāna, and vāk is again used, however, now manas is the whole body, prāna is the relation between whole and part, and vāk is the part. Just as previously we instantiated a meaning into a word or sentence (beginning with the ideal expression), now we can speak about the parts of the word or sentence—e.g., the alphabets and the grammatical structure of the sentence— that has the whole sentence as the tree root.
 
-![рис-005.jpg|331](<Cosmic theogony/рис-005.jpg>)
+![рис-005.jpg|331](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-005--fcc1a621cd8307d7.jpg>)
 
 Figure-5 The Combination of Is-A and Has-A Elements
 
 In Figure-5 we can see how the whole sentence has a noun phrase and a prepositional phrase as its parts. The noun phrase further has article and noun as its parts. The tree of grammatical structure therefore involves a compositional hierarchical relation in which the whole contains the parts. At the bottom of the tree, however, you can see the conversion of each part of speech (e.g., noun) into an example of the part of speech (e.g., a cat). The above sentence structure can remain unchanged in terms of grammatical form, but the actual sentence may change using different words which convert the noun, article, verb, preposition, etc. into different words. The parts of speech are the roles played by the words, while the words are the material entities. Similarly, the words may remain unchanged although they are now structured by a different grammatical form as depicted in Figure-6 where the sentence “I saw a man on a hill with a telescope” has several meanings; two are depicted here.
 
-![рис-006.jpg|353](<Cosmic theogony/рис-006.jpg>)
+![рис-006.jpg|353](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-006--6d22bb1f720d9cee.jpg>)
 
 Figure-6 A Sentence Can Have Many Meanings
 
@@ -443,7 +443,7 @@ The words in higher planetary systems are therefore analogues of “noun phrase�
 
 Another way to understand the combination of sat and chit is to look at an ordinary organizational hierarchy. For example, a company has a functional structure comprised of roles such as CEO, CFO, CTO, etc. But in each of these roles there is a different person. We can say that a CEO has-a CFO, but that CFO is not a part of the CEO’s body. The organizational structure is a conceptual description of the organization, while the actual members of the organization are the material description of the same organization. To transform the conceptual structure into the material structure, we use the is-a relation. Similarly, both the conceptual and the material structure have the has-a relation.
 
-![рис-007.png|318](<Cosmic theogony/рис-007.png>)
+![рис-007.png|318](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-007--51e5dcd73c3e2f12.png>)
 
 Figure-7 Horizontal and Vertical Dimensions
 
@@ -461,7 +461,7 @@ We can describe the world in terms of the three facets called manas, prāna, and
 
 We noted above that the flat plane originates in the center as the ideal part (due to sat). Similarly, the center also represents the best part (due to chit). In the human body, for example, the ideal and the best part is the head. From this head the rest of the body is expanded and controlled. The head is the center of the space, and the toes are the ends of the space. Similarly, the head is at the top and the toes are at the bottom. These facts are represented as two distinct descriptions of space as a flat plane and a sphere, respectively.
 
-![рис-008.png|382](<Cosmic theogony/рис-008.png>)
+![рис-008.png|382](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-008--bef8e197faef4abf.png>)
 
 Figure-8 The Spherical and Lotus Models of Space
 
@@ -549,7 +549,7 @@ The change of the soul’s focus is called the transmigration of the soul throug
 
 If you move a torchlight above a picture, and slowly bring all the parts into focus one by one, eventually you will find that you have exhausted all the parts and now the torchlight must move to the original part again. To the materialist who thinks the motion of torchlight is an actual change to the object in focus, it appears that reality is a dice; you roll the dice again and again and after seeing all the six faces, the first face will appear again in your vision. Material change now appears to be rotating the object in space because the same thing is seen again and again, although when one face is seen, the others become invisible. This apparent ‘rotation’ is depicted by two facts— (1) the angle of rotation, and (2) the radius from which the rotated part is being seen.
 
-![рис-009.png|340](<Cosmic theogony/рис-009.png>)
+![рис-009.png|340](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-009--49b76dc6a95ce72e.png>)
 
 Figure-9 Flat Planes and Polar Coordinates
 
@@ -585,7 +585,7 @@ The material world in modern science is objects. In Vedic philosophy, the same m
 
 Therefore, the difference between object and symbol manifests in a problem: the space of objects can be made to undergo coordinate transforms, while the space of symbols cannot. One such transform involves flipping the directions of space by which X is converted into –X. If the name of a symbol is P, and we flip the concept axis, we will map the name P to the concept not P, but the meaning is not flipped because the inverted tree always grows in a single direction—top to bottom. By flipping the coordinate axes, the parts become the root and the whole becomes the leaf or the part. Now we have a paradox in which the whole contains the parts, but when the picture has been inverted, the part contains the whole but the other parts of the whole logically contradict it.
 
-![рис-010.png|347](<Cosmic theogony/рис-010.png>)
+![рис-010.png|347](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-010--778639aa49360055.png>)
 
 Figure-10 Coordinate Transform Creates Self-Contradiction
 
@@ -617,7 +617,7 @@ An example of colors will help clarity this point further, where the duality is 
 
 printed is white. The black on the other hand represents the negative direction, and is mixed with cyan, magenta, and yellow, to create further shades of color. Thus, we call the color scheme CMYK, where K is the ‘key’ called black. Since you can mix black or white with each of the three colors (cyan, magenta, and yellow) there are three axes, and then there are two directions. There is hence a three-dimensional space from which six directions are produced. The three dimensions are yellow, cyan, and magenta, and the two directions are white and black. In Figure-11 white and black are respectively the top and the bottom. This only means that the colors are unsaturated at the top and saturated at the bottom. The limit of the three-color saturation is the color black.
 
-![рис-011.png|318](<Cosmic theogony/рис-011.png>)
+![рис-011.png|318](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-011--634dec009babb2d8.png>)
 
 Figure-11 The Space of Five Colors
 
@@ -631,7 +631,7 @@ If you move to a higher location on the z-axis, you move to a higher role. If yo
 
 This structure of the space is mimicked in the structure of nerves in the body— emanating from the spinal cord. The spinal cord represents the inward and the upward path, which means that information flows from the rest of the body to the center—the spinal cord—and then it moves upward to the brain. Similarly, the signals are sent down from the brain as commands or instructions through the spinal cord, and they are then distributed to the rest of the body. The structure of the spinal cord is emblematic of the structure of the universal space of three dimensions, and accordingly, Vedic philosophy describes the universe as a body, and the body as a universe. The advanced yogi who has perfected the inward and the upward journey understands this structure because he realizes that the only path to move upward is to first move inward. If we cannot move inward, we also cannot move upward in this space.
 
-![рис-012.png|421](<Cosmic theogony/рис-012.png>)
+![рис-012.png|421](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-012--2a1808cd2f9281e5.png>)
 
 Figure-12 Space as Veins in the Human Body
 
@@ -761,7 +761,7 @@ SB 12.11.43 — Tvaṣṭā as the sun-god; Jamadagni, the son of Ṛcīka, as t
 
 SB 12.11.44 — Viṣṇu as the sun-god, Aśvatara as the Nāga, Rambhā as the Apsarā, Sūryavarcā as the Gandharva, Satyajit as the Yakṣa, Viśvāmitra as the sage and Makhāpeta as the Rākṣasa rule the month of Ūrja.
 
-![рис-013.png|478](<Cosmic theogony/рис-013.png>)
+![рис-013.png|478](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-013--5d0e2b32cd223d0b.png>)
 
 Table-1: The Eighty-Four Expansions of Sun
 
@@ -783,19 +783,19 @@ There are several important things that we need to understand here. First, why i
 
 The 12 forms of the sun are not at the same ‘level’, which means some positions of the sun—which are placed higher—are better than others. In fact, the orbit is tilted twice, and that tilt creates a hierarchy—increase and decrease. As the sun goes in its orbit, therefore, it also rises and falls.
 
-![рис-014.png|522](<Cosmic theogony/рис-014.png>)
+![рис-014.png|522](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-014--f0304770245ed949.png>)
 
 Figure-13 Twisting a Circle by Two Turns
 
 The 12 divisions constitute a linear hierarchy (because they are counted from one to twelve) and yet these are represented in a circle (which appears to be a closed loop). The linearity in the hierarchy and the loop in the circle appear contradictory, but this contradiction is non-existent because the circle is tilted twice—the North is higher than South, and the East is higher than the West. The method of this tilting and its implications are shown below.
 
-![рис-015.png|505](<Cosmic theogony/рис-015.png>)
+![рис-015.png|505](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-015--041e1e963bf7d5f2.png>)
 
 Figure-14 Twisted Circle Creates Hierarchy
 
 We can see that every point on the circle going from East to West through the North has a lower counterpoint in going from West to East through the South. The circle is loopy, but there is a hierarchy. Therefore, we can count the divisions from 1 to 12, and yet, when we reach 12, the next number is again 1, rather than 13. The reason for this loopy nature is that the circle describes the transformation of increase and decrease, and hence time is cyclic.
 
-![рис-016.png|525](<Cosmic theogony/рис-016.png>)
+![рис-016.png|525](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-016--c46b0795eb8b2c80.png>)
 
 Figure-15 Twisted Circle Has Two Paths
 
@@ -815,13 +815,13 @@ We have previously discussed two types of meanings associated with the flat plan
 
 Hence, in understanding the meaning of the solar motion, we must focus upon the significance of the double twisting, instead of the elevated central origin, or the division of the plane into knowledge and action. The vertical dimension in Vedic cosmology denotes a hierarchy of planes; the upper planes are the residences of the demigods and the lower planes those of demons. Therefore, as the sun rises and falls, it creates phases of relative domination of the demons and the demigods. As seen above, the Uttarāyaṇa path represents the relative domination (and daytime) of demigods, while the Dakshināyana path denotes the relative preponderance (and daytime) of demons. Within each path, there are different stages of greater or lesser domination. Thus, the sun’s position can be described as a combination of positive and negative traits that combine to describe the qualities of the signs of the zodiac.
 
-![рис-017.png|357](<Cosmic theogony/рис-017.png>)
+![рис-017.png|357](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-017--9797079ec01b3cb7.png>)
 
 Figure-16 The Twelve Signs of the Zodiac
 
 We might additionally note that the apparent motion of the sun is clockwise, but the actual motion of the sun is counterclockwise. In Vedic cosmology, the sun is dragged clockwise due to the movement of the zodiac—which is faster—relative to the counterclockwise motion of the sun. Due to the combination of the two motions, the apparent motion is clockwise although the sun is moving in the counterclockwise direction. If we combine this with that of the orbital tilt, and the positions of the zodiac signs known from the Earth’s motion, then the upward motion of the sun begins at the lowest constellation called Capricorn, reaches the zenith at Gemini. Then, the downward motion begins at Cancer until it reaches the nadir at Sagittarius. If we order these positions along a vertical dimension, the picture would look like alternating positions on the upward and downward paths as in Figure-17.
 
-![рис-018.png|428](<Cosmic theogony/рис-018.png>)
+![рис-018.png|428](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-018--71e92ba79d98aa6c.png>)
 
 Figure-17 Alternating Positions of the Zodiac Signs
 
@@ -847,7 +847,7 @@ These sub-divisional or hierarchical locations are called varga in astrology.
 
 Given the fact that there is a total of 720 possible divisions, each zodiac sign can be divided into 720 / 12 = 60 parts at most. This is the basis of the divisional chart system which divides each sign into up to 60 parts, creating ever more precise—although hierarchical positions; this means that even when we divide each sign by a factor of 60 (to determine past birth), we must keep the smaller divisors such as by a factor of 10 (to determine current profession and actions) in mind. Not every type of division has to be taken into account, and the factorization hierarchy helps us decide the meaning.
 
-![рис-019.png|708](<Cosmic theogony/рис-019.png>)
+![рис-019.png|708](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-019--a5e9486f9c52fd09.png>)
 
 Table-2: The System of Varga Charts for Meaning
 
@@ -889,7 +889,7 @@ Therefore, the rise and fall of the six qualities changes the nature of the theo
 
 It is commonly said that good and evil are present in each person, and the difference lies in their relative proportions. This change in proportions creates the patterns of subordination and domination. Therefore, in the upward path, there is progress toward greater unity, harmonization, and cooperation, but only God is completely unified. Even though one progresses toward the perfect, unless one reaches proximity to God (or the sun in this case) there is still some level of fragmentation, disunity, and disorder. As a result, even though demigods signify the upward trajectory, there is still competition between the demigods. Similarly, just because the downward path represents disorder, chaos, and conflict, there is still a level of unity that produces a society. These things become evident when we look at the universe as a tree; the upper part of the tree has greater unity and fewer branches; but the fewer branches are not the root. Similarly, the lower part of the tree has many leaves, which sway individually, although they are still bound to the tree as a whole.
 
-![рис-020.png|578](<Cosmic theogony/рис-020.png>)
+![рис-020.png|578](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-020--e4bc377cfab39e7a.png>)
 
 Table-3: The Six Guardians of the Sun-God
 
@@ -953,7 +953,7 @@ elements of style—namely, verse, music, gestures, and literary styles. Through
 
 The Vedic music system of rāga is a collection of 72 sampūrna or complete rāga, with a scale comprising 12 semitones and each rāga having 7 notes. The 12 semitones are S, R1, R2=G1, R3=G2, G3, M1, M2, P, D1, D2=N1, D3=N2, N3. Since two notes—S and P—are fixed, we can divide the possible rāga into two parts based on the note variations before and after P. There are six possible variations between D and N (D1-N1, D1-N2, D1-N3, D2-N2, D2-N3, D3-N3). Similarly, there are two possible variations between R and G (R1-G1, R1-G2, R1-G3, R2-G2, R2-G3, and R3-G3). Finally, there are two variations of M (M1 and M2). As a result, the total possible combinations of the rāga turn out to be 6 (R and G variants) \* 6 (D and N variants) \* 2 (M variants) = 72.
 
-![рис-021.png|681](<Cosmic theogony/рис-021.png>)
+![рис-021.png|681](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-021--a2e7a7674c04733f.png>)
 
 Figure-18 The Katapayādi System of Counting Rāga
 
@@ -1128,7 +1128,7 @@ That is made of rhythms, meters.
 
 It is now also possible to interpret the 7 meters as corresponding to the 7 rhythms which are called tāla in Indian classical music. 7 prominent rhythms are identified in the Carnatic School of music. Each of these rhythms has further 5 types of divisions. All these are described in Table-4 below. The system of tāla is well-known to be hierarchical. For example, the larger cyclic tāla pattern has embedded smaller cyclic patterns, which is quite unlike the system of rhythm used often in Western music. Thus, a single beat in a tāla can be representative of the entire cycle of beats in another tāla and through such successive hierarchical patterns different instruments can play at different rates—following slower or faster embedded patterns—in a single composition. This hierarchical and cyclic view of time is typical to Vedic philosophy.
 
-![рис-022.png|826](<Cosmic theogony/рис-022.png>)
+![рис-022.png|826](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-022--6ca321dfbf271c09.png>)
 
 Table-4: The System of Rhythms in Indian Music
 
@@ -1145,7 +1145,7 @@ Table-4: The System of Rhythms in Indian Music
 
 *The seven horses yoked to the sun-god’s chariot are named Gāyatrī, Bṛhati, Uṣṇik, Jagatī, Triṣṭup, Anuṣṭup and Paṅkti. These names of various Vedic meters designate the seven horses that carry the sun-god’s chariot.*
 
-![рис-023.png|658](<Cosmic theogony/рис-023.png>)
+![рис-023.png|658](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-023--9926a0913cc2c24a.png>)
 
 Table-5: The Seven Meters of the Sanskrit Verse
 
@@ -1234,7 +1234,7 @@ Based on the above we can identify some notable points. First, the moon covers t
 
 Second, the moon’s rotation in 30 days constitutes a day and night of the demigods and the ancestors. The first 15 days during the ascent of the moon constitute the day of the demigods, and the next 15 days during the descent constitutes their night. Similarly, the descent of the moon constitutes the day of the ancestors and the ascent brings their night. The demigods enjoy one half of the circle and hence they are ‘awake’ at that time, while the ancestors are ‘asleep’ at that time. Conversely, the ancestors enjoy the other half of the circle and they are ‘awake’ at that time, while the demigods are ‘asleep’. For 15 days the demigods control the world, and for the other 15 days the ancestors control the world. The ancestors or pitr have been worshipped in many traditions, and they were the primary deities for the aborigines. We might also say that these two rule our waking and sleeping pleasures. Thus, one who has a positive influence of demigods will have a pleasurable day life—e.g., work, money, social interactions. But one who has a negative influence of the ancestors will have a painful night life—e.g., lack of sexuality, sleep, restfulness, etc.
 
-![рис-024.png|465](<Cosmic theogony/рис-024.png>)
+![рис-024.png|465](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-024--f5881c5b206fa5b8.png>)
 
 Table-6: The Five Elements, Knowing and Action Senses
 
@@ -1258,7 +1258,7 @@ Alternately, we can say that in the process of creativity we conceive an idea—
 
 In Sāñkhya this five-fold division is called Earth, Water, Fire, Air, and Ether. It a denotes hierarchical model because the Ether produces sound which can only be heard, Air produces touch which can both be heard and touched, Fire produces sight which can be seen, touched, and heard, Water produces taste which can be tasted, seen, touched, and heard, and finally, Earth produces smell which can be smelt, tasted, seen, touched, and heard. The question is: why do we have 5 knowledge senses? In principle, we could have 10 or 3 senses. What creates the 5 senses? The moon’s five qualities are based on the fact that our pleasure is divided into five parts, which we saw previously manifests into five senses of knowledge, five senses of action, and five objects of these senses. When combined with duality, the five-fold division results in the 10 directions which are denoted by the 10 Dikpāla or the “guardians of the directions” as shown in Table-7. Half of these directions are opposites.
 
-![рис-025.png|338](<Cosmic theogony/рис-025.png>)
+![рис-025.png|338](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-025--c787d16b01750907.png>)
 
 Table-7: The Ten Directions
 
@@ -1294,9 +1294,9 @@ The verse of interest to us here is BG 3.42 which notes the five-fold distinctio
 
 This five-fold division represents a typology of pleasure; we might say that there are five unique types of pleasure, which are experienced as body, senses, mind, intellect, and the soul. However, since the ānanda of the soul is organized like a tree, the same types manifest at different levels again and again, and they are then used to divide the tree of pleasure over and over, creating the holographic nature of pleasure in which there are gross forms of pleasure that follow the subtle pleasures, and the same type division can be reemployed to further divide the pleasure of objects, the senses of knowledge, and the senses of action into five parts. The 15 parts of the moon are therefore not literally representative of the 5 elements, 5 senses of knowledge, and 5 senses of actions. They are rather indicative of a typology in which five types of pleasure are divided by three modes of nature—concepts, activities, and objects—and these 15 parts then have their opposites to create the 30 phases of the moon in which the moon waxes for 15 days and wanes for 15 days.
 
-![рис-026.png|323](<Cosmic theogony/рис-026.png>)
+![рис-026.png|323](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-026--df5e883261357554.png>)
 
-![рис-027.png|323](<Cosmic theogony/рис-027.png>)
+![рис-027.png|323](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-027--6909fba191d3ba10.png>)
 
 Table-8: The Thirty Days of a Lunar Month
 
@@ -1306,9 +1306,9 @@ Each day of the moon, therefore, is not the same as any other day. Instead, each
 
 The moon represents desire, and in the material world, this desire is created by Shiva and His Śakti. We have seen how the moon has 16 parts, but only 15 are visible. In other Tantra scriptures, the same 16 parts are described but now each phase of the moon is also associated with 16 different forms of Śakti. Out of these, Mahā Tripura Sundarī is called Para Śakti, and hence the phase ruled by her is not visible to normal mortals. It is said that on the full moon day all the 15 Śakti are in the moon; on each successive day after the full moon day, one Śakti leaves the moon and goes to the sun and the moon is reduced slightly in size, until the no moon day (the 15th day). The full moon day is called Pūrnima and the no moon day is called Amāvasya. Then after Amāvasya the Śakti return to the moon one by one until the full moon or Pūrnima.
 
-![рис-028.png|498](<Cosmic theogony/рис-028.png>)
+![рис-028.png|498](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-028--e81505e65cecf960.png>)
 
-![рис-029.png|488](<Cosmic theogony/рис-029.png>)
+![рис-029.png|488](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-029--3a981a9d07f11757.png>)
 
 Table-9: The Sixteen Divisions of Material Desire
 
@@ -1386,7 +1386,7 @@ The social relation is many-to-many
 
 The opportunistic relation is one-to-many
 
-![рис-030.png|751](<Cosmic theogony/рис-030.png>)
+![рис-030.png|751](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-030--fde8be95852babb7.png>)
 
 Table-10: Four Types of Relationships
 
@@ -1414,7 +1414,7 @@ We are now in a position to discuss the 7 main stars, and their four-fold divisi
 
 The duties to be performed at 7 levels of matter are represented by the 7 prominent stars, which are also called the manas-putra or “mental sons” of Brahma, who enunciates the dharma for this world. This means that Brahma first defines the duty of the four ideal relationships, and then delegates the definition of duty at each of the 7 levels of matter to his “mental sons”. Each person is in many relationships with regard to different people. For instance, each person typically has a parent and some children, they have friends, they are masters of some and servants of others, they may be conjugally related to a spouse, etc. Thus, each person has 28 types of duties. At different times, some duty might take precedence over the others, which means prioritizing the duties is also a duty. Indeed, prioritization of duties is the primary duty after which the duty performance comes into play. This prioritization is the choice of the soul, who is transcendent to the 7 levels of matter; we can call this the primary duty, not to others, but to oneself in the relationship to the self. As a result, there is also the pole star—sometimes called Dhruva—which is sometimes counted as one of the sons of Brahma who are together called the 8 Vasu. At other times, the pole star is kept aside from this description and only 7 stars are counted. Once we understand their meanings, we can see why both are true.
 
-![рис-031.png|476](<Cosmic theogony/рис-031.png>)
+![рис-031.png|476](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-031--7980c15794a7d643.png>)
 
 Table-11: The Seven Sages in Fourteen Manavantara
 
@@ -1456,7 +1456,7 @@ Karma is also delivered in accordance with what the body is capable of bearing. 
 
 Finally, the actual events are caused by the combination of guna and karma— i.e., suffering or pleasure coupled with what constitutes suffering or pleasure for you. This process is shown by a hierarchy in Figure-19.
 
-![рис-032.png|355](<Cosmic theogony/рис-032.png>)
+![рис-032.png|355](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-032--896d47223874205a.png>)
 
 Figure-19 The Hierarchy in the Material Creation
 
@@ -1502,7 +1502,7 @@ SB 5.22.7 Translation: The sun-god has three speeds — slow, fast and moderate.
 
 The time he takes to travel entirely around the spheres of heaven, earth and space at these three speeds is referred to, by learned scholars, by the five names Saṁvatsara, Parivatsara, Iḍāvatsara, Anuvatsara and Vatsara.
 
-![рис-033.png|305](<Cosmic theogony/рис-033.png>)
+![рис-033.png|305](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-033--f6ef6f885a57a0e5.png>)
 
 Figure-20 The Five Speeds of the Sun
 
@@ -1522,7 +1522,7 @@ In Vedic cosmology, there are several levels of planetary systems, each constitu
 
 The notion of an ‘ether’ as the medium for the propagation of material objects existed in science prior to the dawn of relativity. If such an ether existed, then all speeds would be measured relative to this ether. Consider the experiment shown in Figure-21 where a beam of light leaves a bulb and is being observed by two observers—one inside the train and the other outside it. According to the observer outside the train, the observer inside the train is moving toward the light (because both light and the observer are moving relative to the ether) and hence he must receive the light sooner than if he was not moving. When actual measurements were performed, it was found that the motion of the train has no effect on the time taken to receive the light. This came to be known as the ‘equivalence of frames’ because whether you are moving or not, the time taken for light to reach you remains unchanged.
 
-![рис-034.png|335](<Cosmic theogony/рис-034.png>)
+![рис-034.png|335](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-034--a59172442a8a483a.png>)
 
 Figure-21 The Relativity of Simultaneity
 
@@ -1604,7 +1604,7 @@ The zodiac is divided in two ways, and the divisions are associated with the sun
 
 There is some confusion in the Vedic texts regarding the number of Nakṣatra. First, Vedic texts such as the Surya Siddhānta describe 28 Nakṣatra instead of 27. Second, these texts attribute longer and shorter degrees to these Nakṣatra, different from the equal degrees attributed to them when the system of 27 Nakṣatra is employed. This difficulty can be resolved if the 28th Nakṣatra (called Abhijit) is treated as the whole zodiac with 27 parts. This interpretation is supported by several Vedic texts. For example, in SB 11.16.27 Kṛṣṇa states that He is the Abhijit Nakṣatra. Also, in the Mahabharata it is stated that Kṛṣṇa is born in the Abhijit Nakṣatra, asserting its importance.
 
-![рис-035.png|480](<Cosmic theogony/рис-035.png>)
+![рис-035.png|480](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-035--82452f629f5a86f2.png>)
 
 Table-12: The Combination of Sun and Moon Signs
 
@@ -1838,7 +1838,7 @@ When a Manu creates the human civilization, he imparts the rules for their livin
 
 The Manu Samhita notes that this iteration of human civilization was created in a place called Brahmavarta in between two rivers—Sarasvati and Drishadvati— which is identified with the ancient Indus Valley and Harappa civilization. Manu Smṛti describes a section of India, lying between the Himalayan and the Vindhya mountains to be secondary to Brahmavarta and the land of the Aryan peoples. The other places are designated as mleccha. This term has come to have derogatory meanings over time, but it wasn’t meant as a derogatory word at that time; it meant all those who don’t follow the social system called Varṇāśrama prescribed by Manu as part of the Manu Samhita.
 
-![рис-036.png|463](<Cosmic theogony/рис-036.png>)
+![рис-036.png|463](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-036--7a2fad449d2e2155.png>)
 
 Figure-22 Indus-Sarasvati Civilization
 
@@ -1950,7 +1950,7 @@ We must understand that if a religion produces such caricatures of dharma it is 
 
 Historians study the evolution of human culture across the world, and they could help in tracing the origins of the culture if they investigated the numerous commonalities between these cultures. But instead, they have focused on the human differences, seeing the commonalities with apes and primates. The history of the spread of human culture and civilization is at present mired in the evolutionism in which man originated in Africa, migrated to the Middle East, and from there emigrated to Europe and Asia, eventually reaching China, Russia, and Australia, and from there to the North and South Americas.
 
-![рис-037.png|342](<Cosmic theogony/рис-037.png>)
+![рис-037.png|342](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-037--74bb4a0a46cbc290.png>)
 
 Figure-23 Evolutionary Migration of Humans
 
@@ -2212,7 +2212,7 @@ There is considerable similarity between the three Semitic goddesses and the des
 
 Mannat derives Her name from Arabic maniya, which means destruction, doom, and death. She has a dark complexion and was worshipped through a black stone at Quidaid, near Mecca. The Vedic deity identical in all these respects is Kāli. She is the consort of Shiva and brings death. She drinks intoxicants from a chalice and has a dark complexion. The gown of Mannat spells Her name in Sabaic (which does not use vowels and is written right to left), M-n-t., and in the Tantra texts Kali wears a garland of 50 skulls each signifying a letter of the Sanskrit language. Mannat is shown on the right in Figure-24. Both Kāli and Mannat are signifiers of time, which causes death and destruction.
 
-![рис-038.png|293](<Cosmic theogony/рис-038.png>)
+![рис-038.png|293](<../attachments/cosmic-theogony--%D1%80%D0%B8%D1%81-038--1f032499ea0c94fd.png>)
 
 Figure-24 The Goddesses Al-Uzza, Allat, and Mannat
 

@@ -11,7 +11,7 @@ word_count: 1330
 
 This article contains complete operating instructions for the UAFX Teletronix Model LA-2A Studio Compressor pedal from Universal Audio.
 
-![la-2a-photo.png](UAFX%20Teletronix%20Model%20LA-2A%20Studio%20Compressor%20Manual_assets/33195c0f2afaf1888ea6df9f1ce31bee45b79c6e.png)
+![la-2a-photo.png](../../attachments/uafx-teletronix-model-la-2a-studio-compressor-manual_assets--33195c0f2afaf1888ea6df9f1ce31bee45b79c6e--a78c61654b768ad8.png)
 
 ## In this article
 
@@ -76,7 +76,7 @@ LA-2A is a mono in/mono out compressor pedal featuring switchable comp and limit
 
  
 
-![la-2a-qs.png](UAFX%20Teletronix%20Model%20LA-2A%20Studio%20Compressor%20Manual_assets/eeda0e01fe13fcf4c032ef0863f86a9e90952c0f.png)
+![la-2a-qs.png](../../attachments/uafx-teletronix-model-la-2a-studio-compressor-manual_assets--eeda0e01fe13fcf4c032ef0863f86a9e90952c0f--0b1ea1964b00373d.png)
 
 [**Download LA-2A Quick Start Sheet**](360058186352-UAFX-Pedal-Downloads.html)
 
@@ -105,7 +105,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 
 To learn how to connect your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
-![la-2a-back-panel.png](UAFX%20Teletronix%20Model%20LA-2A%20Studio%20Compressor%20Manual_assets/21a3d29e3dabeea57f1e1220fc225b3d0d995e8e.png)
+![la-2a-back-panel.png](../../attachments/uafx-teletronix-model-la-2a-studio-compressor-manual_assets--21a3d29e3dabeea57f1e1220fc225b3d0d995e8e--a3c346afa3931489.png)
 
  
 
@@ -178,7 +178,7 @@ You can set the compressor for Stock or Fast Release with the slider switch on t
 - **Stock** release allows compressed levels to recover slowly, and has the characteristic squishiness of a classic opto compression circuit. 
 - **Fast** release allows compressed levels to recover more quickly, and can sound more transparent or less effected.
 
-![la-2a-back-photo.png](UAFX%20Teletronix%20Model%20LA-2A%20Studio%20Compressor%20Manual_assets/da0671e8b0d1269b0181bac5c3bdbef6ed7afb66.png)
+![la-2a-back-photo.png](../../attachments/uafx-teletronix-model-la-2a-studio-compressor-manual_assets--da0671e8b0d1269b0181bac5c3bdbef6ed7afb66--133d5179fd260965.png)
 
  
 
@@ -256,11 +256,11 @@ You can set the compressor for Stock or Fast Release with the slider switch on t
 
 # UAFX LA-2A Safety
 
-![safety-symbol-exclaim.png](UAFX%20Teletronix%20Model%20LA-2A%20Studio%20Compressor%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![safety-symbol-exclaim.png](../../attachments/uafx-teletronix-model-la-2a-studio-compressor-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--13f1ad109a2aaa47.png)
 
 **Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 250 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20Teletronix%20Model%20LA-2A%20Studio%20Compressor%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![safety-symbol-book-info.png](../../attachments/uafx-teletronix-model-la-2a-studio-compressor-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--9612c7a11e18c9d2.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -284,7 +284,7 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 (This is Class B equipment. Although this equipment is intended for use in residential environments, it could cause poor reception if used near a radio television receiver. Please follow all instructions in the instruction manual.)
 
-![safety-symbol-trash.png](UAFX%20Teletronix%20Model%20LA-2A%20Studio%20Compressor%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-teletronix-model-la-2a-studio-compressor-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--30e062915e3d83f9.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

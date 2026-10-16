@@ -40,7 +40,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--39c2dcb00f168aa5.png)
 </figure>
 
 Bill Putnam Jr.
@@ -53,7 +53,7 @@ Bill Putnam Jr.
 
 # Dream '65 Quick Start
 
-![dream-qs-bw.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/bbea8efe082a447b6d09a6c6383ed6b7ca539f13.png)
+![dream-qs-bw.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--bbea8efe082a447b6d09a6c6383ed6b7ca539f13--ac8fe61e80057dde.png)
 
 <a href="360058186352-UAFX-Pedal-Downloads.html" target="_self"><strong>Download Dream '65 Quick Start</strong></a>
 
@@ -135,7 +135,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here</span>](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/71a90f387ababfc5588e23519cf25abe839971d2.png)
+![rear-callouts-amp.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--96a236e9548a8e76.png)
 </figure>
 
  
@@ -160,7 +160,7 @@ You can store a preset you've created with your own settings by holding down the
 
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
-![golden-switches-on-led.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/039ea6f067a659c26bac8c58abbbf5de3c79066c.png)
+![golden-switches-on-led.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--2ec7b624623bbadf.png)
 
 ### Preset Mode
 
@@ -168,7 +168,7 @@ To enter Preset mode, press the right footswitch. Press the right footswitch aga
 
 **Note:** The left and right footswitch functions can be changed in the UAFX Control mobile app.
 
-![golden-switches-preset-led.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/381e83806fbca2e28a4cc8d1d3a4d7b015b0194c.png)
+![golden-switches-preset-led.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--b3dedd0a746ec2d8.png)
 
 ## Stored Preset
 
@@ -394,7 +394,7 @@ For details about footswitch modes and how to enable them, see the <a href="3600
 
 Each speaker, cabinet, and mic setting has a unique sound. Toggle up or down through the list with the Speaker switch. When you register your pedal with UAFX Control software, you get three free bonus speaker cabinets (green LEDs).
 
-![bonus-cabs-dream.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/944b90fd080d522776040085ff9f091c354956de.png)
+![bonus-cabs-dream.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--944b90fd080d522776040085ff9f091c354956de--4dade7d125e1d1f4.png)
 
 **Note:** The speaker cabinet labels on the pedal apply only when the speaker LED is red. When the speaker LED is green, the active speaker name is visible in the UAFX Control mobile app.
 
@@ -539,7 +539,7 @@ Tap Settings at the bottom right of the screen to access the settings for a peda
 
 After registration, the Boutique D65, S-Verb, and JBF120 speaker cabinets are added to the pedal. To select these speaker cabinets, push the Effect Type switch until the top, middle, or bottom LED is lit green.
 
-![bonus-cabs-dream.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/944b90fd080d522776040085ff9f091c354956de.png)
+![bonus-cabs-dream.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--944b90fd080d522776040085ff9f091c354956de--4dade7d125e1d1f4.png)
 
 ## Dream '65 footswitch modes
 
@@ -554,14 +554,14 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![dream-fs-modes.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/eed79b4336386037fc2300e9250ac6270f803c4f.png)
+![dream-fs-modes.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--eed79b4336386037fc2300e9250ac6270f803c4f--417f3612fac09343.png)
 </figure>
 
 The following Dream '65 footswitch modes can be selected with the UAFX Control app.
 
 ### Live \| Preset
 
-![dream-fs-live-preset.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/1b417dd4ab75914936cc92e37d5bf326b058bd89.png)
+![dream-fs-live-preset.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--1b417dd4ab75914936cc92e37d5bf326b058bd89--6a897d9193031a6d.png)
 
 In Live \| Preset mode, you can access Live mode (knobs and switches) and the stored preset.
 
@@ -572,7 +572,7 @@ In Live \| Preset mode, you can access Live mode (knobs and switches) and the st
 
 ### Boost \| Live/Preset
 
-![dream-fs-boost-live-preset.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/74ee15a7fe566caf0575b52d6d6546fd716de1ff.png)
+![dream-fs-boost-live-preset.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--74ee15a7fe566caf0575b52d6d6546fd716de1ff--5b750c22d578cd17.png)
 
 In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
@@ -583,7 +583,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 
 ### Vibrato \| Live/Preset
 
-![dream-fs-vibrato-live-preset.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/cc88d4379dd4f575506aea35d30e367baa1a029b.png)
+![dream-fs-vibrato-live-preset.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--cc88d4379dd4f575506aea35d30e367baa1a029b--c708f81c9654c0ba.png)
 
 - **Left Footswitch** toggles Vibrato on/off
 - **Right Footswitc**h toggles between Live mode (red LED) and the stored preset (green LED)
@@ -593,7 +593,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 
 ### Boost \| Vibrato
 
-![dream-fs-boost-vibrato.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/995f2ab6b346173b0ea99291c983a188e5dd4b6a.png)
+![dream-fs-boost-vibrato.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--995f2ab6b346173b0ea99291c983a188e5dd4b6a--cda0f1c6b5a6f59a.png)
 
 - **Left Footswitch** toggles Boost on/off
 - **Right Footswitc**h toggles Vibrato on/off
@@ -603,7 +603,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 
 ### Reverb \| Live/Preset
 
-![dream-fs-reverb-live-preset.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/809cbb4f2817d5d432e65925cded2a111bd9d2d2.png)
+![dream-fs-reverb-live-preset.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--809cbb4f2817d5d432e65925cded2a111bd9d2d2--6faff6ff1d260427.png)
 
 - **Left Footswitch** toggles Reverb on/off
 - **Right Footswitc**h toggles between Live mode (red LED) and the stored preset (green LED)
@@ -611,7 +611,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 
 ### Reverb \| Vibrato
 
-![dream-fs-reverb-vibrato.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/d1c40a43245c2b6f28584690e6db554c4e538db8.png)
+![dream-fs-reverb-vibrato.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--d1c40a43245c2b6f28584690e6db554c4e538db8--1bfa5650d801e3c8.png)
 
 - **Left Footswitch** toggles Reverb on/off
 - **Right Footswitc**h toggles Vibrato on/off
@@ -621,7 +621,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 
 ### Reverb \| Boost
 
-![dream-fs-reverb-boost.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/b759a90bc126c6828ed829d51a0608616c8790c4.png)
+![dream-fs-reverb-boost.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--b759a90bc126c6828ed829d51a0608616c8790c4--a7fd2757eb037616.png)
 
 - **Left Footswitch** toggles Reverb on/off
 - **Right Footswitc**h toggles Boost on/off
@@ -633,7 +633,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![dream-fs-live-ab.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/b8d2723223607f2fa0e83c56e9fcd3e848897f01.png)
+![dream-fs-live-ab.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--b8d2723223607f2fa0e83c56e9fcd3e848897f01--f125170ad5288793.png)
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -645,7 +645,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![dream-ab.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/945d8bf70d258071d6175ea90bb0fbafaaa5700b.png)
+![dream-ab.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--945d8bf70d258071d6175ea90bb0fbafaaa5700b--2132eeef7cb7d6ba.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -657,7 +657,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![dream-fs-abcd.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/aa37dddbc96deeb795125d9da04bd5a66fd66c79.png)
+![dream-fs-abcd.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--aa37dddbc96deeb795125d9da04bd5a66fd66c79--a8103648412840b5.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)
@@ -927,9 +927,9 @@ Sending the program change and bypass state first allows the pedal to load the i
 
 # Dream '65 Safety
 
-![safety-symbol-exclaim.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)Caution: To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
+![safety-symbol-exclaim.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--b9bb1fe8375c3ae5.png)Caution: To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
 
-![safety-symbol-book-info.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
+![safety-symbol-book-info.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--67b62bcd9ab71aa9.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
 - Read the instructions.
 - Keep these instructions.
@@ -971,7 +971,7 @@ License exempt. This device complies with Industry Canada license-exempt RSS sta
 
 Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux appareils radio exempts de licence. L'exploitation est autorisée aux deux conditions suivantes : (1) l'appareil ne doit pas produire de brouillage, et (2) l'utilisateur de l'appareil doit accepter tout brouillage radioélectrique subi, même si le brouillage est susceptible d'en compromettre le fonctionnement.
 
-![safety-symbol-trash.png](UAFX%20Dream%20%2765%20Reverb%20Amplifier%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
+![safety-symbol-trash.png](../../attachments/uafx-dream-65-reverb-amplifier-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--34897707403f4772.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 
 - IEC 62368-1
 - FCC ID: 2AXKQ2029

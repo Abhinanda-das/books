@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/servant-of-the-servant"
 ---
 
-![обложка|156](<Servant of the Servant/обложка.jpeg>)
+![обложка|156](<../attachments/servant-of-the-servant--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--4303fb129d6592d4.jpeg>)
 
 Servant of the Servant is an intimate account of the early days of the International Society For Krishna Consciousness (ISKCON), from 1968-1975. It contains many of the letters written by His Divine Grace A. C. Bhaktivedanta Swami Prabhupada, ISKCON’s founder-acarya, to His Holiness Tamal Krishna Goswami, as Srila Prabhupada guides his disciple to become a leader in the pioneering days of the Hare Krishna movement.
 

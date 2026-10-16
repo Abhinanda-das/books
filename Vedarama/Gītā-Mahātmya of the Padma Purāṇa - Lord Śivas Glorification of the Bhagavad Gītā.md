@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gm"
 ---
 
-![обложка|156](<Gītā-Mahātmya of the Padma Purāṇa - Lord Śivas Glorification of the Bhagavad Gītā/обложка.jpeg>)
+![обложка|156](<../attachments/g%C4%ABt%C4%81-mah%C4%81tmya-of-the-padma-pur%C4%81%E1%B9%87a---lord-%C5%9Bivas-glorificati--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--333ee28103cf7a3b.jpeg>)
 
 Glorification of the Bhagavad Gītā from the Purāṇas.
 

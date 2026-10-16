@@ -13,25 +13,25 @@ Potent emulation of 60’s and 70’s Rock-Era guitar amplifier designed by Davi
 Owner’s Manual 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0001-03.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0001-03--d2790ff97042b1fb.png>)
 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0001-04.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0001-04--296758bb70cc4dac.png>)
 
 
 Developed by Brainworx in partnership with Friedman Amplification and Distributed by Universal Audio. 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0001-06.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0001-06--3cac8cee16b322b3.png>)
 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0001-07.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0001-07--da9a3eab3c57d32f.png>)
 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0001-08.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0001-08--a61a2b93e8ac8e46.png>)
 
 
 The Friedman DS40 (Dirty Shirley) amp plug-in can be installed and operated like any other UAD-2 plug-in. Please check www.uaudio.com for general info about the system requirements, etc. 
@@ -41,7 +41,7 @@ The Friedman DS40 (Dirty Shirley) amp plug-in can be installed and operated like
 Meticulously modeled guitar amp, speaker simulation and FX rack. 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0002-02.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0002-02--8ab50bc62bf3cf63.png>)
 
 
 Dirty Shirley DS40 
@@ -85,7 +85,7 @@ The advantage of only monitoring the processed sound is that you can alter the s
 The advantage of recording pre-processed guitar tracks is that you will have more DSP available for additional plug-ins during mixdown. While you can still add effects like EQ and compression to the recorded guitar tracks, you will have committed to an amp cabinet sound. Once you know ‘your sound’ you may even save some time by recording processed guitar tracks and using them without further tweaking or fiddling around... your band mates or your producer may even appreciate this. 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0004-00.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0004-00--4e928465deed5bd9.png>)
 
 
 ## The Controls of the Dirty Shirley Front Panel 
@@ -117,7 +117,7 @@ Input L is a lower sensitivity input that is best suited for cleaner tones and e
 Input H is a higher sensitivity input that is best suited for higher amounts of gain (distortion). 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0005-00.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0005-00--b6758aa2ed46b176.png>)
 
 
 ## The Controls of the Dirty Shirley Back Panel 
@@ -165,7 +165,7 @@ OFF: when set to OFF the SMOOTH filter is in bypass mode
 The Controls of the Dirty Shirley Back Panel 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0006-01.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0006-01--ed44c0439aa43c56.png>)
 
 
 ## 3. RECORDING CHAINS (Speaker Selection) 
@@ -199,7 +199,7 @@ As soon as you hear the speaker setup you like best just stop AUTO mode by click
 And if for any reason you should not like any of the Recording Chains the plug-in offers you may use the very last setting (labeled EMPTY – PLAY VIA REAL CAB) and use your own miked cabinet. This setting will give you the sound of a tube guitar amp wired straight into a Console, which also may be a nice effects sound. 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0007-00.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0007-00--ec4f3a3203a4fb0e.png>)
 
 
 ## The Controls of the Dirty Shirley Back Panel 
@@ -247,7 +247,7 @@ The FEEDBACK controls the number of repeats. While a setting of 99% will result 
 With the LO-FI knob you control the amount of internal distortion, the resampling quality, etc. The higher you go the worse the quality gets from a pure technical stand point... but the more interesting it may sound for many guitar sounds and styles. 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0008-00.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0008-00--233ef6c8e1bd1984.png>)
 
 
 ## The Controls of the Dirty Shirley Back Panel 
@@ -283,7 +283,7 @@ A clipping tube power amp adds distortion and harmonics to the guitar amp signal
 We have modeled the behavior of the Friedman tube power amp, so you may experiment with different settings of the Master of the amp and the internal POWER SOAK. We recommend a setting of roughly -10dB for most scenarios. 
 
 
-![](<Friedman DS40 Manual_assets/Friedman_DS40_Manual.pdf-0009-00.png>)
+![](<../../attachments/friedman-ds40-manual_assets--friedman_ds40_manual.pdf-0009-00--1b2cbf4fd717c05c.png>)
 
 
 ## The Controls of the Dirty Shirley Back Panel 

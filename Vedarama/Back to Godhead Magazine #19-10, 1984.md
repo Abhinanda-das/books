@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg19-10"
 ---
 
-![обложка|156](<Back to Godhead Magazine #19-10, 1984/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-19-10-1984--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5e98863378dc81c3.jpeg>)
 
 # Back to Godhead Magazine #19-10, 1984
 

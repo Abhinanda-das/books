@@ -94,7 +94,7 @@ In your DAW, which is the record path, the Input Delay Compensation amount is al
 
 ### Input Delay Compensation Exceeded Dialog
 
-# ![](Managing%20Latency%20in%20UAD%20Console%20for%20Apollo%20%26%20the%20DAW_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+# ![](../../attachments/managing-latency-in-uad-console-for-apollo-the-daw_assets--1576671445c71e282018967963ec7f67c9a4be5c--2b72bff5557e1be8.png)
 
 The “Input Delay Compensation Exceeded” dialog appears in UAD Console when the maximum compensation amount for a given setting is exceeded on a channel. If this occurs, to maintain phase alignment, you can either increase the Input Delay Compensation value or reduce the number of latency-introducing plug-ins on the channel. 
 

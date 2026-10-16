@@ -6,15 +6,15 @@ tool_version: 1.10.2
 word_count: 8170
 ---
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_0_picture_0--85265da89d3007da.jpeg>)
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_0_picture_1--37692b5785598cd1.jpeg>)
 
 # **Apollo 16 MkII Hardware Manual**
 
 Manual Version 171101
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_0_Picture_4.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_0_picture_4--fbb7acf24ac44b3e.jpeg>)
 
 # <span id="page-1-0"></span>**A Letter from Bill Putnam Jr.**
 
@@ -223,7 +223,7 @@ For additional resources, or if you need to contact Universal Audio for assistan
 
 This section describes the features and functionality of all controls and visual elements on the Apollo 16 front panel. Note that most front panel functions can be controlled remotely with the Console software application.
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_9_Picture_2.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_9_picture_2--ad16bc4f27f7677b.jpeg>)
 
 *Apollo 16 front panel elements*
 
@@ -364,7 +364,7 @@ This switch applies power to Apollo 16. When the unit is powered on, the Univers
 
 ## <span id="page-14-0"></span>Rear Panel
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_14_Picture_1.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_14_picture_1--045ea4f418c3a91d.jpeg>)
 
 Apollo 16 rear panel – analog I/O
 
@@ -396,7 +396,7 @@ The 16 analog inputs are accessed via dual female DB25 connectors. Each DB25 jac
 
 The Line Inputs can be configured to use -10 dBV or +4 dBu reference levels. This function is configured within the input channel strips in the Console application.
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_15_Figure_4.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_15_figure_4--4c6f34c57a389866.jpeg>)
 
 Apollo 16 rear panel – digital I/O
 
@@ -496,7 +496,7 @@ This diagram illustrates a basic Apollo 16 system. In this example, only analog 
 - DB25 audio snakes are used for connections to line-level audio gear
 - Although this example uses XLR connectors, DB25 snakes that terminate to XLR, TRS, or other DB25 connectors can be used
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_19_Picture_7.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_19_picture_7--e6342fe4415667cf.jpeg>)
 
 Typical Apollo 16 connections
 
@@ -506,7 +506,7 @@ The diagram below illustrates how to interconnect multiple Apollo units and the 
 
 **Important:** For complete details about system operation when multi-unit cascading, see the Apollo Software Manual.
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_20_Picture_3.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_20_picture_3--aae920a6f9b7b2c8.jpeg>)
 
 #### **Cables Required**
 
@@ -656,7 +656,7 @@ All specifications are typical performance unless otherwise noted, tested under 
 
 # <span id="page-25-0"></span>**Hardware Block Diagram**
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_25_Figure_1.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_25_figure_1--95fee011ef54c184.jpeg>)
 
 # <span id="page-26-1"></span><span id="page-26-0"></span>**DB25 Wiring**
 
@@ -666,7 +666,7 @@ Apollo 16's analog I/O is accessed via 25-pin D-sub female connectors. Each DB25
 
 The pin numbers for female DB25 connectors are shown in the diagram below. When facing the Apollo 16 rear panel, pin 1 is the upper rightmost pin.
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_26_Figure_4.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_26_figure_4--2fe35a1e0aaf932d.jpeg>)
 
 *Apollo 16 female DB25 pin numbers*
 
@@ -810,4 +810,4 @@ Universal Audio provides free technical support to registered product owners. Su
 
 • [help.uaudio.com](http://help.uaudio.com)
 
-![](<Apollo 16 mkII Hardware Manual_assets/_page_32_Picture_0.jpeg>)
+![](<../../attachments/apollo-16-mkii-hardware-manual_assets--page_32_picture_0--ae62c15d8325cc1c.jpeg>)

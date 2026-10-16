@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1966"
 ---
 
-![обложка|156](<1966 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1966-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c6eec6f38e88dfe2.jpeg>)
 
 # 1966 Correspondence
 

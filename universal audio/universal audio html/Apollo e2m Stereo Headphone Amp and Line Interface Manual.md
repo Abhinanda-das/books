@@ -9,7 +9,7 @@ word_count: 5075
 # Apollo e2m Stereo Headphone Amp and Line Interface Manual
 
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/51d5ac0e7e0d4fef1134e257c26fe25230092491.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--51d5ac0e7e0d4fef1134e257c26fe25230092491--336bd65029bfa8a1.png)
 
 ## Expand your Dante networked audio rig with I/O and monitor control
 
@@ -95,11 +95,11 @@ Apollo e2m can be used for stereo analog audio input into and output from Dante 
 
 Connect the analog input jacks to balanced line devices using ¼" (6.35 mm) TRS plugs. The maximum input level is +18 dBu. When connected to unbalanced equipment, or via TS plugs, the input level is reduced by 6 dB.
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/cf70550c214fffbe48dfc69ce5b4fefa29a152ab.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--cf70550c214fffbe48dfc69ce5b4fefa29a152ab--aaaae7088e002bec.png)
 
 You can mute line inputs with the Line Mute switch on the top of the device. 
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/5da99314d9fe0d2c5aacadce0c036378beacaa3a.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--5da99314d9fe0d2c5aacadce0c036378beacaa3a--923913d7c5673c70.png)
 
 ## Analog outputs
 
@@ -109,7 +109,7 @@ The level knob simultaneously adjusts the output level to the line outputs and t
 
 Connect the line output jacks to balanced devices using ¼" (6.35 mm) TRS plugs. When connected to unbalanced equipment, or via TS plugs, the output is reduced by 6 dB. The maximum output level from the line outputs is +14 dBu.
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/81474875d27a0fee90edd6d5ab9b4309733492fb.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--81474875d27a0fee90edd6d5ab9b4309733492fb--d51eab9ef7ce300d.png)
 
 ### Headphone outputs
 
@@ -117,7 +117,7 @@ The front panel provides two stereo headphone outputs with both ¼" (6.35 mm) an
 
 Headphone output signals mirror the stereo line outputs on the rear panel (these signals can be routed from UAD Console or Dante Controller). 
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/3fc1191cf15159f8ee9e7e726b9a7b8df1ffaf65.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--3fc1191cf15159f8ee9e7e726b9a7b8df1ffaf65--5f729c249345a7f6.png)
 
 You can mute headphone outputs with the Headphone Mute switch on the top of the device. 
 
@@ -213,7 +213,7 @@ You can also reboot the device or clear the device configuration. For more infor
 
 **Tip:** We recommend that the **Use shared Dante interface** option is selected in the Configure Dante Interfaces dialog. You can open this dialog by choosing File \> Interfaces from the Dante Controller application menus. This helps to ensure that all applications are connected to the same Dante network.
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/b8dec93e14c1ef3431bc7aed26532eaf566ccd04.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--b8dec93e14c1ef3431bc7aed26532eaf566ccd04--56f79623e1166b39.png)
 
 ### Routing audio in Dante Controller
 
@@ -235,7 +235,7 @@ A green checkmark appears when a channel is routed.
 2.  Expand all rows and columns by clicking the plus ( + ) symbols next to the Transmitters and Receivers labels. 
 3.  Within the Apollo e2m HP / Line 1 and HP / Line 2 output rows and the Apollo x16D Transmitters columns, click the Dante channels that you want to route to Apollo e2m outputs. 
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/e88e95064b96ee968f6be2048534fd485b807d53.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--e88e95064b96ee968f6be2048534fd485b807d53--fb131ecb8fa28936.png)
 
 ## Routing audio with UAD Console and Apollo x16D
 
@@ -257,7 +257,7 @@ Both of these output options require that you first assign Apollo x16D Dante Tra
 1.  In UAD Console, Click the Dante Source input on an Apollo x16D channel. The Input Source browser opens. 
 2.  In the browser, click the Apollo e2m input channel to assign. The Apollo e2m channel is routed to the Dante channel.
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/3f3f358bcd9316d1b5b3e04f8ce6a5bf71c8dbec.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--3f3f358bcd9316d1b5b3e04f8ce6a5bf71c8dbec--1d56f932559f5030.png)
 
 **Note:** Dante input routing in UAD Console is bidirectional with Dante Controller. Any inputs you assign in UAD Console appear in Dante Controller as well, and vice versa. 
 
@@ -284,7 +284,7 @@ Apollo x16D does not have dedicated Cue outputs (typically headphone outputs) in
 
 1.  In UAD Console, open the Cue Outputs window by clicking on the name of any Cue in the Cues area, or clicking Cue Outputs in the Monitor Column. 
 2.  To route Cues to Dante channels, select a Dante pair from the Mirror To menu under each Cue.\
-    ![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/753c1af6e775188a91d34fdbefbfad77ec8f252a.png)\
+    ![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--753c1af6e775188a91d34fdbefbfad77ec8f252a--30371a69066516ca.png)\
      
 3.  The Mix (MIX switch highlighted) or Cue (MIX switch dim) can be assigned independently to each Cue. Cue outputs can also be heard in mono, by clicking the MONO switch. 
 
@@ -296,7 +296,7 @@ Note that the same Cue pair can be routed to multiple Apollo e2m devices. 
 
 See [Cues](25351037512340-Cues.html) for Cue mixing information. 
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/b557fd20f8d249152abca2583d87dea152049bad.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--b557fd20f8d249152abca2583d87dea152049bad--ecfdd643ac77f1e4.png)
 
 *Cues in Sends Overview popover for a stereo Dante channel pair*
 
@@ -314,7 +314,7 @@ You can set the global Dante Latency Control setting in UAD Console. The lowest 
 
 You can adjust the Dante Latency Control in UAD Console's Settings, on the Hardware tab.
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/1ba9be7f663ca9ae78026169f96a3ace46ae9120.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--1ba9be7f663ca9ae78026169f96a3ace46ae9120--b1da22833b276036.png)
 
 ## Adjusting sample rates
 
@@ -328,7 +328,7 @@ When an Apollo E Series device is routed to or receiving from an Apollo x16D, th
 
 Network settings for Dante network Apollo devices are included on the Network panel. This information is informational, except for the Reset switch (for Apollo x16D only). You can adjust network settings for Dante devices in Dante Controller. For more information, see [Network Panel](https://help.uaudio.com/hc/en-us/articles/28355272973460-Network-Panel). 
 
-![dante-network-settings.png](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/9b5830545737e430d95bb096477f1f056142c9cb.png)
+![dante-network-settings.png](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--9b5830545737e430d95bb096477f1f056142c9cb--0b1ece000d2e8cb7.png)
 
 ------------------------------------------------------------------------
 
@@ -340,13 +340,13 @@ Apollo e2m's small form-factor, flexible monitoring, and line inputs make it an 
 
 In a live deployment, you can use Apollo e2m devices to place stereo inputs and headphone monitoring outputs within easy reach of every performer. Combined with Apollo e1x devices, a full array of microphone and monitoring capabilities are available. 
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/106b588208e7322b67cffd1f009b4c0bf2c573cb.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--106b588208e7322b67cffd1f009b4c0bf2c573cb--35905c1c47ed83c7.png)
 
 ## Studio deployment
 
 In a studio deployment, you can use Apollo e2m devices with an Apollo x16D for individualized performance monitoring with level control, and dual line inputs, within easy reach of your performers. 
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/a9854157025a61ba63956483fee1faf6fbcffe4e.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--a9854157025a61ba63956483fee1faf6fbcffe4e--7ab8fb42e87fd763.png)
 
 ------------------------------------------------------------------------
 
@@ -486,7 +486,7 @@ All specifications are typical performance unless otherwise noted. Tested with t
 
 ## Important Safety Instructions
 
-![safety-triangle.png](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/3ef29c4cdcad027959b686b1643524a5e17b73e6.png)
+![safety-triangle.png](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--3ef29c4cdcad027959b686b1643524a5e17b73e6--275804197b23c3f5.png)
 
 1.  Read these safety instructions and the instruction manual of the product.Keep these safety instructions and the instruction manual of the product. Always include all instructions when providing the product to other parties.
 2.  Heed all warnings.
@@ -516,7 +516,7 @@ The product is covered by a limited warranty. For the current terms of such warr
 
 ### Maintenance
 
-![safety-triangle-bolt.png](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/69f69a3c91ffc3b8abc208fb136fd38741608b3a.png)
+![safety-triangle-bolt.png](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--69f69a3c91ffc3b8abc208fb136fd38741608b3a--1dd7637bf99daebc.png)
 
 - **CAUTION:** To reduce the risk of electric shock, do not open the unit.
 - This product does not contain a fuse or any other user-replaceable parts. The unit is internally calibrated at the factory. No internal user adjustments are available.
@@ -533,7 +533,7 @@ In compliance with the following requirements:
 
 #### *WEE-DIRECTIVE (2012/19/EU)*
 
-![safety-trash.png](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/d7537563a76945b4fec7ebfdf69cc8c7c1bc2553.png)
+![safety-trash.png](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--d7537563a76945b4fec7ebfdf69cc8c7c1bc2553--7f67a7123aeedc53.png)
 
 The symbol of the crossed-out wheeled bin on the product, the battery/rechargeable battery (if applicable), and/or the packaging indicates that these products must not be disposed of with normal household waste, but must be disposed of separately at the end of their operational lifetime. For packaging disposal, please observe the legal regulations on waste segregation applicable in your country.
 
@@ -541,7 +541,7 @@ Further information on the recycling of these products can be obtained from your
 
 ## EU Declaration of Conformity
 
-![safety-ce.png](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/adf01a49d95178b45eb1a44d449515815f95608c.png)
+![safety-ce.png](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--adf01a49d95178b45eb1a44d449515815f95608c--d0b91c0c8de663e9.png)
 
 - RoHS-Directive (2015/863/EU)
 - Low Voltage Directive (2014/35/EU)
@@ -590,7 +590,7 @@ This product complied with the following requirements:
 
 ### Product Label
 
-![](Apollo%20e2m%20Stereo%20Headphone%20Amp%20and%20Line%20Interface%20Manual_assets/836fb104ab3ca107619f66277edf496670b267ad.png)
+![](../../attachments/apollo-e2m-stereo-headphone-amp-and-line-interface-manual_assets--836fb104ab3ca107619f66277edf496670b267ad--f687b1a475fe133a.png)
 
 ## End User License Agreement
 

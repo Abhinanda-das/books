@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vct-sdt7"
 ---
 
-![обложка|156](<Sārārtha-Darśini-ṭīkā 7 Canto/обложка.jpeg>)
+![обложка|156](<../attachments/s%C4%81r%C4%81rtha-dar%C5%9Bini-%E1%B9%AD%C4%ABk%C4%81-7-canto--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3bc96479eebdb5ed.jpeg>)
 
 # Sārārtha-Darśini-ṭīkā 7 Canto
 

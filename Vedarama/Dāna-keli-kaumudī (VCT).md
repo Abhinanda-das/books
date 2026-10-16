@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rupa-dkk1"
 ---
 
-![обложка|156](<Dāna-keli-kaumudī (VCT)/обложка.jpeg>)
+![обложка|156](<../attachments/d%C4%81na-keli-kaumud%C4%AB-vct--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--4e26af6ced5badd3.jpeg>)
 
 “In the Caitanya-caritamrta (Antya 4.226) there is a verse that describes the writings of Sril Rupa Gosvami: Srila Rupa Gosvami compiled 100,000 verses, beginning with the book Dana-Keli-Kaumudi. In all these scriptures, he elaborately explained the transcendental mellows of the activities of Vrndavna.
 

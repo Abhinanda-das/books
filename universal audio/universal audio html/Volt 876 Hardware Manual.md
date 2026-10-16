@@ -14,15 +14,15 @@ This article contains complete instructions for Volt 876 hardware controls and c
 Note: To learn how to set up Volt with audio software and how to redeem your bundled software, please see [How to set up your Volt Interface.](4409233546644-How-to-set-up-your-Volt-Interface.html)
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![](Volt%20876%20Hardware%20Manual_assets/9103ff4dde2744f55565a736f5f03c1fb5e26542.png)
+![](../../attachments/volt-876-hardware-manual_assets--9103ff4dde2744f55565a736f5f03c1fb5e26542--32ba8c4d4a151519.png)
 </figure>
 
 <figure class="wysiwyg-image">
-![Volt876_Front_Transparent BG.png](Volt%20876%20Hardware%20Manual_assets/3b6f03957f77fd1c83d70d972fb47b817b487391.png)
+![Volt876_Front_Transparent BG.png](../../attachments/volt-876-hardware-manual_assets--3b6f03957f77fd1c83d70d972fb47b817b487391--276f227a0d3c4236.png)
 </figure>
 
 <figure class="wysiwyg-image">
-![Volt876_Rear_Transparent BG.png](Volt%20876%20Hardware%20Manual_assets/a5f3cc352cfe16fe45445e1663a305e264effdb1.png)
+![Volt876_Rear_Transparent BG.png](../../attachments/volt-876-hardware-manual_assets--a5f3cc352cfe16fe45445e1663a305e264effdb1--2f18e692890bfd47.png)
 </figure>
 
 ## In This Article
@@ -63,7 +63,7 @@ Please feel free to reach out to us via our website [www.uaudio.com](http://www.
 We look forward to hearing from you, and thank you once again for choosing Universal Audio.
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](Volt%20876%20Hardware%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/volt-876-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--52b727d8df8004b5.png)
 </figure>
 
 Bill Putnam, Jr.
@@ -147,7 +147,7 @@ The rubber feet can be used when placing the unit on a desktop or other flat sur
 2.  Attach the feet to the bottom of the Volt 876 unit as indicated in the illustration.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-876-install-feet-4x.png](Volt%20876%20Hardware%20Manual_assets/39d595d81337b2f481dc4af2e953429b8e6cf1e3.png)
+![volt-876-install-feet-4x.png](../../attachments/volt-876-hardware-manual_assets--39d595d81337b2f481dc4af2e953429b8e6cf1e3--83c2385a23b1d98e.png)
 </figure>
 
 #### *Installing the rack mount brackets*
@@ -158,7 +158,7 @@ Rack mount brackets can be used to mount the Volt 876 in a standard 19" rack. Ra
 2.  Attach the screws to the left and right sides of the Volt 876 hardware unit as indicated in the illustration.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-876-install-rack-ears-4x.png](Volt%20876%20Hardware%20Manual_assets/20a07a2800190cabc63c9439bf31811bab33fc37.png)
+![volt-876-install-rack-ears-4x.png](../../attachments/volt-876-hardware-manual_assets--20a07a2800190cabc63c9439bf31811bab33fc37--1b46e959be5cbc3e.png)
 </figure>
 
 ## Audio Connections
@@ -215,7 +215,7 @@ See [ADAT expansion with multiple Volt 876 interfaces](#h_01K77SGBZRVQFYQDGZECZ4
 # Volt 876 Front Panel Descriptions (Left Side)
 
 <figure class="wysiwyg-image">
-![volt-876-front-callouts-left.png](Volt%20876%20Hardware%20Manual_assets/5c36794fd02455cc0f11d9bb29cc3c6e7386f092.png)
+![volt-876-front-callouts-left.png](../../attachments/volt-876-hardware-manual_assets--5c36794fd02455cc0f11d9bb29cc3c6e7386f092--c84ccd36c2b1f2f2.png)
 </figure>
 
 ## (1) Talkback Mic
@@ -398,7 +398,7 @@ JavaScript kann nicht ausgeführt werden.
 # Volt 876 Front Panel Descriptions (Right Side)
 
 <figure class="wysiwyg-image">
-![volt-876-front-callouts-right.png](Volt%20876%20Hardware%20Manual_assets/f10330219946d86bf2694332d27ce2e9e72fe2ef.png)
+![volt-876-front-callouts-right.png](../../attachments/volt-876-hardware-manual_assets--f10330219946d86bf2694332d27ce2e9e72fe2ef--c92742b08a1c0fad.png)
 </figure>
 
 ## (11) Level Meter
@@ -611,7 +611,7 @@ Apply AC power to Volt with this button.
 # Volt 876 Rear Panel Descriptions (Right Side)
 
 <figure class="wysiwyg-image">
-![volt-876-rear-callouts-right.png](Volt%20876%20Hardware%20Manual_assets/2c72e7c74e49d4e1b4de0df7481e9346d2ef7941.png)
+![volt-876-rear-callouts-right.png](../../attachments/volt-876-hardware-manual_assets--2c72e7c74e49d4e1b4de0df7481e9346d2ef7941--19aff3a8731d4a2a.png)
 </figure>
 
 ## (24) XLR/TRS Combo Inputs 3–8
@@ -653,7 +653,7 @@ Line outputs 5-8 are identical to outputs 1-4, except they are not used for main
 # Volt 876 Rear Panel Descriptions (Left Side)
 
 <figure class="wysiwyg-image">
-![volt-876-rear-callouts-left.png](Volt%20876%20Hardware%20Manual_assets/52998ba3d5a0327c7b4082ae80365fa17feeb5b4.png)
+![volt-876-rear-callouts-left.png](../../attachments/volt-876-hardware-manual_assets--52998ba3d5a0327c7b4082ae80365fa17feeb5b4--a900828e2cbbff2d.png)
 </figure>
 
 ## (28) Optical I/O
@@ -955,7 +955,7 @@ For sample rates higher than 48 kHz, the maximum number of expander channels is 
 3.  Connect the USB interface unit and ADAT expander units to the computer via USB. You can use a USB hub to make these connections.
 4.  After making the connections, power on the Volt 876 hardware units.
 
-### Optical & USB Connections for Volt 876 ADAT expansion (44.1 kHz / 48 kHz) **![expanded-system.png](Volt%20876%20Hardware%20Manual_assets/689fc7b115143cff6e4659d43c0b694d80d8466f.png)**
+### Optical & USB Connections for Volt 876 ADAT expansion (44.1 kHz / 48 kHz) **![expanded-system.png](../../attachments/volt-876-hardware-manual_assets--689fc7b115143cff6e4659d43c0b694d80d8466f--5410e73c1bc200fb.png)**
 
 <div>
 
@@ -1008,7 +1008,7 @@ For sample rates higher than 48 kHz, the maximum number of expander channels is 
 ### Optical & USB Connections for Volt 876 ADAT expansion (88.2 kHz – 192 kHz)
 
 <figure class="wysiwyg-image">
-![expanded-system-high-sr.png](Volt%20876%20Hardware%20Manual_assets/60b588bc97df74863c68fc4216f2afcba8232a0d.png)
+![expanded-system-high-sr.png](../../attachments/volt-876-hardware-manual_assets--60b588bc97df74863c68fc4216f2afcba8232a0d--01b66ece62a4690a.png)
 </figure>
 
 ** **
@@ -1060,7 +1060,7 @@ You can expand your Volt 876 system to include one or two other ADAT or S/PDIF d
 - **Clocking:** If your gear is connected only from outputs to the inputs via the TOSLINK connections, the outboard gear must be the digital clock source, so you should set the clock source in UAD Console to ADAT.
 
 <figure class="wysiwyg-image">
-![volt-876-external-adat.png](Volt%20876%20Hardware%20Manual_assets/15068b4ed7b66f357561af18a7306b4a0adda962.png)
+![volt-876-external-adat.png](../../attachments/volt-876-hardware-manual_assets--15068b4ed7b66f357561af18a7306b4a0adda962--89ba8b97f27ef67f.png)
 </figure>
 
 *Example connections for digital outboard gear with Volt 876*
@@ -1940,7 +1940,7 @@ The Volt 876 restarts in the factory default configuration.
 # Notices
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 11%;">
-![safety-triangle.png](Volt%20876%20Hardware%20Manual_assets/3ef29c4cdcad027959b686b1643524a5e17b73e6.png)
+![safety-triangle.png](../../attachments/volt-876-hardware-manual_assets--3ef29c4cdcad027959b686b1643524a5e17b73e6--3abe91c050ab9175.png)
 </figure>
 
 ## Important Safety Instructions
@@ -1973,7 +1973,7 @@ The Volt 876 restarts in the factory default configuration.
 The product is covered by a limited warranty. For the current terms of such warranty, please visit [uaudio.com/eula](http://uaudio.com/eula).
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 10.96%;">
-![safety-triangle-bolt.png](Volt%20876%20Hardware%20Manual_assets/69f69a3c91ffc3b8abc208fb136fd38741608b3a.png)
+![safety-triangle-bolt.png](../../attachments/volt-876-hardware-manual_assets--69f69a3c91ffc3b8abc208fb136fd38741608b3a--3f6c141f80c0fb10.png)
 </figure>
 
 ### Maintenance
@@ -1994,7 +1994,7 @@ In compliance with the following requirements:
 #### *WEE-DIRECTIVE (2012/19/EU)*
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 13.42%;">
-![safety-trash.png](Volt%20876%20Hardware%20Manual_assets/d7537563a76945b4fec7ebfdf69cc8c7c1bc2553.png)
+![safety-trash.png](../../attachments/volt-876-hardware-manual_assets--d7537563a76945b4fec7ebfdf69cc8c7c1bc2553--b8e0ff0ff1b0dca4.png)
 </figure>
 
 The symbol of the crossed-out wheeled bin on the product, the battery/rechargeable battery (if applicable), and/or the packaging indicates that these products must not be disposed of with normal household waste, but must be disposed of separately at the end of their operational lifetime. For packaging disposal, please observe the legal regulations on waste segregation applicable in your country.

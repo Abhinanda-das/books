@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rama1"
 ---
 
-![обложка|156](<Rāmāyaṇa 1/обложка.jpeg>)
+![обложка|156](<../attachments/r%C4%81m%C4%81ya%E1%B9%87a-1--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--2e9f05ccb906d4c6.jpeg>)
 
 # Rāmāyaṇa 1
 

@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/kkg-gjl"
 ---
 
-![обложка|156](<Gaura Janma-Līlā [Beng-Eng]/обложка.jpeg>)
+![обложка|156](<../attachments/gaura-janma-l%C4%ABl%C4%81-beng-eng--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--be072bc0af2715c7.jpeg>)
 
 # Gaura Janma-Līlā \[Beng-Eng\]
 

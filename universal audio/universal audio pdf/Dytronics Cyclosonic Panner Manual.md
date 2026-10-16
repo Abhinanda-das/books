@@ -7,17 +7,17 @@ word_count: 3574
 ---
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0001-00.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0001-00--1eafa8a36aaa4f84.png>)
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0001-01.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0001-01--5021fe286535ffe9.png>)
 
 
 Rev. Jun 29, 2017 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0002-00.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0002-00--004e0da8bae1a928.png>)
 
 
 ## **Softube User Manual** 
@@ -74,7 +74,7 @@ The Dytronics Cyclosonic Panner was originally introduced at the NAMM show of 19
 Pan Mode Trigger Mode Round Mode 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0006-02.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0006-02--f9b4d32bc6934eff.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -82,7 +82,7 @@ Stereo Mode<br>**----- End of picture text -----**<br>
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0006-03.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0006-03--5b7307c6ac688d32.png>)
 
 
 Movement 
@@ -134,7 +134,7 @@ _Single Mono in - Stereo out (channel A left and right)_
 ## **1 TO 2** 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0007-11.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0007-11--2d4d1214f181843f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -166,7 +166,7 @@ Dual Stereo mode utilizes both left and right inputs but using both stereo panne
 ~~Manual Tis button turns on and of~~ panner movement. When Manual is set to “off” position, the pan mode (<>, >, < and reverse) and round mode (I, II, III and reverse) buttons can still be used to set a static position for the output stereo image. 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0008-12.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0008-12--77e66cf3fec5bcd7.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -206,7 +206,7 @@ These Pan mode selectors can also be used to switch static pan locations while S
 **10** | DYTRONICS CYCLOSONIC PANNER 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0010-01.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0010-01--0523d5c475e56a2c.png>)
 
 
 DAW Tempo Rate W. Form Width Depth 
@@ -224,7 +224,7 @@ Stereo output modes, as it adds inverse movement to one channel against the othe
 The Cyclosonic Panner Round-modes II and III uses phaseinversion in order to achieve the 3D panning effect. Be mindful about the phase issues in the audio this could cause—especially be if you’re going to make it prominent in the mix for anything that may go to vinyl. 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0011-00.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0011-00--013162c7a7cd15ea.png>)
 
 
 ## **Movement** 
@@ -246,19 +246,19 @@ Stereo Mode
 ~~Mono VCA Tis button engages Mono~~ VCA mode, which emulates the hardware setup where only channel A (left channel) is used with resulting signal on the left mono output. Also known as the “ _noise-gate_ ” setup. 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0011-10.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0011-10--eb50495e450b7175.png>)
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0011-11.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0011-11--e45df6a33338d7ba.png>)
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0011-12.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0011-12--29bf7299be817148.png>)
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0011-13.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0011-13--09f2736362445732.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -266,11 +266,11 @@ Increase W. Form<br>**----- End of picture text -----**<br>
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0012-00.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0012-00--b894f58ddf9b0b59.png>)
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0012-01.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0012-01--4ceddb8dccb025e4.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -278,11 +278,11 @@ Left  Right  Trigger<br>Input Level Input Level Input Level<br>**----- End of pi
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0012-02.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0012-02--d9957d06cdc152fb.png>)
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0012-03.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0012-03--3dd66e42336932f2.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -326,7 +326,7 @@ SOFTUBE USER’S GUIDE | **13**
 Channel A ~~Pan indicator LEDs Te horizontal bar in the~~ Channel A indicator LED ring displays pan movement (left-right) of input Channel A (left stereo input). 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0013-10.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0013-10--5c48c87c16458d02.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -334,7 +334,7 @@ Back<br>Front<br>L R<br>**----- End of picture text -----**<br>
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0013-11.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0013-11--c8134293dfae1829.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -390,11 +390,11 @@ In the bottom of the plug-in interface, you will see a thin black row with some 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0015-08.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0015-08--57dfb5b53fc8c95a.png>)
 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0015-09.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0015-09--421ca33b624a534d.png>)
 
 
 ## Enable 
@@ -412,7 +412,7 @@ Value Display
 Enable Setup 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0015-17.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0015-17--49ce145a664864c2.png>)
 
 
 **6** | GENERAL SETTINGS 
@@ -456,7 +456,7 @@ All numbers and labels in the plug-in are clickable. This allows you to easily s
 Some plug-ins have linked parameters, such as the two mics in Metal Amp Room, or the Input and Output volume in Zener Limiter. In order to change both knobs at once, adjust one of the knobs while holding shift. 
 
 
-![](<Dytronics Cyclosonic Panner Manual_assets/Dytronics_Cyclosonic_Panner_Manual.pdf-0017-00.png>)
+![](<../../attachments/dytronics-cyclosonic-panner-manual_assets--dytronics_cyclosonic_panner_manual.pdf-0017-00--1ab20951d1bb0ad2.png>)
 
 
 **Softube AB, S:t Larsgatan 9D, 582 24 Linköping, Sweden. www.softube.com** 

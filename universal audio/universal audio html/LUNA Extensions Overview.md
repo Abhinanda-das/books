@@ -55,7 +55,7 @@ When you open a LUNA extension in the browser, the search bar takes keyboard foc
 
 For API Vision Console, the preset browser appears at the bottom of the console browser on narrower screens, and to the left of the console browser on wider screens. You can drag the console browser edge in or out to resize the browser, and arrange the presets at the bottom or to the left of the browser.
 
-![avc-resize-browser.png](LUNA%20Extensions%20Overview_assets/85b9530c3d7de7d774b09441288ded81b253a3e9.png)
+![avc-resize-browser.png](../../attachments/luna-extensions-overview_assets--85b9530c3d7de7d774b09441288ded81b253a3e9--06726ca8f21cedfb.png)
 
  
 
@@ -63,11 +63,11 @@ For API Vision Console, the preset browser appears at the bottom of the console 
 
 Hover over the Extension row entry and click the square to open the Extension in the browser.
 
-![avc-2500-hover-open.png](LUNA%20Extensions%20Overview_assets/c61c67b6148cbfe3b72af9bdc2fdbc4f9e8586ed.png)
+![avc-2500-hover-open.png](../../attachments/luna-extensions-overview_assets--c61c67b6148cbfe3b72af9bdc2fdbc4f9e8586ed--577538ee9681f422.png)
 
 From the Preset browser, select the preset.
 
-![avc-preset-selected.png](LUNA%20Extensions%20Overview_assets/cdf01d08cc354cb43a5ec47b7d6219ae46cde6d6.png)
+![avc-preset-selected.png](../../attachments/luna-extensions-overview_assets--cdf01d08cc354cb43a5ec47b7d6219ae46cde6d6--977afac5c0d86f37.png)
 
 Use the Up and Down arrows to navigate through presets. To search for a preset, click next to the magnifying glass at the top of the browser, and begin typing.
 
@@ -98,7 +98,7 @@ You can favorite presets, and filter the list of presets by your favorites.
 - To unfavorite a preset, hover over the preset name, and click the favorite star again.
 - To show only favorites in your preset list, click Favorites in the Tags bar.
 
-![avc-favorites.png](LUNA%20Extensions%20Overview_assets/7aebdfe49a71db28fdcd88cdd750e7329108ef5d.png)
+![avc-favorites.png](../../attachments/luna-extensions-overview_assets--7aebdfe49a71db28fdcd88cdd750e7329108ef5d--1b8b9d87f8854475.png)
 
  
 

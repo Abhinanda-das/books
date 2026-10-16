@@ -6,13 +6,13 @@ tool_version: 1.10.2
 word_count: 8618
 ---
 
-![](<Apollo Twin Hardware Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_0_picture_1--5777cfeca3128b3d.jpeg>)
 
 ## **Apollo Twin Thunderbolt Hardware Manual**
 
 Manual Version 171101
 
-![](<Apollo Twin Hardware Manual_assets/_page_0_Picture_4.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_0_picture_4--728803177874cf6a.jpeg>)
 
 # <span id="page-1-0"></span>**A Letter from Bill Putnam Jr.**
 
@@ -89,11 +89,11 @@ Imagine having access to a classic analog recording studio, right on your deskto
 
 The key to its analog magic is onboard UAD-2 SOLO or DUO DSP Processing, which powers the UAD plug-ins while reducing the strain on your host CPU. To get you started, Apollo Twin includes the "Realtime Analog Classics" plug-in bundle.
 
-![](<Apollo Twin Hardware Manual_assets/_page_3_Picture_10.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_3_picture_10--074dce681909583e.jpeg>)
 
-![](<Apollo Twin Hardware Manual_assets/_page_3_Picture_11.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_3_picture_11--d87f6b5eac2fd38d.jpeg>)
 
-![](<Apollo Twin Hardware Manual_assets/_page_3_Picture_12.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_3_picture_12--b72bf5b41818e42d.jpeg>)
 
 ## **Track Through Classic Preamps Using Unison™ Technology**
 
@@ -324,7 +324,7 @@ Apollo Twin hardware and software installation and setup consists of the main st
 
 *Important: After ensuring the locking barrel tabs are aligned with the chassis slots and the barrel is fully inserted, rotate the barrel to secure the connector.*
 
-![](<Apollo Twin Hardware Manual_assets/_page_12_Picture_12.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_12_picture_12--bd4dcf4a1f765757.jpeg>)
 
 4. Apply power to Apollo Twin using the rear panel's power switch.
 
@@ -376,7 +376,7 @@ Many informational videos are available online to help you get started with Apol
 
 One typical Apollo Twin setup is illustrated below. For complete details about all of Apollo Twin's connectors and controls, see [Controls & Connectors.](#page-16-1)
 
-![](<Apollo Twin Hardware Manual_assets/_page_14_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_14_picture_2--0e5fea877c837075.jpeg>)
 
 *Typical Apollo Twin setup connections*
 
@@ -435,7 +435,7 @@ Apollo Twin's top panel has two operating modes: *Preamp* and *Monitor*. The fun
 
 When Apollo Twin is in Preamp mode, all top panel controls are related to the input functions only. To adjust any input function, press the PREAMP button to enter Preamp mode and activate the input channel controls.
 
-![](<Apollo Twin Hardware Manual_assets/_page_16_Picture_10.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_16_picture_10--5d809dc198514db6.jpeg>)
 
 *Note: Monitor and headphone functions cannot be performed in Preamp mode.*
 
@@ -447,7 +447,7 @@ Apollo Twin has two analog input channels and one set of input channel controls.
 
 The currently selected channel is shown by the CH1 and CH2 indicators at the upper left of the main display panel, above the input meters. The top panel controls only adjust the functions for the currently selected channel.
 
-![](<Apollo Twin Hardware Manual_assets/_page_16_Picture_16.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_16_picture_16--d06afe714f82d52e.jpeg>)
 
 When in Preamp mode, press the PREAMP button or the LEVEL knob to change the selected channel. Press again to switch back to the other channel.
 
@@ -455,7 +455,7 @@ When in Preamp mode, press the PREAMP button or the LEVEL knob to change the sel
 
 Each input channel has one preamplifier. The input source used by the preamp can be the mic input or the line input. The input source is determined by the pressing the INPUT button when the channel is selected. The input type is shown by the indicators below the input meters.
 
-![](<Apollo Twin Hardware Manual_assets/_page_17_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_17_picture_2--d65cbae8677babc7.jpeg>)
 
 On channel 1 only, the Hi-Z instrument can be used as the input type. The Hi-Z input is selected automatically when an instrument cable is plugged into the front panel Hi-Z input.
 
@@ -463,7 +463,7 @@ On channel 1 only, the Hi-Z instrument can be used as the input type. The Hi-Z i
 
 The two input channels each have a set of various preamp options that can be activated for the input with the row of six buttons at the bottom of the top panel.
 
-![](<Apollo Twin Hardware Manual_assets/_page_17_Picture_6.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_17_picture_6--2bfbd8409dd12a94.jpeg>)
 
 The current state of the preamp options are indicated in the display panel above the preamp option buttons. Available options are dim when inactive and bright when enabled.
 
@@ -473,7 +473,7 @@ Not all preamp options are available with all input types. For specific details,
 
 When Apollo Twin is in Monitor mode, all top panel controls are related to output functions only. To adjust any output function, press the MONITOR button to enter Monitor mode and activate the monitor controls.
 
-![](<Apollo Twin Hardware Manual_assets/_page_17_Picture_11.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_17_picture_11--959b30bf3c7578cb.jpeg>)
 
 **Note:** Input functions cannot be performed in Monitor mode.
 
@@ -489,9 +489,9 @@ Apollo Twin has two main\* stereo output types: Monitor and Headphone. The Level
 
 The currently selected output type is shown by the MONITOR and HEADPHONE indicators at the right of the main display, above and below the output meters. The Level knob adjusts volume for the currently selected output.
 
-![](<Apollo Twin Hardware Manual_assets/_page_17_Picture_19.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_17_picture_19--73835ba028f717a1.jpeg>)
 
-![](<Apollo Twin Hardware Manual_assets/_page_17_Picture_20.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_17_picture_20--99fa974ddb6799ed.jpeg>)
 
 #### Monitor Mute
 
@@ -501,7 +501,7 @@ When MONITOR is selected, press the Level knob to mute (silence) the stereo moni
 
 Refer to the illustration below for control descriptions in this section.
 
-![](<Apollo Twin Hardware Manual_assets/_page_18_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_18_picture_2--d152b34f4cad4fd8.jpeg>)
 
 *Apollo Twin's top panel elements*
 
@@ -569,7 +569,7 @@ These six buttons control the preamp options (a – f below) when the input chan
 
 Refer to the illustration below for control descriptions in this section.
 
-![](<Apollo Twin Hardware Manual_assets/_page_20_Picture_4.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_20_picture_4--5e0498318647b62a.jpeg>)
 
 *Apollo Twin's preamp option buttons*
 
@@ -609,7 +609,7 @@ Links inputs 1 & 2 so both channels are adjusted simultaneously as a stereo pair
 
 Refer to the illustration below for control descriptions in this section.
 
-![](<Apollo Twin Hardware Manual_assets/_page_21_Picture_2.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_21_picture_2--ec710af15539e855.jpeg>)
 
 *Apollo Twin's front panel elements*
 
@@ -637,7 +637,7 @@ Refer to the illustration below for control descriptions in this section.
 
 *Note: All rear panel ¼" jacks can accept unbalanced TS (tip-sleeve) or balanced TRS (tip-ring-sleeve) connections.*
 
-![](<Apollo Twin Hardware Manual_assets/_page_22_Picture_3.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_22_picture_3--c8372affcb17e228.jpeg>)
 
 *Apollo Twin's rear panel elements*
 
@@ -826,7 +826,7 @@ External Power Supply with (4) changeable AC connectors supporting USA, Europe, 
 
 ## <span id="page-28-0"></span>Hardware Block Diagram
 
-![](<Apollo Twin Hardware Manual_assets/_page_28_Figure_1.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_28_figure_1--e3493f5678a200fd.jpeg>)
 
 # <span id="page-29-0"></span>**Troubleshooting**
 
@@ -957,4 +957,4 @@ Universal Audio provides free technical support to registered product owners. Su
 
 • [help.uaudio.com](http://help.uaudio.com)
 
-![](<Apollo Twin Hardware Manual_assets/_page_34_Picture_0.jpeg>)
+![](<../../attachments/apollo-twin-hardware-manual_assets--page_34_picture_0--5c77d1633a1faad4.jpeg>)

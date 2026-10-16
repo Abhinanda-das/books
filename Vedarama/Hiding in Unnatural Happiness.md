@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/dvsw-hiuh"
 ---
 
-![обложка|156](<Hiding in Unnatural Happiness/обложка.jpeg>)
+![обложка|156](<../attachments/hiding-in-unnatural-happiness--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--ba1f49c3a15adb48.jpeg>)
 
 Wandering the forest of our hopes and dreams, we desire more than to survive - our hearts long to thrive. The premium we seek is happiness, now the ultimate consumer product. Happiness is no laughing matter. Relationships, society, and the political economy should all somehow generate enduring chunks of it. Is the hunt for sustainable contentment just confusion - a kaleidoscope of diverse illusion? Drawing upon the ancient yoga science of the self, Hiding in Unnnatural Happiness probes our contemporary approach to fulfillment and progress, and recommends another road, less traveled but timeless.
 

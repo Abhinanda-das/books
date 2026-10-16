@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sivaramasw-nvn4"
 ---
 
-![обложка|156](<Nava-vraja-mahima. Vol. 4/обложка.jpeg>)
+![обложка|156](<../attachments/nava-vraja-mahima.-vol.-4--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--04c61f18aa94deeb.jpeg>)
 
 # Nava-vraja-mahima. Vol. 4
 

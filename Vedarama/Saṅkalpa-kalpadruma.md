@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jg-sankalpak"
 ---
 
-![обложка|156](<Saṅkalpa-kalpadruma/обложка.jpeg>)
+![обложка|156](<../attachments/sa%E1%B9%85kalpa-kalpadruma--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--174bf204e5332fa3.jpeg>)
 
 Poetic deep spiritual insights about the sweet, confidential pastimes of Radha and Krishna. Including the Bhagavata commentaries revealing the most tasteful talks and thoughts of the premi bhaktas of Sri Vraja Dhama.
 

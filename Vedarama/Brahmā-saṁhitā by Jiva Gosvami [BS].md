@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jg-brahma2"
 ---
 
-![обложка|156](<Brahmā-saṁhitā by Jiva Gosvami [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/brahm%C4%81-sa%E1%B9%81hit%C4%81-by-jiva-gosvami-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--15eb3b487d63cec0.jpeg>)
 
 According to Vedic tradition, these "Hymns of Brahma" were recited or sung countless millennia ago by the first embodied being, Lord Brahma, just before he created the universe. The book consists of a brief description of Brahma's enlightenment by Lord Sri Krsna, the Supreme Personality of Godhead, followed by Brahma's extraordinarily beautiful prayers elucidating the content of his revelation.
 

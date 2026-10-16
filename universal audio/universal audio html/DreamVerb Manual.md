@@ -22,7 +22,7 @@ DreamVerb also features a flexible 5-band active EQ and unique level ramping for
 
 <div>
 
-![](DreamVerb%20Manual_assets/6fa3d09979c76c9e403051ad63c15a10ae2e1ebb.png)
+![](../../attachments/dreamverb-manual_assets--6fa3d09979c76c9e403051ad63c15a10ae2e1ebb--44a04f4708ec2446.png)
 
 </div>
 
@@ -34,7 +34,7 @@ The signal flow for DreamVerb is illustrated below. The input signal is equalize
 
 <div class="wysiwyg-text-align-center">
 
-![dreamverb-signal-flow-2x.png](DreamVerb%20Manual_assets/4df2f889ed35fc9d7b1a23a512590960e0c01e8a.png)
+![dreamverb-signal-flow-2x.png](../../attachments/dreamverb-manual_assets--4df2f889ed35fc9d7b1a23a512590960e0c01e8a--104ed91e7f7f65ac.png)
 
 </div>
 
@@ -56,7 +56,7 @@ Generally speaking, a lot of high-frequency energy results in a brilliant reverb
 
 <div class="wysiwyg-text-align-center">
 
-![dreamverb-resonance-panel-2x.png](DreamVerb%20Manual_assets/09ea8534f475b17425ac34b86636d3446e20247f.png)
+![dreamverb-resonance-panel-2x.png](../../attachments/dreamverb-manual_assets--09ea8534f475b17425ac34b86636d3446e20247f--3b9a8bec16df210c.png)
 
 </div>
 
@@ -84,7 +84,7 @@ The simplest (and often most practical) use of the equalizer is for low and/or h
 
 <div class="wysiwyg-text-align-center">
 
-![dreamverb-resonance-shelving-bands-2x.png](DreamVerb%20Manual_assets/311dae27700e531c21062d9453f797081ab36b9a.png)
+![dreamverb-resonance-shelving-bands-2x.png](../../attachments/dreamverb-manual_assets--311dae27700e531c21062d9453f797081ab36b9a--3db9ae101a84d498.png)
 
 </div>
 
@@ -100,7 +100,7 @@ The pattern of early reflections in a reverb is determined by the room shape(s) 
 
 <div class="wysiwyg-text-align-center">
 
-![dreamverb-chape-panel-2x.png](DreamVerb%20Manual_assets/8e603a236fd4d5f46b2738eb5b8298ec0730d963.png)
+![dreamverb-chape-panel-2x.png](../../attachments/dreamverb-manual_assets--8e603a236fd4d5f46b2738eb5b8298ec0730d963--85f1746d4ba1dafe.png)
 
 </div>
 
@@ -134,7 +134,7 @@ The material composition of an acoustical space effects how different frequency 
 
 <div class="wysiwyg-text-align-center">
 
-![dreamverb-materials-panel-2x.png](DreamVerb%20Manual_assets/d25cadb70d020df574c6f9a91e56dee884fa7a9a.png)
+![dreamverb-materials-panel-2x.png](../../attachments/dreamverb-manual_assets--d25cadb70d020df574c6f9a91e56dee884fa7a9a--f769059bb74b3705.png)
 
 </div>
 
@@ -188,7 +188,7 @@ Unique to DreamVerb is independent control of the amplitude at the early reflect
 
 <div class="wysiwyg-text-align-center">
 
-![dreamverb-reflections.panel-2x.png](DreamVerb%20Manual_assets/69efdc8fefafc1b24d6acb35369ad246decfe5b7.png)
+![dreamverb-reflections.panel-2x.png](../../attachments/dreamverb-manual_assets--69efdc8fefafc1b24d6acb35369ad246decfe5b7--74f8ba6d2c48c1e8.png)
 
 </div>
 
@@ -228,7 +228,7 @@ The primary spectral characteristics of the late-field reverberation are determi
 
 <div class="wysiwyg-text-align-center">
 
-![dreamverb-reverberation-panel-2x.png](DreamVerb%20Manual_assets/756e476a31e25fdce5ca018704cfedc1292d6bc8.png)
+![dreamverb-reverberation-panel-2x.png](../../attachments/dreamverb-manual_assets--756e476a31e25fdce5ca018704cfedc1292d6bc8--7b4f277f1a4ddabb.png)
 
 </div>
 
@@ -268,7 +268,7 @@ DreamVerb has the ability to separately position the direct path, early reflecti
 
 <div class="wysiwyg-text-align-center">
 
-![](DreamVerb%20Manual_assets/968abdd65033d9dc1dba5b5286c4e6a096a47c70.png)
+![](../../attachments/dreamverb-manual_assets--968abdd65033d9dc1dba5b5286c4e6a096a47c70--bf7e8b25ec452603.png)
 
 </div>
 
@@ -308,7 +308,7 @@ This panel is where DreamVerb input/output levels, wet/dry mix, and reverb mute 
 
 <div class="wysiwyg-text-align-center">
 
-![](DreamVerb%20Manual_assets/8dbe6cf7be088b7ac552de9d4e9da90106bcda97.png)
+![](../../attachments/dreamverb-manual_assets--8dbe6cf7be088b7ac552de9d4e9da90106bcda97--ffc6f5d3cdbb866c.png)
 
 </div>
 

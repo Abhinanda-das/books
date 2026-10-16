@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/td2"
 ---
 
-![обложка|156](<A Transcendental Diary Volume 2/обложка.jpeg>)
+![обложка|156](<../attachments/a-transcendental-diary-volume-2--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--838d07bcb842412a.jpeg>)
 
 This volume covers the events between April 1976 – June 1976; This is the second of five volumes. This personal series recounts Srila Prabhupada’s journeys and activities in detail through an intense part of his life. He traveled around the world, opened temples, spoke with celebrities and supporters, and corresponded with followers and disciples by the hundreds. With forward by Dr. Thomas J. Hopkins.
 

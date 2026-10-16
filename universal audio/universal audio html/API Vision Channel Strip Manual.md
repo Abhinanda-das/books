@@ -36,11 +36,11 @@ The ultra-fast 235L Noise Gate/Expander lets you easily shape ambience and attac
 
  
 
-![avcs.png](API%20Vision%20Channel%20Strip%20Manual_assets/4d01c7e6acf5d6e24f4c1eded2bd8309dfab5477.png)
+![avcs.png](../../attachments/api-vision-channel-strip-manual_assets--4d01c7e6acf5d6e24f4c1eded2bd8309dfab5477--8ec26164359a59c5.png)
 
 *API Vision Channel Strip*
 
-![api-vision-legacy.png](API%20Vision%20Channel%20Strip%20Manual_assets/01ac85d788bba2d9cc443af4bce228cec1311643.png)
+![api-vision-legacy.png](../../attachments/api-vision-channel-strip-manual_assets--01ac85d788bba2d9cc443af4bce228cec1311643--566a83d3babaf62c.png)
 
 *API Vision Channel Strip Legacy*
 
@@ -90,7 +90,7 @@ As with the original hardware, the API Vision Channel Strip has a modular design
 - 550L Four-Band Equalizer
 - 560L Ten-Band Graphic Equalizer
 
-![api-callouts-main.png](API%20Vision%20Channel%20Strip%20Manual_assets/aadb79438cf79a87947c6087119b10886cc88d2d.png)
+![api-callouts-main.png](../../attachments/api-vision-channel-strip-manual_assets--aadb79438cf79a87947c6087119b10886cc88d2d--34ebc017b298078a.png)
 
 ## Selectable EQ
 
@@ -110,7 +110,7 @@ In these operating instructions, “EQ” represents the 550L EQ module in API V
 
 A simplified view of the default signal flow routing within the plug-in is illustrated in the diagram below. The audio path is shown with solid lines, and the side chain control keys for the 235L and 225L dynamics modules are shown with dashed lines.
 
-![API-Vision-SignalFlow.png](API%20Vision%20Channel%20Strip%20Manual_assets/1e7d7f01148acee3bf88699ced44d30ba4b0d398.png)
+![API-Vision-SignalFlow.png](../../attachments/api-vision-channel-strip-manual_assets--1e7d7f01148acee3bf88699ced44d30ba4b0d398--8290388807cc3413.png)
 
 *Simplified default API Vision signal flow*
 
@@ -118,7 +118,7 @@ Signal flows can be re-routed via options in the plug-in. The EQ module can be p
 
 Note that the side chains for the dynamics modules are in series by default (as in the diagram above). However, when the sweep filters and/or EQ are moved into the side chain via their SC buttons, the side chain inputs for the dynamics modules are in parallel, as shown in the diagram below with 215L SC enabled.
 
-![API-Vision-SignalFlow2.png](API%20Vision%20Channel%20Strip%20Manual_assets/2fc360c34a6b72e8b95dc85e5d35da842c9cca7b.png)
+![API-Vision-SignalFlow2.png](../../attachments/api-vision-channel-strip-manual_assets--2fc360c34a6b72e8b95dc85e5d35da842c9cca7b--f0e213bf8e76c0a6.png)
 
 *Simplified signal flow illustrating parallel side chain inputs with 215L SC enabled*
 
@@ -130,7 +130,7 @@ When the 215L side chain is active, signal output from the 215L module is remove
 
 **Note:** The 215L module must be enabled for the 215L side chain to function.
 
-![API-Vision-SignalFlow2.png](API%20Vision%20Channel%20Strip%20Manual_assets/2fc360c34a6b72e8b95dc85e5d35da842c9cca7b.png)
+![API-Vision-SignalFlow2.png](../../attachments/api-vision-channel-strip-manual_assets--2fc360c34a6b72e8b95dc85e5d35da842c9cca7b--f0e213bf8e76c0a6.png)
 
 *Signal flow with 215L Sweep Filters SC enabled*
 
@@ -142,11 +142,11 @@ When PREDYN is active, the dynamics side chain is always tapped after the EQ mod
 
 **Note:** PREDYN has no effect when the EQ's DYN SC button is active.
 
-![API-Vision-SignalFlow3.png](API%20Vision%20Channel%20Strip%20Manual_assets/a986364eaf7125a358f13c315a78f375c2365899.png)
+![API-Vision-SignalFlow3.png](../../attachments/api-vision-channel-strip-manual_assets--a986364eaf7125a358f13c315a78f375c2365899--1b98b7a3430b296f.png)
 
 *PREDYN routes the EQ before the dynamics modules*
 
-![API-Vision-SignalFlow4.png](API%20Vision%20Channel%20Strip%20Manual_assets/5bbc0353b26e152cbd992b457170c87a5f13d67a.png)
+![API-Vision-SignalFlow4.png](../../attachments/api-vision-channel-strip-manual_assets--5bbc0353b26e152cbd992b457170c87a5f13d67a--23a6f1ec9396a944.png)
 
 *EQ always precedes the side chain tap when PREDYN is active*
 
@@ -156,13 +156,13 @@ The DYN SC button in the EQ module routes EQ into the dynamics processing side c
 
 **Note:** In API Vision Console Channel Strip Legacy, this button is labeled SC.
 
-![API-Vision-SignalFlow5.png](API%20Vision%20Channel%20Strip%20Manual_assets/761f68e3b9dc8e77ea20253a786a7117a2fc31ee.png)
+![API-Vision-SignalFlow5.png](../../attachments/api-vision-channel-strip-manual_assets--761f68e3b9dc8e77ea20253a786a7117a2fc31ee--630ef09eafe0ccc2.png)
 
 *Signal flow with EQ SC enabled*
 
 Note that both the EQ and 215L modules can both be routed simultaneously to the dynamics side chain. In this case, the 215L precedes the EQ in the side chain path, as shown below.
 
-![API-Vision-SignalFlow6.png](API%20Vision%20Channel%20Strip%20Manual_assets/12735e4607ca7badc92879586323c6b62bf95c6f.png)
+![API-Vision-SignalFlow6.png](../../attachments/api-vision-channel-strip-manual_assets--12735e4607ca7badc92879586323c6b62bf95c6f--1cfdf046b138412b.png)
 
 *Signal flow with SC enabled in both 215L and EQ modules*
 
@@ -193,7 +193,7 @@ Presets from prominent Universal Audio artists are included. You can access the 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: left; width: 7.42861%; vertical-align: middle; height: 0px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: left; width: 7.42861%; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 88.0001%; height: 0px"><h2 id="h_01HZ00QNX74W6ZHXZQY7P9F9DV">Unison Integration (UAD-2 DSP only)</h2></td>
 </tr>
 </tbody>
@@ -219,7 +219,7 @@ Apollo’s hardware preamp knob can independently adjust the gain and level para
 
 |  |  |  |
 |:--:|:--:|:--:|
-| ![api-vcs-unison-1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a2925b30f93d167a57c6491856af17f35e4d6fd1.png) | ![api-vcs-unison-2.png](API%20Vision%20Channel%20Strip%20Manual_assets/afdeffb06e25d495e50bfb4d86586b8aeb4c4601.png) | ![api-vcs-unison-3.png](API%20Vision%20Channel%20Strip%20Manual_assets/e05f613646c429264cb4352ad22510827a2631b8.png) |
+| ![api-vcs-unison-1.png](../../attachments/api-vision-channel-strip-manual_assets--a2925b30f93d167a57c6491856af17f35e4d6fd1--150da213c309a0ca.png) | ![api-vcs-unison-2.png](../../attachments/api-vision-channel-strip-manual_assets--afdeffb06e25d495e50bfb4d86586b8aeb4c4601--b0bbc8cc6c679784.png) | ![api-vcs-unison-3.png](../../attachments/api-vision-channel-strip-manual_assets--e05f613646c429264cb4352ad22510827a2631b8--d69698b9770693a7.png) |
 
 *The outlined gain controls as they appear when in Unison Gain Stage Mode*
 
@@ -229,7 +229,7 @@ Apollo’s hardware preamp knob can independently adjust the gain and level para
 
 |  |  |
 |:--:|:--:|
-| ![api-vision2.png](API%20Vision%20Channel%20Strip%20Manual_assets/c53291096b69cdc115c298b24add2acf03777bd7.png) | ![api-vision-legacy2.png](API%20Vision%20Channel%20Strip%20Manual_assets/85063dd758d663f1b455446d603feb52bcd329e7.png) |
+| ![api-vision2.png](../../attachments/api-vision-channel-strip-manual_assets--c53291096b69cdc115c298b24add2acf03777bd7--652775f72c30d1f6.png) | ![api-vision-legacy2.png](../../attachments/api-vision-channel-strip-manual_assets--85063dd758d663f1b455446d603feb52bcd329e7--9acf6a1caf745998.png) |
 
 *212L Microphone Preamplifier standard (left) and legacy (right)*
 
@@ -250,7 +250,7 @@ The active setting is indicated by an LED next to the input's gain knob. When th
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JE6ZAMW2XZQ9P2DGBYGN9QE9">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -272,7 +272,7 @@ This knob adjusts the amount of gain applied to the mic input signal. The availa
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHJS0KBGSNW2VX68A11166Q">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -294,7 +294,7 @@ The available Line Gain range is adopted from API VIsion Console's dedicated Lin
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHJTQS5G5YGBJ98J4Z7XH2N">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -330,7 +330,7 @@ When PAD is enabled with line input, the input signal level is attenuated by -6 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHK5AJ2E284P9NHZG51K5MZ">Unison Interactions</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -353,7 +353,7 @@ The Phase (ø) button inverts the polarity of the signal. The polarity is invert
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHKR3A8SE4QTS1NGGG42RQ0">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -375,7 +375,7 @@ This button activates a 50 Hz low cut filter that has a slope of 6 dB per octave
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHKS761HX0NPRKM6NV8V6N5">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -392,7 +392,7 @@ The LED ladder VU Meter indicates the signal level at the output of the 212L pre
 
 # 215L High/Low Sweep Filters
 
-![api-vision3.png](API%20Vision%20Channel%20Strip%20Manual_assets/565079f6e2749080d0f939819c84b487c57ead12.png)
+![api-vision3.png](../../attachments/api-vision-channel-strip-manual_assets--565079f6e2749080d0f939819c84b487c57ead12--e1b5b2fc4bac9aa4.png)
 
 The 215L offers two sweepable cut filters, one each for low and high frequencies. The original hardware is transformer coupled and uses a passive filter circuit design for smooth tone.
 
@@ -411,7 +411,7 @@ The Hi-Pass (low cut) filter has a continuous range of 12 Hz to 596 Hz. The slop
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHKWA0Q507YDQYYAR4SFCEW">Unison Interaction (Legacy)</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -434,7 +434,7 @@ This button enables the 215L module. The filters module is active when the butto
 
 # 235L Gate/Expander
 
-![api-vision4.png](API%20Vision%20Channel%20Strip%20Manual_assets/8b3aef74920a4913cdac9cce6a6a9c42ad39890f.png)
+![api-vision4.png](../../attachments/api-vision-channel-strip-manual_assets--8b3aef74920a4913cdac9cce6a6a9c42ad39890f--8f4927e110c93903.png)
 
 The 235L Gate/Expander module operates in either gate or expansion mode. Two attack speeds and a continuously variable release time are available in both modes.
 
@@ -508,7 +508,7 @@ This button enables the 235L module. The module is active when the button's gree
 
 # 225L Compressor/Limiter
 
-![api-vision5.png](API%20Vision%20Channel%20Strip%20Manual_assets/fdd1ca0b50cf5b4f71bcd63aac59fe08855ffdf8.png)
+![api-vision5.png](../../attachments/api-vision-channel-strip-manual_assets--fdd1ca0b50cf5b4f71bcd63aac59fe08855ffdf8--4a6f87054b3504f2.png)
 
 The 225L Compressor/Limiter offers a continuously variable ratio between 1:1 (no compression) and infinity:1 (limiting). Three attack speeds and continuously variable release times are available. A hard/soft knee setting and a unique new/old setting are also available in the module.
 
@@ -568,7 +568,7 @@ This button enables the 225L module. The module is active when the button's gree
 
 # 550L Four-Band Equalizer
 
-![api-vision-550.png](API%20Vision%20Channel%20Strip%20Manual_assets/a67ac00e02960e4a01b161fb5131a47436132f94.png)
+![api-vision-550.png](../../attachments/api-vision-channel-strip-manual_assets--a67ac00e02960e4a01b161fb5131a47436132f94--af1171038e8258d3.png)
 
 The 550L EQ is divided into four frequency bands: High Frequency (HF), High Midrange Frequency (HMF), Low Midrange Frequency (LMF), and Low Frequency (LF).
 
@@ -670,7 +670,7 @@ This button enables the EQ module. The module is active when the button's green 
 
 # 560L Ten-Band Equalizer
 
-![api-vision6.png](API%20Vision%20Channel%20Strip%20Manual_assets/a16d17eb9d33676762ac58d0a65f44b0b69e5ef5.png)
+![api-vision6.png](../../attachments/api-vision-channel-strip-manual_assets--a16d17eb9d33676762ac58d0a65f44b0b69e5ef5--c8bf1318b380d9fd.png)
 
 **Note:** This module is unavailable with API Vision Channel Strip Legacy.
 
@@ -724,7 +724,7 @@ This button enables the EQ module. The module is active when the button's green 
 
 |  |  |
 |----|----|
-| ![api-vision7.png](API%20Vision%20Channel%20Strip%20Manual_assets/8dff8717b98c1bbd9fe68760b96fb2b0359f0199.png) | ![api-vision-legacy3.png](API%20Vision%20Channel%20Strip%20Manual_assets/4a7f2e15d5e5a55aeeac7aa7b004f4cd4fcf7785.png) |
+| ![api-vision7.png](../../attachments/api-vision-channel-strip-manual_assets--8dff8717b98c1bbd9fe68760b96fb2b0359f0199--41aa2fc37da656ee.png) | ![api-vision-legacy3.png](../../attachments/api-vision-channel-strip-manual_assets--4a7f2e15d5e5a55aeeac7aa7b004f4cd4fcf7785--4838195f5014f611.png) |
 
 *Global module standard (left) and legacy (right)*
 
@@ -749,7 +749,7 @@ Note that because the output buffer amplifier precedes the fader in signal flow,
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHNNEMD46NV2CR536CK2VYF">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -771,7 +771,7 @@ This control provides -24 dB to +12 dB of clean uncolored gain at the output of 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](API%20Vision%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0px; vertical-align: middle; height: 21px;">![unison-icon1.png](../../attachments/api-vision-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--930a078db3a6dada.png)</td>
 <td style="width: 13.7143%; height: 21px"><h3 id="01JNHNP9JV5K5FV5KW1VM5TXA2">Unison Interaction</h3></td>
 </tr>
 <tr style="height: 0px;">
@@ -792,9 +792,9 @@ Linking the side chains prevents signals which appear on only one channel from s
 
 The plug-in is active when one or more LEDs are lit. When power is off, all LEDs are unlit and all plug-in processing is disabled. Processor usage is reduced when the plug-in is powered off. UAD DSP load is reduced when the plug-in is inactive, unless DSP LoadLock is enabled in the UAD Meter & Control Panel.
 
-![API_logo.jpg](API%20Vision%20Channel%20Strip%20Manual_assets/24f1800b6330772595d8fca4bc3531edc50ba58b.jpg)
+![API_logo.jpg](../../attachments/api-vision-channel-strip-manual_assets--24f1800b6330772595d8fca4bc3531edc50ba58b--4d73c16ec03610c8.jpg)
 
-![API_Console.jpg](API%20Vision%20Channel%20Strip%20Manual_assets/7fcde2d38c474ee0a395515fdc25ddbbc851eb20.jpg)
+![API_Console.jpg](../../attachments/api-vision-channel-strip-manual_assets--7fcde2d38c474ee0a395515fdc25ddbbc851eb20--a42b087c71c4f235.jpg)
 
 *API Vision Console*
 

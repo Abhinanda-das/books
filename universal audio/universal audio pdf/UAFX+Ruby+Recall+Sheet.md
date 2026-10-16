@@ -7,7 +7,7 @@ word_count: 108
 ---
 
 
-![](UAFX+Ruby+Recall+Sheet_assets/UAFX+Ruby+Recall+Sheet.pdf-0001-00.png)
+![](../../attachments/uafx-ruby-recall-sheet_assets--uafx-ruby-recall-sheet.pdf-0001-00--f5e9ad3c8570c715.png)
 
 
 **----- Start of picture text -----**<br>

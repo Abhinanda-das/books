@@ -7,7 +7,7 @@ word_count: 206
 ---
 
 
-![](<UAFX Max Recall Sheet_assets/UAFX_Max_Recall_Sheet.pdf-0001-00.png>)
+![](<../../attachments/uafx-max-recall-sheet_assets--uafx_max_recall_sheet.pdf-0001-00--bdfbc8ae1d296a68.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -35,11 +35,11 @@ PREAMP COMP OUTPUT PREAMP COMP OUTPUT PREAMP COMP OUTPUT<br>OFF OFF OFF<br>COMP 
 
 
 
-![](<UAFX Max Recall Sheet_assets/UAFX_Max_Recall_Sheet.pdf-0001-01.png>)
+![](<../../attachments/uafx-max-recall-sheet_assets--uafx_max_recall_sheet.pdf-0001-01--2fe30181f6373180.png>)
 
 
 
-![](<UAFX Max Recall Sheet_assets/UAFX_Max_Recall_Sheet.pdf-0001-02.png>)
+![](<../../attachments/uafx-max-recall-sheet_assets--uafx_max_recall_sheet.pdf-0001-02--1aa7fdd99e52bbed.png>)
 
 
 **----- Start of picture text -----**<br>

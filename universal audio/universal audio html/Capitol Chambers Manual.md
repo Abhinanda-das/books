@@ -46,7 +46,7 @@ The Capitol Chamber's plug-in features carefully crafted presets from a stunning
 
  
 
-![Capitol_Chambers_190430.png](Capitol%20Chambers%20Manual_assets/17b6cecc71caa5bff160906e5d938e439dad3354.png)
+![Capitol_Chambers_190430.png](../../attachments/capitol-chambers-manual_assets--17b6cecc71caa5bff160906e5d938e439dad3354--d3b668729e21987d.png)
 
 *Capitol Chambers*
 
@@ -68,13 +68,13 @@ The four most popular echo chambers at Capitol Studios (chamber numbers 2, 4, 6,
 
 The four chambers naturally provide a maximum reverberation time of approximately 5 to 9.5 seconds for full decay. Although not possible with the real physical chambers, UA's digital "beyond physics" Decay control allows these naturally occurring decay times to be reduced as desired, down to a minimum of one second.
 
-![capitol-chamber-2.png](Capitol%20Chambers%20Manual_assets/0a9ebe64b2dae20ffaa2bfaf5a85175f58ac5571.png)
+![capitol-chamber-2.png](../../attachments/capitol-chambers-manual_assets--0a9ebe64b2dae20ffaa2bfaf5a85175f58ac5571--187cf9160f512087.png)
 
-![capitol-chamber-4.png](Capitol%20Chambers%20Manual_assets/5583fc22a24ba1819aaa7e09e2eb45fd6538439a.png)
+![capitol-chamber-4.png](../../attachments/capitol-chambers-manual_assets--5583fc22a24ba1819aaa7e09e2eb45fd6538439a--06579082ad624d25.png)
 
-![capitol-chamber-6.png](Capitol%20Chambers%20Manual_assets/3124e85c4ca98e4493fd5117351c55fbb011b580.png)
+![capitol-chamber-6.png](../../attachments/capitol-chambers-manual_assets--3124e85c4ca98e4493fd5117351c55fbb011b580--32886bff16841fc7.png)
 
-![capitol-chamber-7.png](Capitol%20Chambers%20Manual_assets/edded00bd16a43b0a4e1048a9a661fc6f36166a0.png)
+![capitol-chamber-7.png](../../attachments/capitol-chambers-manual_assets--edded00bd16a43b0a4e1048a9a661fc6f36166a0--16596de1a126f8af.png)
 
 *The four available echo chambers*
 
@@ -132,13 +132,13 @@ During algorithmic recalculations, visual indicators are active. These indicator
 
 Chamber Select, Microphones Select, Microphones Position, Decay – When any of these controls are adjusted, the Capitol Chambers logo antenna flashes in yellow.
 
-![capitol-chambers-recalc-indicators.png](Capitol%20Chambers%20Manual_assets/3d8e1c2bdeb57804368a1dee2de94603c5c697e9.png)
+![capitol-chambers-recalc-indicators.png](../../attachments/capitol-chambers-manual_assets--3d8e1c2bdeb57804368a1dee2de94603c5c697e9--4f8f5e7228b4901d.png)
 
 *Flashing antenna during all algorithmic recalculations*
 
 Microphones Select, Microphones Position – When these controls are adjusted, the Capitol Chambers logo antenna flashes. Additionally, the door within the chamber view is open, alluding to an engineer entering the chamber to change or reposition the mics.
 
-![capitol-chambers-recalc-indicators1.png](Capitol%20Chambers%20Manual_assets/542a1f1d6df7d2f5ac1ae665d3c02988daa20c7d.png)
+![capitol-chambers-recalc-indicators1.png](../../attachments/capitol-chambers-manual_assets--542a1f1d6df7d2f5ac1ae665d3c02988daa20c7d--95c6d236ad05efcf.png)
 
 *Open chamber door during microphone recalculations*
 
@@ -178,7 +178,7 @@ Decay Time</p></td>
 </tbody>
 </table>
 
-![capitol-chambers_mic-animation__4_SM80_sm.png](Capitol%20Chambers%20Manual_assets/0f88ff12181ccb35d6f2071240212bf2fa926628.png)
+![capitol-chambers_mic-animation__4_SM80_sm.png](../../attachments/capitol-chambers-manual_assets--0f88ff12181ccb35d6f2071240212bf2fa926628--51ea3ff3a1450f29.png)
 
 *Example bird's eye map of Position parameter – Chamber 4 with SM80*
 
@@ -207,7 +207,7 @@ This latency is not an issue when used in a typical effect send/ return configur
 
 **Tip:** The reverb configuration illustrated below conserves processing power or UAD DSP when compared to inserting the same reverb plug-in on individual channels.
 
-![capitol-chambers-flow-reverb.png](Capitol%20Chambers%20Manual_assets/f0521ff038b7de5e5a15ec6e6f286392503e93fc.png)
+![capitol-chambers-flow-reverb.png](../../attachments/capitol-chambers-manual_assets--f0521ff038b7de5e5a15ec6e6f286392503e93fc--d4be80b3545dd4f9.png)
 
 *DAW signal routing with reverb plug-in using a traditional effect send/return configuration*
 
@@ -219,7 +219,7 @@ This latency is not an issue when used in a typical effect send/ return configur
 
 # Capitol Chambers Controls
 
-![capitol-studios-callouts.png](Capitol%20Chambers%20Manual_assets/c340f15df270ea99e046285ba3594eab156c34da.png)
+![capitol-studios-callouts.png](../../attachments/capitol-chambers-manual_assets--c340f15df270ea99e046285ba3594eab156c34da--ddc7d884e3b37589.png)
 
 ## Chamber select
 
@@ -227,7 +227,7 @@ The active echo chamber is selected with this row of four yellow buttons above t
 
 **Note:** When Chamber Select is changed, the new value is not completely heard until the Recalculation Indicators are inactive.
 
-![Capitol_Chambers_190430 copy.png](Capitol%20Chambers%20Manual_assets/ee114655b9ac372c68f0b810cbe30b3fd047f20c.png)
+![Capitol_Chambers_190430 copy.png](../../attachments/capitol-chambers-manual_assets--ee114655b9ac372c68f0b810cbe30b3fd047f20c--c14aa6692756b2f7.png)
 
 *Chamber Select buttons with Chamber 4 selected*
 
@@ -243,7 +243,7 @@ The stereo microphone pair used in the echo chamber are selected with these butt
 
 **Note:** When Microphones Select is adjusted, the new value is not completely heard until the Recalculation Indicators are inactive.
 
-![capitol-chambers-mics.png](Capitol%20Chambers%20Manual_assets/ba499c49e036ccc91210bc3931bd019e049e6112.png)
+![capitol-chambers-mics.png](../../attachments/capitol-chambers-manual_assets--ba499c49e036ccc91210bc3931bd019e049e6112--88bf70da65e5da5d.png)
 
 *Microphones Select buttons*
 
@@ -259,7 +259,7 @@ The aural effect of a mic position change most is obvious while listening to the
 
 **Tip:** Click the MINIMUM or MAXIMUM text labels to return the control to those values.
 
-![Capitol_Chambers_190430 copy 2.png](Capitol%20Chambers%20Manual_assets/e035b35af6ba034aed1ff08f9dcb54e482b81d1c.png)
+![Capitol_Chambers_190430 copy 2.png](../../attachments/capitol-chambers-manual_assets--e035b35af6ba034aed1ff08f9dcb54e482b81d1c--c2a88a57cbe80130.png)
 
 *Microphones Position slider*
 
@@ -363,9 +363,9 @@ Width narrows the stereo ambience imaging. The range is continuously variable fr
 
 **Note:** When used in a mono-out configuration, this control cannot be adjusted.
 
-![capitol_chambers_feature_2_@2x.jpg](Capitol%20Chambers%20Manual_assets/3bc30b9ccfc9585ac708b5e93e1b1ca58acfbee4.jpg)
+![capitol_chambers_feature_2_@2x.jpg](../../attachments/capitol-chambers-manual_assets--3bc30b9ccfc9585ac708b5e93e1b1ca58acfbee4--ae5200c34ab408ce.jpg)
 
-![capitol_chambers_feature_1_@2x.jpg](Capitol%20Chambers%20Manual_assets/31af3f5ecbbaf44d8d3d2370c853e322621a0bca.jpg)
+![capitol_chambers_feature_1_@2x.jpg](../../attachments/capitol-chambers-manual_assets--31af3f5ecbbaf44d8d3d2370c853e322621a0bca--cae6f722bf1f38ff.jpg)
 
 *Chambers construction at Capitol Studios*
 

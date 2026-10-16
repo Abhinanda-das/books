@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/im-tmahe"
 ---
 
-![обложка|156](<The Master and His Emissary The Divided Brain and the Making of the Western World/обложка.jpeg>)
+![обложка|156](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3e6f79d296c74354.jpeg>)
 
 In a book of unprecedented scope--now available in a larger format—Iain McGilchrist presents a fascinating exploration of the differences between the brain’s left and right hemispheres, and how those differences have affected society, history, and culture. McGilchrist draws on a vast body of recent research in neuroscience and psychology  to reveal that the difference is profound: the left hemisphere is detail oriented, while the right has greater breadth, flexibility, and generosity. McGilchrist then takes the reader on a journey through the history of Western culture, illustrating the tension between these two worlds as revealed in the thought and belief of thinkers and artists from Aeschylus to Magritte.
 
@@ -137,7 +137,7 @@ In more modern times, the physician Arthur Wigan published his thoughtful study,
 
 That leads us to a good first question: why are there two cerebral hemispheres at all? After all, there is no necessity for an organ whose entire function, as it is commonly understood, is to make connections, to have this almost wholly divided structure. Over the course of the long evolution of homo sapiens sapiens there could have been developments towards a unified brain, which might on the face of it offer enormous advantages. It is true that the brain's embryological origins lie in two distinct halves. But this cannot be the answer, not only because, earlier still, the primitive hemispheres themselves arise from a single midline structure, the prosencephalon, at about five weeks' gestation (see Figure 1.1), butbecause midline structures and connections between the halves of the brain do develop later in fetal development at some levels, even though the hemispheres themselves remain deeply divided.
 
-![рис-001.png|532](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-001.png>)
+![рис-001.png|532](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-001--655b3974593d125e.png>)
 
 Fig. 1.1 Embryonic origins of the cerebral hemispheres and other brain regions
 
@@ -147,7 +147,7 @@ For a long time the function of the corpus callosum, the main band of neural tis
 
 The corpus callosum contains an estimated 300–800 million fibres connecting topologically similar areas in either hemisphere. Yet only 2 per cent of cortical neurones are connected by this tract. What is more, the main purpose of a large number of these connections is actually to inhibit – in other words to stop the other hemisphere interfering. Neurones can have an excitatory or inhibitory action, excitatory neurones causing further neuronal activity downstream, while inhibitory neurones suppress it. Although the majority of cells projecting to the corpus callosum use the facilitatory neurotransmitter glutamate, and are excitatory, there are significant populations of nerve cells (those that use the neurotransmitter gamma-amino butyric acid, or GABA for short) whose function is inhibitory. Even the excitatory fibres often terminate on intermediary neurones, or ‘interneurones’, whose function is inhibitory. Inhibition is, of course, not a straightforward concept. Inhibition at the neurophysiological level does not necessarily equate with inhibition at the functional level, any more than letting your foot off the brake pedal causes the car to halt: neural inhibition may set in train a sequence of activity, so that the net result is functionally permissive. But the evidence is that the primary effect of callosal transmission is to produce functional inhibition. So much is this the case that a number of neuroscientists have proposed that the whole point of the corpus callosum is to allow one hemisphere to inhibit the other. Stimulation of neurones in one hemisphere commonly results in an initial brief excitatory response, followed by a prolonged inhibitory arousal in the other, contralateral, hemisphere. Such inhibition can be widespread, and can be seen on imaging.
 
-![рис-002.png|266](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-002.png>)
+![рис-002.png|266](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-002--af07149213154f46.png>)
 
 Fig. 1.2 The brain viewed from above, showing the corpus callosum
 
@@ -177,7 +177,7 @@ Phenomenologically speaking, there is here both a unity, a ‘single entity’, 
 
 Let's leave the divided nature of the brain for a moment and take a slightly closer look at the brain as a whole (see Figure 1.3). The next thing one notices, after the interhemispheric divide, is the extraordinary expansion of the human frontal lobes, the most lately evolved part of the brain.
 
-![рис-003.png|542](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-003.png>)
+![рис-003.png|542](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-003--0a7705eacae929e8.png>)
 
 Fig. 1.3 The brain viewed from the left side
 
@@ -207,7 +207,7 @@ What on earth is this about? Why is the brain asymmetrical in this way? If the h
 
 It has been accepted since the days of the great anatomist John Hunter that structure is at some level an expression of function, an idea reinforced in the early twentieth century by the work of D'Arcy Thompson. The relationship of anatomical asymmetries to functional ones is of great theoretical interest. Although larger size does not always equate to greater functional capacity, it most commonly does so.
 
-![рис-004.png|361](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-004.png>)
+![рис-004.png|361](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-004--a769d6d264b15fa6.png>)
 
 Fig. 1.4 Yakovlevian torque (brain viewed from below).
 
@@ -311,11 +311,11 @@ In doing so, I will sometimes refer to brain regions illustrated in Figures 2.1 
 
 I should also say that this is necessarily a very long chapter. I recognise that that may be a little disheartening to the reader, and I could have divided it into several parts. But my hope is that we can get away from looking at separate ‘areas of cognition’, however much I may have had to carve up the seamless world each hemisphere delivers into recognisable chunks for the purposes of description. In the process of doing so, I have been keenly aware of the artificiality of such divisions, since each inevitably overlaps with many others, and ultimately I believe they form a single, coherent whole. To have cut it up further into separate chapters would have reinforced the tendency I wish to avoid. But the various subheadings of this chapter are a compromise which will, I hope, give the process some sense of direction.
 
-![рис-005.png|351](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-005.png>)
+![рис-005.png|351](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-005--31ea6afc582ee7e7.png>)
 
 Fig. 2.1 Prefrontal cortex and limbic system
 
-![рис-006.png|405](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-006.png>)
+![рис-006.png|405](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-006--cc623e10b96829c2.png>)
 
 Fig. 2.2 Diencephalon, basal ganglia and limbic system
 
@@ -383,7 +383,7 @@ If whatever is new to experience is more likely to be present in the right hemis
 
 This coexists with and is confirmed by a hierarchy of attention at any one moment in time, which also establishes the right hemisphere, not the left, as predominant for attention. Global attention, courtesy of the right hemisphere, comes first, not just in time, but takes precedence in our sense of what it is we are attending to; it therefore guides the left hemisphere's local attention, rather than the other way about. As an illustration, we would normally see the images below as an H (composed of Es) and a 4 (composed of 8s).
 
-![рис-007.png|454](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-007.png>)
+![рис-007.png|454](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-007--6c9325109959a65d.png>)
 
 The exception to this is in schizophrenia, where the right-hemispheredependent ability to see the whole at once is lost; then the figure becomes just a mass of Es and 8s. One of the crucial differences in schizophrenia – and in schizotypy – lies in the mode of attention, whereby the whole is built up from the parts. However, the attentional hierarchy can also be inverted in certain circumstances in normal individuals. When there is a high probability that what we are looking for lies at the local level, our window of attention narrows, in order to optimise performance at this level, ‘thus reversing the natural tendency to favour the global aspect’.
 
@@ -399,7 +399,7 @@ This is despite the fact that there is nothing at all wrong with the primary vis
 
 There is a curious phenomenon of ‘stickiness’ about the attention exhibited by the left hemisphere, which is related to its relative inflexibility referred to above. Following right-hemisphere damage, the right hemifield seems to exert a magnetic attraction. Patients find their gaze pulled, despite themselves, towards the right. And it has even been suggested that the phenomenon of attentional hemineglect is not so much a matter of disregarding the left side of space, as of being captured by the right side of space, and unable to let go. The left hemisphere has difficulty disengaging; and this seems to be precisely because, instead of familiarity causing it to disattend, it causes it to attend all the more. Patients start off by being attracted towards items on the right, but then become stuck to them, because instead of causing inhibition (negative feedback), as would normally be the case, repeated or familiar stimuli on the right side cause facilitation (positive feedback). A patient of mine who had had a right-hemisphere stroke following rupture of an arteriovenous malformation in his temporoparietal region would become fixated by inanimate objects in his right hemifield: if there was a door hinge to his right, for example, he would find himself waylaid by it as he tried to pass through the doorway, and get ‘stuck’ inspecting it for protracted periods, unless actively disengaged by one of his carers.
 
-![рис-008.png|408](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-008.png>)
+![рис-008.png|408](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-008--9f0a98075f5d209b.png>)
 
 Fig. 2.3 Templates copied by patients with neglect (© 2008 by Nigel J. T. Thomas)
 
@@ -413,7 +413,7 @@ But that does not quite complete the picture. There is a further highly signific
 
 I have mentioned that the link between the right hemisphere and holistic or Gestalt perception is one of the most reliable and durable of the generalisations about hemisphere differences, and that it follows from the differences in the nature ofattention.
 
-![рис-009.png|337](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-009.png>)
+![рис-009.png|337](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-009--c10ef5c1dfef7d71.png>)
 
 Fig. 2.4 Emergence of the Gestalt
 
@@ -425,11 +425,11 @@ Split-brain subjects have a complete inability to relate the shape or structure 
 
 But this second test is hardly much of a test of the capacity to generate a sense of the whole. A test of the capacity to generate a sense of the whole would be, precisely, to have a sense of what it would be like in modalities other than those in front of one – to be able to tell from the feel of something what it would look like, never having seen it; or to be able to select by touch alone an object that had been seen – the capacity which the left hemisphere lacks.
 
-![рис-010.png|576](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-010.png>)
+![рис-010.png|576](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-010--aaadb5df7970697b.png>)
 
 Fig. 2.5 Split-brain subjects and sense of the whole (Gazzaniga & Le Doux, 1978)
 
-![рис-011.png|577](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-011.png>)
+![рис-011.png|577](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-011--f0e8059e6fd3bae3.png>)
 
 Fig. 2.6 Right hemisphere damage and loss of the sense of the whole (Hécaen & Ajuriaguerra, 1952)
 
@@ -439,7 +439,7 @@ The drawings of those with left-hemisphere damage, by contrast, relying on their
 
 It is the same with perception, as with execution. For example, a patient with right-hemisphere damage described by Hécaen and de Ajuriaguerra was unable to recognise a drawing of a house, until he saw that whatever it was had a chimney. The whole was inscrutable, but the part gave it away.
 
-![рис-012.png|573](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-012.png>)
+![рис-012.png|573](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-012--ea269ce96f1451ff.png>)
 
 Fig. 2.7 Hemisphere difference and the whole (Nikolaenko, 2001)
 
@@ -740,19 +740,19 @@ Drawings of buildings, in individuals with an inactivated right hemisphere, may 
 
 A patient studied by Gazzaniga and LeDoux, who underwent a commissurotomy, could draw a cube normally with either hand prior to the operation, but following the procedure could draw only a poor diagram with his favoured right hand, though the left hand was able to draw a 3dimensional construct of a cube (see Figure 2.11).
 
-![рис-013.png|277](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-013.png>)
+![рис-013.png|277](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-013--e39b8b4ed73d58fc.png>)
 
 Fig. 2.8 Hemisphere differences and abstraction (Nikolaenko, 1997)
 
-![рис-014.png|338](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-014.png>)
+![рис-014.png|338](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-014--e9aeb0a8ade07761.png>)
 
 Fig. 2.9 Hemisphere differences and visual depth (Nikolaenko, 1997)
 
-![рис-015.png|537](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-015.png>)
+![рис-015.png|537](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-015--308bbce63025473c.png>)
 
 Fig. 2.10 Hemisphere differences: what we see v. what we know (Nikolaenko, 1997)
 
-![рис-016.png|489](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-016.png>)
+![рис-016.png|489](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-016--bc247372867c0ff9.png>)
 
 Fig. 2.11 Cube drawing before and after commissurotomy (Gazzaniga & Le Doux, 1978)
 
@@ -770,7 +770,7 @@ This may be linked to a phenomenon known as confabulation, where the brain, not 
 
 The fact is that this habit is far from harmless: it leads the left hemisphere to make poor inferences and some mistaken choices. In one experiment by Gazzaniga's colleagues, split-brain subjects (JW & VP) were asked to guess which colour, red or green, was going to be displayed next, in a series where there were obviously (four times) more green than red. Instead of spotting that the way to get the highest score is to choose green every time (the right hemisphere's strategy), leading to a score of 80 per cent, the left hemisphere chose green at random, but about four times more often than red, producing a score of little better than chance. The problem here, as subsequent research has illuminated, is that the left hemisphere develops a rule – a rule that is, however, wrong.
 
-![рис-017.png|398](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-017.png>)
+![рис-017.png|398](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-017--305ae6fe2d632ff9.png>)
 
 Fig. 2.12 Duck-rabbit (Popular Science Monthly, 1899)
 
@@ -778,7 +778,7 @@ In a similar, earlier experiment in normal subjects, researchers found that, not
 
 So the left hemisphere needs certainty and needs to be right. The right hemisphere makes it possible to hold several ambiguous possibilities in suspension together without premature closure on one outcome. The right prefrontal cortex is essential for dealing with incomplete information and has a critical role to play in reasoning about incompletely specified situations. The right hemisphere is able to maintain ambiguous mental representations in the face of a tendency to premature over-interpretation by the left hemisphere. The right hemisphere's tolerance of uncertainty is implied everywhere in its subtle ability to use metaphor, irony and humour, all of which depend on not prematurely resolving ambiguities. So, of course, does poetry, which relies on right-hemisphere language capacities. During ambiguous stimulation of perceptual rivalry (the phenomenon of an ambiguous figure that can be seen in one way or another, but not both simultaneously, such as the duck–rabbit above or the Necker cube opposite ) right frontal cortex is more active.
 
-![рис-018.png|232](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-018.png>)
+![рис-018.png|232](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-018--cc02bdaf4c06eee1.png>)
 
 Fig. 2.13 Necker cube
 
@@ -1202,7 +1202,7 @@ One way of putting this is to say that we neither discover an objective reality
 
 "Right were not granted to include this illustration in electronic media. Flease refer to print putl icat ion.11
 
-![рис-019.jpg|300](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-019.jpg>)
+![рис-019.jpg|300](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-019--5a64994dbe7ffd18.jpg>)
 
 Fig. 4.1 Drawing Hands, by M. C. Escher
 
@@ -1418,7 +1418,7 @@ Scheler also held that values form a hierarchy. Of course one may or may not ag
 
 "Right were mot granted to Include this Illustration In electronic media. Please refer to print publication."
 
-![рис-020.png|566](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-020.png>)
+![рис-020.png|566](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-020--f0c81561d42483f4.png>)
 
 Fig. 4.2 Pyramid of values according to Scheler
 
@@ -1509,7 +1509,7 @@ The different ontological status of the two hemispheres impinges on the meaning 
 
 "Right were mot granted to Include this Illustration In electronic media. Please refer to print publication."
 
-![рис-021.png|600](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-021.png>)
+![рис-021.png|600](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-021--f5309c6257b6a987.png>)
 
 Fig. 4.3 Creation of Man, by Michelangelo, fresco, 1511-12 (Vatican Museums and Galleries/Bridgeman Art Library)
 
@@ -2596,7 +2596,7 @@ That said, it might well look as if the Renaissance was the next great insurgenc
 
 "Right were mot granted to Include this Illustration In electronic media. Please refer to print publication."
 
-![рис-022.png|566](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-022.png>)
+![рис-022.png|566](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-022--6d1f9f1ef66404f2.png>)
 
 Fig. 9.1 Bishop blessing annual fair, from mediaeval pontifical vellum (Bibliothèque Nationale, Paris, Lat 962 f.264/Bridgeman Art Library)
 
@@ -2606,7 +2606,7 @@ In the first part of this book I have referred to the fact that depth relies pri
 
 "Right were mot granted to Include this Illustration In electronic media. Please refer to print publication."
 
-![рис-023.jpg|550](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-023.jpg>)
+![рис-023.jpg|550](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-023--958db79abf22778f.jpg>)
 
 Fig. 9.2 Ideal City, by Luciano Laurana, oil on panel, after 1470 (Galleria Nazionale delle Marche, Urbino/Bridgeman Art Library)
 
@@ -2807,7 +2807,7 @@ Remember that, for the left hemisphere, space is not something lived, experience
 
 "Right were mot granted to Include this Illustration In electronic media. Please refer to print publication."
 
-![рис-024.png|566](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-024.png>)
+![рис-024.png|566](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-024--08807d8f0e60194b.png>)
 
 Fig. 9.3 Sermon in the Hall of the Reformed Community of Stein near Nuremberg, attrib. Lorenz Strauch, c. 1620
 
@@ -3059,7 +3059,7 @@ The destruction of the sacerdotal power of the Church was a goal of the French R
 
 "Right were mot granted to Include this Illustration In electronic media. Please refer to print publication."
 
-![рис-025.png|566](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-025.png>)
+![рис-025.png|566](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-025--91933d68ffbcc4a4.png>)
 
 Fig. 10.1 Matière à reflection pour les jongleurs couronnèes, by Villeneuve, 1793
 
@@ -3190,13 +3190,13 @@ In the chapter on the Renaissance I emphasised the broader and deeper perspectiv
 
 "Right were mot granted to Include this Illustration In electronic media. Please refer to print publication."
 
-![рис-026.png|566](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-026.png>)
+![рис-026.png|566](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-026--0346602df2bcd5d0.png>)
 
 Fig. 11.1 The Coliseum, by Antonio Lafréri, c. 1550 (Metropolitan Museum of Art)
 
 "Right were not granted to include this illustration In electronic media. Please refer to print publication."
 
-![рис-027.png|566](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-027.png>)
+![рис-027.png|566](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-027--d02a868f5f1ff6c8.png>)
 
 Fig. 11.2 The Coliseum, by Louis Ducros, late 18th century (private collection/© Agnew's, London/Bridgeman Art Library)
 
@@ -3645,7 +3645,7 @@ Steiner's mot, that ‘originality is antithetical to novelty’ (see p. 375 abo
 
 "Right were mot granted to Include this Illustration In electronic media. Please refer to print publication."
 
-![рис-028.png|566](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-028.png>)
+![рис-028.png|566](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-028--82edc10af0590ce1.png>)
 
 Fig. 12.1 Turin Spring, by Giorgio de Chirico, oil on canvas, 1914 (private collection/Peter Willi/Bridgeman Art Library/© DACS 2009)
 
@@ -3665,7 +3665,7 @@ of the position of his body ‘parts’ if he can see them), a sense of the body
 
 "Right were mot granted to Include this Illustration In electronic media. Please refer to print publication."
 
-![рис-029.png|557](<The Master and His Emissary The Divided Brain and the Making of the Western World/рис-029.png>)
+![рис-029.png|557](<../attachments/the-master-and-his-emissary-the-divided-brain-and-the-making-of-t--%D1%80%D0%B8%D1%81-029--f20384e8b58af671.png>)
 
 Fig. 12.2 Woman in a Red Armchair, by Pablo Picasso, oil on canvas, 1932 (Musée Picasso, Paris/Giraudon/Bridgeman Art Library © Succession Picasso/DACS 2009)
 

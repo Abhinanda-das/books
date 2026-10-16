@@ -90,11 +90,11 @@ The differences between the three Sphere mics are listed in the table below.
 </tbody>
 </table>
 
-![al-sphere-mics.png](Introducing%20UA%20Sphere_assets/a8ea390c0120049fd00b10dd9f2b8d1cd83d7beb.png)
+![al-sphere-mics.png](../../attachments/introducing-ua-sphere_assets--a8ea390c0120049fd00b10dd9f2b8d1cd83d7beb--18967acf5299b9ea.png)
 
 **Note:** The symbols shown on the side of the physical mic, represented below, are also different between the LX (top) and DLX (bottom)
 
-![lx-dlx-mic-side-icons.png](Introducing%20UA%20Sphere_assets/df23d57b085db37a3ba1e90653a72c8750f6f401.png)
+![lx-dlx-mic-side-icons.png](../../attachments/introducing-ua-sphere_assets--df23d57b085db37a3ba1e90653a72c8750f6f401--80e02d10e973353c.png)
 
 # Sphere plug-ins
 

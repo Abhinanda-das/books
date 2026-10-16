@@ -199,7 +199,7 @@ Speaking of balance, in life in general and in love relationships as well, we ne
 
 Let us now examine four categories of love by utilizing a pattern I have devised to better understand the phenomenon.
 
-![рис-001.jpg|534](<From Eros to Love/рис-001.jpg>)
+![рис-001.jpg|534](<../attachments/from-eros-to-love--%D1%80%D0%B8%D1%81-001--2abc19c82457908c.jpg>)
 
 The first category is passionate love, mainly consisting in physical attraction for another person, together with a strong emotional interaction. Passionate love is thus a mixture of physical and emotional factors, where emotions are strongly connected with the body and with a series of biologic and physiologic phenomena; in the ensuing relationship between two person who share this level of love, emotions and the physical component will have a primary role, creating a number of perception - smells, tastes, colours, actions and thoughts that will have specific characteristics according to the mixture of tamas and rajas guna. Tamas is lethargy, heaviness, dullness, sleep, dirtiness, oblivion, mental confusion. Tamas requires and favours a lack of consciousness, a diminished power of intellect. On the other hand rajas is movement, intensity, burning and acute desire, all connected to the attainment of a result, generally within the purview of prakriti or matter, so when rajas dominates we will have elation, tension, anxiety, action, impulsiveness. Therefore rajas and tamas are respectively inertia and action, darkness on one side, and blinding lightning, sleep and elation on the other side: this combination is the foundation of passional love, where one needs to obscure the intellect and silence the voice of reason, while instincts prevail. Passion is indicated, defined and perceived like a river in spate, murky and warm. Tamas has “anaesthetized” the intellect and thus one continues to do things that rationally he wouldn’t do, and that overwhelm him.
 
@@ -449,7 +449,7 @@ The coverings (koshas) are all those layers that have solidified over the self, 
 
 The grossest and most external layer is called annamaya, or the energy of food, corresponding to the physical body that is formed by consuming food. Next to it, is the vital and energetic covering that supports the body, called pranamaya kosha. In turn, this energy covering is supported by manomaya kosha, the mind covering.
 
-![рис-002.jpg|500](<From Eros to Love/рис-002.jpg>)
+![рис-002.jpg|500](<../attachments/from-eros-to-love--%D1%80%D0%B8%D1%81-002--745f9dbf94899cb0.jpg>)
 
 By modifying our mind attitude the energetic body or prana is modified; by modifying this, the constitution of the body is modified, as well as the health of organs, tissues, and systems.
 

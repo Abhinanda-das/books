@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1976"
 ---
 
-![обложка|156](<1976 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1976-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--bb7d625ccdc4a455.jpeg>)
 
 # 1976 Correspondence
 

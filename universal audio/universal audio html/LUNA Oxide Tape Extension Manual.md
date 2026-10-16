@@ -23,7 +23,7 @@ Oxide provides all of a magnetic tape recorder’s desirable analog sweetness. A
 
 The main point to understand about Oxide operation is that the Saturation control adjusts the signal level recorded to tape, and is therefore a color parameter. As with hardware tape recorders, lower VU levels result in a cleaner, warmer sound with more headroom, while increasing VU levels results in more tape saturation, compression, and bite.
 
-![oxide-machine.png](LUNA%20Oxide%20Tape%20Extension%20Manual_assets/51bcdabbfc6e36a004222d397019fc7b92fd8038.png)
+![oxide-machine.png](../../attachments/luna-oxide-tape-extension-manual_assets--51bcdabbfc6e36a004222d397019fc7b92fd8038--f97411f5c4ead06c.png)
 
 #### Oxide Tape machine
 
@@ -33,7 +33,7 @@ The main point to understand about Oxide operation is that the Saturation contro
 
 <div collection="contentId-212402511" context-id="212402511" file-mime-type="image/png" file-name="oxide-track.png" file-size="45977" data-height="226" data-id="fd207d23-0192-436a-b493-34566d49a769" node-type="media" data-type="file" data-width="108" title="Attachment">
 
-![oxide-track.png](LUNA%20Oxide%20Tape%20Extension%20Manual_assets/aa6b775adc789ac1d73dde9f9930f0b0bd9d1284.png)
+![oxide-track.png](../../attachments/luna-oxide-tape-extension-manual_assets--aa6b775adc789ac1d73dde9f9930f0b0bd9d1284--7194678fbb5ef914.png)
 
 </div>
 
@@ -53,7 +53,7 @@ Oxide Tape includes a global bypass control for the tape machine that applies fo
 
 1.  On an audio or instrument track in Mixer view, or on a Focus track in Timeline view, click the Tape slot. The Tape browser opens.\
     \
-    ![oxide-machine-browser.png](LUNA%20Oxide%20Tape%20Extension%20Manual_assets/f0094f6186e172a155a1de471ebef87133978969.png)
+    ![oxide-machine-browser.png](../../attachments/luna-oxide-tape-extension-manual_assets--f0094f6186e172a155a1de471ebef87133978969--27c794ba0a57a8ef.png)
 
 2.  <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Double-click a tape slot (A-D) in which you want to configure the tape machine.</span>
 

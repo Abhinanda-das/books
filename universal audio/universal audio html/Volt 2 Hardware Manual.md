@@ -10,11 +10,11 @@ word_count: 2513
 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo-2x.png](Volt%202%20Hardware%20Manual_assets/b2e07d9f98bd482d78e2f34150c53b0aec7da872.png)
+![volt-logo-2x.png](../../attachments/volt-2-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--4fb6a20d538ce35f.png)
 </figure>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-2-photo.png](Volt%202%20Hardware%20Manual_assets/2d8fbc3d5804fa16acea2448ae30b904581e427e.png)
+![volt-2-photo.png](../../attachments/volt-2-hardware-manual_assets--2d8fbc3d5804fa16acea2448ae30b904581e427e--9cd9812c316470ba.png)
 </figure>
 
 This article contains complete instructions for Volt 2 hardware controls and connections.
@@ -55,7 +55,7 @@ At UA, we're dedicated to the idea that technology should serve the creative pro
 Please feel free to reach out to us via our website [www.uaudio.com](https://www.uaudio.com) and our social media channels. We look forward to hearing from you, and thank you once again for choosing Universal Audio.
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](Volt%202%20Hardware%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/volt-2-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--345c343a7c031a39.png)
 </figure>
 
 Bill Putnam, Jr.
@@ -116,7 +116,7 @@ Use this diagram to identify the features on the Volt front panel.
 
 </div>
 
-![volt-2-front-callouts.png](Volt%202%20Hardware%20Manual_assets/1e564b9d66a6aba66c5eb0c13a93d6e7bb281fd2.png)
+![volt-2-front-callouts.png](../../attachments/volt-2-hardware-manual_assets--1e564b9d66a6aba66c5eb0c13a93d6e7bb281fd2--cfae43a1d16a39d7.png)
 
 ### (1) XLR/TRS Combo Inputs 
 
@@ -221,7 +221,7 @@ Use this diagram to identify the features on the Volt rear panel.
 
 </div>
 
-![volt-2-rear-callouts.png](Volt%202%20Hardware%20Manual_assets/fbc0fc2534bc67f6274a1e06eb09e786a9e8576e.png)
+![volt-2-rear-callouts.png](../../attachments/volt-2-hardware-manual_assets--fbc0fc2534bc67f6274a1e06eb09e786a9e8576e--c28f7bfb18dc3e8a.png)
 
 ### (12) Monitor Outputs
 

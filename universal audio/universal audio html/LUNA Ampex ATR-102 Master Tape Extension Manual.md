@@ -78,7 +78,7 @@ The primary purpose of the Ampex ATR-102 Master Tape LUNA Extension is to obtain
 
 <div class="wysiwyg-text-align-center" collection="contentId-583401479" context-id="583401479" file-mime-type="image/png" file-name="master-tape-action.png" file-size="234147" data-height="1226" data-id="305e9244-c306-4fad-b839-9f876a107858" node-type="media" data-type="file" data-width="576" title="Attachment">
 
-![master-tape-action.png](LUNA%20Ampex%20ATR-102%20Master%20Tape%20Extension%20Manual_assets/5fc0a20e8b3e63758cf638a1155f65fe572ae7d3.png)
+![master-tape-action.png](../../attachments/luna-ampex-atr-102-master-tape-extension-manual_assets--5fc0a20e8b3e63758cf638a1155f65fe572ae7d3--6f584a0d7379ad3b.png)
 
 </div>
 
@@ -132,7 +132,7 @@ You can add Ampex ATR-102 to a Bus track or the Main track. You can configure ea
 
 1.  Click the Master Tape insert on a bus track or the Main track, and select the ATR-102.
 
-     ![atr-102-select.png](LUNA%20Ampex%20ATR-102%20Master%20Tape%20Extension%20Manual_assets/b09713c295a2f2546c5f289175960cb921d7b82e.png)
+     ![atr-102-select.png](../../attachments/luna-ampex-atr-102-master-tape-extension-manual_assets--b09713c295a2f2546c5f289175960cb921d7b82e--30edb05271a86ad9.png)
 
      
 
@@ -142,7 +142,7 @@ You can add Ampex ATR-102 to a Bus track or the Main track. You can configure ea
 
 <div class="wysiwyg-text-align-center" collection="contentId-583401479" context-id="583401479" file-mime-type="image/png" file-name="uliPYx2D3AW9sO9vFpSoKTkM0MpnPpn5mIvcCM3wJcp_RcW5HpBcY4NOAg55hcq8HAMaGKM773x-Dzx_euBJFMtX2OgQqx2qEzm4K_TWswzMNRrv6qh5D13LYYh5MEoVhcadpYdj" file-size="79615" data-height="470" data-id="aa7926b5-0a89-4ebc-a6a9-ca2ba61a6b94" node-type="media" data-type="file" data-width="970" title="Attachment">
 
-![atr-102-closed.png](LUNA%20Ampex%20ATR-102%20Master%20Tape%20Extension%20Manual_assets/cf2c9768d221b69326747e34f3b80ac87bf689ef.png)
+![atr-102-closed.png](../../attachments/luna-ampex-atr-102-master-tape-extension-manual_assets--cf2c9768d221b69326747e34f3b80ac87bf689ef--bf93f38142073e2a.png)
 
 </div>
 
@@ -164,7 +164,7 @@ In the Master Tape slot, you can configure the most important features: tape for
 
 <div class="wysiwyg-text-align-center" collection="contentId-583401479" context-id="583401479" file-mime-type="image/png" file-name="AGPqOniAqFVvZGwoWncQVx2Isg1R0VklFmZqZIlJp03K1hM99aSuYmM0hfj5Of5W1duBwPUOxyHLG8cHb9ylyC5xxCYeKkl279dqhacOUwsoKNNu5W_Q__5BqcGysA_s9W3cgqoE" file-size="595157" data-height="1010" data-id="3342ff75-1036-4891-a327-3e2e676202c3" node-type="media" data-type="file" data-width="1286" title="Attachment">
 
-![atr-102-closed.png](LUNA%20Ampex%20ATR-102%20Master%20Tape%20Extension%20Manual_assets/cf2c9768d221b69326747e34f3b80ac87bf689ef.png)
+![atr-102-closed.png](../../attachments/luna-ampex-atr-102-master-tape-extension-manual_assets--cf2c9768d221b69326747e34f3b80ac87bf689ef--bf93f38142073e2a.png)
 
 </div>
 
@@ -176,7 +176,7 @@ In the Master Tape slot, you can configure the most important features: tape for
 
 1.  Hover over the Master Tape insert on a track, and click the box to open the Master Tape Deck.
 
-     ![master-tape-hover-options.png](LUNA%20Ampex%20ATR-102%20Master%20Tape%20Extension%20Manual_assets/66db8e70873a6316fb537806e3303ef47e539e29.png)
+     ![master-tape-hover-options.png](../../attachments/luna-ampex-atr-102-master-tape-extension-manual_assets--66db8e70873a6316fb537806e3303ef47e539e29--259fe6160736cdfe.png)
 
      
 
@@ -212,7 +212,7 @@ The Ampex ATR-102 Master Tape LUNA Extension can be configured as either a pre-f
 
  
 
-![master-tape-hover-options.png](LUNA%20Ampex%20ATR-102%20Master%20Tape%20Extension%20Manual_assets/66db8e70873a6316fb537806e3303ef47e539e29.png) 
+![master-tape-hover-options.png](../../attachments/luna-ampex-atr-102-master-tape-extension-manual_assets--66db8e70873a6316fb537806e3303ef47e539e29--259fe6160736cdfe.png) 
 
 <div layout="center" node-type="mediaSingle" data-width="">
 
@@ -228,7 +228,7 @@ You can also switch between the pre and post fader tape deck location by clickin
 
 <div class="wysiwyg-text-align-center" collection="contentId-583401479" context-id="583401479" file-mime-type="image/png" file-name="aM5sOpMespnQTn6MJMU7VMB0j3iX5qEotGTPYNEc4kbulzMhCHcudoBsystdPQJgW8cXfPDxkjps14mQyde7a0DmBcWBRPgkWdwa2QrQBlm7rcWIDIu9jJGy6K1DQ8sLl9WWJa08" file-size="207019" data-height="546" data-id="097419c4-2d1b-4127-b331-c608e53da2cd" node-type="media" data-type="file" data-width="924" title="Attachment">
 
-![atr-102-pre-post-fader.png](LUNA%20Ampex%20ATR-102%20Master%20Tape%20Extension%20Manual_assets/018fa515e6caf4589db01c23573beb3507e8c9d8.png)
+![atr-102-pre-post-fader.png](../../attachments/luna-ampex-atr-102-master-tape-extension-manual_assets--018fa515e6caf4589db01c23573beb3507e8c9d8--67f83998a4797ccf.png)
 
 </div>
 
@@ -246,7 +246,7 @@ The graphical interface panel has two modes; Open and Closed. In Closed mode, th
 
 ## Primary Controls
 
-![atr-102-closed.png](LUNA%20Ampex%20ATR-102%20Master%20Tape%20Extension%20Manual_assets/cf2c9768d221b69326747e34f3b80ac87bf689ef.png)
+![atr-102-closed.png](../../attachments/luna-ampex-atr-102-master-tape-extension-manual_assets--cf2c9768d221b69326747e34f3b80ac87bf689ef--bf93f38142073e2a.png)
 
 ### Meters
 
@@ -292,7 +292,7 @@ Link adjusts the Record and Reproduce levels reciprocally, so as you turn one up
 
 The secondary controls are accessed by clicking the button marked with a **^** beneath the AMPEX label. Conversely, the panel is closed by clicking this button again.
 
-![atr-102-open.png](LUNA%20Ampex%20ATR-102%20Master%20Tape%20Extension%20Manual_assets/c7ce873a05e960696e173b4fb371849fc49f8d79.png)
+![atr-102-open.png](../../attachments/luna-ampex-atr-102-master-tape-extension-manual_assets--c7ce873a05e960696e173b4fb371849fc49f8d79--8b7acbb903489ab4.png)
 
 ### Emphasis EQ
 

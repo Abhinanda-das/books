@@ -55,19 +55,19 @@ When developing the Pultec EQ Collection, UA commissioned some of the biggest na
 
 **Note:** Presets created with the Legacy plug-ins are incompatible with the equivalent newer model plug-ins.
 
-![pultec-eqp-1a.png](a88cd550eca8266d35b81024df3db327b4f8042d.png)
+![pultec-eqp-1a.png](../../attachments/pultec-passive-eq-collection-manual_assets--a88cd550eca8266d35b81024df3db327b4f8042d--ab2d63099839da54.png)
 
 *Pultec EQP-1A*
 
-![pultec-meq-5.png](d1e70e23751f961e1807d601aa23de2686a4a5d6.png)
+![pultec-meq-5.png](../../attachments/pultec-passive-eq-collection-manual_assets--d1e70e23751f961e1807d601aa23de2686a4a5d6--47f3379c12a5c021.png)
 
 *Pultec MEQ-5*
 
-![pultec-hlf-3c.png](b73eb1024201a28554248cd43c4154ce55604110.png)
+![pultec-hlf-3c.png](../../attachments/pultec-passive-eq-collection-manual_assets--b73eb1024201a28554248cd43c4154ce55604110--099e38dbbb5c90b5.png)
 
 *Pultec HLF-3C*
 
-![pultec-pro-legacy.png](6408bd2950d8f1a7b5ea61f1b66b89abdce1d241.png)
+![pultec-pro-legacy.png](../../attachments/pultec-passive-eq-collection-manual_assets--6408bd2950d8f1a7b5ea61f1b66b89abdce1d241--0c6161cae7033059.png)
 
 *Pultec-Pro Legacy, which includes EQP-1A and MEQ-5*
 
@@ -133,7 +133,7 @@ The first group adjusts the low frequencies and has three controls: boost, atten
 
 The placement and grouping of the sections and their related controls are shown below.
 
-![pultec-eqp-1a-sections.png](770259f968ec4452f643223c271510552a16e98b.png)
+![pultec-eqp-1a-sections.png](../../attachments/pultec-passive-eq-collection-manual_assets--770259f968ec4452f643223c271510552a16e98b--e2fdf5cd120d9dc6.png)
 
 *Control grouping within the Pultec EQP-1A*
 
@@ -147,7 +147,7 @@ The function of this control differs between the newer EQP-1A and the Legacy ver
 
 ### Pultec EQP-1A
 
-![eqp-1a-power.png](64691ca3897d1caa26749ca8774ea507f3e3a1b7.png)
+![eqp-1a-power.png](../../attachments/pultec-passive-eq-collection-manual_assets--64691ca3897d1caa26749ca8774ea507f3e3a1b7--55b7317c4f799830.png)
 
 This dual purpose knob is an output gain control, and the plug-in bypass control. The available output gain range is ±12 dB.
 
@@ -157,7 +157,7 @@ Rotate the control fully counter-clockwise to disable plug-in processing and red
 
 ### Pultec EQP-1A Legacy
 
-![eqp-1a-legacy-power.png](49936265909e74d84f35d69c166e8a4ea81d91b1.png)
+![eqp-1a-legacy-power.png](../../attachments/pultec-passive-eq-collection-manual_assets--49936265909e74d84f35d69c166e8a4ea81d91b1--fd0ad971fd0276bc.png)
 
 \
 This is the plug-in bypass control. The knob can be used to compare the processed settings to that of the original signal, or to disable the plug-in to reduce UAD DSP load (DSP load is not reduced if UAD-2 DSP LoadLock is enabled).
@@ -220,7 +220,7 @@ The MEQ-5 can control three frequency bands simultaneously, using three groups o
 
 The first group adjusts the low-mid frequencies and has two controls: frequency select and boost. The second group adjusts the mid frequencies and has two controls: frequency select and attenuation. The third group adjusts high-mids and has two controls: frequency select and boost. The placement and grouping of the sections and their related controls are shown below.
 
-![pultec-meq-5-sections.png](e51e808404a1c0de972cfb6c3d088e4b36966a9f.png)
+![pultec-meq-5-sections.png](../../attachments/pultec-passive-eq-collection-manual_assets--e51e808404a1c0de972cfb6c3d088e4b36966a9f--ad577145078bf1f2.png)
 
 *Control grouping within the Pultec MEQ-5*
 
@@ -311,7 +311,7 @@ This rotary switch specifies the cutoff frequency of the high cut filter. Eleven
 
 In 1951, Pulse Techniques introduced the first passive Program Equalizer, the EQP-1. The passive EQ filter designs were originally licensed from Western Electric. Founders Ollie Summerland and Gene Shenk made up the Teaneck, New Jersey operation of Pultec. These two men comprised the engineering, marketing, sales and production staff for the entire history of the company, and made every item to order, all by hand. With the EQP-1A, Pultec improved the original design with tube amplification to overcome the typical insertion loss of passive equalizers. The EQP family of EQs would see many iterations, but the fundamental design would be Pultec's flagship product until the company's closure in the early 80s.
 
-![he Pultec Passive EQ Collection original hardware](828fa4edeaa8349a4fdb4d8df689f006aad4b7ed.png)
+![he Pultec Passive EQ Collection original hardware](../../attachments/pultec-passive-eq-collection-manual_assets--828fa4edeaa8349a4fdb4d8df689f006aad4b7ed--66cb5a441cfa5475.png)
 
 *The Pultec Passive EQ Collection original hardware*
 

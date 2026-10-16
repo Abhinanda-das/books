@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/tkel-tp12"
 ---
 
-![обложка|156](<True Purpose 12 Strategies for Discovering the Difference You Are Meant to Make/обложка.jpeg>)
+![обложка|156](<../attachments/true-purpose-12-strategies-for-discovering-the-difference-you-are--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--2a1c70dcd9910169.jpeg>)
 
 Do you feel that there is something significant you're meant to do? Do you long to have more impact? In True Purpose, you will discover 12 proven methods to find the unique, individual purpose that is authentically you. Your purpose isn't a single, vague "purpose statement"; it is a precise and detailed map for living a deeply fulfilling, powerful and passionate life. Through practical exercises and inspiring examples, Tim guides you to uncover the deepest truth of who you are. Let your path unfold and lead you to a life of fulfillment, success and meaning!
 

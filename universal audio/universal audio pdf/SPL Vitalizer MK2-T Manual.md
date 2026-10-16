@@ -233,7 +233,7 @@ _**Vitalizer[®]**_
 Use the ACTIVE function to turn the Vitalizer on and off. The Vitalizer is on when the ACTIVE switch is on. The POWER switch is always on and has no effect on the plug-in. When you open the plug-in, the ACTIVE switch blinks for a couple of seconds before remaining permanently on. This is meant to indicate the tube warming phase which takes place on the original hardware. The main purpose of the ACTIVE function is to allow A/B comparisons between processed and unprocessed signals. We recommend to make such comparisons regularly. The risk of overprocessing is higher in comparison to common processors given that the Vitalizer sounds very pleasant. A/B comparisons are therefore indispensable to avoid exaggerations. Furthermore, we also recommend the use of reference recordings. 
 
 
-![](<SPL Vitalizer MK2-T Manual_assets/SPL_Vitalizer_MK2-T_Manual.pdf-0011-03.png>)
+![](<../../attachments/spl-vitalizer-mk2-t-manual_assets--spl_vitalizer_mk2-t_manual.pdf-0011-03--022e006b67b2a0bb.png>)
 
 
 ## **Drive** 
@@ -251,7 +251,7 @@ _**Vitalizer[®]**_
 With the BASS control you can emphasize two different sound colors in the low end. When set to the center position the signal is not processed. If you turn the BASS control to the left you will achieve a warmer and softer sound; referred to as SOFT. This roundness is symbolized on the left side of the control by circles that increase in size as you turn further left. If you turn the BASS control to the right you will achieve a drier and more percussive sound; referred to as TIGHT. This tightness is symbolized on the right side of the control by squares that increase in size as you turn further right. The BASS control is directly related to the PROCESS control. The latter determines the amount of processed BASS signal mixed with the original signal. As a consequence, you can obtain plenty of completely distinct sounds: a high BASS setting with a low PROCESS setting results in a totally different sound than a low BASS setting with a high PROCESS setting. You need only two controls to enjoy a vast array of sound possibilities; all of which can be listened to and set in no time. 
 
 
-![](<SPL Vitalizer MK2-T Manual_assets/SPL_Vitalizer_MK2-T_Manual.pdf-0012-03.png>)
+![](<../../attachments/spl-vitalizer-mk2-t-manual_assets--spl_vitalizer_mk2-t_manual.pdf-0012-03--146022831297a901.png>)
 
 
 ## **Compression** 

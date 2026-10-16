@@ -11,7 +11,7 @@ word_count: 4981
 
 Apollo Monitor Correction by Sonarworks® brings seamless realtime SoundID Reference integration to Apollo X Gen 1 and Gen 2 interfaces. Harness Apollo Monitor Correction to apply custom profiles to your reference headphones or studio monitors to correct your room's acoustics. Your calibration profiles run in realtime on Apollo's DSP using studio-grade precision filters and alignment delays for stereo or multi-channel speaker systems. <a href="https://www.sonarworks.com/soundid-reference/integrations/ua-apollo-x" rel="noopener noreferrer" target="_blank">Learn more at sonarworks.com</a>.
 
-![amc-7-1.png](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/284c585d094b7ade1ace65955094e07261899006.png)
+![amc-7-1.png](../../attachments/apollo-monitor-correction-by-sonarworks_assets--284c585d094b7ade1ace65955094e07261899006--ce8159fbbac07a9c.png)
 
 ## Contents
 
@@ -276,7 +276,7 @@ SoundID Reference standalone processing does not have the same realtime advantag
 
 **Tip:** Standalone device outputs don't have the integrated hardware link icon 🔗.
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/c02878893c98aad682f04377f0d7189f31e9ec66.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--c02878893c98aad682f04377f0d7189f31e9ec66--ddd3402929885fd0.png)
 
 *Don't enable SoundID standalone calibration when using* *\
 Apollo Monitor Correction (causes double processing)*
@@ -287,11 +287,11 @@ When a SoundID Reference standalone preset is enabled, you see the green "Calibr
 
 **Tip:** All standalone output devices can be removed from SoundID Reference without impacting Apollo Monitor Correction.
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/7da714ec1cdf2826237e69ec0c7892029efc137d.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--7da714ec1cdf2826237e69ec0c7892029efc137d--2f5f5c34c8aae3ff.png)
 
 If you enable a native SoundID Reference audio output, a warning dialog appears that explains how to prevent double processing. If you see this dialog, either disable calibration in SoundID Reference, or disable Apollo Monitor Correction in UAD Console. 
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/10f1d0ab02e0f442779688bc204ca4150ba05fd0.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--10f1d0ab02e0f442779688bc204ca4150ba05fd0--ac69f468cf4fa299.png)
 
 ### Differences between Apollo Monitor Correction and SoundID Reference software
 
@@ -371,7 +371,7 @@ Apollo Monitor Correction, Sonarworks SoundID standalone (native CPU) and the So
 
 Apollo Monitor Correction requires both a Sonarworks SoundID Reference license and the Apollo Monitor Correction Add-on license. When you open Monitor Correction windows in UAD Console, you are reminded to start a trial or obtain licenses if you do not have them.
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/b9adb16bd86bbefebb518fe79018dff69d62a6b4.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--b9adb16bd86bbefebb518fe79018dff69d62a6b4--b8348f1af570bcb4.png)
 
 ## Purchasing licenses
 
@@ -388,7 +388,7 @@ There are two scenarios for Apollo Monitor Correction licensing.
 1.  Log in to your <a href="https://www.sonarworks.com" rel="noopener noreferrer" target="_blank">Sonarworks account</a>. If you don't have an account, you can create one there. 
 2.  Hover over My Account, then click Licenses & Devices.
 3.  Click Register a new license.\
-    ![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/8703a7d31bebabdefe39a1573c261ddbc3d42c19.png)
+    ![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--8703a7d31bebabdefe39a1573c261ddbc3d42c19--57f2d110e22103da.png)
 4.  Type or paste the license for the SoundID Reference or Apollo Monitor Correction Add-on license, and click Register. 
 5.  When the license appears on your license page, click Activate on this device. 
 
@@ -406,13 +406,13 @@ You will perform this procedure for each license (SoundID Reference and the Apol
 
 Apollo Monitor Correction controls appear in the Monitor Column in UAD Console, and in the Monitor Controller window (for Main Monitor correction). To show or hide Apollo Monitor Correction controls, choose View \> Section \> Monitor Correction from the menus in UAD Console. 
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/2ab29bdac9f5176c146768729afface19083202e.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--2ab29bdac9f5176c146768729afface19083202e--83612e7ed21c6f90.png)
 
 *Show/Hide Monitor Correction options in UAD Console*
 
 |  |  |
 |:--:|:--:|
-| ![amc-7-1.png](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/284c585d094b7ade1ace65955094e07261899006.png) | ![monitor-correction-no-amc.png](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/b0c73af16ad59b780ab65a51e7e4f48cbce8cc86.png) |
+| ![amc-7-1.png](../../attachments/apollo-monitor-correction-by-sonarworks_assets--284c585d094b7ade1ace65955094e07261899006--ce8159fbbac07a9c.png) | ![monitor-correction-no-amc.png](../../attachments/apollo-monitor-correction-by-sonarworks_assets--b0c73af16ad59b780ab65a51e7e4f48cbce8cc86--2c4aec3d648fba03.png) |
 
 *Monitor Correction shown (left) and not shown (right)* *\
 in UAD Console's Monitor Controller wIndow*
@@ -431,11 +431,11 @@ Apollo Monitor Correction allows you to correct audio from your headphones, spea
 
 1.  In UAD Console, in the Monitor Column, click Main Mon under Monitor Correction. The Monitor Controller window opens.\
     \
-    ![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/ef384f341c93a830c18376bbf33efd3d3e9fabac.png)  ![amc-7-1.png](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/284c585d094b7ade1ace65955094e07261899006.png)
+    ![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--ef384f341c93a830c18376bbf33efd3d3e9fabac--3c97b60fe6b8c9e1.png)  ![amc-7-1.png](../../attachments/apollo-monitor-correction-by-sonarworks_assets--284c585d094b7ade1ace65955094e07261899006--ce8159fbbac07a9c.png)
 2.  Click OPEN SoundID. The SoundID Reference app opens. 
 3.  Under the name of your Apollo X monitor unit on the left side of the SoundID Reference window, **Speakers** should be selected.\
     \
-    ![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/882dfb09a1e27d78a689d2c2c73f4d6728fde533.png)
+    ![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--882dfb09a1e27d78a689d2c2c73f4d6728fde533--a317a34064fce750.png)
 4.  Click Select your calibration profile to select a profile from the drop menu. Any calibration profiles you have created appear in this list. 
 5.  Select a calibration profile. (If you haven't defined a speaker calibration profile yet, see [Create a speaker calibration profile](#h_01JCESVHAB6D4KRP2B5P8ZM6YN).)
 6.  Configure your calibration target mode and settings. See <a href="https://support.sonarworks.com/hc/en-us/articles/4411891303442-Calibration-target-modes" rel="noopener noreferrer" target="_blank">Calibration target modes</a> for information. 
@@ -458,7 +458,7 @@ Headphone calibration is applied only to headphone outputs on the Apollo X monit
 
 1.  In UAD Console, in the Monitor Column, click Headphones under Monitor Correction. The Headphone Correction window opens.\
     \
-    ![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/0e9a381b1568a622e4acd538ad4ca81355a762c3.png)  **![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/9439faac8a40d79f6576c6471e432487939a60da.png)**
+    ![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--0e9a381b1568a622e4acd538ad4ca81355a762c3--d48c302478201097.png)  **![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--9439faac8a40d79f6576c6471e432487939a60da--c60ed81e3f36ebb2.png)**
 2.  Under Calibration Profile, click Open SoundID.
 3.  Under the name of your Apollo monitor unit on the left side of the SoundID Reference window, **Headphones 1** should be selected.
 4.  Click Select your calibration profile to select a profile. 
@@ -538,11 +538,11 @@ The Monitor Correction and Headphone Correction buttons are located in the UAD C
 
 You can open Apollo Monitor Correction windows with the buttons in the Monitor Column for HEADPHONES and MAIN MON.  
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/d57e83bb910182d658dbf13e288dd599014ce839.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--d57e83bb910182d658dbf13e288dd599014ce839--c164ee68b19abacd.png)
 
 You can toggle bypass of the Main Monitor corrections by hovering your mouse over the Main Mon button and clicking the IN button. When bypassed, the Main Mon button is dimmed and its label is italicized.
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/90c671c617ccb7aacde3bfaf3e40e61ac6e88bec.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--90c671c617ccb7aacde3bfaf3e40e61ac6e88bec--1e0645b9452c2b66.png)
 
 ## Monitor Correction windows
 
@@ -556,13 +556,13 @@ The Headphone Correction window includes two tabs for HP1 and HP2 if the monitor
 
 ### Main Monitor Controller panel
 
-![amc-7-1.png](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/284c585d094b7ade1ace65955094e07261899006.png)
+![amc-7-1.png](../../attachments/apollo-monitor-correction-by-sonarworks_assets--284c585d094b7ade1ace65955094e07261899006--ce8159fbbac07a9c.png)
 
 The Main Monitor Calibration profile area shows the calibration profile name and an image of the corrections that are applied by the profile. 
 
 ### Headphone Correction panel
 
-**![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/9439faac8a40d79f6576c6471e432487939a60da.png)**
+**![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--9439faac8a40d79f6576c6471e432487939a60da--c60ed81e3f36ebb2.png)**
 
 The Headphone Calibration profile area shows the calibration profile name and an image of the corrections that are applied by the profile. Click the HP1 or HP2 tabs to show the calibration profiles for the two headphone outputs. On an Apollo desktop model, only HP1 appears. 
 
@@ -578,7 +578,7 @@ Click to toggle the main monitor or headphone corrections. There is a slight pau
 
 ## Safe Headroom
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/220149612e35ab6551e69626772e031764a98f60.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--220149612e35ab6551e69626772e031764a98f60--c475dd995c6c045e.png)
 
 Click to enable Safe Headroom. The feature is enabled when the switch is lit. Safe Headroom prevents digital clipping in the frequencies that are boosted by the SoundID Reference profile. The Safe Headroom value is calculated from the maximum peak EQ level applied by a profile, and reduces the output level by this amount (indicated on the Safe Headroom button) when enabled. 
 
@@ -586,7 +586,7 @@ Enabling Safe Headroom can cause very large reductions in output level if calibr
 
 ## Bypass
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/b5cd59b7e492320da7bab86dde56c9c073d7fa40.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--b5cd59b7e492320da7bab86dde56c9c073d7fa40--0e9edd49967a0f0a.png)
 
 Click this switch to toggle speaker or headphone correction without disabling the features. This is a soft bypass that has minimal audio artifacts (DSP remains active), so you can quickly alternate between corrected and uncorrected audio. 
 
@@ -627,13 +627,13 @@ You can access the SoundID Reference system menu from the macOS menu bar or the 
 
 If you can't adjust target mode calibration controls in the SoundID Reference app, enable calibration from this menu. (Calibration controls are enabled when the menu says "Disable calibration').
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/984552463e5492e5576d91376be83b04bc2542ff.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--984552463e5492e5576d91376be83b04bc2542ff--559409a9cd534b11.png)
 
  
 
 When using Apollo Monitor Correction, don't enable SoundID Reference standalone processing. You can see if a SoundID Reference standalone output is enabled in this menu. 
 
-![](Apollo%20Monitor%20Correction%20by%20Sonarworks_assets/ee5d3d8dbf2d6fb5e74cb62e042a727de5e962c2.png)
+![](../../attachments/apollo-monitor-correction-by-sonarworks_assets--ee5d3d8dbf2d6fb5e74cb62e042a727de5e962c2--4c7b51b4d8a3c043.png)
 
  
 

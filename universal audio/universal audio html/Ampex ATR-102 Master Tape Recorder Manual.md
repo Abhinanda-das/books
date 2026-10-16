@@ -49,7 +49,7 @@ Ignite your inspiration with presets from longtime ATR‑102 users Chuck Ainlay 
 
 # Operational Overview
 
-![atr-102.png](Ampex%20ATR-102%20Master%20Tape%20Recorder%20Manual_assets/eaa63b3aae97cdf361f0c9809ecc6f8fe71e9f8a.png)
+![atr-102.png](../../attachments/ampex-atr-102-master-tape-recorder-manual_assets--eaa63b3aae97cdf361f0c9809ecc6f8fe71e9f8a--700e20d5b7968fd2.png)
 
 ## Famous Tape Sound
 
@@ -117,7 +117,7 @@ The graphical interface panel has two modes; Open and Closed. In Closed mode, th
 
  
 
-![ampex-atr-102-open.png](Ampex%20ATR-102%20Master%20Tape%20Recorder%20Manual_assets/4a52d17238c416cc48c5ada8c1ff96ae48324e56.png)
+![ampex-atr-102-open.png](../../attachments/ampex-atr-102-master-tape-recorder-manual_assets--4a52d17238c416cc48c5ada8c1ff96ae48324e56--2bc00028610842bb.png)
 
 ## History
 
@@ -127,13 +127,13 @@ Introduced in 1976, the Ampex ATR-102 2-Track Tape Recorder was a near-instant h
 
 # Primary Controls
 
-![atr-102.png](Ampex%20ATR-102%20Master%20Tape%20Recorder%20Manual_assets/eaa63b3aae97cdf361f0c9809ecc6f8fe71e9f8a.png)
+![atr-102.png](../../attachments/ampex-atr-102-master-tape-recorder-manual_assets--eaa63b3aae97cdf361f0c9809ecc6f8fe71e9f8a--700e20d5b7968fd2.png)
 
 ## Meters
 
 The two Meters display signal levels of the plug-in for the left and right channels. Meter ballistics of the original hardware are modeled.
 
-![atr-102-meters.png](Ampex%20ATR-102%20Master%20Tape%20Recorder%20Manual_assets/37c547494eaf448c21c5412c2a761783e7311966.png)
+![atr-102-meters.png](../../attachments/ampex-atr-102-master-tape-recorder-manual_assets--37c547494eaf448c21c5412c2a761783e7311966--844d7e4bf19e8569.png)
 
 The plug-in operates at an internal level of -12 dBFS. Therefore a digital signal with a level of -12 dB below full scale digital (0 dBFS) at the plug-in input will equate to 0 dB on the Meters when Reproduce is in its calibrated position, which is marked with the "red arrow sticker."
 
@@ -332,7 +332,7 @@ Thru is a processor bypass control. When Thru is enabled, all controls are inact
 
 # Secondary Controls
 
-![atr-102-open-detail.png](Ampex%20ATR-102%20Master%20Tape%20Recorder%20Manual_assets/83f8c6e520c8ff171214996d9b6ab1ee08805032.png)
+![atr-102-open-detail.png](../../attachments/ampex-atr-102-master-tape-recorder-manual_assets--83f8c6e520c8ff171214996d9b6ab1ee08805032--3b3b255b0862a011.png)
 
 The secondary controls view is toggled by clicking the Open button beneath the AMPEX label.
 

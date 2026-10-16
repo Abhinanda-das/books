@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg5"
 ---
 
-![обложка|156](<Back to Godhead Magazine #05, January 1, 1967/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-05-january-1-1967--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--574c21a8b5cc634c.jpeg>)
 
 # Back to Godhead Magazine #05, January 1, 1967
 

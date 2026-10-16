@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bt-ts-bs"
 ---
 
-![обложка|156](<Tattva-Sūtras. Commentary by Śrīla Bhaktivinoda Ṭhākura [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/tattva-s%C5%ABtras.-commentary-by-%C5%9Br%C4%ABla-bhaktivinoda-%E1%B9%ADh%C4%81kura-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--af2757f47f7d0680.jpeg>)
 
 # Tattva-Sūtras. Commentary by Śrīla Bhaktivinoda Ṭhākura \[BS\]
 

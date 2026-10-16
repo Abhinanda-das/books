@@ -7,7 +7,7 @@ word_count: 2466
 ---
 
 
-![](<Tube-Tech CL 1B Manual_assets/Tube-Tech_CL_1B_Manual.pdf-0001-00.png>)
+![](<../../attachments/tube-tech-cl-1b-manual_assets--tube-tech_cl_1b_manual.pdf-0001-00--201b0e2741833368.png>)
 
 
 # **User Manual Tube-Tech CL 1B** 
@@ -15,7 +15,7 @@ word_count: 2466
 Rev. Feb 19, 2015 
 
 
-![](<Tube-Tech CL 1B Manual_assets/Tube-Tech_CL_1B_Manual.pdf-0002-00.png>)
+![](<../../attachments/tube-tech-cl-1b-manual_assets--tube-tech_cl_1b_manual.pdf-0002-00--d29b6cf4250dd2fb.png>)
 
 
 ## **Softube User Manual** 
@@ -75,13 +75,13 @@ Softube plug-ins are “what you see is what you get” products. You should be 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Tube-Tech CL 1B Manual_assets/Tube-Tech_CL_1B_Manual.pdf-0005-06.png>)
+![](<../../attachments/tube-tech-cl-1b-manual_assets--tube-tech_cl_1b_manual.pdf-0005-06--8e5cd399903ff3a3.png>)
 
 
 ## **Menu Row** 
 
 
-![](<Tube-Tech CL 1B Manual_assets/Tube-Tech_CL_1B_Manual.pdf-0005-08.png>)
+![](<../../attachments/tube-tech-cl-1b-manual_assets--tube-tech_cl_1b_manual.pdf-0005-08--7fed80e6e689e7ea.png>)
 
 
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Dyna-mite plug-in as example, but the same goes for all plug-ins. 
@@ -97,7 +97,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Tube-Tech CL 1B Manual_assets/Tube-Tech_CL_1B_Manual.pdf-0005-15.png>)
+![](<../../attachments/tube-tech-cl-1b-manual_assets--tube-tech_cl_1b_manual.pdf-0005-15--35aa94859a2f94cb.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -105,7 +105,7 @@ Enable Setup<br>**----- End of picture text -----**<br>
 
 
 
-![](<Tube-Tech CL 1B Manual_assets/Tube-Tech_CL_1B_Manual.pdf-0005-16.png>)
+![](<../../attachments/tube-tech-cl-1b-manual_assets--tube-tech_cl_1b_manual.pdf-0005-16--fdc18e8432645283.png>)
 
 
 **6** | USER INTERFACE 
@@ -179,7 +179,7 @@ _Yours sincerely,_
 _John G. Petersen President, Lydkraft/Tube-Tech_ 
 
 
-![](<Tube-Tech CL 1B Manual_assets/Tube-Tech_CL_1B_Manual.pdf-0007-11.png>)
+![](<../../attachments/tube-tech-cl-1b-manual_assets--tube-tech_cl_1b_manual.pdf-0007-11--ebd11fef59b77185.png>)
 
 
 ## **About the CL 1B** 
@@ -191,7 +191,7 @@ Another thing that is special about the CL 1B is the **Attack/Release Select** s
 **8** | TUBE-TECH CL 1B COMPRESSOR 
 
 
-![](<Tube-Tech CL 1B Manual_assets/Tube-Tech_CL_1B_Manual.pdf-0008-01.png>)
+![](<../../attachments/tube-tech-cl-1b-manual_assets--tube-tech_cl_1b_manual.pdf-0008-01--080dfe4e30eb45d0.png>)
 
 
 **----- Start of picture text -----**<br>

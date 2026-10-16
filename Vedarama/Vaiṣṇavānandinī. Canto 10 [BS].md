@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bv-va10-bs"
 ---
 
-![обложка|156](<Vaiṣṇavānandinī. Canto 10 [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/vai%E1%B9%A3%E1%B9%87av%C4%81nandin%C4%AB.-canto-10-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--148ae4c622fced68.jpeg>)
 
 Commentary of Srimad Bhagavatam Srila Baladeva Vidyabhusana, Translated By HH Bhanu Swami
 

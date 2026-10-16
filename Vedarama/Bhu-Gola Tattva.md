@@ -47,69 +47,69 @@ The ancient Vedic classic \[dated at two million years old\] known as the Ramaya
 
 Similarly, Krishna-Dwaipayana Vyasa’s epic Mahabharata contains extensive cosmographical information in the Sabha -parva and especially within the Bhisma-parva. Indeed, it is in this book that the detailed account of our globe called Sudarsana or Bharata-khanda is written.
 
-![рис-001.jpg|687](<Bhu-Gola Tattva/рис-001.jpg>)
+![рис-001.jpg|687](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-001--9a4efd71fe0e5909.jpg>)
 
 Plate 1: There are fourteen worlds, seven islands and seven oceans. (Page 14) (See also the close-up below right)
 
-![рис-002.jpg|470](<Bhu-Gola Tattva/рис-002.jpg>)
+![рис-002.jpg|470](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-002--e04e4a58e1c7b0b2.jpg>)
 
 Plate 2: This information was collected and collated by the great Sri Tiruvengada Ramanuja Jeeyar Swami with authoritative quotations taken from Smrtis, Itihasas, Puranas and the theories \[Siddhantas\] of Vyasa, Brahma and Surya etc. (Page 13)
 
-![рис-003.jpg|335](<Bhu-Gola Tattva/рис-003.jpg>)
+![рис-003.jpg|335](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-003--2c458d2d32793b04.jpg>)
 
 Plate 3: The other celestial bodies are located above the Sun and below the pole-star viz. Dhruva. Each one of them is a luminous body and in each one of them, there are Vimanas (domes), Mantapas, Forts, Cities and so on. (Page 23)
 
-![рис-004.jpg|313](<Bhu-Gola Tattva/рис-004.jpg>)
+![рис-004.jpg|313](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-004--a826d208dec4a9b4.jpg>)
 
 Plate 4: The Rahumandala is in between Guru and Sani and is invisible. This Rahu is a planet in the form of shadow. Hence, he utilizes the shadows of the Sun and the Moon. With equal power he utilizes the shadows of the both and creates Solar and Lunar eclipses. (Page 25)
 
-![рис-005.jpg|670](<Bhu-Gola Tattva/рис-005.jpg>)
+![рис-005.jpg|670](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-005--25b586d11fa217a4.jpg>)
 
 Plate 5: This Bharatakhanda is called Sudarshanadvipa, since it looks beautiful to the eyes of the onlookers. Being circular, it looks like the disc of the Lord and it is attached to the cyclic time in the form of a disc presided over by the God Sudarshana. It is in the form of a globe since all the four corners of this Bharatakhanda are rounded like the bael fruit. The nature of this Sudarshanadvipa or Bharatavarsa is viewed from the moon. Half of this earth of Bharatavarsa appears like the rabbit and a small pipal-leaf, the otherhalf appears in the form of a big pipal, and they are surrounded by all varieties of vegetation. (Page 15)
 
-![рис-006.jpg|666](<Bhu-Gola Tattva/рис-006.jpg>)
+![рис-006.jpg|666](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-006--aadc352efbfa276e.jpg>)
 
 Plate 6: The chariot of the sun:The cycle/circle of time in which the Sun is the center (naval), daily goes around the mountain Manasottara, every day starting from the western direction (clockwise). The stars and planets in that cycle, based on their axis, rotate according to their own measurements in the eastern direction (anticlockwise). (Page 21)
 
-![рис-007.jpg|348](<Bhu-Gola Tattva/рис-007.jpg>)
+![рис-007.jpg|348](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-007--696084da8be573c1.jpg>)
 
 Plate 7: The Puranas tell us that the hollow of the Brahmanda measures exactly fifty crore yojanas. (Page 39)
 
-![рис-008.jpg|285](<Bhu-Gola Tattva/рис-008.jpg>)
+![рис-008.jpg|285](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-008--86b187262964859b.jpg>)
 
 Plate 8: The golden Meru Mountain is one lakh yojanas high. It is surrounded by the nine Khandas (Varsas of Jambu dvipa). It is the abode of Siddhas (souls who have attained a high degree of perfection). (Page 45)
 
-![рис-009.jpg|255](<Bhu-Gola Tattva/рис-009.jpg>)
+![рис-009.jpg|255](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-009--bdf936cb9d3cbe33.jpg>)
 
 Plate 9: It should be thus construed because it is said in the texts that each of the nine Khandas of Jambudvipa is 9,(XX) yojanas in width. Symmetry is thus maintained. (Page 49)
 
-![рис-010.jpg|612](<Bhu-Gola Tattva/рис-010.jpg>)
+![рис-010.jpg|612](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-010--8f0c9e746b642796.jpg>)
 
 Plate 10: The Kala Cakra or Jyotiscakra is comparable to a huge chariot; and it is motivated by Sri Hari in His Simsumara form. Day after day, it moves with great velocity, having the Meru Mountain at the centre. (Page 56)
 
-![рис-011.jpg|623](<Bhu-Gola Tattva/рис-011.jpg>)
+![рис-011.jpg|623](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-011--015764fbf27c7ffc.jpg>)
 
 Plate 11: The moon’s motion being much slower than that of the sun, it remains far behind the sun every day; and by its quick retrogression every constellation is covered just in 2 1/2 days. (Page 58).
 
-![рис-012.jpg|618](<Bhu-Gola Tattva/рис-012.jpg>)
+![рис-012.jpg|618](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-012--586fe3d72276cde9.jpg>)
 
 Plate 12: If Rahu also takes position at similar longitudes, then an eclipse takes place. What is known as ‘Pancagraha yoga’ also happens under similar conditions (Five planets ranged towards a common constellation). (Page 60)
 
-![рис-013.jpg|635](<Bhu-Gola Tattva/рис-013.jpg>)
+![рис-013.jpg|635](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-013--5d7d13dab36aeb26.jpg>)
 
 Plate 13: A drawing of Bharata Khanda commissioned by a recent Madhva Vaisnava scholar, V. Badarayana Murthy. (Page 6)
 
-![рис-014.jpg|667](<Bhu-Gola Tattva/рис-014.jpg>)
+![рис-014.jpg|667](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-014--9667a94867071185.jpg>)
 
 Plate 14: On account of the terraced formation of the seven islands, Puskara dvipa is the lowest; and therefore the setting point and the rising point of the sun are at lower levels in comparison with the location of our part of the earth. (Page 61)
 
-![рис-015.jpg|653](<Bhu-Gola Tattva/рис-015.jpg>)
+![рис-015.jpg|653](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-015--910a83bda4d02306.jpg>)
 
 Two diagrams commissioned by His Holiness Vijnananidhi Swami (Madhva Scholar and Founder of National Institute of Vedic Science).
 
 Plate 15 (above): Cakrabjamandala—commissioned by His Holiness Vijnananidhi Swami (Madhva Scholar and Founder of National Institute of Vedic Science). (Page 56)
 
-![рис-016.jpg|661](<Bhu-Gola Tattva/рис-016.jpg>)
+![рис-016.jpg|661](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-016--aec4f4f990c79bda.jpg>)
 
 Plate 16: The universe. Vijnananidhi Swami: “From this world to go to the higher world, the practices, what are the things that you have to do, and what are the principles or dharma that you must follow—all these things are told in Bhagavatam. Therefore Bhagavatam is supposed to be the king of all Puranas." (Page 56)
 
@@ -308,11 +308,11 @@ The Primordial Matter is unlimited. In this, God has created innumerable and inf
 
 **Verse 1:**
 
-![рис-017.jpg|505](<Bhu-Gola Tattva/рис-017.jpg>)
+![рис-017.jpg|505](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-017--56a458418da5cc3a.jpg>)
 
 **The surface of the earth is 50 crore yojanas. It is like this Jambu Dwipa is 100,000 yojanas wide encircled by an ocean of equal width compared to the salt ocean and it is encircled by the sugarcane juice ocean of the same width. The next islands and oceans are both twice wider than the ocean.**
 
-![рис-018.jpg|516](<Bhu-Gola Tattva/рис-018.jpg>)
+![рис-018.jpg|516](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-018--afbd5e923613dc7f.jpg>)
 
 Commentary: The thickness of the shell of the Brahmanda is one crore yojanas. The cavity within the shell is 50 crore yojanas both from top to bottom and from side to side. The seven worlds—Bhu, bhuvah, suvah, Mahah, janah, Tapah and satya are situated there. The earth is 50 crore yojanas wide. The break-up is like this: Jam-buDwipa is 100,000 yojanas wide, there are nine varshas there. They are: Bharata, Kimjpurasha, Harivarsha, Ilavrta, Ramyaka, Hiranvat, Kuru, Bharadvarsha and Ketumala. The outstanding mountains of these varshas are Himavan, Hemakuta, Nishada, Nila, Shveta, Srhga, and Himavan, Hemakuta, Nishadha lie to the south of Meru: Nila, Shveta and Srhga lie to north of Meru: Malya-van is to the east and Gandhamadana to the west of Meru. The six mountains excepting Malyavan and Gandhamadana are 2,000 yojanas high and 2,000 yojanas wide. The first mentioned six mountains stretch from east to west of them Nila and Nishadha are 100,000 yojanas long, Hemakuta and Shveta are 90,000 yojanas long and Himavan and Srhga are 80,000 yojanas long and Himavan and Srhga are 80,000 yojanas long. This difference in length is because Jambu Dwipa is circular. Malyavan Gandhamadana stretch from Nila to Nishadha and are 24,000 yojanas high. Among the varshas, Bharata, Kimpursha and Hari-varsha lie to the south of Meru, Ramyaka Hiranvat and Kuru lie to the north of Bhadrashva lies to the east and Ketumala lies to the west of Meru. Ilavrta is at the centre. Meru is situated at the centre of Ilavrata. It is 84,000 yojanas high and 16,000 yojanas part has gone into the earth at the bottom in Ilavrta. Ilavrta-varsha is a square of 34,000 yojanas side. It lies between Nila and Nishadha. The other six varshas are 9000 yojanas wide each. This is from north to south. Bhadrashava-varsha stretches from east to West. The distance between Malyan and the ocean is 32,000 yojanas. The stretch from Nila to Nishadha measures 34,000 yojanas. Similarly, the distance between Gandhamadana and the ocean (on the left side) is 32,000 yojanas. The stretch (of Ketumala) from Nila to Nishadha measures 34,000 yojanas. The other six varshas are earth 9,000 yojanas wide. This is from south to north considering from east to west, all the six varshas touch the ocean at both sides. This is their east-west stretch.
 
@@ -320,7 +320,7 @@ Thus, Jambudwipa, Bhadrashva and Ketumala together account for 64,000 yojanas. I
 
 **Verse 2:**
 
-![рис-019.jpg|500](<Bhu-Gola Tattva/рис-019.jpg>)
+![рис-019.jpg|500](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-019--92a9404763b2ca45.jpg>)
 
 **The Island Jambu, Plaksha, Shalmali, Kusha, Krauncha Shaka and Puskara are encircled by the salt ocean, sugarcane juice ocean, wine ocean, ghee ocean, yogurt ocean, milk ocean and the pure water ocean respectively.**
 
@@ -330,7 +330,7 @@ Like this, the total width of the seven islands and the seven oceans becomes 507
 
 **Verse 3:**
 
-![рис-020.jpg|515](<Bhu-Gola Tattva/рис-020.jpg>)
+![рис-020.jpg|515](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-020--663e0aa7d53aad95.jpg>)
 
 *saptadvipam sasindhu dvigunatavitataya svarnabhumya paritam*
 
@@ -356,7 +356,7 @@ Like this, the cavity within the Brahmanda measures 50 crore yojanas on all side
 
 **Verse 4:**
 
-![рис-021.jpg|494](<Bhu-Gola Tattva/рис-021.jpg>)
+![рис-021.jpg|494](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-021--cf06acdabd4d300e.jpg>)
 
 *saptadvipam samudraih saha muniniyataih kotibhih panchab-hih syat*  
 *lokalokadi meruvantaramapi ravibhih kotibhih saptashashtya*  
@@ -367,7 +367,7 @@ Like this, the cavity within the Brahmanda measures 50 crore yojanas on all side
 
 **Verse 5:**
 
-![рис-022.jpg|516](<Bhu-Gola Tattva/рис-022.jpg>)
+![рис-022.jpg|516](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-022--80e0090997828d40.jpg>)
 
 *sharanetrakotibhih bhuparidhijalam banavahni-lakshaih*  
 *syat/abhito merorevam panchashatkotiyojana bhumih !!*
@@ -378,7 +378,7 @@ This has been stated in accordance with Bhagavata where it is stated that the di
 
 **Verses 6 & 7:**
 
-![рис-023.jpg|523](<Bhu-Gola Tattva/рис-023.jpg>)
+![рис-023.jpg|523](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-023--fc1dab5161b02359.jpg>)
 
 **The disc of the sun is 100,000 yojanas above the earth. The earth itself is 70,000 yojanas high. Thus, the remaining nether worlds should be placed below the earth. That Surya is situated one lakh yojanas above the earth is already stated. This is called Bhuvarloka Chandra and is situated one lakh yojanas above Chandra. Budha is two lakh yojanas above the star belt. Sukra is two lakh yojanas above Budha. Kuja is situated two lakh yojanas above Budha. Brhaspati is situated two lakh yojanas above Budha. Shani is situated two lakh yojanas above Brhaspati. The seven sages (the great bear) are situated one lakh yojanas above the sun’s disc until Dhruvaloka. This is called svarloka, the total height of which is 14 lakh yojanas.**
 
@@ -480,7 +480,7 @@ At the top, the mountain has a width of 32,000 yojanas. It is round at the top a
 
 There, the Gandharva chiefs, the prominent ones among the Sid-dhas, sages like Vasista and gods headed by Indra worship Brahma seated on the throne of gems. At the edges of the Meru top there are eight cities of the directional gods, one in each of the eight directions. The Meru mountain supports them all.
 
-![рис-024.jpg|346](<Bhu-Gola Tattva/рис-024.jpg>)
+![рис-024.jpg|346](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-024--22e92683f73121d2.jpg>)
 
 **THE RIVER GANGA (164-171)**
 
@@ -490,7 +490,7 @@ River Ganga pours down constantly in the open courtyard of Brahma’s palace suc
 
 This Khanda (Varsa) spreads around the Meru base which measures 8,000 yojanas from its centre, in every direction. There are four supporting mountains on each of the four sides around the base. These mountains are each 2,000 yojanas wide and 10,000 yojanas high. Beyond these mountains there is a stretch of 5,000 yojanas, and this makes up the 9,000 yojanas from the Meru base. The four supporting mountains are Mandara, Merumandara, Kumuda and Suparsva, in the four directions commencing from the east.
 
-![рис-025.jpg|334](<Bhu-Gola Tattva/рис-025.jpg>)
+![рис-025.jpg|334](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-025--e2c781ffc73395e7.jpg>)
 
 There are four gigantic trees on the four mountains - Cuta (mango), Jambu (rose apple tree), Plaksa (Indian fig) and Nyagrodha (banyan) respectively. Each of these trees is 100 yojanas high and the spread of the branches is to the extent of 1100 yojanas. The fruits of the trees resemble- mountain peaks. The ripe jambu fruits of the tree upon Merumandara (south) drop down and the juice flows as the Jambu river. The juice spreading on its banks, when dried up, becomes the finest gold which is known as ‘Jambunada’. The divine beings, who visit this region, drink the juice and make different kinds of ornaments for themselves out of ‘Jambunada’ (gold).
 
@@ -528,7 +528,7 @@ The Jambudvipa is vast containing as it does the nine varsas. Having the golden 
 
 **THE OTHER SIX ISLANDS (230-241)**
 
-![рис-026.jpg|495](<Bhu-Gola Tattva/рис-026.jpg>)
+![рис-026.jpg|495](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-026--aaf6484be7f3c149.jpg>)
 
 Surrounding the Lavana Samudra there is the ‘Plaksa’ island (which is so called because it abounds with Plaksa trees - Indian fig trees of gigantic size). It is double the width of the ocean of brackish waters (two lakh yojanas). Of similar width is the Tksu Samudra’ (ocean of waters with the taste of sugarcane juice) around Plaksadvipa. It is populated by Siddhas (the highly qualified souls). Around it is the Salmala dvipa, four lakh yojanas in width and the ‘Sura Samudra’ (of wine-like waters), of the same width,, spreads around it. After that is ‘Kusadvipa’ (where Kusa grass clusters grow very very tall like blazing pillars), it has double the width of “Salmala dvipa.” It is surrounded by ‘Sarpi Samudra’ (ocean of waters with the qualities of ghee) having the same width. Then we have ‘Krauncha dvipa’ (which derives its name from the mountain of the same name). This island and the ‘Dadhi Samudra’ (with waters of yogurt quality) have double the widths of their inner complements. Each of these is 16 lakh yojanas wide. The next is ‘Saka dvipa’ surrounded by ‘Ksira Samudra,’ (ocean of milk-like waters), each 32 lakh yojanas in width. The last of the seven islands is ‘Puskara dvipa’ (island of huge lotus flowers of gold), 64 lakh yojanas wide. It is surrounded by the ocean of pure waters - ‘Subhodaka Samudra,’ having the same width. The entire earth is surrounded by the land of gold - ‘Hema bhumi,’ along with the adjoining land of diamond - ‘ Vajralepa’. The Lokaloka mountain goes round the whole stretch of earth described so far. The limit of the earth is marked by this mountain ring. In this way the earth spreads round the Meru centre on all sides and it is there to provide all the needs of living beings including the divine class, the sages, the manes, the sovereigns as well as human beings. This earth provides happy conditions to one and all. The presiding goddess, ‘Bhudevi’ is most dear to Lord Sri Narayana. The earth is plentiful with all kinds of plant life and holy forests, crowded with the hermitages of ‘munis’ (sages). Rivers with holy waters are also there. Mother earth keeps the living beings happy and contented.
 
@@ -542,7 +542,7 @@ The wheels of the ‘Kala Cakra’ are twelve —nine for the nine Planets, one 
 
 Since the mechanism helps the counting of time divisions, it is known as ‘Kala Cakra’. The ‘Vamana sukta’ speaks of ‘Dvadasara’ and  ‘Pancara’ only for the said reason. This Kala Cakra extends over crores of yojanas in the wide, wide sky. Above the Meru mountain, the Supreme Lord, in the form of ‘Simsumara’ (the scorpion form) stands to a height of 36 lakh yojanas, with his pretty face turned downward and his tail end held up to touch the ‘Dhruva Mandala” (Pole star orbit). The body of this form is ringed in the middle and the tail part goes up. The brilliance of this form of Lord Simsumara is much more than that of a thousand suns. It is He who makes the Time Wheel to go round and round as if it is a part of Himself. The main shaft-like powerline has its starting point atop the Meru mountain and extends outward to the extent of crores of yojanas.
 
-![рис-027.jpg|450](<Bhu-Gola Tattva/рис-027.jpg>)
+![рис-027.jpg|450](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-027--a5d6b4fa42ee7479.jpg>)
 
 **THE MAIN WHEEL (DHARA) OF KALA CAKRA (257-265)**
 
@@ -878,7 +878,7 @@ By Vamsi dasa (Chebrolu Venkata) Bachelors Tech (Electrical Engineering) & Maste
 
 Srimad Bhagavatam and Surya Siddhanta both mention different time scales of the order of day of the human beings to the order of day of Brahma. It can be observed in the table (next page) where the values have been compared and shown to match with each other.
 
-![рис-028.jpg|850](<Bhu-Gola Tattva/рис-028.jpg>)
+![рис-028.jpg|850](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-028--7632a7a4a6e6f1de.jpg>)
 
 Here is a breakdown of how the analysis was computed for the Manvantara:
 
@@ -940,7 +940,7 @@ Which is equal to the Surya Siddhanta Value of one Manvantara, 1.10419E+11
 
 Srimad Bhagavatam gives the information about how much time duration each planet takes to complete one sign in the zodiac and also for the complete zodiac. It also mentions that for some planets, the values can change depending on whether they move in a crooked way or not. However Surya Siddhanta gives the values in a time scale of Chaturyuga. So the values given in Surya Siddhanta are average values. In the table below it can be observed that both values match approximately with each other.
 
-![рис-029.jpg|794](<Bhu-Gola Tattva/рис-029.jpg>)
+![рис-029.jpg|794](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-029--8c174263d9ad9522.jpg>)
 
 **Cause of planetary motion— Pravaha winds—not gravity**
 
@@ -981,7 +981,7 @@ The following verses from Surya Siddhanta Chapter 1 indicate that Surya Siddhant
 
 60-61. The circumference of the earth multiplied by the RSine of the Co-lattitude of a place (lambajyaa) and divided by the Radius (Trijyaa) yields the corrected circumference of the earth (Sphutab-huuparidhi). The daily motion of a planet (Grahabhukti) multiplied by Deshantara and divided by corrected circumference of the earth (Sphutabhuuparidhi) will yield a result in minutes (Kalaa), which should be subtracted from the mean position of the planet if the place is found to be east of Prime Meridian (Rekha) or added to the mean position of the planet if the place is found to be west of Prime Meridian (Rekha) to give us the mean position of the planet.
 
-![рис-030.jpg|521](<Bhu-Gola Tattva/рис-030.jpg>)
+![рис-030.jpg|521](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-030--1315da71e5b4d9a8.jpg>)
 
 **Text 84 explanation:**
 
@@ -1013,7 +1013,7 @@ Applying the formula that the distance of the planet from the surface of earth =
 
 we get the following distances for the planets from the surface and center of earth. (Table on next page)
 
-![рис-031.jpg|829](<Bhu-Gola Tattva/рис-031.jpg>)
+![рис-031.jpg|829](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-031--c9f61ac13ee08018.jpg>)
 
 **Text 84**
 
@@ -1033,9 +1033,9 @@ we get the following distances for the planets from the surface and center of ea
 *pancavanak-shinagartturasadryarkah sanestatah/*  
 *bhanam ravikha sunyanka vasurandhrasarasvinah//89//*
 
-![рис-032.jpg|512](<Bhu-Gola Tattva/рис-032.jpg>)
+![рис-032.jpg|512](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-032--8bca49c735b1237d.jpg>)
 
-![рис-033.jpg|495](<Bhu-Gola Tattva/рис-033.jpg>)
+![рис-033.jpg|495](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-033--99fc960cf2c2fa35.jpg>)
 
 **Text 90**
 
@@ -1046,145 +1046,145 @@ we get the following distances for the planets from the surface and center of ea
 
 **The orbit (Kaksha) of the cosmic egg (brahmanda) is 18,712,080,864,000,000 yojanas and the sun’s rays pervade this.**
 
-![рис-034.jpg|862](<Bhu-Gola Tattva/рис-034.jpg>)
+![рис-034.jpg|862](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-034--fda1c565db30b27d.jpg>)
 
-![рис-035.jpg|855](<Bhu-Gola Tattva/рис-035.jpg>)
+![рис-035.jpg|855](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-035--e8e2f753101c2187.jpg>)
 
-![рис-036.jpg|851](<Bhu-Gola Tattva/рис-036.jpg>)
+![рис-036.jpg|851](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-036--4ee4f9d1706b5e6f.jpg>)
 
-![рис-037.jpg|854](<Bhu-Gola Tattva/рис-037.jpg>)
+![рис-037.jpg|854](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-037--329f3ab7239f0418.jpg>)
 
-![рис-038.jpg|852](<Bhu-Gola Tattva/рис-038.jpg>)
+![рис-038.jpg|852](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-038--2237455349063e78.jpg>)
 
-![рис-039.jpg|851](<Bhu-Gola Tattva/рис-039.jpg>)
+![рис-039.jpg|851](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-039--bb52a2b31c50de11.jpg>)
 
-![рис-040.jpg|790](<Bhu-Gola Tattva/рис-040.jpg>)
+![рис-040.jpg|790](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-040--d7490b15198e1952.jpg>)
 
-![рис-041.jpg|792](<Bhu-Gola Tattva/рис-041.jpg>)
+![рис-041.jpg|792](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-041--89b8d9dc25cb2e48.jpg>)
 
-![рис-042.jpg|734](<Bhu-Gola Tattva/рис-042.jpg>)
+![рис-042.jpg|734](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-042--f6357d9e570cd9c2.jpg>)
 
-![рис-043.jpg|798](<Bhu-Gola Tattva/рис-043.jpg>)
+![рис-043.jpg|798](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-043--d1ce3a0224c0ea2b.jpg>)
 
-![рис-044.jpg|795](<Bhu-Gola Tattva/рис-044.jpg>)
+![рис-044.jpg|795](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-044--228e0adea7b4ae18.jpg>)
 
-![рис-045.jpg|806](<Bhu-Gola Tattva/рис-045.jpg>)
+![рис-045.jpg|806](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-045--be4838b76fe01ba6.jpg>)
 
-![рис-046.jpg|796](<Bhu-Gola Tattva/рис-046.jpg>)
+![рис-046.jpg|796](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-046--81a5a60dd7d71c01.jpg>)
 
-![рис-047.jpg|801](<Bhu-Gola Tattva/рис-047.jpg>)
+![рис-047.jpg|801](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-047--a09a8db7d42c64c4.jpg>)
 
-![рис-048.jpg|787](<Bhu-Gola Tattva/рис-048.jpg>)
+![рис-048.jpg|787](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-048--2a038384a5679d9b.jpg>)
 
-![рис-049.jpg|790](<Bhu-Gola Tattva/рис-049.jpg>)
+![рис-049.jpg|790](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-049--2da11078c7bc0f91.jpg>)
 
-![рис-050.jpg|813](<Bhu-Gola Tattva/рис-050.jpg>)
+![рис-050.jpg|813](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-050--ef4a90a57498da00.jpg>)
 
-![рис-051.jpg|787](<Bhu-Gola Tattva/рис-051.jpg>)
+![рис-051.jpg|787](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-051--87bdf5714bca6d3f.jpg>)
 
-![рис-052.jpg|786](<Bhu-Gola Tattva/рис-052.jpg>)
+![рис-052.jpg|786](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-052--67def051e7e16393.jpg>)
 
-![рис-053.jpg|785](<Bhu-Gola Tattva/рис-053.jpg>)
+![рис-053.jpg|785](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-053--03a64331630ebf93.jpg>)
 
-![рис-054.jpg|790](<Bhu-Gola Tattva/рис-054.jpg>)
+![рис-054.jpg|790](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-054--0ca6a3b3175df03d.jpg>)
 
-![рис-055.jpg|785](<Bhu-Gola Tattva/рис-055.jpg>)
+![рис-055.jpg|785](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-055--add9597e2a559d1f.jpg>)
 
-![рис-056.jpg|820](<Bhu-Gola Tattva/рис-056.jpg>)
+![рис-056.jpg|820](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-056--52e28e55ba45b8d4.jpg>)
 
-![рис-057.jpg|784](<Bhu-Gola Tattva/рис-057.jpg>)
+![рис-057.jpg|784](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-057--007adc16870a04d7.jpg>)
 
-![рис-058.jpg|790](<Bhu-Gola Tattva/рис-058.jpg>)
+![рис-058.jpg|790](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-058--90f490d4d7f10429.jpg>)
 
-![рис-059.jpg|817](<Bhu-Gola Tattva/рис-059.jpg>)
+![рис-059.jpg|817](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-059--6c806acb6d2e8d50.jpg>)
 
-![рис-060.jpg|848](<Bhu-Gola Tattva/рис-060.jpg>)
+![рис-060.jpg|848](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-060--dfcda7bd0fc090fd.jpg>)
 
-![рис-061.jpg|853](<Bhu-Gola Tattva/рис-061.jpg>)
+![рис-061.jpg|853](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-061--47577d3e68718c78.jpg>)
 
-![рис-062.jpg|852](<Bhu-Gola Tattva/рис-062.jpg>)
+![рис-062.jpg|852](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-062--81a23cfd432912bf.jpg>)
 
-![рис-063.jpg|849](<Bhu-Gola Tattva/рис-063.jpg>)
+![рис-063.jpg|849](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-063--4147864f00480781.jpg>)
 
-![рис-064.jpg|851](<Bhu-Gola Tattva/рис-064.jpg>)
+![рис-064.jpg|851](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-064--33978b6aea89cb8f.jpg>)
 
-![рис-065.jpg|850](<Bhu-Gola Tattva/рис-065.jpg>)
+![рис-065.jpg|850](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-065--4b1f92313b98d8d4.jpg>)
 
-![рис-066.jpg|851](<Bhu-Gola Tattva/рис-066.jpg>)
+![рис-066.jpg|851](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-066--85b0c8eee2372389.jpg>)
 
-![рис-067.jpg|787](<Bhu-Gola Tattva/рис-067.jpg>)
+![рис-067.jpg|787](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-067--c3067bbe2f9c8b97.jpg>)
 
-![рис-068.jpg|788](<Bhu-Gola Tattva/рис-068.jpg>)
+![рис-068.jpg|788](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-068--eea1f012e25dc57f.jpg>)
 
-![рис-069.jpg|783](<Bhu-Gola Tattva/рис-069.jpg>)
+![рис-069.jpg|783](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-069--6269e4ad7259afcd.jpg>)
 
-![рис-070.jpg|788](<Bhu-Gola Tattva/рис-070.jpg>)
+![рис-070.jpg|788](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-070--a6adcc2a13db35be.jpg>)
 
-![рис-071.jpg|788](<Bhu-Gola Tattva/рис-071.jpg>)
+![рис-071.jpg|788](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-071--504de995d1a29a32.jpg>)
 
-![рис-072.jpg|787](<Bhu-Gola Tattva/рис-072.jpg>)
+![рис-072.jpg|787](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-072--8382f49735b89060.jpg>)
 
-![рис-073.jpg|787](<Bhu-Gola Tattva/рис-073.jpg>)
+![рис-073.jpg|787](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-073--95547d76afaeab45.jpg>)
 
-![рис-074.jpg|789](<Bhu-Gola Tattva/рис-074.jpg>)
+![рис-074.jpg|789](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-074--693f9e52e7abaa75.jpg>)
 
-![рис-075.jpg|787](<Bhu-Gola Tattva/рис-075.jpg>)
+![рис-075.jpg|787](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-075--3772167728647151.jpg>)
 
-![рис-076.jpg|785](<Bhu-Gola Tattva/рис-076.jpg>)
+![рис-076.jpg|785](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-076--17e76aea3e642ba7.jpg>)
 
-![рис-077.jpg|844](<Bhu-Gola Tattva/рис-077.jpg>)
+![рис-077.jpg|844](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-077--67c1c63c3326a081.jpg>)
 
-![рис-078.jpg|846](<Bhu-Gola Tattva/рис-078.jpg>)
+![рис-078.jpg|846](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-078--728b67b7cb4b3238.jpg>)
 
-![рис-079.jpg|788](<Bhu-Gola Tattva/рис-079.jpg>)
+![рис-079.jpg|788](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-079--13311966f50999da.jpg>)
 
-![рис-080.jpg|786](<Bhu-Gola Tattva/рис-080.jpg>)
+![рис-080.jpg|786](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-080--a169711ca4821e7c.jpg>)
 
-![рис-081.jpg|784](<Bhu-Gola Tattva/рис-081.jpg>)
+![рис-081.jpg|784](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-081--c3f3381c35cd8caa.jpg>)
 
-![рис-082.jpg|790](<Bhu-Gola Tattva/рис-082.jpg>)
+![рис-082.jpg|790](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-082--eaca1c783d9d594e.jpg>)
 
-![рис-083.jpg|788](<Bhu-Gola Tattva/рис-083.jpg>)
+![рис-083.jpg|788](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-083--5383855f4bb4dc27.jpg>)
 
-![рис-084.jpg|784](<Bhu-Gola Tattva/рис-084.jpg>)
+![рис-084.jpg|784](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-084--308987185e59f989.jpg>)
 
-![рис-085.jpg|786](<Bhu-Gola Tattva/рис-085.jpg>)
+![рис-085.jpg|786](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-085--94c0c134d9b2e161.jpg>)
 
-![рис-086.jpg|786](<Bhu-Gola Tattva/рис-086.jpg>)
+![рис-086.jpg|786](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-086--336f2a8c506bacae.jpg>)
 
-![рис-087.jpg|785](<Bhu-Gola Tattva/рис-087.jpg>)
+![рис-087.jpg|785](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-087--2776bb25e24bb4fe.jpg>)
 
-![рис-088.jpg|796](<Bhu-Gola Tattva/рис-088.jpg>)
+![рис-088.jpg|796](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-088--199eb230c7428d09.jpg>)
 
-![рис-089.jpg|821](<Bhu-Gola Tattva/рис-089.jpg>)
+![рис-089.jpg|821](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-089--2e9ab6a85f7575cd.jpg>)
 
-![рис-090.jpg|789](<Bhu-Gola Tattva/рис-090.jpg>)
+![рис-090.jpg|789](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-090--b8c7d169ff97bdc6.jpg>)
 
-![рис-091.jpg|822](<Bhu-Gola Tattva/рис-091.jpg>)
+![рис-091.jpg|822](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-091--3f406bea5e731231.jpg>)
 
-![рис-092.jpg|783](<Bhu-Gola Tattva/рис-092.jpg>)
+![рис-092.jpg|783](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-092--267a57111ae4ca4b.jpg>)
 
-![рис-093.jpg|787](<Bhu-Gola Tattva/рис-093.jpg>)
+![рис-093.jpg|787](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-093--b6fcc8ddcc7238f6.jpg>)
 
-![рис-094.jpg|789](<Bhu-Gola Tattva/рис-094.jpg>)
+![рис-094.jpg|789](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-094--e6829d08f826a4ed.jpg>)
 
-![рис-095.jpg|785](<Bhu-Gola Tattva/рис-095.jpg>)
+![рис-095.jpg|785](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-095--cdc5e9a44e03e6e4.jpg>)
 
-![рис-096.jpg|790](<Bhu-Gola Tattva/рис-096.jpg>)
+![рис-096.jpg|790](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-096--7a379420544f697b.jpg>)
 
-![рис-097.jpg|783](<Bhu-Gola Tattva/рис-097.jpg>)
+![рис-097.jpg|783](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-097--cb6906e78fce83ab.jpg>)
 
-![рис-098.jpg|790](<Bhu-Gola Tattva/рис-098.jpg>)
+![рис-098.jpg|790](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-098--21c12b8332af3215.jpg>)
 
-![рис-099.jpg|465](<Bhu-Gola Tattva/рис-099.jpg>)
+![рис-099.jpg|465](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-099--baaac07344858dea.jpg>)
 
-![рис-100.jpg|489](<Bhu-Gola Tattva/рис-100.jpg>)
+![рис-100.jpg|489](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-100--fb2e435d9a50d6cc.jpg>)
 
 ## Chapter 7 - An investigation of traditional Gaudiya-vaisnava
 
 **Gaudiya Cosmotheism By His Grace Suhotra dasa Tapovanacari**
 
-![рис-101.jpg|500](<Bhu-Gola Tattva/рис-101.jpg>)
+![рис-101.jpg|500](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-101--c52ebb6a18e76039.jpg>)
 
 Rare and authentic illustrations of the cosmos according to the Gaudiya scholarly tradition are analyzed from the writings of Srila Prabhupada, Bhaktisiddhanta Sarasvati, Srila Bhaktivinoda Thakura and other parampara sources.
 
@@ -1243,7 +1243,7 @@ This quotation was not used in the BBT edition of the purport to this verse of t
 
 I) This section of the outline concerns the image reproduced in this document in small size for your easy reference.
 
-![рис-102.jpg|155](<Bhu-Gola Tattva/рис-102.jpg>)
+![рис-102.jpg|155](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-102--4740e756bb4aa4e6.jpg>)
 
 A\] What are you seeing in this image?
 
@@ -1319,7 +1319,7 @@ B\] A white ring encircles all described above in the image. I will term this �
 
 1\]    On inside of the lower left quarter of the greater circle, next to the larger of the two Visnu-tattva forms, is a hard-to-read inscription that translates as saying that this Catur-bhuja form is the direct expansion of Sri Krsna’s elder brother, Balarama, who is the Supersoul of the universe.
 
-![рис-103.jpg|263](<Bhu-Gola Tattva/рис-103.jpg>)
+![рис-103.jpg|263](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-103--51d034c994c9e0d2.jpg>)
 
 a\]    From the above information I conclude the Visnu-tattva form depicted here is Mula-Sankarsana. My reasoning follows this quotation from Caitanya-caritamrta Adi [5.10](https://vedarama.com/en/books/cc-adi/5.10) Purport:
 
@@ -1335,7 +1335,7 @@ d\]    . Regarding the hard-to-read message on the inside of the greater circ
 
 2\]    In the painting, Balarama/Mahasankarsana/Mahakala/ Mahavisnu is shown lying at ease just on the inside of the left circle, lower left. He is glancing over at a second, smaller circle. The smaller circle is a bisected view of one brahmanda or universe. Within that universal shell, Sri Visnu lies upon Ananta-sesa. Brahmaji is seated upon the divine lotus grown from the Lord’s navel. Along the length of the ray of Mahasankarsana’s glance, it is written in Bengali script: Ekan han Bahu Syama “He is one, but He expands!”
 
-![рис-104.jpg|256](<Bhu-Gola Tattva/рис-104.jpg>)
+![рис-104.jpg|256](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-104--19ad33cad03959d1.jpg>)
 
 3\]    As His glance connects the Brahmanda, the elemental energies of the universe are listed in Bengali:
 
@@ -1489,7 +1489,7 @@ II\] Spiritual/aprakrta and material/prakrta realms—in the lower half of the
 
 **Part One: The Aprakrta Realm**
 
-![рис-105.jpg|497](<Bhu-Gola Tattva/рис-105.jpg>)
+![рис-105.jpg|497](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-105--2930273acf6a585c.jpg>)
 
 This Upper Half of the Pictograph Represents Some Important Features of the Spiritual Realm
 
@@ -1499,11 +1499,11 @@ Caitanya-caritamrta Madhya [19.154](https://vedarama.com/en/books/cc-madhya/19.1
 
 **“Goloka Vrndavana is the highest planet in the spiritual world. In order to go to the spiritual world after penetrating the covering of the material universe, one must penetrate Brahmaloka, the spiritual effulgence. Then one can come to the Goloka Vrndavana planet. There are also other planets in the spiritual world, called Vaikuntha planets, and on these planets Lord Narayana is worshiped with awe and veneration. On these planets santa-rasa is prevalent, and some of the devotees are also connected with the Supreme Personality of Godhead in dasya-rasa, the mellow of servitorship. As far as the mellow of fraternity is concerned, in Vaikuntha this rasa is represented by gaurava-sakhya, friendship in awe and veneration. The other fraternity rasa, exhibited as visrambha (friendship in equality), is found in the Goloka Vrndavana planet. Above that is service to the Lord in vatsalya-rasa (parental love), and above all is the relationship with the Lord in the madhurya-rasa (conjugal love). These five rasas are fully exhibited in the spiritual world in one’s relationship with the Lord. Therefore in the spiritual world the bhakti creeper finds its resting place at the lotus feet of Krsna. ”**
 
-![рис-106.jpg|502](<Bhu-Gola Tattva/рис-106.jpg>)
+![рис-106.jpg|502](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-106--68d3ef638a684fda.jpg>)
 
 A\]    The devanagari headline at the very top of the pictograph (outside the border) states *aprakrita rajyame bhagavata un-mukhai. jiva ki upasana ke taratqmya bheda. se bhagavata prqpti ka kramotkarseta*l—“In the transcendental kingdom of God the living entities approach him directly and experience different kinds of happiness according to their respective worship, realization and knowledge of the Lord’s opulence.”
 
-![рис-107.jpg|491](<Bhu-Gola Tattva/рис-107.jpg>)
+![рис-107.jpg|491](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-107--ec7fea5af9c7be01.jpg>)
 
 B\]    Three Bengali sentences in small type run just under the whole length of the upper border beneath a). Each serves as a subheading for divisions of information beneath. The three subheadings state: *bhagavat sadharana svarup aisvarya madhurya tattva visesa*—“General description of the levels of realizing God: svarup, aisvarya, madhurya.'” Then *sadhana bhede siddhi bedha*—“Different perfections are attained according to different aspects of devotion.” Finally, *krishner swabhavika tina shakti*—“Krsna’s nature consists of three saktis. Swarupa sakti, jiva sakti, and maya sakti."
 
@@ -1511,7 +1511,7 @@ C\]    We will begin with middle subheading (*sadhana bhede siddhi bedha*) �
 
 D\]    A vertical list of Bengali words in large typeface appears in the upper middle of the pictograph, underneath the second Bengali sentence running in small type directly under the border. (This middle sentence, once more, reads *sadhana bhede siddhi bedha*—“Different perfections are attained according to different aspects of devotion.”) Just beneath these words, the names of the siddhis (goals; destinations; perfectional states) of different grades of devotees and liberationists are “stacked” in large-face script.
 
-![рис-108.jpg|182](<Bhu-Gola Tattva/рис-108.jpg>)
+![рис-108.jpg|182](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-108--477702d15760c7af.jpg>)
 
 E\]    The list is almost the same as that shown in the first color painting we discussed in division i), where the globe of Goloka is shown atop a “pyramidal” stack of 7 named divya-dhamas. The pictograph under present discussion depicts the same list with a few changes.
 
@@ -1706,7 +1706,7 @@ b\]    Svetadvipa is also the site of Lord Gauranga’s Navad-vipa lila, the 
 
 G\] MOVING ON: We now turn to the left column of the aprakrta portion of the pictorgraph, headlined by the Bengali text Bhagavat Sadharana Svarup Aisvarya Madhurya Tattva visesa—“General description of the levels of realizing God: svarupa, aisvarya, madhurya.”
 
-![рис-109.jpg|282](<Bhu-Gola Tattva/рис-109.jpg>)
+![рис-109.jpg|282](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-109--bed47060071775e8.jpg>)
 
 1\]    Three words are outstanding in the above title: svarupa, aisvarya and madurya. They are among the main subjects of this verse (Caitanya-caritamrta Madhya [24.42](https://vedarama.com/en/books/cc-madhya/24.42)):
 
@@ -1812,7 +1812,7 @@ iv\] Goloka Vrndavana is “unknown and inaccessible.” Yet the very Lord of Go
 
 I\]    The “place” where raganuga-bhakti is promulgated is indicated in the upper third section to the right of the list of sid-dha-goals—prema-siddhi (Goloka), suhrt-siddhi (Mathura and Dvaraka, etc.). The raganuga region is directly beneath the Bengali subheading that reads Krishner swabhavika tina shakti—“Krsna’s nature consists of three saktis. swarupa sakti, jiva sakti, and maya sakti.”
 
-![рис-110.jpg|279](<Bhu-Gola Tattva/рис-110.jpg>)
+![рис-110.jpg|279](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-110--09ba7b8f58b0338c.jpg>)
 
 1\] The Lord’s Svarupa-sakti is succinctly explained by Srila Prabhupada in Chapter 10 of Teachings of Lord Caitanya: Krsna is the Absolute Truth, the Supreme Personality of Godhead, and He is situated in His internal potency, which is known as svarupa-sakti or atma-sakti, as described in Bhagavad-gita. He expands Himself in various multiple forms, and some of these are known as His personal forms and some as His separated forms. Thus He enjoys Himself in all the spiritual planets, as well as in the material universes. The expansions of His separated forms are called living entities, and these living entities are classified according to the energies of the Lord. They are divided into two classes-eternally liberated and eternally conditioned. Eternally liberated living entities never come into contact with material nature, and therefore they do not have any experience of material life. They are eternally engaged in Krsna consciousness, or devotional service to the Lord, and they are counted among the associates of Krsna. Their pleasure, the only enjoyment of their life, is derived from rendering transcendental loving service to Krsna. On the other hand, those who are eternally conditioned are always divorced from the transcendental loving service of Krsna and are thus subjected to the threefold miseries of material existence.
 
@@ -2266,7 +2266,7 @@ v\]    Conclusion of the “raga-marga” portion of the pictograph— Svayam
 
 O\] The Aisvarya and Svarupa levels of God realization; and the Yogamaya-sakti and Jiva-sakti (at the atmarama level) aspects of Krsna’s Svarupa-sakti.
 
-![рис-111.jpg|494](<Bhu-Gola Tattva/рис-111.jpg>)
+![рис-111.jpg|494](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-111--3ab33211d2e80196.jpg>)
 
 1\]    The image above is of that portion of the aprakrta (transcendental) region of the pictograph that has not yet been examined in the outline—that is, if the middle is discounted. The middle shows part of the 6 regions of perfection,
 
@@ -2377,7 +2377,7 @@ Frankly, I am not sure what the professor’s intention was by including this Bh
 
 P\] The transcendental Yogamaya-sakti and Jiva-sakti (at the atmarama level) aspects of Krsna’s Svarupa-sakti. These do not contain much information.
 
-![рис-112.jpg|262](<Bhu-Gola Tattva/рис-112.jpg>)
+![рис-112.jpg|262](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-112--7a9b3ec88cb3b4cb.jpg>)
 
 1\]    This is the portion of the pictorgraph to the right of the six levels of perfection. Down the right edge, from top to bottom, is a text that states: *Aprakrita jagat paravyomadi an-taranga swarupa saktira vaibhava va vaicitri*. “The spiritual realm consists of His internal potency, which is inconceivable.” There is a small circle drawn between the spiritual and material realm. Inside it reads Tatastha sakti jivatma, which indicates the position of the jiva.
 
@@ -2416,11 +2416,11 @@ iv\]    Paramatma Yoga-isvarya sayujya mukti—“By mysticyoga merged into B
 **OUTLINE DIVISION II**  
 **Part Two - The Prakrita (Material) Realm**
 
-![рис-113.jpg|506](<Bhu-Gola Tattva/рис-113.jpg>)
+![рис-113.jpg|506](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-113--212a8fe5af2180b1.jpg>)
 
 Q\] The title under the bottom border reads, Prakrita jagat me brahmmanda rupi karagara ke tritapanala puma caturdasa bhuvanan me anadi Bhagavat bhahirmukhakata dosa ke ka-rana kal karma svabhava sutra se vadhwa jiva ki varanvara gat gati pradarsana: “In the material world, made of fourteen planetary systems, burned by three types of fire, which is like a egg-shaped jail, the living entities travel again and again... bound by the time and the reactions of their activities, because they turned away their face from Krishna.” \[Note: tritapanala—“burned by three kinds of fire—refers to the tapa-traya, “three kinds of miseries,”\]
 
-![рис-114.jpg|126](<Bhu-Gola Tattva/рис-114.jpg>)
+![рис-114.jpg|126](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-114--8ea466368c52cc91.jpg>)
 
 1\] All underlined transliterations with their translations come from this right-hand frame of the lower half of the pictograph, shown immediately above.
 
@@ -2449,7 +2449,7 @@ iv\]    *Ananta Suryer kirane maiche megha upajaya. Kirane-te stita haima kir
 
 **“The Supreme Personality of Godhead, the supreme controller, is always full of transcendental bliss and is accompanied by the potencies known as hladini and samvit. The conditioned soul, however, is always covered by ignorance and embarrassed by the threefold miseries of life. Thus he is a treasure-house of all kinds of tribulations. ”**
 
-![рис-115.jpg|93](<Bhu-Gola Tattva/рис-115.jpg>)
+![рис-115.jpg|93](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-115--d1e1e81e355d623d.jpg>)
 
 2\]    Right frame of lower half of pictograph:
 
@@ -2497,7 +2497,7 @@ ii\]    Deha Ramata: “Enjoying the senses.” \[Reminiscent of Bhagavad-git
 
 **Fire is said to be Your face, the earth Your feet, the sun Your eye, and the sky Your navel. The directions are Your sense of hearing, the chief demigods Your arms, and the oceans Your abdomen. Heaven is thought to be Your head, and the wind Your vital air and physical strength. The trees and plants are the hairs on Your body, the clouds the hair on Your head, and the mountains the bones and nails of You, the Supreme. The passage of day and night is the blinking of Your eyes, the progenitor of mankind Your genitals, and the rain Your semen.\]**
 
-![рис-116.jpg|437](<Bhu-Gola Tattva/рис-116.jpg>)
+![рис-116.jpg|437](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-116--4c7dfbfb0e5fbe50.jpg>)
 
 3\]    The circle of the cosmos
 
@@ -2548,7 +2548,7 @@ The two lists mirror one another, since in the first i.e. c\] the order begins w
 
 In the same book each covering is described as being ruled by a deity. Ksiti is ruled by Bhumi-devi {Brhad-Bhagavatamrta, Sri Goloka Mahatmya 3.15-16) who worships Varahadeva. In verse 20-21, it is described that the deities of water, fire, air, ether, false ego, and mahat-tattva worship Matsya, Surya, Pradyumna, An-iruddha, Sankarsana and Vasudeva.\]
 
-![рис-117.jpg|166](<Bhu-Gola Tattva/рис-117.jpg>)
+![рис-117.jpg|166](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-117--1fe64fbac5480fa1.jpg>)
 
 4\]    Lower left quarter of the inner circle of the universe,
 
@@ -2563,7 +2563,7 @@ In the same book each covering is described as being ruled by a deity. Ksiti is 
 
 **“O, devotees! Protect your bhakti-lata, nourished by the blessings of the devotees, from Vaisnava-aparadha, which is like mad elephant! Watering by hearing, humility and respecting others, protect your creeper of devotion! Those karmis, who are devoid of controlling the senses and tolerance will rotate constantly in bila, bhauma and swarga-loka. ”**
 
-![рис-118.jpg|160](<Bhu-Gola Tattva/рис-118.jpg>)
+![рис-118.jpg|160](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-118--c4917108fca0de8a.jpg>)
 
 5\]    Upper right quarter of the inner circle of the universe.
 
@@ -2591,7 +2591,7 @@ E\]    *Dhanan dehi rupan dehi yosho dehi dvisojahi-sakama, dehi saubhagya ma
 
 F\]    \[Note: Commenting on the Govardhana lila, Jiva Gosvami writes Krsna can sometimes forgive such things as the worship of demigods, but Balarama cannot, because He is such a great devotee of Krsna and does not appreciate the worship of anyone other than Krsna.\]
 
-![рис-119.jpg|176](<Bhu-Gola Tattva/рис-119.jpg>)
+![рис-119.jpg|176](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-119--db53ed8535864fbe.jpg>)
 
 6\. Upper right quarter of the inner circle of the universe.
 
@@ -2607,7 +2607,7 @@ F\]    \[Note: Commenting on the Govardhana lila, Jiva Gosvami writes Krsna c
 
 **“If someone performs properly varnasrama-dharma he can attain the position of Brahma.” (Srimad-Bhagavatam 4.24.293) (Brhad-bhagavatamrta 1.2.49)**
 
-![рис-120.jpg|176](<Bhu-Gola Tattva/рис-120.jpg>)
+![рис-120.jpg|176](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-120--4a870b9d31c80fc0.jpg>)
 
 7\]    Mixed results, or pure:
 
@@ -2630,7 +2630,7 @@ vi\]    Papa va adharma - “leading down to Naraka-loka”
 
 **“I don’t want wealth, followers or vast knowledge, nor women. I want only pure love for Krishna Please, bless me with devotional service” \[Note: credit isn’t given, but this is a rendition of Caitanya-caritamrta Antya** [**20.30**](https://vedarama.com/en/books/cc-antya/20.30)**.\]**
 
-![рис-121.jpg|173](<Bhu-Gola Tattva/рис-121.jpg>)
+![рис-121.jpg|173](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-121--5afed629ea32f642.jpg>)
 
 8\]    Bottom right quarter: Cosmotheistic Meditation upon the universe as the Deity.
 
@@ -2679,7 +2679,7 @@ Thus meditating on this form, one may become free from attachment and hatred. Af
 
 **“Thus perplexed by various anxieties and bound by a network of illusions, they become too strongly attached to sense enjoyment and all down into hell.” \[Credit isn’t given, but this is Bhagavad-gita** [**16.16**](https://vedarama.com/en/books/bg/16.16)**\]**
 
-![рис-122.jpg|117](<Bhu-Gola Tattva/рис-122.jpg>)
+![рис-122.jpg|117](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-122--18f36f734ab06819.jpg>)
 
 *Yamapuri Naraka - tapta vaitarani nadi. Yamapurer.*
 
@@ -2693,7 +2693,7 @@ Thus meditating on this form, one may become free from attachment and hatred. Af
 
 P\] The image that follows is a “yogapith” or lotus mandala that shows how the Divine Couple and Their sakhis and manja-ris are positioned in relation to one another in Vrndavana pastimes. This may or may not be of any practical use to the designers of the Vedic Planetarium. The names of the varish-ta (most exalted)-2ndcircle gopis and vara (exalted)-3rdcircle gopis are taken from Srila Rupa Goswami’s “Sri Sri Radha-Krishna-ganoddesha-dipika” -part one/Brihad.
 
-![рис-123.jpg|500](<Bhu-Gola Tattva/рис-123.jpg>)
+![рис-123.jpg|500](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-123--ebcfbb81027d70f0.jpg>)
 
 Sri Sri Vrindavana - Yogapith
 
@@ -2743,7 +2743,7 @@ Northern: Murala Devi
 
 Q\] What follows is a similar “yogapitha” or lotus mandala that is intended for Sri-Sri Gaura-Nitai’s pastimes in Navadvipa. Most of Them appear in Srila Kavi-karnapura’s Sri Gaura-ganodesha-dipika. Thus many of the personalities shown here are the identical to the Radha-Krsna Yogapitha, but here they are in their Navadvipa forms. Example: Rupa Manjari in Vraja-lila is Rupa Gosvami in Navadwipa lila.
 
-![рис-124.jpg|508](<Bhu-Gola Tattva/рис-124.jpg>)
+![рис-124.jpg|508](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-124--ecf795d771b10b11.jpg>)
 
 Sri Sri Navadwip -Yogapith
 
@@ -3073,7 +3073,7 @@ Commentary: A certain Astrologer (Daivajna) Yajnesvara Sarma by name, desires to
 
 Commentary: The word kevala means advitiya or second to none, because Isvara is the counter-correlative of the four kinds of nonexistence.1 Because He is eternal, He is of the form of Existence. As such He is present in every object. As far as the material world is concerned, its manifestation can be accounted for even otherwise.
 
-![рис-125.jpg|344](<Bhu-Gola Tattva/рис-125.jpg>)
+![рис-125.jpg|344](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-125--7934a996bc2b20a0.jpg>)
 
 That is, its appearance is superimposed upon it, and it undergoes apparent modifications, which position is acceptable to the Advai-tins who advocate the doctrine of Maya. Therefore strictly speaking, the phenomenon of His being the counter-correlative of difference in relation to such a world does not exist at all.
 
@@ -3087,7 +3087,7 @@ The word ‘tirobhava’ here suggests the “theory of Satkarya” accepted by 
 
 Having thus set aside impediments through invocation, the author now undertakes to spell about what he wants to say for careful consideration of the listeners. This he does, in nine verses:
 
-![рис-126.jpg|599](<Bhu-Gola Tattva/рис-126.jpg>)
+![рис-126.jpg|599](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-126--fbf3a850aa49b12e.jpg>)
 
 *Sirasstha-asesa-tarasya Brahmandatmaka-varsmanah /*  
 *Nabhyadipadaparyantarupam nanarthasankulam //2*  
@@ -3114,7 +3114,7 @@ Question: How is it that this vast earth can remain sustained in the infinite sp
 
 Reply: It cannot be presumed that some one is supporting it. Such a person, who should also possess a body, cannot exist in such a fashion without yet another support. By positing another support for that supporting entity, we land ourselves in the fallacy of infinite regress. Further, clusters of stars, all of which should again have a series of supports would have their course blocked. They cannot then rotate upwards or downwards, which movements, we are able to perceive. By merely presuming that all such supporting principles exist without any form (cannot thus be seen), we do not benefit from such a presumption because, after all, they do not exist (being merely fictitious). That is why the author has used the word Anantadidhrtam (supported by Ananta and others).
 
-![рис-127.jpg|594](<Bhu-Gola Tattva/рис-127.jpg>)
+![рис-127.jpg|594](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-127--c83b68271bf801f1.jpg>)
 
 It is a matter of practical experience that though the vital breaths etc. are without any form they still support the body. In the same manner, we can account for the fact that the Cosmic Prana itself can provide support for all the planets like Earth. That principle is known by terms like Pravaha (one of the seven courses of the wind, said to cause the motion of planets) and Sesa (Primordial Serpent) in accordance with the divisions of space like heaven and earth.
 
@@ -3126,7 +3126,7 @@ The Continent of Bharata (India) is the land that is bounded by the Salty Ocean 
 
 One-ninth of the total landmass is occupied by India. Foreigners refer to the total landmass by different names like Europe, Asia, Africa and America. And the entire landmass is surrounded by Salty Ocean.
 
-![рис-128.jpg|595](<Bhu-Gola Tattva/рис-128.jpg>)
+![рис-128.jpg|595](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-128--84ef81ebfd69735a.jpg>)
 
 The Sun (God) and “others” incarnated in this world of mortals, due to some curse (sdpa). The word “others” implies such persons as Soma, Brahma. Vasistha, Vyasa and others. In works composed to provide mathematical calculations relating to space and time, the size of Earth is given as very small. In the Puranas, it is said to be more than 1-1/2 lakhs (of miles). Based upon what is being seen in our system, we can understand the calculations prevalent in other countries. As a matter of fact, people have their own calculations, disregarding the details given in Puranas. In works composed by foreign scholars, we find discussions on the issue whether planets do have or do not have, any support.
 
@@ -3140,7 +3140,7 @@ One may argue as follows: “The earth is small in size and is insentient. How c
 
 But this doubt can be cleared in the following way: The upward and downward rotation of planets, which have their axis between the two Poles can not be directly perceived because of the enormous distance. Therefore this may be explained away as an erroneous perception. The Siddhanta text can also be considered in the same manner. For instance, we measure the moon with the span of the thumb and forefinger; the distance between the moon and us is not considered as the outcome of any erroneous perception. Likewise the perception of planetary positions cannot be considered as a flaw, although there is enormous distance between our sense-organ and the object. For example, there cannot be any contradiction when one says that Garuda is present in the place to which Rudra has descended. There is a great pull exerted by mighty planets like the sun on other heavenly bodies. This facilitates the presence of other planets in space. There is no contradiction here. One can also explain the power of attraction between planets on the analogy of a magnet and a piece of metal iron. It cannot be argued that all cases of direct perception are erroneous.
 
-![рис-129.jpg|601](<Bhu-Gola Tattva/рис-129.jpg>)
+![рис-129.jpg|601](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-129--07470fb3c8fc64be.jpg>)
 
 Then the Vedic statement “The Sacrificer is a bundle of grass” becomes secondary in import. Then the validity attached to it by Mlmamsakas becomes irrelevant. This cannot be accepted.
 
@@ -3150,7 +3150,7 @@ This can be accounted for on the ground of defects in the sense faculty of a per
 
 Hence statements found in the Siddhanta texts (Astronomical works), which normally go by the available data, are mere restatements of what is noticed earlier through perception. So those texts become authoritative only at the empirical level. We are going to state later that it is virtually impossible for anyone to make one particular area in India as the starting point, take a huge ship and travel to other areas (referred to in Puranas), which are covered by oceans of salt water. Foreigners have conceived the shape of India in a particular way. Beyond India lies the continent of Kinnaras. Their existence because a matter of perception only for those who can go there.
 
-![рис-130.jpg|596](<Bhu-Gola Tattva/рис-130.jpg>)
+![рис-130.jpg|596](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-130--b7abbd2cb4cf7406.jpg>)
 
 Since the statements made in the Puranas and Siddhanta texts are equally powerful, one cannot be stultified by the other. We should note that the calculations found in the Siddhanta texts are helpful in understanding the calculations made by scholars regarding other countries. This position has been accepted by the Puranas. So, calculations relating to our planet Earth are quite significant. This point will become clear in the subsequent portion of this text.
 
@@ -3174,7 +3174,7 @@ The author has so far enunciated the intended hypothesis. He then mentions the c
 *Drastuh duratrvatah tadvat taddesadapi daksine /*  
 *Mahaksarambudhau naubhih gamane’nyo ’pi drsyate //16//*
 
-![рис-131.jpg|593](<Bhu-Gola Tattva/рис-131.jpg>)
+![рис-131.jpg|593](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-131--40b1e7c71b023a02.jpg>)
 
 *Daksinottaratarasu duratvat dhrauvyadarsanam /*  
 *Yujyate hi tato ’rkadyaih Dhruvayugmam tadasritah //17//*  
@@ -3199,7 +3199,7 @@ Commentary: It has been stated in texts like the Visnupurana that towards the we
 
 The word drsyeta (may be seen) indicates that it is a matter of possibility. But nobody has so far gone there. That area which is indicated by a circular line drawn by a thread which is as long as 5000 krosastakingDhruva as the central point, is known as Niraksa (that which has no Axis or Terrestrial Latitude).
 
-![рис-132.jpg|592](<Bhu-Gola Tattva/рис-132.jpg>)
+![рис-132.jpg|592](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-132--eeb486df97c081e6.jpg>)
 
 Here the southern and northern poles look like stars whose rotation cannot be noticed. They seem to rise and touch the earth.
 
@@ -3211,7 +3211,7 @@ In reply to this, the author says: “drastuh” etc. When birds take off from t
 
 Their appearance in different shapes as being convex, basket-like and being concave etc. can satisfactorily be explained. The circle drawn towards east and west of the area called Visuva. This has no axis form the topmost point of the stars, which exist to the south and north.
 
-![рис-133.jpg|588](<Bhu-Gola Tattva/рис-133.jpg>)
+![рис-133.jpg|588](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-133--583f520b748deb4a.jpg>)
 
 Because of the difference that exists between the sides which are formed with the help of pegs, the circles drawn on their basis will have different latitudes that less, lesser and least sizes. Therefore their rotation can be directly seen. This is acceptable to Astronomers also. But the movement of starts, which conjoin in the higher regions both in the south and north, cannot be seen. They merely appear to be rotating and so we can consider them as stationary. Because the perception is held to be valid, the shape of the earth marked by the two Poles at the either end, cannot be considered to be factual.
 
@@ -3223,7 +3223,7 @@ This allegation is unwarranted. The actual Pole Star mentioned in the Puranas is
 
 Only then the long-standing confusion among the Siddhantins that there are two stars (Pole Stars) becomes explained. They accepted that the celestial bodies move by the force of a wind called Pravaha. It is therefore proper that the author has referred to the Northern and Southern Stars.
 
-![рис-134.jpg|597](<Bhu-Gola Tattva/рис-134.jpg>)
+![рис-134.jpg|597](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-134--72bd10abdcc2c5fe.jpg>)
 
 So an observer standing on the top of the earth will be able to see only up to a distance of 3200 krosas around the place where he stands. He also sees that the stars above are rotating up and down, assuming the shape of a convex vessel. But in places where the ocean has become solidified like ice, (Arctic and Antarctic Regions: Glaciers) he will be able to notice the stars moving cross-wise like an umbrella at the top. Likewise, a person observing from the area called Niraksa will see two Poles as rising from their original place. Their movement is not noticeable in the Southern and Northern directions. They (the two Poles) appear to be in contact with each other. They are called Unmandala. That particular area will appear to him as situated at a lower level and also at a higher level from both the sides, depending upon his position. That itself, appearing as two poles from the equinoctial point covering south and north, is called Lamba (Co-latitude of a place in degrees) when it is low.
 
@@ -3235,7 +3235,7 @@ This view expresse ' by the author of the text Vdsandvdrtika and others, has bee
 
 The Suryasiddhanta states:
 
-![рис-135.jpg|541](<Bhu-Gola Tattva/рис-135.jpg>)
+![рис-135.jpg|541](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-135--66a92b65958ea7a3.jpg>)
 
 *Madhye samantdd andasya Bhugolo vyomni tisthati /*  
 *Bibhranah paramam saktim Brahmano dharanatmikam //*
@@ -3256,7 +3256,7 @@ If it is argued that such a supporting power has to be accepted at any cost as b
 
 Why should one go a long way? Astronomers state that the earth exists in sky and that it is surrounded and supported by either by the pull of other planes or by that of the two Poles. They accept that a cage-like cluster of stars surrounds earth, which is spherical in shape.
 
-![рис-136.jpg|623](<Bhu-Gola Tattva/рис-136.jpg>)
+![рис-136.jpg|623](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-136--af1c6260b5675123.jpg>)
 
 They say that the earth remains in the sky like the metal iron, which gets stuck to a magnet.
 
@@ -3268,7 +3268,7 @@ Objection: Further, in the Puranas, specific periods in which the incarnations o
 
 In the text called Siddhanta Sundara it is stated as follows: “There is nothing wrong in accepting that Adisesa and other incarnations exist, supporting the earth, extending as far as 12 yojanas underneath the earth, up to the point where the wind called Pravaha is present.” This cannot be correct because the defects pointed out earlier still persist. It may be argued that Varaha being the incarnation of Visnu, has the capacity to be present in the sky also. But on the same token, it can be argued that the earth also possesses such a capacity since it is also a manifestation of divine power. This is in fact, supported by scriptural evidences. Further, the existence of landmass under the globe of earth is not well known.
 
-![рис-137.jpg|616](<Bhu-Gola Tattva/рис-137.jpg>)
+![рис-137.jpg|616](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-137--96099f0adf334305.jpg>)
 
 To explain: Since the mobile and immobile entities exist all over the surface of the earth, and since the sky also is even, earth alone should be accepted as existing at a lower plane than everything else.
 
@@ -3289,7 +3289,7 @@ The Bhaskara Siddhanta states:
 
 So this is the universal experience of all who live on earth viz., that they live on the surface of the earth. The place beneath earth is not specified in this manner. Whenever earth is referred to, it is only the surface that becomes the object of reference. The vast expanse of sky that is present above the planet earth is always referred to as the “upper region.” So earth alone is to be taken as supporting all. Hence the so-called “lower portion” of the earth (as a separate entity) does not exist. Then in which part of the earth’s surface should such a power be posited?
 
-![рис-138.jpg|592](<Bhu-Gola Tattva/рис-138.jpg>)
+![рис-138.jpg|592](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-138--8a960d5e5f2cbef1.jpg>)
 
 You may argue that such a power can be posited somewhere. Then, there being no specific regulating phenomenon behind such an assumption, that power can be presumed to be present all over the earth. Further, whichever factor is presumed as the support, that support forms part of the earth itself. Principal mountains like the Sahya are called dharadhara (supporters of Earth). So earth should only be accepted as an entity that is supported (ddheya). What is wrong with this? Therefore, references to the lower part or upper part of earth are not quite popular or well known. So the question of earth requiring a support doe not arise art all. As such, it is proper to assume that the earth exists without the help of Sesa and others.
 
@@ -3299,7 +3299,7 @@ Because of the contact of the plant etc. (with earth) is quite strong, the blade
 
 That again will lead to the situation where the Sun and other planets will appear to be extremely small in size.
 
-![рис-139.jpg|599](<Bhu-Gola Tattva/рис-139.jpg>)
+![рис-139.jpg|599](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-139--bdc9969f5f7e6004.jpg>)
 
 The statement that Earth falls down along with other celestial bodies is illogical and daring. Therefore, since the question of an object coming down to the earth after being thrown up into the sky cannot be explained otherwise. There must be a necessary positing of some factor, which is responsible for the slow descent of the earth. In the light of this, it is is appropriate that we justify its stability somehow or other.
 
@@ -3316,7 +3316,7 @@ But the action called “patana” (falling down) which is the non-in-herent cau
 
 That act is nothing but “losing speed.”. Further, when the earth moves upwards, the propelling is done by the King of Serpents and others, which form its support. According to the view that earth is steady (motionless), the objects thrown into the sky would never be able to contact the earth. If an act called “falling” is accepted, then the earth which remains in the sky without any other support, will have to fall down.
 
-![рис-140.jpg|587](<Bhu-Gola Tattva/рис-140.jpg>)
+![рис-140.jpg|587](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-140--9c34222088e7f552.jpg>)
 
 Here is our reply: If the objects existing on earth are not accepted as liable to fall, then the following problem would crop up: Supposing a person stands on the surface of the earth and holds a needle on the tip of which is kept a mustard seed, that seed should never fall down (according to this theory). On the other hand, due to the power of the earth, like the person who holds the needle, the seed being pushed by the needle, should only go upwards. However, this view cannot be accepted. Also in such a case, a stone and a bundle of grass which (for the sake of an argument) have fallen from the top of a mansion at one and the same time, will not be able to reach earth one after the other.
 
@@ -3328,7 +3328,7 @@ They will come into contact with the earth when the latter goes upwards. The ear
 
 Is it due to the quality called the weight? Is it due to the act of falling? Or, is it due to the power of stability, which is opposed to the act of falling? That is why, within a vacuum found inside a machine, which exhausts wind, both the heavy and light objects will come down with the same speed.
 
-![рис-141.jpg|599](<Bhu-Gola Tattva/рис-141.jpg>)
+![рис-141.jpg|599](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-141--264868a70c36bd5d.jpg>)
 
 This cannot be true. If it is admissible that the earth etc. have the nature of moving upwards, then the space between the surface of earth and the orbits of the planes and stars, which have been arrived at by calculation of “three Rasis”, will be increasing every day. As a result, all the planets will come very close to the earth. They should then be visible with a huge size. If the orbits of the planets also rise up, then there will be a continuous upward movement of several planets, stars and other worlds along with their constituent parts. Therefore, in comparison with this, it is simpler to accept that a few heavy objects alone fall down.
 
@@ -3341,7 +3341,7 @@ Then, let a section of Jains (who argue that everything is indeterminable) accep
 
 Further, a bird like hawk which has travelled in the sky and returned, can reach the tree on which it has built its nest. This phenomenon cannot then be satisfactorily explained. There will then arise another difficulty also: The flags on a banner which are wafting due to the wind generated by the speed of the earth’s movement, should always flutter towards the west only.
 
-![рис-142.jpg|586](<Bhu-Gola Tattva/рис-142.jpg>)
+![рис-142.jpg|586](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-142--c2f999ada4d6143f.jpg>)
 
 It maybe contended as follows: There is a special kind of power within the earth itself, by which the earth also moves along with the hawk and other birds that fly upwards. Therefore, those birds are able to reach their nests. Likewise, when a stone is thrown from a particular spot, it will fall at the same spot. It may be argued that the ordinary wind that blows is more powerful than the wind produced by the rotation of the earth. Therefore, the movement of the flags will not be in conformity with the movement of the wind. Strictly speaking, the birds, which fly off, are not in contact with earth, which moves upwards. . So, the relationship between them is not the one that exists between a carrying agent and the object carried away. It is also not proper to accept such a power and a corresponding rotation in earth which is insentient. Even the presumption that the ordinary wind which is more powerful, is the outcome of the rotation of earth only, is improper. That is the why the commentator has said that assuming the rotation of the earth and other planets around the Sun and assuming the rotation of satellites like the moon, has to be properly considered. So, it has to be accepted that the earth is stationary and free from movement of which, all the people are aware. These qualities are natural: The sun and fire are, by nature, hot. The moon is again cool by nature. It also melts.
 
@@ -3349,7 +3349,7 @@ Question: If the earth is stable by nature, then even a clod of earth should als
 
 Earth etc. contain a specific quality of viscosity. Therefore, a portion of entities can be drawn towards. Clay and the like, are, by nature, stable and not moving. But they are able to come down and contact earth. This can be explained as caused by the power of attraction (gravitation).
 
-![рис-143.jpg|586](<Bhu-Gola Tattva/рис-143.jpg>)
+![рис-143.jpg|586](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-143--a69510e9ae4cafb9.jpg>)
 
 F.10a, line 1: But gurutva (weight) etc. are not accepted as the non-inherent cause of the fall of objects. Otherwise the extremely heavy bodies like the moon and the sun should also fall down. That is why bodies of certain living beings which are intercepted midway from the earth will become topsy-turvy. There is no doubt about their falling down. If the power of gravitation is not accepted as present in the earth, because of the contradiction presented by its being insentient which is a matter of perception, we have the following problems: Although a magnetic stone is also a stone, still only the former has the capacity to attract but not any other stone in general. Therefore, one has to admit that the nature of objects varies from object to object. In the same way, the earth, which is an abode of mobile and immobile beings, is unmoving and steady. This quality cannot be admitted in a lump of clay. This is its nature. By this assumption, there is nothing wrong if one accepts that weight is responsible for the falling down of clay etc. The moon and other bodies are being held in the galaxy by the winds called Pravaha etc. So, although they are heavy, they do not fall down.
 
@@ -3359,7 +3359,7 @@ According to the works based upon the Sauramana, wind is only one that alone mov
 
 Question: There is no such entity called wind at all. So the statement that it is moving is also a matter of assumption and super-imposition. The movement of trees which is seen by us is caused by a specific type of contact of different types of living beings which possess very subtle bodies formed by particles of earth etc. As these living beings move freely in different directions, they produce movement in the trees etc. The faculty of touch belonging to the bodies of such living beings is being felt by people living in this world. So, compared to the assumption that many entities (planets) have the feature called movement, it is more cumbersome to accept a specific entity called Vayu.
 
-![рис-144.jpg|608](<Bhu-Gola Tattva/рис-144.jpg>)
+![рис-144.jpg|608](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-144--1f9890eab28152ab.jpg>)
 
 Answer: This is not correct. Bodies of humans and others are seen to move only due to their association with the wind (inside the body) called Prana. So we have to accept that even such bodies need support of Prana, a special kind of wind; otherwise even dead bodies will have to be admitted as mobile.
 
@@ -3369,13 +3369,13 @@ Question: Let the earth remain without any support and let it be stable. But, yo
 
 Answer: A person who moves towards the East and West from a point on earth will understand that the earth is only spherical in shape surrounded by satellites like the moon. In this way, there are a number of suns, which shine in the vast firmament. They help all the living beings existing in planets and satellites, which belong to major stars. On the basis of that, we declare that there are various powers behind these galaxies which attract each other and behind which there are factors such as largeness and affinity.
 
-![рис-145.jpg|578](<Bhu-Gola Tattva/рис-145.jpg>)
+![рис-145.jpg|578](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-145--29cd19b8f827ed91.jpg>)
 
 Commentary: By the statement that the huge landmass with four continents is circular in shape, other factors like its existence in space and that it is not supported by anything else, are briefly indicated by the author. So, the opinion held by Astronomers that earth is spherical and that it is not supported, holds good. Taking the steady sun as the starting point, when plane move to the east or west, the place from which a person comes out, will be a matter of direct experience to that person. Insofar as the rise and setting of planets in different regions are concerned, each area towards the east and the west, will, in an order, be visible to those who live in those regions. So, areas which are elevated and those which are at a lower level, will be understood differently with the help of certain instruments depending upon different areas, but at one and the same time, in relation to the permanent bodies like Poles etc. So, the statement that the measurement is lesser in front and that the gap that exists appears towards north, holds good. That is why several factors like the following, come up: 12b, line 9: It is presumed that the measurement changes in Saura and other systems.
 
 It is possible that planets like the earth, which by their very nature move upwards, are attracted by hue bodies like the sun and keep rotating around them. The phenomenon of the rising and setting of permanent stars like the sun, satellites like the moon and other planes like the earth is admitted, only by presuming that they rotate and also move upwards in that movement. Their rise and setting should not be interpreted by the presumption of special kind of wind called Pravaha and other celestial bodies. It cannot be logically explained that the wind Pravaha, which is confined to a particular direction, is capable of rotating around the entire stellar system because huge galaxies cannot move on their own accord within a measure of time equal of 60 ghatis (one ghati = 24 minutes). That the two properties like largeness and viscosity have the power to attract bodies, isproved by the illustration of magnet and drops of water, which hang from the tip of a finger (for the sake of argument). So, arguing that earth etc. move upwards in their position is very insignificant.
 
-![рис-146.jpg|582](<Bhu-Gola Tattva/рис-146.jpg>)
+![рис-146.jpg|582](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-146--59a3ec3e44b4242f.jpg>)
 
 This is because we cannot admit several categories like heaviness, which become the non-inherent cause for the act of falling. Thus, earth, which rotates around itself, has the natural capacity to move upwards along with the power of attraction exerted by the sun. It moves around the sun like the wheel of a chariot. Thus it is possible for earth to move around the sun in this manner once a year. This way, we can satisfactorily explain that the sun, which is a fixed planet, can also see the vast expanse of stars like Asvini. In the same way, all those stationary stars around which the earth and other bodies rotate, which are themselves, circum-ambulated by satellites which keep moving, must be accepted as so many suns.
 
@@ -3388,7 +3388,7 @@ Then the author, in a single verse, points out that there is no justification in
 
 Accordingly, the perception of rotation of celestial bodies up and down is vitiated by certain flaws in the piece of land known to us as forming part of Bharatakhanda. This perceptibility has given rise to the Saura and other Siddhantas. Likewise, in the vast earth, which is described in the Puranas, a number of continents - small and large, are seen to be present by those who live there. The Siddhanta statements, which rely upon those perceptions, and statements which are found in other astronomical works, can form suitable examples for the analogy of “frog in the well.”
 
-![рис-147.jpg|587](<Bhu-Gola Tattva/рис-147.jpg>)
+![рис-147.jpg|587](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-147--902b016f1bafdd3e.jpg>)
 
 Question: If the Siddhanta statements are explained as supporting the concept of earth etc. as discussed so far by us, then, what about the experience of foreigners who, by their peregrinations, started from one point and reached the same point later? This cannot be brushed aside as erroneous because nobody ha so far disputed this claim. The measurements etc. given in works on astronomy concern the entire earth. There is no factor here that would contradict this position. The statements of the Puranas, however, can be justified as laudatory passages (arthavadas) connected to some injunctive statements (vidhis).
 
@@ -3396,7 +3396,7 @@ Answer: This cannot be so. A person going from left to right around the land dem
 
 Further, to justify the claim of the Siddhantins that the upward and downward movement of the stars, their circular rotation and that they are spherical in shape, we have to assume a lot of things which are contradicted by a number of valid means like Perception etc. Then, how is it that humans and other living being that go on moving in different places according to their wish and capacity, do not feel the gravitational pull exerted by earth? It cannot be said that this pull of the earth cannot be felt because of the human effort, which acts as a preventing factor. By a small human effort, the great gravitational pull cannot be blocked. Even if it is presumed that the gravitational force cannot be felt by the sense-faculties as in the case of semi-celestial beings like Yaksas, this pull is helpful to different beings in carrying out their respective activities. If this is the argument, the claim that the living beings are moving according to their own desire, cannot be maintained. Even granted that the mobile and immobile entities are both present in different areas of the earth, the claim that the celestial bodies which are present in one-fourth segment of the circumference have their heads crosswise and those celestial bodies present in the another segment have their heads downwards and that this makes their mutual illumination, possible, is highly contradictory.
 
-![рис-148.jpg|583](<Bhu-Gola Tattva/рис-148.jpg>)
+![рис-148.jpg|583](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-148--7557311bc82258d2.jpg>)
 
 We should not say that there is no contradiction here when we accept that all the living beings existing on the surface of the earth do so, by clinging to the earth by their effort, as a support. Such an effort of clinging (holding) to the earth by their effort, which helps the humans who walk on the earth to keep themselves in tact, is not known to us. In fact, such a phenomenon is found in ants and other living beings, which move underneath a piece of wood or a spherical object.
 
@@ -3404,7 +3404,7 @@ Therefore the claims of Aryabhatta and others are extremely contradictory. If hu
 
 We may argue that God alone is pushing the earth upwards. Then the corollary is that as in the act of pushing upwards God is capable of keeping earth and supporting it in a stable manner. In such a case, the orb of the sun, which attracts earth and other planets which in turn, attract the moon and other satellites, will be liable to go around still larger celestial bodies like the Saturn and the Jupiter, being pulled up and attracted by them. According to Astronomers, the diameter of the planets like Saturn and Jupiter is much larger than that of the sun. We cannot avoid the classification of the light and heavy bodies among the sun and stars, which are stationary. So there will be mutual attraction (pull) between each of the celestial bodies. Then the viewpoint that they are stationary gets contradicted. To avoid the fallacy of infinite regress, we have to accept some other body as extremely large. Then, such a thing can be posited with earth only. There is nothing wrong in accepting that the earth is stationary because depending upon the affinity and largeness of the bodies other than itself, the earth is able to rotate everything else. It is not possible to posit largeness etc. to celestial bodies, which are far off, and at greater altitudes, either with the help of telescope or the naked eye. Although the plurality of sun cannot be proved through any valid means from the viewpoint of different cosmic eggs still, there is no valid reason behind assuming several cosmic eggs in one and the same galaxy. Further, according to the principle of economy, although it is not accepted that the earth etc. do not have two different movements, still we have to accept rotation of earth from a very long time due to some other factors or due to it own nature.
 
-![рис-149.jpg|613](<Bhu-Gola Tattva/рис-149.jpg>)
+![рис-149.jpg|613](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-149--62a67fb847b1962e.jpg>)
 
 Such an understanding is necessary to account for the movement of ayanas (solstices), which are known through perception in relation to all stars other than planets and satellites.
 
@@ -3412,7 +3412,7 @@ There is an analogy that the disease has not gone even after eating the ‘forbi
 
 Question: This kind of assumption is necessary when we take into consideration, the essential forms and characters of various objects in the world. Thus it may be a case of extreme cumbersomeness in presuming a series of things such as (1) the rotation of huge body of stars lying at a great distance, which cannot possibly take place in a short span of time of 60 ghatis (one ghati= 24 minutes). (2) The movement of the sun in summer and winter solstices (3) Different kinds of movements associated with planets such as sun and satellites. (4) Heaviness etc. of the bodies, which is responsible for the falling down from planets, which are pushed by the wind called Pravaha, which alone is responsible for different kinds of rotation, mentioned above.
 
-![рис-150.jpg|587](<Bhu-Gola Tattva/рис-150.jpg>)
+![рис-150.jpg|587](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-150--1697d58984ecb635.jpg>)
 
 Statements made in the Puranas which run as follows are purely fanciful: There a huge jiva who has the entire universe as his body. So as to take care of all the small living beings contained in his body, i.e., to provide yoga and ksema for them, this huge jiva, once in a day, gets filled up with all clusters of stars. He, then, will be known as Dyuloka. He shakes his head, as a result of which, all the clusters of stars, which are within his body, start rotating westwards. Then, as a result, the velocity generated by the rotation, all other stars including the planets and satellites will move in an eastern direction, depending upon their own inertness (jadatva). By this admission, it is accepted that no celestial body is capable of independent movement. Therefore, this argument has the greatest economy of thought. This huge jiva can shake his head even in a very short span of time. So on the analogy of small insects on the body of a human being moving or shaking, depending upon the physical activity of that being, the movement of planets can also be explained. As for the perception of earth being a small spherical object, it can be accounted for on the basis of the large distance, which acts as a deterrent, giving the impression that earth is based upon two poles. This, of course, is perceptible as an error. Therefore, the view that earth is very small and that it is being rotated by the sun and other planets, is merely fanciful.
 
@@ -3422,7 +3422,7 @@ Answer: This question should not be raised. The axes of stars are very far off a
 
 So, works on Astronomy are bound to be many and mutually different because they reflect the spatio-temporal phenomenon observed by people living in different parts of the world, having their own concept of the zodiac and celestial bodies. Various continents, which have a diameter of 64,000 krosas constitute the vast earth.
 
-![рис-151.jpg|585](<Bhu-Gola Tattva/рис-151.jpg>)
+![рис-151.jpg|585](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-151--73e3b00635fd125b.jpg>)
 
 These differences are therefore bound to exist.
 
@@ -3440,7 +3440,7 @@ In the same way, the sun and other planes found on the apex of the rotating gala
 
 and other directions lying towards the north of the Manasa Lake. This must be taken as an indicatory mark for all the cities existing in that portion of the earth because they have universal application over the entire earth (verse 37).
 
-![рис-152.jpg|586](<Bhu-Gola Tattva/рис-152.jpg>)
+![рис-152.jpg|586](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-152--c75d5849c6df2b43.jpg>)
 
 *Nanu bhumir visdlatve, dyunisadivyavasthitih*  
 *Katham syad udayastau ca grahaderiti cetsrnu (34)*  
@@ -3686,187 +3686,187 @@ Endnotes:
 
 ## Chapter 9 - Sisyadhivrdhida Tantra
 
-![рис-153.jpg|542](<Bhu-Gola Tattva/рис-153.jpg>)
+![рис-153.jpg|542](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-153--2f67f404343ec6a9.jpg>)
 
-![рис-154.jpg|465](<Bhu-Gola Tattva/рис-154.jpg>)
+![рис-154.jpg|465](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-154--8b77999b9f001785.jpg>)
 
-![рис-155.jpg|544](<Bhu-Gola Tattva/рис-155.jpg>)
+![рис-155.jpg|544](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-155--7623b8dab8ed52a5.jpg>)
 
-![рис-156.jpg|543](<Bhu-Gola Tattva/рис-156.jpg>)
+![рис-156.jpg|543](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-156--775fe1b7ee74bffe.jpg>)
 
-![рис-157.jpg|574](<Bhu-Gola Tattva/рис-157.jpg>)
+![рис-157.jpg|574](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-157--002079f37e7cefac.jpg>)
 
-![рис-158.jpg|541](<Bhu-Gola Tattva/рис-158.jpg>)
+![рис-158.jpg|541](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-158--915e8cd0582c30d4.jpg>)
 
-![рис-159.jpg|543](<Bhu-Gola Tattva/рис-159.jpg>)
+![рис-159.jpg|543](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-159--137100ffac1699a3.jpg>)
 
-![рис-160.jpg|543](<Bhu-Gola Tattva/рис-160.jpg>)
+![рис-160.jpg|543](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-160--c30966dea07eaa98.jpg>)
 
-![рис-161.jpg|541](<Bhu-Gola Tattva/рис-161.jpg>)
+![рис-161.jpg|541](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-161--6ef823f3e4c51ed7.jpg>)
 
-![рис-162.jpg|544](<Bhu-Gola Tattva/рис-162.jpg>)
+![рис-162.jpg|544](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-162--e2f64c36c369fd27.jpg>)
 
-![рис-163.jpg|540](<Bhu-Gola Tattva/рис-163.jpg>)
+![рис-163.jpg|540](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-163--e93c3b52e38efec2.jpg>)
 
-![рис-164.jpg|546](<Bhu-Gola Tattva/рис-164.jpg>)
+![рис-164.jpg|546](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-164--d746be275c4c06fd.jpg>)
 
-![рис-165.jpg|539](<Bhu-Gola Tattva/рис-165.jpg>)
+![рис-165.jpg|539](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-165--8d62b27ae73b7843.jpg>)
 
-![рис-166.jpg|550](<Bhu-Gola Tattva/рис-166.jpg>)
+![рис-166.jpg|550](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-166--66afaa6ce81e0593.jpg>)
 
-![рис-167.jpg|540](<Bhu-Gola Tattva/рис-167.jpg>)
+![рис-167.jpg|540](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-167--91b226d046ffed05.jpg>)
 
-![рис-168.jpg|542](<Bhu-Gola Tattva/рис-168.jpg>)
+![рис-168.jpg|542](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-168--fe268421e0d92132.jpg>)
 
-![рис-169.jpg|540](<Bhu-Gola Tattva/рис-169.jpg>)
+![рис-169.jpg|540](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-169--5d709825f0994642.jpg>)
 
-![рис-170.jpg|540](<Bhu-Gola Tattva/рис-170.jpg>)
+![рис-170.jpg|540](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-170--c2f4bd0ad8af6879.jpg>)
 
-![рис-171.jpg|543](<Bhu-Gola Tattva/рис-171.jpg>)
+![рис-171.jpg|543](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-171--39203c12e16e71a0.jpg>)
 
-![рис-172.jpg|540](<Bhu-Gola Tattva/рис-172.jpg>)
+![рис-172.jpg|540](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-172--f6a536b1f0433a55.jpg>)
 
-![рис-173.jpg|540](<Bhu-Gola Tattva/рис-173.jpg>)
+![рис-173.jpg|540](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-173--1c3685ecc4ed766a.jpg>)
 
-![рис-174.jpg|541](<Bhu-Gola Tattva/рис-174.jpg>)
+![рис-174.jpg|541](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-174--b65b9e9af5ad39c5.jpg>)
 
-![рис-175.jpg|538](<Bhu-Gola Tattva/рис-175.jpg>)
+![рис-175.jpg|538](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-175--349aaa41c9142cfd.jpg>)
 
-![рис-176.jpg|535](<Bhu-Gola Tattva/рис-176.jpg>)
+![рис-176.jpg|535](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-176--48691a49064202fd.jpg>)
 
-![рис-177.jpg|538](<Bhu-Gola Tattva/рис-177.jpg>)
+![рис-177.jpg|538](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-177--b1cd15ba94da34a5.jpg>)
 
-![рис-178.jpg|549](<Bhu-Gola Tattva/рис-178.jpg>)
+![рис-178.jpg|549](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-178--ee7af3b9d3d8f6ee.jpg>)
 
-![рис-179.jpg|543](<Bhu-Gola Tattva/рис-179.jpg>)
+![рис-179.jpg|543](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-179--5274afce5ddb421e.jpg>)
 
-![рис-180.jpg|543](<Bhu-Gola Tattva/рис-180.jpg>)
+![рис-180.jpg|543](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-180--7c1288f60319c1d8.jpg>)
 
-![рис-181.jpg|542](<Bhu-Gola Tattva/рис-181.jpg>)
+![рис-181.jpg|542](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-181--0ce4976cfa94d4f1.jpg>)
 
-![рис-182.jpg|539](<Bhu-Gola Tattva/рис-182.jpg>)
+![рис-182.jpg|539](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-182--3c22c11120632ec7.jpg>)
 
-![рис-183.jpg|543](<Bhu-Gola Tattva/рис-183.jpg>)
+![рис-183.jpg|543](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-183--65fe832fbb98c6a8.jpg>)
 
-![рис-184.jpg|542](<Bhu-Gola Tattva/рис-184.jpg>)
+![рис-184.jpg|542](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-184--12737bda3b3b1149.jpg>)
 
-![рис-185.jpg|544](<Bhu-Gola Tattva/рис-185.jpg>)
+![рис-185.jpg|544](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-185--f68df14d167fc0df.jpg>)
 
-![рис-186.jpg|539](<Bhu-Gola Tattva/рис-186.jpg>)
+![рис-186.jpg|539](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-186--c5c4939e42e14d73.jpg>)
 
-![рис-187.jpg|545](<Bhu-Gola Tattva/рис-187.jpg>)
+![рис-187.jpg|545](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-187--d8f79e5f6a19a64e.jpg>)
 
 ## Chapter 10 - Siddhantasekhara By Sripati
 
-![рис-188.jpg|575](<Bhu-Gola Tattva/рис-188.jpg>)
+![рис-188.jpg|575](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-188--08f38156241b34b2.jpg>)
 
-![рис-189.jpg|182](<Bhu-Gola Tattva/рис-189.jpg>)
+![рис-189.jpg|182](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-189--40d32f97f9052197.jpg>)
 
-![рис-190.jpg|381](<Bhu-Gola Tattva/рис-190.jpg>)
+![рис-190.jpg|381](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-190--6586ad00d5c222b9.jpg>)
 
-![рис-191.jpg|353](<Bhu-Gola Tattva/рис-191.jpg>)
+![рис-191.jpg|353](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-191--9994dda16d6335b4.jpg>)
 
-![рис-192.jpg|346](<Bhu-Gola Tattva/рис-192.jpg>)
+![рис-192.jpg|346](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-192--68e2984fc3f385cb.jpg>)
 
-![рис-193.jpg|344](<Bhu-Gola Tattva/рис-193.jpg>)
+![рис-193.jpg|344](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-193--44b0a86798ddf035.jpg>)
 
-![рис-194.jpg|346](<Bhu-Gola Tattva/рис-194.jpg>)
+![рис-194.jpg|346](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-194--ce87a21efe123164.jpg>)
 
-![рис-195.jpg|344](<Bhu-Gola Tattva/рис-195.jpg>)
+![рис-195.jpg|344](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-195--0c1b5591f14e3294.jpg>)
 
-![рис-196.jpg|348](<Bhu-Gola Tattva/рис-196.jpg>)
+![рис-196.jpg|348](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-196--6bf6dcde356a2e43.jpg>)
 
-![рис-197.jpg|342](<Bhu-Gola Tattva/рис-197.jpg>)
+![рис-197.jpg|342](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-197--ab9e40663b7dbba0.jpg>)
 
-![рис-198.jpg|350](<Bhu-Gola Tattva/рис-198.jpg>)
+![рис-198.jpg|350](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-198--d7a19e7f8a8fd0a0.jpg>)
 
-![рис-199.jpg|376](<Bhu-Gola Tattva/рис-199.jpg>)
+![рис-199.jpg|376](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-199--049b0dd1b975b316.jpg>)
 
-![рис-200.jpg|376](<Bhu-Gola Tattva/рис-200.jpg>)
+![рис-200.jpg|376](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-200--7c83f2a18fb3f008.jpg>)
 
-![рис-201.jpg|349](<Bhu-Gola Tattva/рис-201.jpg>)
+![рис-201.jpg|349](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-201--1f5cbbd3e1d02ef0.jpg>)
 
-![рис-202.jpg|350](<Bhu-Gola Tattva/рис-202.jpg>)
+![рис-202.jpg|350](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-202--98e9c1f5167f24db.jpg>)
 
-![рис-203.jpg|344](<Bhu-Gola Tattva/рис-203.jpg>)
+![рис-203.jpg|344](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-203--2dc16e62d28522bf.jpg>)
 
-![рис-204.jpg|351](<Bhu-Gola Tattva/рис-204.jpg>)
+![рис-204.jpg|351](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-204--0809da4c397574bc.jpg>)
 
-![рис-205.jpg|342](<Bhu-Gola Tattva/рис-205.jpg>)
+![рис-205.jpg|342](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-205--c6b2a1f3afa459b2.jpg>)
 
-![рис-206.jpg|343](<Bhu-Gola Tattva/рис-206.jpg>)
+![рис-206.jpg|343](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-206--3135e006a0428de1.jpg>)
 
-![рис-207.jpg|344](<Bhu-Gola Tattva/рис-207.jpg>)
+![рис-207.jpg|344](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-207--6b7964e900956bcf.jpg>)
 
-![рис-208.jpg|342](<Bhu-Gola Tattva/рис-208.jpg>)
+![рис-208.jpg|342](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-208--ff41f06fa06e8c2a.jpg>)
 
-![рис-209.jpg|352](<Bhu-Gola Tattva/рис-209.jpg>)
+![рис-209.jpg|352](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-209--79ad016ff8d57ae7.jpg>)
 
-![рис-210.jpg|349](<Bhu-Gola Tattva/рис-210.jpg>)
+![рис-210.jpg|349](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-210--7ca09795672db4c4.jpg>)
 
-![рис-211.jpg|344](<Bhu-Gola Tattva/рис-211.jpg>)
+![рис-211.jpg|344](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-211--99480293597454ac.jpg>)
 
-![рис-212.jpg|347](<Bhu-Gola Tattva/рис-212.jpg>)
+![рис-212.jpg|347](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-212--ca90ab2af81f413c.jpg>)
 
-![рис-213.jpg|347](<Bhu-Gola Tattva/рис-213.jpg>)
+![рис-213.jpg|347](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-213--6e98179a7a813f5f.jpg>)
 
-![рис-214.jpg|382](<Bhu-Gola Tattva/рис-214.jpg>)
+![рис-214.jpg|382](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-214--610b81cd79056b05.jpg>)
 
-![рис-215.jpg|350](<Bhu-Gola Tattva/рис-215.jpg>)
+![рис-215.jpg|350](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-215--1c65e17dc5d9ece9.jpg>)
 
-![рис-216.jpg|347](<Bhu-Gola Tattva/рис-216.jpg>)
+![рис-216.jpg|347](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-216--926cf728d8eaf159.jpg>)
 
-![рис-217.jpg|348](<Bhu-Gola Tattva/рис-217.jpg>)
+![рис-217.jpg|348](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-217--50fa1b4e85d8973a.jpg>)
 
-![рис-218.jpg|348](<Bhu-Gola Tattva/рис-218.jpg>)
+![рис-218.jpg|348](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-218--7a537d084fd80daf.jpg>)
 
-![рис-219.jpg|346](<Bhu-Gola Tattva/рис-219.jpg>)
+![рис-219.jpg|346](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-219--79be73dc611b5bd3.jpg>)
 
-![рис-220.jpg|349](<Bhu-Gola Tattva/рис-220.jpg>)
+![рис-220.jpg|349](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-220--268102d08ab76c46.jpg>)
 
-![рис-221.jpg|349](<Bhu-Gola Tattva/рис-221.jpg>)
+![рис-221.jpg|349](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-221--94b45a54e4137b44.jpg>)
 
-![рис-222.jpg|342](<Bhu-Gola Tattva/рис-222.jpg>)
+![рис-222.jpg|342](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-222--fdf856a1df30d82e.jpg>)
 
-![рис-223.jpg|344](<Bhu-Gola Tattva/рис-223.jpg>)
+![рис-223.jpg|344](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-223--b6f841b161c68946.jpg>)
 
-![рис-224.jpg|346](<Bhu-Gola Tattva/рис-224.jpg>)
+![рис-224.jpg|346](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-224--11b4e21f92002b1d.jpg>)
 
-![рис-225.jpg|349](<Bhu-Gola Tattva/рис-225.jpg>)
+![рис-225.jpg|349](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-225--f0e5d9cef0447fa4.jpg>)
 
-![рис-226.jpg|345](<Bhu-Gola Tattva/рис-226.jpg>)
+![рис-226.jpg|345](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-226--a872d306841b4acc.jpg>)
 
-![рис-227.jpg|348](<Bhu-Gola Tattva/рис-227.jpg>)
+![рис-227.jpg|348](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-227--64a8d2823a3c7d48.jpg>)
 
-![рис-228.jpg|347](<Bhu-Gola Tattva/рис-228.jpg>)
+![рис-228.jpg|347](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-228--fc8f3d5fea593a8d.jpg>)
 
-![рис-229.jpg|344](<Bhu-Gola Tattva/рис-229.jpg>)
+![рис-229.jpg|344](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-229--9c1be6a578b13219.jpg>)
 
-![рис-230.jpg|351](<Bhu-Gola Tattva/рис-230.jpg>)
+![рис-230.jpg|351](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-230--4d40425486968691.jpg>)
 
-![рис-231.jpg|345](<Bhu-Gola Tattva/рис-231.jpg>)
+![рис-231.jpg|345](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-231--fdd7604ba315cbec.jpg>)
 
-![рис-232.jpg|345](<Bhu-Gola Tattva/рис-232.jpg>)
+![рис-232.jpg|345](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-232--6b67521adf8b0d73.jpg>)
 
-![рис-233.jpg|343](<Bhu-Gola Tattva/рис-233.jpg>)
+![рис-233.jpg|343](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-233--491c00bdc87f54f0.jpg>)
 
-![рис-234.jpg|352](<Bhu-Gola Tattva/рис-234.jpg>)
+![рис-234.jpg|352](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-234--46f155881d650357.jpg>)
 
-![рис-235.jpg|344](<Bhu-Gola Tattva/рис-235.jpg>)
+![рис-235.jpg|344](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-235--4504798f1d1eee4f.jpg>)
 
-![рис-236.jpg|345](<Bhu-Gola Tattva/рис-236.jpg>)
+![рис-236.jpg|345](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-236--bc1039c88b0c95a1.jpg>)
 
-![рис-237.jpg|349](<Bhu-Gola Tattva/рис-237.jpg>)
+![рис-237.jpg|349](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-237--88170b986ce2024c.jpg>)
 
-![рис-238.jpg|341](<Bhu-Gola Tattva/рис-238.jpg>)
+![рис-238.jpg|341](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-238--4f4777b862c00459.jpg>)
 
-![рис-239.jpg|342](<Bhu-Gola Tattva/рис-239.jpg>)
+![рис-239.jpg|342](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-239--c5a5af66b20ba340.jpg>)
 
-![рис-240.jpg|342](<Bhu-Gola Tattva/рис-240.jpg>)
+![рис-240.jpg|342](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-240--3c6c4e5562d949a6.jpg>)
 
-![рис-241.jpg|342](<Bhu-Gola Tattva/рис-241.jpg>)
+![рис-241.jpg|342](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-241--947d66e24a772717.jpg>)
 
-![рис-242.jpg|345](<Bhu-Gola Tattva/рис-242.jpg>)
+![рис-242.jpg|345](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-242--8de5d55ad093ebb1.jpg>)
 
 **55 PICTURES**
 
@@ -4010,23 +4010,23 @@ Yojana—an standard unit of length, which is used to express distances througho
 
 ## GLOSSARY OF TECHNICAL TERMS IN INDIAN ASTRONOMY
 
-![рис-243.jpg|560](<Bhu-Gola Tattva/рис-243.jpg>)
+![рис-243.jpg|560](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-243--886808f7702da20e.jpg>)
 
-![рис-244.jpg|583](<Bhu-Gola Tattva/рис-244.jpg>)
+![рис-244.jpg|583](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-244--1292924383b67d03.jpg>)
 
-![рис-245.jpg|554](<Bhu-Gola Tattva/рис-245.jpg>)
+![рис-245.jpg|554](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-245--a5361486cdd5a72b.jpg>)
 
-![рис-246.jpg|556](<Bhu-Gola Tattva/рис-246.jpg>)
+![рис-246.jpg|556](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-246--09bf0fc519ae6625.jpg>)
 
-![рис-247.jpg|555](<Bhu-Gola Tattva/рис-247.jpg>)
+![рис-247.jpg|555](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-247--c13ad5cca4cc0f5d.jpg>)
 
-![рис-248.jpg|561](<Bhu-Gola Tattva/рис-248.jpg>)
+![рис-248.jpg|561](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-248--9e66658855297f1a.jpg>)
 
-![рис-249.jpg|555](<Bhu-Gola Tattva/рис-249.jpg>)
+![рис-249.jpg|555](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-249--12b671d4af1b165e.jpg>)
 
-![рис-250.jpg|577](<Bhu-Gola Tattva/рис-250.jpg>)
+![рис-250.jpg|577](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-250--8c310e0bdf0e49bb.jpg>)
 
-![рис-251.jpg|567](<Bhu-Gola Tattva/рис-251.jpg>)
+![рис-251.jpg|567](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-251--aac9361e003b342e.jpg>)
 
 ## Sanskrit Pronuciation Guide
 
@@ -4034,10 +4034,10 @@ Throughout the centuries, the Sanskrit language has been written in a variety of
 
 **Vowels**
 
-![рис-252.jpg|524](<Bhu-Gola Tattva/рис-252.jpg>)
+![рис-252.jpg|524](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-252--a23fab5c27827666.jpg>)
 
 **Consonants**
 
-![рис-253.jpg|540](<Bhu-Gola Tattva/рис-253.jpg>)
+![рис-253.jpg|540](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-253--b3b9f350e135e764.jpg>)
 
-![рис-254.jpg|582](<Bhu-Gola Tattva/рис-254.jpg>)
+![рис-254.jpg|582](<../attachments/bhu-gola-tattva--%D1%80%D0%B8%D1%81-254--b55d992139a43cf3.jpg>)

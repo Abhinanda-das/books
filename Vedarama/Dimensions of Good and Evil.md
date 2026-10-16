@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/suhotrasw-dogae"
 ---
 
-![обложка|156](<Dimensions of Good and Evil/обложка.jpeg>)
+![обложка|156](<../attachments/dimensions-of-good-and-evil--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--fc3d7040d8df07e1.jpeg>)
 
 Goodness, as defined in this book, is virtue. The world virtue indicates a healthy, wholesome and chaste relationship to the world, other living entities and one's own self. Perfect virtue is the soul's victory over the powers of matter, which threaten to delude the soul into identifying with the material body, its lusts and hatreds. This delusion is evil. Drawing from the great Vaisnava tradition of Vedic knowledge, Suhotra Swami examines the attempts of western philosophy to address the problem of good and evil. He guides the reader out of his maze of speculation to the ultimate good of transcendental loving devotional service to the all-attractive Lord Sri Krsna.
 

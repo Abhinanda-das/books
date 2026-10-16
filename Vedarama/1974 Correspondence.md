@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1974"
 ---
 
-![обложка|156](<1974 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1974-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9df3bfaa24616053.jpeg>)
 
 # 1974 Correspondence
 

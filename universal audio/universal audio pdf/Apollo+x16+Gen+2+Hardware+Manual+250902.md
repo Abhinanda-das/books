@@ -7,11 +7,11 @@ word_count: 10333
 ---
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0001-00.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0001-00--dfe2f0a0a25ccace.png)
 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0001-01.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0001-01--8518edfa0a48a841.png)
 
 
 ## Thunderbolt 3 Audio Interface 
@@ -19,11 +19,11 @@ word_count: 10333
 with HEXA Core Realtime UAD Processing 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0001-04.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0001-04--6fe3971d1197bcef.png)
 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0001-05.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0001-05--40cf978098689777.png)
 
 
 ## **Apollo x16 Gen 2 Hardware Manual** 
@@ -31,7 +31,7 @@ with HEXA Core Realtime UAD Processing
 Manual Version 250902 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0001-08.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0001-08--07c251842f18c465.png)
 
 
 www.uaudio.com 
@@ -53,7 +53,7 @@ Please feel free to reach out to us via our website www.uaudio.com, and via our 
 Sincerely, 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0002-08.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0002-08--a76c4d891e141e87.png)
 
 
 Bill Putnam Jr. 
@@ -131,7 +131,7 @@ Combine Apollo x16’s HEXA Core DSP with native processing from your host compu
 Link up to four Apollo x16’s for 64 channels of elite-class A/D and D/A conversion, perfect for interfacing with large format recording consoles. Or stack one x16 with other Thunderbolt Apollo rackmount units and control it all from your desktop using Apollo Twin or x4. So no matter how far your music takes you, an Apollo will always be in reach. 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0005-06.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0005-06--b0d757de70c18b01.png)
 
 
 _includes the Essentials+ or Ultimate+ Editions. Other UAD plug-ins available separately. All trademarks are property of their respective owners._ 
@@ -175,7 +175,7 @@ Introduction
 - Free industry-leading technical support from knowledgeable audio engineers 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0006-16.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0006-16--8f469abc2e472c15.png)
 
 
 Apollo x16 Gen 2 Hardware Manual 
@@ -331,7 +331,7 @@ Note that UAD plug-in instantiations in UAD Console are not retained on power do
 _Note: Standalone use is unavailable when cascading multiple Apollo units._ 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0010-08.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0010-08--d20b9d9653657df1.png)
 
 
 Apollo x16 Gen 2 Hardware Manual 
@@ -427,7 +427,7 @@ The Universal Audio logo illuminates when the external power supply is properly 
 The built-in talkback mic is located inside of this hole. The talkback function is configured and operated in the included UAD Console software application. 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0013-07.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0013-07--e3da73ece770b73b.png)
 
 
 **----- Start of picture text -----**<br>
@@ -435,7 +435,7 @@ The built-in talkback mic is located inside of this hole. The talkback function 
 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0013-08.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0013-08--de2578300aef171f.png)
 
 
 _Power indicator and talkback microphone_ 
@@ -449,7 +449,7 @@ Apollo x16 Gen 2 Hardware Manual
 Front Panel 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0014-00.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0014-00--d480e3ac269bf210.png)
 
 
 **----- Start of picture text -----**<br>
@@ -627,7 +627,7 @@ This switch applies power to Apollo x16. When the unit is powered on, the Univer
 14 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0018-14.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0018-14--d64d01577d16d262.png)
 
 
 Apollo x16 Gen 2 Hardware Manual 
@@ -639,7 +639,7 @@ Front Panel
 ## **Rear Panel** 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0019-01.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0019-01--e6d01656c603d4ac.png)
 
 
 **----- Start of picture text -----**<br>
@@ -729,7 +729,7 @@ Rear Panel
 ## Analog I/O 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0022-01.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0022-01--70d9b6e5952bf778.png)
 
 
 **----- Start of picture text -----**<br>
@@ -849,13 +849,13 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 Does your USB-C connector support Thunderbolt 3? 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0025-05.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0025-05--b632e62c4c12e769.png)
 
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer. 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0025-07.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0025-07--9b91bc9342433024.png)
 
 
 _Thunderbolt icon on USB-C cable (left) and USB-C port (right)_ 
@@ -871,7 +871,7 @@ Interconnections
 The diagram below illustrates an Apollo x16 setup example that could be used for recording an ensemble. ALT monitors are connected for comparing different speakers. 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0026-02.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0026-02--d770fdca7e24714c.png)
 
 
 **----- Start of picture text -----**<br>
@@ -893,7 +893,7 @@ The diagram below illustrates an example of how to interconnect multiple Apollo 
 _Important: For complete details about system operation when multi-unit cascading, see the UAD Console Manual._ 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0027-03.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0027-03--81ee1156e5c53e18.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1009,7 +1009,7 @@ Apollo x16 Gen 2 Hardware Manual
 29 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0030-00.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0030-00--e3551973f5be16f7.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1023,7 +1023,7 @@ Apollo x16 Gen 2 Hardware Manual
 30 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0031-00.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0031-00--ff4ae81b9fcd4e05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1039,7 +1039,7 @@ Apollo x16 Gen 2 Hardware Manual
 ## **Block Diagram** 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0032-01.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0032-01--a651eee14b7e88d5.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1061,7 +1061,7 @@ Apollo x16’s line inputs and outputs are accessed via 25-pin D-sub female conn
 The pin numbers for female DB25 connectors are shown in the diagram below. When facing the Apollo x16 rear panel, pin 1 is the upper rightmost pin. 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0033-04.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0033-04--89149f7512c5f771.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1075,7 +1075,7 @@ _Apollo x16 female DB25 pin numbers_
 The signals carried on the female DB25 connector pins are listed in the table below. Pinouts are identical for inputs and outputs. 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0033-08.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0033-08--5e27218c7c4b7207.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1109,7 +1109,7 @@ Apollo x16 Gen 2 Hardware Manual
 If your Apollo rack unit isn’t behaving as expected, check these common troubleshooting items. If you still experience issues after performing these checks, contact Technical Support. 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0034-02.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0034-02--2ee4225edfca130a.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1152,7 +1152,7 @@ Troubleshooting
 ## **Notices** 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0035-01.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0035-01--f605e6d58eca77d4.png)
 
 
 ## Important Safety Information 
@@ -1212,7 +1212,7 @@ The product is covered by a limited warranty. For the current terms of such warr
 ## Maintenance 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0036-04.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0036-04--876aed0f15ab15da.png)
 
 
 **CAUTION:** To reduce the risk of electric shock, do not open the unit. 
@@ -1268,7 +1268,7 @@ Any modifications to the unit, unless expressly approved by Universal Audio, cou
 ## Product Label 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0037-08.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0037-08--d0730c74034f9601.png)
 
 
 37 
@@ -1388,7 +1388,7 @@ Technical Support
 Universal Audio 
 
 
-![](Apollo+x16+Gen+2+Hardware+Manual+250902_assets/Apollo+x16+Gen+2+Hardware+Manual+250902.pdf-0041-00.png)
+![](../../attachments/apollo-x16-gen-2-hardware-manual-250902_assets--apollo-x16-gen-2-hardware-manual-250902.pdf-0041-00--9878606987413ea4.png)
 
 
 www.uaudio.com 

@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bhcarusw"
 ---
 
-![обложка|156](<The importance of an Institution for successfully propagating Krishna Consciousness all over the world/обложка.jpeg>)
+![обложка|156](<../attachments/the-importance-of-an-institution-for-successfully-propagating-kri--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d96ae1171af3d4b5.jpeg>)
 
 # The importance of an Institution for successfully propagating Krishna Consciousness all over the world
 

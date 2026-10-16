@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bv-tattva-dipika"
 ---
 
-![обложка|156](<Tattva-dīpikā/обложка.jpeg>)
+![обложка|156](<../attachments/tattva-d%C4%ABpik%C4%81--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--32fb24de278f09d5.jpeg>)
 
 # Tattva-dīpikā
 

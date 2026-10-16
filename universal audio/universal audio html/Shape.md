@@ -96,7 +96,7 @@ We know you may want to start playing right away, so let’s take Shape for a qu
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-annotated.png" file-size="987001" data-height="615" data-id="7e93e18f-8f0b-4b46-8e00-f64cfff63217" node-type="media" data-type="file" data-width="1063" title="Attachment">
 
-![shape-annotated.png](Shape_assets/e84101158199c9962d8d9ddf6892643acf1f0bbe.png)
+![shape-annotated.png](../../attachments/shape_assets--e84101158199c9962d8d9ddf6892643acf1f0bbe--222f74505af9b049.png)
 
 </div>
 
@@ -126,7 +126,7 @@ We know you may want to start playing right away, so let’s take Shape for a qu
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-new.png" file-size="921294" data-height="560" data-id="0316a379-348a-4891-82bd-731bf4a4f269" node-type="media" data-type="file" data-width="857" title="Attachment">
 
-![shape-new.png](Shape_assets/6abf7e17b734a4cd3274342a1d63f81c6cfceeb4.png)
+![shape-new.png](../../attachments/shape_assets--6abf7e17b734a4cd3274342a1d63f81c6cfceeb4--c43c8b8547be6f5d.png)
 
 </div>
 
@@ -140,7 +140,7 @@ Main view is what you see when Shape is launched. It contains the most commonly 
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-global-controls.png" file-size="123130" data-height="102" data-id="9b9a202a-3340-40df-906f-7aed2be81ccf" node-type="media" data-type="file" data-width="612" title="Attachment">
 
-![shape-global-controls.png](Shape_assets/b2d571676a35bf0b4ea6e112b0696ebd6cb18b25.png)
+![shape-global-controls.png](../../attachments/shape_assets--b2d571676a35bf0b4ea6e112b0696ebd6cb18b25--6e89246b17f91547.png)
 
 </div>
 
@@ -184,7 +184,7 @@ This knob sets the master output level of Shape. The adjacent level meters provi
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-parts.png" file-size="558599" data-height="344" data-id="cf4b3232-ae08-44de-a219-5e0d996f925b" node-type="media" data-type="file" data-width="853" title="Attachment">
 
-![shape-parts.png](Shape_assets/86e0befe6c04d675a8ec28f0f5be5e7bc0169840.png)
+![shape-parts.png](../../attachments/shape_assets--86e0befe6c04d675a8ec28f0f5be5e7bc0169840--e8517d16c6d83132.png)
 
 </div>
 
@@ -200,7 +200,7 @@ Shape features four Part slots with identical controls. Each slot can load a dif
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-part-name.png" file-size="11558" data-height="39" data-id="a0945360-d3b8-4146-bd1b-9db4d319aa0d" node-type="media" data-type="file" data-width="212" title="Attachment">
 
-![shape-part-name.png](Shape_assets/33b7e431de7924f12e32def74599b0ebe9328d16.png)
+![shape-part-name.png](../../attachments/shape_assets--33b7e431de7924f12e32def74599b0ebe9328d16--757c022cd39e1a1a.png)
 
 </div>
 
@@ -214,7 +214,7 @@ If a sound is loaded into one of the four slots, its name will be shown at the t
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-part-params.png" file-size="51238" data-height="123" data-id="99d82bb4-69a6-48ee-b36e-2a5d87c7979c" node-type="media" data-type="file" data-width="212" title="Attachment">
 
-![shape-part-params.png](Shape_assets/c1d90ce1b66ba6ab95dfbf3162641251476ce5e8.png)
+![shape-part-params.png](../../attachments/shape_assets--c1d90ce1b66ba6ab95dfbf3162641251476ce5e8--7e31fdf45f665d34.png)
 
 </div>
 
@@ -252,7 +252,7 @@ This button engages and disengages solo mode for the part and silences other par
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-fx.png" file-size="185054" data-height="111" data-id="74435e89-c4f5-4894-8d91-32bceb96b156" node-type="media" data-type="file" data-width="857" title="Attachment">
 
-![shape-fx.png](Shape_assets/994ba830238213d56fa2fb50c5012817b5541dbe.png)
+![shape-fx.png](../../attachments/shape_assets--994ba830238213d56fa2fb50c5012817b5541dbe--64ec64dd4a9a82ff.png)
 
 </div>
 
@@ -266,7 +266,7 @@ Shape comes with over 40 built-in effects, including select UA algorithms not fo
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-fx-name.png" file-size="8842" data-height="37" data-id="dd92cd77-a6ee-4a01-8548-8f0461600334" node-type="media" data-type="file" data-width="160" title="Attachment">
 
-![shape-fx-name.png](Shape_assets/781c2952d2dd4b531817e9ccf84b252f9558b7d1.png)
+![shape-fx-name.png](../../attachments/shape_assets--781c2952d2dd4b531817e9ccf84b252f9558b7d1--ad0ff1e21f2d340f.png)
 
 </div>
 
@@ -298,7 +298,7 @@ These three knobs control various parameters of your selected effect. The effect
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-part-browser.png" file-size="190002" data-height="458" data-id="d377af3e-b32a-42fb-9207-d5eac90fab4a" node-type="media" data-type="file" data-width="857" title="Attachment">
 
-![shape-part-browser.png](Shape_assets/a0e9a6ab73045a9195fbb3706b7af26da0ff57ad.png)
+![shape-part-browser.png](../../attachments/shape_assets--a0e9a6ab73045a9195fbb3706b7af26da0ff57ad--50177344807ba113.png)
 
 </div>
 
@@ -332,7 +332,7 @@ Here you will find all of the sounds in the chosen category. You can audition so
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-editor-view.png" file-size="992754" data-height="562" data-id="d2da72df-756b-4da5-8671-de6fe8595297" node-type="media" data-type="file" data-width="857" title="Attachment">
 
-![shape-editor-view.png](Shape_assets/657a7ed346c8bf6c93b6862ae0a5399d67d1fe7c.png)
+![shape-editor-view.png](../../attachments/shape_assets--657a7ed346c8bf6c93b6862ae0a5399d67d1fe7c--df7843e030e2b79c.png)
 
 </div>
 
@@ -354,7 +354,7 @@ To enter Editor View, click on the chevron that appears when hovering over the P
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-editor-view.png" file-size="992754" data-height="562" data-id="d2da72df-756b-4da5-8671-de6fe8595297" node-type="media" data-type="file" data-width="857" title="Attachment">
 
-![shape-primary-controls.png](Shape_assets/59277c229160aa5f2608f0bf7c210aea91587913.png)
+![shape-primary-controls.png](../../attachments/shape_assets--59277c229160aa5f2608f0bf7c210aea91587913--fceef2029094e64b.png)
 
 </div>
 
@@ -374,7 +374,7 @@ To enter Editor View, click on the chevron that appears when hovering over the P
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-part-name.png" file-size="11558" data-height="39" data-id="a0945360-d3b8-4146-bd1b-9db4d319aa0d" node-type="media" data-type="file" data-width="212" title="Attachment">
 
-![shape-part-name.png](Shape_assets/33b7e431de7924f12e32def74599b0ebe9328d16.png)
+![shape-part-name.png](../../attachments/shape_assets--33b7e431de7924f12e32def74599b0ebe9328d16--757c022cd39e1a1a.png)
 
 </div>
 
@@ -414,7 +414,7 @@ Each of the four contextual knobs can control one or more parameters inside of t
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-mod.png" file-size="104682" data-height="109" data-id="bd118e4f-8440-4ad8-985b-d4a299487857" node-type="media" data-type="file" data-width="540" title="Attachment">
 
-![shape-mod.png](Shape_assets/7094f9d57d681da61946ca880d1c2ba822dd284e.png)
+![shape-mod.png](../../attachments/shape_assets--7094f9d57d681da61946ca880d1c2ba822dd284e--86cce5adb3a4336e.png)
 
 </div>
 
@@ -476,7 +476,7 @@ This parameter shifts the octave range of the part up or down by up to four octa
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-tune-area.png" file-size="32270" data-height="107" data-id="1e7633ec-7bd1-4252-84d7-0d49ee5e4df7" node-type="media" data-type="file" data-width="155" title="Attachment">
 
-![shape-tune-area.png](Shape_assets/1939fcaff215b06f4f666b6e98157f7dda799cc7.png)
+![shape-tune-area.png](../../attachments/shape_assets--1939fcaff215b06f4f666b6e98157f7dda799cc7--0415787fcedc0bf4.png)
 
 </div>
 
@@ -502,7 +502,7 @@ This parameter fine- tunes the pitch of the part up or down by up to ±50 cents.
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-key-range.png" file-size="352012" data-height="215" data-id="8a6efe09-b9c4-4325-8dbc-ffb7eba9bf5a" node-type="media" data-type="file" data-width="857" title="Attachment">
 
-![shape-key-range.png](Shape_assets/39799e45d62c0843ae7e5dd3c0e4ec6e65bd56ab.png)
+![shape-key-range.png](../../attachments/shape_assets--39799e45d62c0843ae7e5dd3c0e4ec6e65bd56ab--2a4efbe78ce113de.png)
 
 </div>
 
@@ -534,7 +534,7 @@ When key ranges overlap, the parts play together as a layered sound. If the part
 
 <div collection="contentId-212303945" context-id="212303945" file-mime-type="image/png" file-name="shape-fx-browser.png" file-size="290455" data-height="457" data-id="af81fd96-af3d-4689-b14d-802da837dd05" node-type="media" data-type="file" data-width="857" title="Attachment">
 
-![shape-fx-browser.png](Shape_assets/85ae40737e8ecbe5defcab069010407b08ef3b93.png)
+![shape-fx-browser.png](../../attachments/shape_assets--85ae40737e8ecbe5defcab069010407b08ef3b93--2fb53de09d728b5d.png)
 
 </div>
 

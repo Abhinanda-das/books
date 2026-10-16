@@ -69,11 +69,11 @@ We thank you, and we thank my father, Bill Putnam.
 Sincerely, 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0003-09.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0003-09--8ee1d022f72cd639.png)
 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0003-10.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0003-10--77d5914fbeb19d65.png)
 
 
 Bill Putnam, Jr. 
@@ -218,7 +218,7 @@ And when we need to direct you to a page or section elsewhere in the manual, we�
 ## **_____________________________________________________________** 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0008-02.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0008-02--d0e41295274ce5bb.png)
 
 
 **----- Start of picture text -----**<br>
@@ -282,7 +282,7 @@ The 1176LN Ratio buttons allow four different modes of operation:
 **Rear Panel** 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0011-01.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0011-01--9b48921073feb365.png)
 
 
 **----- Start of picture text -----**<br>
@@ -290,7 +290,7 @@ _____________________________________________________________<br>**----- End of 
 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0011-02.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0011-02--e14d628ebe652454.png)
 
 
 **----- Start of picture text -----**<br>
@@ -318,7 +318,7 @@ _____________________________________________________________<br>**----- End of 
 ## **_____________________________________________________________** 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0012-02.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0012-02--0c2501b8a46ac8a6.png)
 
 
 **----- Start of picture text -----**<br>
@@ -326,7 +326,7 @@ _____________________________________________________________<br>**----- End of 
 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0012-03.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0012-03--4a90d069d0149207.png)
 
 
 **----- Start of picture text -----**<br>
@@ -440,7 +440,7 @@ The original Universal Audio 1176, designed by Bill Putnam, was a major breakthr
 As is evident from entries and schematics in his design notebook, Putnam experimented extensively at the time with the then newly developed Field Effect Transistor (F.E.T.) in various configurations and eventually found a way of using it as the gain-controlling element of a compressor/limiter. The original version of the 1176, released in 1967, was denoted the 1176A, but was revised to the model AB only a few months later, with improvements in stability and slightly reduced noise. The following year saw revision B, with further minor changes to the preamplifier circuit. These models all featured a brushed aluminum faceplate with a blue meter section. 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0017-05.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0017-05--c3fd8792b1c2a2e5.png)
 
 
 **1176 Revision B** 
@@ -450,7 +450,7 @@ Revision C, released in September 1970, saw two major changes. One, the unit now
 Numerous design improvements followed, resulting in at least 13 revisions of the 1176. Plunkett’s LN circuitry was originally encased within an epoxy module, but a subsequent redesign fully integrated these improvements with the main circuit board, resulting in revision D. 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0017-09.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0017-09--d069d453f723b32a.png)
 
 
 **1176LN Revision D** 
@@ -506,7 +506,7 @@ In the 1176LN, the Input knob controls both the threshold and the amount of inpu
 Another important term is compression _ratio_ , which describes the amount of increase required in the incoming signal in order to cause a 1 dB increase in output. A ratio of 1:1 therefore means that for every 1 dB of increase in input level, there is a corresponding 1 dB increase in output level; in other words, there is no compression being applied. A ratio of 4:1, however, means that any time there is an increase of 4 decibels in the loudness of the input signal, there will only be a 1 dB increase in output signal. A ratio of 8:1 means that even when there is a full 8 decibels of increase in loudness, there will still only be a 1 decibel increase in output signal. (Bear in mind that the decibel is a logarithmic form of measurement, so a 2 dB signal is not twice as loud as a 1 dB signal; in fact, it requires approximately 10 dB of increased gain for a signal to sound twice as loud.) 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0020-07.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0020-07--f91ed273b5b5cdf1.png)
 
 
 As you can see from this illustration, at low ratios of 2:1 or 4:1, a compressor has relatively less effect on the incoming signal; at higher ratios, it has more effect. While the terms “compression” and “limiting” are often used interchangeably, the general definition of compression is gain reduction at ratios below 10:1; when higher ratios (of 10:1 or greater) are used, the process is instead called _limiting_ . Limiters abruptly prevent signals above the threshold level from exceeding a certain 
@@ -582,13 +582,13 @@ Then follow these steps to assemble the cable:
 3. Solder the hot (white) lead from the cable connected to the male XLR to the tip connection point of the TRS jack. Solder the hot (white) lead from the cable connected to the female XLR to the ring connection point of the TRS jack. As shown in the photograph below, combine the cold lead and the shielding together at the ground point. 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0023-11.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0023-11--22cf58a181dc418c.png)
 
 
 4. Your finished cable should look like the photograph below. Be sure to check continuity with a voltmeter or test light before use, to ensure proper grounding and signal flow. 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0023-13.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0023-13--6e562af9f445edae.png)
 
 
 23 
@@ -604,7 +604,7 @@ Because it predated standard XLR connectors, the original 1176LN provided termin
 The terminal strip inputs and outputs, from left to right, are as follows: 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0024-05.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0024-05--69db2442346e8d74.png)
 
 
 IN +/IN C (Common) GND (Chassis Ground) OUT +/OUT C (Common) METER (two terminals, polarized; the inner terminal connects to meter plus and the outer terminal to meter minus) 
@@ -642,7 +642,7 @@ The METER terminals provide a series insert point into the 1176LN’s meter side
 The 1176LN meter may occasionally need to be calibrated. This is accomplished by adjusting the Zero Set potentiometer, located through a small hole on the front panel between the Input and Output knobs. 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0025-07.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0025-07--0098123a5824a6b1.png)
 
 
 The procedure for adjusting the meter is as follows: 
@@ -710,7 +710,7 @@ A multimeter is needed to perform this calibration procedure:
 With the use of an external 1176 Stereo Adapter (1176SA), available from Universal Audio, two 1176LNs can be connected for stereo operation. 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0027-04.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0027-04--e54ddcf15963dd5c.png)
 
 
 - **When used in stereo operation, the Attack and Release controls on the two 1176LNs will interact so that changing the Attack or Release times on either device changes that of both devices. Also, when connected in a stereo configuration, the fastest attack time is doubled (that is, it becomes 40 microseconds instead of 20 microseconds.** 
@@ -740,7 +740,7 @@ Use the following procedure to calibrate the 1176SA stereo adapter:
 The 1176LN can operate at 115V or 230V. It will be factory preset for the voltage in your area; however, if it is necessary to change the voltage selector (located directly below the transformer on the rear panel), use a small slotted screwdriver to slide it to the desired operating voltage. 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0028-04.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0028-04--dd8cc55ea26d0aa7.png)
 
 
 **NOTE: When changing operating voltage, the fuse value must be changed as well** . _**Make sure the 1176LN is properly set for the voltage in your area before applying AC power to the unit!**_ Failure to do so may damage the unit. 
@@ -768,19 +768,19 @@ The fundamental problem facing Bill Putnam Sr. when he began designing the 1176 
 The output stage of the 1176 was a carefully crafted class A line level amplifier, designed to work with the then standard load of 600 ohms. The heart of this stage is the custom output transformer developed by Putnam; its design and performance is critical to the sound of the device. This transformer was distinguished by the fact that it used several additional sets of windings to provide feedback (a practice widely used in the tube amplifiers of the era), which made it an integral component in the operation of the output amplifier. Putnam spent a great deal of time perfecting the design of this tricky transformer and carefully qualified the few vendors capable of producing it. 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0029-05.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0029-05--b6443229b4100766.png)
 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0029-06.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0029-06--64e3d16cc18c8b3d.png)
 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0029-07.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0029-07--4093634af2bf911d.png)
 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0029-08.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0029-08--54e8693ca4a10dba.png)
 
 
 _**Figure 1 - Block Diagram of the 1176LN**_ 
@@ -798,7 +798,7 @@ Let’s take a closer look at each stage within the 1176LN circuit.
 ## _**Input Section**_ 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0030-03.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0030-03--a3457e5833121ebf.png)
 
 
 _**Figure 2 - Input Section**_ 
@@ -808,7 +808,7 @@ As shown in Figure 2, the 1176LN input section is comprised of an adjustable pas
 ## _**Gain Reduction Stage**_ 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0030-07.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0030-07--4cc8f1fee5f33427.png)
 
 
 _**Figure 3 - Gain Reduction Stage**_ 
@@ -822,7 +822,7 @@ _**Figure 3 - Gain Reduction Stage**_
 As shown in Figure 3, gain reduction is achieved by a Field Effect Transistor (FET) which is used as a variable resistor. In the 1176LN, the FET acts like a resistor whose resistance is controlled by the voltage applied to its gate. The higher the voltage applied to the gate, the smaller the drain-source resistance will be. 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0031-03.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0031-03--cd29a1b5911f99ac.png)
 
 
 _**Figure 4 - Using an FET as a voltage-variable resistor. The combination of R5 and Q1 acts as a voltage divider which controls the gain.**_ 
@@ -846,7 +846,7 @@ The output amplifier is a Darlington pair followed by a class A stage based on a
 ## _**Gain Reduction Control Circuit**_ 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0032-05.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0032-05--b8da1120fbf1f506.png)
 
 
 _**Figure 5 - Gain Reduction Control Circuit**_ 
@@ -976,11 +976,11 @@ A bias level is applied to the diodes by the Compression Ratio pushbutton switch
 **_______________________________________________________________________** 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0037-03.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0037-03--42dbbc179cb16ef4.png)
 
 
 
-![](1176ln_manual_assets/1176ln_manual.pdf-0037-04.png)
+![](../../attachments/1176ln_manual_assets--1176ln_manual.pdf-0037-04--747f790e7cd06d08.png)
 
 
 37 

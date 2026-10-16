@@ -46,7 +46,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--b274c23d7d5e7898.png)
 </figure>
 
 Bill Putnam Jr.
@@ -59,7 +59,7 @@ Bill Putnam Jr.
 
 # Ruby '63 Quick Start
 
-![ruby-qs-bw.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/42df389bfcd1b7b3543930f6b4f2aa0c29c0549a.png)
+![ruby-qs-bw.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--42df389bfcd1b7b3543930f6b4f2aa0c29c0549a--88cb820498ec1216.png)
 
 [**Download Ruby '63 Quick Start**](360058186352-UAFX-Pedal-Downloads.html)
 
@@ -146,7 +146,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image">
-![rear-callouts-amp.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/71a90f387ababfc5588e23519cf25abe839971d2.png)
+![rear-callouts-amp.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--46338df2a776acbb.png)
 </figure>
 
  
@@ -172,7 +172,7 @@ You can store a preset you've created with your own settings by holding down the
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-on-led.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/039ea6f067a659c26bac8c58abbbf5de3c79066c.png)
+![golden-switches-on-led.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--d641feae8e31104d.png)
 </figure>
 
 ### Preset Mode
@@ -182,7 +182,7 @@ To enter Preset mode, press the right footswitch. Press the right footswitch aga
 **Note:** The left and right footswitch functions can be changed in the UAFX Control mobile app.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-preset-led.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/381e83806fbca2e28a4cc8d1d3a4d7b015b0194c.png)
+![golden-switches-preset-led.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--c319f5c810b48930.png)
 </figure>
 
 ## Stored Preset
@@ -406,7 +406,7 @@ For more details about footswitch modes and how to enable them, see the <a href=
 
 Each speaker, cabinet, and mic setting has a unique sound. Toggle up or down through the list with the Speaker switch. When you register your pedal with UAFX Control software, you get three free bonus speaker cabinets (green LEDs).
 
-![bonus-cabs-ruby.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/af307cf72eea712c724e24e50718987327cf6311.png)
+![bonus-cabs-ruby.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--af307cf72eea712c724e24e50718987327cf6311--f703016adf4b5902.png)
 
 **Note:** The speaker cabinet labels on the pedal apply only when the speaker LED is red. When the speaker LED is green, the active speaker name is visible in the UAFX Control mobile app.
 
@@ -541,7 +541,7 @@ Tap Settings at the bottom right of the screen to access the settings for a peda
 
 After registration, the Blue Mod, Match, and Gold speaker cabinets are added to the pedal. To select these speaker cabinets, push the Effect Type switch until the top, middle, or bottom LED is lit green.
 
-![bonus-cabs-ruby.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/af307cf72eea712c724e24e50718987327cf6311.png)
+![bonus-cabs-ruby.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--af307cf72eea712c724e24e50718987327cf6311--f703016adf4b5902.png)
 
 ## Ruby '63 footswitch modes
 
@@ -554,14 +554,14 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![ruby-fs-modes.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/12e488aad31020fef0f52e47f37c2e5fc34d0b18.png)
+![ruby-fs-modes.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--12e488aad31020fef0f52e47f37c2e5fc34d0b18--065755fc82cfe4c5.png)
 </figure>
 
 The following Ruby '63 footswitch modes can be selected with the UAFX Control app.
 
 ### Live \| Preset
 
-![ruby-fs-live-preset.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/2a817f059b7b1f9803369414a6d64a4f4eef8188.png)
+![ruby-fs-live-preset.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--2a817f059b7b1f9803369414a6d64a4f4eef8188--48df070199aee7e0.png)
 
 In Live \| Preset mode, you can access Live mode (knobs and switches) and the stored preset.
 
@@ -572,7 +572,7 @@ In Live \| Preset mode, you can access Live mode (knobs and switches) and the st
 
 ### Boost \| Live/Preset
 
-![ruby-fs-boost-live-preset.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/2817aecac31bef07eb829f975d952f3e29214b77.png)
+![ruby-fs-boost-live-preset.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--2817aecac31bef07eb829f975d952f3e29214b77--03b504567d9e83af.png)
 
 In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
@@ -582,7 +582,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 
 ### Vibrato \| Live/Preset
 
-![ruby-fs-vibrato-live-preset.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/90fde643c16c4e7204f869397fdd70d50fd95a75.png)
+![ruby-fs-vibrato-live-preset.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--90fde643c16c4e7204f869397fdd70d50fd95a75--400d217a68dfed50.png)
 
 - **Left Footswitch** toggles the Vibrato on/off
 - **Right Footswitc**h toggles between Live mode (red LED) and the stored preset (green LED)
@@ -590,7 +590,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 
 ### Boost \| Vibrato
 
-![ruby-fs-boost-vibrato.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/3ff6315328427512a0946f337ea00b584fcd04bd.png)
+![ruby-fs-boost-vibrato.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--3ff6315328427512a0946f337ea00b584fcd04bd--b266bc6a9ef28a41.png)
 
 - **Left Footswitch** toggles Boost on/off
 - **Right Footswitc**h toggles the Vibrato on/off
@@ -602,7 +602,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![ruby-fs-live-ab.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/bd4201e67406db84e9d756cd086197f45842c2f9.png)
+![ruby-fs-live-ab.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--bd4201e67406db84e9d756cd086197f45842c2f9--73a2afa85699b744.png)
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -614,7 +614,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![ruby-fs-ab.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/d23d9a1825e42f44347c7574123c9fa183d6f14a.png)
+![ruby-fs-ab.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--d23d9a1825e42f44347c7574123c9fa183d6f14a--376af06d7f95a9d6.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -626,7 +626,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![ruby-fs-abcd.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/1e819915e232ffd200875fa0d19ef3bb45ca5f40.png)
+![ruby-fs-abcd.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--1e819915e232ffd200875fa0d19ef3bb45ca5f40--477ab4675c194b77.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)
@@ -894,9 +894,9 @@ Sending the program change and bypass state first allows the pedal to load the i
 
 # Ruby '63 Safety
 
-![safety-symbol-exclaim.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
+![safety-symbol-exclaim.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--9be22c2d7d236968.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
 
-![safety-symbol-book-info.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
+![safety-symbol-book-info.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--bc5f7ef92817af3a.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
 - Read the instructions.
 - Keep these instructions.
@@ -938,7 +938,7 @@ License exempt. This device complies with Industry Canada license-exempt RSS sta
 
 Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux appareils radio exempts de licence. L'exploitation est autorisée aux deux conditions suivantes : (1) l'appareil ne doit pas produire de brouillage, et (2) l'utilisateur de l'appareil doit accepter tout brouillage radioélectrique subi, même si le brouillage est susceptible d'en compromettre le fonctionnement.
 
-![safety-symbol-trash.png](UAFX%20Ruby%20%2763%20Top%20Boost%20Amplifier%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
+![safety-symbol-trash.png](../../attachments/uafx-ruby-63-top-boost-amplifier-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--4f0ddfe253f5d62a.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 
 - IEC 62368-1
 - FCC ID: 2AXKQ2029

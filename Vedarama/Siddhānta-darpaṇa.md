@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bv-siddhanta-darpana"
 ---
 
-![обложка|156](<Siddhānta-darpaṇa/обложка.jpeg>)
+![обложка|156](<../attachments/siddh%C4%81nta-darpa%E1%B9%87a--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--de332179047fac2b.jpeg>)
 
 # Siddhānta-darpaṇa
 

@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/nrs-lfad1"
 ---
 
-![обложка|156](<Lectures from a Disciple. Vol. 1/обложка.jpeg>)
+![обложка|156](<../attachments/lectures-from-a-disciple.-vol.-1--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1432c61f70841e5d.jpeg>)
 
 We have compiled lectures given in various cities and over several years, into chapters based on their subject :
 

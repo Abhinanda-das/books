@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/manusamhita2"
 ---
 
-![обложка|156](<Manusmriti The Laws of Manu/обложка.jpeg>)
+![обложка|156](<../attachments/manusmriti-the-laws-of-manu--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c0d7b54379827bcf.jpeg>)
 
 # Manusmriti: The Laws of Manu
 

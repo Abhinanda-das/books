@@ -10,11 +10,11 @@ word_count: 2975
 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo-2x.png](Volt%20176%20Hardware%20Manual_assets/b2e07d9f98bd482d78e2f34150c53b0aec7da872.png)
+![volt-logo-2x.png](../../attachments/volt-176-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--c1f0dbb8ba0c3374.png)
 </figure>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-176-photo.png](Volt%20176%20Hardware%20Manual_assets/aaaabd2abe96efe339660318ac15a0eadf2d2ad0.png)
+![volt-176-photo.png](../../attachments/volt-176-hardware-manual_assets--aaaabd2abe96efe339660318ac15a0eadf2d2ad0--ed6119dc970c06f4.png)
 </figure>
 
 This article contains complete instructions for Volt 176 hardware controls and connections.
@@ -59,7 +59,7 @@ At UA, we're dedicated to the idea that technology should serve the creative pro
 Please feel free to reach out to us via our website [www.uaudio.com](https://www.uaudio.com) and our social media channels. We look forward to hearing from you, and thank you once again for choosing Universal Audio.
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](Volt%20176%20Hardware%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/volt-176-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--5bdb725fba125685.png)
 </figure>
 
 Bill Putnam, Jr.
@@ -127,7 +127,7 @@ Use this diagram to identify the features on the Volt front panel.
 
 </div>
 
-![volt-176-front-callouts.png](Volt%20176%20Hardware%20Manual_assets/964506dedcad72399dd2c8ff6933526fbb840b73.png)
+![volt-176-front-callouts.png](../../attachments/volt-176-hardware-manual_assets--964506dedcad72399dd2c8ff6933526fbb840b73--cfdc1362c6e6143b.png)
 
 ### (1) XLR/TRS Combo Input 
 
@@ -183,7 +183,7 @@ Use this diagram to identify the features on the Volt top panel.
 
 </div>
 
-![volt-176-top-callouts.png](Volt%20176%20Hardware%20Manual_assets/c1a2a3215377d3c81ba615bbbec7c8abc4a5514e.png)
+![volt-176-top-callouts.png](../../attachments/volt-176-hardware-manual_assets--c1a2a3215377d3c81ba615bbbec7c8abc4a5514e--7ff9599aa2a63a01.png)
 
 ### (6) Monitor Knob
 
@@ -281,7 +281,7 @@ Use this diagram to identify the features on the Volt rear panel.
 
 </div>
 
-![volt-176-rear-callouts.png](Volt%20176%20Hardware%20Manual_assets/633ab0c7c2f10d291496506583f7bc560ebc8217.png)
+![volt-176-rear-callouts.png](../../attachments/volt-176-hardware-manual_assets--633ab0c7c2f10d291496506583f7bc560ebc8217--a0ccca8e65fee7dd.png)
 
 ### (15) Monitor Outputs
 

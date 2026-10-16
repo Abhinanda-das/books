@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/htps-snd"
 ---
 
-![обложка|156](<The Hitopadesa (SNd)/обложка.jpeg>)
+![обложка|156](<../attachments/the-hitopadesa-snd--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--685df429a1aa9fee.jpeg>)
 
 Hitopadesa, or “Good instructions”, is famous for its wisdom and is one of the most popular books on ethics and polity from niti-sastra. Many verses can be traced to the Puranas and Itihasas. It uses the story-within-a-story-format, with animals as the main characters. The first book, Mitralabha, or Acquisition of friends, defines the characteristics of real friends and shows the importance of having them. It is the most relevant in this present age, Kaliyuga, where shams thrive in the guise of love and good-will.
 

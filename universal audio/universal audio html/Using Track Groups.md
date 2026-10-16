@@ -104,7 +104,7 @@ You can create, enable, disable, and edit groups from the Groups browser. You ca
 
 <div class="wysiwyg-text-align-center" collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="groups-panel.png" file-size="82566" data-height="222" data-id="8e670e07-09d6-4c5f-a0cf-54101356930d" node-type="media" data-type="file" data-width="531" title="Attachment">
 
-![groups-panel.png](Using%20Track%20Groups_assets/2be4a0b1baa3f6e07b19be8f02ba029ce4507249.png)
+![groups-panel.png](../../attachments/using-track-groups_assets--2be4a0b1baa3f6e07b19be8f02ba029ce4507249--1dbd5e0aa8d8a42a.png)
 
 </div>
 
@@ -122,7 +122,7 @@ You can create, enable, disable, and edit groups from the Groups browser. You ca
 
     <div collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="group-create-no-annotation.png" file-size="175636" data-height="509" data-id="5da96b39-962d-449c-b56b-520a036d62fa" node-type="media" data-type="file" data-width="509" title="Attachment">
 
-    ![create-group.png](Using%20Track%20Groups_assets/839c8ae6c3b0878dcf70c0ad15db1919f5922917.png)
+    ![create-group.png](../../attachments/using-track-groups_assets--839c8ae6c3b0878dcf70c0ad15db1919f5922917--54b2fc7ff875f755.png)
 
     </div>
 
@@ -152,7 +152,7 @@ The new group appears in the Groups browser. If you don’t type a name for the 
 
 <div class="wysiwyg-text-align-center" collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="group-create-by-dragging.png" file-size="81438" data-height="210" data-id="75d6d4ef-c480-45d1-919a-ab2f9ecb5dd8" node-type="media" data-type="file" data-width="351" title="Attachment">
 
-![group-create-by-dragging.png](Using%20Track%20Groups_assets/5649a927b17bc6aca07ec55323127babf6b84d2f.png)
+![group-create-by-dragging.png](../../attachments/using-track-groups_assets--5649a927b17bc6aca07ec55323127babf6b84d2f--81130a26f42aa459.png)
 
 </div>
 
@@ -174,7 +174,7 @@ The label for the Groups browser changes to Create New Group when you drag the t
 
     <div collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="group-create-no-annotation.png" file-size="175636" data-height="509" data-id="5da96b39-962d-449c-b56b-520a036d62fa" node-type="media" data-type="file" data-width="509" title="Attachment">
 
-    ![create-group.png](Using%20Track%20Groups_assets/839c8ae6c3b0878dcf70c0ad15db1919f5922917.png)
+    ![create-group.png](../../attachments/using-track-groups_assets--839c8ae6c3b0878dcf70c0ad15db1919f5922917--54b2fc7ff875f755.png)
 
     </div>
 
@@ -202,7 +202,7 @@ The label for the Groups browser changes to Create New Group when you drag the t
 
     <div collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="group-add-tracks-drag.png" file-size="51321" data-height="230" data-id="22b52ef8-4ebd-4eb3-8048-914a51f76e30" node-type="media" data-type="file" data-width="255" title="Attachment">
 
-    ![group-add-tracks-drag.png](Using%20Track%20Groups_assets/ecb072e93f01c8c075dc9d53e627f4ca4c6ad53d.png)
+    ![group-add-tracks-drag.png](../../attachments/using-track-groups_assets--ecb072e93f01c8c075dc9d53e627f4ca4c6ad53d--852e802658af2a19.png)
 
     </div>
 
@@ -218,7 +218,7 @@ The label for the Groups browser changes to Create New Group when you drag the t
 
     <div collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="group-context-menu.png" file-size="84154" data-height="290" data-id="e418e317-128a-4586-8fdc-3d8d946f8281" node-type="media" data-type="file" data-width="255" title="Attachment">
 
-    ![group-context-menu.png](Using%20Track%20Groups_assets/408420a3fcf478b8a51d2bc4c44f5405be747d1f.png)
+    ![group-context-menu.png](../../attachments/using-track-groups_assets--408420a3fcf478b8a51d2bc4c44f5405be747d1f--2c3e8f4880ee72f1.png)
 
     </div>
 
@@ -228,7 +228,7 @@ The label for the Groups browser changes to Create New Group when you drag the t
 
 3.  To edit tracks in the group or the group name, select Edit.
 
-    ![edit-group.png](Using%20Track%20Groups_assets/c267e128d6ffaa909fde2e4b916999fd568d97cb.png)
+    ![edit-group.png](../../attachments/using-track-groups_assets--c267e128d6ffaa909fde2e4b916999fd568d97cb--5c8fcad5ba0ad7f0.png)
 
 4.  Make the changes to the group, and click OK. To discard changes to the group, click Revert.
 
@@ -247,7 +247,7 @@ The track group is deleted, but tracks are not deleted. You cannot delete the Al
 
 <div class="wysiwyg-text-align-center" collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="groups-hidden-shown.png" file-size="58585" data-height="230" data-id="d8ad7bc0-e25e-42b5-a7a7-f0b1732ec095" node-type="media" data-type="file" data-width="417" title="Attachment">
 
-![groups-hidden-shown.png](Using%20Track%20Groups_assets/e7e66fd5027feb81b101ab6700850694d5044a38.png)
+![groups-hidden-shown.png](../../attachments/using-track-groups_assets--e7e66fd5027feb81b101ab6700850694d5044a38--d8e30b7873c89afc.png)
 
 </div>
 
@@ -265,7 +265,7 @@ The track group is deleted, but tracks are not deleted. You cannot delete the Al
 
 <div class="wysiwyg-text-align-center" collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="group-all-enable-disable.png" file-size="83812" data-height="261" data-id="09c7a49f-60a1-4b17-89a8-f9d64893ffff" node-type="media" data-type="file" data-width="514" title="Attachment">
 
-![group-all-enable-disable.png](Using%20Track%20Groups_assets/ba8a44933eabde4b2e2b81399283315e1154a6ca.png)
+![group-all-enable-disable.png](../../attachments/using-track-groups_assets--ba8a44933eabde4b2e2b81399283315e1154a6ca--13f7de067f3c1c13.png)
 
 </div>
 
@@ -293,13 +293,13 @@ When a track group with audio tracks is enabled for Editing, you can perform mul
 
     </div>
 
-    ![group-warp-enable.png](Using%20Track%20Groups_assets/c769482d2442e8d354f3bb2e064b7d5cb9b404de.png)
+    ![group-warp-enable.png](../../attachments/using-track-groups_assets--c769482d2442e8d354f3bb2e064b7d5cb9b404de--c93b6ae787c35133.png)
 
      
 
 3.  Click next to Warp and set the Warp Algorithm for the track group from the menu.
 
-    ![group-warp-algorithms.png](Using%20Track%20Groups_assets/b2cb4503bf5bf7aa816e5c24345bd87a72010d27.png)
+    ![group-warp-algorithms.png](../../attachments/using-track-groups_assets--b2cb4503bf5bf7aa816e5c24345bd87a72010d27--ad2dcc1178acb621.png)
 
 4.  Place one or more Warp markers on a track in the group. Warp markers are placed on all tracks in the group. Warp markers are placed on all tracks in the group. A warp marker is placed on prioritized tracks first, then on the earliest transient in the group. To place an arbitrary warp marker, Control-click.
 
@@ -307,7 +307,7 @@ When a track group with audio tracks is enabled for Editing, you can perform mul
 
 <div class="wysiwyg-text-align-center" collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="multitrack-warp-edits.png" file-size="38560" data-height="544" data-id="fad6533f-d736-426b-b7a4-1dcdf79d379d" node-type="media" data-type="file" data-width="425" title="Attachment">
 
-![multitrack-warp-edits.png](Using%20Track%20Groups_assets/d8438b57a55e1e9acdcdecbd993bb6a968242f57.png)
+![multitrack-warp-edits.png](../../attachments/using-track-groups_assets--d8438b57a55e1e9acdcdecbd993bb6a968242f57--1f8c03affad63fa5.png)
 
 </div>
 
@@ -331,7 +331,7 @@ To adjust a single control without affecting the rest of the group, Control-clic
 
 <div class="wysiwyg-text-align-center" collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="grouped-tracks-mixer.png" file-size="138824" data-height="394" data-id="4eb9c37f-fb21-428c-b0ab-cbd72c384af2" node-type="media" data-type="file" data-width="286" title="Attachment">
 
-![grouped-tracks-mixer.png](Using%20Track%20Groups_assets/844f56d5574c3a87820bdbcbb8c41b5b40358614.png)
+![grouped-tracks-mixer.png](../../attachments/using-track-groups_assets--844f56d5574c3a87820bdbcbb8c41b5b40358614--cf04f9c9daa05a14.png)
 
 </div>
 
@@ -353,7 +353,7 @@ When you add an insert to a track, the same insert is added in the same slot on 
 
 <div class="wysiwyg-text-align-center" collection="contentId-662044673" context-id="662044673" file-mime-type="image/png" file-name="group-insert-plug-ins.png" file-size="1463305" data-height="629" data-id="c71593b1-54ff-4c37-899b-1e36a2c1f9c2" node-type="media" data-type="file" data-width="645" title="Attachment">
 
-![group-insert-plug-ins.png](Using%20Track%20Groups_assets/062d4b6fd30afc3020430be1baad2ec84946538e.png)
+![group-insert-plug-ins.png](../../attachments/using-track-groups_assets--062d4b6fd30afc3020430be1baad2ec84946538e--6005f94318242c32.png)
 
 </div>
 
@@ -373,7 +373,7 @@ When you add a send on a track, the same send is added in the same slot on other
 
 </div>
 
-![sends-grouped-adjust.png](Using%20Track%20Groups_assets/35b1045fd7a22c15c12e34ebe6217cb440a46358.png)
+![sends-grouped-adjust.png](../../attachments/using-track-groups_assets--35b1045fd7a22c15c12e34ebe6217cb440a46358--d4698430f81ee14f.png)
 
  
 

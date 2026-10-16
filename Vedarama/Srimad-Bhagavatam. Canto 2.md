@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sb-2"
 ---
 
-![обложка|156](<Srimad-Bhagavatam. Canto 2/обложка.jpeg>)
+![обложка|156](<../attachments/srimad-bhagavatam.-canto-2--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--46543466176c3043.jpeg>)
 
 After compiling the Vedas, Srila Vyasadeva was inspired to present their profound essence in the form of Srimad-Bhagavatam. As “the ripened fruit of the tree of Vedic literature,” the first verse of Srimad-Bhagavatam makes clear that because the book is intended for people serious about spiritual progress, it will not deal with sectarian religious ideas, philosophical conjecture, or worldly concerns. The second text promises that anyone who reads the Srimad-Bhagavatam systematically will achieve the spiritual success meant to be attained by all human beings.
 

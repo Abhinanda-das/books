@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rdb-navadvipa"
 ---
 
-![обложка|156](<Vraja Mandala Parikrama/обложка.jpeg>)
+![обложка|156](<../attachments/vraja-mandala-parikrama--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--491e4ca7e518cc9c.jpeg>)
 
 The most in-depth & detailed guide to the Chaurasi-kosa Vraja Mandala Parikrama including all 600 holy tirthas located in Vrindavana Dhama -This 550 page book is a veritable encyclopedia of Vraja along with over 100 maps of the region. This book also reveals all the hidden secrets of the holy Dhama and includes all the transcendental pastimes of Radha & Krishna as well as all the sacred pastime places
 

@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/motu"
 ---
 
-![обложка|156](<Message of the Upanishads/обложка.jpeg>)
+![обложка|156](<../attachments/message-of-the-upanishads--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--6130399c22b2b9b3.jpeg>)
 
 The Message of the Upanishads is a study, verse by verse, of three of the principal Upanishads, namely, Isha, Kena and Katha, in the light of modern thought and modern needs. Though constituting a small portion of the total Upanishadic literature, they yet contain a lucid exposition of all the essential ideas of this immortal literature.
 

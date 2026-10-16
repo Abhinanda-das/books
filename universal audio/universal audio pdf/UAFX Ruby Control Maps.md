@@ -9,7 +9,7 @@ word_count: 170
 ## SPEAKER MODES 
 
 
-![](<UAFX Ruby Control Maps_assets/UAFX_Ruby_Control_Maps.pdf-0001-01.png>)
+![](<../../attachments/uafx-ruby-control-maps_assets--uafx_ruby_control_maps.pdf-0001-01--7a353c3094a7582b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -37,11 +37,11 @@ VOLUME CUT OUTPUT VOLUME CUT OUTPUT VOLUME CUT OUTPUT<br>SPEAKER CHANNEL SPEAKER
 
 
 
-![](<UAFX Ruby Control Maps_assets/UAFX_Ruby_Control_Maps.pdf-0001-02.png>)
+![](<../../attachments/uafx-ruby-control-maps_assets--uafx_ruby_control_maps.pdf-0001-02--48a3ca790e9c3747.png>)
 
 
 
-![](<UAFX Ruby Control Maps_assets/UAFX_Ruby_Control_Maps.pdf-0001-03.png>)
+![](<../../attachments/uafx-ruby-control-maps_assets--uafx_ruby_control_maps.pdf-0001-03--f839234595868b83.png>)
 
 
 **----- Start of picture text -----**<br>

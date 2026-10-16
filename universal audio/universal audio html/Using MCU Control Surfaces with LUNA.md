@@ -68,15 +68,15 @@ Connect your control surfaces to your computer, and make sure they are recognize
 
 3.  In one of the MIDI Control Surface rows, click under Input Device and select a connected MIDI control surface from the drop menu.
 
-    ![surface-input-device.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/730a8eabe9388e8886d607f539bebf9caffd2bae.png)
+    ![surface-input-device.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--730a8eabe9388e8886d607f539bebf9caffd2bae--c6c410c2d4688383.png)
 
 4.  In the same MIDI Control Surface row, click under Output Device and select the same MIDI control surface.
 
-    ![surface-output-device.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/14ca3b2979677a877ee9593e19d13922868b8532.png)
+    ![surface-output-device.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--14ca3b2979677a877ee9593e19d13922868b8532--801edb5e5d1ecc9f.png)
 
 5.  Select the box in the On column to enable the control surface.
 
-    ![surface-enable.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/a6c63342359d5e5a593c8b19e16e7bb4ec0792ee.png)
+    ![surface-enable.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--a6c63342359d5e5a593c8b19e16e7bb4ec0792ee--0137db9671886d19.png)
 
 6.  If the control surface is a single fader control surface, the Focus Module box is automatically selected. if you do not want to use the control surface to follow the focused track, or to control a bus when the bus is spilled, deselect this box. See <a href="#h_01FFJG5Z6MJ9PVQGXNYA88F6HP" target="_self">Focus Module overview</a> for more information.
 
@@ -98,7 +98,7 @@ When you have two or more MIDI control surfaces defined in LUNA, you can reorder
 
 <div data-alt="" collection="contentId-1559461889" context-id="1559461889" external="true" file-mime-type="image/png" file-name="5AaSUpAF_6dL82Fc6v7fBSPrmYK98QtNyK-JST6STrmDrqkuT0jPEvZhH33qtSg8tD_-DtlLzK0M7KrjjlpgMnOW_QiKuOMS4Yi1dZiggiIaSAqXqZREMhSLHamUg0wINP0mhBtX=s0" file-size="39374" data-height="432" data-id="d98cb568-3a02-475a-b5fb-d21c56635627" node-type="media" occurrence-key="385f8a44-dac3-461b-858a-c7854cb05a5b" data-type="file" data-width="1360" title="Attachment">
 
-![surface-reorder.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/464fa8502bfb2f990702fe1ec420e7e571c60790.png)
+![surface-reorder.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--464fa8502bfb2f990702fe1ec420e7e571c60790--237d82d73d7ee215.png)
 
 </div>
 
@@ -154,7 +154,7 @@ MCU-compatible control surfaces use standardized controls for the system transpo
 <div layout="center" node-type="mediaSingle" data-width="">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![surface-transport-controls.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/f45fab25c2e02d2deefbb62e162cf92b20559bbf.png)
+![surface-transport-controls.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--f45fab25c2e02d2deefbb62e162cf92b20559bbf--26ae31eeea98a1ec.png)
 </figure>
 
 </div>
@@ -173,7 +173,7 @@ MCU-compatible control surfaces use standardized controls for the system transpo
 
 Per-track functions are available on your control surface. 
 
-![surface-track-controls.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/8def1030f8e1cd742a76695f54ca75ad6c4b95e6.png)
+![surface-track-controls.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--8def1030f8e1cd742a76695f54ca75ad6c4b95e6--278a6e9ce2dc50b0.png)
 
 <div layout="center" node-type="mediaSingle" data-width="">
 
@@ -220,7 +220,7 @@ The following control surface track automation features are available in LUNA. T
 
  
 
-![surface-automation-features.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/22d1badb0ae2745891097679e94acb79df602ee1.png)
+![surface-automation-features.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--22d1badb0ae2745891097679e94acb79df602ee1--85ed4b5d40aa85e4.png)
 
 <div layout="center" node-type="mediaSingle" data-width="">
 
@@ -252,13 +252,13 @@ Different banking, channel navigation, and channel selection buttons are shown b
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-1559461889" context-id="1559461889" external="true" file-mime-type="image/png" file-name="AoVNveQKcibxBc7dbCrydPK6Nesos6EKCD_zyhdSkFuAMT-WGqSev0DwsrVs8nGuy72huZTpuM92-n2V9VriLlWvsEyhbsimpa-ivjBCCvagtji7aqo5iR_lN9GwqB7rPadPWMvZ=s0" file-size="101824" data-height="444" data-id="5979334f-2af5-474e-a9a2-2f2413088b5e" node-type="media" occurrence-key="9204911a-3453-47c6-828b-95045cefcd2a" data-type="file" data-width="432" title="Attachment">
 
-![surface-bank-channel.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/a16c772515a80bfe75a10aa09d88ef3ae8a0cc10.png)
+![surface-bank-channel.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--a16c772515a80bfe75a10aa09d88ef3ae8a0cc10--6ef6e3357ff46f54.png)
 
 </div>
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-1559461889" context-id="1559461889" external="true" file-mime-type="image/png" file-name="AoVNveQKcibxBc7dbCrydPK6Nesos6EKCD_zyhdSkFuAMT-WGqSev0DwsrVs8nGuy72huZTpuM92-n2V9VriLlWvsEyhbsimpa-ivjBCCvagtji7aqo5iR_lN9GwqB7rPadPWMvZ=s0" file-size="101824" data-height="444" data-id="5979334f-2af5-474e-a9a2-2f2413088b5e" node-type="media" occurrence-key="9204911a-3453-47c6-828b-95045cefcd2a" data-type="file" data-width="432" title="Attachment">
 
-![surface-banks-channels-daw-control.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/2f797abffcd6113231b53f47b0619d701266d869.png)
+![surface-banks-channels-daw-control.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--2f797abffcd6113231b53f47b0619d701266d869--62607b28ec251b3a.png)
 
 </div>
 
@@ -283,7 +283,7 @@ Some surfaces have a 4-way arrow key pad for navigation. 
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-1559461889" context-id="1559461889" external="true" file-mime-type="image/png" file-name="TMXeYl2aYZdqzEC-xk_tceC_vZz3ogpDJeGJr_u5eAPtK37ZPVtwOgS-ei5FeBTwKX-fnmfjomT89slwjU9M3FI-PSFUJa9nzyXs1MLPJCoKIRs5eC36qWT-8Lubj5xvCO-fqTz3=s0" file-size="49275" data-height="355" data-id="83533e2f-c009-47cd-ace1-47b9114fa975" node-type="media" occurrence-key="b8b17b30-f500-4c74-975b-7326a2fe7951" data-type="file" data-width="498" title="Attachment">
 
-![surface-select-left-right.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/77f0ef06fafefa2ead81d2c34e6d467d85db1acf.png)
+![surface-select-left-right.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--77f0ef06fafefa2ead81d2c34e6d467d85db1acf--e2d44ad046e99c3d.png)
 
 </div>
 
@@ -301,7 +301,7 @@ Some control surfaces implement timeline zoom and track height controls. For exa
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-1559461889" context-id="1559461889" external="true" file-mime-type="image/png" file-name="a_r8RuO5_PYBPUc95Xtn2PMUZ61YQ8FUJOhRYfkiXj1QGJbmxkZC3it-P_9ioudDojJkbCPrsx43qLcfgQ8W_K7xBuA-F0qxVnXBk5B74xFIjBGi3vEiCSZ22L3YVnj5Vni11cVA=s0" file-size="35424" data-height="338" data-id="f0bc8904-2fd4-4d27-8428-9277c193cb97" node-type="media" occurrence-key="282f21aa-0684-4ecb-bcb1-52e4ab40d20b" data-type="file" data-width="437" title="Attachment">
 
-![surface-track-zoom.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/95e7d891559d7097b245bebd9a116f38bb6a65ae.png)
+![surface-track-zoom.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--95e7d891559d7097b245bebd9a116f38bb6a65ae--ae6df00a7e50fabb.png)
 
 </div>
 
@@ -363,7 +363,7 @@ When you spill a bus and you do not have a focus module configured, the bus trac
 
  
 
-![bus-spill-no-focus-module.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/b20856e7d4c4ec469fce6530a4c23858277314fe.png)
+![bus-spill-no-focus-module.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--b20856e7d4c4ec469fce6530a4c23858277314fe--c43c8328d5d54a88.png)
 
 *Bus spill (no focus module)*
 
@@ -376,7 +376,7 @@ When you have a defined focus module in LUNA settings, and you spill a bus, that
 <div layout="center" node-type="mediaSingle" data-width="">
 
 <figure class="wysiwyg-image">
-![bus-spill-with-focus-module.png](Using%20MCU%20Control%20Surfaces%20with%20LUNA_assets/2026e7fec1f2d449b9efbf5aeb800ebeb93193fa.png)
+![bus-spill-with-focus-module.png](../../attachments/using-mcu-control-surfaces-with-luna_assets--2026e7fec1f2d449b9efbf5aeb800ebeb93193fa--7f48f22cecb86ced.png)
 </figure>
 
 </div>

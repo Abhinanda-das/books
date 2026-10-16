@@ -7,15 +7,15 @@ word_count: 698
 ---
 
 
-![](<Maag EQ4 Manual_assets/Maag_EQ4_Manual.pdf-0001-00.png>)
+![](<../../attachments/maag-eq4-manual_assets--maag_eq4_manual.pdf-0001-00--484639a03df91a76.png>)
 
 
 
-![](<Maag EQ4 Manual_assets/Maag_EQ4_Manual.pdf-0001-01.png>)
+![](<../../attachments/maag-eq4-manual_assets--maag_eq4_manual.pdf-0001-01--8bde7485f9980f5c.png>)
 
 
 
-![](<Maag EQ4 Manual_assets/Maag_EQ4_Manual.pdf-0001-02.png>)
+![](<../../attachments/maag-eq4-manual_assets--maag_eq4_manual.pdf-0001-02--f8b6ef57bff124d7.png>)
 
 
 ## **Thank you for using the Mäag Audio EQ4 plug-in.** 
@@ -51,15 +51,15 @@ Understanding how the band passes and the AIR BAND[®] interact in the Mäag Aud
 GET SOME AIR BAND[®] www.maagaudio.com 
 
 
-![](<Maag EQ4 Manual_assets/Maag_EQ4_Manual.pdf-0002-00.png>)
+![](<../../attachments/maag-eq4-manual_assets--maag_eq4_manual.pdf-0002-00--1f4bdcfeb2e540a3.png>)
 
 
 
-![](<Maag EQ4 Manual_assets/Maag_EQ4_Manual.pdf-0002-01.png>)
+![](<../../attachments/maag-eq4-manual_assets--maag_eq4_manual.pdf-0002-01--c8f7615dbf98b5cf.png>)
 
 
 
-![](<Maag EQ4 Manual_assets/Maag_EQ4_Manual.pdf-0002-02.png>)
+![](<../../attachments/maag-eq4-manual_assets--maag_eq4_manual.pdf-0002-02--6c1a1cc03d831678.png>)
 
 
 ## **Formats** 

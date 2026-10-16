@@ -15,7 +15,7 @@ The Monitor Column is visible at the right side of the UAD Console window, when 
 
 **Note:** Settings in the Monitor Column are global functions. They are not saved with individual UAD Console session files. 
 
-![monitor-column-callouts.png](Monitor%20Column_assets/6b573d0ac000bbb9dee209a7417e3a37aef1fa8f.png)
+![monitor-column-callouts.png](../../attachments/monitor-column_assets--6b573d0ac000bbb9dee209a7417e3a37aef1fa8f--24d3fb58efa3643b.png)
 
 *The Monitor Column*
 
@@ -35,7 +35,7 @@ To open a separate larger, resizable UAD Console Output Meters window, click on 
 
 **Tip:** Drag from the bottom right corner to change the height of the separate output meters window.
 
-![](Monitor%20Column_assets/0106053d8a9d1234e77c97b2083f2848f348b26f.png)
+![](../../attachments/monitor-column_assets--0106053d8a9d1234e77c97b2083f2848f348b26f--011a7702572d9a74.png)
 
 ## Meter Source
 
@@ -63,8 +63,8 @@ These switches show and hide the visibility of the auxiliary return strips and/o
 </colgroup>
 <tbody>
 <tr>
-<td>![show-aux-ctrlrm-off.png](Monitor%20Column_assets/fb7544be73234e42f7bc90fb5f45368c0e5f9727.png)</td>
-<td>![show-aux-ctrlrm-on.png](Monitor%20Column_assets/6671ae203f5928ebfeefecbf1929ef1dd4711e17.png)</td>
+<td>![show-aux-ctrlrm-off.png](../../attachments/monitor-column_assets--fb7544be73234e42f7bc90fb5f45368c0e5f9727--9e6d761caa62e0f2.png)</td>
+<td>![show-aux-ctrlrm-on.png](../../attachments/monitor-column_assets--6671ae203f5928ebfeefecbf1929ef1dd4711e17--4e5946355d4c188d.png)</td>
 </tr>
 </tbody>
 </table>
@@ -76,13 +76,13 @@ These switches show and hide the visibility of the auxiliary return strips and/o
 
 # Cue Outputs
 
-# ![](Monitor%20Column_assets/2be782fccdf356c37b5adc9901c8a6ab1229067d.png)
+# ![](../../attachments/monitor-column_assets--2be782fccdf356c37b5adc9901c8a6ab1229067d--b8783e093273357e.png)
 
 The Cue Outputs window is where the cue bus returns are configured. To open the Cue Outputs window, click the CUE OUTPUTS button in the Monitor Column. See [Cues](https://help.uaudio.com/hc/en-us/articles/25351037512340) for more information.
 
 # Monitor Controller
 
-![](Monitor%20Column_assets/27f0e4cc1d887e94bd5f6fded17b9d845284ee0f.png)
+![](../../attachments/monitor-column_assets--27f0e4cc1d887e94bd5f6fded17b9d845284ee0f--8af93d67c1688e73.png)
 
 The Monitor Controller switch opens the Monitor Controller floating window, where you can configure Bass Management and access Speaker Utilities. See [Apollo X Bass Management](https://help.uaudio.com/hc/en-us/articles/30920209088404) for more information on Bass Management, and [Speaker Utilities](https://help.uaudio.com/hc/en-us/articles/36177324309140) for more information on the Monitor Controller window functions. Note that the Speaker Utilities function apply to stereo monitor mode and surround modes.
 
@@ -90,7 +90,7 @@ The Monitor Controller switch opens the Monitor Controller floating window, wher
 
 # Monitor Output Options
 
-![](Monitor%20Column_assets/ce9a51e211d9c7e976567b7a36b07b40b8eaa39c.png)
+![](../../attachments/monitor-column_assets--ce9a51e211d9c7e976567b7a36b07b40b8eaa39c--5425a88f5f5666a4.png)
 
 Various monitor options are controlled with the switches in the OUTPUT section.
 
@@ -114,7 +114,7 @@ ALT monitoring is enabled in Settings \> Hardware by increasing the ALT Count se
 
 ## ALT Monitor Select
 
-![](Monitor%20Column_assets/fdc1d4081fcc8576038a4e17a5bd139b38ebd26c.png)
+![](../../attachments/monitor-column_assets--fdc1d4081fcc8576038a4e17a5bd139b38ebd26c--f0fc83202e442fe7.png)
 
 ALT selector
 
@@ -126,7 +126,7 @@ The monitor level knob adjusts the output volume and muting of both the ALT moni
 
 ## ALT Monitor Knob Color
 
-![](Monitor%20Column_assets/fb23cb77beb5ede3fe2f80736401ed1c2e4a0b23.png)
+![](../../attachments/monitor-column_assets--fb23cb77beb5ede3fe2f80736401ed1c2e4a0b23--1414b1d9f52032f6.png)
 
 The colored ring around the Monitor Level knob indicates the active ALT selection, as shown at right.
 
@@ -138,7 +138,7 @@ The colored ring around the Monitor Level knob indicates the active ALT selectio
 
 ## ALT Monitor Trims
 
-![](Monitor%20Column_assets/70910d3844ad937bd8ec416d21257eb6e47a0f61.png)
+![](../../attachments/monitor-column_assets--70910d3844ad937bd8ec416d21257eb6e47a0f61--180cca86ceedf990.png)
 
 *ALT trims*
 
@@ -152,13 +152,13 @@ As the monitor level is adjusted, these offsets are maintained so speakers can b
 
 ## Monitor Mono
 
-![](Monitor%20Column_assets/5b052782f45704a4f175fcc43cb27b2c29eb6f0f.png)
+![](../../attachments/monitor-column_assets--5b052782f45704a4f175fcc43cb27b2c29eb6f0f--f676b0fcd65340cb.png)
 
 This switch sums the left and right channels of the stereo monitor mix into a monophonic signal. The monitor output is stereo when the button is gray and mono when the button is lit.
 
 ## Monitor Mute
 
-![](Monitor%20Column_assets/613f1792ddb38ac4125906662ef8e8c9f47b97c7.png)
+![](../../attachments/monitor-column_assets--613f1792ddb38ac4125906662ef8e8c9f47b97c7--fbd3ef5e8a435f1f.png)
 
 This switch mutes Apollo's monitor outputs and stops monitor meters activity. The monitor outputs are muted when the switch is lit. This switch performs the same function as pressing the MONITOR knob on Apollo. The Monitor Level Indicator (the ring around the level knob) is red when the monitor outputs are muted.
 
@@ -197,7 +197,7 @@ If this setting is **disabled**:
 
 ## Monitor Output Gain Bypass (Apollo 8, Apollo 8p, Apollo 16 MkII)
 
-![](Monitor%20Column_assets/2b3a47979f9edf26b3fc8f018f0e5ef038aae7e0.png)
+![](../../attachments/monitor-column_assets--2b3a47979f9edf26b3fc8f018f0e5ef038aae7e0--009b1c46b0f320d5.png)
 
 *Monitor Output Gain bypassed*
 
@@ -233,12 +233,12 @@ In addition to indicating the relative signal level of the monitor outputs, the 
 </colgroup>
 <tbody>
 <tr>
-<td>![](Monitor%20Column_assets/b74025e58cfb45a9115889838d091a1895cd54e1.png)</td>
-<td>![](Monitor%20Column_assets/188b10b3575a50689b15fa1b1d0d208936b326f3.png)</td>
-<td>![](Monitor%20Column_assets/54eda9226bf202067053f62ba366941f64277ab5.png)</td>
-<td>![](Monitor%20Column_assets/fdf1dcfa309aa45d2e960bbb514ce5df852e82e7.png)</td>
-<td>![](Monitor%20Column_assets/1dfe5280b2e65633ee9acee3dd7e808b879efc2b.png)</td>
-<td>![](Monitor%20Column_assets/5fcf9fdf43b91b3fa76914e7a1929b408eac3261.png)</td>
+<td>![](../../attachments/monitor-column_assets--b74025e58cfb45a9115889838d091a1895cd54e1--07971cd940c81ca8.png)</td>
+<td>![](../../attachments/monitor-column_assets--188b10b3575a50689b15fa1b1d0d208936b326f3--ea2c7ed6972ed780.png)</td>
+<td>![](../../attachments/monitor-column_assets--54eda9226bf202067053f62ba366941f64277ab5--b7d86835ef3e9dd9.png)</td>
+<td>![](../../attachments/monitor-column_assets--fdf1dcfa309aa45d2e960bbb514ce5df852e82e7--f06c8ffeb2f640e6.png)</td>
+<td>![](../../attachments/monitor-column_assets--1dfe5280b2e65633ee9acee3dd7e808b879efc2b--ec8c392675d8942e.png)</td>
+<td>![](../../attachments/monitor-column_assets--5fcf9fdf43b91b3fa76914e7a1929b408eac3261--7f9278766cd50df4.png)</td>
 </tr>
 </tbody>
 </table>
@@ -250,7 +250,7 @@ In addition to indicating the relative signal level of the monitor outputs, the 
 
 ## Apollo Twin Dot (Apollo Twin only)
 
-![](Monitor%20Column_assets/5d6d78fd037f6a1779b2c762c8c165059d1a87dc.png)
+![](../../attachments/monitor-column_assets--5d6d78fd037f6a1779b2c762c8c165059d1a87dc--a9f5c3b64c53c9b9.png)
 
 *Apollo Twin's MONITOR dot*
 
@@ -260,7 +260,7 @@ The dot provides a visual indication that the MONITOR level adjust function is a
 
 # Control Room Column
 
-![control-room-column-callouts.png](Monitor%20Column_assets/02fcd938ef3323ebda0e0b794361383ad690733d.png)
+![control-room-column-callouts.png](../../attachments/monitor-column_assets--02fcd938ef3323ebda0e0b794361383ad690733d--80da4ebdfd24993f.png)
 
 *Control Room column*
 
@@ -272,7 +272,7 @@ By default, the control room column is not visible. To show the column, enable t
 
 **Tip:** When Apollo X Series and/or Apollo Twin MkII is connected and CTRL ROOM is enabled, the Talkback Input Strip is also visible. For complete Talkback details, see [Talkback](https://help.uaudio.com/hc/en-us/articles/26489966354836).
 
-![](Monitor%20Column_assets/fcb933f0be96871ef5a8496bd4121872ef05074c.png)
+![](../../attachments/monitor-column_assets--fcb933f0be96871ef5a8496bd4121872ef05074c--d5fd53badc773d59.png)
 
 *The Show CTRL ROOM switch in the monitor column*
 
@@ -310,7 +310,7 @@ When HP is selected, its cue mix, summed with any DAW outputs assigned to the re
 
 ## CUE INACTIVE Dialog
 
-![](Monitor%20Column_assets/65909ce3d926f51fd0a82d94cc4c12a158b5b081.png)
+![](../../attachments/monitor-column_assets--65909ce3d926f51fd0a82d94cc4c12a158b5b081--84b891399f8067b7.png)
 
 CUE, HP, or LINE 3/4 can be selected as a monitor source only if its respective source in the Cue Outputs window is not set to MIX.
 

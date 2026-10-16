@@ -15,7 +15,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/nod"
 ---
 
-![обложка|156](<The Nectar of Devotion/обложка.jpeg>)
+![обложка|156](<../attachments/the-nectar-of-devotion--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8022da3d4d9857a3.jpeg>)
 
 The Nectar of Devotion is a summary study of Bhakti-rasamrta­ sindhu, which was written in Sanskrit by Srila Rupa Gosvami Prabhu­pada. He was the chief of the six Gosvamis who were the direct disciples of Lord Caitanya Mahaprabhu. When he first met Lord Caitanya, Srila Rupa Gosvami Prabhupada was engaged as a minister in the Mohammeden government of Bengal. He and his brother Sanatana were then named Sakara Mallik and Dabir Khas respectively, and they held responsible posts as ministers of Nawab Hussain Shah. At that time, five hundred years ago, the Hindu society was very rigid, and if a member of the brahmana caste accepted the service of a Mohammedan ruler he was at once rejected from brahmana society.
 

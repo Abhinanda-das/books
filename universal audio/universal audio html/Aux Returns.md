@@ -11,7 +11,7 @@ word_count: 1193
 
  
 
-![aux-returns.png](Aux%20Returns_assets/7964f0e5f4bf9471cd20f1334f381f607a7e684b.png)
+![aux-returns.png](../../attachments/aux-returns_assets--7964f0e5f4bf9471cd20f1334f381f607a7e684b--7c6bb95ce172769b.png)
 
 *Aux returns*
 
@@ -33,13 +33,13 @@ The aux buses in UAD Console are designed primarily for send/return processing u
 
 By default, the aux returns are not visible. To show the aux returns, enable the AUX switch in the SHOW section of the monitor column, or select View \> Section \> Auxes from the UAD Console menus.
 
-![](Aux%20Returns_assets/e26f4796fa5914e4481ae35e69486eb67964584c.png)
+![](../../attachments/aux-returns_assets--e26f4796fa5914e4481ae35e69486eb67964584c--27675314b012317a.png)
 
 *The Show Aux switch in the monitor column*
 
 # Aux Return Strips
 
-![aux-callouts.png](Aux%20Returns_assets/26ede570107e70585327cac6b120c1ac61e27f0f.png)
+![aux-callouts.png](../../attachments/aux-returns_assets--26ede570107e70585327cac6b120c1ac61e27f0f--654d864073525b8c.png)
 
 *Aux return strip*
 
@@ -57,7 +57,7 @@ The aux inserts are operated using the same methods as the insert controls in th
 
 The Aux Inserts context menu allows you to adjust inserts for the aux returns.
 
-![aux-inserts-menu.png](Aux%20Returns_assets/90fd9804feb8fb7abf7264c84834597f51f24a78.png)
+![aux-inserts-menu.png](../../attachments/aux-returns_assets--90fd9804feb8fb7abf7264c84834597f51f24a78--0d5a03f0bbc060c9.png)
 
 - To toggle large or small aux inserts view, right-click or control-click on the Inserts label, and select or deselect View Large Icon. Note that this also changes the view for the Talkback channel strip. 
 - To disable all plug-ins on an aux return, select Disable All.
@@ -74,7 +74,7 @@ The aux returns can be routed to any available cue mix buses using the cue sends
 
 The Aux Cue sends context menu allows you to adjust sends and cue views for the aux returns.
 
-![aux-sends-menu.png](Aux%20Returns_assets/f3a7e51fc0f96f4ff83de326e95df959772ed249.png)
+![aux-sends-menu.png](../../attachments/aux-returns_assets--f3a7e51fc0f96f4ff83de326e95df959772ed249--faf7eb890324db52.png)
 
 - To toggle Sends Overview, right-click or control-click on the Sends label, and select or deselect Overview. Note that this changes the view for all channels. 
 - To view a large or small icon for any cues, select or deselect Send \# - View Large Icon. Note that this changes the view of that cue for the talkback channel and the aux returns.

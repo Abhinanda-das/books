@@ -39,7 +39,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%201176%20Studio%20Compressor%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-1176-studio-compressor-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--46e9f8558eff1348.png)
 </figure>
 
 Bill Putnam Jr.
@@ -48,7 +48,7 @@ Bill Putnam Jr.
 
 # UAFX 1176 Quick Start
 
-![qs-1176.png](UAFX%201176%20Studio%20Compressor%20Manual_assets/c9e52533c28ccb815d99c338459658e78b612e0e.png)
+![qs-1176.png](../../attachments/uafx-1176-studio-compressor-manual_assets--c9e52533c28ccb815d99c338459658e78b612e0e--b19755db7da3bbb1.png)
 
 [**Download 1176 Quick Start**](360058186352-UAFX-Pedal-Downloads.html)
 
@@ -80,7 +80,7 @@ To learn how to power your UAFX pedal, [<span class="wysiwyg-underline">go here<
 
 To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here</span>](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
-![1176-rear-panel.png](UAFX%201176%20Studio%20Compressor%20Manual_assets/afd6e0b102af87fbd216755e8a84f8fa30059ef8.png)
+![1176-rear-panel.png](../../attachments/uafx-1176-studio-compressor-manual_assets--afd6e0b102af87fbd216755e8a84f8fa30059ef8--e76a680bb0e31f53.png)
 
 ------------------------------------------------------------------------
 
@@ -279,11 +279,11 @@ You can switch between normal or parallel modes using the slider switch on the b
 
 # UAFX 1176 Safety
 
-![safety-symbol-exclaim.png](UAFX%201176%20Studio%20Compressor%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![safety-symbol-exclaim.png](../../attachments/uafx-1176-studio-compressor-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--796c9c97604ba7ff.png)
 
 **Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 250 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%201176%20Studio%20Compressor%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![safety-symbol-book-info.png](../../attachments/uafx-1176-studio-compressor-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--813cf0e72f8b7ae1.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -307,7 +307,7 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 (This is Class B equipment. Although this equipment is intended for use in residential environments, it could cause poor reception if used near a radio television receiver. Please follow all instructions in the instruction manual.)
 
-![safety-symbol-trash.png](UAFX%201176%20Studio%20Compressor%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-1176-studio-compressor-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--85cc5f9eea08c769.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

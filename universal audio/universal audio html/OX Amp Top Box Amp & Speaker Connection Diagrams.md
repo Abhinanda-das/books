@@ -42,7 +42,7 @@ When connecting a combo amp to OX, the amp's internal speaker cable might not be
 - **No speaker jacks or plugs?** – Speakers in older combo amps might be wired directly to the internal amplifier, without removable connectors. In this case, a qualified amp technician can modify the amp to accommodate 1⁄4” connections.
 - For related information, see <a href="https://help.uaudio.com/hc/en-us/articles/360000695843-Setting-up-OX-with-Combo-Amps" style="background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;" target="_self">Setting up OX with Combo Amps</a><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">.</span>
 
-![ox-setup-combo_4x.png](OX%20Amp%20Top%20Box%20Amp%20%26%20Speaker%20Connection%20Diagrams_assets/b7639a3ada62f641694aab68fe55ae96ad42018b.png)
+![ox-setup-combo_4x.png](../../attachments/ox-amp-top-box-amp-speaker-connection-diagrams_assets--b7639a3ada62f641694aab68fe55ae96ad42018b--19f077383fb7d426.png)
 
 *OX high-power connections with a combo amp\
 (speaker and amp in the same cabinet)*
@@ -53,7 +53,7 @@ When connecting a combo amp to OX, the amp's internal speaker cable might not be
 
 ## Amp Head and Cabinet Wiring
 
-*![Screen_Shot_2018-01-25_at_8.52.29_AM.png](OX%20Amp%20Top%20Box%20Amp%20%26%20Speaker%20Connection%20Diagrams_assets/80b1ddcd71e41a409c1884d45741f5e80df6d6c0.png)*
+*![Screen_Shot_2018-01-25_at_8.52.29_AM.png](../../attachments/ox-amp-top-box-amp-speaker-connection-diagrams_assets--80b1ddcd71e41a409c1884d45741f5e80df6d6c0--92b1b1f57d8e2298.png)*
 
 *OX high-power connections with an amp head and separate speaker cabinet*
 

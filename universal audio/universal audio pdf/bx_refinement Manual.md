@@ -7,7 +7,7 @@ word_count: 1297
 ---
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0001-00.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0001-00--5f7880ef928f641c.png>)
 
 
 ## **bx_refinement – M/S Harshness Control** 
@@ -17,7 +17,7 @@ word_count: 1297
 ## **Thank you for using Brainworx plug-ins.** 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0001-04.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0001-04--563b2204853c126a.png>)
 
 
 Breathe exceptional life into your recordings with bx_refinement. 
@@ -39,11 +39,11 @@ Page 1
 www.brainworx-music.de 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0002-00.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0002-00--e136d0d4dca837c6.png>)
 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0002-01.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0002-01--0c7b3e0616ac4440.png>)
 
 
 ## **Tube Graphic** 
@@ -53,7 +53,7 @@ bx_refinement is not a 1:1 emulation of a certain tube sound. Instead it combine
 ## **Brainworx toolbar** 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0002-05.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0002-05--1b57c820b1425561.png>)
 
 
 The top toolbar will enable you to bypass the plug-in. 32 steps of Undo / Redo give you the freedom to experiment without losing your initial ideas. 4 settings can be used to store and recall momentary snapshots that also can be automated. You can Copy / Paste settings as expected and reset individual settings as well. 
@@ -61,7 +61,7 @@ The top toolbar will enable you to bypass the plug-in. 32 steps of Undo / Redo g
 ## **Damping** 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0002-08.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0002-08--70f6ac146da3702d.png>)
 
 
 The Damping control reduces harshness with a peak band EQ by a fixed dB value. It sets the constant baseline of reduction, which can be altered / increased by a variable value using the “Dynamics” or “Oscillator” options – see the “Damping modulation” section on page 4. For example the picture on the left shows a constant reduction of harshness of -6.36 dB. 
@@ -79,7 +79,7 @@ Page 2
 www.brainworx-music.de 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0003-00.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0003-00--580b2804f7793e26.png>)
 
 
 ## **Saturation** 
@@ -89,7 +89,7 @@ bx_refinement’s saturation algorithm was designed to offer a bit of character 
 ## **Presence** 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0003-04.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0003-04--c62f2fa329d98dd4.png>)
 
 
 bx_refinement’s presence control is a shelving filter designed to boost highs and air in a transparent way.  Once you’ve tamed the harshness with the core bx_refinement controls, you may want to adjust this range suitably. Some mastering engineers may prefer to tame this range with one of their many tools for the job and use only the core bx_refinement processing.  However, this control was designed to work in almost every situation. One technique is to exaggerate the de-harshing using a combination of the damping and dynamics controls with the mix knob all the way up. Set the presence with it exaggerated, then use the damping and dynamics controls to set the de-harshness to suit the recording, then mix the effect in. 
@@ -111,7 +111,7 @@ Page 3
 www.brainworx-music.de 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0004-00.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0004-00--d47e216fca5b1295.png>)
 
 
 ## **Damping Modulation:  Dynamics Option** 
@@ -121,7 +121,7 @@ Enabling the Dynamics option modulates the de-harshing filter according to the p
 ## **Range** 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0004-04.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0004-04--3ec59c3334da179e.png>)
 
 
 This control lets you adjust how much damping will be added by the modulation. 
@@ -139,7 +139,7 @@ Page 4
 www.brainworx-music.de 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0005-00.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0005-00--1cce04e22162fd7c.png>)
 
 
 ## **Damping Modulation:  Oscillator Option** 
@@ -151,7 +151,7 @@ The oscillation option allows you to create nice warming effects. The general ha
 This option adjusts how much of the process is being applied during oscillation in both modes (free / sync, see below). The dB value represents the maximum added damping on the peak of the sine. 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0005-05.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0005-05--73eafc1b18b752bf.png>)
 
 
 ## **Duration (Free Mode** ) 
@@ -159,7 +159,7 @@ This option adjusts how much of the process is being applied during oscillation 
 In this mode the modulation will not be synced to the song tempo of your DAW (audio host). Instead, you can dial in a length in seconds. 
 
 
-![](<bx_refinement Manual_assets/bx_refinement_Manual.pdf-0005-08.png>)
+![](<../../attachments/bx_refinement-manual_assets--bx_refinement_manual.pdf-0005-08--6d313bc54f4e96be.png>)
 
 
 ## **Duration (Sync Mode)** 

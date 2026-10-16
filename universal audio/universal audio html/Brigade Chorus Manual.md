@@ -32,7 +32,7 @@ Sporting simple, straightforward features, the Brigade Chorus Pedal plug-in can 
 
 When used with stereo tracks or buses, the Brigade Chorus Pedal plug-in can be used exactly as the original pedal — left side dry, right side effected. But with the "plug-in only" Dual Mode, the Brigade Chorus Pedal acts as if two pedals are patched in using their mono outputs — giving you maximum left/right spread. Whereas some chorus units sound unnatural and "tacked on," the Brigade Chorus Pedal plug-in gets inside your sources with high-caloric chorus thick enough to spoon out of your speakers.
 
-![brigade-chorus.png](Brigade%20Chorus%20Manual_assets/4dbbe2838898dc131b68ac4b957743bea08a0b36.png)
+![brigade-chorus.png](../../attachments/brigade-chorus-manual_assets--4dbbe2838898dc131b68ac4b957743bea08a0b36--eb264746f157d6a3.png)
 
 *Brigade Chorus Pedal*
 
@@ -40,7 +40,7 @@ When used with stereo tracks or buses, the Brigade Chorus Pedal plug-in can be u
 
 # Brigade Chorus Pedal Controls
 
-![brigade-signal-rate-LEDs.png](Brigade%20Chorus%20Manual_assets/6d7d4ea7056099f7eb27fe372372a63de6145465.png)
+![brigade-signal-rate-LEDs.png](../../attachments/brigade-chorus-manual_assets--6d7d4ea7056099f7eb27fe372372a63de6145465--12348e05fb821e27.png)
 
 ## Normal/Effect
 
@@ -62,7 +62,7 @@ The footswitch at the lower right of the pedal determines the operating mode of 
 
 The small LEDs at the top of the interface indicate the current operating mode. In addition to the footswitch, clicking these LEDs and/or text will also change the mode.
 
-![brigade-chorus1.png](Brigade%20Chorus%20Manual_assets/8be26b4054474906f8571b4edb13e18a1701aec2.png)
+![brigade-chorus1.png](../../attachments/brigade-chorus-manual_assets--8be26b4054474906f8571b4edb13e18a1701aec2--d43457a99fc7e39c.png)
 
 **Tip:** Click the Mode LED or mode text to change the operating mode.
 
@@ -134,7 +134,7 @@ The is the plug-in's overall bypass control for comparing the processed and unpr
 
 **Tip:** Processor usage is reduced when the POWER is off.
 
-![Brigade Chorus hardware](Brigade%20Chorus%20Manual_assets/584bf23485be3ce4894b6765e9b3e5e2c8e4540e.jpg)
+![Brigade Chorus hardware](../../attachments/brigade-chorus-manual_assets--584bf23485be3ce4894b6765e9b3e5e2c8e4540e--3452b7710bee24ec.jpg)
 
 ------------------------------------------------------------------------
 

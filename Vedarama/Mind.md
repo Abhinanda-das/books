@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sjn-mind"
 ---
 
-![обложка|156](<Mind/обложка.png>)
+![обложка|156](<../attachments/mind--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--95e255caaf75fccf.png>)
 
 # Mind
 
@@ -323,7 +323,7 @@ But black-box functionalism is intellectually unsatisfying in that it does not a
 
 At this point there occurred one of the most exciting developments in the entire history of the philosophy of mind in the twentieth century. To many of us who participated in the developments (though not to me), it seemed like not merely an exciting development, but at long last a solution to problems that had beset philosophers for more than 2,000 years. The idea was based on a convergence of work in philosophy, cognitive psychology, linguistics, computer science, and artificial intelligence. It seemed that we knew the answer to the question that faced us: the way the system works is that the brain is a digital computer and what we call the “mind” is a digital computer program or set of programs. We had made the greatest breakthrough in the history of philosophy of mind: mental states are computational states of the brain. The brain is a computer and the mind is a program or set of programs. A principle that formed the foundation for any number of textbooks was this: the mind is to the brain as the program is to the hardware.
 
-![рис-001.png|244](<Mind/рис-001.png>)
+![рис-001.png|244](<../attachments/mind--%D1%80%D0%B8%D1%81-001--bfdc43826c863af3.png>)
 
 This view is sometimes called “computer functionalism,” though I have also baptized it “Strong Artificial Intelligence” to distinguish it from Weak Artificial Intelligence, which aims to study the mind by doing computer simulations as opposed to purporting to create a mind. On the Strong AI view, the appropriately programmed digital computer does not just simulate having a mind; it literally has a mind.
 
@@ -355,7 +355,7 @@ Multiple Realizability. The notion of different levels of description already im
 
 This diagram illustrates the distinction between levels of description and the multiple realizability of the higher level in lower levels:
 
-![рис-002.png|566](<Mind/рис-002.png>)
+![рис-002.png|566](<../attachments/mind--%D1%80%D0%B8%D1%81-002--21cfdc1c72151016.png>)
 
 One and the same system represented by the line AB can be realized in different lower level systems, represented by lines BC, BD, BE, BF, and BG
 
@@ -369,7 +369,7 @@ Such was the appeal of the computational theory of the mind in the early days of
 
 With some hesitation (because it oversimplifies) I present a chart that shows the relations between the theories we have so far discussed.
 
-![рис-003.png|566](<Mind/рис-003.png>)
+![рис-003.png|566](<../attachments/mind--%D1%80%D0%B8%D1%81-003--824bf0f11845d5ad.png>)
 
 ## V. Other versions of materialism
 
@@ -723,7 +723,7 @@ To anyone who reflects on his conscious experiences, there is an obvious distinc
 
 It is experience of voluntary action, more than anything else, that gives us the conviction of our own free will, and any account of the mind has to confront this experience. I will have more to say about free will in chapter 8.
 
-![рис-004.png|566](<Mind/рис-004.png>)
+![рис-004.png|566](<../attachments/mind--%D1%80%D0%B8%D1%81-004--f59d6c5ca97c6f66.png>)
 
 ## 10. The Gestalt Structure
 
@@ -883,7 +883,7 @@ For states that have the mind-to-world direction of fit we need to distinguish t
 
 The resulting formal relations are so beautiful that I cannot resist setting them out in a chart, where I use the old-fashioned terminology of cognition and volition to name the two families:
 
-![рис-005.png|566](<Mind/рис-005.png>)
+![рис-005.png|566](<../attachments/mind--%D1%80%D0%B8%D1%81-005--90b32d9058ede02d.png>)
 
 ## 5. The Network of Intentionality and the Background of Preintentional Capacities
 
@@ -923,7 +923,7 @@ Thus from
 The principle of existential inference says that whenever a has the property F, you can validly infer that there exists an object that has the property F.
 
 7\.  
-![рис-006.png|80](<Mind/рис-006.png>)  
+![рис-006.png|80](<../attachments/mind--%D1%80%D0%B8%D1%81-006--979d0fae8cbff663.png>)  
 Thus from
 
 8\. John lives in Kansas City. we can validly infer
@@ -1110,11 +1110,11 @@ something over and above the physical and not a part of the physical world. Once
 
 One way to represent these relation is in the following sort of diagram, where the top level shows the intention-in-action causing a bodily movement and the bottom level shows how it works in the neuronal and physiological plumbing. At each step the bottom level causes and realizes the top level:
 
-![рис-007.png|566](<Mind/рис-007.png>)
+![рис-007.png|566](<../attachments/mind--%D1%80%D0%B8%D1%81-007--9ab7401deef3e777.png>)
 
 Such diagrams are useful pedagogically, but they are misleading if they suggest that the mental level is on top, like the frosting on the cake. Maybe a better diagram is one where the conscious intention is shown as existing throughout the system and not just on top. In this one the circles represent neurons and the shading represents the conscious state as spread through the system of neurons:
 
-![рис-008.png|566](<Mind/рис-008.png>)
+![рис-008.png|566](<../attachments/mind--%D1%80%D0%B8%D1%81-008--9522a66261df3342.png>)
 
 ## IV. Mental causation and the explanation of human behavior
 

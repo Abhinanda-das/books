@@ -7,11 +7,11 @@ word_count: 252
 ---
 
 
-![](UAFX+Woodrow+55+Quick+Start_assets/UAFX+Woodrow+55+Quick+Start.pdf-0001-00.png)
+![](../../attachments/uafx-woodrow-55-quick-start_assets--uafx-woodrow-55-quick-start.pdf-0001-00--4b9f347e96170190.png)
 
 
 
-![](UAFX+Woodrow+55+Quick+Start_assets/UAFX+Woodrow+55+Quick+Start.pdf-0002-00.png)
+![](../../attachments/uafx-woodrow-55-quick-start_assets--uafx-woodrow-55-quick-start.pdf-0002-00--e230f12132c5f4a9.png)
 
 
 ## **INST and MIC VOLUME** 
@@ -19,7 +19,7 @@ word_count: 252
 Individual input gain controls for each amp channel – both channels are always active 
 
 
-![](UAFX+Woodrow+55+Quick+Start_assets/UAFX+Woodrow+55+Quick+Start.pdf-0002-03.png)
+![](../../attachments/uafx-woodrow-55-quick-start_assets--uafx-woodrow-55-quick-start.pdf-0002-03--79f2f27e3e170c52.png)
 
 
 ## **SPEAKER** 
@@ -71,7 +71,7 @@ Connect TS cable from guitar or other gear for mono operation
 Connect to computer for firmware updates with UAFX Control desktop app 
 
 
-![](UAFX+Woodrow+55+Quick+Start_assets/UAFX+Woodrow+55+Quick+Start.pdf-0002-28.png)
+![](../../attachments/uafx-woodrow-55-quick-start_assets--uafx-woodrow-55-quick-start.pdf-0002-28--d6fdc09e6acc7e06.png)
 
 
 **9VDC POWER IN** Connect 400 mA isolated power supply (sold separately) 
@@ -93,7 +93,7 @@ Connect TS cable for stereo only (in addition to MONO OUT)
 **Get More** UAFX Control app, bonus speaker cabinets, artist presets, and full manuals at **uaudio.com/uafx/start** 
 
 
-![](UAFX+Woodrow+55+Quick+Start_assets/UAFX+Woodrow+55+Quick+Start.pdf-0002-38.png)
+![](../../attachments/uafx-woodrow-55-quick-start_assets--uafx-woodrow-55-quick-start.pdf-0002-38--0fb43cc47541bac9.png)
 
 
 10005658R3 

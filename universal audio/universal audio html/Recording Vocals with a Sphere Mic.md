@@ -58,7 +58,7 @@ Less than ideal recording environments, such as a typical home or project studio
 
 5.  Set the Pattern to hypercardioid.\
 
-    ![off-axis-correction-patterns-callouts.png](Recording%20Vocals%20with%20a%20Sphere%20Mic_assets/3e17ba9c5884023401cb71d14f236342fbab1e8a.png)
+    ![off-axis-correction-patterns-callouts.png](../../attachments/recording-vocals-with-a-sphere-mic_assets--3e17ba9c5884023401cb71d14f236342fbab1e8a--6caf58cf4cc67ad9.png)
 
 6.  Set the on-axis distance (On Dist) to the distance between the mic and vocalist.
 

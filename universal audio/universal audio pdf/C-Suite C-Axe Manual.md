@@ -6,7 +6,7 @@ tool_version: 1.10.2
 word_count: 2626
 ---
 
-![](<C-Suite C-Axe Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_0_picture_1--782e8723003fd2c5.jpeg>)
 
 # Guitar Noise Suppressor
 
@@ -54,11 +54,11 @@ You know the problem... whether you're playing or recording guitar in your bedro
 
 … is C-Axe. Designed as an in-line processor that can sit between your guitar and whatever follows, or as a post-processor that can clean up existing recordings, it will give your mix the best possible chance to shine.
 
-![](<C-Suite C-Axe Manual_assets/_page_6_Picture_1.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_6_picture_1--8def46d45b93bbe5.jpeg>)
 
 # The Controls
 
-![](<C-Suite C-Axe Manual_assets/_page_6_Picture_3.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_6_picture_3--4cfcc6ab6c793fd0.jpeg>)
 
 ### **50Hz/60Hz**
 
@@ -68,7 +68,7 @@ Choose 60Hz when the electrical mains frequency where you're playing or recordin
 
 C-Axe will then detect the fundamental frequency of the buzz/hum and track this in the range ±1%.
 
-![](<C-Suite C-Axe Manual_assets/_page_6_Picture_8.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_6_picture_8--8dc68613d9796b28.jpeg>)
 
 ### **Dynamic / Static / Learn**
 
@@ -76,13 +76,13 @@ Choosing Dynamic mode tells C-Axe that you want it to calculate the spectral dis
 
 Choosing Learn tells C-Axe when to learn the spectral distribution of the unwanted noise. When you release this, the switch will select Static mode, and C-Axe will use the learned spectrum as the basis of the noise reduction. The measured spectral distribution won't be updated unless you Learn again or return to Dynamic mode.
 
-![](<C-Suite C-Axe Manual_assets/_page_6_Picture_12.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_6_picture_12--c8d1998f941fa66c.jpeg>)
 
 # **Attenuation**
 
 On most occasions, you will want to remove all of the noise. Unlike conventional dehissers and denoisers, C-Axe tends not to damage the wanted signal or create artefacts when processing at high values, so the default position for the Attenuation in 100%. If you would like to retain a little buzz or hum for a 'live' feel, or you feel that the sound is slightly over-processed, you can reduce the value to find the balance that you want.
 
-![](<C-Suite C-Axe Manual_assets/_page_6_Picture_15.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_6_picture_15--12f3e5816499ce25.jpeg>)
 
 ## **Bypass**
 
@@ -102,7 +102,7 @@ The following shortcuts will speed your use and precision when using C-Axe.
 
 Pressing the Page Down key will decrease the ATTEN by 5.
 
-![](<C-Suite C-Axe Manual_assets/_page_8_Picture_1.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_8_picture_1--b8d8c41b53259d94.jpeg>)
 
 Although the vertical (Y) axis represents signal amplitude and the horizontal (X) axis represents frequency, the C-Axe display is unconventional and it may not be immediately apparent what it represents.
 
@@ -112,7 +112,7 @@ When processing is bypassed the display will be shown in grey.
 
 # The display elements
 
-![](<C-Suite C-Axe Manual_assets/_page_8_Figure_6.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_8_figure_6--d3b8ab60de2e5015.jpeg>)
 
 The outer halo of the signal display shows the incoming signal spectrum.
 
@@ -146,7 +146,7 @@ To reduce the noise, select the electrical mains frequency in your area (or, if 
 
 Now increase the Attenuation to 100% so that the processed signal is sent to the output. This will be the correct setting in the majority of cases. You can reduce the Attenuation if you feel that the sound is a little over-processed or if you wish to retain a 'live' feel by allowing some of the noise to pass through the process.
 
-![](<C-Suite C-Axe Manual_assets/_page_11_Picture_1.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_11_picture_1--da8b82635658c18f.jpeg>)
 
 # Licence and Limited Warranty
 
@@ -225,7 +225,7 @@ The headings to the Clauses are for ease of reference only and shall not affect 
 
 This Document shall be governed by and construed in accordance with English law and all disputes between the parties shall be determined in England in accordance with the Arbitration Act 1950 and 1979.
 
-![](<C-Suite C-Axe Manual_assets/_page_13_Picture_1.jpeg>)
+![](<../../attachments/c-suite-c-axe-manual_assets--page_13_picture_1--6fbd3eeaccd0b01a.jpeg>)
 
 C-Suite Audio and CEDAR Audio Ltd, © 2022 C-Suite and C-Axe are trademarks of C-Suite and CEDAR Audio Ltd
 

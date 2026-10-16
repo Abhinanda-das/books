@@ -59,7 +59,7 @@ The basic recording process in LUNA is simple. More input and tone shaping optio
 
 Apollo interfaces include several special preamp features for inputs.
 
-![record-inputs.png](Recording%20Audio_assets/b74acea0e9810754c1f2fc6e62f8f24233d87fa1.png) *Audio inputs (Apollo / ARM mode)*
+![record-inputs.png](../../attachments/recording-audio_assets--b74acea0e9810754c1f2fc6e62f8f24233d87fa1--8f747fe11491b613.png) *Audio inputs (Apollo / ARM mode)*
 
 Preamp controls correspond to the equivalent preamp controls on the Apollo hardware. Adjusting Apollo’s hardware preamp options updates LUNA, and vice versa.
 
@@ -119,7 +119,7 @@ Volt 876 interfaces include tone shaping features for inputs.
 
  
 
-![volt-876-in-luna.png](Recording%20Audio_assets/38ff6071c2215d059db4e9afef9ef29bf1dc9fab.png)
+![volt-876-in-luna.png](../../attachments/recording-audio_assets--38ff6071c2215d059db4e9afef9ef29bf1dc9fab--c6dca5e6109fef45.png)
 
 ## Input
 
@@ -210,7 +210,7 @@ You can set preamp input gain automatically with Assistive Auto-Gain.
 
 1.  On any preamp channel, press the Auto-Gain button under the gain knob. The Auto-Gain floating window opens.
 
-![](Recording%20Audio_assets/749a7d028a3ad4f414490acc3f51ef7fdbb20781.png)
+![](../../attachments/recording-audio_assets--749a7d028a3ad4f414490acc3f51ef7fdbb20781--1b5efd5a4f4005f6.png)
 
 2.  Press Start, and play your source as loudly as you will play during the performance. The gain is set automatically.
 
@@ -226,7 +226,7 @@ The Auto-Gain floating window closes after the listening duration completes. To 
 
 Click SHOW MORE to see more settings for Auto-Gain.
 
-![](Recording%20Audio_assets/86769073dc213b92b1748b7b2f9dbaef2b266480.png)
+![](../../attachments/recording-audio_assets--86769073dc213b92b1748b7b2f9dbaef2b266480--8b9b648298594d25.png)
 
 <div>
 
@@ -291,11 +291,11 @@ Audio on preamp channels is processed by the Unison insert before the Record FX 
 
 Record and/or Input enable tracks to monitor track inputs according to your workflow needs. 
 
-![record-input-enable.png](Recording%20Audio_assets/201203f5db123b3b97b7dcc3b2247b16930f9077.png)
+![record-input-enable.png](../../attachments/recording-audio_assets--201203f5db123b3b97b7dcc3b2247b16930f9077--d8b3a060e99f6c47.png)
 
 When you record-enable or input-enable a Unison-capable track, the Unison insert and Record FX inserts are made available, and the channel preamp controls become active.
 
-![record-input-enabled-vs-disabled.png](Recording%20Audio_assets/8253332211a5b6782a952dfb038f932e6be0a7a3.png)
+![record-input-enabled-vs-disabled.png](../../attachments/recording-audio_assets--8253332211a5b6782a952dfb038f932e6be0a7a3--f9aee005e4df427c.png)
 
 ### Record enabled
 
@@ -322,7 +322,7 @@ When an audio track is input-enabled, you can monitor the input to the track at 
 3.  Click OK to create the tracks, or Cancel to stop track creation.
 4.  (Apollo Mode) To record with ARM for the lowest latency, click the ARM button in Global Controls, or choose Transport \> Accelerated Realtime Monitoring to enable ARM.\
     \
-    ![arm-button.png](Recording%20Audio_assets/db70ec6b85ad25b9d54e2ba1c081f8857064c77d.png)\
+    ![arm-button.png](../../attachments/recording-audio_assets--db70ec6b85ad25b9d54e2ba1c081f8857064c77d--8595629a2d68ae8c.png)\
      
 5.  Connect a mic, line source, or Hi-Z instrument into an input on your audio interface.
 6.  On the audio track in the Focus channel or Mixer, click the Input mixer row. The Input browser opens.
@@ -346,7 +346,7 @@ To listen back to the recording, press Play or the Spacebar. 
 2.  Click on a location in the Timeline where you want to begin recording. Click above the center of an audio track, or in any of the rulers. 
 3.  To use Pre-roll (listen to the existing track for a specified period of time before you start recording), Option+Click (macOS) or Alt+Click (Windows) to the left of the playhead on the Bars and Beats ruler.\
     \
-    ![qs-option-click-pre-roll.png](Recording%20Audio_assets/2681847a0d39857736125cc8bcd08e3798f10c2a.png)
+    ![qs-option-click-pre-roll.png](../../attachments/recording-audio_assets--2681847a0d39857736125cc8bcd08e3798f10c2a--4de9426939d105ad.png)
 4.  Record-enable track(s), and input-enable if necessary. If you do not record-enable one or more tracks, any selected tracks are recorded when you start recording.
 5.  Click Record in the transport or press Command+Spacebar.
 6.  Click Stop or the Spacebar to stop recording.
@@ -357,7 +357,7 @@ You can also move the playhead to a specific time by typing a time in the Counte
 
 <div class="wysiwyg-text-align-center" collection="contentId-194674764" context-id="194674764" file-mime-type="image/png" file-name="counter-set-location.png" file-size="15237" data-height="187" data-id="acfbd922-6d6b-4926-8a03-967de7c2cbb1" node-type="media" data-type="file" data-width="123" title="Attachment">
 
-![counter-set-location.png](Recording%20Audio_assets/ed52d0242b143e75d4e5489f5e3f5b35d956089e.png)
+![counter-set-location.png](../../attachments/recording-audio_assets--ed52d0242b143e75d4e5489f5e3f5b35d956089e--125011eb7c07043c.png)
 
 </div>
 
@@ -372,7 +372,7 @@ You can also move the playhead to a specific time by typing a time in the Counte
 3.  To adjust the selection length, move the playhead to a position to the right or left of the center of the selection and Shift+Click. Note that you can lengthen or shorten a selection with this method. 
 4.  To use Pre-roll (listen to the existing track for a specified period of time before you start recording), Option+Click (macOS) or Alt+Click (Windows) to the left of the playhead on the Bars and Beats ruler.\
     \
-    ![qs-option-click-pre-roll.png](Recording%20Audio_assets/2681847a0d39857736125cc8bcd08e3798f10c2a.png)\
+    ![qs-option-click-pre-roll.png](../../attachments/recording-audio_assets--2681847a0d39857736125cc8bcd08e3798f10c2a--4de9426939d105ad.png)\
      
 5.  Record-enable track(s), and input-enable if necessary. If you do not record-enable one or more tracks, any selected tracks are recorded when you start recording.
 6.  Click Record or press Command+Spacebar (macOS) or Ctrl+Spacebar (Windows).
@@ -386,7 +386,7 @@ You can also make a selection by typing a start time in the Start time field, an
 
 </div>
 
-![enter-selection-values.png](Recording%20Audio_assets/487fe1a5744db8d4503dd3d96fa522b975d6b771.png)
+![enter-selection-values.png](../../attachments/recording-audio_assets--487fe1a5744db8d4503dd3d96fa522b975d6b771--78dee12f7f3e26e0.png)
 
  
 
@@ -409,7 +409,7 @@ You can use Count In to play 1, 2, or 4 bars of clicks before recording starts. 
 
 <div class="wysiwyg-text-align-center media-file-card-view sc-hhaNoI hPeodW" test-media-name="count-in-enabled-bars.png" test-progress="1" test-status="complete" testid="media-file-card-view">
 
-![count-in-enabled-bars.png](Recording%20Audio_assets/d38cc167d24a2fb0a5095398e7264164df5211a4.png)
+![count-in-enabled-bars.png](../../attachments/recording-audio_assets--d38cc167d24a2fb0a5095398e7264164df5211a4--1d7ede0e457c33c6.png)
 
 </div>
 
@@ -459,7 +459,7 @@ A selection on the Loop ruler continues to loop during record. The selection con
 
 <div collection="contentId-194674764" context-id="194674764" file-mime-type="image/png" file-name="enable-loop-ruler.png" file-size="95134" data-height="202" data-id="47f717fe-6f29-4de3-a690-b7f13978a54c" node-type="media" data-type="file" data-width="609" title="Attachment">
 
-![enable-loop-ruler.png](Recording%20Audio_assets/40c97962dfd51967c569e0c37c5fa8342c9a9764.png)
+![enable-loop-ruler.png](../../attachments/recording-audio_assets--40c97962dfd51967c569e0c37c5fa8342c9a9764--f301445e4dbff14d.png)
 
 </div>
 
@@ -515,13 +515,13 @@ A Take is not always a complete track. Therefore, when you switch from a Version
 
 1.  Make an audio selection and click the Loop Play / Record button or press Control+L (macOS) or Alt+L (Windows).\
     \
-    ![transport-loop-enabled.png](Recording%20Audio_assets/81916c20a09e55f39c69d566bb5bc1c5134f4aa2.png)
+    ![transport-loop-enabled.png](../../attachments/recording-audio_assets--81916c20a09e55f39c69d566bb5bc1c5134f4aa2--a89bc36bc8cc1007.png)
 2.  Record your source.
 3.  Click the Versions icon to show track Versions. \
-    ![versions-button.png](Recording%20Audio_assets/b2dd1493d5364ef630421f01bfde994bfc30b45f.png)\
+    ![versions-button.png](../../attachments/recording-audio_assets--b2dd1493d5364ef630421f01bfde994bfc30b45f--f16e49d2358c8e6c.png)\
      
 4.  To switch between Versions, click a Version. \
-    ![qs-versions-takes.png](Recording%20Audio_assets/000eb086419bc31b4ea9a5b3c4d5e2ac6e822c51.png)
+    ![qs-versions-takes.png](../../attachments/recording-audio_assets--000eb086419bc31b4ea9a5b3c4d5e2ac6e822c51--4c4c94655977595e.png)
 
 To assemble different clips together using Versions, see <a href="360041428432-Working-with-Audio-in-the-Timeline.html#comping" target="_self">Comping Tracks with Versions</a>.
 
@@ -547,11 +547,11 @@ Use Cascade mode to route multiple inputs to audio tracks quickly.
 2.  Click the input on the first track you want to assign. The Input browser opens.
 3.  Next to Routing, click the ••• options menu and select Cascade.\
     \
-    ![cascade-routing.png](Recording%20Audio_assets/a706511082d5d489ca99b195f7b99298e54b2552.png)
+    ![cascade-routing.png](../../attachments/recording-audio_assets--a706511082d5d489ca99b195f7b99298e54b2552--b40986b993cd8b77.png)
 4.  Click the first input you want to assign.
 5.  At the bottom of the tracks list, under Apply To, click All or Selected to choose the tracks to which you will apply cascade routing.
 
-![cascade-apply-all-selected.png](Recording%20Audio_assets/5aa61adf118ecad5e065d1c47437631777e7e6e2.png)
+![cascade-apply-all-selected.png](../../attachments/recording-audio_assets--5aa61adf118ecad5e065d1c47437631777e7e6e2--b4b8fd6ef3606110.png)
 
 The selected tracks (or all tracks) are assigned the remaining inputs, in order.
 
@@ -633,7 +633,7 @@ Cues have a dedicated Level knob, mute and Pre-fader switch. When you expand a C
 
 <div class="wysiwyg-text-align-center" collection="contentId-194674764" context-id="194674764" file-mime-type="image/png" file-name="cues-small-large-annotated.png" file-size="166717" data-height="428" data-id="710453e7-bcbb-4805-b87a-5b0bca3e44a5" node-type="media" data-type="file" data-width="529" title="Attachment">
 
-![cues-small-large-annotated.png](Recording%20Audio_assets/24811773fd9ed05952cf1a0989847668230ec639.png)
+![cues-small-large-annotated.png](../../attachments/recording-audio_assets--24811773fd9ed05952cf1a0989847668230ec639--23d3b926b4ab043b.png)
 
 </div>
 
@@ -653,7 +653,7 @@ Cues have a dedicated Level knob, mute and Pre-fader switch. When you expand a C
 
 <div class="wysiwyg-text-align-center" collection="contentId-194674764" context-id="194674764" file-mime-type="image/png" file-name="assigning-cues.png" file-size="184048" data-height="303" data-id="175f543c-8540-46ed-82f0-8b1fbd475da6" node-type="media" data-type="file" data-width="433" title="Attachment">
 
-![assigning-cues.png](Recording%20Audio_assets/6a88a8117355c51657f60d572e3ede697d867aec.png)
+![assigning-cues.png](../../attachments/recording-audio_assets--6a88a8117355c51657f60d572e3ede697d867aec--50afd2152a4529a7.png)
 
 </div>
 
@@ -670,7 +670,7 @@ Cues have a dedicated Level knob, mute and Pre-fader switch. When you expand a C
 
 <div class="wysiwyg-text-align-center" collection="contentId-225739665" context-id="225739665" file-mime-type="image/png" file-name="copy-mix-to-cue.png" file-size="246776" data-height="398" data-id="ccc804cd-36ae-4106-85db-6cf15f093a85" node-type="media" data-type="file" data-width="288" title="Attachment">
 
-![copy-mix-to-cue.png](Recording%20Audio_assets/d0e33d317388bad065b25498233e71ad1d6d1e2c.png)
+![copy-mix-to-cue.png](../../attachments/recording-audio_assets--d0e33d317388bad065b25498233e71ad1d6d1e2c--5e1d05b7c3e7960f.png)
 
 </div>
 

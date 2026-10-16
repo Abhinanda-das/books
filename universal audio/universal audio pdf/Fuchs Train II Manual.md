@@ -7,7 +7,7 @@ word_count: 3345
 ---
 
 
-![](<Fuchs Train II Manual_assets/Fuchs_Train_II_Manual.pdf-0001-00.png>)
+![](<../../attachments/fuchs-train-ii-manual_assets--fuchs_train_ii_manual.pdf-0001-00--6787221577709bfd.png>)
 
 
 # P L U G I N  M A N U A L | Fuchs Train II 
@@ -65,7 +65,7 @@ The Fuchs Train II plug-in was developed with the Apollo series interfaces in mi
 ## T h e  A m p  S e c t i o n | Fuchs Train II 
 
 
-![](<Fuchs Train II Manual_assets/Fuchs_Train_II_Manual.pdf-0004-01.png>)
+![](<../../attachments/fuchs-train-ii-manual_assets--fuchs_train_ii_manual.pdf-0004-01--6df916ff8bc3e906.png>)
 
 
 ## TONE STACK: 
@@ -87,7 +87,7 @@ THRUST: Continuous knob, 1 to 10. The thrust control works within the power amp 
 ## F X  R A C K  D y n a m i c s | Fuchs Train II 
 
 
-![](<Fuchs Train II Manual_assets/Fuchs_Train_II_Manual.pdf-0005-01.png>)
+![](<../../attachments/fuchs-train-ii-manual_assets--fuchs_train_ii_manual.pdf-0005-01--9ad7d2a59c1cd235.png>)
 
 
 ## NOISE GATE: 
@@ -129,7 +129,7 @@ SMOOTH FREQUENCY:  Continuous knob, 3kHz to 35kHz. Set the frequency above which
 ## Fuchs Train II 
 
 
-![](<Fuchs Train II Manual_assets/Fuchs_Train_II_Manual.pdf-0006-02.png>)
+![](<../../attachments/fuchs-train-ii-manual_assets--fuchs_train_ii_manual.pdf-0006-02--a7a650f6e73a21f5.png>)
 
 
 ## Delay 
@@ -157,7 +157,7 @@ TEMPO BAR SUBDIVISION: Bar subdivision at showed bpm Note: Custom control, not a
 ## Fuchs Train II 
 
 
-![](<Fuchs Train II Manual_assets/Fuchs_Train_II_Manual.pdf-0007-02.png>)
+![](<../../attachments/fuchs-train-ii-manual_assets--fuchs_train_ii_manual.pdf-0007-02--6fcd5b2de127e51b.png>)
 
 
 ## REC CHAINS: 
@@ -193,7 +193,7 @@ And if for any reason you should not like any of the Recording Chains the plug-i
 ## Fuchs Train II 
 
 
-![](<Fuchs Train II Manual_assets/Fuchs_Train_II_Manual.pdf-0008-02.png>)
+![](<../../attachments/fuchs-train-ii-manual_assets--fuchs_train_ii_manual.pdf-0008-02--efc28ad27277cd44.png>)
 
 
 ## IN/OUT CONTROLS 
@@ -237,7 +237,7 @@ To re-create the classic looks and tones of yesteryear, Marshall offers the 1960
 ## Fuchs Train II 
 
 
-![](<Fuchs Train II Manual_assets/Fuchs_Train_II_Manual.pdf-0010-02.png>)
+![](<../../attachments/fuchs-train-ii-manual_assets--fuchs_train_ii_manual.pdf-0010-02--df8a7cd07be55981.png>)
 
 
 ## Plug-in SETTINGS TOOLBAR: 

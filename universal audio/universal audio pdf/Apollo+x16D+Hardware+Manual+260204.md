@@ -11,11 +11,11 @@ word_count: 8103
 and HEXA Core Realtime UAD Processing 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0001-02.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0001-02--4c15e8d70d448cf1.png)
 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0001-03.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0001-03--d32ff47e5911a592.png)
 
 
 ## **Apollo x16D Hardware Manual** 
@@ -23,7 +23,7 @@ and HEXA Core Realtime UAD Processing
 Manual Version 260204 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0001-06.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0001-06--7a96a2c879ae25e6.png)
 
 
 www.uaudio.com 
@@ -45,7 +45,7 @@ Please feel free to reach out to us via our website www.uaudio.com, and via our 
 Sincerely, 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0002-08.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0002-08--753b5c27489b0a8c.png)
 
 
 Bill Putnam Jr. 
@@ -93,7 +93,7 @@ Perfect for live sound venues or networked recording studios, Apollo x16D gives 
 We built Apollo x16D for both live sound engineers and networked recording studios. With its 16 channels of Dante I/O, elite-class audio conversion, and HEXA core DSP processing — the world’s most powerful system for running UAD plug-ins in realtime — Apollo x16D seamlessly connects to your digital mixing console, putting over 200 UAD plug-ins right at your fingertips. 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0004-11.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0004-11--921c714496791450.png)
 
 
 _*Apollo x16D includes the “Essentials+” or “Ultimate+” UAD plug-in bundle. Other UAD plug-ins sold separately at www.uaudio.com. All trademarks are property of their respective owners._ 
@@ -121,7 +121,7 @@ Link up to four x16Ds to build a 64-channel Dante system with network redundancy
 After the show, bring Apollo x16D back to the studio, where it becomes your all-in-one monitoring hub for mixing formats up to 9.1.6. This allows you to easily create 16-channel immersive audio mixes of live sets or studio recordings for Dolby Atmos, Auro-3D, Sony 360 Reality Audio, and others. 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0005-08.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0005-08--a26add058e6adc84.png)
 
 
 _*Apollo x16D includes the “Essentials+” or “Ultimate+” UAD plug-in bundle. Other UAD plug-ins sold separately at www.uaudio.com. All trademarks are property of their respective owners._ 
@@ -231,7 +231,7 @@ Introduction
 - One year warranty includes parts and labor 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0007-22.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0007-22--bff51680187c5e55.png)
 
 
 Apollo x16D Hardware Manual 
@@ -307,7 +307,7 @@ _Tip: Use the back button in the PDF reader application to return to the previou
 For additional resources, or if you need to contact Universal Audio for assistance, see the Technical Support page. 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0009-12.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0009-12--9fd7bed9196b5ea9.png)
 
 
 Apollo x16D Hardware Manual 
@@ -331,7 +331,7 @@ The Universal Audio logo illuminates when the external power supply is properly 
 The built-in talkback mic is located inside of this hole. The talkback function is configured and operated in UAD Console. 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0010-07.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0010-07--3304d5ded2b86256.png)
 
 
 **----- Start of picture text -----**<br>
@@ -339,7 +339,7 @@ The built-in talkback mic is located inside of this hole. The talkback function 
 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0010-08.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0010-08--43eb92c98a9a3bea.png)
 
 
 _Power indicator and talkback microphone_ 
@@ -347,7 +347,7 @@ _Power indicator and talkback microphone_
 _Caution: The talkback microphone is sensitive. To avoid equipment damage, do not insert any object into the mic hole, apply pressurized air into the mic hole, or use a vacuum over the mic hole._ 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0010-11.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0010-11--4dedb3683bca95f2.png)
 
 
 Apollo x16D Hardware Manual 
@@ -357,7 +357,7 @@ Apollo x16D Hardware Manual
 Front Panel 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0011-00.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0011-00--6064b3de82db2d56.png)
 
 
 **----- Start of picture text -----**<br>
@@ -491,7 +491,7 @@ Pressing the Monitor knob toggles the mute state of the signals at the Left & Ri
 When the monitor outs are muted, the Monitor Level Indicator ring (#12) is red. 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0014-09.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0014-09--2801ff0660b324ba.png)
 
 
 Apollo x16D Hardware Manual 
@@ -533,7 +533,7 @@ This switch applies power to Apollo x16D. When the unit is ~~po~~ w ~~ered on~~ 
 13 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0015-16.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0015-16--67b2a35ca71eab74.png)
 
 
 Apollo x16D Hardware Manual 
@@ -545,7 +545,7 @@ Front Panel
 ## **Rear Panel** 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0016-01.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0016-01--5b4a2fd009530ef6.png)
 
 
 **----- Start of picture text -----**<br>
@@ -623,7 +623,7 @@ _Note: When Apollo x16D is set to use AES/EBU as the leader clock source, sample
 The AES/EBU output can be configured to mirror the Monitor outputs, for routing the stereo Monitor signal to the stereo AES/EBU input of other devices. This feature is set with the DIGITAL MIRROR menu in the Hardware panel within UAD Console Settings. 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0018-07.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0018-07--df9a6856c61754c0.png)
 
 
 Apollo x16D Hardware Manual 
@@ -633,7 +633,7 @@ Apollo x16D Hardware Manual
 Rear Panel 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0019-00.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0019-00--95da46969d27a2ef.png)
 
 
 **----- Start of picture text -----**<br>
@@ -641,7 +641,7 @@ Rear Panel
 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0019-01.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0019-01--3e0612999352846b.png)
 
 
 ## (19) Left & Right Monitor Outputs 
@@ -723,7 +723,7 @@ _*Note: With Mac computers only, Apollo x16D can be connected to Thunderbolt 1 a
 For typical setup example diagrams, configuration instructions, and software operation, refer to the Networked Audio article in the UAD Console Manual. 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0021-11.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0021-11--33709ec126a4a6b2.png)
 
 
 21 
@@ -825,7 +825,7 @@ Apollo x16D Hardware Manual
 23 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0024-00.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0024-00--592791b2e645264e.png)
 
 
 **----- Start of picture text -----**<br>
@@ -841,7 +841,7 @@ Apollo x16D Hardware Manual
 24 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0025-00.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0025-00--8a05f299e8522734.png)
 
 
 **----- Start of picture text -----**<br>
@@ -849,7 +849,7 @@ ELECTRICAL<br>Power Supply External AC-to-DC Power Supply, Level VI compliant<br
 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0025-01.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0025-01--fb43132028b4df95.png)
 
 
 Specifications 
@@ -861,7 +861,7 @@ Apollo x16D Hardware Manual
 ## **Hardware Block Diagram** 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0026-01.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0026-01--88140c5375fa519d.png)
 
 
 **----- Start of picture text -----**<br>
@@ -879,7 +879,7 @@ Hardware Block Diagram
 If Apollo x16D isn’t behaving as expected, here are some common troubleshooting items to Technical confirm. If you are still experiencing issues after performing these checks, contact Support. 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0027-02.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0027-02--af3fa2ceb1811535.png)
 
 
 **----- Start of picture text -----**<br>
@@ -920,7 +920,7 @@ Apollo x16D Hardware Manual
 ## **Notices** 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0028-01.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0028-01--94dd24b205cb71cb.png)
 
 
 ## Important Safety Information 
@@ -980,7 +980,7 @@ The product is covered by a limited warranty. For the current terms of such warr
 ## Maintenance 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0029-04.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0029-04--70493623bf20a49c.png)
 
 
 **CAUTION:** To reduce the risk of electric shock, do not open the unit. 
@@ -1036,7 +1036,7 @@ Any modifications to the unit, unless expressly approved by Universal Audio, cou
 ## Product Label 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0030-08.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0030-08--757fff776b9f0a42.png)
 
 
 30 
@@ -1156,7 +1156,7 @@ Technical Support
 Universal Audio 
 
 
-![](Apollo+x16D+Hardware+Manual+260204_assets/Apollo+x16D+Hardware+Manual+260204.pdf-0034-00.png)
+![](../../attachments/apollo-x16d-hardware-manual-260204_assets--apollo-x16d-hardware-manual-260204.pdf-0034-00--aa014b3e6e7a6683.png)
 
 
 www.uaudio.com 

@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bhattii-kavyam"
 ---
 
-![обложка|156](<Bhaṭṭi-kāvyam/обложка.jpeg>)
+![обложка|156](<../attachments/bha%E1%B9%AD%E1%B9%ADi-k%C4%81vyam--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--7bda3192836f8d05.jpeg>)
 
 This edition of the Bhattikavya with English translation and notes is specially prepared for the students of Sanskrit Grammar who desire to follow the appli­cation of the grammatical rules of Panini as illustrated in the Bhattikavya.
 

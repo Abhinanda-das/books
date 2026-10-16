@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sbvl-tcoh"
 ---
 
-![обложка|156](<The Chronicles of Hanuman/обложка.jpeg>)
+![обложка|156](<../attachments/the-chronicles-of-hanuman--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9ec8ee5196a4151a.jpeg>)
 
 Lord Hanuman, the Monkey God and one of the most fascinating characters in the Ramayana, personifies the true superhero-philosopher. He is Lord Rama's most trusted ally who embodies the virtues of a sincere devotee, the fearless fighter who sets the city of Lanka ablaze with his burning tail, the humble messenger who informs Mother Sita of Lord Rama's victory over Ravana, the noble fellow warrior who uproots Dronagiri, a mountain of herbs, to save Lakshmana's life. Above all, he is a perfect blend of intelligence and humility. The Chronicles of Hanuman, an engaging and inspiring bildungsroman of the Monkey God, is also replete with interesting folk tales, local lore about Hanuman temples across India and Hanuman prayers, making this book a reader's delight. ABOUT THE AUTHOR Shubha Vilas, a spiritual seeker and a motivational speaker, holds a degree in Engineering and Law with a specialisation in Patent Law. In essence, he is an author, a motivational speaker, lifestyle coach and a storyteller. He is the author of the bestselling series, Ramayana: The Game of Life, that distills thought-provoking life lessons through the gripping narrative of the story of the Ramayana. Travelling across the globe and meeting people from all walks of life, he teaches the importance of being governed by dharmic principles, sharing spiritual lifestyle tips and contemporary wisdom to deal with modern-day life situations.
 

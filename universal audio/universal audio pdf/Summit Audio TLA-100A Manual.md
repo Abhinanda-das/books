@@ -7,7 +7,7 @@ word_count: 1982
 ---
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0001-00.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0001-00--01aca827b44ba5b3.png>)
 
 
 **User Manual Summit Audio TLA-100A Tube Leveling Amplifier** 
@@ -15,7 +15,7 @@ word_count: 1982
 Rev. Aug 10, 2014 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0002-00.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0002-00--ef41183b06af8f1a.png>)
 
 
 ## **Softube User Manual** 
@@ -71,13 +71,13 @@ Softube plug-ins are “what you see is what you get” products. You should be 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0005-06.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0005-06--34e574d0ce3555eb.png>)
 
 
 ## **Menu Row** 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0005-08.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0005-08--ac5f9ed673b7a632.png>)
 
 
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Dyna-mite plug-in as example, but the same goes for all plug-ins. 
@@ -93,7 +93,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0005-15.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0005-15--00c748f459bcf1c3.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -101,7 +101,7 @@ Enable Setup<br>**----- End of picture text -----**<br>
 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0005-16.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0005-16--5efcc0639c5a35c1.png>)
 
 
 **6** | USER INTERFACE 
@@ -169,7 +169,7 @@ It is always handy to have the ability to filter out the lowest frequencies so t
 Parallel compression, ie. mixing a compressed signal together with the original signal, is a standard practice today. So instead of using several mix buses to achieve this we added a knob. 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0007-08.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0007-08--d823fae96bd7cf5c.png>)
 
 
 amount of saturation from the tube output stage in the compressor. Without it, you would have to use the Gain control to set the desired amount of distortion and compensate for that loss or increase in volume with a separate volume control. The Saturation does all that. In one knob. 
@@ -185,11 +185,11 @@ It’s always difficult to choose what level the virtual 0 VU should correspond 
 The user interface consists of two panels, the upper panel, containting the original TLA-100A knobs and switches, and the lower panel that offers extra functionality. 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0008-03.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0008-03--a04e41ca5741e037.png>)
 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0008-04.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0008-04--848ca1c072f3f4c3.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -225,11 +225,11 @@ SOFTUBE USER’S GUIDE | **9**
 ~~Parallel Inject Adds the un-afected dry signal to the compressed (wet) signal. If you are using the~~ compressor to shape the sound instead of compressing the volume (a rather normal use case these days), it is often useful to blend some of the original signal with the compressed track. An overcompressed drum track has few transients, which will make it sound dull and without energy, but if you blend some of the original transients into that track you’ll get the energy back while maintaining the overcompressed sound. 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0009-07.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0009-07--1cd58777e3165335.png>)
 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0009-08.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0009-08--4823f01943e2e4d8.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -237,7 +237,7 @@ Low Cut  Low Cut<br>(Frequency) Selector<br>**----- End of picture text -----**<
 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0009-09.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0009-09--ab37a2d573bb7441.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -247,7 +247,7 @@ Saturation  Parallel Inject<br>Saturation LED<br>**----- End of picture text ---
 **10** | SUMMIT AUDIO TLA-100A COMPRESSOR 
 
 
-![](<Summit Audio TLA-100A Manual_assets/Summit_Audio_TLA-100A_Manual.pdf-0010-01.png>)
+![](<../../attachments/summit-audio-tla-100a-manual_assets--summit_audio_tla-100a_manual.pdf-0010-01--ca109c840ba139a8.png>)
 
 
 **----- Start of picture text -----**<br>

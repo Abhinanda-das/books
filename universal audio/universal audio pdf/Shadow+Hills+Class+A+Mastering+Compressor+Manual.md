@@ -10,13 +10,13 @@ word_count: 2625
 
 ### Plugin Manual
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_0_Picture_2.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_0_picture_2--88f4674ff2e27478.jpeg)
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_0_Picture_3.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_0_picture_3--bfb8204935253f01.jpeg)
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_0_Picture_4.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_0_picture_4--0ccc8bdadaa50d20.jpeg)
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_0_Picture_5.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_0_picture_5--aa04c74a6ac6a775.jpeg)
 
 ## **Table of Contents**
 
@@ -43,7 +43,7 @@ The Shadow Hills Mastering Compressor features truly remarkable functionality fr
 
 Thank you for choosing Shadow Hills Mastering Compressor Class A. We hope you enjoy it!
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_2_Picture_6.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_2_picture_6--abb7033b544c8c39.jpeg)
 
 ## <span id="page-3-0"></span>2. Key features
 
@@ -71,7 +71,7 @@ The Shadow Hills Mastering Compressor Class A plugin is a faithful 1:1 model of 
 
 The Shadow Hills Mastering Compressor Class A consists of the following areas and main controls:
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_4_Figure_5.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_4_figure_5--c97c130443b431e2.jpeg)
 
 - **1. Top toolbar**: Additional global controls relevant to the plugin's processing. For more information, refer to *[Top toolbar](#page-10-0)*.
 - **2. Compressor section**: Optical and discrete compressor controls for each channel. For more information, refer to *[Compressor Section](#page-5-0)*.
@@ -91,7 +91,7 @@ The Optical Section is the first gain reduction circuit in the Mastering Compres
 
 This section consists of the following controls:
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_5_Picture_9.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_5_picture_9--45595abc3f2db0bb.jpeg)
 
 - **1. Optical Threshold**: This control determines at what input level compression begins to occur. The compressor operates with a fixed ratio of 2:1, so compression is achieved by lowering the threshold into a range in which it begins to attenuate. Minimum compression occurs at **1** and maximum compression occurs at **24**.
 - **2. Optical Bypass**: **IN** engages the optical compressor module, and **OUT** bypasses it.
@@ -104,7 +104,7 @@ The Discrete Section is the final gain reduction circuit in the Mastering Compre
 
 This section consists of the following controls:
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_6_Picture_5.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_6_picture_5--6e4279764476804f.jpeg)
 
 - **1. Discrete Ratio**: This control determines the amount of compression achieved when the input signal reaches the threshold. A ratio of **1.2** means that for every 1.2dB of input over the threshold, 1 dB will be outputted. At **2**, 1dB will be outputted for every 2dB of input over the threshold, etc. When the dial is set to **Flood**, a ratio of 20:1 occurs.
 - **2. Discrete Threshold**: This control determines at what input level compression begins to occur. Minimum compression occurs at **1** and maximum compression occurs at **24**.
@@ -124,14 +124,14 @@ For a better overview, the controls of this section are divided into the followi
 
 This section consists of the following controls:
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_7_Picture_8.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_7_picture_8--134530be3011429e.jpeg)
 
 - **1. VU Metering**: The Shadow Hills Mastering Compressor Class A is equipped with two VU meters for proper visual analysis of audio processing. When used on mono signals, the two VU meters can be used to display the gain reduction of both compressors simultaneously. The same goes for linked **Stereo** mode. It is only in **Dual Mono** mode that the VU meters show gain reduction independently for both channels. The internal reference level corresponding to 0 VU can be set in the splash screen, which is brought up by clicking on any of the two meters or the Shadow Hills Industries Logo. By default, the meter reference is set to 0 dBu = -14 dBFS
 - **2. Meter Select**: Each VU meter has the capability of displaying optical gain reduction, discrete gain reduction, and output level, as determined by the position of the Meter Select switch but independent on the **Dual Mono** / **Stereo** setting. This facilitates viewing a combination of gain reduction and output, or the two different stages of compression simultaneously while in **Stereo**.
 - **3. OVL LED**: The OVL (Overload) LED indicates internal clipping. Whether the clipping is audible or not depends on the kind of audio material you are processing. You should always avoid that the OVL LED illuminates. Use the **Discrete Gain** control to reduce the output level if the OVL-LEDs keeps flashing.
 - **4. Magic Eye**: The green, glowing Magic Eye tube at the bottom of the unit is the final component in the metering system. When both VU Meters are in **Output** mode, the Magic Eye displays a mono signal in its top quadrant.
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_7_Figure_13.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_7_figure_13--9a74998489e711fb.jpeg)
 
 Clicking the Shadow Hills Industries logo or the VU-Meters will open a splash screen containing team credits and default settings.
 
@@ -139,12 +139,12 @@ Clicking the Shadow Hills Industries logo or the VU-Meters will open a splash sc
 
 This section consists of the following controls:
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_8_Picture_4.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_8_picture_4--4fdabdee62973b8d.jpeg)
 
 - **5. Stereo Operation** (**Sidechain Link**): The Shadow Hills Mastering Compressor Class A can operate in **Dual Mono** or **Stereo**. While in **Dual Mono**, each side has independent operation and all of the controls on both sides are active. In **Stereo**, the left- hand controls operate all of the Mastering Compressor's features with the right-hand controls not having any effect and the red light bulbs reflecting the left-hand settings.
 - **6. Transformer Switching Matrix**: You have remarkable control over the tone and vibe of your music thanks to three switchable output transformers. This matrix switches the selected transformers in and out of the circuit. The various material compositions, size and methods of winding impart different frequency and distortion characteristics as well as the transient limiting caused by the magnetics. The ability to switch between the different transformer selections, equates to being able to switch in the final gain stages from different vintage consoles and provides remarkable flexibility.
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_8_Picture_7.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_8_picture_7--e2b70359dafa14b6.jpeg)
 
 **Nickel**: The cleanest position with the least distortion. This position has a subtle accentuation of ultra- high frequencies.
 
@@ -160,7 +160,7 @@ Not only does the plugin nail the heart and soul of the Shadow Hills Mastering C
 
 This section consists of the following controls:
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_9_Picture_5.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_9_picture_5--ce0c1a44ea9a0236.jpeg)
 
 - **1. [TMT] Stereo Mode**: Toggles between using the same TMT channel for both units (D=digital) and using two adjacent, differing TMT channels (A=analog).
 - **2. TMT [Channel]**: Switches between 20 different analog channels. In a Stereo instance, two adjacent Channel numbers will be displayed. Each channel has its own, different character.
@@ -174,7 +174,7 @@ This section consists of the following controls:
 - **9. Stereo Width**: Set the amount of side boost/attenuation.
 - **10. Parallel Mix**: Controls the amount of the dry (unprocessed) signal being blended with the wet (processed) signal, effectively providing the option of parallel compression.
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_9_Figure_17.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_9_figure_17--e8a80490d7b8b770.jpeg)
 
 **0%** = uncompressed/dry signal < ... > compressed/wet signal = **100%**
 
@@ -182,7 +182,7 @@ This section consists of the following controls:
 
 Additional global controls related to plugin settings and processing are available in the top toolbar.
 
-![](Shadow+Hills+Class+A+Mastering+Compressor+Manual_assets/_page_10_Picture_4.jpeg)
+![](../../attachments/shadow-hills-class-a-mastering-compressor-manual_assets--page_10_picture_4--81feac2367eba042.jpeg)
 
 - **1. Power**: Bypasses the processor when disengaged.
 - **2. ↩︎ ↪︎**: Undo and redo changes made to controls up to 32 steps.

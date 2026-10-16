@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/nct-songs"
 ---
 
-![обложка|156](<Songs of Narahari Chakravartī Ṭhākura/обложка.jpeg>)
+![обложка|156](<../attachments/songs-of-narahari-chakravart%C4%AB-%E1%B9%ADh%C4%81kura--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--da72c48fcaae5f82.jpeg>)
 
 # Songs of Narahari Chakravartī Ṭhākura
 

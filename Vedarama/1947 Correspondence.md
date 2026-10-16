@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1947"
 ---
 
-![обложка|156](<1947 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1947-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f56f9fe0e4a23349.jpeg>)
 
 # 1947 Correspondence
 

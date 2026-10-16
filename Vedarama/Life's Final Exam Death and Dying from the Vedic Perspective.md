@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/girirajsw-lfe"
 ---
 
-![обложка|156](<Life's Final Exam Death and Dying from the Vedic Perspective/обложка.jpeg>)
+![обложка|156](<../attachments/life-s-final-exam-death-and-dying-from-the-vedic-perspective--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d051af268d308388.jpeg>)
 
 Life's Final Exam is an inclusive treatment for one's last days of life that gives readers the resources to face death squarely and deal successfully with that often fearful and painful but also saving moment. Down-to-earth and practical as well as scriptural, both fresh and mature, it draws us in with superb narratives and also answers tough questions about death and dying.
 

@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1970"
 ---
 
-![обложка|156](<1970 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1970-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b051652bc86487eb.jpeg>)
 
 # 1970 Correspondence
 

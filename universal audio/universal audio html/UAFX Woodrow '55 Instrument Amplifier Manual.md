@@ -43,7 +43,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--e3244aedf93ddb07.png)
 </figure>
 
 Bill Putnam Jr.
@@ -56,7 +56,7 @@ Bill Putnam Jr.
 
 # Woodrow '55 Quick Start
 
-![woodrow-qsq-bw.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/9180c94f7098de5fa404ab8f5b859061d66a300e.png)
+![woodrow-qsq-bw.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--9180c94f7098de5fa404ab8f5b859061d66a300e--13851c337968941b.png)
 
 [**Download Woodrow '55 Quick Start**](360058186352-UAFX-Pedal-Downloads.html)
 
@@ -133,7 +133,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here</span>](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/71a90f387ababfc5588e23519cf25abe839971d2.png)
+![rear-callouts-amp.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--0f7777bcf2bc6a65.png)
 </figure>
 
  
@@ -159,7 +159,7 @@ You can store a preset you’ve made with your own settings by holding down the 
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the live effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-on-led.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/039ea6f067a659c26bac8c58abbbf5de3c79066c.png)
+![golden-switches-on-led.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--e9b01084c46f62c3.png)
 </figure>
 
  
@@ -169,7 +169,7 @@ To enter Live mode, press the left footswitch. Press the left footswitch again t
 To enter Preset mode, press the right footswitch. Press the right footswitch again to toggle the preset on/off. The right footswitch LED is lit green when the preset is on.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-preset-led.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/381e83806fbca2e28a4cc8d1d3a4d7b015b0194c.png)
+![golden-switches-preset-led.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--f19e17d58c7fe92e.png)
 </figure>
 
 **Note:** The left and right footswitch functions can be changed in the UAFX Control mobile app.
@@ -366,7 +366,7 @@ For more details about footswitch modes and how to enable them, see [Woodrow '55
 Each speaker, cabinet, and mic setting has a unique sound. Toggle up or down through the list with the Speaker switch. When you register your pedal with UAFX Control software, you get three free bonus speaker cabinets (green LEDs).
 
 <figure class="wysiwyg-image">
-![bonus-cabs-woodrow.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/0b96390b0853323491f81cd25755554769ab14e8.png)
+![bonus-cabs-woodrow.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--0b96390b0853323491f81cd25755554769ab14e8--b157078608185d6c.png)
 </figure>
 
 **Note:** The speaker cabinet labels on the pedal apply only when the speaker LED is red. When the speaker LED is green, the active speaker name is visible in the UAFX Control mobile app.
@@ -505,7 +505,7 @@ Tap Settings at the bottom right of the screen to access the settings for a peda
 
 After registration, the Vee30, B-Man, and JB120 speaker cabinets are added to the pedal. To select these speaker cabinets, push the Cab switch until the top, middle, or bottom LED is lit green.
 
-![bonus-cabs-woodrow.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/0b96390b0853323491f81cd25755554769ab14e8.png)
+![bonus-cabs-woodrow.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--0b96390b0853323491f81cd25755554769ab14e8--b157078608185d6c.png)
 
 ## Woodrow '55 footswitch modes
 
@@ -518,7 +518,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![woodrow-fs-modes.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/6e5c90cfe05776da2ea47f9d181f302e77cd8a6a.png)
+![woodrow-fs-modes.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--6e5c90cfe05776da2ea47f9d181f302e77cd8a6a--0de14118ca264c0e.png)
 </figure>
 
  
@@ -527,7 +527,7 @@ The following Woodrow '55 footswitch modes can be selected with the UAFX Control
 
 ### Live \| Preset
 
-![woodrow-fs-live-preset.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/0252ae914f1d2262c553fb61dda9e68d54dc90cb.png)
+![woodrow-fs-live-preset.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--0252ae914f1d2262c553fb61dda9e68d54dc90cb--0ffe16365afd6003.png)
 
 In Live \| Preset mode, you can access Live mode (knobs and switches) and the stored preset.
 
@@ -538,7 +538,7 @@ In Live \| Preset mode, you can access Live mode (knobs and switches) and the st
 
 ### Boost \| Live/Preset
 
-![woodrow-fs-boost-live-preset.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/165162649b25350a2bfb36db4ae9d9aa6080406c.png)
+![woodrow-fs-boost-live-preset.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--165162649b25350a2bfb36db4ae9d9aa6080406c--24aced873a225f81.png)
 
 In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
@@ -554,7 +554,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![woodrow-fs-live-ab.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/b38b9bfe4d015b78e38690a51a908f4e28fc5736.png)
+![woodrow-fs-live-ab.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--b38b9bfe4d015b78e38690a51a908f4e28fc5736--ff98d62f0f29c622.png)
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -566,7 +566,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![woodrow-fs-ab.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/6d085596c25ce264de5c82028363db100473b80f.png)
+![woodrow-fs-ab.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--6d085596c25ce264de5c82028363db100473b80f--3aad5d75b32c0402.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -578,7 +578,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![woodrow-fs-abcd.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/7ffbfce01555f2a458e65401516258af61de69ff.png)
+![woodrow-fs-abcd.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--7ffbfce01555f2a458e65401516258af61de69ff--142fc1736d085fe2.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)
@@ -830,9 +830,9 @@ Sending the program change and bypass state first allows the pedal to load the i
 
 # Woodrow '55 Safety
 
-![safety-symbol-exclaim.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
+![safety-symbol-exclaim.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--adf6c9146d7ce171.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
 
-![safety-symbol-book-info.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
+![safety-symbol-book-info.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--73b51d217c279804.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
 - Read the instructions.
 - Keep these instructions.
@@ -874,7 +874,7 @@ License exempt. This device complies with Industry Canada license-exempt RSS sta
 
 Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux appareils radio exempts de licence. L'exploitation est autorisée aux deux conditions suivantes : (1) l'appareil ne doit pas produire de brouillage, et (2) l'utilisateur de l'appareil doit accepter tout brouillage radioélectrique subi, même si le brouillage est susceptible d'en compromettre le fonctionnement.
 
-![safety-symbol-trash.png](UAFX%20Woodrow%20%2755%20Instrument%20Amplifier%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
+![safety-symbol-trash.png](../../attachments/uafx-woodrow-55-instrument-amplifier-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--d412f16cc4e8d66e.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 
 - IEC 62368-1
 - FCC ID: 2AXKQ2029

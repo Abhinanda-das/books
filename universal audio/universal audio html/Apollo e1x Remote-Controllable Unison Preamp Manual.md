@@ -10,11 +10,11 @@ word_count: 5368
 
 
 <figure class="wysiwyg-image">
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/4cdc530b8625a9f7c327cc6d69c13b669d140c9b.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--4cdc530b8625a9f7c327cc6d69c13b669d140c9b--9fe510ed2c25cf21.png)
 </figure>
 
 <figure class="wysiwyg-image">
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/aefe7ab35b38060e4369a08d3cf2cf4cc359277c.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--aefe7ab35b38060e4369a08d3cf2cf4cc359277c--82495c01cd913c12.png)
 </figure>
 
 ## Put Unison preamps on stage or in your studio with Dante
@@ -117,8 +117,8 @@ UAD Console selects the mic or line input according to the cable that is connect
 <table style="border-collapse: collapse;">
 <tbody>
 <tr>
-<td style="width: 50%">![Apollo_e1x_Front_Mic_Input.png](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/f2c7a21a15dd3a185e74e848c7c3bc96ed3c3896.png)</td>
-<td style="width: 50%">![Apollo_e1x_Rear_Dante_Input.png](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/a3aada8a970c6b3d7dd8add34ca273e17ba093a7.png)</td>
+<td style="width: 50%">![Apollo_e1x_Front_Mic_Input.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--f2c7a21a15dd3a185e74e848c7c3bc96ed3c3896--b44f19319e3e0821.png)</td>
+<td style="width: 50%">![Apollo_e1x_Rear_Dante_Input.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--a3aada8a970c6b3d7dd8add34ca273e17ba093a7--3eb5376154748421.png)</td>
 </tr>
 </tbody>
 </table>
@@ -127,7 +127,7 @@ UAD Console selects the mic or line input according to the cable that is connect
  
 
 <figure class="wysiwyg-image">
-![apollo_e1x_bottom.png](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/05aaee12443bd4ff506c3b3071dfee5775d7ed47.png)
+![apollo_e1x_bottom.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--05aaee12443bd4ff506c3b3071dfee5775d7ed47--9fb1194fc1ddf27f.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -163,7 +163,7 @@ For network and cabling information, see [this article](https://help.uaudio.com/
 
 ## Power and Connectivity Indicators (LEDs)
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/a2db88170d54723e11c25204df2db3adfb344f04.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--a2db88170d54723e11c25204df2db3adfb344f04--35d3f834b6fb3e07.png)
 
 The power and connectivity indicators show the status of the device and signals.
 
@@ -194,7 +194,7 @@ The right level indicator illuminates when signal is present at the analog input
 
 Multiple units can be attached together using the included bracket. Remove the two bottom 2 mm hex screws on each unit to be affixed, add the bracket, and then reassemble as illustrated. To prevent overheating, a maximum of eight (8) Apollo e1x units can be attached together.
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/45a1451d1fe5b68ac09f21468806e6694276036e.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--45a1451d1fe5b68ac09f21468806e6694276036e--67e5950118b45c6f.png)
 
 ------------------------------------------------------------------------
 
@@ -208,7 +208,7 @@ Apollo e1x is a single-channel, two flow Tx (Transmitter) device. In Dante Contr
 
 In Dante Controller, Apollo e1x is identified by its Dante device name. 
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/6c1c8ca19f4f5ab344de7aee61183df378085ca1.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--6c1c8ca19f4f5ab344de7aee61183df378085ca1--00be83280baf340f.png)
 
 ## Routing and configuration in UAD Console with an Apollo x16D
 
@@ -223,7 +223,7 @@ If you are not using an Apollo x16D, you can use UAD Console to configure preamp
 1.  In UAD Console, click the Dante Source box in the input row of an Apollo x16D Dante channel.
 2.  The Input Source browser opens. Choose the input source. 
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/3f3f358bcd9316d1b5b3e04f8ce6a5bf71c8dbec.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--3f3f358bcd9316d1b5b3e04f8ce6a5bf71c8dbec--714118535ca7e712.png)
 
 **Tip:** Apollo E Series and Apollo x16D devices appear in the Input Browser with their Dante device and channel names. You can change device and channel names on the [Device Config tab in Dante Controller](https://dev.audinate.com/GA/dante-controller/userguide/webhelp/content/device_config_tab.htm) to more easily identify Dante devices. 
 
@@ -252,7 +252,7 @@ In the apollo \| e window, you can:
 - View and reset network settings (if desired) for devices: click Network Settings.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![apollo-e-tab.png](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/84bfc6bf141f80f47119affa25178093711505cf.png)
+![apollo-e-tab.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--84bfc6bf141f80f47119affa25178093711505cf--ddd08c0521ebf425.png)
 </figure>
 
 ## Adjusting Apollo e1x preamp settings
@@ -277,8 +277,8 @@ Apollo e1x devices routed to adjacent (odd/even) Apollo x16D channels can be lin
 <table>
 <tbody>
 <tr>
-<td style="text-align: center; vertical-align: top;">![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/f41f335e795ccc974cf65a8c6e0d4d5198046610.png)</td>
-<td style="text-align: center; vertical-align: top;">![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/b883ca8967698e571416e2f8d65199344e20bb83.png)</td>
+<td style="text-align: center; vertical-align: top;">![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--f41f335e795ccc974cf65a8c6e0d4d5198046610--87ac7565bc55f8ef.png)</td>
+<td style="text-align: center; vertical-align: top;">![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--b883ca8967698e571416e2f8d65199344e20bb83--d29ccf4028360be1.png)</td>
 </tr>
 </tbody>
 </table>
@@ -352,7 +352,7 @@ You can set the global Dante Latency Control setting in UAD Console \> Settings 
 
 You can adjust the Dante Latency Control in UAD Console's Settings, on the Hardware tab.
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/1ba9be7f663ca9ae78026169f96a3ace46ae9120.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--1ba9be7f663ca9ae78026169f96a3ace46ae9120--0f5fccb2b326f178.png)
 
 ## Apollo latency compensation
 
@@ -369,7 +369,7 @@ When these settings are applied, the Input Delay Compensation value is adjusted 
 
 When you route an Apollo e1x to a Dante channel in Apollo x16D, you can insert UAD-2 DSP plug-ins in the standard and Unison inserts. UAD-2 plug-ins are powered by the Apollo x16D's DSP. 
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/657ce053b94c9d6328ad429a5f48b7e14cc1bb0c.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--657ce053b94c9d6328ad429a5f48b7e14cc1bb0c--2efe1b31f5176454.png)
 
 **Note:** There is no Hi-Z input on Apollo e1x. When using a Unison plug-in with a Hi-Z source, use a DI box between your instrument and Apollo e1x.
 
@@ -389,7 +389,7 @@ If a Unison plug-in is inserted on an Apollo e1x preamp, the headroom setting is
 
 Network settings for Dante network Apollo devices are included on the Network panel.This information is informational, except for the Reset switch. You can adjust network settings for Dante devices in Dante Controller.  For more information, see [Network Panel](https://help.uaudio.com/hc/en-us/articles/28355272973460-Network-Panel). 
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/80de04242ab9f8f1021057e4aa0916fbdd5d0365.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--80de04242ab9f8f1021057e4aa0916fbdd5d0365--75ee42b61541cc49.png)
 
 ------------------------------------------------------------------------
 
@@ -401,7 +401,7 @@ Apollo e1x's small form-factor and preamp capabilities make it an indispensable 
 
 In a live deployment, you can use Apollo e1x devices to locate physical preamp inputs conveniently, and to provide Unison plug-in capabilities to your stage setup. Combined with Apollo e2m devices, a full array of input and monitoring capabilities are available. 
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/106b588208e7322b67cffd1f009b4c0bf2c573cb.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--106b588208e7322b67cffd1f009b4c0bf2c573cb--5a11452b7e9a7b06.png)
 
 ## Studio deployment
 
@@ -409,7 +409,7 @@ In a studio deployment, you can use up to 16 Apollo e1x devices with a single Ap
 
 **Note:** The number of Unison preamp plug-ins you can assign to Apollo e1x channels depends on the available DSP and the complexity of the plug-ins.
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/a9854157025a61ba63956483fee1faf6fbcffe4e.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--a9854157025a61ba63956483fee1faf6fbcffe4e--0e6f79ee601e869b.png)
 
 ------------------------------------------------------------------------
 
@@ -521,7 +521,7 @@ All specifications are typical performance unless otherwise noted. Tested with t
 
 ## Important Safety Instructions
 
-![safety-triangle.png](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/3ef29c4cdcad027959b686b1643524a5e17b73e6.png)
+![safety-triangle.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--3ef29c4cdcad027959b686b1643524a5e17b73e6--4365300ef717eb4e.png)
 
 1.  Read these safety instructions and the instruction manual of the product.Keep these safety instructions and the instruction manual of the product. Always include all instructions when providing the product to other parties.
 2.  Heed all warnings.
@@ -551,7 +551,7 @@ The product is covered by a limited warranty. For the current terms of such warr
 
 ### Maintenance
 
-![safety-triangle-bolt.png](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/69f69a3c91ffc3b8abc208fb136fd38741608b3a.png)
+![safety-triangle-bolt.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--69f69a3c91ffc3b8abc208fb136fd38741608b3a--ef5b0a0a37f20fe3.png)
 
 - **CAUTION:** To reduce the risk of electric shock, do not open the unit.
 - This product does not contain a fuse or any other user-replaceable parts. The unit is internally calibrated at the factory. No internal user adjustments are available.
@@ -568,7 +568,7 @@ In compliance with the following requirements:
 
 #### *WEE-DIRECTIVE (2012/19/EU)*
 
-![safety-trash.png](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/d7537563a76945b4fec7ebfdf69cc8c7c1bc2553.png)
+![safety-trash.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--d7537563a76945b4fec7ebfdf69cc8c7c1bc2553--ee51f1a3e7b3a721.png)
 
 The symbol of the crossed-out wheeled bin on the product, the battery/rechargeable battery (if applicable), and/or the packaging indicates that these products must not be disposed of with normal household waste, but must be disposed of separately at the end of their operational lifetime. For packaging disposal, please observe the legal regulations on waste segregation applicable in your country.
 
@@ -576,7 +576,7 @@ Further information on the recycling of these products can be obtained from your
 
 ## EU Declaration of Conformity
 
-![safety-ce.png](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/adf01a49d95178b45eb1a44d449515815f95608c.png)
+![safety-ce.png](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--adf01a49d95178b45eb1a44d449515815f95608c--98a25ccd872f00f3.png)
 
 - RoHS-Directive (2015/863/EU)
 - Low Voltage Directive (2014/35/EU)
@@ -625,7 +625,7 @@ This product complied with the following requirements:
 
 ### Product Label
 
-![](Apollo%20e1x%20Remote-Controllable%20Unison%20Preamp%20Manual_assets/71932a606238987d6caf81ccbfde21f21b39e325.png)
+![](../../attachments/apollo-e1x-remote-controllable-unison-preamp-manual_assets--71932a606238987d6caf81ccbfde21f21b39e325--257bf1a740011ec4.png)
 
 ## End User License Agreement
 

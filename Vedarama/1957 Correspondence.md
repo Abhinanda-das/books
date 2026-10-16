@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1957"
 ---
 
-![обложка|156](<1957 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1957-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--79f4ba2a9b411487.jpeg>)
 
 # 1957 Correspondence
 

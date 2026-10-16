@@ -32,7 +32,7 @@ The FATSO plug-in's versatility is greatly expanded with the addition of Dave De
 
 <div class="wysiwyg-text-align-center">
 
-![FatsoJr.png](Empirical%20Labs%20EL7%20Fatso%20Manual_assets/8ac81e6a44fb222a3ce59ad02ff1338534416dd5.png)
+![FatsoJr.png](../../attachments/empirical-labs-el7-fatso-manual_assets--8ac81e6a44fb222a3ce59ad02ff1338534416dd5--55b930420f6b7d7d.png)
 
 </div>
 
@@ -134,7 +134,7 @@ All FATSO pushbuttons are momentary. The value of the parameter increments by on
 
 <div class="wysiwyg-text-align-center">
 
-![fatso-input.png](Empirical%20Labs%20EL7%20Fatso%20Manual_assets/b9eb0866ea2ed6bf0000a757fae117e260928a30.png)
+![fatso-input.png](../../attachments/empirical-labs-el7-fatso-manual_assets--b9eb0866ea2ed6bf0000a757fae117e260928a30--6091d952515e76f8.png)
 
 </div>
 
@@ -235,7 +235,7 @@ The control signal sidechains of the gain reduction processors for channels 1 an
 
 <div class="wysiwyg-text-align-center">
 
-![fatso-link-compress.png](Empirical%20Labs%20EL7%20Fatso%20Manual_assets/5bbcda0386e5f68152378448e01359d9e20e2bad.png)
+![fatso-link-compress.png](../../attachments/empirical-labs-el7-fatso-manual_assets--5bbcda0386e5f68152378448e01359d9e20e2bad--95033f8fd6fed591.png)
 
 </div>
 
@@ -255,7 +255,7 @@ The parameter controls for channels 1 and 2 can be linked using the Link Control
 
 <div class="wysiwyg-text-align-center">
 
-![fatso-link-controls.png](Empirical%20Labs%20EL7%20Fatso%20Manual_assets/5a3fdeb68fe4165365812d11a974af1ab0dfce30.png)
+![fatso-link-controls.png](../../attachments/empirical-labs-el7-fatso-manual_assets--5a3fdeb68fe4165365812d11a974af1ab0dfce30--58290aeeafb743b5.png)
 
 </div>
 
@@ -297,7 +297,7 @@ These controls are unique to the FATSO Sr. However, because the additional contr
 
 <div class="wysiwyg-text-align-center">
 
-![fatso-sr.png](Empirical%20Labs%20EL7%20Fatso%20Manual_assets/32a3c9a9e6a5fa9424da28c3fd642a5519e1a050.png)
+![fatso-sr.png](../../attachments/empirical-labs-el7-fatso-manual_assets--32a3c9a9e6a5fa9424da28c3fd642a5519e1a050--1b4126bd9ed4bf8f.png)
 
 </div>
 
@@ -375,7 +375,7 @@ When loading presets created on the FATSO Jr. into the FATSO Sr., the parameters
 
 <div class="wysiwyg-text-align-center">
 
-![EmpiricalLabs.png](Empirical%20Labs%20EL7%20Fatso%20Manual_assets/764c06b81dd521361a18b3f836b5816e4e24c8b2.png)
+![EmpiricalLabs.png](../../attachments/empirical-labs-el7-fatso-manual_assets--764c06b81dd521361a18b3f836b5816e4e24c8b2--0b36b0134d0e3866.png)
 
 </div>
 
@@ -383,7 +383,7 @@ When loading presets created on the FATSO Jr. into the FATSO Sr., the parameters
 
 <div class="wysiwyg-text-align-center">
 
-![FATSO-HW.png](Empirical%20Labs%20EL7%20Fatso%20Manual_assets/43893506dabbf90e642be818658977516790d4b8.png)
+![FATSO-HW.png](../../attachments/empirical-labs-el7-fatso-manual_assets--43893506dabbf90e642be818658977516790d4b8--b0bda9b4d647b0c9.png)
 
 </div>
 

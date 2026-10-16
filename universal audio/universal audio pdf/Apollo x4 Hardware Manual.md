@@ -7,11 +7,11 @@ word_count: 11157
 ---
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0001-00.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0001-00--048dd1a6ee41df3d.png>)
 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0001-01.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0001-01--8d902e9a6f00647f.png>)
 
 
 ## **Apollo x4 Hardware Manual** 
@@ -19,7 +19,7 @@ word_count: 11157
 Manual Version 240325 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0001-04.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0001-04--ebefab5cccf04a10.png>)
 
 
 www.uaudio.com 
@@ -41,7 +41,7 @@ Please feel free to reach out to us via our website www.uaudio.com, and via our 
 Sincerely, 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0002-08.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0002-08--9c12216b0aab9076.png>)
 
 
 Bill Putnam Jr. 
@@ -79,7 +79,7 @@ Built upon UA’s 60-year heritage of audio - craftsmanship, Apollo x4 starts wi
 ## **Now You Can:** 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0004-06.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0004-06--a1bd01cd964aa990.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -87,7 +87,7 @@ PREAMP MONITOR<br>**----- End of picture text -----**<br>
 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0004-07.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0004-07--2a5edfde83f2dda0.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -133,7 +133,7 @@ With exclusive emulations from Neve, Studer, Manley, API, Ampex, Lexicon, Fender
 Of course, the heart of any audio interface is the quality of its conversion. Apollo x4 improves upon the original Apollo Twin’s gold-standard audio quality with completely redesigned A/D and D/A conversion — giving you increased dynamic range and ultra-low THD. This next-generation conversion results in breathtaking clarity, depth, and accuracy in your recordings. 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0005-08.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0005-08--a4cc58302c9f0dfa.png>)
 
 
 _*All trademarks are recognized as property of their respective owners. Individual UAD Powered Plug-Ins sold separately._ 
@@ -421,7 +421,7 @@ Each host DAW software application has its own particular methods for configurin
 For additional resources, or if you need to contact Universal Audio for assistance, see the Technical Support page. 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0012-10.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0012-10--c70928ada35ba572.png>)
 
 
 12 
@@ -497,13 +497,13 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 ## _**Does your USB-C connector support Thunderbolt 3?**_ 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0014-10.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0014-10--fec98064768bb81d.png>)
 
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer. 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0014-12.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0014-12--473f8716d8484f0d.png>)
 
 
 _Thunderbolt icon on USB-C cable (left) and USB-C port (right)_ 
@@ -605,7 +605,7 @@ One typical Apollo x4 audio setup is illustrated below. For complete details abo
 _**Tip:** In the example below, the mics are connected to channels 3 and 4, so that the mics and the instruments (which are connected to channels 1 and 2) can be used at the same time._ 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0017-03.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0017-03--7fc5aad8f79d9f2e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -613,7 +613,7 @@ Hi-Z Instruments Headphones<br>1 2 1 2<br>**----- End of picture text -----**<br
 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0017-04.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0017-04--1b59e7001428dae8.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -719,7 +719,7 @@ Apollo x4 Hardware Manual
 The currently selected input channel (CH1, CH2, CH3, or CH4) is shown by the Select Channel Indicators at the upper left ~~o~~ f the ~~m~~ a ~~i~~ n display panel, above the input meters. When a channel is selected, its indicator is lit. 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0020-02.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0020-02--c9798693bf181b9c.png>)
 
 
 _**Note:** The preamp controls adjust the functions for the currently selected cha_ ~~_nn_~~ _el._ 
@@ -733,7 +733,7 @@ When in Preamp mode, press the PREAMP button repeatedly to change the selected i
 The Mic, Line, or Hi-Z input source is routed into the channel’s preamplifier. The active input source jack is shown by the indicato ~~r~~ s between the input meters. When an input is selected, its indicator is lit. 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0020-08.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0020-08--80ff739c351247bd.png>)
 
 
 The MIC (XLR) or LINE (¼”) combo inputs on the rear panel ar ~~e selected~~ by the pressing the INPUT button when the channel is selected. The HI-Z input (available on channels 1 and 2 only) is sel ~~ected automatically when~~ an instrument cable is plugged into a Hi-Z input on the front panel. 
@@ -765,7 +765,7 @@ When Apollo x4 is in Monitor mode, top panel controls ar ~~e~~ relat ~~e~~ d ~~t
 _**Note:** Input functions cannot be performed in Monitor mode. Press the PREAMP button to perform input functions._ 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0021-03.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0021-03--47c581182af1bdbf.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -789,7 +789,7 @@ The Level kno ~~b is~~ use ~~d~~ to set th ~~e~~ volu ~~m~~ e ~~l~~ evel fo ~~r~
 The currently s ~~elect~~ ed stereo output is shown by the HP1, HP2, and MONITOR indicators at the right of the main display, above the output meters. When a stereo output is selected, its indicat ~~o~~ r is lit. 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0021-12.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0021-12--ed17d70a57395f48.png>)
 
 
 _**Note:** The Level knob adjusts the volume for the_ ~~_c_~~ _urrently_ ~~_s_~~ _electe_ ~~_d_~~ _stere_ ~~_o_~~ _output._ 
@@ -817,7 +817,7 @@ Apollo x4 Hardware Manual
 Refer to the illustration below for numbered control descriptions in this section. 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0022-02.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0022-02--46e1f1e799b2b612.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -835,7 +835,7 @@ When in PREAMP Mode, rotate clockwise to increase the amount of preamp gain for 
 ## **Unison Integration** 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0022-08.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0022-08--8f142cb582d708ba.png>)
 
 
 The Level knob can also be used to control Unison-enabled UAD preamp, guitar/bass amp, and pedal plug-in parameters. See the Apollo Software Manual for complete Unison details. 
@@ -911,13 +911,13 @@ Each of the six Option Buttons has dual functions. In Preamp mode, the buttons c
 ## **Unison Integration** 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0024-09.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0024-09--38ac57be05ca19c4.png>)
 
 
 In Preamp mode, the Option Buttons can also be used to control Unisonenabled UAD preamp, guitar/bass amp, and pedal plug-in parameters. See the Apollo Software Manual for complete Unison details. 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0024-11.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0024-11--3a77604b811dba09.png>)
 
 
 _Options Display (7) and Option Buttons (8)_ 
@@ -937,7 +937,7 @@ A preamp option is active when its indicator in the upper row of the Options Dis
 _**Note:** In MONITOR mode, the preamp options cannot be modified and the upper row of the Options Display is unlit._ 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0025-04.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0025-04--799af3ffeed6e50b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -993,7 +993,7 @@ The TALK, DIM, ALT, and FCN functions are configured in the companion Console so
 _**Note:** In Preamp mode, the monitor options cannot be modified and the lower row of the Options Display is unlit._ 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0026-08.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0026-08--1688dc7a5285df7c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -1039,7 +1039,7 @@ _**Note:** MUTE does not a_ ~~_pp_~~ _l_ ~~_y t_~~ _o the_ ~~_he_~~ _a_ ~~_d_~~ 
 Refer to the illu ~~stration below for numbered control descriptions in this se~~ ction. 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0027-07.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0027-07--38f31f61ce15cbcc.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -1077,7 +1077,7 @@ Refer to the illustration below for numbered control descriptions in this sectio
 _**Note:** All rear panel ¼” jacks can accept unbalanced TS (tip-sleeve) or balanced TRS (tip-ring-sleeve) plugs._ 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0028-03.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0028-03--eca41dbe9be0d403.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -1206,7 +1206,7 @@ _(continued)_
 Apollo x4 Hardware Manual 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0032-00.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0032-00--30f3ebf8fc041fd7.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -1220,7 +1220,7 @@ _(continued)_
 Apollo x4 Hardware Manual 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0033-00.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0033-00--b36ae59e4ad5341e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -1234,7 +1234,7 @@ Apollo x4 Hardware Manual
 ## **Hardware Block Diagram** 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0034-01.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0034-01--e1d07a9765c965a7.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -1283,7 +1283,7 @@ Universal Audio provides a limited warranty on all UA hardware products. To lear
 ## **Maintenance** 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0036-04.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0036-04--0f15af08bb041458.png>)
 
 
 - **CAUTION:** To reduce the risk of electric shock, do not open the unit. 
@@ -1307,7 +1307,7 @@ Apollo x4 Hardware Manual
 ## **Important Safety Information** 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0037-01.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0037-01--7cfa611a6d8b4656.png>)
 
 
 - Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions. 
@@ -1343,11 +1343,11 @@ Apollo x4 Hardware Manual
 ## **Description of symbols used** 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0037-18.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0037-18--5070e30f214ba550.png>)
 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0037-19.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0037-19--a8a719b6d5bb4aa1.png>)
 
 
 The lightning flash represented by the arrow symbol in an equilateral triangle is intended to alert users to the presence of high voltage within the unit that could cause an electrical shock hazard. 
@@ -1455,7 +1455,7 @@ Universal Audio
 Technical Support 
 
 
-![](<Apollo x4 Hardware Manual_assets/Apollo_x4_Hardware_Manual.pdf-0041-00.png>)
+![](<../../attachments/apollo-x4-hardware-manual_assets--apollo_x4_hardware_manual.pdf-0041-00--d16d933612ebcf8f.png>)
 
 
 www.uaudio.com 

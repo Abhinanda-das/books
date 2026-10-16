@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rsprasad-tu"
 ---
 
-![обложка|156](<The Upanāyana Hindu Ceremonies of the Sacred Thread/обложка.jpeg>)
+![обложка|156](<../attachments/the-upan%C4%81yana-hindu-ceremonies-of-the-sacred-thread--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9e6c0025cb88f5c7.jpeg>)
 
 Upanayana is one of the sixteen samskaras or purificatory rites in which a boy is invested with the sacred thread and thus endowedwith second or spiritual birth and qualified to learn the Veda by heart. In this ceremony the boy goes to an Acarya well-versed in the Vedas with a view to be initiated into Vedic studies or a Guru draws a boy towards himself and initiates him into one of the three twice-born classes. From the day the initiation ceremony takes place the young celibate commits himself to a life of austerity and abstinence; he chooses to lead a life rigorously disciplined by vows and disciplinary rules.
 

@@ -43,7 +43,7 @@ DSP and native plug-ins sound the same, and offer the ability to copy and paste 
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: center; width: 130px; vertical-align: middle;">![NKS-logo-black.png](Using%20UAD%20Plug-Ins%20Manual_assets/bc3d1f07dfec34c44528c3edae60214c01b881dc.png)</td>
+<td style="text-align: center; width: 130px; vertical-align: middle;">![NKS-logo-black.png](../../attachments/using-uad-plug-ins-manual_assets--bc3d1f07dfec34c44528c3edae60214c01b881dc--05595f3565003ae8.png)</td>
 <td style="text-align: left; vertical-align: top;"><p>All native UAD plug-ins and instruments are NKS-compatible, for deep integration with Native Instruments KOMPLETE KONTROL and MASCHINE series hardware and software. Presets and sound previews appear in NI’s powerful tag-based browsers, and all parameters are intelligently pre-mapped across the control knobs on supported NKS hardware.</p>
 <p>For more details, see <a href="41807112025364-FAQ-How-to-Use-UAD-Native-Plug-Ins-with-NKS-Compatible-Controllers.html">this article</a>.</p></td>
 </tr>
@@ -84,10 +84,10 @@ Native plug-ins are located in a folder called **Universal Audio (UADx)** or **U
 UAD plug-ins can be instantiated as mono, stereo, or multi-mono inserts.
 
 - An effect plug-in processes audio and is inserted in an effects slot on a track or bus in your DAW.\
-  ![uadx-la-2.png](Using%20UAD%20Plug-Ins%20Manual_assets/70eb165c152c713aa2ec4eb3aca9e4286e2dfb0c.png)\
+  ![uadx-la-2.png](../../attachments/using-uad-plug-ins-manual_assets--70eb165c152c713aa2ec4eb3aca9e4286e2dfb0c--59185e80ed2d520e.png)\
    
 - A virtual instrument (native-only) generates sound from MIDI input, and is inserted on an instrument or MIDI track in your DAW.\
-  ![uadx-waterfall.png](Using%20UAD%20Plug-Ins%20Manual_assets/2ae9a12e9ccc1d10ef52d95ed6c056cce1fc636c.png)\
+  ![uadx-waterfall.png](../../attachments/using-uad-plug-ins-manual_assets--2ae9a12e9ccc1d10ef52d95ed6c056cce1fc636c--e124281474fe6585.png)\
    
 - A Unison plug-in is a special type of UAD-2 plug-in that is instantiated in the Unison insert slot in UAD Console or LUNA only.
 - In addition, UAD Console and LUNA support Record FX inserts, which record the output of the UAD effect to a track when recording. Only DSP (UAD-2) plug-ins can be inserted in Record FX slots. 
@@ -102,7 +102,7 @@ The UAD Toolbar is located at the top of every UAD plug-in window. This toolbar 
 
  
 
-![uadx-plug-in-header-bar.png](Using%20UAD%20Plug-Ins%20Manual_assets/2006ed8e49fc8e6e1c29e153339b558333fc3860.png)
+![uadx-plug-in-header-bar.png](../../attachments/using-uad-plug-ins-manual_assets--2006ed8e49fc8e6e1c29e153339b558333fc3860--9ceb1514e6216e2d.png)
 
 *Native (UADx) plug-in toolbar elements*
 
@@ -110,7 +110,7 @@ The UAD Toolbar is located at the top of every UAD plug-in window. This toolbar 
 
  
 
-![plug-in-toolbar-callouts.png](Using%20UAD%20Plug-Ins%20Manual_assets/9945f3151cebad3079cc009e3846b551c66bb228.png)
+![plug-in-toolbar-callouts.png](../../attachments/using-uad-plug-ins-manual_assets--9945f3151cebad3079cc009e3846b551c66bb228--bfbe3d94d0baea94.png)
 
 *DSP (UAD-2) plug-in toolbar elements*
 
@@ -157,7 +157,7 @@ Use Copy and Paste to copy settings from the plug-in and paste them to a differe
 
 ## Options menu
 
-![options-menu.png](Using%20UAD%20Plug-Ins%20Manual_assets/cd91b9e9ace0f6ddcb1171c35b96db938083a83c.png)
+![options-menu.png](../../attachments/using-uad-plug-ins-manual_assets--cd91b9e9ace0f6ddcb1171c35b96db938083a83c--527a28f774f48199.png)
 
 ## Resizing UAD plug-ins
 
@@ -205,7 +205,7 @@ To submit feedback about a UAD plug-in, click the ••• options menu in the 
 
 Click the **•••** in the toolbar above the plug-in’s controls, then select Help & Video, to access documentation and tips for the plug-in. You can then choose to open the online documentation page or a short video. The video gives quick tips on the operation of the plug-in, and the documentation page details the operation and controls of the plug-in.
 
-![uadx-plug-in-more-menu.png](Using%20UAD%20Plug-Ins%20Manual_assets/870a5c565f02282ed750c0860e41ea563d5bbaa4.png)
+![uadx-plug-in-more-menu.png](../../attachments/using-uad-plug-ins-manual_assets--870a5c565f02282ed750c0860e41ea563d5bbaa4--49817aeb305504e0.png)
 
 ## UAD plug-in shortcuts
 
@@ -253,7 +253,7 @@ Click the preset name (for example, Default) in the UAD Toolbar to open the pres
 
 To close the preset browser, press the Esc key.
 
-![presets-list-callouts.png](Using%20UAD%20Plug-Ins%20Manual_assets/ed131ecb5d486301b6145467a6350def076a8469.png)
+![presets-list-callouts.png](../../attachments/using-uad-plug-ins-manual_assets--ed131ecb5d486301b6145467a6350def076a8469--42581b6948506899.png)
 
 ## Using a preset
 
@@ -267,7 +267,7 @@ Press the up and down arrow keys to navigate through, and load, presets.
 
 To search for a preset by name or tag, type in the search bar. The list of presets is filtered as you type. Press Enter to use the first preset in the list, or navigate up/down with the arrow keys, then press Enter.
 
-![type-to-filter.png](Using%20UAD%20Plug-Ins%20Manual_assets/83abfa14fde68b13b84f02c1782dc61e2bde5d80.png)
+![type-to-filter.png](../../attachments/using-uad-plug-ins-manual_assets--83abfa14fde68b13b84f02c1782dc61e2bde5d80--debce36755f668df.png)
 
 ## Using Tags to find a preset by characteristics
 
@@ -283,7 +283,7 @@ The Tags feature allows you to find presets based on descriptive terms, genres, 
 
 **Note:** You cannot add new tags, or add existing tags to plug-in presets.
 
-![presets-filter-by-tags.png](Using%20UAD%20Plug-Ins%20Manual_assets/93aede5616a5e46971847cd20fc7bd2b14039740.png)
+![presets-filter-by-tags.png](../../attachments/using-uad-plug-ins-manual_assets--93aede5616a5e46971847cd20fc7bd2b14039740--3203ea1a538662ad.png)
 
 ### Tag categories
 
@@ -291,7 +291,7 @@ UAD plug-ins include preset tag categories. Categories run across the top of the
 
 As an example, Opal Morphing Synthesizer includes the tag categories Genre, Type, and Description, as well as a category for all tags.
 
-![tag-categories.png](Using%20UAD%20Plug-Ins%20Manual_assets/d19e3f589dfce05d81567c5b2e76a09674f442a0.png)
+![tag-categories.png](../../attachments/using-uad-plug-ins-manual_assets--d19e3f589dfce05d81567c5b2e76a09674f442a0--7483d280a5f477fb.png)
 
 Click a category to see tags for that category. Click All to see all tags.
 
@@ -303,13 +303,13 @@ You can sort tag categories by category name, or by the number of presets in the
 2.  Under Sort Tags By, choose Name or Number of Presets.
 3.  To show the number of presets in each tag category, under Show, select Number of Presets. Deselect Number of presets to stop showing the number of presets in each category.
 
-![sort-show-tags.png](Using%20UAD%20Plug-Ins%20Manual_assets/5b59b3c6a6d746f6f8f8e15ea7c7299a7b721dff.png)
+![sort-show-tags.png](../../attachments/using-uad-plug-ins-manual_assets--5b59b3c6a6d746f6f8f8e15ea7c7299a7b721dff--10165be004487c80.png)
 
 ## Setting a default preset
 
 You can set a default preset that will load automatically when you instantiate a UAD plug-in.
 
-![set-default-preset.png](Using%20UAD%20Plug-Ins%20Manual_assets/ae2c65997055dfea5625a84eaf91e765388dbad7.png)
+![set-default-preset.png](../../attachments/using-uad-plug-ins-manual_assets--ae2c65997055dfea5625a84eaf91e765388dbad7--05bba737a0c9eb8a.png)
 
 - To set a default preset, right-click the preset name and choose Set as Default Preset. The current default preset includes \[DEFAULT\] after the preset name.
 - To clear the default preset, right-click the preset name and choose Clear Default Preset.
@@ -320,13 +320,13 @@ You can set a default preset that will load automatically when you instantiate a
 
 You can favorite presets, and filter the list of presets by your favorites.
 
-![preset-favorites.png](Using%20UAD%20Plug-Ins%20Manual_assets/6c5f055ad0d672bae1ffffb26d5030bc9dbeffef.png)
+![preset-favorites.png](../../attachments/using-uad-plug-ins-manual_assets--6c5f055ad0d672bae1ffffb26d5030bc9dbeffef--408133a455849dc6.png)
 
 - To favorite a preset, hover over the preset name, and click the star to the right of the preset name, or right-click the preset name and choose Favorite.
 - To unfavorite a preset, hover over the preset name, and click the favorite star again, or right-click the preset name and choose Unfavorite.
 - To show only favorites in your preset list, click Favorites in the Tags bar.
 
-![favorites-list.png](Using%20UAD%20Plug-Ins%20Manual_assets/a126433a69e9f0beebe42caf42aa844829372f49.png)
+![favorites-list.png](../../attachments/using-uad-plug-ins-manual_assets--a126433a69e9f0beebe42caf42aa844829372f49--f62be0f69c7f3202.png)
 
 ## Working with user presets
 
@@ -345,7 +345,7 @@ You can also delete and rename presets that you have created. If you save change
 1.  Select a preset.
 2.  Make changes to the plug-in as required. The preset name changes to italic text to indicate that it has been edited. **Note:** Reopen the preset browser if it closes after adjusting settings in the plug-in window.
 3.  Click Save. The Save dialog opens.\
-    ![preset-save-dialog.png](Using%20UAD%20Plug-Ins%20Manual_assets/69bd9a2731eee01ca9481020897933c196a5325e.png)\
+    ![preset-save-dialog.png](../../attachments/using-uad-plug-ins-manual_assets--69bd9a2731eee01ca9481020897933c196a5325e--9a3a6429e0effe87.png)\
      
 4.  Click Save to save the changes to the existing preset, or type a name for the preset to save with a new name, then click Save.
 
@@ -354,7 +354,7 @@ If you save a preset that is based on a factory preset, the preset is saved in t
 #### To rename a preset:
 
 1.  Select a preset from the User Presets list, and click Rename, or right-click on the user preset and choose Rename. The rename dialog opens.\
-    ![preset-rename.png](Using%20UAD%20Plug-Ins%20Manual_assets/e1596dce904070098f2affbe8a294130024a05ac.png)\
+    ![preset-rename.png](../../attachments/using-uad-plug-ins-manual_assets--e1596dce904070098f2affbe8a294130024a05ac--78b0bfe2956cf95b.png)\
      
 2.  Type a new name for the preset and click Rename.
 
@@ -364,7 +364,7 @@ The preset is renamed. Factory presets cannot be renamed.
 
 1.  Select a preset from the User Presets list, and click Delete, or right-click on the user preset and choose Delete.
 2.  The Delete dialog appears. Click Delete again.\
-    ![preset-delete.png](Using%20UAD%20Plug-Ins%20Manual_assets/0ddd3b40cd1c9b82040fa1c6aa602b88f2f6f1be.png)
+    ![preset-delete.png](../../attachments/using-uad-plug-ins-manual_assets--0ddd3b40cd1c9b82040fa1c6aa602b88f2f6f1be--7aee2f8418a2a841.png)
 
 The preset is deleted from the User Presets list. Factory presets cannot be deleted.
 
@@ -393,7 +393,7 @@ You can organize user presets into folders.
 
 **Note:** You must have created one or more user presets to create a preset folder.
 
-![presets-new-folder.png](Using%20UAD%20Plug-Ins%20Manual_assets/0d56ed87c04fe064312ff62c5b3a6102a50ac634.png)
+![presets-new-folder.png](../../attachments/using-uad-plug-ins-manual_assets--0d56ed87c04fe064312ff62c5b3a6102a50ac634--c99387e43876e17b.png)
 
 #### To create a user preset folder:
 

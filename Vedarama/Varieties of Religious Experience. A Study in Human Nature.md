@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/wljm-voreasihn"
 ---
 
-![обложка|156](<Varieties of Religious Experience. A Study in Human Nature/обложка.jpeg>)
+![обложка|156](<../attachments/varieties-of-religious-experience.-a-study-in-human-nature--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--2c79663f50d3c788.jpeg>)
 
 William James' treatise on religious experiences attempts to cogently explain aspects of psychology related to mystical experiences.
 

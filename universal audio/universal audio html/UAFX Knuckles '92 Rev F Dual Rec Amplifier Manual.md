@@ -11,7 +11,7 @@ word_count: 6775
 
 This article contains complete operating instructions for the UAFX Knuckles '92 Rev F High Gain Amp effects pedal from Universal Audio.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/59e9f93474fa27f49e11f6e0435b55ac07bc6528.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--59e9f93474fa27f49e11f6e0435b55ac07bc6528--66227c2992fb853e.png)
 
 ## In this article
 
@@ -42,7 +42,7 @@ Thank you for your support, and enjoy your sonic exploration!
 
 Sincerely,
 
-![bill-putnam-jr-signature.png](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--ba2a5a70afcb53e7.png)
 
 Bill Putnam Jr.
 
@@ -56,7 +56,7 @@ UAFX pedals include a quick start sheet in the box. To download the sheet, [go h
 
  
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/a2cb8030c5524ec8b8da0e7ce4506a925b0bdb4d.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--a2cb8030c5524ec8b8da0e7ce4506a925b0bdb4d--9e60c0078a12aa68.png)
 
 ## Knuckles '92 Firmware
 
@@ -73,7 +73,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/71a90f387ababfc5588e23519cf25abe839971d2.png)
+![rear-callouts-amp.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--1ea0e566e3d82b28.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -131,13 +131,13 @@ You can store a preset you've made with your own settings by holding down the ST
 
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the live effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
-![golden-switches-on-led.png](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/039ea6f067a659c26bac8c58abbbf5de3c79066c.png)
+![golden-switches-on-led.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--c0fde1942227a407.png)
 
 ### Preset Mode
 
 To enter Preset mode, press the right footswitch. Press the right footswitch again to toggle the preset on/off. The right footswitch LED is lit green when the preset is on.
 
-![golden-switches-preset-led.png](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/381e83806fbca2e28a4cc8d1d3a4d7b015b0194c.png)
+![golden-switches-preset-led.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--99b4023d11591dce.png)
 
 **Note:** The left and right footswitch functions can be changed in UAFX Control.
 
@@ -347,7 +347,7 @@ Each speaker, cabinet, and mic setting has a unique sound. Toggle up or down to 
 
 When you register your pedal using the UA Connect or UAFX Control apps, your free bonus speaker cabinets are added to the pedal. To select these speaker cabinets, push the Cab switch until the top, middle, or bottom Cab LED is lit green.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/c912b7867b4e50a08fa3e5cdbc0ac4f54b5d343c.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--c912b7867b4e50a08fa3e5cdbc0ac4f54b5d343c--9c88a0cd4d89d4cb.png)
 
 **Note:** The speaker cabinet labels on the pedal apply only when that speaker switch's LED is red. The labels when the LED is green are only visible in UAFX Control.
 
@@ -457,14 +457,14 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![knuckles-fs-modes.png](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/0699af361b30fe3c62a8c9aae9e4bb7eac54ef0a.png)
+![knuckles-fs-modes.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--0699af361b30fe3c62a8c9aae9e4bb7eac54ef0a--56abae39ac40b476.png)
 </figure>
 
 ### Live \| Preset
 
 In Live \| Preset mode, you can access Live mode (knobs and switches) and the stored preset.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/35a95a37f02ffeaae29352fea94e594b26e834e2.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--35a95a37f02ffeaae29352fea94e594b26e834e2--daab4c2d55d65656.png)
 
 - **Left Footswitch** toggles the Live sound on/off
 - **Right Footswitch** toggles the stored preset on/off
@@ -475,7 +475,7 @@ In Live \| Preset mode, you can access Live mode (knobs and switches) and the st
 
 In Overdrive \| Live/Preset mode, you can switch Overdrive on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/ea40393555f6d80201ae1f95d5d4da57a531ca44.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--ea40393555f6d80201ae1f95d5d4da57a531ca44--702e0ef2f53fcf72.png)
 
 - **Left Footswitch** toggles Overdrive on/off
 - **Right Footswitch** toggles between Live mode (red LED) and the stored preset (green LED)
@@ -486,7 +486,7 @@ In Overdrive \| Live/Preset mode, you can switch Overdrive on and off, and toggl
 
 In Gate \| Live/Preset mode, you can switch the Gate on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/678a0931ebef253a6a55d8116f96f01717657ee5.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--678a0931ebef253a6a55d8116f96f01717657ee5--cef2f8bfe75a3b93.png)
 
 - **Left Footswitch** toggles Gate on/off
 - **Right Footswitch** toggles between Live mode (red LED) and the stored preset (green LED)
@@ -498,7 +498,7 @@ In Gate \| Live/Preset mode, you can switch the Gate on and off, and toggle betw
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![knuckles-fs-live-ab.png](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/712313b46d2a042478e53629423a9974e5808713.png)
+![knuckles-fs-live-ab.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--712313b46d2a042478e53629423a9974e5808713--88854939d8180850.png)
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -510,7 +510,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![knuckles-fs-ab.png](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/2ed113391639414cecdbd938abdef808b9465515.png)
+![knuckles-fs-ab.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--2ed113391639414cecdbd938abdef808b9465515--f24775f388848889.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -522,7 +522,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![knuckles-fs-abcd.png](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/799c73d99fb214bbf587576cd288c37bf8f949f3.png)
+![knuckles-fs-abcd.png](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--799c73d99fb214bbf587576cd288c37bf8f949f3--c36c245bbb8e32c7.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)
@@ -601,7 +601,7 @@ Rare vintage black preamp pedal with volume, bass, and treble controls gives a m
 
 Toggle the Knuckles '92 Noise Gate by tapping the gray button next to Noise Gate. Adjust the Noise Gate settings for your current instrument and sound to eliminate any extraneous noise.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/eba11df2a8f7cbd45155549ce0b9c69df410e277.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--eba11df2a8f7cbd45155549ce0b9c69df410e277--1558f53a9191af63.png)
 
 Knuckles' noise gate silences extraneous noise generated by these high gain tube amps by detecting your guitar signal at the input, but acting at the end of the signal chain. This clever design is extremely effective at both detecting and stopping extraneous noise.
 
@@ -646,7 +646,7 @@ To set the signal flow for the pedal, tap the current signal flow (colored bar),
 
  
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/09b7dad2b32304b40c7b89f209f27a1b715892ac.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--09b7dad2b32304b40c7b89f209f27a1b715892ac--2bb892b813fdd4ec.png)
 
 <div>
 
@@ -681,11 +681,11 @@ To set the channel style for the pedal, tap the channel style. Channel style is 
 
  
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/73ed045bffa8e802e3594a5e3c5009fa5810f7bd.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--73ed045bffa8e802e3594a5e3c5009fa5810f7bd--4b481c3df59b27d6.png)
 
  
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/a241f57c1436b0e3c4e429efad1a6f44c6dc7232.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--a241f57c1436b0e3c4e429efad1a6f44c6dc7232--4773032cff0a76ad.png)
 
 <div>
 
@@ -730,7 +730,7 @@ To set the channel style for the pedal, tap the channel style. Channel style is 
 
 To set the power tubes for the channel, tap the power tube type. 
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/1a758c83c4bfab950b2a9d3ba71a518d938c15d7.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--1a758c83c4bfab950b2a9d3ba71a518d938c15d7--edf32f39eee2e744.png)
 
 - **6L6 –** 6L6 tubes are the classic factory configuration. Brighter, deeper, with scooped midrange.
 - **EL34 –** EL34s give a more British sound with warmer midrange and less bottom and top end.
@@ -739,7 +739,7 @@ To set the power tubes for the channel, tap the power tube type. 
 
 To set the rectifier for the channel, tap the rectifier type.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/b9ca190e8acf83b60590cba848fc790598d6151f.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--b9ca190e8acf83b60590cba848fc790598d6151f--df61d5aab34c239c.png)
 
 - **Solid State –** The solid state rectifier responds faster to transients, and will result in a tighter, more articulate feel. Good for fast, articulate tones.
 - **Tube –** The tube rectifier sounds looser and responds more slowly. Good for cleans, rock rhythm, and open lead tones.
@@ -748,7 +748,7 @@ To set the rectifier for the channel, tap the rectifier type.
 
 To set the power mode for the channel, tap the power mode.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/e845c94a28d5d8e709281918b5f9d2610c98da37.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--e845c94a28d5d8e709281918b5f9d2610c98da37--4cb43963eae82703.png)
 
 - **Bold –** Bold runs the power tubes at increased voltage, for a more aggressive, punchy sound. 
 - **Spongy –** Spongy reduces the power tube voltage for a softer, more heavy rock sound.
@@ -757,19 +757,19 @@ To set the power mode for the channel, tap the power mode.
 
 Master adds another level of output gain with some harmonic content, based on the Master Volume control from the original amp. Use this to add more output volume for your setup, or for creative effect. 
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/c8f7edd31defeac5edc8b7169d9016d81dd9a0a2.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--c8f7edd31defeac5edc8b7169d9016d81dd9a0a2--f9fbbfba5d19f0ee.png)
 
 ## <span style="color: #434343;">Revert to Default (Live sound only)</span>
 
 Tap to revert to the default Edit screen settings for the Live Sound (knob and switch settings are unchanged). Reverting to default also reverts all per-channel and global settings for all channels on the pedal to their default settings. 
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/807b136fab26ef154f52f40ef938c312bf90d968.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--807b136fab26ef154f52f40ef938c312bf90d968--a6269b307c4e9e7e.png)
 
 ## <span style="color: #434343;">Restore Preset (Preset sound only)</span>
 
 Tap to revert any changes you have made to the current preset. 
 
-<span style="color: #434343;">![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/5f927e20be417be48ce50985facd1948e8b1a332.png)</span>
+<span style="color: #434343;">![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--5f927e20be417be48ce50985facd1948e8b1a332--6a51bb3228cc96a2.png)</span>
 
 ------------------------------------------------------------------------
 
@@ -1103,11 +1103,11 @@ Sending the program change first allows the pedal to load the initial algorithm,
 
 # Knuckles '92 Safety
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--6a41b4fe34d957cd.png)
 
 Caution: To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--6c44411b5a0fda16.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -1169,7 +1169,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 The company's products have obtained the NCC low-power radio frequency equipment verification certificate according to the new warnings of "Low-power radio frequency equipment technical specifications" as follows: "The low-power radio frequency equipment that has obtained the verification certificate shall not be changed by the company, firm or user without approval. Frequency, increase power, or change the features and functions of the original design. The use of low-power radio frequency equipment shall not affect flight safety and interfere with legal communications; continue to use.
 
-![](UAFX%20Knuckles%20%2792%20Rev%20F%20Dual%20Rec%20Amplifier%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![](../../attachments/uafx-knuckles-92-rev-f-dual-rec-amplifier-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--4b2aef043830fc1d.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

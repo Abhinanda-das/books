@@ -6,13 +6,13 @@ tool_version: 1.10.2
 word_count: 199
 ---
 
-![](UA+SP-1+User+Guide_assets/_page_0_Picture_0.jpeg)
+![](../../attachments/ua-sp-1-user-guide_assets--page_0_picture_0--7a1d9986f45609f1.jpeg)
 
-![](UA+SP-1+User+Guide_assets/_page_0_Picture_1.jpeg)
+![](../../attachments/ua-sp-1-user-guide_assets--page_0_picture_1--5fecd62fef12ccf7.jpeg)
 
 Universal Audio, Inc. 4585 Scotts Valley Drive, Scotts Valley, CA 95066 www.uaudio.com
 
-![](UA+SP-1+User+Guide_assets/_page_0_Picture_5.jpeg)
+![](../../attachments/ua-sp-1-user-guide_assets--page_0_picture_5--9de88651b16fea55.jpeg)
 
 # **Congratulations**
 
@@ -24,7 +24,7 @@ Particularly well suited for stereo capture of musical instruments and live perf
 
 The SP-1 comes with convenient Apollo Channel Strip Presets. These downloadable settings for UA's Apollo audio interfaces give you professional results on a wide range of sources, instantly.
 
-![](UA+SP-1+User+Guide_assets/_page_1_Picture_5.jpeg)
+![](../../attachments/ua-sp-1-user-guide_assets--page_1_picture_5--a2e8bdc4f9af53d3.jpeg)
 
 # **Get Apollo Interface Presets**
 

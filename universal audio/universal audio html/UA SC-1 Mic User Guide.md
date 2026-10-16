@@ -17,7 +17,7 @@ This printed guide is included in your UA SC-1 retail package. 
 
  
 
-![UA SC-1 User Guide 2.png](UA%20SC-1%20Mic%20User%20Guide_assets/ccff4ddfca589990d997424b9212ddc41a2475ed.png)![UA SC-1 User Guide 1.png](UA%20SC-1%20Mic%20User%20Guide_assets/16dca5beb951e17f5280ef4a4275b8d752d8a939.png)
+![UA SC-1 User Guide 2.png](../../attachments/ua-sc-1-mic-user-guide_assets--ccff4ddfca589990d997424b9212ddc41a2475ed--6167f3e877558de5.png)![UA SC-1 User Guide 1.png](../../attachments/ua-sc-1-mic-user-guide_assets--16dca5beb951e17f5280ef4a4275b8d752d8a939--29bfba2086c756bd.png)
 
  
 

@@ -36,13 +36,13 @@ Just like magnetic tape, you can dial in a clean sound, or just the right amount
 
  
 
-![studer-closed-open.png](LUNA%20Studer%20A800%20Tape%20Extension%20Manual_assets/daffb6e3f864b35844348cdc0b4ad8c5df6d0778.png)
+![studer-closed-open.png](../../attachments/luna-studer-a800-tape-extension-manual_assets--daffb6e3f864b35844348cdc0b4ad8c5df6d0778--960edc43db8fcf79.png)
 
 *Studer A800 Tape machine with controls view closed (left) and controls view open (right)*
 
  
 
-![studer-track.png](LUNA%20Studer%20A800%20Tape%20Extension%20Manual_assets/a7f25e201a3953a5d9c36171dd85b6b2a88fa489.png)
+![studer-track.png](../../attachments/luna-studer-a800-tape-extension-manual_assets--a7f25e201a3953a5d9c36171dd85b6b2a88fa489--dfa0f482ae710904.png)
 
 #### *Studer A800 Tape as it appears on an input track*
 
@@ -71,7 +71,7 @@ The Studer A800 LUNA Extension allows you to load presets and adjust manual cont
 #### To configure a Tape Machine in a tape deck slot:
 
 1.  On an audio or instrument track in Mixer view, or on a Focus track in Timeline view, click the Tape slot. The Tape browser opens.\
-    ![tape-machine-browser.png](LUNA%20Studer%20A800%20Tape%20Extension%20Manual_assets/12dca6c5f286f97baa1c4ae592c9c9ba1052c1ec.png)
+    ![tape-machine-browser.png](../../attachments/luna-studer-a800-tape-extension-manual_assets--12dca6c5f286f97baa1c4ae592c9c9ba1052c1ec--fb2faa153fc1cefe.png)
 
 2.  Double-click a tape slot (A-D) in which you want to configure the tape machine.
 

@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/fcc"
 ---
 
-![обложка|156](<Fifth Canto Commentaries/обложка.jpeg>)
+![обложка|156](<../attachments/fifth-canto-commentaries--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a9c29f1030044755.jpeg>)
 
 This Sanskrit classic was extensively referenced by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada in writing his purports for the Fifth Canto of the Srimad-Bhagavatam. Now the entire compendium of commentaries \[which includes those of Srila Sridhara Svami, Sri Viraraghavacarya, Srimad Vijayadhvaja Tirtha, Srila Jiva Gosvami and Srimad Visvanatha Cakravarti Thakura\] is available for first time in English. The translation was done by erudite Vasnava scholars and edited by His Holiness Danavir Goswami. (850 pages, 8 color pages of illustrations, hardbound stitched binding, Sanksrit devanagari, English translations and glossaries.)
 

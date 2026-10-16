@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sggg"
 ---
 
-![обложка|156](<Śrī Gauḍīya Gīti-Gucchaa/обложка.png>)
+![обложка|156](<../attachments/%C5%9Br%C4%AB-gau%E1%B8%8D%C4%ABya-g%C4%ABti-gucchaa--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8d1dcf5f07ebddd3.png>)
 
 # Śrī Gauḍīya Gīti-Gucchaa
 

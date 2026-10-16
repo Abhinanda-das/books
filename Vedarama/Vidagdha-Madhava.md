@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vm-rg"
 ---
 
-![обложка|156](<Vidagdha-Madhava/обложка.jpeg>)
+![обложка|156](<../attachments/vidagdha-madhava--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a681b21258f88ae5.jpeg>)
 
 Vidagdha-mādhava, a seven-act play was completed by Śrīla Rūpa Gosvāmī in the 1533 A.D. This work concerning Kṛṣṇa, friend of the gopīs, is permeated with ornaments in the form of conversations. The land within Vṛndāvana has become the arena for the performance of the drama. The spring season in which the moon has become newly red in response has become the suitable time.
 

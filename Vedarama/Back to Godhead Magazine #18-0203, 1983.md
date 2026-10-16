@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg18-02-03"
 ---
 
-![обложка|156](<Back to Godhead Magazine #18-0203, 1983/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-18-0203-1983--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8e4931f2e86b0b7f.jpeg>)
 
 # Back to Godhead Magazine #18-02/03, 1983
 

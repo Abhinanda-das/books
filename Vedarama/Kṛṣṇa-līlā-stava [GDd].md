@@ -15,7 +15,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sanatana-kls2"
 ---
 
-![обложка|156](<Kṛṣṇa-līlā-stava [GDd]/обложка.jpeg>)
+![обложка|156](<../attachments/k%E1%B9%9B%E1%B9%A3%E1%B9%87a-l%C4%ABl%C4%81-stava-gdd--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--0f884631aeded663.jpeg>)
 
 Among the priceless books contributed by Śrīla Sanātana Gosvāmī to the literary heritage of the Gauḍīya Vaiṣṇavas, his Śrī Kṛṣṇa-līlā-stava is the shortest and simplest. An offering of praise in 432 verses, it gives a personal meditation on Kṛṣṇa's Vṛndāvana pastimes as told by Śukadeva in Śrīmad-Bhāgavatam.
 

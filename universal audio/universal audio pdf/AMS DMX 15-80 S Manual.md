@@ -7,7 +7,7 @@ word_count: 5157
 ---
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0001-00.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0001-00--803e7212ab427e15.png>)
 
 
 ## **DMX 15-80 S : Digital Delay / Pitch Shifter** 
@@ -15,7 +15,7 @@ word_count: 5157
 **User Manual** Issue 1 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0001-03.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0001-03--0f2be8adbfdccf42.png>)
 
 
 **© 1980 - 2021 AMS Neve Ltd** own the copyright of all information and drawings contained in this manual which are not to be copied or reproduced by any means or disclosed in part or whole to any third party without written permission. 
@@ -103,7 +103,7 @@ DMX 15-80 S : Digital Delay / Pitch Shifter
 The DMX is best understood when thought of in feature sections. While perhaps not presented in a strict linear fashion in the user interface, the sections may be interpreted in a loose left to right perspective, color-coded below for emphasis. Red: Signal routing and level adjustment controls, Yellow: Delay features and controls, Blue: VCO/modulation features and controls, Green: pitch shift and chorus controls. The remaining controls are shared among the feature sections. Observe that some controls provide individual channel adjustments (indicated by ‘a’ and ‘b’ labels) while all other controls are applied to both channels. 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0004-02.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0004-02--0e82be6602b22e6a.png>)
 
 
 ```
@@ -119,7 +119,7 @@ the front panel controls.
 This block-style signal flow diagram can help in understanding the feature section interactions and how the overall system processes incoming audio. This diagram represents both internal processing blocks and signal level user controls. 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0004-06.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0004-06--c8555f7fd4e5e2de.png>)
 
 
 DMX 15-80 S : Digital Delay / Pitch Shifter 
@@ -141,7 +141,7 @@ _Configuration switches provide discrete channel operation or summed operation (
 _The green stereo LED is lit when both switches are set for discrete operation._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0005-07.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0005-07--f2ef0dcb6e245e9d.png>)
 
 
 _In mono instances, the configuration switches are forced to_ ‘a+b’ _. If only one channel is needed, the unused channel input gain may be set to zero._ 
@@ -191,7 +191,7 @@ There are several ways to set delay times in the plug-in. For immediate response
 _The broad taper of these controls allows small values to be easily dialled in._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0006-07.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0006-07--d3ac31fa97d35fac.png>)
 
 
 _Clicking the 0 labels provides immediate zero delay values._ 
@@ -203,7 +203,7 @@ _Text entry may be accessed for either A or B channels by clicking in the 7-segm
 _If using the keypad entry, use the ‘*’ key for adding a decimal._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0006-12.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0006-12--5952264c3d365874.png>)
 
 
 _Single-click the nudge keys for small value increments, or press+hold nudge for quick scrolling._ 
@@ -226,7 +226,7 @@ control knob.
 _Regen ‘a’ and ‘b’ gain controls allow the output of each channel to be independently mixed back into the input._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0007-04.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0007-04--0c2e7dceca11309e.png>)
 
 
 _Clicking the 0 labels provides immediate zero regen values._ 
@@ -238,7 +238,7 @@ The Filter parameter controls the cutoff frequency of a full-range, 6dB per-octa
 _The full-bandwidth, low-pass filter control allows shaping of regen signals for both A and B channels._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0007-09.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0007-09--aca0c1ffd7d898a3.png>)
 
 
 _Clicking the 0 label provides immediate return to a zerofilter value._ 
@@ -250,7 +250,7 @@ Phase reverse for channel A is a feature found on the earliest DMX units and may
 _The Phase switch LED is a hidden off/on button._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0007-14.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0007-14--e355f1a34f11584d.png>)
 
 
 DMX 15-80 S : Digital Delay / Pitch Shifter 
@@ -275,7 +275,7 @@ This three-position switch selects among original single ‘VCO’ and an enhanc
 _Like the hardware, the VCO will only affect the sound if delay A or B is set to 2mS or more; The VCO/VCO2 LEDs will not illuminate if both channel delays are below 2mS._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0008-06.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0008-06--3d34158081504733.png>)
 
 
 _VCO and VCO2 LEDs are hidden selection buttons._ 
@@ -287,7 +287,7 @@ VCO Speed and Depth are the primary controls on the DMX. The oscillation is sinu
 _VCO speed must be 0.1 Hz or higher to show an LED speed change._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0008-11.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0008-11--f56c028df454472d.png>)
 
 
 _Clicking the 0 labels provides an immediate zero speed or depth value._ 
@@ -297,7 +297,7 @@ _Clicking the 0 labels provides an immediate zero speed or depth value._
 The momentary VCO Set switch is a plug-in only enhancement that instantly sets the VCO oscillation to a zero-crossing position with either a positive or negative excursion, handy when used in automation to ensure the normally free-running VCO provides precisely repeatable VCO behaviours. 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0008-15.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0008-15--11aa768d09146a98.png>)
 
 
 DMX 15-80 S : Digital Delay / Pitch Shifter 
@@ -329,7 +329,7 @@ There are several ways to enter pitch values. For immediate response, adjust the
 _The corresponding ‘a’ and ‘b’ LEDs light to indicate that pitch shifting is active._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0009-06.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0009-06--e7138869244cbf9e.png>)
 
 
 _Pitch shift controls can be reset by clicking on the corresponding LED or clicking on the 0 labels._ 
@@ -341,7 +341,7 @@ _Text entry may be accessed for either A or B channels by clicking in the 7-segm
 _If using keypad entry, use the ‘*’ key for adding a decimal._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0009-11.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0009-11--dee7c4a8ff7d75ab.png>)
 
 
 _Single-click the nudge keys for small value increments, or press+hold nudge for quick scrolling._ 
@@ -359,7 +359,7 @@ The exact functionality has been brought to the plug-in, creating a pseudo-rando
 _Turn the Chorus Off/On with the switch. The speed LED is a hidden off/on button._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0010-04.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0010-04--80969c1b2d68a71d.png>)
 
 
 _When the chorus is on, pitch controls are locked out, as the pitch is being used by the chorus feature._ 
@@ -408,7 +408,7 @@ DMX 15-80 S : Digital Delay / Pitch Shifter
 With the Tempo Sync feature enabled, delay times and VCO speeds share synchronization to the DAW tempo instead of absolute time. The delay times and/or VCO speeds are expressed as fractional beat/bar rhythmic subdivision values. Move the switch to sync to enable. To adjust the rhythmic division of the delay times under tempo sync, use the Nudge buttons, or click the 7-segment display to view and select available rhythmic subdivisions from a drop menu, as shown on the right. 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0011-02.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0011-02--7ef4d52e73d8b355.png>)
 
 
 _Sync and Free LEDs act as selection buttons. When Sync is activated, the nearest available subdivision is selected. Single-click the nudge keys for beat division decrement or increment._ 
@@ -418,7 +418,7 @@ _When Sync is active, Delay Time and VCO Speed are displayed as a fractional rhy
 _**Note:** For complete details about this feature, see the Tempo Synchronization chapter within the UAD System Manual._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0011-06.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0011-06--bfe252624704688d.png>)
 
 
 ## **Bit Depth** 
@@ -428,7 +428,7 @@ The 15 bit A/D and D/A conversion of the hardware unit is emulated in the plug-i
 By default, the bit depth is set to the hardware’s 15 bits. Clicking the ‘D’ key will cycle through the options; 15bit-14bit-13bit-12bit-OFF. This provides additional creative tonal options, which can affect delay regeneration, decay noise and other behaviours. The first click of the ‘D’ key will interrogate the current value on the 7-segment display, after one second this display will revert. 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0011-10.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0011-10--88736fc39a4db008.png>)
 
 
 DMX 15-80 S : Digital Delay / Pitch Shifter 
@@ -442,7 +442,7 @@ Delay time and pitch values may be entered using the keypad.
 _Delay values can be entered with the keypad in milliseconds or seconds within the range of 0 and 6.515. Use the ‘*’ button as a decimal point and ‘#’ to ‘execute’. Example: 1.65 Seconds would be entered as: ‘1*65#’._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0012-03.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0012-03--fc3793f5a01d342f.png>)
 
 
 _Pitch values can be entered with the keypad as a ratio of the original pitch within the range of 0.5 and 2.0. Use the ‘*’ button as a decimal point and ‘#’ as ‘execute’._ 
@@ -478,7 +478,7 @@ The display area is used to show the value of any control that is being edited w
 _The ‘a’ and ‘b’ LEDs indicate the currently selected channel for display, nudge key control and keypad/ text entry._ 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0013-03.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0013-03--e05cdb5b08c44b1c.png>)
 
 
 _The ‘c’ LED indicates that Pitch is selected for control and display, rather than Delay._ 
@@ -586,7 +586,7 @@ DMX 15-80 S : Digital Delay / Pitch Shifter
 **Original Hardware User Manual Pitch Table** 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0015-01.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0015-01--42ac109c0b30a751.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -600,7 +600,7 @@ DMX 15-80 S : Digital Delay / Pitch Shifter
 **Original Signal Diagram from Hardware User Manual** 
 
 
-![](<AMS DMX 15-80 S Manual_assets/AMS_DMX_15-80_S_Manual.pdf-0016-01.png>)
+![](<../../attachments/ams-dmx-15-80-s-manual_assets--ams_dmx_15-80_s_manual.pdf-0016-01--218942836e73de72.png>)
 
 
 DMX 15-80 S : Digital Delay / Pitch Shifter 

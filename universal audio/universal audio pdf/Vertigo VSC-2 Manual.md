@@ -6,13 +6,13 @@ tool_version: 1.10.2
 word_count: 1989
 ---
 
-![](<Vertigo VSC-2 Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_0_picture_0--e6cddbc8bc0ef6d7.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_0_picture_1--8371ceb657e21b6f.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_0_Picture_4.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_0_picture_4--39c4e771da57a7b9.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_0_Picture_5.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_0_picture_5--455f57e81dc4fe03.jpeg>)
 
 **This plug-in version of the original hardware VSC-2 compressor has been faithfully modeled by Brainworx, working closely with Vertigo Sound.** 
 
@@ -44,11 +44,11 @@ Although the VSC-2 was developed as a stereo bus compressor each channel provide
 
 The VSC-2 plug-in is a faithful emulation of this iconic stereo compressor offering the same flexibility and precision as the original.
 
-![](<Vertigo VSC-2 Manual_assets/_page_1_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_1_picture_0--726fec10f1f185bf.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_1_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_1_picture_1--7008b4fd5fbd648d.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_1_Picture_4.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_1_picture_4--195b73e84efab968.jpeg>)
 
 # **General Tip:**
 
@@ -88,13 +88,13 @@ The higher the ratio, the stronger the compression, and the more "squeezed" the 
 
 The compressor "tiptoes" into compression with very low ratios, then automatically increasing with higher input signal, providing an inaudible start of compression.
 
-![](<Vertigo VSC-2 Manual_assets/_page_1_Picture_25.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_1_picture_25--3b506533afe9403a.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_2_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_2_picture_0--0afc964fa21a647c.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_2_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_2_picture_1--69698d5aa63bd83b.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_2_Picture_4.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_2_picture_4--607e90358be1e487.jpeg>)
 
 # **Ratio (continued)**
 
@@ -126,17 +126,17 @@ Now use Attack and Theshold of plug-in #2 to create your own compression curves.
 
 # **Compression Curves:**
 
-![](<Vertigo VSC-2 Manual_assets/_page_2_Figure_21.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_2_figure_21--0682247aff21fd39.jpeg>)
 
 The VSC-2 compression curves offer an "equal loudness impression".
 
 Soft Mode gives you the unique "TipToe" curve for an inaudible start of compression with automated higher Ratio settings at louder input levels**.**
 
-![](<Vertigo VSC-2 Manual_assets/_page_2_Picture_24.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_2_picture_24--59fde0a166a4a787.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_3_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_3_picture_0--98d59da02ca30e99.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_3_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_3_picture_1--4b6bd858ed29143f.jpeg>)
 
 **Attack settings:** (0.1 ms 路 0.3 ms 路 1 ms 路 3 ms 路 10 ms 路 30 ms)
 
@@ -166,7 +166,7 @@ Start with a 3 ms setting, then adjust and listen.
 
 Even shorter Attack times may be musical in Soft Mode though - just experiment and you will find "your" sound!
 
-![](<Vertigo VSC-2 Manual_assets/_page_3_Picture_18.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_3_picture_18--729d3063f546818c.jpeg>)
 
 One of four discrete 1979 VCAs from within the VSC-2 hardware.
 
@@ -178,7 +178,7 @@ Short Release times let the compressor track every little change in level, produ
 
 Longer release times tend to produce less overall output level but retain more of the original dynamics of the signal.
 
-![](<Vertigo VSC-2 Manual_assets/_page_3_Picture_24.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_3_picture_24--f45e2a41e7e76ef3.jpeg>)
 
 One (of two) VSC-2 boards hosting 2 of the 1979 VCAs each.
 
@@ -190,13 +190,13 @@ This represents one channel of the VSC-2.
 
 In the 60s the use of lots of limiting with a long release time e.g. on drums was a popular recording technique.
 
-![](<Vertigo VSC-2 Manual_assets/_page_3_Picture_30.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_3_picture_30--e2512c01b2548044.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_4_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_4_picture_0--930a18f8a2dfbf45.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_4_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_4_picture_1--122378f5c270644f.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_4_Picture_4.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_4_picture_4--aad74c3dabe276c0.jpeg>)
 
 # **Make Up Gain**
 
@@ -230,11 +230,11 @@ Therefore the VSC-2 is able to even react to *out of phase* signals ("peaks") 鈥
 
 The VSC-2 detectors work very precisely. Stereo signals can be compressed unlinked. To do so simply adjust the parameters in Stereo Mode until you are happy with your sound. Then switch the plug-in mode switch to "Mono". This strategy can widen your stereo image. This procedure might be a cure and enhancement to your mix. If the stereo image gets too "shaky" just switch back to the conventional "Stereo" mode.
 
-![](<Vertigo VSC-2 Manual_assets/_page_4_Picture_21.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_4_picture_21--05f1f002cb94173a.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_5_Picture_0.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_5_picture_0--90e956d96d8cbca5.jpeg>)
 
-![](<Vertigo VSC-2 Manual_assets/_page_5_Picture_1.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_5_picture_1--6df520f37a49392a.jpeg>)
 
 ### **Gain Reduction Metering**
 
@@ -258,4 +258,4 @@ The VSC-2 hardware modeled contains Jensen transformers and THAT 1646 output sta
 
 Please check **www.vertigosound.com/** for more info.
 
-![](<Vertigo VSC-2 Manual_assets/_page_5_Picture_15.jpeg>)
+![](<../../attachments/vertigo-vsc-2-manual_assets--page_5_picture_15--94280ce9e4ce6988.jpeg>)

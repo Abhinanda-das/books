@@ -7,17 +7,17 @@ word_count: 2236
 ---
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0001-00.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0001-00--ef19fb04e3b4caf0.png>)
 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0001-01.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0001-01--dd467b2548c2de2f.png>)
 
 
 Rev. Oct 03, 2017 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0002-00.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0002-00--4d27051cf7dc3455.png>)
 
 
 ## **Softube User Manual** 
@@ -79,7 +79,7 @@ The UAD Dytronics Tri Stereo Chorus (DTSC) is based on the holy grail of choruse
 swept back and forth by an LFO (low frequency oscillator), and then mixed with the dry signal to create the chorus effect. Each delay channel has its own controls for delay response and feedback. DTSC features two main modes, Preset and Manual; each of which have its own LFO waveform output and can be run separately, or in parallel. 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0006-04.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0006-04--89edd4db0068ba8e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -93,11 +93,11 @@ SOFTUBE USER’S GUIDE | **7**
 The Preset mode has a slowly sweeping sine LFO with a swifter added sine “vibrato” part. The rate and amount of this waveform is static, thus the name Preset. The resulting sound is a chorus reminiscent of many “ensemble” style choruses heard in 70s string machines. 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0007-03.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0007-03--7f8dd7dfae17a0c0.png>)
 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0007-04.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0007-04--8de8d32d97d3a9ba.png>)
 
 
 ## **Manual Mode** 
@@ -135,7 +135,7 @@ Volume – This knob will set the overall output volume of the DTSC ranging from
 Output Meters Indicate the overall output level 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0008-14.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0008-14--f5cd1d01bdaf2552.png>)
 
 
 SOFTUBE USER’S GUIDE | **9** 
@@ -147,25 +147,25 @@ Using the Dytronics Tri Stereo Chorus is rather straightforward, and there aren�
 With that said, try using the DTSC Preset mode without Choral Enhance on **guitars in stereo** to capture that **classic 80s sound** . 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0009-04.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0009-04--ad96e70b09a14ef1.png>)
 
 
 By engaging Choral Enhance on one or multiple delay channels, the **chorus will get more pro-** . **nounced and “flangey”** 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0009-06.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0009-06--c269929e7423d950.png>)
 
 
 Try experimenting with the Waveform knob in Manual mode to decide whether the chorus movement will be focused in the middle or on the sides. Here’s an example where a “flangey” chorus has a **deeper sweep on the sides** : 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0009-08.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0009-08--bc1a9e33dea6f7cb.png>)
 
 
 You can also try using the DTSC Preset mode in combination with a quite fast manual LFO to create a **ensemble chorus effect similar to that of a 70s string machine** . 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0009-10.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0009-10--34a57d098cd1c895.png>)
 
 
 **10** | DYTRONICS TRI STEREO CHORUS 
@@ -173,7 +173,7 @@ You can also try using the DTSC Preset mode in combination with a quite fast man
 Selecting no LFO at all (both Manual and Preset modes deactivated) and engaging the Choral Enhance on one or multiple delay channel can also be used to create “frozen” phase EQ settings. Keeping both LFO modes turned off, use the Waveform knobs to sweep the delay offset of each delay line to **enhance certain frequencies** . 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0010-02.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0010-02--09a8e7392c3ed521.png>)
 
 
 ## **Final Words** 
@@ -201,11 +201,11 @@ In the bottom of the plug-in interface, you will see a thin black row with some 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0011-08.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0011-08--3ddf1ee869c08e8b.png>)
 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0011-09.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0011-09--7c4f624e82558a9d.png>)
 
 
 ## Enable 
@@ -223,7 +223,7 @@ Value Display
 Enable Setup 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0011-17.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0011-17--ba169a1fdc703034.png>)
 
 
 **12** | GENERAL SETTINGS 
@@ -267,7 +267,7 @@ All numbers and labels in the plug-in are clickable. This allows you to easily s
 Some plug-ins have linked parameters, such as the two mics in Metal Amp Room, or the Input and Output volume in Zener Limiter. In order to change both knobs at once, adjust one of the knobs while holding shift. 
 
 
-![](<Dytronics Tri-Stereo Chorus Manual_assets/Dytronics_Tri-Stereo_Chorus_Manual.pdf-0013-00.png>)
+![](<../../attachments/dytronics-tri-stereo-chorus-manual_assets--dytronics_tri-stereo_chorus_manual.pdf-0013-00--218b1a57edc35fe5.png>)
 
 
 **Softube AB, S:t Larsgatan 9D, 582 24 Linköping, Sweden. www.softube.com** 

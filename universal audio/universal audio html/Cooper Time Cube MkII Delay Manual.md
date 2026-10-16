@@ -22,7 +22,7 @@ The Cooper Time Cube MkII plug-in for UAD‑2 hardware and Apollo interfaces is 
 
 <div class="wysiwyg-text-align-center">
 
-![](Cooper%20Time%20Cube%20MkII%20Delay%20Manual_assets/2e701f1b009e4cf09a7946d7ef9068bb98f252da.png)
+![](../../attachments/cooper-time-cube-mkii-delay-manual_assets--2e701f1b009e4cf09a7946d7ef9068bb98f252da--aca212a153389b7c.png)
 
 </div>
 
@@ -152,7 +152,7 @@ This control determines the volume of the delayed signal. Rotate the control clo
 
 <div class="wysiwyg-text-align-center">
 
-![](Cooper%20Time%20Cube%20MkII%20Delay%20Manual_assets/c18566618717042b583e225484df6542b0ea8660.jpg)
+![](../../attachments/cooper-time-cube-mkii-delay-manual_assets--c18566618717042b583e225484df6542b0ea8660--83ca16d21330b627.jpg)
 
 </div>
 

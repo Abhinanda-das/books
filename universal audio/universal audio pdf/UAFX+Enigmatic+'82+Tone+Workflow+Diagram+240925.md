@@ -12,4 +12,4 @@ word_count: 18
 
 Tone Workflow Diagram
 
-![](UAFX+Enigmatic+'82+Tone+Workflow+Diagram+240925_assets/_page_0_Figure_3.jpeg)
+![](../../attachments/uafx-enigmatic-82-tone-workflow-diagram-240925_assets--page_0_figure_3--b44e098abb2b4fef.jpeg)

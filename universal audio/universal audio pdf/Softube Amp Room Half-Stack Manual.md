@@ -7,7 +7,7 @@ word_count: 3895
 ---
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0001-00.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0001-00--9893bcefca48cce9.png>)
 
 
 **User Manual Vintage Amp Room Amp Room Half-Stack** 
@@ -15,7 +15,7 @@ word_count: 3895
 Rev. Jan 06, 2014 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0002-00.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0002-00--09a898ddc343becf.png>)
 
 
 ## **Softube User Manual** 
@@ -81,13 +81,13 @@ Softube plug-ins are “what you see is what you get” products. You should be 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0005-06.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0005-06--7ffcc8aa60cdebdf.png>)
 
 
 ## **Menu Row** 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0005-08.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0005-08--2a238cb589757218.png>)
 
 
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Dyna-mite plug-in as example, but the same goes for all plug-ins. 
@@ -103,7 +103,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0005-15.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0005-15--16bb8d40ee122b6d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -111,7 +111,7 @@ Enable Setup<br>**----- End of picture text -----**<br>
 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0005-16.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0005-16--c07e0bbf93086f7c.png>)
 
 
 **6** | USER INTERFACE 
@@ -181,7 +181,7 @@ Everything about this product is authentic. The raw and dynamic sound is an abso
 The idea is that using Amp Room should be like working directly with these amplifiers set up in a real studio, with a microphone in front of the cabinet, connected to your DAW. And we kept it simple. Amp Room has no knobs with dubious or unintuitive functionality, and no added gadgets or ridiculously fake sounding effects. 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0007-09.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0007-09--35412818dcac4623.png>)
 
 
 **8** | VINTAGE AMP ROOM 
@@ -197,7 +197,7 @@ In short, you need the same skills to master this software as you need when deal
 Amp Panel 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0008-06.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0008-06--bcab21f0850205b0.png>)
 
 
 ## Supernormalize 
@@ -207,7 +207,7 @@ The “supernormalize” feature (from the beginning the internal name of a slig
 Room View 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0008-10.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0008-10--a85b41cc31819f6b.png>)
 
 
 From a technical perspective, this means that the signal path within Amp Room always has the highest dynamic range possible, and you won’t lose any bits on the way. 
@@ -229,17 +229,17 @@ In the Room View you can do two things, select one of the other amps or change t
 ## Mic Position 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0009-06.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0009-06--f9121a2c27e3cf27.png>)
 
 
 When the mouse is located over the mic stand, the mouse pointer changes to an “up- down” arrow. Click and drag the mouse up or down to change the position of the mic stand. The microphone moves along a predetermined path, so you only need to move the mouse up or down, just as if you were changing a knob. 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0009-08.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0009-08--54b89a926dad1dcf.png>)
 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0009-09.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0009-09--e2f520633d385f91.png>)
 
 
 ## Amp Selection 
@@ -261,7 +261,7 @@ Set all parameters in the middle (12 o’clock). Turn down the **Master Volume**
 The sound will change quite dramatically when you start moving the mic away from the cabinet, since certain frequencies will cancel each other out due to interference between the four speaker drivers. 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0010-07.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0010-07--560a2be32fbe2b82.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -269,7 +269,7 @@ Master  Pre-Amp<br>Presence Bass Middle Treble Volume Volume<br>**----- End of p
 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0010-08.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0010-08--9b3cad0e78745bff.png>)
 
 
 ## Knobs 
@@ -301,7 +301,7 @@ Set all knobs in the middle (at 12 o’clock). Set the microphone in a far field
 **12** | VINTAGE AMP ROOM 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0012-01.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0012-01--489ae3dd895db506.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -343,7 +343,7 @@ Turn on the vibrato/tremolo effect ( **Vib-Trem Off-On** ) and select the tremol
 To complicate things further, this amp doesn’t have a normal tone stack (EQ) but a single tone control which attenuates high frequencies when turned clock wise (different to what one would expect of a tone control). The previous owner of the original 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0013-08.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0013-08--d58297694f6dbbfb.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -351,7 +351,7 @@ Vib/Trem  Vib/Trem  Vib/Trem  Vib/Trem Ch.  Normal Ch.  Brilliant Ch.<br>Off/On 
 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0013-09.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0013-09--8b4365a62303d267.png>)
 
 
 **14** | VINTAGE AMP ROOM 
@@ -383,7 +383,7 @@ SOFTUBE USER’S GUIDE | **15**
 You can choose to bypass the amp or the cabinet by selecting amp bypass or cab bypass from the small box in the lower right corner. 
 
 
-![](<Softube Amp Room Half-Stack Manual_assets/Softube_Amp_Room_Half-Stack_Manual.pdf-0015-03.png>)
+![](<../../attachments/softube-amp-room-half-stack-manual_assets--softube_amp_room_half-stack_manual.pdf-0015-03--bb93ba1e3b89b953.png>)
 
 
 This is very useful if you want to use Vintage Amp Room with an external speaker (or speaker plug in) or if you just want to add a cabinet simulation to a track, such as a recorded line out from your amplifier. 

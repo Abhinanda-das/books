@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1969"
 ---
 
-![обложка|156](<1969 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1969-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a9147ebbb865a2ae.jpeg>)
 
 # 1969 Correspondence
 

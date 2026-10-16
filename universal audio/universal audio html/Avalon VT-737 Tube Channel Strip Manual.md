@@ -57,7 +57,7 @@ Excelling on vocals, bass, acoustic guitar, and voice-over work, the VT-737 plug
 
 The Avalon VT-737 plug-in's four-band EQ, gives your vocals a lively presence and sophistication, placing them front-and-center in any mix. Like the hardware, the EQ can be placed before or after the compressor, and the mid bands can be engaged as sidechain filters for laser-focused compression. And with the 32k high frequency "air band," you can add delicate shimmer to everything from strings to background vocals to acoustic guitars.
 
-![Avalon_VT_737_Silver.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/c96288f2c562d9647ae2d4a597f509aa18baf12e.png) ![Avalon_VT_737_Black.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/b08f8521b8e7787d187fbb549346f66bfc1956b5.png)
+![Avalon_VT_737_Silver.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--c96288f2c562d9647ae2d4a597f509aa18baf12e--0ee8cb06c1a73194.png) ![Avalon_VT_737_Black.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--b08f8521b8e7787d187fbb549346f66bfc1956b5--9022a1574206c317.png)
 
 *Avalon VT-737sp showing the silver and black panel views*
 
@@ -75,7 +75,7 @@ The Avalon VT-737sp combines a transformer-coupled, dual vacuum tube preamplifie
 
 A simplified version of the signal flow within the plug-in is shown in the diagram below. By default, signal enters at the first tube gain stage which outputs to the high pass filter, then to the second tube gain stage, compressor, EQ, and output circuitry. The EQ module can be routed before the dynamics module as needed, by engaging the EQ\>COMP option. Engaging the SC\<MIDS option causes that the EQ mid bands to act solely on the dynamics sidechain signal, and removes the midrange EQ from the audio signal path.
 
-![avalon-vt-737sp-flow.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/809f229523c8c0addc1057528247d3df6ebcaba4.png)
+![avalon-vt-737sp-flow.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--809f229523c8c0addc1057528247d3df6ebcaba4--ddeaa104dfd66d86.png)
 
 *Simplified signal flow within Avalon VT-737sp*
 
@@ -101,7 +101,7 @@ The hardware preamp knob on the UA audio interface can independently adjust the 
 
 |  |  |  |
 |----|----|----|
-| ![avalon-gsm-1.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/ef7b01c7900a54ec32f2ae28d0b3307e1db8d505.png) | ![avalon-gsm-3.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/8369038216ad6b37d167d4cb3c64493703832cfb.png) | ![avalon-gsm-2.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/92cd595cf0be9a633e042b3c8d5df4c7388e3916.png) |
+| ![avalon-gsm-1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--ef7b01c7900a54ec32f2ae28d0b3307e1db8d505--1c69556c35c4ca2f.png) | ![avalon-gsm-3.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--8369038216ad6b37d167d4cb3c64493703832cfb--a1ec7159a8dacbba.png) | ![avalon-gsm-2.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--92cd595cf0be9a633e042b3c8d5df4c7388e3916--7762556eb5e755fa.png) |
 
 *The three outlined gain controls as they appear when in Unison Gain Stage Mode*
 
@@ -124,7 +124,7 @@ The UAD Avalon VT-737sp plug-in can be displayed in either Silver or Black panel
 
 |  |  |
 |----|----|
-| ![avalon-panel-logo-black.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/044c43d74cd3b528187e33311899697a94579af1.png) | ![avalon-panel-logo-silver.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/9e3f3e8182b0b448c31b6cdb43dcdda8036c008b.png) |
+| ![avalon-panel-logo-black.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--044c43d74cd3b528187e33311899697a94579af1--b12b08f8103ac04a.png) | ![avalon-panel-logo-silver.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--9e3f3e8182b0b448c31b6cdb43dcdda8036c008b--405dd692119cfc1f.png) |
 
 *Click the logo to display the alternate panel view*
 
@@ -173,7 +173,7 @@ The available preamp gain range depends on INPUT SELECT setting, as follows.
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 59.75px">![unison-icon1.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="width: 59.75px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
 <td style="width: 617.25px"><h4 id="h_01HDME8MHS1BVAPWKFFKTBZQNB">Apollo Unison Interactions</h4></td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ This control interacts with the Preamp Gain control. The gain range and amount o
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 56.8594px">![unison-icon1.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="width: 56.8594px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
 <td style="width: 620.141px"><h4 id="h_01HDMETJPXWP0XTDJ7WFJT6AM7">Apollo Unison Interactions</h4></td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ When Input Select is set to LINE, preamp gain is increased by +8 dB. When Input 
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 56.8828px">![unison-icon1.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="width: 56.8828px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
 <td style="width: 620.117px"><h4 id="h_01HDMEX9H25XWY668GEYHF5EG4">Apollo Unison Interaction</h4></td>
 </tr>
 <tr>
@@ -256,7 +256,7 @@ Pad is available with the plug-in only; the feature is not available on the orig
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 50.1094px">![unison-icon1.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="width: 50.1094px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
 <td style="width: 626.891px"><h4 id="h_01HDMF2K01FBJFMF6KXYJJH7GT">Apollo Unison Interactions</h4></td>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ This switch enables the 6 dB per octave high-pass input filter. The input filter
 </colgroup>
 <tbody>
 <tr>
-<td>![unison-icon1.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td>![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
 <td><h4 id="h_01HDMF2K01F37HWQXX9A0GW6QJ">Apollo Unison Interaction</h4></td>
 </tr>
 <tr>
@@ -310,7 +310,7 @@ When more than one microphone is used to record a single source, inverting the p
 </colgroup>
 <tbody>
 <tr>
-<td style="width: 52.0625px">![unison-icon1.png](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="width: 52.0625px">![unison-icon1.png](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--beb9d34bc99b5b27.png)</td>
 <td style="width: 624.938px"><h4 id="h_01HDMF2K01KEWF7FS0M5T6JV2Y">Apollo Unison Interaction</h4></td>
 </tr>
 <tr>
@@ -500,7 +500,7 @@ Use the I/O rocker switch to bypass plug-in processing and conserve UAD DSP. Byp
 
  
 
-![Avalon_Hero.jpg](Avalon%20VT-737%20Tube%20Channel%20Strip%20Manual_assets/d18c4c910b18e5f9cd7212109eaf85ff787c2a98.jpg)
+![Avalon_Hero.jpg](../../attachments/avalon-vt-737-tube-channel-strip-manual_assets--d18c4c910b18e5f9cd7212109eaf85ff787c2a98--4b02e4c3cfd9e935.jpg)
 
 *Avalon VT-737sp original hardware*
 

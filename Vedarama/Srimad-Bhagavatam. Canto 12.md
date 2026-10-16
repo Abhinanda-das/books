@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sb-12"
 ---
 
-![обложка|156](<Srimad-Bhagavatam. Canto 12/обложка.jpeg>)
+![обложка|156](<../attachments/srimad-bhagavatam.-canto-12--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--cccac357129986fb.jpeg>)
 
 # Srimad-Bhagavatam. Canto 12
 

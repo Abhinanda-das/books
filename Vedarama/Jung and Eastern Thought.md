@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jjk-jaet"
 ---
 
-![обложка|156](<Jung and Eastern Thought/обложка.jpeg>)
+![обложка|156](<../attachments/jung-and-eastern-thought--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--4fc3f4476b71c484.jpeg>)
 
 Jung and Eastern Thought is an assessment of the impact of the East on Jung's life and teaching. Along with the strong and continuing interest in the psychology of Carl Jung is a growing awareness of the extent to which Eastern thought, especially Indian ideas, influenced his thinking. This book identifies those influences that he found useful and those he rejected.
 

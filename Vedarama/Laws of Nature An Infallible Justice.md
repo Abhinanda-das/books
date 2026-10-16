@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/lon"
 ---
 
-![обложка|156](<Laws of Nature An Infallible Justice/обложка.jpeg>)
+![обложка|156](<../attachments/laws-of-nature-an-infallible-justice--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b89b6f806f923496.jpeg>)
 
 Why is one person rich and another poor? One an exploiter and another exploited? One a victim and another the victimizer? The Laws of Nature reveals who's pulling the strings and why. Based on two classics of Vedic wisdom – Sri Isopanisad and Srimad-Bhagavatam – The Laws of Nature explores the age-old mysteries surrounding karma and reincarnation, free will and destiny, enlightenment, and liberation. What's more, it shows us how to use yoga and meditation techniques to cut the bonds of karma and achieve complete freedom, happiness, and spiritual perfection.
 

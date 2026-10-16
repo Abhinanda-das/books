@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sb-c"
 ---
 
-![обложка|156](<Consciousness A Very Short Introduction/обложка.png>)
+![обложка|156](<../attachments/consciousness-a-very-short-introduction--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--faae8a8896e17d7c.png>)
 
 # Consciousness: A Very Short Introduction
 
@@ -26,7 +26,7 @@ This does not mean that the mystery has gone away. Indeed, it is as deep as ever
 
 If we are going to get anywhere with understanding consciousness, we have to take this problem seriously, either by solving it or by showing why it is not really a problem at all. Some people claim to have solved the mystery of consciousness with grand, unifying theories, quantum physics, or spiritual theories involving mysterious powers of consciousness—but most simply ignore the yawning chasm, or ‘fathomless abyss’, between the physical and mental worlds (Figure 1). As long as they ignore this problem they are not really dealing with consciousness at all.
 
-![рис-001.png|512](<Consciousness A Very Short Introduction/рис-001.png>)
+![рис-001.png|512](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-001--6eb0ccff156589cd.png>)
 
 **1. No one has yet succeeded in bridging the fathomless abyss, the great chasm, or the explanatory gap between inner and outer, mind and brain, or subjective and objective.**
 
@@ -46,7 +46,7 @@ Even among non-religious people, dualism is still prevalent. Popular New Age the
 
 In the 17th century the French philosopher René Descartes proposed the most famous dualist theory (Figure 2). Known as Cartesian dualism, this is the idea that mind and brain consist of different substances: the mind is non-physical and non-extended (i.e. it takes up no space); the body and the rest of the physical world are made of physical, or extended, substance. The trouble with this is obvious. How do the two interact? Descartes proposed that they meet in the tiny pineal gland in the centre of the brain, but this only staves off the problem a little. The pineal gland is a physical structure and Cartesian dualism provides no explanation of why it, alone, can communicate with the mental realm.
 
-![рис-002.png|401](<Consciousness A Very Short Introduction/рис-002.png>)
+![рис-002.png|401](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-002--59c24e12a29acbf6.png>)
 
 2\. Descartes explained reflex responses to pain in terms of mechanical responses and the flow of ‘animal spirits’ in tiny tubes. But when it came to conscious experiences he proposed that they were part of a quite different mental world, connected to the physical body through the pineal gland in the centre of the brain.
 
@@ -104,7 +104,7 @@ On the ‘yes’ side are those who believe it possible to have two apparently i
 
 On the ‘no’ side are those who believe the whole idea of zombies is absurd, including both Churchland and American philosopher Daniel Dennett. The idea is ridiculous, they claim, because any system that could walk, talk, think, play games, choose what to wear, or enjoy a good dinner would necessarily be conscious. When people imagine a zombie they cheat by not taking the definition seriously enough. So if you don’t want to cheat, remember that the zombie has to be completely indistinguishable from a normal person. It won’t help to ask the zombie questions about its experiences or philosophy, because by definition it must behave just as a conscious person would. If you really follow the rules, the critics say, the idea disappears into nonsense (Figure 3).
 
-![рис-003.png|314](<Consciousness A Very Short Introduction/рис-003.png>)
+![рис-003.png|314](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-003--cfd5c3fb767c6e67.png>)
 
 **3. The idea of the philosopher’s zombie leads only to confusion.**
 
@@ -128,7 +128,7 @@ I think this is the right way to think about consciousness, but it implies that 
 
 The most natural way to think about consciousness is probably something like this. The mind is like a private theatre inside my head, where I sit looking out through my eyes. But this is a multi-sensational theatre with touches, smells, sounds, and emotions. And I can use my imagination to conjure up sights and sounds as though seen on a mental screen or heard by my inner ear. All these thoughts and impressions are the ‘contents of my consciousness’ and ‘I’ am the audience of one who experiences them (Figure 4).
 
-![рис-004.png|513](<Consciousness A Very Short Introduction/рис-004.png>)
+![рис-004.png|513](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-004--99fd5d26cfb2ccd8.png>)
 
 4\. I feel as though I am somewhere inside my head looking out—that I experience the outside world through my eyes and ears; imagine things in my mind’s eye; and direct my arms and legs to walk me down the street and post the letter. But there is no place inside the brain where I could be. This is Dennett’s mythical Cartesian theatre.
 
@@ -198,7 +198,7 @@ This question illustrates the depth of our present ignorance about consciousness
 
 Look at the Necker cube in Figure 5. You cannot help seeing this in depth and the cube will flip between two different interpretations; you may even be able to flip it deliberately. It feels as though first one view comes into consciousness and then the other; as though the two views are competing for consciousness. In binocular rivalry the same flipping can be induced by showing different images to each eye. Again the two are not fused but awareness flips between the two. This provides an ideal opportunity to study the neural correlates of particular experiences, or ‘specific conscious percepts’ because the image on the retina stays the same while the experience flips. If we could find out which parts of the brain stay the same and which flip when the experience flips, this might mean that we had found the place where the perceptions ‘enter consciousness’, or located the centre of visual awareness—or even identified ‘consciousness neurons’.
 
-![рис-005.png|236](<Consciousness A Very Short Introduction/рис-005.png>)
+![рис-005.png|236](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-005--b45761b1adfd0aa2.png>)
 
 5\. This ambiguous figure is called a Necker cube. If you keep looking at it for some time you will find that it flips between two equally possible interpretations, as though the two views are competing for consciousness. But is this the right way of thinking about what is happening?
 
@@ -216,7 +216,7 @@ A stroke occurs when arteries are blocked or blood vessels in the brain burst an
 
 In unilateral, hemispatial, or hemifield neglect patients don’t just lose specific abilities; rather they seem to lose half their world. It is not just that they cannot see when they look towards the left side of a room, or the left side of a picture, but rather that they seem not to realize that there even is a left side. This becomes obvious through their odd behaviour. For example, they might eat only the food on the right side of their plate and completely ignore the rest until someone else turns the plate round. They might shave only the right side of their face, or respond only to visitors who stand on the right. Asked to draw familiar objects they draw only the right side and even in dreams most of their eye movements are to the right (Figure 6).
 
-![рис-006.png|508](<Consciousness A Very Short Introduction/рис-006.png>)
+![рис-006.png|508](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-006--846e8c3434ea967b.png>)
 
 6\. These drawings were made by patient PP who suffered a right hemisphere stroke in 1987. Note how much is missing from the left hand side of each one. She continued to show signs of visual neglect until her death seventeen years later.
 
@@ -248,7 +248,7 @@ At first sight this might look as though DF is able to see (because she can post
 
 The most natural way of thinking about vision is probably something like this: information comes into the eyes and is processed by the brain; this leads to our consciously seeing a picture of the world which we can then act upon. In other words, we must consciously see something before we can act on it. It turns out that the brain is not organized this way at all, and we could probably not survive if it were. In fact, there are (at least) two distinct visual streams with different functions (Figure 7).
 
-![рис-007.png|512](<Consciousness A Very Short Introduction/рис-007.png>)
+![рис-007.png|512](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-007--9f0b8d19900f2b1f.png>)
 
 7\. The ventral stream is mainly involved in perception while the dorsal stream coordinates fast visuo-motor control.
 
@@ -258,7 +258,7 @@ In the 1970s, Oxford neuropsychologist Lawrence Weiskrantz made an even more ext
 
 The odd discovery was this: Weiskrantz presented DB with a display of stripes at various different angles and asked him whether the stripes were vertical or horizontal (Figure 8). Naturally, DB said he had no idea because he could not see any stripes. But Weiskrantz made him guess. While still protesting that he couldn’t see, DB guessed—and he was right nearly 90 per cent of the time. In other words, he claimed to be blind, yet the data showed that he could see. Weiskrantz called this paradoxical condition ‘blindsight’.
 
-![рис-008.png|513](<Consciousness A Very Short Introduction/рис-008.png>)
+![рис-008.png|513](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-008--d53b4af762f54b5e.png>)
 
 8\. A patient with blindsight can guess accurately at stimuli he claims not to see.
 
@@ -312,7 +312,7 @@ In fact, this problem applies to all of speech. You need to accumulate lots of l
 
 An ingenious experiment, called the ‘cutaneous rabbit illusion’, demonstrates the problem at its most obvious (Figure 9). To get this effect, a person holds out her arm and looks the other way while the experimenter taps up her arm. In the original experiment a tapping machine was used, but the effect can be demonstrated using carefully practised taps with a sharp pencil. The critical point is to tap quickly at precisely equal intervals and with equal pressure, five times at the wrist, three times near the elbow, and twice near the shoulder.
 
-![рис-009.png|461](<Consciousness A Very Short Introduction/рис-009.png>)
+![рис-009.png|461](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-009--ea1348308a535e1c.png>)
 
 9\. The experimenter taps quickly five times at the wrist, three times at the elbow, and twice on the upper arm, but the sensation is like a little animal scurrying up the arm. How does the brain know where to place taps two to four if the tap on the elbow has not yet happened? Is the sensation delayed from entering consciousness? If not, what is happening?
 
@@ -330,7 +330,7 @@ What is attention? In 1890, William James famously proclaimed that ‘Everyone k
 
 The most natural way to think about attention is as a spotlight that we can shine on some things while leaving others in the dark (Figure 10). Sometimes this spotlight is grabbed by a loud noise or someone calling our name; but at other times we direct the spotlight ourselves, choosing now to think about the book we are reading and then to look out of the window for a minute or two. This power to direct attention is not only something we value, but it seems to be something that our consciousness does. It seems as though I consciously decide what to attend to, but do I really?
 
-![рис-010.png|545](<Consciousness A Very Short Introduction/рис-010.png>)
+![рис-010.png|545](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-010--49d20ca81b97133f.png>)
 
 10\. Are we like directors, pointing the light of our own attention now here, now there, as we consciously decide?
 
@@ -366,7 +366,7 @@ Neurobiologists Gerald Edelman and Giulio Tononi focused on the informational as
 
 Perhaps most popular have been varieties of ‘global workspace theory’ (GWT), first proposed by psychologist Bernard Baars in the 1980s (Figure 11). This starts from the idea that the brain is functionally organized around a global workspace (roughly equivalent to ‘working memory’) with a capacity limited to just a few items. GWT depends heavily on the theatre metaphor. The very few items that are in consciousness at any one time correspond to those in the bright spot at the centre of the stage, lit up by the spotlight of attention, and surrounded by a less conscious fringe. Beyond the stage is an unconscious audience sitting in the dark with numerous unconscious contextual systems that shape the events happening on the stage.
 
-![рис-011.png|513](<Consciousness A Very Short Introduction/рис-011.png>)
+![рис-011.png|513](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-011--58f776195da0325b.png>)
 
 11\. According to Baars, the contents of consciousness are the contents of a global workspace corresponding to the brightly lit stage in the theatre of the mind.
 
@@ -412,7 +412,7 @@ In other words, an illusion is not something that does not exist but something t
 
 Most familiar are visual illusions like that in Figure 12. This tunnel creates the impression of a big, fierce man chasing a small, terrified one, when in fact the two are identical. This simple illusion works because automatic mechanisms in the visual system treat the tunnel as receding in depth. This means that one man appears to be further away than the other and so must be larger. In this, and many other visual illusions, we can see how the trick works and remind ourselves not to be fooled again, yet the visual impression keeps coming back.
 
-![рис-012.png|392](<Consciousness A Very Short Introduction/рис-012.png>)
+![рис-012.png|392](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-012--6a4f931d46caaa8b.png>)
 
 12\. An illusion is something that is not what it seems. In this visual illusion the upper man looks larger than the lower one and may even look more threatening. Yet they are identical.
 
@@ -448,7 +448,7 @@ This common experience seems odd, but the reason it seems odd is probably someth
 
 First, there is the blind spot. The human eye is designed in a most curious way which, incidentally, reveals its evolutionary history. Somewhere in our ancestors’ far past, simple eyes developed with nerves from a few light-receptor cells going forwards before going back to the simple brain. Natural selection has to work on whatever is already there, so this primitive eye gradually developed into a variety of complex eyes with muscles, lenses, and thousands of receptors tightly packed together. The neurons would have got in the way of the light, but evolution cannot, as it were, decide it has taken a wrong path and start again. So the original scheme stayed and we have neurons running in front of our receptors before coming together into a big bundle called the optic nerve. This goes out through the retina, making a hole (about 15° out from the centre) in which there are no receptors. Do we notice this blind spot? Not at all. To demonstrate this to yourself, try the test in Figure 13.
 
-![рис-013.png|513](<Consciousness A Very Short Introduction/рис-013.png>)
+![рис-013.png|513](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-013--6fd22bc8133c9457.png>)
 
 13\. Hold the book out at arm’s length. Put a hand over your right eye and look at the small black dot with your left eye. Now move the page back and forth slowly. At some distance you will find that the Cheshire cat disappears. This is because it is now falling on your blind spot.
 
@@ -472,7 +472,7 @@ So we now know that filling-in is a real phenomenon and can be detected in the b
 
 Imagine you take part in an experiment and are asked to look at the top picture of Figure 14. Then, just as you move your eyes, the picture is changed to the one below. Would you notice? Most people are sure that they would. But they are wrong.
 
-![рис-014.png|460](<Consciousness A Very Short Introduction/рис-014.png>)
+![рис-014.png|460](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-014--40b3ad76a47f0bd2.png>)
 
 14\. If these two pictures were swapped just as you moved your eyes or blinked, you would not see the change. Experiments on change blindness suggest that seeing does not mean building up a detailed representation of the visual world inside your head.
 
@@ -562,7 +562,7 @@ What happened? Remarkably, very little happened; the patients recovered well and
 
 The experimental design depends on knowing how the sense organs are connected to the brain. Information from the right ear goes to the right hemisphere (and left to left), but in vision information from the left side of the visual field goes to the right hemisphere (and vice versa), as in Figure 15. This means that if you look straight ahead, everything seen to the left goes to the right hemisphere and everything on the right goes to the left hemisphere. Things are also crossed over for the body, with the left half of the body controlled by the right hemisphere (and vice versa). Normally the two hemispheres are connected, so that information quickly gets through to both halves, but in a split-brain patient they are not. Knowing this, the experimenters could communicate separately with each of the two hemispheres of the one person. Would the two halves behave like two separate people? Was each independently conscious?
 
-![рис-015.png|467](<Consciousness A Very Short Introduction/рис-015.png>)
+![рис-015.png|467](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-015--13aeb6728d8563be.png>)
 
 15\. The diagram shows how visual information is sent from one visual field to the opposite side of the brain, crossing over in the optic chiasm. Split brain patient PS was shown a snow scene to the left and a chicken claw to the right, but the speaking left hemisphere could see only the chicken claw.
 
@@ -584,7 +584,7 @@ Do you believe in the existence of selves? Does your heart tell you one thing an
 
 Imagine a machine that you can step inside and travel anywhere you wish to go (Figure 16). When you press the button, every cell of your body is scanned, destroyed, and recreated at your chosen destination. Since this is a thought experiment we must assume that the procedure is 100 per cent safe and reversible. So you can have no legitimate fears about getting lost on the way. The question is—would you go?
 
-![рис-016.png|390](<Consciousness A Very Short Introduction/рис-016.png>)
+![рис-016.png|390](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-016--604fd16feb1e5fd2.png>)
 
 16\. The teletransporter is a classic philosophers’ thought experiment.
 
@@ -664,7 +664,7 @@ Did you do it? If not you must have decided against bothering. Either way, you m
 
 This certainly fits with the anatomical evidence (Figure 17). Much is known about the brain’s control of voluntary actions from experiments on both humans and other animals. When any voluntary act is carried out, such as flexing the wrist, the sequence goes something like this: activity begins in the prefrontal regions which send connections to the premotor cortex. This programmes actions and sends connections to the primary motor cortex which sets up precise instructions to move the muscles, with fine tuning managed by the cerebellum. In addition, Broca’s area produces motor output for speech; the supplementary motor area sequences pre-planned actions; the anterior cingulate and precuneus modulate complex actions entailing attention and emotion; inhibitory control is aided by the pre-supplementary motor area; and the dorsolateral prefrontal cortex is associated with the subjective experience of deciding when and how to act.
 
-![рис-017.png|503](<Consciousness A Very Short Introduction/рис-017.png>)
+![рис-017.png|503](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-017--1b9de3136ea0b3f8.png>)
 
 17\. When making a volitional act, neural activity flows from prefrontal areas through the premotor and motor cortex. Other areas marked here may also be involved. Where is the need for consciousness to intervene? How and where could an inner self act?
 
@@ -688,7 +688,7 @@ In 1985, Libet reported an experiment that is still argued about decades later. 
 
 The first two of these are easy. The action itself can be detected with electrodes on the wrist (electromyogram, or EMG). The start of brain activity can be measured using electrodes on the scalp (electroencephalogram, or EEG) which detect a gradually increasing signal called the ‘readiness potential’, or RP. The difficulty comes in timing the moment of deciding to act, which Libet called ‘W’ for ‘will’. The problem is that if you ask people to signal by shouting or pressing a button there will be another lag, and the decision to signal may also interfere with the main decision being measured. So Libet devised a special method for timing W. His participants watched a screen with a dot going round in a circle, like the hands of a clock, and had to note the position of the spot when they decided to act. They could then say, after the action, where the spot had been at that critical moment, and this allowed Libet to determine the time of their decision (Figure 18).
 
-![рис-018.png|512](<Consciousness A Very Short Introduction/рис-018.png>)
+![рис-018.png|512](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-018--a89987a52e199f58.png>)
 
 18\. In Libet’s experiment subjects flexed their wrist whenever they spontaneously felt like it. He measured (1) RP, the start of the readiness potential; (2) M, the start of the movement; and (3) W, the moment of willing, or the conscious decision to act. The question is, which comes first?
 
@@ -754,7 +754,7 @@ The same natural tendency makes spiritualism and psychic demonstrations so begui
 
 Even more powerful is the feeling that our thoughts cause our own actions. Psychologist Daniel Wegner likens experiences of conscious will to other judgements of causality, proposing that free will is an illusion caused by a big mistake. This illusion happens in three stages (though they may all occur very fast). First, our brain begins planning an action. Second, this brain activity gives rise to thoughts about that action. Third, the action happens and—hey presto—we jump to the conclusion that our conscious thoughts caused the action (Figure 19).
 
-![рис-019.png|513](<Consciousness A Very Short Introduction/рис-019.png>)
+![рис-019.png|513](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-019--27bc717b329b9b07.png>)
 
 19\. Daniel Wegner suggests that unconscious processes give rise to both thoughts about action and the action itself. We then wrongly infer that our thoughts cause our actions.
 
@@ -808,7 +808,7 @@ One theory allows for both these to be true. During REM sleep numerous brain pro
 
 REM paralysis has another consequence—sleep paralysis. This happens if you wake up before the REM paralysis has worn off and find you cannot move: a scary experience if you don’t know what is happening. Often there are rumbling or grinding noises, eerie lights, sexual arousal, and the powerful sense of someone or something close by. Most cultures have their sleep paralysis myths, such as the incubus and succubus of medieval lore, or the old hag of Newfoundland (Figure 20). Alien abduction experiences may be the modern equivalent—a vivid experience concocted in that unpleasant paralysed state between waking and dreaming. Yet some people enjoy sleep paralysis and even use it as a way of inducing out-of-body experiences (OBEs).
 
-![рис-020.png|513](<Consciousness A Very Short Introduction/рис-020.png>)
+![рис-020.png|513](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-020--e835d794d02a2f14.png>)
 
 20\. In sleep paralysis all the body muscles are paralysed and only the eyes can move. Most cultures have sleep paralysis myths such as that of the old hag of Newfoundland.
 
@@ -822,7 +822,7 @@ So why do OBEs occur? About 15–20 per cent of the population claim to have had
 
 OBEs used to be considered beyond the pale of psychology but that changed with an accidental discovery. In 2002, Swiss neurosurgeon Olaf Blanke was operating on a patient with an array of electrodes on the surface of her brain. While trying to find her epileptic focus he stimulated her right temporo-parietal junction (TPJ; Figure 21) and provoked an OBE. Varying the intensity produced either bizarre bodily distortions or full OBEs. What makes this discovery so important is that the TPJ is involved in constructing our body schema, the constantly updated model we have of our body’s actions and location in space. When this area is disturbed, whether by electrical stimulation or natural changes in the brain, so is the body schema.
 
-![рис-021.png|490](<Consciousness A Very Short Introduction/рис-021.png>)
+![рис-021.png|490](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-021--7251381858be7499.png>)
 
 21\. The brain has four main lobes: occipital, parietal, frontal, and temporal. The TPJ, as its name suggests, is the area where the temporal and parietal lobes meet. This is where electrical stimulation has been found to induce both bodily distortions and OBEs.
 
@@ -840,7 +840,7 @@ Equally profound experiences can happen in the midst of ordinary life. These are
 
 The effects of drugs on consciousness provide convincing evidence that awareness depends on a functioning brain. This may seem obvious, but I mention it because many people believe that their mind is independent of their brain and can survive its death. Drugs also help in exploring the breadth of ASCs and how they relate to each other, although we are far from being able to map them in any meaningful way (Figure 22).
 
-![рис-022.png|512](<Consciousness A Very Short Introduction/рис-022.png>)
+![рис-022.png|512](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-022--1fa23c2e7200459b.png>)
 
 22\. Can states of consciousness be mapped? Moving from one state to another can feel like moving in a vast multi-dimensional space, with some states easy to reach and others far away. Many people have tried to develop such maps, but it is hard to know what the relevant dimensions are.
 
@@ -898,7 +898,7 @@ It’s a lovely day and you are gazing at a great oak tree in the forest. You se
 
 But what is it like for the beetle; for those birds; for the hidden sleeping bats above; or the snake hiding in the grass? (Figure 23) We want to know, and it seems reasonable to ask, what the world is like from the animal’s point of view. The trouble is we cannot know. As we found when asking, ‘What is it like to be bat?’, it is no good just imagining you are a bat or a worm. This is the question of animal consciousness. There are really two separate questions here: one concerns which living creatures are conscious and in what way; the other concerns when and how consciousness evolved.
 
-![рис-023.png|495](<Consciousness A Very Short Introduction/рис-023.png>)
+![рис-023.png|495](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-023--0bbc7df8eae17f01.png>)
 
 23\. What is it like to be an owl; or a spider; or a snake; or a bat? Each of these creatures has senses suited to its way of life and lives in its own kind of world, or Umwelt. But are they conscious? How can we know?
 
@@ -932,7 +932,7 @@ As any pet owner will attest, cats, dogs, and rabbits cannot. On first seeing a 
 
 In 1872, Charles Darwin (1809–82) gave a mirror to two young orang-utans in London zoo, describing how they played in front of it and tried to kiss their reflections, but he could not be sure that they recognized themselves. Over a century later, psychologist Gordon Gallup devised a test to find out (Figure 24). He let a group of young chimpanzees play with mirrors, then he anaesthetized them and painted two obvious red spots above one eye and the opposite ear. When they awoke, he let them look in the mirror. You or I, in such a situation, would immediately see the marks and probably try to touch them or rub them off. So did the chimpanzees. They touched the spots more often than they touched the same place on the opposite side of their face.
 
-![рис-024.png|295](<Consciousness A Very Short Introduction/рис-024.png>)
+![рис-024.png|295](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-024--9424eaedab607811.png>)
 
 24\. Mirror self-recognition is used as a test for self-awareness. In Gallup’s experiments chimpanzees tried to rub off a spot seen only in the mirror.
 
@@ -998,7 +998,7 @@ My own view is this. Consciousness is an illusion: an enticing and compelling il
 
 The reason we are so confused, I suggest, is this. Take the simple question, ‘Am I conscious now?’. Whenever I ask this question (I expect you are asking it now), the answer is ‘Yes’. So it is easy and natural to assume that this is always the case as long as I am awake. But what about when I am not asking the question? The situation is reminiscent of change blindness and grand illusion theory. With vision, every time you look, you see a rich visual world, so you falsely assume it is always there. It is like trying to open the fridge quickly enough to see if the light is always on or, as William James put it in 1890, ‘trying to turn up the gas quickly enough to see how the darkness looks’ (Figure 25). You cannot use light to see what darkness is like.
 
-![рис-025.png|512](<Consciousness A Very Short Introduction/рис-025.png>)
+![рис-025.png|512](<../attachments/consciousness-a-very-short-introduction--%D1%80%D0%B8%D1%81-025--c1aeffa5d97e4570.png>)
 
 25\. What is it like when you are not asking the question, ‘Am I conscious now?’. Trying to find out is like trying to open the fridge door quickly enough to see whether the light is always on.
 

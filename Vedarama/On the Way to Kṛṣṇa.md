@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/owk"
 ---
 
-![обложка|156](<On the Way to Kṛṣṇa/обложка.jpeg>)
+![обложка|156](<../attachments/on-the-way-to-k%E1%B9%9B%E1%B9%A3%E1%B9%87a--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--81aa8363c394aeca.jpeg>)
 
 On the Way to Krsna is based on lectures Srila Prabhupada gave, mostly on the 7th chapter of the Bhagavad-gita, in New York in the fall of 1966. These were still his early days in the United States, and he addresses a quintessential part of what we think of as the American dream: the right to pursue happiness. Of course, the desire for happiness is not an American phenomenon but intrinsic to the human condition.
 

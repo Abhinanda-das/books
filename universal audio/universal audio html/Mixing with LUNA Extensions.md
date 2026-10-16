@@ -41,7 +41,7 @@ To adjust controls on multiple tracks, select multiple tracks, then change the c
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![neve-summing.png](Mixing%20with%20LUNA%20Extensions_assets/ee701184de8938b6615eac8aa04cf0d259ee1861.png)
+![neve-summing.png](../../attachments/mixing-with-luna-extensions_assets--ee701184de8938b6615eac8aa04cf0d259ee1861--36137f854784a114.png)
 
 </div>
 
@@ -104,7 +104,7 @@ To adjust controls on multiple tracks, select multiple tracks, then change the c
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![api-summing-overview.png](Mixing%20with%20LUNA%20Extensions_assets/5d174c91f16c2f1c451416eb4d4c11e8aaae53f4.png)
+![api-summing-overview.png](../../attachments/mixing-with-luna-extensions_assets--5d174c91f16c2f1c451416eb4d4c11e8aaae53f4--d6a9973412c687f2.png)
 
 </div>
 
@@ -142,7 +142,7 @@ The **In** button toggles the API summing emulation on and off. Use this to quic
 
 # Using API Vision Console Emulation
 
-![api-vision-console-overview.png](Mixing%20with%20LUNA%20Extensions_assets/4d98a52e9d592465548b33cd13ca269221d09eee.png)
+![api-vision-console-overview.png](../../attachments/mixing-with-luna-extensions_assets--4d98a52e9d592465548b33cd13ca269221d09eee--b662a1777ea71ffe.png)
 
 The API Vision Console Emulation Bundle turns LUNA into a full API console. You can create new audio, instrument, and bus tracks with API Vision Console elements pre-assigned, building sessions within the complete Vision console emulation experience. You can assign API Vision channel strips and API 2500 Bus Compressors to all tracks in your session.
 
@@ -152,7 +152,7 @@ API Vision Console Emulation provides a new way to interact with the LUNA worksp
 
 # Using Multitrack Tape
 
-![tape-channel-expanded.png](Mixing%20with%20LUNA%20Extensions_assets/3f9102e2726fecb798b18ca64400c96fe1b5986e.png)
+![tape-channel-expanded.png](../../attachments/mixing-with-luna-extensions_assets--3f9102e2726fecb798b18ca64400c96fe1b5986e--bdeb538b2d00f981.png)
 
 ## Using Tape LUNA Extensions
 
@@ -197,7 +197,7 @@ The Studer A800 LUNA Extension allows you to load presets and adjust manual cont
 ### To configure a Tape Machine in a tape deck slot
 
 1.  On an audio or Instrument track in Mixer view, or on a Focus track in Timeline view, click the Tape slot. The Tape browser opens. \
-    ![tape-machine-browser.png](Mixing%20with%20LUNA%20Extensions_assets/12dca6c5f286f97baa1c4ae592c9c9ba1052c1ec.png)
+    ![tape-machine-browser.png](../../attachments/mixing-with-luna-extensions_assets--12dca6c5f286f97baa1c4ae592c9c9ba1052c1ec--a4eb1624897960f1.png)
 2.  Double-click a tape slot (A-D) in which you want to configure the tape machine.
 3.  From the Machine list, select a tape machine type (Oxide or Studer A800). Studer A800 is only available if you have the Studer A800 LUNA Extension licensed and installed. The tape machine configuration is displayed in the browser.
 4.  Configure the tape machine through presets (Oxide, Studer A800) or configure the tape machine settings (Studer A800).
@@ -234,7 +234,7 @@ You can access tape controls from the tape configured on a track.
 
 Hover your mouse over the tape slot on a track, and use the tape options to open the tape browser, open the assigned tape machine for the track, or remove tape from the track.
 
-![tape-hover-options.png](Mixing%20with%20LUNA%20Extensions_assets/5b06de78a2f4f1244f2ad03886e1047d1cc93cb5.png)
+![tape-hover-options.png](../../attachments/mixing-with-luna-extensions_assets--5b06de78a2f4f1244f2ad03886e1047d1cc93cb5--a85423ced7f96a8f.png)
 
 ------------------------------------------------------------------------
 
@@ -252,7 +252,7 @@ You can add Ampex ATR-102 to a Bus track or the Main track. You can configure ea
 
     <div title="Attachment">
 
-    ![atr-102-select.png](Mixing%20with%20LUNA%20Extensions_assets/b09713c295a2f2546c5f289175960cb921d7b82e.png)
+    ![atr-102-select.png](../../attachments/mixing-with-luna-extensions_assets--b09713c295a2f2546c5f289175960cb921d7b82e--9cf75112205afc2d.png)
 
     </div>
 
@@ -264,7 +264,7 @@ In the Master Tape slot, you can configure the most important features: tape for
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![atr-102-closed.png](Mixing%20with%20LUNA%20Extensions_assets/cf2c9768d221b69326747e34f3b80ac87bf689ef.png)
+![atr-102-closed.png](../../attachments/mixing-with-luna-extensions_assets--cf2c9768d221b69326747e34f3b80ac87bf689ef--0f3c41ddd598f570.png)
 
 </div>
 
@@ -272,14 +272,14 @@ In the Master Tape slot, you can configure the most important features: tape for
 
 1.  Hover over the Master Tape insert on a track, and click the box to open the Master Tape Deck.
 
-    ![master-tape-hover-options.png](Mixing%20with%20LUNA%20Extensions_assets/66db8e70873a6316fb537806e3303ef47e539e29.png)
+    ![master-tape-hover-options.png](../../attachments/mixing-with-luna-extensions_assets--66db8e70873a6316fb537806e3303ef47e539e29--94fdb2d288727cc4.png)
 
 2.  The Master Tape Deck opens on the left of the screen.
 
 3.  Adjust the controls manually, or choose a preset to configure the global sound of the Ampex ATR-102.
 
 4.  Click the Open ( **^** ) button to open the secondary machine controls.\
-    ![atr-102-open.png](Mixing%20with%20LUNA%20Extensions_assets/c7ce873a05e960696e173b4fb371849fc49f8d79.png)
+    ![atr-102-open.png](../../attachments/mixing-with-luna-extensions_assets--c7ce873a05e960696e173b4fb371849fc49f8d79--0744626d2521d206.png)
 
 To adjust a rotary tape control, you can click and drag on the control to rotate it to the desired position, or double-click the control to choose from a list of values. You can toggle through push-button controls by clicking the buttons, or toggle switches by clicking them,
 
@@ -296,13 +296,13 @@ The Ampex ATR-102 Master Tape LUNA Extension can be configured as either a pre-f
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![master-tape-hover-options.png](Mixing%20with%20LUNA%20Extensions_assets/66db8e70873a6316fb537806e3303ef47e539e29.png)
+![master-tape-hover-options.png](../../attachments/mixing-with-luna-extensions_assets--66db8e70873a6316fb537806e3303ef47e539e29--94fdb2d288727cc4.png)
 
 </div>
 
 You can also switch between the pre and post fader tape deck location by clicking the option in the Master Tape Browser.
 
-![atr-102-pre-post-fader.png](Mixing%20with%20LUNA%20Extensions_assets/018fa515e6caf4589db01c23573beb3507e8c9d8.png)
+![atr-102-pre-post-fader.png](../../attachments/mixing-with-luna-extensions_assets--018fa515e6caf4589db01c23573beb3507e8c9d8--9d62230cb4837161.png)
 
 ------------------------------------------------------------------------
 

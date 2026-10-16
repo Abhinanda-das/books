@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/nt-pbr"
 ---
 
-![обложка|156](<Preyo-Bhakti-Rasarnava/обложка.jpeg>)
+![обложка|156](<../attachments/preyo-bhakti-rasarnava--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--40ebfafb6d68e234.jpeg>)
 
 "The Nectar Ocean of Fraternal Devotion" composed in Bengali poetry with numerous Sanskrit quotations in 1731 A.D. by Sri Nayanananda Thakur. The word preyo is used in the Bhakti-rasamrita-sindhu as a synonym for sakhya (fraternity). Nayanananda Thakura was a resident of Mangala-dihi village, and hailed from the disciplic branch of the famous Sri Parni Gopal, who was the direct disciple of Lord Nityananda's personal associate known as SriSundarananda Gopal. Sundarananda is celebrated as the incarnation of Sudama, one of the principal cowherd boys, who are eternal associates of Lord Balarama. These dear boyfriends incarnate on earth in order to sport with Balarama when He descends as Lord Nityananda during the performance of Gauranga-lila. This is described in the Sri Chaitanya- Charitamrita, Adi-lila, 11.13-48. The author's composition naturally follows in the footsteps of Sudama. Therefore we find the ecstatic descriptions of a day in the life of the cowherd boys of Vraja.
 

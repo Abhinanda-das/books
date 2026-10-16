@@ -52,7 +52,7 @@ Most compressors only allow you to turn left/right linking on or off. The API 25
 
 Presets from prominent Universal Audio artists are included. You can access the artist presets using the UAD preset browser.
 
-![full-api-2500-no-preset.png](API%202500%20Bus%20Compressor%20Manual_assets/c1686fa83d1a0b0cc69454e03cc93bd5a5db8336.png)
+![full-api-2500-no-preset.png](../../attachments/api-2500-bus-compressor-manual_assets--c1686fa83d1a0b0cc69454e03cc93bd5a5db8336--705b861b116d35be.png)
 
 *API 2500 Bus Compressor*
 
@@ -68,7 +68,7 @@ Presets from prominent Universal Audio artists are included. You can access the 
 
 ## Compressor Section
 
-![api-2500-comp.png](API%202500%20Bus%20Compressor%20Manual_assets/5d85b3cd9b45787bbcaf53bf76735ff949a58cd0.png)
+![api-2500-comp.png](../../attachments/api-2500-bus-compressor-manual_assets--5d85b3cd9b45787bbcaf53bf76735ff949a58cd0--3ba1e9d645a60a02.png)
 
 ### THRESHOLD
 
@@ -162,7 +162,7 @@ Tip: Click a value text label to select the value.
 
 ## Tone Section
 
-![api-2500-tone.png](API%202500%20Bus%20Compressor%20Manual_assets/82b05138bbfb8fa5fe29b3139240643e2cf1c3bd.png)
+![api-2500-tone.png](../../attachments/api-2500-bus-compressor-manual_assets--82b05138bbfb8fa5fe29b3139240643e2cf1c3bd--b9a586d5ee784b90.png)
 
 ### KNEE
 
@@ -184,7 +184,7 @@ THRUST is an API-patented circuit that inserts a high-pass filter in the control
 
 The THRUST filter has a slope of 10 dB per decade, which is the inverse of the pink noise energy curve. THRUST adjusts the sidechain frequency response so each octave has the same amount of energy, creating a unique compression effect that reduces pumping and maintains punch.
 
-![api-2500-thrust-diagram.png](API%202500%20Bus%20Compressor%20Manual_assets/8a103f7be3eb9df2a94793c680b7759d0c5928a5.png)
+![api-2500-thrust-diagram.png](../../attachments/api-2500-bus-compressor-manual_assets--8a103f7be3eb9df2a94793c680b7759d0c5928a5--ee06f232f420b552.png)
 
 #### Available THRUST Values
 
@@ -198,7 +198,7 @@ LOUD – A gradual, linear filter is applied to the sidechain. Frequencies are 
 
 TYPE changes the routing of the control sidechain signal within the compressor circuit. To change the TYPE setting, click a value or click the TYPE switch to cycle through the available values.
 
-![api-2500-type-diagram1.png](API%202500%20Bus%20Compressor%20Manual_assets/24ebc46e54cbf6b07842f45147adbf17a45ffe2d.png)![api-2500-type-diagram.png](API%202500%20Bus%20Compressor%20Manual_assets/94255813f65127b6784fc24f588db7f93f755e12.png)
+![api-2500-type-diagram1.png](../../attachments/api-2500-bus-compressor-manual_assets--24ebc46e54cbf6b07842f45147adbf17a45ffe2d--df9b4c03d68cde33.png)![api-2500-type-diagram.png](../../attachments/api-2500-bus-compressor-manual_assets--94255813f65127b6784fc24f588db7f93f755e12--5a5d2dce35b60c4e.png)
 
 #### Available TYPE Values
 
@@ -210,7 +210,7 @@ Note: Unlike typical compressors, when tone TYPE is set to OLD (feed-back), the
 
 ## Link Section
 
-![api-2500-link.png](API%202500%20Bus%20Compressor%20Manual_assets/45e0b6ff58d82cc03121a33f959be42997608d41.png)
+![api-2500-link.png](../../attachments/api-2500-bus-compressor-manual_assets--45e0b6ff58d82cc03121a33f959be42997608d41--678026ae62db850e.png)
 
 ### L/R LINK
 
@@ -240,7 +240,7 @@ Note: When the plug-in is used in a mono-in configuration, this switch has no e
 
 ## Output Section
 
-![api-2500-output.png](API%202500%20Bus%20Compressor%20Manual_assets/e3f3cfb5b2258068e5c0a38844398e0bf08b3310.png)
+![api-2500-output.png](../../attachments/api-2500-bus-compressor-manual_assets--e3f3cfb5b2258068e5c0a38844398e0bf08b3310--af3f2ed4eedb4b7f.png)
 
 ### IN
 
@@ -284,7 +284,7 @@ Manual make-up gain is active when the red MAKE-UP GAIN switch is in the "in" po
 
 ## Other Controls
 
-![api-2500-other.png](API%202500%20Bus%20Compressor%20Manual_assets/9e616c303e4e494890f46541d371423e8baac4ea.png)
+![api-2500-other.png](../../attachments/api-2500-bus-compressor-manual_assets--9e616c303e4e494890f46541d371423e8baac4ea--9155d19627f9b40a.png)
 
 ### POWER
 
@@ -332,7 +332,7 @@ IN – The VU Meters display signal levels at the input of the plug-in.
 
 ### HEADROOM (HR)
 
-![API_2500_FINAL_2x6.png](API%202500%20Bus%20Compressor%20Manual_assets/cdc5bb78143bfc3d361096154234a25f2aab758f.png)
+![API_2500_FINAL_2x6.png](../../attachments/api-2500-bus-compressor-manual_assets--cdc5bb78143bfc3d361096154234a25f2aab758f--33a44fc8b8826c8e.png)
 
 The Headroom control is a UAD-only feature that is not available in the original hardware. Headroom enables adjustment of the internal operating reference level for the plug-in so that the plug-in is not "pushed" into gain reduction as much. Headroom enables best practice operating level matching, or it can be used creatively to expand the sonic range of the processor.
 
@@ -348,9 +348,9 @@ Note: To avoid the temporary gain increases that can result when adjusting Head
 
 HR replaces the L/R TILT control that is available on the original hardware. Because L/R TILT is used to compensate for analog component tolerances and drift, it is not needed with the plug-in.
 
-![API_logo.png](API%202500%20Bus%20Compressor%20Manual_assets/f18a4c860fe9148b96198d8e3a4065c511025652.png)
+![API_logo.png](../../attachments/api-2500-bus-compressor-manual_assets--f18a4c860fe9148b96198d8e3a4065c511025652--476c640a97e27fec.png)
 
-![api-2500-hw-lunchbox.png](API%202500%20Bus%20Compressor%20Manual_assets/6a771dd2e1b967ebe1c80571c0f5538aa5a06cf3.png)
+![api-2500-hw-lunchbox.png](../../attachments/api-2500-bus-compressor-manual_assets--6a771dd2e1b967ebe1c80571c0f5538aa5a06cf3--f4fa5dad3383ea46.png)
 
 *API 2500 Bus Compressor hardware*
 

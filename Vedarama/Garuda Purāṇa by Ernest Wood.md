@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gp-ew"
 ---
 
-![обложка|156](<Garuda Purāṇa by Ernest Wood/обложка.png>)
+![обложка|156](<../attachments/garuda-pur%C4%81%E1%B9%87a-by-ernest-wood--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--09ffa54f3d3b678e.png>)
 
 This is a translation of an abridged version of the Garuda Purana. The Garuda Purana is one of the Vishnu Puranas. It is in the form of a dialog between Vishnu and Garuda, the King of Birds. The second section of this Purana (given here) deals with issues connected with death, particularly funeral rites and the metaphysics of reincarnation.
 

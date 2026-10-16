@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ej"
 ---
 
-![обложка|156](<Easy Journey to Other Planets/обложка.jpeg>)
+![обложка|156](<../attachments/easy-journey-to-other-planets--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b2cc01c9138bc89f.jpeg>)
 
 Forget NASA's elaborate arrangements and huge, dangerous metal machines. Learn the easy way to journey through the solar system.
 

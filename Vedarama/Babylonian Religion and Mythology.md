@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/lwkink-bram"
 ---
 
-![обложка|156](<Babylonian Religion and Mythology/обложка.jpeg>)
+![обложка|156](<../attachments/babylonian-religion-and-mythology--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--226d1f91d8db7c19.jpeg>)
 
 An account of the principal facts concerning Babylonian religion and mythology. His account is based upon the cuneiform inscriptions which have been excavated in Mesopotamia during the latter half of the 19th century, and, as far as possible, the Semitic peoples of the valley of the Tigris and Euphrates have been made to reveal their religious beliefs and superstitions by means of their own writings. At the time of original publication in 1899, Leonard William King (1869 - 1919), was Assistant in the Department of Egyptian and Assyrian Antiquities, British Museum.
 

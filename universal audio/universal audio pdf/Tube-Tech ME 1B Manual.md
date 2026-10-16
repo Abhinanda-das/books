@@ -7,7 +7,7 @@ word_count: 2059
 ---
 
 
-![](<Tube-Tech ME 1B Manual_assets/Tube-Tech_ME_1B_Manual.pdf-0001-00.png>)
+![](<../../attachments/tube-tech-me-1b-manual_assets--tube-tech_me_1b_manual.pdf-0001-00--16fbbb7444da0fde.png>)
 
 
 # **User Manual Tube-Tech ME 1B** 
@@ -15,7 +15,7 @@ word_count: 2059
 Rev. Jun 28, 2013 
 
 
-![](<Tube-Tech ME 1B Manual_assets/Tube-Tech_ME_1B_Manual.pdf-0002-00.png>)
+![](<../../attachments/tube-tech-me-1b-manual_assets--tube-tech_me_1b_manual.pdf-0002-00--8287048543195885.png>)
 
 
 ## **Softube User Manual** 
@@ -74,13 +74,13 @@ Softube plug-ins are “what you see is what you get” products. You should be 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Tube-Tech ME 1B Manual_assets/Tube-Tech_ME_1B_Manual.pdf-0005-06.png>)
+![](<../../attachments/tube-tech-me-1b-manual_assets--tube-tech_me_1b_manual.pdf-0005-06--d39c1c74e757d63e.png>)
 
 
 ## **Menu Row** 
 
 
-![](<Tube-Tech ME 1B Manual_assets/Tube-Tech_ME_1B_Manual.pdf-0005-08.png>)
+![](<../../attachments/tube-tech-me-1b-manual_assets--tube-tech_me_1b_manual.pdf-0005-08--6dee173d55e66221.png>)
 
 
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Dyna-mite plug-in as example, but the same goes for all plug-ins. 
@@ -96,7 +96,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Tube-Tech ME 1B Manual_assets/Tube-Tech_ME_1B_Manual.pdf-0005-15.png>)
+![](<../../attachments/tube-tech-me-1b-manual_assets--tube-tech_me_1b_manual.pdf-0005-15--76ae6573375d4aea.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -104,7 +104,7 @@ Enable Setup<br>**----- End of picture text -----**<br>
 
 
 
-![](<Tube-Tech ME 1B Manual_assets/Tube-Tech_ME_1B_Manual.pdf-0005-16.png>)
+![](<../../attachments/tube-tech-me-1b-manual_assets--tube-tech_me_1b_manual.pdf-0005-16--77e5fa4efe63ec10.png>)
 
 
 **6** | USER INTERFACE 
@@ -184,7 +184,7 @@ The user interface of the ME 1B is pretty straight forward. You have three diffe
 In addition to this you get an **Output Gain** control. It isn’t included in the original hardware, but is useful in a plug-in. 
 
 
-![](<Tube-Tech ME 1B Manual_assets/Tube-Tech_ME_1B_Manual.pdf-0008-04.png>)
+![](<../../attachments/tube-tech-me-1b-manual_assets--tube-tech_me_1b_manual.pdf-0008-04--94f8a5ba624e32af.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -192,7 +192,7 @@ Low Freq. Low Peak Mid Freq. Mid Dip High Freq. High Peak<br>Low Frequency Secti
 
 
 
-![](<Tube-Tech ME 1B Manual_assets/Tube-Tech_ME_1B_Manual.pdf-0008-05.png>)
+![](<../../attachments/tube-tech-me-1b-manual_assets--tube-tech_me_1b_manual.pdf-0008-05--d1031571a8986d1d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -250,7 +250,7 @@ In order to satisfy most setups, we chose to model the impedance so that you can
 The best way to get as close as possible to the original Pultec Midrange EQ sound in hardware is to get the ME 1B from Tube-Tech. They make great gear. Period. Every time we get to borrow TubeTech stuff we immediately fall in love and want to keep it. 
 
 
-![](<Tube-Tech ME 1B Manual_assets/Tube-Tech_ME_1B_Manual.pdf-0010-10.png>)
+![](<../../attachments/tube-tech-me-1b-manual_assets--tube-tech_me_1b_manual.pdf-0010-10--63e5962a0e9614b3.png>)
 
 
 **----- Start of picture text -----**<br>

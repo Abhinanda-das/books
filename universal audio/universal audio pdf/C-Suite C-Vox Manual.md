@@ -9,7 +9,7 @@ word_count: 2756
 ## - C Suite 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0001-01.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0001-01--17685b37aa4c9d9c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -92,7 +92,7 @@ C-Suite C-Vox manual v1.01
 ## 3 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0007-03.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0007-03--3361f4cb22f75c38.png>)
 
 
 ## **Noise/Room** 
@@ -154,7 +154,7 @@ When processing is bypassed       the display will be shown in grey.
 Areas of the display above the zero line at any given moment show signal and natural ambience that, to a large degree, are unaffected by noise or room tone. The following display illustrates the power distribution of a signal that, at that moment, requires no noise/room reduction. 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0009-06.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0009-06--f0f8beae24979272.png>)
 
 
 Page 9 
@@ -166,7 +166,7 @@ C-Suite C-Vox manual v1.01
 Areas of the display blow the zero line at any given moment show signal that, to a large degree, is all noise or room tone with little or no wanted signal present. The following display illustrates a signal that, at that moment, contains no wanted signal. 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0010-03.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0010-03--aaba3cdec634052a.png>)
 
 
 ## The white line 
@@ -174,7 +174,7 @@ Areas of the display blow the zero line at any given moment show signal that, to
 The white line provides an instantaneous indication of those frequency ranges that contain wanted signal (above the zero line) and those where noise reduction or room tone reduction is taking place (below the zero line). 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0010-06.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0010-06--693935aa7c06f7da.png>)
 
 
 Page 10 
@@ -186,13 +186,13 @@ C-Suite C-Vox manual v1.01
 The display shows a short history of the changes in the audio signal. The fainter the representation, the further in the past that it lies. The history is displayed for around 0.5s before the current moment; beyond this point, its intensity drops below 5% of the ‘current’ intensity. The following display illustrates a signal that amongst other changes has (i) recently undergone significant attenuation at low frequencies but which now has a strong wanted signal at those frequencies, and (ii) has a falling high frequency content shown by a lower current level than that of the recent past. 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0011-03.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0011-03--e3efa88b2ba21541.png>)
 
 
 The following image shows an interesting case. The white line is above the zero line at all frequencies, which means that all of the noise reduction visible below the zero line is history. This suggests that, at the moment that this image was grabbed, the signal had just moved from a period of silence (just noise present) to a period of strong signal. 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0011-05.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0011-05--83f0c748ecd91565.png>)
 
 
 Furthermore, you can see that there is strong signal in the low and mid frequencies that is also in the recent history, which suggest that there was a transient of some nature when the wanted signal started. Consequently, this image indicates that the signal went from just noise to a loud initial signal before settling to its current level. 
@@ -204,7 +204,7 @@ Page 11
 C-Suite C-Vox manual v1.01 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0012-01.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0012-01--3f07bebae326c223.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -214,7 +214,7 @@ C-Suite C-Vox manual v1.01
 This image shows a consistent amount of noise across all frequencies. 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0012-03.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0012-03--074258a9f20b37ed.png>)
 
 
 To reduce the noise, select the Noise mode followed by suitable values for the Attenuation and Ambience. For many signals, a good starting point is Atten = 40 and Ambience = 30. 
@@ -226,7 +226,7 @@ Page 12
 C-Suite C-Vox manual v1.01 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0013-01.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0013-01--299939b17765e773.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -236,7 +236,7 @@ C-Suite C-Vox manual v1.01
 Here you can see clear troughs in the signal that represent a room tone or a cluster of such tones that colour the signal. 
 
 
-![](<C-Suite C-Vox Manual_assets/C-Suite_C-Vox_Manual.pdf-0013-03.png>)
+![](<../../attachments/c-suite-c-vox-manual_assets--c-suite_c-vox_manual.pdf-0013-03--4adc68799ab9cb49.png>)
 
 
 To reduce or eliminate these, select the Room mode followed by suitable values for the Attenuation and Ambience. A good starting point for these is Atten = 50 and Ambience = 25. Again, you should then adjust both parameters to achieve the most appropriate amount of reduction without making the signal sound too dry (unless that is what is wanted) and without using extreme settings that might introduce unwanted artefacts. 

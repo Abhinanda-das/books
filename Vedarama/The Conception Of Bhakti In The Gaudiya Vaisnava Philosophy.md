@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/tcobitgvp"
 ---
 
-![обложка|156](<The Conception Of Bhakti In The Gaudiya Vaisnava Philosophy/обложка.jpeg>)
+![обложка|156](<../attachments/the-conception-of-bhakti-in-the-gaudiya-vaisnava-philosophy--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8b1df293be35fc6e.jpeg>)
 
 # The Conception Of Bhakti In The Gaudiya Vaisnava Philosophy
 

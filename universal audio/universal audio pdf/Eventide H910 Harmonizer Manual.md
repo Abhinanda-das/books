@@ -7,11 +7,11 @@ word_count: 2839
 ---
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0001-00.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0001-00--135a9fbe85671589.png>)
 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0001-01.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0001-01--754533c3d6d7312f.png>)
 
 
 **eventideaudio.com** 
@@ -57,7 +57,7 @@ We’ve done exhaustive listening tests and compared it to the best relics that 
 **H910 Controls** 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0004-03.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0004-03--b268fbc25c34c66d.png>)
 
 
 The H910 user interface consists of two parts. The top half of the interface is the front panel of the original H910 2U rack mount unit. All controls function in the same way as the original.  The bottom half of the interface enables features originally available through external connections or options. 
@@ -65,13 +65,13 @@ The H910 user interface consists of two parts. The top half of the interface is 
 **Front Panel Controls:** 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0004-06.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0004-06--3d4a24b16531d602.png>)
 
 
 **LINE button** : This control switches the Harmonizer in and out of an audio circuit. When the switch is in the OUT position, the unit is completely bypassed but the algorithm is still running in the background. This allows you to store audio in the feedback patch and modify its contents using the pitch controls, then to hear these differences when you revert to LINE IN. 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0004-08.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0004-08--eab2441b157474cc.png>)
 
 
 **INPUT LEVEL knob and LIMIT indicator** : This control varies the level of the audio input to the Harmonizer. Users of the original hardware would always be tweaking this pot! The plug-in models the hardware analog input audio circuitry of the H910 and, let’s just say that, the level of the input audio will change the effect of the other parameters, especially when making use of the feedback control.  We recommend that you play with this parameter and listen. 
@@ -116,7 +116,7 @@ Additionally right clicking on the INPUT knob will turn it to - dB, muting the i
 ## Model H910 Harmonizer[® ] 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0006-02.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0006-02--2835389f6a03c066.png>)
 
 
 ## **DELAY ONLY button and LED:** 
@@ -132,7 +132,7 @@ This switch group controls the delay of the main output. In the DELAY ONLY mode,
 In the PITCH CHANGE mode, the additional delay is the sum of the delays of the two right hand switches depressed. Maximum additional delay is 60 mS (30+30). Note that in the PITCH CHANGE mode, pitch change is achieved by a delay that is continuously varying over an approximate 30 mS range, and so a precise delay is not achievable. So even without both ADD'L DELAY buttons pressed there will still be an audible delay when in PITCH CHANGE mode. 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0006-09.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0006-09--0465e2613e1b7707.png>)
 
 
 **FEEDBACK knob:** The FEEDBACK control is used to add reverb in controlled amounts to the delayed output of the Harmonizer. The control attenuates the signal coming from the main output and reapplies it to the input where it is mixed with the incoming signal. The reverb period is controlled by the DELAY setting and the decay time is varied by adjustment of the FEEDBACK control. Clockwise rotation of the control increases decay time, until the feedback gain exceeds unity, at which time the system will begin to oscillate. The control is also operative in the PITCH CHANGE mode, and may be used to create numerous special effects. 
@@ -144,7 +144,7 @@ Model H910 Harmonizer[®]
 7 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0007-02.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0007-02--69effe88a0b55e62.png>)
 
 
 **PITCH RATIO readout:** An LED readout gives the numerical pitch ratio of the Harmonizer. As this is a true digital readout, it is not subject to miscalibration and may be used as a precise reference. 
@@ -174,7 +174,7 @@ The figures in this table are accurate to four decimal places. For use with the 
 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0007-08.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0007-08--aba645917a21e829.png>)
 
 
 **OUTPUT 2 delay buttons:** This switch group controls the delay of the second output. It is operative regardless of the setting of the DELAY ONLY switch. Delay 2 is fed from the sum of the input to the H910 and the main feedback path.  Delay 2’s input is connected before the input to the pitch shifter 
@@ -188,13 +188,13 @@ Model H910 Harmonizer[®]
 so pitch change at Delay 2's output will only be heard when feedback is turned up.  The total delay of Delay 2 is the sum of the buttons depressed. 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0008-03.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0008-03--aa5df76dbb969ee4.png>)
 
 
 **MANUAL knob:** The MANUAL control is operative in the PITCH CHANGE mode only and when the PITCH CONTROL SELECT is set to MAN mode. It is used to change the pitch ratio between the input and the output. When centered, the ratio is unity. When fully clockwise, the ratio is 2, and the output pitch is increased by one octave. When fully counter-clockwise, the ratio is .5, and the output pitch is decreased by one octave. Intermediate settings produce fractional octave ratios, and the control is “band-spread” around unity to make small ratio adjustments easier. 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0008-05.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0008-05--761ce2043bd475fb.png>)
 
 
 **PITCH CONTROL SELECT switch group and LED indicator:** When the PITCH CONTROL mode is activated, the LED INDICATOR immediately to the left of the PITCH CONTROL SELECT switch group becomes illuminated, and the four switches assume control of the pitch change function. 
@@ -208,7 +208,7 @@ so pitch change at Delay 2's output will only be heard when feedback is turned u
 • **ENV:** ENVELOPE FOLLOWER controls the pitch ratio.  When ENV is active, no input signal will result in a PITCH RATIO of 1.0 and a full scale input signal will set the PITCH RATIO according to the position of the MANUAL control.  In other words, the setting of the manual control determines the pitch range. 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0008-10.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0008-10--d643a374c777648b.png>)
 
 
 **eventideaudio.com** 
@@ -218,7 +218,7 @@ Model H910 Harmonizer[®]
 **ANTI-FEEDBACK knob:** This control is operative in the PITCH CHANGE mode only, when the A-F button in the PITCH CONTROL SELECT group is depressed. Increasing clockwise rotation of the ANTI-FEEDBACK control progressively adds a small up and down frequency shift to the output signal, which serves to decrease the effect of room resonance peaks on the signal which ultimately rearrives at the microphone. Because the effect becomes more audible as the control is advanced, the optimum setting is a compromise between adequate feedback reduction and audience and/or performer disturbance.  At extreme settings this control will create a highly modulated FM like effect which can be used as a special effect. 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0009-03.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0009-03--b27bf3563819fedf.png>)
 
 
 **POWER button and LED indicator:** The power button functions as the UA bypass switch.  When the POWER button is depressed the H910 plug-in is active.  Otherwise the button is not pressed and the DSP is unloaded. 
@@ -226,7 +226,7 @@ Model H910 Harmonizer[®]
 ## **Additional Controls** 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0009-06.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0009-06--e16011e2ab49462c.png>)
 
 
 ## **MIXER Section** 
@@ -242,7 +242,7 @@ Model H910 Harmonizer[®]
 Model H910 Harmonizer[®] 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0010-02.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0010-02--5f29b184697bf191.png>)
 
 
 ## **ENVELOPE FOLLOWER Section** 
@@ -254,7 +254,7 @@ Model H910 Harmonizer[®]
 **SENSITIVITY knob:** The SENSITIVITY knob sets the gain of the ENVELOPE FOLLOWER allowing you to control the pitch change relative to the dynamics of the input signal.  As the SENSITIVITY knob is turned clockwise the ENVELOPE FOLLOWER will have more gain allowing quieter signals to have a greater control over the pitch change. 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0010-07.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0010-07--a3bfd5a6e6dac99a.png>)
 
 
 ## **EVENTIDE HK941 Keyboard Section** 
@@ -270,11 +270,11 @@ Model H910 Harmonizer[®]
 Model H910 Harmonizer[®] 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0011-01.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0011-01--e59ade883459bce3.png>)
 
 
 
-![](<Eventide H910 Harmonizer Manual_assets/Eventide_H910_Harmonizer_Manual.pdf-0011-02.png>)
+![](<../../attachments/eventide-h910-harmonizer-manual_assets--eventide_h910_harmonizer_manual.pdf-0011-02--6051a84a1e71f9ba.png>)
 
 
 ## Part #141252 Rev A 

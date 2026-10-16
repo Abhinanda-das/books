@@ -34,9 +34,9 @@ Features vary slightly depending on the pedal capabilities, so be sure to refere
 7.  <span style="color: #434343;">A computer with macOS Big Sur or newer, or Windows 10 or newer, to run UA Connect for UAFX firmware updates.</span>
 
 ### UAFX MIDI-capable pedals and features:\
-![](Getting%20started%20with%20UAFX%202.0%20USB%20MIDI_assets/3ef9db32d9501eaa3038f5f1e9e888187e3cba40.png)
+![](../../attachments/getting-started-with-uafx-2.0-usb-midi_assets--3ef9db32d9501eaa3038f5f1e9e888187e3cba40--f126ef1684c2525b.png)
 
-## ![](Getting%20started%20with%20UAFX%202.0%20USB%20MIDI_assets/80e8d5424c752e5edc06b40620c7dec31987643f.png)
+## ![](../../attachments/getting-started-with-uafx-2.0-usb-midi_assets--80e8d5424c752e5edc06b40620c7dec31987643f--2dc24b39cac79c7d.png)
 
 ### USB host-capable MIDI interfaces
 
@@ -65,20 +65,20 @@ JavaScript kann nicht ausgeführt werden.
 </figure>
 
 Here’s an example of a typical configuration:\
-![](Getting%20started%20with%20UAFX%202.0%20USB%20MIDI_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)\
+![](../../attachments/getting-started-with-uafx-2.0-usb-midi_assets--1576671445c71e282018967963ec7f67c9a4be5c--995dd38de21e0cb3.png)\
  
 
-This setup can be expanded with up to four UAFX pedals, using a simple USB hub. It’s possible to add a MIDI-controllable loop switcher like the <a href="https://www.morningstar.io/ml10x" rel="noopener noreferrer" target="_blank"><strong>MorningStar ML10X</strong></a>, which allows for pedal re-ordering and complex routing possibilities with many pedals.![](Getting%20started%20with%20UAFX%202.0%20USB%20MIDI_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)\
+This setup can be expanded with up to four UAFX pedals, using a simple USB hub. It’s possible to add a MIDI-controllable loop switcher like the <a href="https://www.morningstar.io/ml10x" rel="noopener noreferrer" target="_blank"><strong>MorningStar ML10X</strong></a>, which allows for pedal re-ordering and complex routing possibilities with many pedals.![](../../attachments/getting-started-with-uafx-2.0-usb-midi_assets--1576671445c71e282018967963ec7f67c9a4be5c--995dd38de21e0cb3.png)\
 \
 You are only limited by the number of available virtual MIDI ports on your USB MIDI host interface. You can also use more than one USB MIDI host interface for a staggering number of connections.
 
 Here are some additional examples:
 
-![](Getting%20started%20with%20UAFX%202.0%20USB%20MIDI_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![](../../attachments/getting-started-with-uafx-2.0-usb-midi_assets--1576671445c71e282018967963ec7f67c9a4be5c--995dd38de21e0cb3.png)
 
 Here is another example with eight UAFX pedals using a <a href="https://www.cme-pro.com/h2midi-pro" rel="noopener noreferrer" target="_blank"><strong>CME H2MIDI Pro</strong></a> as the USB MIDI host interface:
 
-![](Getting%20started%20with%20UAFX%202.0%20USB%20MIDI_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![](../../attachments/getting-started-with-uafx-2.0-usb-midi_assets--1576671445c71e282018967963ec7f67c9a4be5c--995dd38de21e0cb3.png)
 
 ### Bluetooth MIDI
 

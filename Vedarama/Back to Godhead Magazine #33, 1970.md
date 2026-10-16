@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg33"
 ---
 
-![обложка|156](<Back to Godhead Magazine #33, 1970/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-33-1970--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--257746c7a100ef73.jpeg>)
 
 # Back to Godhead Magazine #33, 1970
 

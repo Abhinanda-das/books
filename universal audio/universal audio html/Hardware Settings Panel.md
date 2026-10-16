@@ -11,7 +11,7 @@ word_count: 4434
 
 The Hardware panel is where Apollo's system-level audio interface I/O settings such as sample rate, clock source, and output reference levels are configured. These settings are used by DAW applications when they are configured to use Apollo as the audio interface. Even when UAD Console is not open, these settings are stored by the Apollo drivers for use by other host applications.
 
-![](Hardware%20Settings%20Panel_assets/e3a8087aa0709e2d6b826b85e3aa3fb8a896eb75.png)
+![](../../attachments/hardware-settings-panel_assets--e3a8087aa0709e2d6b826b85e3aa3fb8a896eb75--a185f4cddd4b759e.png)
 
 *The Hardware panel as displayed with multiple Apollo devices*
 
@@ -126,7 +126,7 @@ When enabling Input Delay Compensation, it's usually best to start with the Shor
 
 ### Input Delay Compensation Exceeded Dialog
 
-![](Hardware%20Settings%20Panel_assets/e62e651e395f3dad6fe33ab2c30a13b329ba4a53.png)
+![](../../attachments/hardware-settings-panel_assets--e62e651e395f3dad6fe33ab2c30a13b329ba4a53--344a7cbae1eb3dda.png)
 
 A dialog will appear in UAD Console if the compensation amount is exceeded on a channel. If this occurs, either increase the IDC value or reduce upsampled plug-ins usage on the channel to maintain phase alignment.
 
@@ -263,7 +263,7 @@ Apollo x16D</p></td>
 
 ## Devices Column
 
-![](Hardware%20Settings%20Panel_assets/019f1800c91f2d26c35b60894576f7c540c2a067.png)
+![](../../attachments/hardware-settings-panel_assets--019f1800c91f2d26c35b60894576f7c540c2a067--8f6d16ca772fa393.png)
 
 This column lists all Apollo devices in the system. It has five functions:
 
@@ -295,7 +295,7 @@ For related details, see [Multi-Unit Cascading](https://help.uaudio.com/hc/en-us
 
 ## Add Device
 
-![](Hardware%20Settings%20Panel_assets/531b45d9b47e075fcef2bf0fb5b088c7d0004984.png)
+![](../../attachments/hardware-settings-panel_assets--531b45d9b47e075fcef2bf0fb5b088c7d0004984--dc1e6e73da68fab2.png)
 
 If there are less than four devices in the column, unit(s) can be manually added for offline configuration by clicking the "+" button (below the devices in the column) to present the Add Device popover. Click a device in the menu to add it to the Device Column.
 
@@ -309,9 +309,9 @@ Selecting a unit in the Devices column reveals its device-specific settings in t
 
 **Note:** Settings in the Options Column apply only to the specific unit currently selected in the Devices Column.
 
-![](Hardware%20Settings%20Panel_assets/fc46cfd973b8dfac9ea8023793ae7543b7b09c1c.png)
+![](../../attachments/hardware-settings-panel_assets--fc46cfd973b8dfac9ea8023793ae7543b7b09c1c--aea82666b4103357.png)
 
-![](Hardware%20Settings%20Panel_assets/91db7ee82045381ddb70189b5978a89e06065731.png)
+![](../../attachments/hardware-settings-panel_assets--91db7ee82045381ddb70189b5978a89e06065731--e249e902d0dbcd37.png)
 
 *Device options as displayed when Apollo x8p selected (top) and Apollo x4 selected (bottom)*
 
@@ -419,7 +419,7 @@ This feature routes the signal directly from the D/A converters to the monitor o
 
 **Bypass –** The monitor controls and associated circuitry are bypassed, and:
 
-![](Hardware%20Settings%20Panel_assets/2b3a47979f9edf26b3fc8f018f0e5ef038aae7e0.png)
+![](../../attachments/hardware-settings-panel_assets--2b3a47979f9edf26b3fc8f018f0e5ef038aae7e0--fd1d5a6794d12b85.png)
 
 - The Monitor Level cannot be adjusted
 - The Monitor Level Indicator ring is solid green
@@ -514,7 +514,7 @@ When enabled (the default setting), Channel DSP Pairing is automatic. Simply ins
 
 A maximum of two DSP cores can be paired with a single Apollo input. More than one DSP pair can be allocated, so multiple Apollo inputs can take advantage of the feature. The Channel DSP Pairing concept is illustrated below.
 
-![](Hardware%20Settings%20Panel_assets/5dcd58c02bee22a7cbf159b79e76ccb7367d4b5c.png)
+![](../../attachments/hardware-settings-panel_assets--5dcd58c02bee22a7cbf159b79e76ccb7367d4b5c--5d5d536df9b0df7d.png)
 
  
 
@@ -526,7 +526,7 @@ If an additional UAD plug-in inserted on a UAD Console input channel strip that 
 
 In this specific example, the Fender '55 Tweed Deluxe plug-in DSP core load is 70% (at 44.1 kHz). The Korg SDD-3000 is also loaded on the same input, but since its load is 35% (and the combined load exceeds 100%), Channel DSP Pairing automatically loads the second plug-in on the paired DSP.
 
-![](Hardware%20Settings%20Panel_assets/1eaa5081f5c59f539668753bcd209c16c5c27865.png)
+![](../../attachments/hardware-settings-panel_assets--1eaa5081f5c59f539668753bcd209c16c5c27865--d546dc32a75702d5.png)
 
  
 
@@ -538,7 +538,7 @@ Building on the previous example, the diagram below illustrates how more than on
 
 In this example, Input 1 has an electric guitar plug-in chain (Fender + Korg) using one DSP pair, while Input 2 has a vocal mic plug-in chain (Neve + Teletronix) using a second DSP pair. A third DSP pair uses the remaining DSP on core two before pairing to the third DSP core.
 
-![](Hardware%20Settings%20Panel_assets/fe386e13a20bd28a7f3fb987b91be56f2d574186.png)
+![](../../attachments/hardware-settings-panel_assets--fe386e13a20bd28a7f3fb987b91be56f2d574186--51a55d4bb26b2d9a.png)
 
  
 
@@ -552,7 +552,7 @@ As the DSP PAIRS value is increased, the VIRTUAL CHANNELS value is decreased. Th
 
  
 
-![](Hardware%20Settings%20Panel_assets/1ef297a75c2ee33d76ed4343466c712a8984e934.png)
+![](../../attachments/hardware-settings-panel_assets--1ef297a75c2ee33d76ed4343466c712a8984e934--af193204c0fd3f93.png)
 
 *Channel DSP Pairing control*
 
@@ -565,7 +565,7 @@ The number of available DSP pairs is adjustable. Apollo rackmount models can be 
 - On all models, decreasing Virtual channels conserves DSP.
 - On Apollo SOLO models, Channel DSP Pairing is not available because they contain only one DSP. 
 
-![](Hardware%20Settings%20Panel_assets/a0f05f7d327717d3706c6aeea347c4ceae53e78f.png)
+![](../../attachments/hardware-settings-panel_assets--a0f05f7d327717d3706c6aeea347c4ceae53e78f--b1f9cb703c7a1383.png)
 
 *Channel DSP Pairing control as it appears with Apollo Twin (left) and Apollo rackmount models (right)*
 

@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg4"
 ---
 
-![обложка|156](<Back to Godhead Magazine #04, December 15, 1966/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-04-december-15-1966--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1b8dc55dbfabe478.jpeg>)
 
 # Back to Godhead Magazine #04, December 15, 1966
 

@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/tqk"
 ---
 
-![обложка|156](<Teachings of Queen Kuntī/обложка.jpeg>)
+![обложка|156](<../attachments/teachings-of-queen-kunt%C4%AB--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--6ad5ba90dfa57f37.jpeg>)
 
 At the conclusion of the devastating Kurukshetra war, Queen Kunti approaches Lord Krishna as He prepares to depart the scene of the battle. Kunti’s words are words of glorification impelled by a divine love steeped in wisdom. Kunti’s spontaneous glorification of Lord Krishna and her description of the spiritual path are immortalized in the Mahabharata and the Bhagavata Purana (Srimad-Bhagavatam), and they have been recited, chanted, and sung by sages and philosophers for thousands of years.
 

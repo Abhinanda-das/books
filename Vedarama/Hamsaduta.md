@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rupa-hamsaduta1"
 ---
 
-![обложка|156](<Hamsaduta/обложка.jpeg>)
+![обложка|156](<../attachments/hamsaduta--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1dc029f4a93cd60a.jpeg>)
 
 # Hamsaduta
 

@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bahulikar-witsgvos"
 ---
 
-![обложка|156](<Who is the Supreme God Viṣṇu or Śiva/обложка.jpeg>)
+![обложка|156](<../attachments/who-is-the-supreme-god-vi%E1%B9%A3%E1%B9%87u-or-%C5%9Biva--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b37b51fc8a55fce3.jpeg>)
 
 This book, Who is the Supreme God: Visnu or Siva? contains the translations of four Sanskrit manuscripts of the 16th and 17th centuries CE authored by Vaisnava, Saiva and Smarta polemicsts in South India arguing out their respective theological positions with great dialectical skill, and with a remarkably encyclopedic knowledge of the Hindu scriptural lore. Vijayendra Tirtha of the Madhva-Vaisnava tradition and Appayya Diksita of the Sivadvaita tradition who are the two main theologians were trenchant opponents who argued out their views, in style, at the court of the Nayaks of Tanjore.
 

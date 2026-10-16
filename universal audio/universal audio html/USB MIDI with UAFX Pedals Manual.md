@@ -125,25 +125,25 @@ Many guitar multi-effect processors can send MIDI messages and MIDI Beat Clock t
 
 This section illustrates various setup configurations with example diagrams.
 
-![uafx-interface.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![uafx-interface.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 
 *Controlling a single UAFX pedal with a MIDI Controller and USB Host MIDI interface*
 
  
 
-![uafx-interface-multi.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![uafx-interface-multi.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 
 *Controlling multiple UAFX pedals with a MIDI Controller, USB Host MIDI interface, and USB hub*
 
  
 
-![uafx-host-controller.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![uafx-host-controller.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 
 *Controlling a single UAFX pedal with a MIDI Controller with built-in USB Host*
 
  
 
-![uafx-host-controller-multi.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![uafx-host-controller-multi.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 
 *Controlling multiple UAFX pedals with a MIDI Controller with built-in USB Host and a USB hub*
 
@@ -183,11 +183,11 @@ When the update is complete, the pedal restarts. After the pedal restarts, UA Co
     **Note:** The pedal's USB-C port can be connected to any type of USB port on the computer, but you may need an adapter.
 2.  Click on the UAFX Pedals tab in UA Connect. The connected pedal is highlighted with a green dot below the pedal name and serial number.
 3.  When an update is available for your pedal, the pedal tile includes an UPDATE banner and the Update button appears in the firmware area.\
-    ![new-firmware.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)\
+    ![new-firmware.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)\
     \
      
 4.  Click the Update button to update your pedal's firmware. Make sure that the pedal remains connected to 9VDC power, and connected via USB to your computer, while the update is in progress.\
-    ![uafx-update-progress.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![uafx-update-progress.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 
 <span id="h_01K9H0KF17EHM81H2H0XJZR1P5"></span>
 
@@ -227,9 +227,9 @@ Specific MIDI channel assignments are especially useful with MIDI CCs. This chan
 1.  Open UAFX Control and tap USB or Bluetooth to get the list of pedals. 
 2.  Tap the pedal tile for the pedal you want to adjust. 
 3.  When the pedal screen opens, tap the MIDI icon in the upper right corner.\
-    ![midi-button-knuckles.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![midi-button-knuckles.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 4.  Tap MIDI Program Change.\
-    ![midi-pc-knuckles.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![midi-pc-knuckles.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 5.  Tap the menu ▾ at the top to open the list of MIDI Program Change channels, then choose Omni, Disabled, or a channel from 1-16. 
 
 The pedal now responds to MIDI PC messages according to your selection.  
@@ -239,10 +239,10 @@ The pedal now responds to MIDI PC messages according to your selection.  
 1.  Open UAFX Control and tap USB or Bluetooth to get the list of pedals. 
 2.  Tap the pedal tile for the pedal you want to adjust. 
 3.  When the pedal screen opens, tap the MIDI icon in the upper right corner.\
-    ![midi-button-knuckles.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![midi-button-knuckles.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 4.  Tap MIDI CC. \
     **Note:** On pedals without presets, the MIDI CC screen opens when you tap the MIDI icon.\
-    ![midi-cc-highlight-knuckles.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![midi-cc-highlight-knuckles.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 5.  Tap the menu ▾ at the top to open the list of MIDI CC channels, then choose Omni, Disabled, or a channel from 1-16. 
 
 The pedal now responds to MIDI CC messages according to your selection.  
@@ -279,7 +279,7 @@ For example, with one MIDI PC message, you can:
 - Load a reverb on Golden
 - Load a delay on Starlight
 
-![multi-program-change.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![multi-program-change.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 
 ## Assigning a preset or Rig to a MIDI PC slot
 
@@ -287,11 +287,11 @@ For example, with one MIDI PC message, you can:
 2.  Tap the pedal tile for the pedal you want to adjust. By default, pedals with presets open to the User Presets screen, and OX Stomp opens to the Rig Assignment screen. On OX Stomp, tap a rig assignment to view the User Rigs screen.
 3.  Tap a preset or Rig category.
 4.  Tap ••• next to a preset or Rig. The Options screen opens. \
-    ![options-assign-pc.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)\
+    ![options-assign-pc.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)\
     \
      
 5.  Tap Assign to PC Slot. The Program Change Slot screen opens. \
-    ![assign-pc-slot.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![assign-pc-slot.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 6.  Select a PC slot where you want to assign the preset or Rig. Drag up and down to scroll the list of PC slots. 
 7.  To bypass the preset when loading the preset or Rig, tap yes on the Bypass Pedal control. 
 8.  Tap Confirm.
@@ -327,23 +327,23 @@ Sending the Program Change or effect selection first allows the pedal to load th
 2.  Tap the pedal tile for the pedal you want to adjust. 
 3.  When the pedal screen opens, tap the MIDI icon in the upper right corner.\
     \
-    ![midi-button-galaxy.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![midi-button-galaxy.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 4.  Tap MIDI CC. \
     **Note:** On pedals without presets, the MIDI CC screen opens when you tap the MIDI icon.
 5.  The list of MIDI CCs appears. Drag to scroll the list. \
-    ![midi-cc-knuckles.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)\
+    ![midi-cc-knuckles.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)\
      
 6.  To assign a MIDI channel for CCs, tap the menu ▾ at the top then choose Omni, Disabled, or a channel from 1-16. 
 
 ## Reassigning a MIDI CC with Learn
 
 1.  Tap a MIDI CC, and tap Learn. \
-    ![midi-cc-seelcted-galaxy.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![midi-cc-seelcted-galaxy.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 2.  The Learn function is activated, and the Listening label appears.\
-    ![midi-cc-listening-galaxy.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![midi-cc-listening-galaxy.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 3.  Send a CC message from your controller (for example, a button tap or controller move).
 4.  The pedal assigns the selected CC to that controller number, and the Assigned label appears.\
-    ![midi-cc-assigned-galaxy.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![midi-cc-assigned-galaxy.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 
 ## Disabling and Resetting MIDI CCs
 
@@ -358,12 +358,12 @@ To disable or reset MIDI CCs, tap a CC, then tap •••. The CC options scree
 - To ignore messages to the CC on this pedal, tap Disable. A disabled CC appears with a dash in the CC number column. 
 - To re-enable a disabled CC, either assign a CC using the Learn function, or reset the CC or all CCs to their factory defaults.
 
-![cc-options-screen.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![cc-options-screen.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 
 - To reset the current CC to the factory default assignment, tap Reset CC to Factory Default. 
 - To reset all CCs on the pedal to their factory defaults, tap Reset ALL CC to Factory Default. 
 - To ignore messages to the CC on this pedal, tap Disable. A disabled CC appears with a dash in the CC number column. \
-  ![galaxy-disabled-cc.png](USB%20MIDI%20with%20UAFX%20Pedals%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+  ![galaxy-disabled-cc.png](../../attachments/usb-midi-with-uafx-pedals-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--83612238fd937005.png)
 - To re-enable a disabled CC, either assign a CC using the Learn function, or reset the CC or all CCs to factory defaults. 
 
 <span class="wysiwyg-font-size-small">v260407</span>

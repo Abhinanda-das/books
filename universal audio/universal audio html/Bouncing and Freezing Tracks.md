@@ -32,12 +32,12 @@ Bounce and Freeze both allow you to save tracks in their current state, to reduc
 - **Consolidation:** Creates individual clips where audio exists unless you choose to "Consolidate" into a single clip.
 
 <figure class="wysiwyg-image">
-![drums-bounce.png](Bouncing%20and%20Freezing%20Tracks_assets/e826d5302900884b96dcf88c8dda9f36acab3c8b.png)
+![drums-bounce.png](../../attachments/bouncing-and-freezing-tracks_assets--e826d5302900884b96dcf88c8dda9f36acab3c8b--87f1e75753349db5.png)
 </figure>
 
 *Multi-out drum plug-in bounce showing silence between clips*
 
-![reverb-tail-bounce.png](Bouncing%20and%20Freezing%20Tracks_assets/1adf8fbea5dece7889dacba7404ddc51c3d37013.png)
+![reverb-tail-bounce.png](../../attachments/bouncing-and-freezing-tracks_assets--1adf8fbea5dece7889dacba7404ddc51c3d37013--9bdaaae7b549af61.png)
 
 *Bounce with reverb tail*
 
@@ -67,7 +67,7 @@ To bounce multiple tracks, select multiple tracks in the session and right-click
 
 To bounce tracks from a multi-out plug-in, select one or more of the multi-out tracks. To bounce all tracks from a multi-out plug-in, you can select all multi-out mixer tracks or the main main multi-out track.
 
-![bounce-multiple.png](Bouncing%20and%20Freezing%20Tracks_assets/3c042e3c8c39ddec6fdc7a2f4b02a94cf2870626.png)
+![bounce-multiple.png](../../attachments/bouncing-and-freezing-tracks_assets--3c042e3c8c39ddec6fdc7a2f4b02a94cf2870626--9193c46b62a22020.png)
 
 *Bouncing multi-out-mixer tracks by selecting main multi-out track*
 
@@ -84,7 +84,7 @@ The range you have selected is bounced.
 
 To open the bounce settings, choose Track \> Bounce Settings from the LUNA menus, or press Option+Command+B (macOS) or Alt+Shift+B (Windows).
 
-![bounce-settings-callouts-2x.png](Bouncing%20and%20Freezing%20Tracks_assets/33d22c52042b66a896ae202ab9197147bfbf0634.png)
+![bounce-settings-callouts-2x.png](../../attachments/bouncing-and-freezing-tracks_assets--33d22c52042b66a896ae202ab9197147bfbf0634--26d071ffb1698a7e.png)
 
 ### Bounce
 
@@ -126,7 +126,7 @@ You can bounce at any of the following points on an audio or instrument track:
 - The API Vision Console extension (which can be ordered before standard insert plug-ins, or in any standard insert plug-in position)
 - Any of the standard insert plug-ins 1-8
 
-![bounce-up-to-points-tracks.png](Bouncing%20and%20Freezing%20Tracks_assets/5d619eaafd1d7e41295358a8a23a2158be52c0de.png)
+![bounce-up-to-points-tracks.png](../../attachments/bouncing-and-freezing-tracks_assets--5d619eaafd1d7e41295358a8a23a2158be52c0de--fbc4442a2d98a0a3.png)
 
 ### Bounce points on a bus track
 
@@ -137,7 +137,7 @@ You can bounce at any of the following points on a bus track:
 - Any of the standard insert plug-ins 1-8
 - The master tape extension (if configured post fader)
 
-![bounce-up-to-buses.png](Bouncing%20and%20Freezing%20Tracks_assets/d330f341000e6ed3b0edbae8df5d12a04cc8ff85.png)
+![bounce-up-to-buses.png](../../attachments/bouncing-and-freezing-tracks_assets--d330f341000e6ed3b0edbae8df5d12a04cc8ff85--e53a035afa9d0fb7.png)
 
 ### To bounce up to a specific point on a track
 
@@ -146,7 +146,7 @@ You can bounce at any of the following points on a bus track:
 
 The track is bounced up to the selected insert point. The new bounced audio track appears, now including the remaining inserts or extensions.
 
-![bounce-to-insert.png](Bouncing%20and%20Freezing%20Tracks_assets/d24f120d5eef0dc3598c39a549f66177dc6c0500.png)
+![bounce-to-insert.png](../../attachments/bouncing-and-freezing-tracks_assets--d24f120d5eef0dc3598c39a549f66177dc6c0500--88b71c2fd89e2401.png)
 
 ## Restoring archived tracks
 
@@ -154,7 +154,7 @@ To restore an archived track, right-click on the track name in the LUNA mixer or
 
 When you restore archived tracks, the bounced tracks are retained.
 
-![restore-bounce-source.png](Bouncing%20and%20Freezing%20Tracks_assets/3cf0eb27b7ea992f4eb197ae40824c6e9286bfee.png)
+![restore-bounce-source.png](../../attachments/bouncing-and-freezing-tracks_assets--3cf0eb27b7ea992f4eb197ae40824c6e9286bfee--4d9a19c533239121.png)
 
 ------------------------------------------------------------------------
 
@@ -162,7 +162,7 @@ When you restore archived tracks, the bounced tracks are retained.
 
 In Timeline view, click the snowflake button in the track controls to freeze a track.
 
-![freeze-button.png](Bouncing%20and%20Freezing%20Tracks_assets/63c4b99940b3606565033b237957ccbbd9706c97.png)
+![freeze-button.png](../../attachments/bouncing-and-freezing-tracks_assets--63c4b99940b3606565033b237957ccbbd9706c97--93bc7837892aac7f.png)
 
 The track is frozen, indicated by the highlighted snowflake button on the track controls and the grayed out appearance of the track and any plug-ins or extensions.
 
@@ -175,11 +175,11 @@ The track now plays back as audio with all instruments recorded to audio, and al
 - You can only freeze or unfreeze a track when the transport is stopped.
 - If a track has no content on the timeline, the Freeze option is not available.
 
-![track-freeze-instrument-tl-callouts.png](Bouncing%20and%20Freezing%20Tracks_assets/736213e7f0b63c53f7022930cf3bad43566dc044.png)
+![track-freeze-instrument-tl-callouts.png](../../attachments/bouncing-and-freezing-tracks_assets--736213e7f0b63c53f7022930cf3bad43566dc044--ed7ff99f77096238.png)
 
 *A frozen instrument track in the timeline*
 
-*![frozen-inst-channel-strip.png](Bouncing%20and%20Freezing%20Tracks_assets/748e7aa6d6b7fe701993dc3257ffc108af0a7461.png)*
+*![frozen-inst-channel-strip.png](../../attachments/bouncing-and-freezing-tracks_assets--748e7aa6d6b7fe701993dc3257ffc108af0a7461--b2eaa36357b1da75.png)*
 
 *A frozen instrument track in the mixer/focus channel*
 
@@ -188,7 +188,7 @@ The track now plays back as audio with all instruments recorded to audio, and al
 - In Timeline view, click the snowflake button on the track controls to freeze the track, or
 - In either Timeline or Mixer view, right-click or Control-click on the track name and choose Freeze.
 
-![freeze-menu.png](Bouncing%20and%20Freezing%20Tracks_assets/575a1d45bea7b8fa335d364b0432b499aaf80679.png)
+![freeze-menu.png](../../attachments/bouncing-and-freezing-tracks_assets--575a1d45bea7b8fa335d364b0432b499aaf80679--e071bfeef3316433.png)
 
 ## To unfreeze a frozen track
 
@@ -210,7 +210,7 @@ You can freeze at any of the following points on an audio or instrument track:
 - The API Vision Console extension (which can be ordered before standard insert plug-ins, or in any standard insert plug-in position)
 - Any of the standard insert plug-ins 1-8
 
-![freeze-up-to-points-tracks.png](Bouncing%20and%20Freezing%20Tracks_assets/24fa81fe104f55e6ed220f2721f154d61c3a1143.png)
+![freeze-up-to-points-tracks.png](../../attachments/bouncing-and-freezing-tracks_assets--24fa81fe104f55e6ed220f2721f154d61c3a1143--dab08594e2b0ba0c.png)
 
 ### Freeze points on a bus track
 
@@ -221,7 +221,7 @@ You can freeze at any of the following points on a bus track:
 - Any of the standard insert plug-ins 1-8
 - The master tape extension (if configured post fader)
 
-![freeze-up-to-points-bus.png](Bouncing%20and%20Freezing%20Tracks_assets/f851fb9c06f07b921859f9583c3f7040f6801a95.png)
+![freeze-up-to-points-bus.png](../../attachments/bouncing-and-freezing-tracks_assets--f851fb9c06f07b921859f9583c3f7040f6801a95--baa063bb9505ab18.png)
 
  
 
@@ -231,7 +231,7 @@ You can freeze at any of the following points on a bus track:
 2.  Click ••• to view the options menu for that item.
 3.  Choose Freeze Up To This Insert.
 
-![freeze-up-to-insert-menu.png](Bouncing%20and%20Freezing%20Tracks_assets/2eec00076231ad2b68fb3190052ae9518910acf4.png)
+![freeze-up-to-insert-menu.png](../../attachments/bouncing-and-freezing-tracks_assets--2eec00076231ad2b68fb3190052ae9518910acf4--b17389a91c598f89.png)
 
 The track is frozen up to the selected insert point. Frozen audio clips appear on the timeline for all audio sections. All frozen plug-ins, instruments, and extensions are grayed out and uneditable. Plug-ins and extensions beyond the freeze point can still be edited.
 
@@ -255,7 +255,7 @@ You can change session time signatures and tempos and frozen tracks will follow 
 
 In the Timeline view, frozen tracks appear as grayed out audio tracks. Instrument tracks show an overlay of the waveform and the MIDI data. When you hover your mouse over a frozen track in the timeline, "Frozen" appears.
 
-![frozen-tracks-appearance.png](Bouncing%20and%20Freezing%20Tracks_assets/43e3b703b34a1ef336bf8acf82f90bfc8d1c64e4.png)
+![frozen-tracks-appearance.png](../../attachments/bouncing-and-freezing-tracks_assets--43e3b703b34a1ef336bf8acf82f90bfc8d1c64e4--58413127d00c4141.png)
 
 Any silent or muted regions of a track are replaced with silence, and not included in the frozen audio clips. Reverb and delay tails are intelligently calculated and included in frozen tracks. 
 
@@ -305,7 +305,7 @@ In the Mixer view, the following functions are disabled and grayed out for instr
 
 In both Mixer and Timeline views, any View items that cannot be edited or automated are shown in the View browser with an F, and you cannot edit or automate these items.
 
-![frozen-view-items.png](Bouncing%20and%20Freezing%20Tracks_assets/59a70e77fd420d69dff0bc8ecc80f2e4a7abe53a.png)
+![frozen-view-items.png](../../attachments/bouncing-and-freezing-tracks_assets--59a70e77fd420d69dff0bc8ecc80f2e4a7abe53a--1f835a943de74869.png)
 
  
 

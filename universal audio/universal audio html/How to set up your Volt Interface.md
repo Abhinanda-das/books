@@ -9,7 +9,7 @@ word_count: 3810
 # How to set up your Volt Interface
 
 
-![volt_logo_black.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/37316259bc72bbeb26690ac760c62868876a4711.png)
+![volt_logo_black.png](../../attachments/how-to-set-up-your-volt-interface_assets--37316259bc72bbeb26690ac760c62868876a4711--42e2eaa03476a8e7.png)
 
 This article explains how to register your Volt, download your software, and redeem your bundled software with the UA Connect app, and how to set up your interface with audio software. These instructions are similar for all Volt audio interface models.
 
@@ -82,7 +82,7 @@ Visit <a href="13178401374612-Getting-Started-with-UA-Connect.html" target="_sel
 You will be prompted to set up and register your Volt. 
 
 <figure class="wysiwyg-image">
-![add-detected-volt.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/fd17390b29a4e505d1c652b57deaa3d27d7e42d1.png)
+![add-detected-volt.png](../../attachments/how-to-set-up-your-volt-interface_assets--fd17390b29a4e505d1c652b57deaa3d27d7e42d1--e57788b0ff3e98f4.png)
 </figure>
 
 ## Adding additional Volt interfaces
@@ -92,12 +92,12 @@ If you are adding additional Volt interfaces to your system, you may need to add
 Click the Volt Interfaces tab, then click Add New Volt to add your new Volt to UA Connect. 
 
 <figure class="wysiwyg-image">
-![add-new-volt.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/d61bd71f33c256e6a867b8107a958026eb18bff4.png)
+![add-new-volt.png](../../attachments/how-to-set-up-your-volt-interface_assets--d61bd71f33c256e6a867b8107a958026eb18bff4--d9e533f4e23b3d68.png)
 </figure>
 
 Connect Volt to your system using the included USB-A to USB-C cable (Volt desktop models) or the included USB-C cable (Volt 876). You can use another appropriate USB 2.0 or higher data cable. Power on your Volt with the power switch.  
 
-![set-up-volt-hardware.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/b32a92e17adca3efa167ed5b375fb486397d7a0a.png)
+![set-up-volt-hardware.png](../../attachments/how-to-set-up-your-volt-interface_assets--b32a92e17adca3efa167ed5b375fb486397d7a0a--1a6c03ca0f8e6579.png)
 
 **Note:** Volt interfaces (except Volt 476, Volt 476P, and Volt 876) are bus powered when connected to ports that meet USB 2.0 specifications. However, some USB ports, such as those on low-quality hubs, don't meet USB specs and cannot supply adequate bus power. If your Volt doesn't power on, connect Volt to external 5VDC power with the included power cable to compensate for the underpowered USB ports.
 
@@ -110,7 +110,7 @@ After you log in and connect and power your Volt, follow the prompts to register
 **Note:** On a PC, you'll install the Volt hardware driver after registration.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![uac-new-volt.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/620a177291d7f1d9d0e55d3343457c5b3787ceb9.png)
+![uac-new-volt.png](../../attachments/how-to-set-up-your-volt-interface_assets--620a177291d7f1d9d0e55d3343457c5b3787ceb9--4bc8ccd887a43aa6.png)
 </figure>
 
 ### PC only: Install driver
@@ -120,7 +120,7 @@ Volt is USB class-compliant and can be used for WDM audio without installing the
 Driver installation is part of the Volt registration process. After you complete the registration on a Windows system, you are prompted to install the Volt hardware driver. Click the Install button to install the hardware driver.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![uac-install-volt-driver.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/e131c0724c3c06f4af52cebce4e02c2b26c68a98.png)
+![uac-install-volt-driver.png](../../attachments/how-to-set-up-your-volt-interface_assets--e131c0724c3c06f4af52cebce4e02c2b26c68a98--9e65d5653a1da6a1.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -129,7 +129,7 @@ Driver installation is part of the Volt registration process. After you complete
 
 After registration (and hardware driver install on a PC), you see the main UA Connect screen. Click the Volt Interfaces link in the left sidebar to display the Volt items in the main area. 
 
-![volt-interfaces-tab.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/c8f1c518045a15bd12bd4c36cc10c85e76b45ff8.png)
+![volt-interfaces-tab.png](../../attachments/how-to-set-up-your-volt-interface_assets--c8f1c518045a15bd12bd4c36cc10c85e76b45ff8--0a043799cee04976.png)
 
 ## Install UAD Console for Volt 876
 
@@ -155,9 +155,9 @@ As an example, the instructions for redeeming the Ableton Live Lite license are 
 
 1.  Open UA Connect.
 2.  Click Volt Interfaces in the left sidebar. The individual titles are displayed in the **Complete Your Volt** and **UAD Partner Software** areas. Scroll the window to see all titles. Click Show More to see a longer list. \
-    ![uac-volt-partner-software.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/25c6b244cc3322683ff17b5a1d57b61353f50743.png)
+    ![uac-volt-partner-software.png](../../attachments/how-to-set-up-your-volt-interface_assets--25c6b244cc3322683ff17b5a1d57b61353f50743--f966947de26f3c68.png)
 3.  In the Live Lite area, click Redeem. The Ableton Live Lite Redeem Software overlay appears. Click Claim Your Code. The screen changes to show your unique registration code for Ableton Live Lite.\
-    ![uac-live-reg-code.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/7b00854e4e8d1f5dba8f8c928484e29e9b3ca30a.png)
+    ![uac-live-reg-code.png](../../attachments/how-to-set-up-your-volt-interface_assets--7b00854e4e8d1f5dba8f8c928484e29e9b3ca30a--d39bbcaa269624f2.png)
 4.  The code is automatically copied to the clipboard.\
     **Tip:** You can also click the code to copy it to your clipboard.
 5.  Click Continue. The ableton.com account creation page opens in your web browser.
@@ -189,7 +189,7 @@ Setting up Volt for system sound allows music players, web browsers, conferencin
 4.  Choose MONITOR L/R (Volt) as the output device. 
 5.  Choose INPUT (Volt) as the input device.
 
-![driver-windows-choose.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/e618a6bea894dd73dac1574c74a805d7d9a12b7a.png)
+![driver-windows-choose.png](../../attachments/how-to-set-up-your-volt-interface_assets--e618a6bea894dd73dac1574c74a805d7d9a12b7a--5e2dd46f4a2be23e.png)
 
 Your system sounds will now play through Volt, and the first input on Volt will be the default audio source. 
 
@@ -207,7 +207,7 @@ We include instructions for configuring Volt as the audio device for Ableton Liv
 4.  Click the Audio tab.
 5.  From the Driver Type menu, select ASIO.
 6.  From the Audio Device menu, select Universal Audio Volt.\
-    ![live-audio-driver-choose-windows.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/d5aa19cdcf5698efc8a95e5432341ad20735b054.png)
+    ![live-audio-driver-choose-windows.png](../../attachments/how-to-set-up-your-volt-interface_assets--d5aa19cdcf5698efc8a95e5432341ad20735b054--62b7bee185c3c454.png)
 7.  Close the Preferences window, and audio I/O setup is complete.
 
 ## Configure inputs for Ableton Live Lite on your Windows PC
@@ -217,12 +217,12 @@ On a Windows PC, you configure audio inputs in the audio app you are using. 
 1.  Start Ableton Live Lite.
 2.  From the Options menu, select Preferences.
 3.  In the Audio Device Channel Configuration area, click Input Config.\
-    ![windows-input-output-config-click.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/14e82a3c19de8abaf53dfc9c55c57d19131d01d1.png)
+    ![windows-input-output-config-click.png](../../attachments/how-to-set-up-your-volt-interface_assets--14e82a3c19de8abaf53dfc9c55c57d19131d01d1--96e1161fb03f972f.png)
 4.  Click to highlight the inputs you want to use with Live. To clear an input, click an input so it is not highlighted. Click OK when you have selected the inputs.\
-    ![live-windows-select-inputs.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/9037975811311c752efc06149d9c0369cada7822.png)
+    ![live-windows-select-inputs.png](../../attachments/how-to-set-up-your-volt-interface_assets--9037975811311c752efc06149d9c0369cada7822--290e257d72ad88ff.png)
 5.  Click Output Config.
 6.  Click to highlight the outputs you want to use with Live. To clear an output, click an output so it is not highlighted. Click OK when you have selected the outputs.\
-    ![live-windows-select-outputs.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/07c1d49d1dfdc3833c1eb6ce9d51aa6772fffa7f.png)
+    ![live-windows-select-outputs.png](../../attachments/how-to-set-up-your-volt-interface_assets--07c1d49d1dfdc3833c1eb6ce9d51aa6772fffa7f--62ee821fe59e2ee8.png)
 7.  Close the Preferences window, and audio I/O setup is complete.
 
 ## Configure Volt audio buffer size in Windows
@@ -236,7 +236,7 @@ Adjust the buffer size to balance low latency with CPU and system performance. T
 ### Configure the audio buffer size for Windows
 
 1.  From the Windows taskbar, click Start, then choose Volt Driver Control Panel. The Volt Driver Control Panel opens.\
-    ![windows-buffer-size-setting.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/a1eb960c4ce7c203463707510e2727a2ce99ec25.png)
+    ![windows-buffer-size-setting.png](../../attachments/how-to-set-up-your-volt-interface_assets--a1eb960c4ce7c203463707510e2727a2ce99ec25--41502c600b4bf934.png)
 2.  Click the Buffer Settings tab.
 3.  Choose the buffer size from the drop menu. 
 4.  Close the Control Panel when you have finished configuring the Volt buffers.
@@ -264,9 +264,9 @@ Because Volt is class-compliant and supports Core Audio, you can immediately use
 5.  To use Volt as your system input device, click Input, and select Volt.
 6.  Click OK to allow microphone access if prompted by macOS.
 
-![audio-macos-choose-intput.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/1a739c4663cacc4ae45e60e2f79ef1f5f62f3a17.png)
+![audio-macos-choose-intput.png](../../attachments/how-to-set-up-your-volt-interface_assets--1a739c4663cacc4ae45e60e2f79ef1f5f62f3a17--f6bd207fd1a1a7a5.png)
 
-![audio-macos-choose-output.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/9b5220ed0543808bf6881d731cb9dc936013fc7c.png)
+![audio-macos-choose-output.png](../../attachments/how-to-set-up-your-volt-interface_assets--9b5220ed0543808bf6881d731cb9dc936013fc7c--af98db597d21663f.png)
 
 Your system sounds will now play through Volt, and the first input on Volt will be the default audio source. 
 
@@ -283,7 +283,7 @@ We include instructions for configuring Volt as the audio device for Ableton Liv
 5.  From the Driver Type menu, select Core Audio. 
 6.  From the Audio Input Device menu, select your Volt. 
 7.  From the Audio Output Device menu, select your Volt.\
-    ![live-audio-buffers.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/4c6d271f1c3327bd8ca5e87eab077c26fd163db8.png)
+    ![live-audio-buffers.png](../../attachments/how-to-set-up-your-volt-interface_assets--4c6d271f1c3327bd8ca5e87eab077c26fd163db8--de953da0762635e6.png)
 8.  Under Latency, set the buffer size, if you want to change it.
 9.  Close the Preferences window. 
 
@@ -298,7 +298,7 @@ Adjust the buffer size to balance low latency with CPU and system performance. T
 - You can monitor audio inputs without latency using Volt's direct monitoring feature. See <a href="#h_01FK42F7B26P3C2Z9TAEAYMYM1" target="_self">Direct Monitoring and Software Monitoring</a> for more information.
 - Ableton Live Lite shows CPU usage in the upper right corner of the screen. You can see the impact of your buffer size changes on the system CPU as you change the buffer size. 
 
-![live-lite-cpu-usage.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/906509a888db6c9482f6a74bc10c91cc640bdcd8.png)
+![live-lite-cpu-usage.png](../../attachments/how-to-set-up-your-volt-interface_assets--906509a888db6c9482f6a74bc10c91cc640bdcd8--784f1b5f888182f0.png)
 
 ## Configure inputs for Ableton Live Lite on macOS
 
@@ -309,12 +309,12 @@ For other audio software, refer to your audio app documentation for information 
 1.  Start Ableton Live Lite.
 2.  From the Live menu, select Preferences.
 3.  In the Audio Device Channel Configuration area, click Input Config.\
-    ![live-macos-input-output-click.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/2941c83fb8f26b655c44f380b806007443e106ea.png)
+    ![live-macos-input-output-click.png](../../attachments/how-to-set-up-your-volt-interface_assets--2941c83fb8f26b655c44f380b806007443e106ea--bf98fa9ba42e0dd1.png)
 4.  Click to highlight the inputs you want to use with Live. To clear an input, click an input so it is not highlighted. Click OK when you have selected the inputs.\
-    ![live-input-select-inputs.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/9b8024d55f0312f5c4c068c08bb566fec2b7d320.png)
+    ![live-input-select-inputs.png](../../attachments/how-to-set-up-your-volt-interface_assets--9b8024d55f0312f5c4c068c08bb566fec2b7d320--74f570a2ace524f1.png)
 5.  Click Output Config.
 6.  Click to highlight the outputs you want to use with Live. To clear an output, click an output so it is not highlighted. Click OK when you have selected the outputs.\
-    ![live-output-select-outputs.png](How%20to%20set%20up%20your%20Volt%20Interface_assets/339fd1675803017dbc105ad6e5f6a10ae5cf2262.png)
+    ![live-output-select-outputs.png](../../attachments/how-to-set-up-your-volt-interface_assets--339fd1675803017dbc105ad6e5f6a10ae5cf2262--5d623b41e8b7c3e7.png)
 7.  Close the Preferences window.
 
 ------------------------------------------------------------------------

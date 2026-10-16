@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/isotva"
 ---
 
-![обложка|156](<ISKCON Songs of the Vaiṣṇava Ācāryas/обложка.jpeg>)
+![обложка|156](<../attachments/iskcon-songs-of-the-vai%E1%B9%A3%E1%B9%87ava-%C4%81c%C4%81ryas--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--16140e81353e824f.jpeg>)
 
 Hymns and mantras for the glorification of Radha and Krishna,which have been collected by Acyutananda Prabhu,the first disciple of Srila Prabhupada, who stayed in India for extended period of time from 1967 and prepared the grounding work for all the other devotees to come later and do a wonderful preaching and spreading of Krishna Consciousness.
 

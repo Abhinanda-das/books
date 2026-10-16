@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg62"
 ---
 
-![обложка|156](<Back to Godhead Magazine #62, 1974/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-62-1974--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f09178cd60eaf8c9.jpeg>)
 
 # Back to Godhead Magazine #62, 1974
 

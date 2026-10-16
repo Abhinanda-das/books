@@ -39,7 +39,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-resized wysiwyg-image-block-align-left" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Evermore%20Studio%20Reverb%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-evermore-studio-reverb-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--992875a28935aa05.png)
 </figure>
 
 Bill Putnam Jr.
@@ -48,7 +48,7 @@ Bill Putnam Jr.
 
 # Evermore Quick Start
 
-![qs-evermore.png](UAFX%20Evermore%20Studio%20Reverb%20Manual_assets/cec9498549f1e5d64d316e83f43d354060e38c1c.png)
+![qs-evermore.png](../../attachments/uafx-evermore-studio-reverb-manual_assets--cec9498549f1e5d64d316e83f43d354060e38c1c--e6372255d87a0799.png)
 
 [**Download Evermore Quick Start**](360058186352-UAFX-Pedal-Downloads.html)
 
@@ -86,7 +86,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 
 To learn how to wire your UAFX pedal, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
-![evermore-rear-panel.png](UAFX%20Evermore%20Studio%20Reverb%20Manual_assets/a78ebab12ef4f605d2925f6d5ff3585cad8da78d.png)
+![evermore-rear-panel.png](../../attachments/uafx-evermore-studio-reverb-manual_assets--a78ebab12ef4f605d2925f6d5ff3585cad8da78d--ba8ef330f8a2a134.png)
 
 ------------------------------------------------------------------------
 
@@ -298,11 +298,11 @@ You can switch predelay on and off for Evermore’s reverb signal using the slid
 
 # Evermore Safety
 
-![safety-symbol-exclaim.png](UAFX%20Evermore%20Studio%20Reverb%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![safety-symbol-exclaim.png](../../attachments/uafx-evermore-studio-reverb-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--b5d11e9b32aac2cc.png)
 
 **Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 250 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20Evermore%20Studio%20Reverb%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![safety-symbol-book-info.png](../../attachments/uafx-evermore-studio-reverb-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--de25f36f5074927c.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -326,7 +326,7 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 (This is Class B equipment. Although this equipment is intended for use in residential environments, it could cause poor reception if used near a radio television receiver. Please follow all instructions in the instruction manual.)
 
-![safety-symbol-trash.png](UAFX%20Evermore%20Studio%20Reverb%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-evermore-studio-reverb-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--ae80f539984803eb.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

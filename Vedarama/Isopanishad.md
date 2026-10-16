@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/iso"
 ---
 
-![обложка|156](<Isopanishad/обложка.jpeg>)
+![обложка|156](<../attachments/isopanishad--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b99bcfd610a3b7ea.jpeg>)
 
 Sri Isopanisad states that everything belongs to the Lord. Everything exists on the energy of the Supreme Lord. This is also confirmed in Bhagavad-gita. Because everything is produced of His energy and exists on His energy, the energy is not different from Him--but still the Lord declares, I am not there.
 

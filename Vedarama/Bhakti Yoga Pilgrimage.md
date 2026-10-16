@@ -138,7 +138,7 @@ Vedanta-Sutra, the Vedanta system analyzes those philosophical thoughts, which a
 
 Fig. 5: A brief overview of Vedic literatures  (Source VTE, see Bibliography)
 
-![рис-001.jpg|600](<Bhakti Yoga Pilgrimage/рис-001.jpg>)
+![рис-001.jpg|600](<../attachments/bhakti-yoga-pilgrimage--%D1%80%D0%B8%D1%81-001--ce0be114bfc75e5f.jpg>)
 
 ## 2. Evaluating - The Yoga Philosophy
 
@@ -172,7 +172,7 @@ Isvara (Paramatma feature) that resides next to us (Fig. 7) That Isvara is the s
 
 Patanjali uses the Sanskrit word citta for what some call “consciousness” and others call “mind.” In the analogy, we compared citta to the appearance of a vast lake disturbed by waves. The term mind does not really cover the meaning of citta, a word derived from the root cit, meaning “to perceive.” Citta includes the idea of consciousness whereas mind refers mainly to functions of the mind, namely thinking, feeling, and willing. Citta stands for both, the lake in the calm condition and the lake agitated by waves.
 
-![рис-002.jpg|342](<Bhakti Yoga Pilgrimage/рис-002.jpg>)
+![рис-002.jpg|342](<../attachments/bhakti-yoga-pilgrimage--%D1%80%D0%B8%D1%81-002--10dbfe78e96f93ba.jpg>)
 
 Fig.7: This is the situation of a person in the phenomenal world. He sees himself in the mirror reflection of the mind, and is thus unaware of the Paramatma, his real friend. The person is forgetful of his identity and selfishly absorbed in the external world, the world of matter.
 
@@ -688,11 +688,11 @@ Om tat sat!
 
 ## Appendix - I: Characteristics of the Modes
 
-![рис-003.jpg|700](<Bhakti Yoga Pilgrimage/рис-003.jpg>)
+![рис-003.jpg|700](<../attachments/bhakti-yoga-pilgrimage--%D1%80%D0%B8%D1%81-003--0ccbd789b7bf5730.jpg>)
 
 ## Appendix - II
 
-![рис-004.jpg|700](<Bhakti Yoga Pilgrimage/рис-004.jpg>)
+![рис-004.jpg|700](<../attachments/bhakti-yoga-pilgrimage--%D1%80%D0%B8%D1%81-004--2cf433815bd7ade5.jpg>)
 
 ## Appendix - III: The "Risikesh" Connection
 

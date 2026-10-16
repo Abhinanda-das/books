@@ -63,7 +63,7 @@ If you do not have an Apollo connected, LUNA automatically starts in Core Audio 
 - At the bottom left of the LUNA screen, click on the info area to open the Audio Settings popover, and choose Apollo or Core Audio.
 
 <figure class="wysiwyg-image">
-![select-apollo-core-audio-in-luna.png](LUNA%20Concepts_assets/4de7d1585bf9cb139c0215f3a516e9d6f4ff600e.png)
+![select-apollo-core-audio-in-luna.png](../../attachments/luna-concepts_assets--4de7d1585bf9cb139c0215f3a516e9d6f4ff600e--a66c04d5a8c72de7.png)
 </figure>
 
 ## ASIO Mode
@@ -77,7 +77,7 @@ If you do not have an Apollo connected, LUNA automatically starts in ASIO mode.
 - At the bottom left of the LUNA screen, click on the info area to open the Audio Settings popover, and choose Apollo or ASIO.
 
 <figure class="wysiwyg-image">
-![apollo-asio-choose.png](LUNA%20Concepts_assets/8d1b865f6751358688cc1e9019b83afa4b357a14.png)
+![apollo-asio-choose.png](../../attachments/luna-concepts_assets--8d1b865f6751358688cc1e9019b83afa4b357a14--bf52ec2c21caea56.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -111,7 +111,7 @@ Previously, with UAD Console, you had to choose whether or not to record insert 
 - Only UAD plug-ins can be monitored on a record-enabled track when Accelerated Realtime Monitoring is enabled. When you enable ARM, any Audio Unit or VST3 plug-ins on a record or input-enabled track are disabled.
 - UADx plug-ins that have UAD-2 equivalents convert automatically to UAD plug-ins when tracks or buses that require UAD processing are put into ARM mode. So, for example, in ARM mode, if your vocal track feeds an ARM-enabled bus with a UADx Pure Plate Reverb inserted, and you record-enable that vocal track, the UADX Pure Plate Reverb is switched out for the UAD-2 Pure Plate Reverb (if you have the plug-in).
 - When you add an Audio Unit or VST3 plug-in to a record or input-enabled track when ARM is enabled, the plug-in is added in an inactive state, and LUNA displays a notification that the plug-in is disabled.\
-  ![add-au-insert-arm.png](LUNA%20Concepts_assets/f43f4f10fcb4ecdd7e8bfb5b14dac1f2b6d8561a.png)
+  ![add-au-insert-arm.png](../../attachments/luna-concepts_assets--f43f4f10fcb4ecdd7e8bfb5b14dac1f2b6d8561a--53a0f957f5830bb8.png)
 - When a track is record or input-enabled in ARM mode, the last four standard inserts are disabled.
 
 ------------------------------------------------------------------------
@@ -155,7 +155,7 @@ LUNA's Multitrack Tape sounds, courtesy of the included Oxide LUNA Extension and
 You can even mix-and-match up to four tape machines total, harnessing different tape formulas, tape speeds, and per-track controls for Bias, Repro, and Tone. It's a tape-head's delight — perfect for gluing together your mixes.
 
 <figure class="wysiwyg-image">
-![tape-channel-expanded-alt.png](LUNA%20Concepts_assets/3f9102e2726fecb798b18ca64400c96fe1b5986e.png)
+![tape-channel-expanded-alt.png](../../attachments/luna-concepts_assets--3f9102e2726fecb798b18ca64400c96fe1b5986e--c2f12c07a4104494.png)
 </figure>
 
 ## Integrated Master Tape
@@ -163,7 +163,7 @@ You can even mix-and-match up to four tape machines total, harnessing different 
 LUNA’s Master Tape sounds are provided by the Ampex ATR-102 Extension, which can be applied on bus tracks and on the Main track. Master Tape allows you to configure separate machines with different presets or settings on each bus and the main track, allowing deep flexibility in the mixing stage. You can set the tape machine as pre or post-fader, configure tape speed, tape head width, and tape formula directly on each bus track and on the main track. From the tape browser, you can configure the record and reproduce level, and configure bias settings, EQ, and enable noise.
 
 <figure class="wysiwyg-image">
-![master-tape-action-alt.png](LUNA%20Concepts_assets/5fc0a20e8b3e63758cf638a1155f65fe572ae7d3.png)
+![master-tape-action-alt.png](../../attachments/luna-concepts_assets--5fc0a20e8b3e63758cf638a1155f65fe572ae7d3--38010c7bed75c993.png)
 </figure>
 
 ## Console Summing
@@ -171,7 +171,7 @@ LUNA’s Master Tape sounds are provided by the Ampex ATR-102 Extension, which c
 LUNA includes optional Neve® Summing and API Summing LUNA Extensions. These extensions impart the sound and feel of meticulously modeled consoles into the fabric of the LUNA mixer, on bus tracks and the Main track. Console Summing LUNA Extensions change the behavior and appearance of the LUNA buses and Main track to display accurate fader tapers. When you route tracks to a bus with a summing model enabled, the fader tapers of the bus or Main track and the source tracks change.
 
 <figure class="wysiwyg-image">
-![summing-bus-source-track-taper.png](LUNA%20Concepts_assets/078f75ed3b8b9413a79ea7efe391780340b7effc.png)
+![summing-bus-source-track-taper.png](../../attachments/luna-concepts_assets--078f75ed3b8b9413a79ea7efe391780340b7effc--ff9632fcaa86a381.png)
 </figure>
 
 ### Built-in Neve® Summing
@@ -180,7 +180,7 @@ A major ingredient behind thousands of influential, chart-topping records, Neve 
 
 Developed in partnership with AMS Neve exclusively for LUNA Recording System, the Neve Summing Extension emulates the entire summing circuit of an iconic Neve 80 series console — including its coveted 1272 bus amplifiers — giving your LUNA mixes all the color of Neve's most cherished analog desk.
 
-![neve-summing.png](LUNA%20Concepts_assets/ee701184de8938b6615eac8aa04cf0d259ee1861.png)
+![neve-summing.png](../../attachments/luna-concepts_assets--ee701184de8938b6615eac8aa04cf0d259ee1861--f51ac077f36cac77.png)
 
 ### Built-in API Summing
 
@@ -188,13 +188,13 @@ The sound behind five decades of landmark albums, API consoles are legend for go
 
 Developed in partnership with API, exclusively for LUNA Recording System, the API Summing Extension emulates the 2520 op-amp and custom output transformers found in legendary API consoles over the past 50 years — giving your LUNA mixes all the attitude and tone of API's esteemed analog desks.
 
-![api-summing-overview.png](LUNA%20Concepts_assets/5d174c91f16c2f1c451416eb4d4c11e8aaae53f4.png)
+![api-summing-overview.png](../../attachments/luna-concepts_assets--5d174c91f16c2f1c451416eb4d4c11e8aaae53f4--da7a3fdb1a17b83e.png)
 
 ## API Vision Console Emulation
 
 The API Vision Console Emulation Bundle turns LUNA into a full API console. Track in real time through API preamp and channel modules (in Apollo mode only), then mix with API's illustrious analog summing and bus compression — seamlessly switching between low-latency tracking using Apollo DSP (Apollo mode only), and high-powered native mixing within LUNA. You can create new audio, instrument, and bus tracks with API Vision Console elements pre-assigned, building sessions within the complete Vision console emulation experience.
 
-![api-vision-console-overview.png](LUNA%20Concepts_assets/4d98a52e9d592465548b33cd13ca269221d09eee.png)
+![api-vision-console-overview.png](../../attachments/luna-concepts_assets--4d98a52e9d592465548b33cd13ca269221d09eee--69f0c7a1358995c2.png)
 
 ## About LUNA Extensions documentation
 
@@ -219,7 +219,7 @@ The Shape and Spitfire Audio UAD instruments are exclusive to LUNA Recording Sys
 A comprehensive creative toolkit included free with LUNA, Shape is a painstakingly curated UAD Instrument featuring a collection of the best vintage keys, drums/percussion, guitar/bass, orchestral content, and real time synthesis - courtesy of Universal Audio, Spitfire Audio, Orange Tree Samples, Loops de la Creme, and more. You can expand Shape with more content and sample packs.
 
 <figure class="wysiwyg-image">
-![shape-new.png](LUNA%20Concepts_assets/6abf7e17b734a4cd3274342a1d63f81c6cfceeb4.png)
+![shape-new.png](../../attachments/luna-concepts_assets--6abf7e17b734a4cd3274342a1d63f81c6cfceeb4--568aae633b56f71d.png)
 </figure>
 
 ## About UAD instruments documentation
@@ -288,13 +288,13 @@ In LUNA, many operations open a Focus Browser at the left of the screen. For exa
 The default view of the Focus Browser shows Tracks, Plug-Ins, and Presets in a tabbed view. For more information, see [Using LUNA](360041440592-Using-LUNA.html) .
 
 <figure class="wysiwyg-image">
-![tracks-browser-callouts.png](LUNA%20Concepts_assets/0a259e947f142d4f7ee19cf1078179b2f772b23c.png)
+![tracks-browser-callouts.png](../../attachments/luna-concepts_assets--0a259e947f142d4f7ee19cf1078179b2f772b23c--fc39477fca40068a.png)
 </figure>
 
 With a Focus Browser, you typically make a choice. For example, you choose an input to use for a track, or a preset to use with a plug-in.
 
 <figure class="wysiwyg-image">
-![general-browser-callouts-2x.png](LUNA%20Concepts_assets/36b71fdbad12f1ca0e62079bc33c4e8651617c54.png)
+![general-browser-callouts-2x.png](../../attachments/luna-concepts_assets--36b71fdbad12f1ca0e62079bc33c4e8651617c54--8f99a0603ca18d0b.png)
 </figure>
 
 ## Expanding and collapsing folders in the Focus Browser
@@ -309,7 +309,7 @@ To expand or collapse a folder in a Focus Browser, click the folder name. For ex
 
 Workflows provide common editing, arranging, and navigation commands on a toolbar that you can open under the main LUNA control bar.
 
-![workflows-switch.png](LUNA%20Concepts_assets/685bd4a4629ab7b958baa48c4578f9eaa39487ac.png)
+![workflows-switch.png](../../attachments/luna-concepts_assets--685bd4a4629ab7b958baa48c4578f9eaa39487ac--f60ed9f99aa4c4d0.png)
 
 For more information about workflows, see <a href="360041440592-Using-LUNA.html#using-workflows" target="_self">Using Workflows</a> .
 

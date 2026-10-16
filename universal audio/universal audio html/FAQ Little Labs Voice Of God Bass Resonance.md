@@ -24,7 +24,7 @@ Yes! Little Labs Voice Of God Bass Resonance is added to the roster of plug-ins 
 Those who purchased the Voice Of God plug-in before the native version launched (April 2, 2026) are entitled to claim the UAD Native version for only **\$2.99** following the steps below:
 
 1.  If you are entitled to this offer, navigate to the <a href="https://www.uaudio.com/products/little-labs-voice-of-god" rel="noopener noreferrer" target="_blank">Little Labs Voice Of God Bass Resonance</a> product page and select the **Upgrade** option to add to your cart.\
-    ![1_VoG_Upgrade.png](FAQ%20Little%20Labs%20Voice%20Of%20God%20Bass%20Resonance_assets/6474a1ba5d80768a40b13cc6486e1d944fa8f366.png)
+    ![1_VoG_Upgrade.png](../../attachments/faq-little-labs-voice-of-god-bass-resonance_assets--6474a1ba5d80768a40b13cc6486e1d944fa8f366--f08f1220c64934c0.png)
 2.  Click the **Add to Cart** button to add the **Upgrade** license to your cart, then go through the checkout process when you are ready to make the purchase.
 3.  On the checkout page, the **\$2.99** price should be reflected to indicate you are purchasing the UAD Native license upgrade.
 4.  Click the **Checkout** button at the bottom of the page to go through with the purchase and enter the requested payment information.

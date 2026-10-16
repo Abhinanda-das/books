@@ -137,7 +137,7 @@ Contents
 ## **Introducing Auto-Tune Realtime X** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0005-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0005-03--aed29d7e652b1fa6.png)
 
 
 ## **What is Auto-Tune Realtime X?** 
@@ -169,7 +169,7 @@ Contents
 ## **Undo** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0007-04.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0007-04--71d9a6bc5310a6c8.png)
 
 
 Click the **Undo** button to reverse your most recent edit, up to 99 steps. 
@@ -177,7 +177,7 @@ Click the **Undo** button to reverse your most recent edit, up to 99 steps.
 ## **Redo** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0007-07.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0007-07--522410d175340699.png)
 
 
 Click the **Redo** button to restore the most recently undone edit. 
@@ -185,7 +185,7 @@ Click the **Redo** button to restore the most recently undone edit.
 ## **Settings** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0007-10.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0007-10--2d92462ac8a29bef.png)
 
 
 The **Settings** button opens the Settings and Preferences Menu. 
@@ -193,7 +193,7 @@ The **Settings** button opens the Settings and Preferences Menu.
 ## **Bypass** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0007-13.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0007-13--2ce466344170aa4e.png)
 
 
 Click the **Bypass** button to disable Auto-Tune Realtime X in your DAW. When bypassed, the Bypass button will appear de-illuminated. 
@@ -201,7 +201,7 @@ Click the **Bypass** button to disable Auto-Tune Realtime X in your DAW. When by
 ## **Tracking** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0007-16.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0007-16--2270d1400f1a9f8b.png)
 
 
 In order to accurately identify the pitch of the input, Auto-Tune Realtime X requires a periodically repeating waveform, characteristic of a solo voice or solo, non-chordal instrument. 
@@ -221,7 +221,7 @@ Contents
 ## **Input Type** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0008-05.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0008-05--51dc80d695e9e8a5.png)
 
 
 Auto-Tune Realtime X offers a selection of processing algorithms optimized for different types of audio. **Input Type** options include: 
@@ -237,7 +237,7 @@ Auto-Tune Realtime X offers a selection of processing algorithms optimized for d
 For the most accurate pitch detection and correction, choose the Input Type that best describes your audio. 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0008-12.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0008-12--2a426d16b4a140f4.png)
 
 
 After selecting an Input Type, a blue stripe on the top edge of the Keyboard will highlight the notes contained in the selected input type. 
@@ -249,7 +249,7 @@ While playing audio, the notes on the onscreen keyboard will also light up in bl
 ## **Key** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0008-17.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0008-17--d787bc9fffbdf1e8.png)
 
 
 The **Key** menu allows you to select the key of the track you plan to process. The Key setting is used in combination with the Scale setting to determine the set of notes that the audio will be tuned to. 
@@ -261,7 +261,7 @@ Contents
 ## **Scale** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0009-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0009-03--08e323c233b4b975.png)
 
 
 The **Scale** selection is used in combination with the Key selection to define the scale of the track you plan to process. 
@@ -273,7 +273,7 @@ Another option is to set the Scale parameter to Chromatic, which will cause Auto
 ## **Auto-Key** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0009-08.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0009-08--63e4082d075db54c.png)
 
 
 The **Auto-Key** button enables Auto-Tune Realtime X to receive Key and Scale information from the Auto-Key desktop plug-in or mobile app. 
@@ -293,7 +293,7 @@ Contents
 ## **Modern/Classic Mode Toggle** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0010-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0010-03--f81c9f77fc2dd928.png)
 
 
 **Classic Mode** simulates an early Auto-Tune algorithm, and results in the fan favorite “Auto-Tune 5 sound.” 
@@ -313,7 +313,7 @@ Contents
 ## **Detune** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0011-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0011-03--f4dd1b28f0173228.png)
 
 
 The **Detune** parameter allows you to change the pitch reference of Auto-Tune Realtime X from the default A = 440Hz. This is useful when working with an instrument or track that uses a different reference frequency. 
@@ -323,7 +323,7 @@ Values can be displayed in Cents or Hertz (you can specify this in the Settings 
 ## **Mix Knob** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0011-07.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0011-07--facc63ab61041e41.png)
 
 
 The **Mix Knob** adjusts the balance of processed and unprocessed signals. Turn the knob to 0 to hear only the unprocessed signal. At 100, you will only hear the processed signal. 
@@ -337,7 +337,7 @@ Contents
 ## **Basic View Controls** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0012-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0012-03--dc0791079f602131.png)
 
 
 Auto-Tune Realtime X features two different interface views. Basic View, shows you only the most commonly used controls, such as the Retune Speed, Humanize, and Flex-Tune knobs. 
@@ -351,7 +351,7 @@ Contents
 ## **Advanced** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0013-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0013-03--9131caa6a8c3fdbe.png)
 
 
 Click on the **Advanced** tab to toggle between Basic View and Advanced View. 
@@ -359,7 +359,7 @@ Click on the **Advanced** tab to toggle between Basic View and Advanced View.
 After opening Advanced View, select whether to adjust the Vibrato or Scale controls. 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0013-06.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0013-06--69aed1a5dcc1fefd.png)
 
 
 Basic View only shows the most commonly used controls, while Advanced View shows all available controls, including the Vibrato, Scale, and MIDI controls. 
@@ -369,7 +369,7 @@ Switching back to Basic View from Advanced View will hide the advanced controls,
 ## **Retune Speed** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0013-10.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0013-10--82e9a2c2a305fb5c.png)
 
 
 **Retune Speed** controls how rapidly the pitch correction is applied to the incoming audio. _(Units are in milliseconds.)_ 
@@ -389,7 +389,7 @@ Contents
 ## **Flex-Tune** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0014-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0014-03--debb2ac68c1bfaa3.png)
 
 
 The **Flex-Tune** control allows you to preserve a singer's expressive vocal gestures, while still correcting an out of tune vocal. 
@@ -401,7 +401,7 @@ As you move the control toward higher values, the correction area around the sca
 ## **Humanize** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0014-08.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0014-08--9f5ab944e5caded7.png)
 
 
 The **Humanize** function allows you to add realism to sustained notes when using fast retune speeds. 
@@ -421,7 +421,7 @@ Contents
 ## **Natural Vibrato** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0015-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0015-03--4c4f69eb2fa92127.png)
 
 
 The **Natural Vibrato** control allows you to either increase or diminish the range of vibrato that is already present in your audio. 
@@ -431,7 +431,7 @@ If you want to create _new_ vibrato where it does not already exist, use the Vib
 ## **Pitch Display and Pitch Change Meter** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0015-07.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0015-07--22c0028e1dbc1010.png)
 
 
 ## **Pitch Display** 
@@ -459,7 +459,7 @@ Contents
 ## **The Keyboard** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0016-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0016-03--11f5558cfb98a2e0.png)
 
 
 The **Keyboard** has three primary functions: 
@@ -477,7 +477,7 @@ The Keyboard is only enabled when using scales that have exactly 12 notes. If yo
 ## **On** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0016-11.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0016-11--234046828dcb3276.png)
 
 
 When a note on the Keyboard is **On** , the keys will appear white or black (depending on which note it is), and input pitches that are closest to that note will be tuned to it. 
@@ -485,7 +485,7 @@ When a note on the Keyboard is **On** , the keys will appear white or black (dep
 ## **Bypass** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0016-14.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0016-14--89c3af3a85bb9cb4.png)
 
 
 When a note on the Keyboard is set to **Bypass** , it will appear orange, and input pitches that are closest to that note will be passed through with no correction. 
@@ -501,7 +501,7 @@ Contents
 ## **Remove** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0017-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0017-03--683399b9805c67ce.png)
 
 
 When a note on the Keyboard is set to **Remove** , it will appear grey, and any incoming pitches that are closest to that note will be tuned to the next closest scale note instead. 
@@ -515,7 +515,7 @@ _**Note** : Command/Control Click any key on the keyboard to reset all the keys 
 ## **Keyboard Edit** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0017-09.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0017-09--d1a76ae7d3cb0803.png)
 
 
 When the **Keyboard Edit** switch is set to Remove, clicking on a key in the Keyboard will toggle it between Remove and On. 
@@ -525,7 +525,7 @@ When it’s set to Bypass, clicking on a key will toggle it between Bypass and O
 ## **Latch** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0017-13.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0017-13--d98c165194b9e3c8.png)
 
 
 When the Keyboard Mode switch is set to **Latch** , clicking a key on the Keyboard will change its state, and will retain the new state after being clicked. 
@@ -539,7 +539,7 @@ Contents
 ## **Advanced View Controls** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0018-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0018-03--8c3a6902bbcf5bc3.png)
 
 
 Auto-Tune Realtime X features two different interface views: Basic View, which shows you only the most commonly used controls, and **Advanced View** , which includes all of the available controls. Advanced View is organized into two separate tabs for Vibrato Controls and Scale Controls. 
@@ -555,7 +555,7 @@ Contents
 ## **Vibrato Controls** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0019-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0019-03--29f2279154da7f13.png)
 
 
 The **Vibrato Controls** allow you to add a custom synthesized vibrato to your audio. Use them sparingly to add a touch of natural-sounding expression to a performance, or more aggressively for dramatic special effects. 
@@ -563,7 +563,7 @@ The **Vibrato Controls** allow you to add a custom synthesized vibrato to your a
 ## **Shape** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0019-06.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0019-06--34bf93507d19acd1.png)
 
 
 The **Shape** menu allows you to choose the shape of the pitch modulation for your vibrato. 
@@ -593,7 +593,7 @@ Contents
 ## **Rate** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0020-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0020-03--68a69783fb3d182d.png)
 
 
 The **Rate** control sets the speed of the vibrato in Hz. 
@@ -601,7 +601,7 @@ The **Rate** control sets the speed of the vibrato in Hz.
 ## **Delay** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0020-06.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0020-06--141c4af692d9882a.png)
 
 
 **Delay** sets the amount of time (in milliseconds) between the beginning of a note and the onset of vibrato. 
@@ -611,7 +611,7 @@ This control is useful for sustained notes where you want the beginning of the n
 ## **Onset Rate** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0020-10.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0020-10--400ddf888cba40c9.png)
 
 
 **Onset Rate** sets the amount of time (in milliseconds) between the onset of vibrato and the point at which the vibrato reaches the full amounts set in the Pitch, Amplitude and Formant Amount settings. 
@@ -619,7 +619,7 @@ This control is useful for sustained notes where you want the beginning of the n
 ## **Variation** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0020-13.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0020-13--836e8e6b72f16bd6.png)
 
 
 **Variation** sets the amount of random variation that will be applied to the Rate and Amount parameters on a note to note basis. This setting is useful for “humanizing” the vibrato by adding random deviations in the behavior of the vibrato. 
@@ -627,7 +627,7 @@ This control is useful for sustained notes where you want the beginning of the n
 ## **Pitch Amount** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0020-16.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0020-16--87626fe849ee7ddd.png)
 
 
 **Pitch Amount** sets the width of the vibrato in cents. 
@@ -639,7 +639,7 @@ Contents
 ## **Amplitude Amount** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0021-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0021-03--24a11e3b8e674d41.png)
 
 
 **Amplitude Amount** sets the amount that the loudness changes. 
@@ -649,7 +649,7 @@ For the most realistic vibrato, the amount of amplitude change should be substan
 ## **Formant Amount** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0021-07.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0021-07--4a5104e0e3249bf7.png)
 
 
 **Formant Amount** sets the amount of formant variation in the vibrato. 
@@ -661,7 +661,7 @@ Contents
 ## **Scale Controls** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0022-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0022-03--4e71ce01fc1bcf40.png)
 
 
 The **Scale Controls** are used to create custom scales or to modify any of the preset scales selected in the Scale menu. It shows each of the notes of the currently selected scale, along with a Bypass and Remove button for each note. 
@@ -673,7 +673,7 @@ Changes made to the Scale Controls affect _all_ octaves of each note in the scal
 ## **Bypass** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0022-08.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0022-08--4be02a8c59b95e7d.png)
 
 
 If a note is set to **Bypass** , input pitches that are closest to that note will be passed through with no correction. 
@@ -687,7 +687,7 @@ Contents
 ## **Remove** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0023-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0023-03--1aa340c29c87276f.png)
 
 
 If a note is set to **Remove** , then that note is removed from the current scale, and any incoming pitches that are closest to it will be tuned to the next closest scale note instead. 
@@ -699,7 +699,7 @@ Remove is also useful in cases where a singer might be singing a pitch that is s
 ## **Cents** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0023-08.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0023-08--7480531a209fc9fe.png)
 
 
 The number under each note in the **Cents** row is that note’s interval, in cents, from the root note of the scale. 
@@ -707,7 +707,7 @@ The number under each note in the **Cents** row is that note’s interval, in ce
 ## **Set Major/Set Minor** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0023-11.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0023-11--d026fc8fa9ccaaee.png)
 
 
 The **Set Major** and **Set Minor** buttons allow you to quickly generate a major or minor scale from any scale with more than 7 notes, by automatically removing the notes that don’t belong to the major or (natural) minor scale. 
@@ -715,7 +715,7 @@ The **Set Major** and **Set Minor** buttons allow you to quickly generate a majo
 ## **Set All** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0023-14.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0023-14--6686727af50127eb.png)
 
 
 The **Set All** button sets all of the notes of the current scale to on, in both the Scale Controls and the Keyboard. This is a quick way to return the scale to its default setting. 
@@ -727,7 +727,7 @@ Contents
 ## **Bypass All** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0024-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0024-03--e6597aec47ac026e.png)
 
 
 **Bypass All** sets all notes in the current scale to Bypass. 
@@ -735,7 +735,7 @@ Contents
 ## **Remove All** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0024-06.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0024-06--ad95b93e4d965e1d.png)
 
 
 **Remove All** sets all notes in the current scale to Remove. 
@@ -743,7 +743,7 @@ Contents
 ## **Ignore Vibrato** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0024-09.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0024-09--80acc38786b9d03c.png)
 
 
 The **Ignore Vibrato** function is designed to help Auto-Tune identify pitches correctly when a performance includes vibrato so wide that it approaches adjacent notes (e.g if a singer is singing a C with a vibrato so wide that it is sometimes closer to a C#). 
@@ -757,7 +757,7 @@ Contents
 ## **MIDI Functions** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0025-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0025-03--509e369105068eeb.png)
 
 
 There are two **MIDI Functions** in the Scale Controls tab for handling incoming MIDI note data: To Notes and Learn Scale. You can also use a MIDI controller to adjust many Auto-Tune Realtime X parameters in real time. 
@@ -773,7 +773,7 @@ The procedure for routing MIDI to an audio plug-in will vary depending on what D
 ## **To Notes** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0025-10.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0025-10--ca8e9d93fd64014f.png)
 
 
 With **MIDI: To Notes** , you can perform a melody in real time on a MIDI keyboard, or play it from a MIDI track, and Auto-Tune Realtime X will tune your audio to whatever MIDI notes are on at any given time. 
@@ -789,7 +789,7 @@ Contents
 ## **Learn Scale** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0026-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0026-03--9d61c3a7b6105ea2.png)
 
 
 The **MIDI: Learn Scale** function allows you to play a melody or chords from a MIDI keyboard or MIDI track and have Auto-Tune construct a custom scale for you containing only those notes. 
@@ -801,7 +801,7 @@ If no MIDI note-on messages are received, the audio will pass through without be
 ## **All Octaves** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0026-08.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0026-08--7e33eb43ec060fe1.png)
 
 
 If **All Octaves** is on, any incoming MIDI notes will affect all octaves of each note. Otherwise, they will only affect the notes in the specific octaves in which they are played. 
@@ -819,7 +819,7 @@ Contents
 ## **Settings and Preferences** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0027-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0027-03--8e06dcd720403589.png)
 
 
 ## **Preferences...** 
@@ -843,7 +843,7 @@ Contents
 ## **General Preferences** 
 
 
-![](Auto-Tune+Realtime+X+Manual_assets/Auto-Tune+Realtime+X+Manual.pdf-0028-03.png)
+![](../../attachments/auto-tune-realtime-x-manual_assets--auto-tune-realtime-x-manual.pdf-0028-03--b5235bd1785165bb.png)
 
 
 ## **Appearance** 

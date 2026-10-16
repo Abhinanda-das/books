@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/robk"
 ---
 
-![обложка|156](<Record of Buddhistic Kingdoms {English]/обложка.jpeg>)
+![обложка|156](<../attachments/record-of-buddhistic-kingdoms-english--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--70dbbe218a61c25e.jpeg>)
 
 1877\. The narrative of a most extraordinary journey by a Buddhist priest named Fa Hsien who travels from China through India to Ceylon, on to Sumatra and back to China by sea; his object being to obtain copies of the Sacred Books of Buddhism for the further enlightenment of his fellow countrymen at home.
 

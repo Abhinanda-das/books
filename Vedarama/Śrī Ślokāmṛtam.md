@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ss-bng"
 ---
 
-![обложка|156](<Śrī Ślokāmṛtam/обложка.jpeg>)
+![обложка|156](<../attachments/%C5%9Br%C4%AB-%C5%9Blok%C4%81m%E1%B9%9Btam--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--6333234c5ef7bdf3.jpeg>)
 
 Śrī Ślokāmritam is a rich treasure of sublime verses from the ancient wisdom tradition of India, called the Vedic scriptures. It is full of deep spiritual, metaphysical and philosophical insights which are as relevant to our present times as it was thousands of years ago. It is also poetic and genuinely expressive of heart-felt sentiments we all share as humans and as spiritual beings aspiring for the perfection of eternal happiness and love. Coming in the Bhakti Yoga tradition, this is one of the best śloka (verse) books ever. It contains about 2500 verses from famous Vedic literatures such as the Bhagavad-Gita, Srimad Bhagavatam and Sri Caitanya-caritamrita.
 

@@ -10,10 +10,10 @@ word_count: 2501
 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo-2x.png](Volt%201%20Hardware%20Manual_assets/b2e07d9f98bd482d78e2f34150c53b0aec7da872.png)
+![volt-logo-2x.png](../../attachments/volt-1-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--3a2366a604b0f003.png)
 </figure>
 
-![volt-1-photo.png](Volt%201%20Hardware%20Manual_assets/ca85711ff863fa3f2f27dd98c61481ff25d7329a.png)
+![volt-1-photo.png](../../attachments/volt-1-hardware-manual_assets--ca85711ff863fa3f2f27dd98c61481ff25d7329a--a150fbfb045add21.png)
 
 This article contains complete instructions for Volt 1 hardware controls and connections.
 
@@ -55,7 +55,7 @@ At UA, we're dedicated to the idea that technology should serve the creative pro
 Please feel free to reach out to us via our website [www.uaudio.com](https://www.uaudio.com) and our social media channels. We look forward to hearing from you, and thank you once again for choosing Universal Audio.
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](Volt%201%20Hardware%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/volt-1-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--e519c9792fbbb6e6.png)
 </figure>
 
 Bill Putnam, Jr.
@@ -118,7 +118,7 @@ Use this diagram to identify the features on the Volt front panel.
 
 </div>
 
-![volt-1-front-callouts.png](Volt%201%20Hardware%20Manual_assets/89629b8096b9186fde0647707c2fbd62103d4fe1.png)
+![volt-1-front-callouts.png](../../attachments/volt-1-hardware-manual_assets--89629b8096b9186fde0647707c2fbd62103d4fe1--212a4ab9a32bf727.png)
 
 ### (1) XLR/TRS combo input 
 
@@ -220,7 +220,7 @@ Use this diagram to identify the features on the Volt rear panel.
 
 </div>
 
-![volt-1-rear-callouts.png](Volt%201%20Hardware%20Manual_assets/cc9598e78cb833d215764cb40fc61559fcdf6d7f.png)
+![volt-1-rear-callouts.png](../../attachments/volt-1-hardware-manual_assets--cc9598e78cb833d215764cb40fc61559fcdf6d7f--445e126b0d7c2f10.png)
 
 The rear panel is used to make audio output connections, the USB connection to the computer, and MIDI connections.
 

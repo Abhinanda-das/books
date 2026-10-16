@@ -13,7 +13,7 @@ The native UAD Dream '65 Reverb Amplifier plug-in gives you the essential Americ
 
 Based on our award-winning UAFX pedal, the Dream '65 plug-in perfectly captures the timeless sound and feel of a "golden unit" 1965 reverb amp, with its bold cleans, sweet tube breakup, and divine spring reverb and vibrato. 
 
-![](Dream%20%2765%20Reverb%20Amp%20Manual_assets/867126654dcd81d6b8cb7819daa15ca23912ae68.png)
+![](../../attachments/dream-65-reverb-amp-manual_assets--867126654dcd81d6b8cb7819daa15ca23912ae68--a6909912f811c93e.png)
 
 ## In this article
 
@@ -92,7 +92,7 @@ The speaker cabinet appears on the right of the Dream '65 plug-in. Click the cab
 
 For details about the speakers, see [Dream '65 Speaker Cabinets](#h_01J9NAWBCPJG012VJWEKXVZSRM).
 
-![dream-cab-callouts-2x.png](Dream%20%2765%20Reverb%20Amp%20Manual_assets/f5e10a9cf9b95a53fc402f5a530c853e72f606f1.png)
+![dream-cab-callouts-2x.png](../../attachments/dream-65-reverb-amp-manual_assets--f5e10a9cf9b95a53fc402f5a530c853e72f606f1--e27a5ecef3ee345a.png)
 
 ## Bright / Normal
 

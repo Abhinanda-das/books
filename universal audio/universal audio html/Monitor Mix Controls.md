@@ -11,7 +11,7 @@ word_count: 1755
 
 The monitor mix controls within each input channel strip are for adjusting the signals at Apollo’s monitor outputs.
 
-![](Monitor%20Mix%20Controls_assets/694993f423ab4229f8115c7afeb552b06ca9fec4.png)
+![](../../attachments/monitor-mix-controls_assets--694993f423ab4229f8115c7afeb552b06ca9fec4--6f5ad0982549ef35.png)
 
 *The Monitor Mix Controls*
 
@@ -23,7 +23,7 @@ This control adjusts the input’s position in the stereo panorama of the monito
 
 When the input is stereo linked, two pan knobs appear for the channel enabling independent panning for both the left and right channels. When stereo link is activated, the default position of the dual pan knobs are hard left/right.
 
-![](Monitor%20Mix%20Controls_assets/4ff84daf938724d87983b1d5b4c21a30392c0024.png)
+![](../../attachments/monitor-mix-controls_assets--4ff84daf938724d87983b1d5b4c21a30392c0024--b3f68599b35328d7.png)
 
 *Pan with channels unlinked (left) and linked (right)*
 
@@ -35,7 +35,7 @@ Solo mutes all input signals, except for any inputs in solo mode. Solo is used t
 
 Click the switch to toggle the solo state. The channel is in solo mode when its solo switch is highlighted in yellow. Note that activating mute has no effect if the channel is in solo mode.
 
-![](Monitor%20Mix%20Controls_assets/be2fb45f14242e60e5960eb8f501dcafde4ac300.png)
+![](../../attachments/monitor-mix-controls_assets--be2fb45f14242e60e5960eb8f501dcafde4ac300--671aa46ff5d745ec.png)
 
 *Inactive solo and mute switches*
 
@@ -69,7 +69,7 @@ The input fader’s current setting is displayed beneath the input meter. 
 
 **Tip:** Double-click the fader setting to open the volume popover. To specify a fader value, type the value, then click OK.
 
-![](Monitor%20Mix%20Controls_assets/b1d2fdbba693700137df1f756d6181efce11ed7e.png)
+![](../../attachments/monitor-mix-controls_assets--b1d2fdbba693700137df1f756d6181efce11ed7e--8e3314469cd3e12d.png)
 
 # Copy Mix
 
@@ -77,11 +77,11 @@ All channel fader and pan values for all inputs (the entire monitor mix) can be 
 
 To copy the monitor mix to a send mix bus, right-click (or Ctrl-click) any channel fader to display the copy mix menu, then select a destination bus for the mix.
 
-![](Monitor%20Mix%20Controls_assets/ef53e124b75ed04c7f766972b36c7c9f1c090a2e.png)
+![](../../attachments/monitor-mix-controls_assets--ef53e124b75ed04c7f766972b36c7c9f1c090a2e--3b86ac077b540357.png)
 
 # Input Meter
 
-![](Monitor%20Mix%20Controls_assets/96418e4ea3f9b46255b61c64aae49c223b7a6a8b.png)
+![](../../attachments/monitor-mix-controls_assets--96418e4ea3f9b46255b61c64aae49c223b7a6a8b--bfdc81ab6f97c638.png)
 
 Pre/Post metering preference
 
@@ -91,7 +91,7 @@ The input meter displays the signal level of the channel after UAD plug-in proce
 
 You can also set pre-fader or post-fader metering by right-clicking/Ctrl-clicking in the meter display, and choosing Pre-Fader or Post-Fader under Metering.
 
-![](Monitor%20Mix%20Controls_assets/23b4dbe283058678439c4de7cbb5dd8f78a89e76.png)
+![](../../attachments/monitor-mix-controls_assets--23b4dbe283058678439c4de7cbb5dd8f78a89e76--4d0fa7d2c419445e.png)
 
  
 
@@ -109,7 +109,7 @@ The input meters also have a peak hold feature, which holds signal peak values f
 
 The Rename/Link popover is used for customizing input labels and stereo linking adjacent channels. Click the channel name at the bottom of the UAD Console window to open the popover for a channel or linked pair. 
 
-![](Monitor%20Mix%20Controls_assets/a909fbc7d5741afd86031cdf64e90a37e0fb72d3.png)
+![](../../attachments/monitor-mix-controls_assets--a909fbc7d5741afd86031cdf64e90a37e0fb72d3--f3b1e967fa6dfe2b.png)
 
 *The Rename/Link popover*
 
@@ -117,13 +117,13 @@ The Rename/Link popover is used for customizing input labels and stereo linking 
 
 The input labels are displayed beneath the channel’s fader and meter. Each label can be customized for convenient input identification. By default, the name of the Apollo hardware input.
 
-![](Monitor%20Mix%20Controls_assets/2d01bc1e4624c601fe732726fceb3f5feff30882.png)
+![](../../attachments/monitor-mix-controls_assets--2d01bc1e4624c601fe732726fceb3f5feff30882--98b8c0bfa35d4052.png)
 
 Input labels showing several customized input names
 
 ## Input Label Menu
 
-![](Monitor%20Mix%20Controls_assets/40b99433b88c524ed5c0370761518f738fddc017.png)
+![](../../attachments/monitor-mix-controls_assets--40b99433b88c524ed5c0370761518f738fddc017--962aa9140a4e7cff.png)
 
 The Input Label Menu contains the same functions as the Rename/Link window, and also the ability to hide the input from view, Isolate the channel, and load Channel Presets. To display the Input Label Menu, right-click or Control-click any Input Label.
 
@@ -159,10 +159,10 @@ UAD Console can hide any input channel strip from view. This feature reduces the
 
 1.  Either choose “Show/Hide Channels” from the View Menu, or use the keyboard shortcut (Mac: ⌘+I or Win: Ctrl+I). Modifier icons appear on all Input Labels (see [Mixer Navigation Modifiers](https://help.uaudio.com/hc/en-us/articles/25348282201364) for related details).
 2.  Click or swipe across the Input Labels. The modifier toggles between green and gray. The input will be shown when its modifier is green, and hidden when gray.\
-    ![](Monitor%20Mix%20Controls_assets/2c5a47545312e8414bc85765e4f7522415c98fd2.png)
+    ![](../../attachments/monitor-mix-controls_assets--2c5a47545312e8414bc85765e4f7522415c98fd2--6ee0d346caaed836.png)
 3.  Click the DONE switch in the Mixer Navigation area, or use the keyboard shortcut (Mac: ⌘+I or Win: Ctrl+I). The inputs with gray modifiers are hidden. To bring hidden inputs back into view, repeat the procedure.
 
-![](Monitor%20Mix%20Controls_assets/7cdd4026c6e659327913c3c144558aab8cea5f41.png)
+![](../../attachments/monitor-mix-controls_assets--7cdd4026c6e659327913c3c144558aab8cea5f41--0cf3ab29b760f68b.png)
 
 ## Show/Hide Input Notes
 
@@ -173,7 +173,7 @@ UAD Console can hide any input channel strip from view. This feature reduces the
 
 # Stereo Link
 
-![](Monitor%20Mix%20Controls_assets/06970b712a6abca6e757eefc83d4135d724f05be.png)
+![](../../attachments/monitor-mix-controls_assets--06970b712a6abca6e757eefc83d4135d724f05be--b29a4b22d665e320.png)
 
 Adjacent channels (1+2, 3+4, etc) can be linked to create stereo input pairs. When channels are linked as a stereo pair, any control adjustments will affect both channels of the stereo signal identically.
 
@@ -187,7 +187,7 @@ Adjacent channels (1+2, 3+4, etc) can be linked to create stereo input pairs. Wh
 
 |  |  |
 |----|----|
-| ![channels-unlinked.png](Monitor%20Mix%20Controls_assets/176af6f5e0fd34c876f7c43fd7b0191299b329a6.png) | ![channels-linked.png](Monitor%20Mix%20Controls_assets/27fc0b38364dcca3c96e581200daa3245b15b8f3.png) |
+| ![channels-unlinked.png](../../attachments/monitor-mix-controls_assets--176af6f5e0fd34c876f7c43fd7b0191299b329a6--7f18ada2838b6588.png) | ![channels-linked.png](../../attachments/monitor-mix-controls_assets--27fc0b38364dcca3c96e581200daa3245b15b8f3--47b9b58c62314f9d.png) |
 
 </div>
 

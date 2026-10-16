@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rupa-brs3"
 ---
 
-![обложка|156](<Bhakti-Rasamrta-Sindhuh [Trans. BON MAHARAJA]/обложка.jpeg>)
+![обложка|156](<../attachments/bhakti-rasamrta-sindhuh-trans.-bon-maharaja--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f34d639ac1afbdf6.jpeg>)
 
 # Bhakti-Rasamrta-Sindhuh \[Trans. BON MAHARAJA\]
 

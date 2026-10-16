@@ -15,7 +15,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vct-svt2"
 ---
 
-![обложка|156](<Sārārtha-varṣiṇi-ṭīkā/обложка.jpeg>)
+![обложка|156](<../attachments/s%C4%81r%C4%81rtha-var%E1%B9%A3i%E1%B9%87i-%E1%B9%AD%C4%ABk%C4%81--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9bf68717c4e7d98b.jpeg>)
 
 The title literally means “the commentary which showers the essential meaning”. His commentary explains the Gita from the perspective of pure bhakti defined by Sri Rupa Gosvami as uttama bhakti, emphasizing the sweetness and mercy of Krsna as svayam bhagavan above all else, and expounding the philosophy of acintya bhedabheda of Caitanya Mahaprabhu.
 

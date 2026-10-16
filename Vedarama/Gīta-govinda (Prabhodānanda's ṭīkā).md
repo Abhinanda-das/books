@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gg-pd"
 ---
 
-![обложка|156](<Gīta-govinda (Prabhodānanda's ṭīkā)/обложка.jpeg>)
+![обложка|156](<../attachments/g%C4%ABta-govinda-prabhod%C4%81nanda-s-%E1%B9%AD%C4%ABk%C4%81--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--09404d817c0f0552.jpeg>)
 
 Śrī-gīta-govinda-vyākhyāna of Prabhodānanda Sarasvatī. Bhanu Swami’s translation.
 

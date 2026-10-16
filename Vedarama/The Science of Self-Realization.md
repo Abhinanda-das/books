@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ssr"
 ---
 
-![обложка|156](<The Science of Self-Realization/обложка.jpeg>)
+![обложка|156](<../attachments/the-science-of-self-realization--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--bf8cbb04fe9f7a4b.jpeg>)
 
 This collection of articles by Srila Prabhupada from Back to Godhead magazine covers knowledge of the soul and the practice of bhakti-yoga.
 

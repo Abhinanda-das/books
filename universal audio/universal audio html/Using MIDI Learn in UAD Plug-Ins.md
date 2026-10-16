@@ -29,16 +29,16 @@ The basic process for mapping a plug-in or instrument control to a physical cont
 
 The MIDI indicator illuminates when a controller is being moved, to confirm that the plug-in or instrument is receiving input from your MIDI controller and ready to learn.
 
-![](Using%20MIDI%20Learn%20in%20UAD%20Plug-Ins_assets/16904106bd290b6819612f6b416b93da39d6508d.gif)
+![](../../attachments/using-midi-learn-in-uad-plug-ins_assets--16904106bd290b6819612f6b416b93da39d6508d--d401d71f2f3dc917.gif)
 
 ## Create a MIDI mapping
 
 1.  In a UAD plug-in or UAD instrument, click **MIDI Learn** in the top bar. The message "Touch a control to begin" appears.\
-    ![](Using%20MIDI%20Learn%20in%20UAD%20Plug-Ins_assets/1fd3cab2e194733aedd7b9fec0763dbe029747d0.png)
+    ![](../../attachments/using-midi-learn-in-uad-plug-ins_assets--1fd3cab2e194733aedd7b9fec0763dbe029747d0--077a51490410e706.png)
 2.  Touch a plug-in control to map. In this example, the Feedback knob is touched.\
-    ![](Using%20MIDI%20Learn%20in%20UAD%20Plug-Ins_assets/30c5c277b4960a6da45e6701904f2868e383ffca.png)
+    ![](../../attachments/using-midi-learn-in-uad-plug-ins_assets--30c5c277b4960a6da45e6701904f2868e383ffca--1ddbd456025a6ed9.png)
 3.  Move a knob or slider on your controller. The MIDI controller is instantly mapped to the plug-in control. In this example, CC 36 is moved and now controls Feedback.\
-    ![](Using%20MIDI%20Learn%20in%20UAD%20Plug-Ins_assets/3b34020247dc3ce0f153b55aaff478d008c76e36.png)
+    ![](../../attachments/using-midi-learn-in-uad-plug-ins_assets--3b34020247dc3ce0f153b55aaff478d008c76e36--d60e720887a40128.png)
 
 Repeat these steps to map additional controls. Each control is instantly mapped and saved with the plug-in.
 
@@ -60,11 +60,11 @@ You can clear a MIDI mapping by clicking the control, or by using the Options me
 
 To clear a MIDI mapping, simply click **MIDI Learn**, click the control that is mapped in the plug-in, then click the X to the left of the CC.
 
-![](Using%20MIDI%20Learn%20in%20UAD%20Plug-Ins_assets/d417469b3a3a977a4021c33a40ff47699b21334c.png)
+![](../../attachments/using-midi-learn-in-uad-plug-ins_assets--d417469b3a3a977a4021c33a40ff47699b21334c--5042f20e46237e19.png)
 
 ### View your custom MIDI mappings from the Options menu
 
-![](Using%20MIDI%20Learn%20in%20UAD%20Plug-Ins_assets/468ffb7adfac6665862d3f0b22220900cb746663.png)
+![](../../attachments/using-midi-learn-in-uad-plug-ins_assets--468ffb7adfac6665862d3f0b22220900cb746663--ff88b6d53ecde888.png)
 
 To clear MIDI mappings from the Options menu, click ••• in the plug-in toolbar.
 

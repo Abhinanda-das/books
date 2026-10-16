@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vct-brsb1"
 ---
 
-![обложка|156](<Bhakti-rasāmṛta-sindhu-bindu [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/bhakti-ras%C4%81m%E1%B9%9Bta-sindhu-bindu-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f231983f76444699.jpeg>)
 
 A drop from the nectarean ocean of devotion
 

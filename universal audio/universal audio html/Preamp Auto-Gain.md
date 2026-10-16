@@ -13,7 +13,7 @@ Auto-Gain automatically adjusts gain on Apollo’s preamp inputs (mic, line, and
 
 **Note:** To get the most accurate levels for guitar amp and bass amp plug-ins, do not use Auto-Gain to set gain levels on electric guitar Hi-Z inputs. Set preamp gain at the minimum level when using the Hi-Z inputs with amp plug-ins.
 
-![](Preamp%20Auto-Gain_assets/e433c8d08e7aa62d55a624abf27c2f3f1ff06354.png)
+![](../../attachments/preamp-auto-gain_assets--e433c8d08e7aa62d55a624abf27c2f3f1ff06354--a4bb7c57dde3f2c1.png)
 
 # Auto-Gain Requirements
 
@@ -31,7 +31,7 @@ Auto-Gain is available on all Apollo X Gen 2 preamp channels, including rack and
 
 1.  On any preamp channel, press the Auto-Gain button under the gain knob. The Auto-Gain floating window opens.\
     \
-        ![](Preamp%20Auto-Gain_assets/749a7d028a3ad4f414490acc3f51ef7fdbb20781.png)\
+        ![](../../attachments/preamp-auto-gain_assets--749a7d028a3ad4f414490acc3f51ef7fdbb20781--88b8c9f51039e7a0.png)\
      
 2.  By default, Auto-Gain listens and adjusts levels for 10 seconds. To increase or decrease the duration by ±5 seconds, press the -5 or +5 buttons. You can adjust the duration while Auto-Gain is listening.
 3.  To detect gain levels, press the Start button and input your audio source at its loudest level. Auto-Gain is adjusted during or after listening, depending on the Apply Gain option under Show More.
@@ -47,7 +47,7 @@ In the Auto-Gain floating window, click Show More to see all Auto-Gain options.
 
 **Tip:** To return Duration, Listening Threshold, and Peak Target to their default values, Option-click (macOS) or Alt-click (Windows).
 
-![](Preamp%20Auto-Gain_assets/fd5b4de7dcf7fcdf8694fa743f474bb89ccb943f.png)
+![](../../attachments/preamp-auto-gain_assets--fd5b4de7dcf7fcdf8694fa743f474bb89ccb943f--fb2c4ca8a5f6122c.png)
 
 ### Duration
 

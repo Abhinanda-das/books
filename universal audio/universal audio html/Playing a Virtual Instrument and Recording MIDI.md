@@ -33,7 +33,7 @@ An instrument track can combine a UAD Instrument, Audio Unit, or VST3 instrument
 
 <div class="wysiwyg-text-align-center" collection="contentId-194707780" context-id="194707780" file-mime-type="image/png" file-name="midi-track-assignments.png" file-size="56723" data-height="232" data-id="bba341b5-45ef-4bb5-9b27-7b8e3c685e20" node-type="media" data-type="file" data-width="397" title="Attachment">
 
-![midi-track-assignments.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/b73b55eac91333107002cbade6e4c5f58a497fa5.png)
+![midi-track-assignments.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--b73b55eac91333107002cbade6e4c5f58a497fa5--f173005cce2feddb.png)
 
 </div>
 
@@ -75,7 +75,7 @@ On an instrument track in the Mixer or on an instrument track Focused in the Tim
 
 <div class="wysiwyg-text-align-center" collection="contentId-194707780" context-id="194707780" file-mime-type="image/png" file-name="midi-in-selecting.png" file-size="107745" data-height="420" data-id="5cba6c8b-e65f-4726-a2ce-478b851604dd" node-type="media" data-type="file" data-width="419" title="Attachment">
 
-![midi-in-selecting.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/3ccae0400bcc2752127384b91579446be75f0f17.png)
+![midi-in-selecting.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--3ccae0400bcc2752127384b91579446be75f0f17--958203fe740e97c2.png)
 
 </div>
 
@@ -101,7 +101,7 @@ When you enable MIDI Keyboard Mode, you can enter MIDI notes when monitoring or 
 
 <div class="wysiwyg-text-align-center" collection="contentId-194707780" context-id="194707780" file-mime-type="image/png" file-name="workflows-switch-midi.png" file-size="8528" data-height="103" data-id="bf9af3d0-4f20-46ac-bd88-153e607e9418" node-type="media" data-type="file" data-width="90" title="Attachment">
 
-![workflows-switch-midi.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/80c2ccd816cccfbd93c7e08212615d2184c5e9a8.png)
+![workflows-switch-midi.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--80c2ccd816cccfbd93c7e08212615d2184c5e9a8--97d2c44a2a4144a2.png)
 
 </div>
 
@@ -115,7 +115,7 @@ When you enable MIDI Keyboard Mode, you can enter MIDI notes when monitoring or 
 
 <div class="wysiwyg-text-align-center" collection="contentId-194707780" context-id="194707780" file-mime-type="image/png" file-name="workflows-switch-midi.png" file-size="8528" data-height="103" data-id="bf9af3d0-4f20-46ac-bd88-153e607e9418" node-type="media" data-type="file" data-width="90" title="Attachment">
 
-![midi-keyboard-mode.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/5299f1a301af674dccd4f6639cfa6c721e2f510d.png)
+![midi-keyboard-mode.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--5299f1a301af674dccd4f6639cfa6c721e2f510d--797ad4e7a74f0e6d.png)
 
 </div>
 
@@ -169,7 +169,7 @@ When you record on an instrument track in Apollo mode on macOS, ARM mode sets th
     **Note:** If you do not record-enable one or more tracks, any selected tracks are recorded when you start recording.\
     \
     \
-    ![record-input-enable.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/201203f5db123b3b97b7dcc3b2247b16930f9077.png)\
+    ![record-input-enable.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--201203f5db123b3b97b7dcc3b2247b16930f9077--564808fb30958705.png)\
      
 
 8.  If you are using UAD plug-ins in the Record FX or standard inserts on the instrument track, enable ARM mode for the lowest possible latency.
@@ -243,11 +243,11 @@ Before you record, decide whether you want to use <a href="#h_c062522f-a221-45ff
 
 1.  Click within the track or in a ruler above the tracks to place the playhead where you want to start recording.\
     \
-    ![midi-record-cursor.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/8206929d9ab6d728aa99599ef4244eb1c82c9e56.png)\
+    ![midi-record-cursor.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--8206929d9ab6d728aa99599ef4244eb1c82c9e56--3a386c6dc269e3ad.png)\
      
 2.  To use Pre-roll (listen to the existing track for a specified period of time before you start recording), Option+click to the left of the playhead on the Bars and Beats ruler.\
     \
-    ![qs-option-click-pre-roll.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/2681847a0d39857736125cc8bcd08e3798f10c2a.png)\
+    ![qs-option-click-pre-roll.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--2681847a0d39857736125cc8bcd08e3798f10c2a--55c3a9fffeb7e5a6.png)\
      
 3.  Record-enable the MIDI track.\
     **Note:** If you do not record-enable one or more tracks, any selected tracks are recorded when you start recording.
@@ -256,7 +256,7 @@ Before you record, decide whether you want to use <a href="#h_c062522f-a221-45ff
 
  
 
-<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">![midi-overdub-merge.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/3f9d926b094c664649fe5649679a96ff35f600db.png) </span>
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">![midi-overdub-merge.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--3f9d926b094c664649fe5649679a96ff35f600db--873e94418a4a864e.png) </span>
 
  
 
@@ -266,9 +266,9 @@ Before you record, decide whether you want to use <a href="#h_c062522f-a221-45ff
 
 1.  Hovering the cursor over the bottom solid-colored border of the audio clip, click and drag to make a selection. The selection snaps to the grid, if Snap is enabled.\
     \
-    ![midi-selection.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/8f79319d5536c186ebf8cd44734874a50df56b56.png)
+    ![midi-selection.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--8f79319d5536c186ebf8cd44734874a50df56b56--11cd545fa9253566.png)
 2.  To use Pre-roll (listen to the existing track for a specified period of time before you start recording) Option+Click to the left of the playhead on the Bars and Beats ruler. To set post-roll, Option+Click to the right of the selection on the Bars and Beats ruler.\
-    ![qs-option-click-pre-roll.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/2681847a0d39857736125cc8bcd08e3798f10c2a.png)\
+    ![qs-option-click-pre-roll.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--2681847a0d39857736125cc8bcd08e3798f10c2a--55c3a9fffeb7e5a6.png)\
      
 3.  Record-enable the track.\
     **Note:** If you do not record-enable one or more tracks, any selected tracks are recorded when you start recording.
@@ -282,7 +282,7 @@ Before you record, decide whether you want to use <a href="#h_c062522f-a221-45ff
 
 <div collection="contentId-194707780" context-id="194707780" file-mime-type="image/png" file-name="midi-loop-recording.png" file-size="12509" data-height="108" data-id="b09a74c8-4740-41ad-a954-066eddf4a1ae" node-type="media" data-type="file" data-width="354" title="Attachment">
 
-![midi-loop-recording.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/d42bc1b4a8508b45764581fa00294c2c0ae289cb.png)
+![midi-loop-recording.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--d42bc1b4a8508b45764581fa00294c2c0ae289cb--996d1de5e6f64955.png)
 
 </div>
 
@@ -307,11 +307,11 @@ On a MIDI track, takes are separate from track versions. You can switch between 
 1.  Select Transport \> MIDI Merge.
 2.  Make a MIDI selection and click the Loop Play / Record button.\
     \
-    ![transport-loop-enabled.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/81916c20a09e55f39c69d566bb5bc1c5134f4aa2.png)\
+    ![transport-loop-enabled.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--81916c20a09e55f39c69d566bb5bc1c5134f4aa2--13b8839c309074ef.png)\
      
 3.  Record your source. As the loop plays, you can record additional notes with each pass.\
     \
-    ![midi-loop-recording-merge.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/9f6ebb3c70fa6d35a369fb0497667ba697486e62.png)\
+    ![midi-loop-recording-merge.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--9f6ebb3c70fa6d35a369fb0497667ba697486e62--c5cf2ef5a356fda5.png)\
      
 4.  To switch between Versions or Takes, click the Version or Take. 
 
@@ -325,7 +325,7 @@ On a MIDI track, takes are separate from track versions. You can switch between 
 
 <div collection="contentId-194707780" context-id="194707780" file-mime-type="image/png" file-name="qs-midi-versions-takes.png" file-size="50515" data-height="114" data-id="6465cf65-d691-46b6-b1ae-4fb1209684c3" node-type="media" data-type="file" data-width="498" title="Attachment">
 
-![qs-versions-takes.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/000eb086419bc31b4ea9a5b3c4d5e2ac6e822c51.png)
+![qs-versions-takes.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--000eb086419bc31b4ea9a5b3c4d5e2ac6e822c51--acf5c5fd19cfe335.png)
 
 </div>
 
@@ -346,10 +346,10 @@ On a MIDI track, takes are separate from track versions. You can switch between 
 1.  Deselect Transport \> MIDI Merge.
 2.  Make a MIDI selection and click the Loop Play / Record button.\
     \
-    ![transport-loop-enabled.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/81916c20a09e55f39c69d566bb5bc1c5134f4aa2.png)
+    ![transport-loop-enabled.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--81916c20a09e55f39c69d566bb5bc1c5134f4aa2--13b8839c309074ef.png)
 3.  Record your source. As the loop plays, you replace the previous recording with each pass.\
     \
-    ![midi-loop-record-no-merge.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/f61c81656a566e8ec01168c1aa08bf45df69b8ca.png)\
+    ![midi-loop-record-no-merge.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--f61c81656a566e8ec01168c1aa08bf45df69b8ca--2c713c82f97c5e3a.png)\
      
 4.  To switch between Versions and Takes, click the Version or Take.
 
@@ -363,7 +363,7 @@ On a MIDI track, takes are separate from track versions. You can switch between 
 
 <div collection="contentId-194707780" context-id="194707780" file-mime-type="image/png" file-name="qs-midi-versions-takes.png" file-size="50515" data-height="114" data-id="6465cf65-d691-46b6-b1ae-4fb1209684c3" node-type="media" data-type="file" data-width="498" title="Attachment">
 
-![qs-versions-takes.png](Playing%20a%20Virtual%20Instrument%20and%20Recording%20MIDI_assets/000eb086419bc31b4ea9a5b3c4d5e2ac6e822c51.png)
+![qs-versions-takes.png](../../attachments/playing-a-virtual-instrument-and-recording-midi_assets--000eb086419bc31b4ea9a5b3c4d5e2ac6e822c51--acf5c5fd19cfe335.png)
 
 </div>
 

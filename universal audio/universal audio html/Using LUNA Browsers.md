@@ -26,7 +26,7 @@ From the Other Views popover, click Tracks, then Focus to show the Focus Browser
 
 <div class="wysiwyg-text-align-center">
 
-![other-views.png](Using%20LUNA%20Browsers_assets/fb5368394515bf223054253f76fe7d3cd44c7d24.png)
+![other-views.png](../../attachments/using-luna-browsers_assets--fb5368394515bf223054253f76fe7d3cd44c7d24--f66fd2c017a364df.png)
 
 </div>
 
@@ -59,7 +59,7 @@ Some Focus Browsers allow more choices. For example, when you click a Send on a 
 
 <div class="wysiwyg-text-align-center">
 
-![apply-to-send-options.png](Using%20LUNA%20Browsers_assets/f447e358bbff79c16a6d2f49de5ec57c886d204a.png)
+![apply-to-send-options.png](../../attachments/using-luna-browsers_assets--f447e358bbff79c16a6d2f49de5ec57c886d204a--68d6c4da2dd0a8b0.png)
 
 </div>
 
@@ -75,11 +75,11 @@ In the tracks browser, you can accomplish several track management tasks. In the
 
 Click the plus "+" symbol to create a track. You can create audio, instrument, or bus tracks, or a track preset.
 
-![tracks-browser-callouts.png](Using%20LUNA%20Browsers_assets/0a259e947f142d4f7ee19cf1078179b2f772b23c.png)
+![tracks-browser-callouts.png](../../attachments/using-luna-browsers_assets--0a259e947f142d4f7ee19cf1078179b2f772b23c--8cd4875b2677eced.png)
 
 Click the ••• menu or right-click on a track to open the tracks menu.
 
-![tracks-browser-menu.png](Using%20LUNA%20Browsers_assets/b1735a8d8016b919ed3434c599e6f6402298a300.png)
+![tracks-browser-menu.png](../../attachments/using-luna-browsers_assets--b1735a8d8016b919ed3434c599e6f6402298a300--9356ea0a0a8b341f.png)
 
 From this menu you can:
 
@@ -116,7 +116,7 @@ The Plug-Ins tab shows all plug-ins and instruments in LUNA, and allows you to q
 - To search for a plug-in by name, click in the search bar and begin typing. Press Return to add a plug-in returned by the search.
 - Use the up and down arrow keys to navigate the list of plug-ins. To add a plug-in when navigating the list, double-click the plug-in or press the Return key.
 
-![plug-in-browser-callouts-2x.png](Using%20LUNA%20Browsers_assets/c96f189995e67f6f456274c7a5b693b638b78c52.png)
+![plug-in-browser-callouts-2x.png](../../attachments/using-luna-browsers_assets--c96f189995e67f6f456274c7a5b693b638b78c52--eb4ccc9dcc4d6d69.png)
 
 <div layout="center" node-type="mediaSingle" prosemirror-content-type="node" prosemirror-node-block="true" prosemirror-node-name="mediaSingle" data-width="673" width-type="pixel">
 
@@ -139,7 +139,7 @@ When you hover with your mouse over plug-ins and instruments in the list, the AD
 - Double-click or click ADD to add the plug-in to the current track. Plug-ins are added in the next available plug-in slot.
 - Double-click or click NEW to add a new track with the instrument plug-in instantiated.
 
-![add-create-plug-in.png](Using%20LUNA%20Browsers_assets/7d35dbd26d23bfdf6c70a8c8edb3cc7b65d6cbc6.png)
+![add-create-plug-in.png](../../attachments/using-luna-browsers_assets--7d35dbd26d23bfdf6c70a8c8edb3cc7b65d6cbc6--608bd5d9f0b863f0.png)
 
 ## Dragging plug-ins
 
@@ -151,7 +151,7 @@ You can drag a plug-in from the Plug-Ins browser to a specific channel, or to a 
 
   <div>
 
-  ![drag-plug-in-to-channel.png](Using%20LUNA%20Browsers_assets/03f9828666f66cf1b3abf92e1f563f69b6b07cbb.png)
+  ![drag-plug-in-to-channel.png](../../attachments/using-luna-browsers_assets--03f9828666f66cf1b3abf92e1f563f69b6b07cbb--a02cd4ada87acbb0.png)
 
   </div>
 
@@ -161,11 +161,11 @@ You can drag a plug-in from the Plug-Ins browser to a specific channel, or to a 
 
 - To drag a plug-in to a specific insert slot, drag the plug-in to the slot on the focus channel or in the mixer. Note that if you drag the plug-in to a slot that is already occupied, the plug-in replaces the current plug-in in that slot.
 
-![drag-replace-plug-in.png](Using%20LUNA%20Browsers_assets/c80ae2fba9c89ca3f8ed7123076c1477d5e1ec0a.png)
+![drag-replace-plug-in.png](../../attachments/using-luna-browsers_assets--c80ae2fba9c89ca3f8ed7123076c1477d5e1ec0a--5fe8818331702f58.png)
 
 *Dragging a plug-in over an existing plug-in (replace)*
 
-![drag-empty-slot-plug-in.png](Using%20LUNA%20Browsers_assets/79e71506ed3d84d7309806481f3a324bbb77a6d6.png)
+![drag-empty-slot-plug-in.png](../../attachments/using-luna-browsers_assets--79e71506ed3d84d7309806481f3a324bbb77a6d6--2ddf7721ab9f79bb.png)
 
 *Dragging a plug-in to an empty slot*
 
@@ -179,7 +179,7 @@ Track Presets are settings that you save in LUNA, which you can use to create ne
 - For Instrument presets, you can select tag categories (Genre, Type, Description, or All) and tags. You can click a tag to or remove it from the list. Presets are filtered as you add and remove tags.
 - In the preset list, you can Option+Click to expand or close all preset folders.
 
-![preset-browser-callouts-2x.png](Using%20LUNA%20Browsers_assets/3f97505f375f7cf5fd25b0202b54e9fd7ec79ef4.png)
+![preset-browser-callouts-2x.png](../../attachments/using-luna-browsers_assets--3f97505f375f7cf5fd25b0202b54e9fd7ec79ef4--5eda385c6a501652.png)
 
 ## What is saved in a track preset
 
@@ -240,7 +240,7 @@ You can assign track settings from a track preset to existing tracks in your ses
 
     <div>
 
-    ![preset-assign-menu.png](Using%20LUNA%20Browsers_assets/884757f4a4d3b28d35e6e67a3ab20af4d5488bf8.png)
+    ![preset-assign-menu.png](../../attachments/using-luna-browsers_assets--884757f4a4d3b28d35e6e67a3ab20af4d5488bf8--1f7afbaaea62a969.png)
 
     </div>
 
@@ -252,7 +252,7 @@ You can assign track settings from a track preset to existing tracks in your ses
 
     <div class="wysiwyg-text-align-left">
 
-    ![preset-browser-assign-2x.png](Using%20LUNA%20Browsers_assets/f61caa501318a078e4c3c71c14be0deca514a1c4.png)
+    ![preset-browser-assign-2x.png](../../attachments/using-luna-browsers_assets--f61caa501318a078e4c3c71c14be0deca514a1c4--6c6d2be0ca5ab56e.png)
 
     </div>
 

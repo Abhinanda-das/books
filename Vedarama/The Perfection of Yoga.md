@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/poy"
 ---
 
-![обложка|156](<The Perfection of Yoga/обложка.jpeg>)
+![обложка|156](<../attachments/the-perfection-of-yoga--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--13c7585285526d23.jpeg>)
 
 Perfection of Yoga addresses many common misconceptions about the purpose and goal of the yoga system. One of the most popular introductory books on the science and practice of Krishna consciousness, Perfection of Yoga was originally presented before a live audience as a lecture on the sixth chapter of the Bhagavad-gita by Srila Prabhupada in September of 1966 in New York City.
 

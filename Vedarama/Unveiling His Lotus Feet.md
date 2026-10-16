@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bjd-lf"
 ---
 
-![обложка|156](<Unveiling His Lotus Feet/обложка.jpeg>)
+![обложка|156](<../attachments/unveiling-his-lotus-feet--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--18db85eefa98731a.jpeg>)
 
 In this book, Bhurijana dasa has woven together the Bhagavatam’s potent verses with Srila Prabhupada’s powerful purports. He has then added many extraordinary comments from our previous acaryas, Visvanatha Cakravarti, Sridhara Swami, and Jiva Goswami.
 

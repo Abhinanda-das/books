@@ -7,7 +7,7 @@ word_count: 1550
 ---
 
 
-![](<ADA STD-1 Stereo Tapped Delay Manual_assets/ADA_STD-1_Stereo_Tapped_Delay_Manual.pdf-0001-00.png>)
+![](<../../attachments/ada-std-1-stereo-tapped-delay-manual_assets--ada_std-1_stereo_tapped_delay_manual.pdf-0001-00--42115cc875282081.png>)
 
 
 # P L U G - I N  M A N U A L | ADA STD-1 
@@ -34,19 +34,19 @@ word_count: 1550
 
 
 
-![](<ADA STD-1 Stereo Tapped Delay Manual_assets/ADA_STD-1_Stereo_Tapped_Delay_Manual.pdf-0002-03.png>)
+![](<../../attachments/ada-std-1-stereo-tapped-delay-manual_assets--ada_std-1_stereo_tapped_delay_manual.pdf-0002-03--b14a4f7c59a4ded4.png>)
 
 
 Physically Modelled Bucket Brigade Delay Unit Developed under license by Brainworx GmbH Germany for Universal Audio. 
 
 
-![](<ADA STD-1 Stereo Tapped Delay Manual_assets/ADA_STD-1_Stereo_Tapped_Delay_Manual.pdf-0002-05.png>)
+![](<../../attachments/ada-std-1-stereo-tapped-delay-manual_assets--ada_std-1_stereo_tapped_delay_manual.pdf-0002-05--38b93e276eb996ca.png>)
 
 
 ## ADA STD-1 A B O U T  | 
 
 
-![](<ADA STD-1 Stereo Tapped Delay Manual_assets/ADA_STD-1_Stereo_Tapped_Delay_Manual.pdf-0003-01.png>)
+![](<../../attachments/ada-std-1-stereo-tapped-delay-manual_assets--ada_std-1_stereo_tapped_delay_manual.pdf-0003-01--f2af9b2f33055260.png>)
 
 
 ## Introduction 
@@ -58,7 +58,7 @@ the previous decaying iteration, producing what so many throughout the years hav
 ## A B O U T   | ADA STD-1 
 
 
-![](<ADA STD-1 Stereo Tapped Delay Manual_assets/ADA_STD-1_Stereo_Tapped_Delay_Manual.pdf-0004-01.png>)
+![](<../../attachments/ada-std-1-stereo-tapped-delay-manual_assets--ada_std-1_stereo_tapped_delay_manual.pdf-0004-01--c22d3a1f313e3816.png>)
 
 
 ## The Basics 
@@ -76,7 +76,7 @@ The delay time, and therefore the delay at each tap, can be altered via the fixe
 ## C O N T R O L S | ADA STD-1 
 
 
-![](<ADA STD-1 Stereo Tapped Delay Manual_assets/ADA_STD-1_Stereo_Tapped_Delay_Manual.pdf-0005-01.png>)
+![](<../../attachments/ada-std-1-stereo-tapped-delay-manual_assets--ada_std-1_stereo_tapped_delay_manual.pdf-0005-01--2100c052dcab23ec.png>)
 
 
 ## INPUT SECTION 
@@ -100,7 +100,7 @@ OUTPUT LEVEL: Adjusts the effect output signal -28 dB to +18 dB.
 ## C O N T R O L S | ADA STD-1 
 
 
-![](<ADA STD-1 Stereo Tapped Delay Manual_assets/ADA_STD-1_Stereo_Tapped_Delay_Manual.pdf-0006-01.png>)
+![](<../../attachments/ada-std-1-stereo-tapped-delay-manual_assets--ada_std-1_stereo_tapped_delay_manual.pdf-0006-01--78de265b366f729d.png>)
 
 
 ## REGENERATION SECTION 
@@ -134,7 +134,7 @@ In Mono instances of the STD-1, the center position for each Tap Assign switch i
 ## T H E  T O O L B A R S ADA STD-1 | 
 
 
-![](<ADA STD-1 Stereo Tapped Delay Manual_assets/ADA_STD-1_Stereo_Tapped_Delay_Manual.pdf-0007-01.png>)
+![](<../../attachments/ada-std-1-stereo-tapped-delay-manual_assets--ada_std-1_stereo_tapped_delay_manual.pdf-0007-01--9149a156b1e42f81.png>)
 
 
 ## Plug-in Settings Toolbar 

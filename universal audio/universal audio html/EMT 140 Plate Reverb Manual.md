@@ -34,7 +34,7 @@ The EMT 140 interface is an amalgam of controls found at the plate amplifier its
 
 <div class="wysiwyg-text-align-center">
 
-![](EMT%20140%20Plate%20Reverb%20Manual_assets/6447e280293762024929ba39549437807e7dd254.png)
+![](../../attachments/emt-140-plate-reverb-manual_assets--6447e280293762024929ba39549437807e7dd254--42ecd5f74af18de1.png)
 
 </div>
 
@@ -176,13 +176,13 @@ This toggle switch enables or disables EMT 140. You can use it to compare the pr
 
 <div class="wysiwyg-text-align-center">
 
-![](EMT%20140%20Plate%20Reverb%20Manual_assets/1f2553e76f0d60d7f74b46ec656942d3599870b2.png)
+![](../../attachments/emt-140-plate-reverb-manual_assets--1f2553e76f0d60d7f74b46ec656942d3599870b2--225328f968a3c18c.png)
 
 </div>
 
 <div class="wysiwyg-text-align-center">
 
-![](EMT%20140%20Plate%20Reverb%20Manual_assets/4bcd0079280a79816d8d1e035ca440863de850c0.png)
+![](../../attachments/emt-140-plate-reverb-manual_assets--4bcd0079280a79816d8d1e035ca440863de850c0--01adab83cb7db122.png)
 
 </div>
 

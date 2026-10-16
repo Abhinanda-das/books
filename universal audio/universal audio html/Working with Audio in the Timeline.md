@@ -98,7 +98,7 @@ You can easily change Warp algorithms while material plays to audition different
 
 When creating a session, click Clips Follow Session Tempo.
 
-![clips-follow-session-tempo-create-session.png](Working%20with%20Audio%20in%20the%20Timeline_assets/0aba61b140882025c10c09ea06edd7b607b4dd29.png)
+![clips-follow-session-tempo-create-session.png](../../attachments/working-with-audio-in-the-timeline_assets--0aba61b140882025c10c09ea06edd7b607b4dd29--2c83e493a3935c10.png)
 
 After creating a session, you can change the session globally to follow tempo changes.
 
@@ -106,7 +106,7 @@ After creating a session, you can change the session globally to follow tempo ch
 
 Click at the top of BPM in the Control Bar, or click the icon next to BPM, and toggle Clips Follow Tempo under Session Tempo Mode.
 
-![clips-follow-tempo-toggle.png](Working%20with%20Audio%20in%20the%20Timeline_assets/fc924d07cc6445301fcaab66e58329a3f34f35c8.png)
+![clips-follow-tempo-toggle.png](../../attachments/working-with-audio-in-the-timeline_assets--fc924d07cc6445301fcaab66e58329a3f34f35c8--07e867adb1ce4bed.png)
 
 </div>
 
@@ -114,7 +114,7 @@ Click at the top of BPM in the Control Bar, or click the icon next to BPM, and t
 
 Click at the top of BPM in the Control Bar, or click the icon next to BPM, and choose a warp mode from the Session Warp Mode menu.
 
-![session-warp-mode.png](Working%20with%20Audio%20in%20the%20Timeline_assets/2d45de10805875661c2ab40f963214bcea8b63a3.png)
+![session-warp-mode.png](../../attachments/working-with-audio-in-the-timeline_assets--2d45de10805875661c2ab40f963214bcea8b63a3--1fe86f44325284dc.png)
 
 ### To configure the warp mode for a track 
 
@@ -122,7 +122,7 @@ Click at the top of BPM in the Control Bar, or click the icon next to BPM, and c
 
 2.  Choose a warp mode for the track.
 
-![track-right-click.png](Working%20with%20Audio%20in%20the%20Timeline_assets/11ed6146e64f7220878c62ce150bfe9e4949e0b7.png)
+![track-right-click.png](../../attachments/working-with-audio-in-the-timeline_assets--11ed6146e64f7220878c62ce150bfe9e4949e0b7--4b7592bf1db803c9.png)
 
 ### To configure an audio clip for tempo changes or warping
 
@@ -130,7 +130,7 @@ Click at the top of BPM in the Control Bar, or click the icon next to BPM, and c
 
 1.  In the Timeline, double-click the header of the audio clip for which you want to change the Warp algorithm. The Clip window opens.
 2.  From the Algorithm pulldown menu, choose the Warp algorithm for the clip.\
-    ![clip-warp-menu.png](Working%20with%20Audio%20in%20the%20Timeline_assets/75e4d7ab7ed362a252ba815d5b99639017f1ad6d.png)\
+    ![clip-warp-menu.png](../../attachments/working-with-audio-in-the-timeline_assets--75e4d7ab7ed362a252ba815d5b99639017f1ad6d--1d72fe56061206f6.png)\
      
 3.  Click Done.
 
@@ -154,7 +154,7 @@ When you import an audio file into an empty session with Clips Follow Tempo enab
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="import-audio-tempo.png" file-size="79323" data-height="119" data-id="910c045c-96e0-484f-89d1-e3b0884f7efb" node-type="media" data-type="file" data-width="421" title="Attachment">
 
- ![import-audio-tempo.png](Working%20with%20Audio%20in%20the%20Timeline_assets/793ddb2f8116e9bd70cee73d5fa6d9f09866eecd.png)
+ ![import-audio-tempo.png](../../attachments/working-with-audio-in-the-timeline_assets--793ddb2f8116e9bd70cee73d5fa6d9f09866eecd--a899ae97e4f393c4.png)
 
 </div>
 
@@ -176,12 +176,12 @@ When you import a file or files and your session or track is in Sync Clips to Te
 
 The Clip popover lets you choose from other possible tempos identified for the clip, and to conform the clip to the session tempo, or conform the session to the clip’s tempo.
 
-![clip-tempo-callouts.png](Working%20with%20Audio%20in%20the%20Timeline_assets/f497a52089c79098707d0e5fffcf29703557bc24.png)
+![clip-tempo-callouts.png](../../attachments/working-with-audio-in-the-timeline_assets--f497a52089c79098707d0e5fffcf29703557bc24--20a76824ab03de39.png)
 
 #### To adjust clip tempo and conform the clip or session to tempo
 
 1.  Double-click the name of the clip or the empty area next to the pitch control to open the Clip controls.\
-    ![open-clip-controls.png](Working%20with%20Audio%20in%20the%20Timeline_assets/abd0c78f9de6a392b9f4bd719b08662d254fdd63.png)
+    ![open-clip-controls.png](../../attachments/working-with-audio-in-the-timeline_assets--abd0c78f9de6a392b9f4bd719b08662d254fdd63--cab7a89c979515df.png)
 
 2.  In the Click popover, you can click a tempo in the Tempo Candidates area to set that tempo for the clip. Candidate tempos are listed from green to orange, in order of candidate confidence.
 
@@ -217,7 +217,7 @@ There are three color hotspots you can click to assign track colors:
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="assign-colors.png" file-size="192507" data-height="405" data-id="c5125eb2-7bd0-4950-991b-ca4320519e64" node-type="media" data-type="file" data-width="546" title="Attachment">
 
-![assign-colors.png](Working%20with%20Audio%20in%20the%20Timeline_assets/f17630307beffdce7d5c8ff535b32e2ca5ed7a73.png)
+![assign-colors.png](../../attachments/working-with-audio-in-the-timeline_assets--f17630307beffdce7d5c8ff535b32e2ca5ed7a73--cb81f6f2b5231926.png)
 
 </div>
 
@@ -246,7 +246,7 @@ Two methods for comping are provided here. 
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="versions-button.png" file-size="42026" data-height="135" data-id="92269fab-c388-4552-8bf6-88ea3e655cc9" node-type="media" data-type="file" data-width="401" title="Attachment">
 
-![versions-button.png](Working%20with%20Audio%20in%20the%20Timeline_assets/b2dd1493d5364ef630421f01bfde994bfc30b45f.png)
+![versions-button.png](../../attachments/working-with-audio-in-the-timeline_assets--b2dd1493d5364ef630421f01bfde994bfc30b45f--8378a1cd80b65980.png)
 
 </div>
 
@@ -256,7 +256,7 @@ Two methods for comping are provided here. 
 
 </div>
 
-![qs-versions-takes.png](Working%20with%20Audio%20in%20the%20Timeline_assets/000eb086419bc31b4ea9a5b3c4d5e2ac6e822c51.png)
+![qs-versions-takes.png](../../attachments/working-with-audio-in-the-timeline_assets--000eb086419bc31b4ea9a5b3c4d5e2ac6e822c51--f4c38a07e7bc386d.png)
 
 <div layout="align-start" node-type="mediaSingle" data-width="90">
 
@@ -273,7 +273,7 @@ Two methods for comping are provided here. 
 1.  If you want to create a new Version for the comp track, click the plus (**+**) in the Version list. Otherwise, you can easily comp to an existing version. 
 2.  To easily recognize the comp track and any Versions or Takes, rename the Versions. Double-click each Version, or select the version and click the Pencil tool, and rename relevant Versions. For example, you might rename the comp track “comp,” and give descriptive names to Takes based on their content (louder, softer, aggressive, etc.).\
     \
-    ![renamed-versions.png](Working%20with%20Audio%20in%20the%20Timeline_assets/31ea73860863e865e54bb2bfdd3375de2cf3387b.png)
+    ![renamed-versions.png](../../attachments/working-with-audio-in-the-timeline_assets--31ea73860863e865e54bb2bfdd3375de2cf3387b--00039bc71724a470.png)
 3.  In the Versions list, select the Version on which you want to comp audio, or press Shift + ↓ or Shift + ↑ to navigate through the list.
 4.  Enable Loop playback with Control+L on macOS / Alt+L on Windows, or or the Loop mode button on the transport.
 5.  Select the section you want to audition and replace. 
@@ -292,7 +292,7 @@ Repeat this process for each phrase or selection you want to comp. In this way, 
 
 2.  To easily recognize any Versions or Takes, rename the Versions. Double-click each Version, or select the version and click the Pencil tool, and rename relevant Versions. For example, you might rename the comp track “comp”, and give descriptive names to Takes based on their content (louder, softer, aggressive, etc.).\
     \
-    ![renamed-versions-no-comp.png](Working%20with%20Audio%20in%20the%20Timeline_assets/b1735cc8ebc27f9f2ddd2823384268f54b0dc2e6.png)
+    ![renamed-versions-no-comp.png](../../attachments/working-with-audio-in-the-timeline_assets--b1735cc8ebc27f9f2ddd2823384268f54b0dc2e6--2a9a35b267802503.png)
 
 3.  Enable Loop playback with Control+L on macOS / Alt+L on Windows, or or the Loop mode button on the transport.
 
@@ -309,13 +309,13 @@ Repeat this process for each phrase or selection you want to comp. In this way, 
 
 Repeat this process for each phrase or selection you want to comp. In this way, you can move through a number of versions and takes, selecting phrases and assembling a final comped take.
 
- ![source-comp-track.png](Working%20with%20Audio%20in%20the%20Timeline_assets/6421ccb422a6533ef5b1318f65955d5c3100e667.png)
+ ![source-comp-track.png](../../attachments/working-with-audio-in-the-timeline_assets--6421ccb422a6533ef5b1318f65955d5c3100e667--7055428a47f5f48e.png)
 
 **Tip:** When comping from one track to another, you can use Solo Exclusive mode to quickly solo between your comp source and comp target track, without hearing duplicate or conflicting audio. To enable Solo Exclusive mode, toggle the Mix workflow and click the Solo Exclusive mode button. For more information about Workflows, see <a href="360041440592-Using-LUNA.html#h_0f5f806a-a9ff-415a-a28f-8db1acd5af64" target="_self">Using Workflows</a>.
 
-![workflows-switch-mix.png](Working%20with%20Audio%20in%20the%20Timeline_assets/c52f247627e17a6529cddaee8edae8bc35c22499.png)
+![workflows-switch-mix.png](../../attachments/working-with-audio-in-the-timeline_assets--c52f247627e17a6529cddaee8edae8bc35c22499--278494a1b685d696.png)
 
-![solo-exclusive.png](Working%20with%20Audio%20in%20the%20Timeline_assets/2490123317639cc5c9ae9ba93c2563b12cf63738.png)
+![solo-exclusive.png](../../attachments/working-with-audio-in-the-timeline_assets--2490123317639cc5c9ae9ba93c2563b12cf63738--d174cc6f833c6661.png)
 
 ------------------------------------------------------------------------
 
@@ -327,7 +327,7 @@ You use the Tempo and Signature rulers to specify tempo and time signature, and 
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="rulers-tempo-signature.png" file-size="60171" data-height="179" data-id="c20cb02c-e9ad-4453-8a42-6d9e5e640f9a" node-type="media" data-type="file" data-width="543" title="Attachment">
 
-![rulers-tempo-signature.png](Working%20with%20Audio%20in%20the%20Timeline_assets/80a3faf1acfa4fc5a73417c3f31355cbd0ded075.png)
+![rulers-tempo-signature.png](../../attachments/working-with-audio-in-the-timeline_assets--80a3faf1acfa4fc5a73417c3f31355cbd0ded075--46121edfa4baea70.png)
 
 </div>
 
@@ -342,7 +342,7 @@ When you change the session tempo, elements in the LUNA session that are tempo-b
 ### To set the overall tempo of the session
 
 - Click the BPM control. The cursor changes to a double arrow. Drag up or down to adjust the tempo by 1 BPM increments. You can click and drag to change tempo while the session is playing to hear your changes in real time.\
-  ![drag-tempo.png](Working%20with%20Audio%20in%20the%20Timeline_assets/037f09895a48636754362a670912a9ab3aab8997.png)
+  ![drag-tempo.png](../../attachments/working-with-audio-in-the-timeline_assets--037f09895a48636754362a670912a9ab3aab8997--fa8969a45215b0a7.png)
 - To type a new tempo, click to select the BPM in the control bar, type a new tempo, and press Return. 
 
 ### To set the session tempo by tapping
@@ -351,9 +351,9 @@ When you change the session tempo, elements in the LUNA session that are tempo-b
 
 1.  In Timeline view, double-click the session tempo in the Tempo ruler.\
     \
-    ![tempo-in-temnpo-ruler.png](Working%20with%20Audio%20in%20the%20Timeline_assets/88c40996d5db6d70e8d59464d286697e38e05a43.png)
+    ![tempo-in-temnpo-ruler.png](../../attachments/working-with-audio-in-the-timeline_assets--88c40996d5db6d70e8d59464d286697e38e05a43--687c2834ec474ddd.png)
 2.  The Edit Tempo popover opens. Tap the Tap button at least four times, then click Apply.\
-    ![edit-tempo.png](Working%20with%20Audio%20in%20the%20Timeline_assets/bdf24121a108a30a1407b4e91fb805c9bdb22475.png)
+    ![edit-tempo.png](../../attachments/working-with-audio-in-the-timeline_assets--bdf24121a108a30a1407b4e91fb805c9bdb22475--95e9205579fcad80.png)
 
 </div>
 
@@ -367,14 +367,14 @@ When you change the session tempo, elements in the LUNA session that are tempo-b
 
 1.  In Timeline view, double-click the session tempo in the Tempo ruler.\
     \
-    ![tempo-in-temnpo-ruler.png](Working%20with%20Audio%20in%20the%20Timeline_assets/88c40996d5db6d70e8d59464d286697e38e05a43.png)\
+    ![tempo-in-temnpo-ruler.png](../../attachments/working-with-audio-in-the-timeline_assets--88c40996d5db6d70e8d59464d286697e38e05a43--687c2834ec474ddd.png)\
     The Edit Tempo popover opens.\
     \
-    ![edit-tempo.png](Working%20with%20Audio%20in%20the%20Timeline_assets/bdf24121a108a30a1407b4e91fb805c9bdb22475.png)\
+    ![edit-tempo.png](../../attachments/working-with-audio-in-the-timeline_assets--bdf24121a108a30a1407b4e91fb805c9bdb22475--95e9205579fcad80.png)\
      
 2.  Click Listen, then play through a record or input-enabled track. As you play, LUNA determines the tempo. Once the tempo is determined, click Apply to set the tempo.
 
-![edit-tempo-listen.png](Working%20with%20Audio%20in%20the%20Timeline_assets/3247c105df738589bf0c563f82ada2afc91be182.png)
+![edit-tempo-listen.png](../../attachments/working-with-audio-in-the-timeline_assets--3247c105df738589bf0c563f82ada2afc91be182--49f159f4707bd720.png)
 
 </div>
 
@@ -388,29 +388,29 @@ When you change the session tempo, elements in the LUNA session that are tempo-b
 
 2.  Click on the Tempo ruler control area. 
 
-    ![tempo-ruler-event-area.png](Working%20with%20Audio%20in%20the%20Timeline_assets/0fe170cb5deb49ec417f36428221057aa863b653.png)
+    ![tempo-ruler-event-area.png](../../attachments/working-with-audio-in-the-timeline_assets--0fe170cb5deb49ec417f36428221057aa863b653--eea8c8429cc4c2e8.png)
 
 3.  The Add Tempo popover opens. Type the tempo, tap in a tempo with the Tap button, or click Listen and play in a tempo. When you have specified the tempo, click Apply.
 
-![add-tempo.png](Working%20with%20Audio%20in%20the%20Timeline_assets/e4ed4bfebce06bf44f13a5ffd2e2742d41ea48ff.png)
+![add-tempo.png](../../attachments/working-with-audio-in-the-timeline_assets--e4ed4bfebce06bf44f13a5ffd2e2742d41ea48ff--58182a9afa06de4d.png)
 
 The tempo change is added at the playhead location.
 
 ## Extract tempo from a selection or session
 
 1.  Hover over the Tempo ruler, and click Extract, or click the top of the BPM area in the Control Bar and click Extract.\
-    ![extract-tempo-menu.png](Working%20with%20Audio%20in%20the%20Timeline_assets/8a21572337b51555c953c7602c58226656e755ca.png)\
+    ![extract-tempo-menu.png](../../attachments/working-with-audio-in-the-timeline_assets--8a21572337b51555c953c7602c58226656e755ca--f448e4fad37f6897.png)\
      
 2.  Select Selection or Entire Session. The tempo is extracted.
 3.  To move the downbeat to the correct first beat (if incorrect), drag the downbeat marker (labeled MOVE DOWNBEAT) to the correct position. 
 
 **Note:** You can more easily drag the downbeat marker to the correct position if SNAP is disabled, or you can use the Command (macOS) or Alt (Windows) modifier when dragging. 
 
-![move-downbeat-callouts.png](Working%20with%20Audio%20in%20the%20Timeline_assets/57296532be8cf1eef1c3be1c158280c6444409af.png)
+![move-downbeat-callouts.png](../../attachments/working-with-audio-in-the-timeline_assets--57296532be8cf1eef1c3be1c158280c6444409af--3b2faf67795e4a47.png)
 
 #### Extracted tempo overview
 
-![tempo-extracted.png](Working%20with%20Audio%20in%20the%20Timeline_assets/9698d71639f4a1da942732d4d92f8594e95be35e.png)
+![tempo-extracted.png](../../attachments/working-with-audio-in-the-timeline_assets--9698d71639f4a1da942732d4d92f8594e95be35e--2c0e5dfe957ea104.png)
 
 - The Tempo area shows four possible candidate tempos for the session or selection. Cclick a square to accept that tempo.
 - Colored squares from green to orange indicate confidence in the tempo candidates.
@@ -421,7 +421,7 @@ The tempo change is added at the playhead location.
 
 1.  Click a tempo in the Candidates section to accept that tempo.
 2.  To set the session tempo to the detected tempo, double-click an audio clip in the session. \
-    ![clip-tempo-callouts.png](Working%20with%20Audio%20in%20the%20Timeline_assets/f497a52089c79098707d0e5fffcf29703557bc24.png)\
+    ![clip-tempo-callouts.png](../../attachments/working-with-audio-in-the-timeline_assets--f497a52089c79098707d0e5fffcf29703557bc24--20a76824ab03de39.png)\
      
 3.  To set the session tempo to the current clip tempo, click Set Session Tempo To (tempo and meter).
 
@@ -435,16 +435,16 @@ You can draw a tempo change over time.
 
 1.  Open the tempo lane by clicking **\>** on the Tempo ruler. The tempo lane opens and shows the tempo as a line.\
     \
-    ![open-tempo-lane.png](Working%20with%20Audio%20in%20the%20Timeline_assets/a738e003f8a1b21240c65eb67bdafece39de7c2b.png)
+    ![open-tempo-lane.png](../../attachments/working-with-audio-in-the-timeline_assets--a738e003f8a1b21240c65eb67bdafece39de7c2b--df80433195874baf.png)
 
 2.  Control+Click to change the cursor to a pencil. With this cursor you can draw tempo events. Tempo events snap to the grid if Snap is enabled.\
     \
-    ![tempo-draw-grid.png](Working%20with%20Audio%20in%20the%20Timeline_assets/a6831cd8c7d51ff2edb0d251ae3c5e554a491648.png)
+    ![tempo-draw-grid.png](../../attachments/working-with-audio-in-the-timeline_assets--a6831cd8c7d51ff2edb0d251ae3c5e554a491648--1073330bca152c27.png)
 
 3.  To disable snapping while drawing tempo events, press Command+Control (macOS) while you draw tempo events. In Windows, disable Snap to draw tempo events without snapping.
 
     \
-    ![tempo-draw-no-grid.png](Working%20with%20Audio%20in%20the%20Timeline_assets/3619889687ca6dc5020f17ffcf6c15d96bc4a6df.png)
+    ![tempo-draw-no-grid.png](../../attachments/working-with-audio-in-the-timeline_assets--3619889687ca6dc5020f17ffcf6c15d96bc4a6df--52cc8616c617d493.png)
 
 </div>
 
@@ -456,7 +456,7 @@ You can draw a tempo change over time.
 
 <div collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="click-drag-tempo-event.png" file-size="17828" data-height="152" data-id="c686c641-713b-40f1-9343-507462e68f0c" node-type="media" data-type="file" data-width="223" title="Attachment">
 
-![click-drag-tempo-event.png](Working%20with%20Audio%20in%20the%20Timeline_assets/9f5cfe40d6cec7973826560986ca788a6b9bb4f5.png)
+![click-drag-tempo-event.png](../../attachments/working-with-audio-in-the-timeline_assets--9f5cfe40d6cec7973826560986ca788a6b9bb4f5--907add3f3c2a0857.png)
 
 </div>
 
@@ -468,7 +468,7 @@ You can draw a tempo change over time.
 
 <div collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="edit-tempo-event-range.png" file-size="35083" data-height="184" data-id="f22f2326-37af-4546-8378-f691163a6ec8" node-type="media" data-type="file" data-width="359" title="Attachment">
 
-![edit-tempo-event-range.png](Working%20with%20Audio%20in%20the%20Timeline_assets/6e58afeecdc57d0b4e06c29568569ccb78ff4eac.png)
+![edit-tempo-event-range.png](../../attachments/working-with-audio-in-the-timeline_assets--6e58afeecdc57d0b4e06c29568569ccb78ff4eac--984563f7dbd63cb4.png)
 
 </div>
 
@@ -491,10 +491,10 @@ When you change time signature, elements in the LUNA session do not change, but 
 
 1.  Hover over the Signature ruler and click the plus (+) symbol. The Time Signature browser opens.\
     \
-    ![signature-click-area.png](Working%20with%20Audio%20in%20the%20Timeline_assets/ee3d546eaf6e71ffb9c553a028a920e7354f7fb4.png)\
+    ![signature-click-area.png](../../attachments/working-with-audio-in-the-timeline_assets--ee3d546eaf6e71ffb9c553a028a920e7354f7fb4--e2c0233e2aed9999.png)\
     \
     \
-    ![time-signature-browser.png](Working%20with%20Audio%20in%20the%20Timeline_assets/a8b54fd20d9151b0cc53979a33f0f75ca29daab2.png)
+    ![time-signature-browser.png](../../attachments/working-with-audio-in-the-timeline_assets--a8b54fd20d9151b0cc53979a33f0f75ca29daab2--01cde4d38b68ada9.png)
 2.  Type the bar at which you want the time signature to start.
 3.  Type the number of beats in a bar.
 4.  From the Note pull down, choose the note value that represents one beat. For example, choose 4 for a quarter note, or 8 for an eighth note.
@@ -523,7 +523,7 @@ The Time Signature change is added to the ruler, at the bar specified.
 
 <div collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="click-drag-time-signature.png" file-size="14038" data-height="104" data-id="b1e12979-332c-4bb0-bb5d-045e2dc9df98" node-type="media" data-type="file" data-width="257" title="Attachment">
 
-![click-drag-time-signature.png](Working%20with%20Audio%20in%20the%20Timeline_assets/6eec5c043b492d1a73541cdb3de9e5b04e452c8d.png)
+![click-drag-time-signature.png](../../attachments/working-with-audio-in-the-timeline_assets--6eec5c043b492d1a73541cdb3de9e5b04e452c8d--a8cbee45b0de6a04.png)
 
 </div>
 
@@ -539,7 +539,7 @@ The Time Signature change is added to the ruler, at the bar specified.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="deleting-time-signature-marker.png" file-size="21799" data-height="145" data-id="f2ee0c3d-2857-4b8d-8ffe-2c65ad0d97f1" node-type="media" data-type="file" data-width="271" title="Attachment">
 
-![deleting-time-signature-marker.png](Working%20with%20Audio%20in%20the%20Timeline_assets/e13dcad1a9b3cf155b13e6ca8bf3c4e670ff5fca.png)
+![deleting-time-signature-marker.png](../../attachments/working-with-audio-in-the-timeline_assets--e13dcad1a9b3cf155b13e6ca8bf3c4e670ff5fca--24cf3ce341197d75.png)
 
 </div>
 
@@ -560,14 +560,14 @@ Markers are an easy and colorful way to mark locations such as verses, choruses,
 1.  Click a location in the session or on a ruler.
 2.  Hover over the Markers ruler, and click anywhere on the highlighted bar, or press Enter (if you have a keyboard with a Numeric Keypad).\
     \
-    ![markers-ruler-add.png](Working%20with%20Audio%20in%20the%20Timeline_assets/d7414ee31da249f8f31785417b22e6483cd710ce.png)
+    ![markers-ruler-add.png](../../attachments/working-with-audio-in-the-timeline_assets--d7414ee31da249f8f31785417b22e6483cd710ce--d0953d6dcf4ff8d1.png)
 3.  In the Marker browser, specify the Start location. The location of the playhead is prefilled.
 4.  Type a name for the marker.
 5.  Choose a marker color.
 6.  You can add optional comments in the Comments box.
 7.  Press Return or click Apply to save the marker.
 
-![marker-dialog-add.png](Working%20with%20Audio%20in%20the%20Timeline_assets/0965354b3d70f39af419cfc8ecfe878d709b9d86.png)
+![marker-dialog-add.png](../../attachments/working-with-audio-in-the-timeline_assets--0965354b3d70f39af419cfc8ecfe878d709b9d86--eed9329af44b833f.png)
 
 </div>
 
@@ -596,7 +596,7 @@ The marker is updated with the options you set.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="marker-moving.png" file-size="10652" data-height="57" data-id="d2cea83d-05e8-4726-89e2-ba713629d2b8" node-type="media" data-type="file" data-width="208" title="Attachment">
 
-![marker-moving.png](Working%20with%20Audio%20in%20the%20Timeline_assets/73cf3693d775239158c2e8469fdfa2d06a48552d.png)
+![marker-moving.png](../../attachments/working-with-audio-in-the-timeline_assets--73cf3693d775239158c2e8469fdfa2d06a48552d--4bf0faeff1a28d18.png)
 
 </div>
 
@@ -610,7 +610,7 @@ The marker is updated with the options you set.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="marker-delete.png" file-size="20242" data-height="115" data-id="42470bee-bc7f-4308-a3e8-df42b0d42d74" node-type="media" data-type="file" data-width="255" title="Attachment">
 
-![marker-delete.png](Working%20with%20Audio%20in%20the%20Timeline_assets/3069651d25126f09dde2dc492a3dda08ef4451e2.png)
+![marker-delete.png](../../attachments/working-with-audio-in-the-timeline_assets--3069651d25126f09dde2dc492a3dda08ef4451e2--a9b3fa2a880b564d.png)
 
 </div>
 
@@ -634,7 +634,7 @@ The marker is updated with the options you set.
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="markers-ruler-resize.png" file-size="51343" data-height="249" data-id="e74cc2f1-54fa-4988-9841-6b92e9fcddb0" node-type="media" data-type="file" data-width="616" title="Attachment">
 
-![markers-ruler-resize.png](Working%20with%20Audio%20in%20the%20Timeline_assets/cd011ee874bfa3efc13822ebb458f11f06a02408.png)
+![markers-ruler-resize.png](../../attachments/working-with-audio-in-the-timeline_assets--cd011ee874bfa3efc13822ebb458f11f06a02408--079949a4da013445.png)
 
 </div>
 
@@ -660,7 +660,7 @@ When multiple audio tracks are quantized (through selection grouping or track gr
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="priority-group-warps.png" file-size="45771" data-height="431" data-id="788375ea-19c4-4d67-9998-97b80b76fd91" node-type="media" data-type="file" data-width="434" title="Attachment">
 
-![priority-group-warps.png](Working%20with%20Audio%20in%20the%20Timeline_assets/1c7a3a23a2c03b17b99063bbde7ca5f90cd4511b.png)
+![priority-group-warps.png](../../attachments/working-with-audio-in-the-timeline_assets--1c7a3a23a2c03b17b99063bbde7ca5f90cd4511b--8e8b222a8ceb8c1e.png)
 
 </div>
 
@@ -691,7 +691,7 @@ You can set group editing priority from the track name popover, from the track g
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="prioritize-track-popover.png" file-size="27981" data-height="224" data-id="a878f132-76de-40d1-99c2-2af19ce7bc43" node-type="media" data-type="file" data-width="451" title="Attachment">
 
-![prioritize-track-popover.png](Working%20with%20Audio%20in%20the%20Timeline_assets/4fe65e1a6dac7940d0f42921efa0437eac920586.png)
+![prioritize-track-popover.png](../../attachments/working-with-audio-in-the-timeline_assets--4fe65e1a6dac7940d0f42921efa0437eac920586--ebfbc2bc785cfc40.png)
 
 </div>
 
@@ -711,7 +711,7 @@ You can set group editing priority from the track name popover, from the track g
 
     <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="prioritize-tracks-groups.png" file-size="96443" data-height="534" data-id="4a4cb91f-2480-4a25-8d2d-bdece3052b6c" node-type="media" data-type="file" data-width="431" title="Attachment">
 
-    ![prioritize-tracks-groups.png](Working%20with%20Audio%20in%20the%20Timeline_assets/510579ef336d85de6cf5996eb91e5f590bd9e4fd.png)
+    ![prioritize-tracks-groups.png](../../attachments/working-with-audio-in-the-timeline_assets--510579ef336d85de6cf5996eb91e5f590bd9e4fd--e70c4da9383c71b6.png)
 
     </div>
 
@@ -733,7 +733,7 @@ You can set group editing priority from the track name popover, from the track g
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="prioritize-from-quantize.png" file-size="68429" data-height="426" data-id="4301ff6a-7d0b-4a72-a626-d5aecdf74514" node-type="media" data-type="file" data-width="465" title="Attachment">
 
-![prioritize-tracks-groups.png](Working%20with%20Audio%20in%20the%20Timeline_assets/510579ef336d85de6cf5996eb91e5f590bd9e4fd.png)
+![prioritize-tracks-groups.png](../../attachments/working-with-audio-in-the-timeline_assets--510579ef336d85de6cf5996eb91e5f590bd9e4fd--e70c4da9383c71b6.png)
 
 </div>
 
@@ -749,11 +749,11 @@ There are three options for quantize priority grouping:
 - **Track Groups**: When Track Groups grouping is selected, all track groups in the selection are quantized separately. Within each track group, prioritized tracks determine how tracks are quantized. Quantize operations do not interact between track groups. This option preserves phase in groups (for example, drum tracks), while maintaining separation for material of different types.
 - **Off**: When grouping is Off, all selected tracks are quantized independently. This option works best for material where the tracks have independent rhythmic material that should not be quantized to other tracks.
 
-![priority-selection.png](Working%20with%20Audio%20in%20the%20Timeline_assets/0aaedcc48890cdfa21cc98812a99718d7700e550.png)
+![priority-selection.png](../../attachments/working-with-audio-in-the-timeline_assets--0aaedcc48890cdfa21cc98812a99718d7700e550--730f6fd4b69ed386.png)
 
  
 
-![priority-track-groups.png](Working%20with%20Audio%20in%20the%20Timeline_assets/fa30056afa9145a6f044696f8d9e211511dde104.png)
+![priority-track-groups.png](../../attachments/working-with-audio-in-the-timeline_assets--fa30056afa9145a6f044696f8d9e211511dde104--2bdc352d29434c30.png)
 
  
 
@@ -761,7 +761,7 @@ There are three options for quantize priority grouping:
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="priority-selection.png" file-size="95298" data-height="480" data-id="7329f085-f625-491f-b035-154a26aacb48" node-type="media" data-type="file" data-width="585" title="Attachment">
 
-![priority-off.png](Working%20with%20Audio%20in%20the%20Timeline_assets/226d09859ab36acdc497698fad4a4731df6ea5a4.png)
+![priority-off.png](../../attachments/working-with-audio-in-the-timeline_assets--226d09859ab36acdc497698fad4a4731df6ea5a4--e245e7e68c06c095.png)
 
 </div>
 
@@ -810,7 +810,7 @@ In this example, the audio selection is not quantized. Note that Auto Apply is e
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="quantize-example-none.png" file-size="147494" data-height="546" data-id="1c1cddd3-b5b1-4369-b242-c6bcd8c84caf" node-type="media" data-type="file" data-width="868" title="Attachment">
 
-![quantize-example-none.png](Working%20with%20Audio%20in%20the%20Timeline_assets/71db2f6be006d21656b94173c87aefdc991cf743.png)
+![quantize-example-none.png](../../attachments/working-with-audio-in-the-timeline_assets--71db2f6be006d21656b94173c87aefdc991cf743--7bfca30dfcb20975.png)
 
 </div>
 
@@ -826,7 +826,7 @@ In this example, the audio selection is quantized to quarter notes. Note that Au
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="quantize-example-4th.png" file-size="151125" data-height="543" data-id="449f5647-95ad-4671-9e0f-3ff0c5e1d930" node-type="media" data-type="file" data-width="844" title="Attachment">
 
-![quantize-example-4th.png](Working%20with%20Audio%20in%20the%20Timeline_assets/fa889d70633a94a7d8149fc19e7bc24a65252769.png)
+![quantize-example-4th.png](../../attachments/working-with-audio-in-the-timeline_assets--fa889d70633a94a7d8149fc19e7bc24a65252769--08d3601146e1866f.png)
 
 </div>
 
@@ -842,7 +842,7 @@ In this example, the audio selection is quantized to eighth notes. Note that Aut
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="quantize-example-8th.png" file-size="152206" data-height="543" data-id="d8423004-17d8-468b-b7de-2bf557210094" node-type="media" data-type="file" data-width="832" title="Attachment">
 
-![quantize-example-8th.png](Working%20with%20Audio%20in%20the%20Timeline_assets/cad038afe1cdbc37e7e147d38991946f289384b6.png)
+![quantize-example-8th.png](../../attachments/working-with-audio-in-the-timeline_assets--cad038afe1cdbc37e7e147d38991946f289384b6--72d0fede122a2035.png)
 
 </div>
 
@@ -858,7 +858,7 @@ In this example, the audio selection is quantized to sixteenth notes. Note that 
 
 <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="quantize-example-16th.png" file-size="144888" data-height="544" data-id="29c3d1ef-36a5-4dc0-a5b3-4369ce12f36c" node-type="media" data-type="file" data-width="849" title="Attachment">
 
-![quantize-example-16th.png](Working%20with%20Audio%20in%20the%20Timeline_assets/cc8d2dbccdbe0d91db0aa5a6a04bd203de525df1.png)
+![quantize-example-16th.png](../../attachments/working-with-audio-in-the-timeline_assets--cc8d2dbccdbe0d91db0aa5a6a04bd203de525df1--50cca367db6ad3f3.png)
 
 </div>
 
@@ -876,7 +876,7 @@ In this example, the audio selection is quantized to sixteenth notes. Note that 
 
     <div data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="choose-warps.png" file-size="60140" data-height="244" data-id="69187fe5-b0ea-47db-a8e7-e2542d936f94" node-type="media" data-type="file" data-width="530" title="Attachment">
 
-    ![choose-warps.png](Working%20with%20Audio%20in%20the%20Timeline_assets/c8ec138e475d67a9b669d7bece511fbc9dc3f3ea.png)
+    ![choose-warps.png](../../attachments/working-with-audio-in-the-timeline_assets--c8ec138e475d67a9b669d7bece511fbc9dc3f3ea--fbcb361d0c28c789.png)
 
     </div>
 
@@ -890,7 +890,7 @@ In this example, the audio selection is quantized to sixteenth notes. Note that 
 
     <div class="wysiwyg-text-align-center" data-alt="" collection="contentId-225740407" context-id="225740407" file-mime-type="image/png" file-name="audio-quantize.png" file-size="71803" data-height="557" data-id="773dc67d-e50c-453f-aa22-e9d08d625c82" node-type="media" data-type="file" data-width="256" title="Attachment">
 
-    ![audio-quantize.png](Working%20with%20Audio%20in%20the%20Timeline_assets/b41e2065383b7c0b5666c510b3c667e4e8a6c73f.png)
+    ![audio-quantize.png](../../attachments/working-with-audio-in-the-timeline_assets--b41e2065383b7c0b5666c510b3c667e4e8a6c73f--68d2984d561d3bf2.png)
 
     </div>
 

@@ -11,7 +11,7 @@ word_count: 7640
 
 This article contains complete operating instructions for the UAFX Enigmatic '82 Overdrive Special Amp effects pedal from Universal Audio.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/e01e3169926de1a56613a76da24a5d1e90b84224.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--e01e3169926de1a56613a76da24a5d1e90b84224--b8eaab3925e6ef93.png)
 
  
 
@@ -45,7 +45,7 @@ Thank you for your support, and enjoy your sonic exploration!
 
 Sincerely,
 
-![bill-putnam-jr-signature.png](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--258a029865b5c697.png)
 
 Bill Putnam Jr.
 
@@ -59,7 +59,7 @@ UAFX pedals include a quick start sheet in the box. To download the sheet, [go h
 
  
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/9d9fb711ed5be295e072de15cc78a67c651bd3fc.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--9d9fb711ed5be295e072de15cc78a67c651bd3fc--73e72395766e522b.png)
 
 ## Enigmatic Firmware
 
@@ -78,7 +78,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/71a90f387ababfc5588e23519cf25abe839971d2.png)
+![rear-callouts-amp.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--569a41d554c0a3f9.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -152,13 +152,13 @@ You can store a preset you've made with your own settings by holding down the ST
 
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the live effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
-![golden-switches-on-led.png](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/039ea6f067a659c26bac8c58abbbf5de3c79066c.png)
+![golden-switches-on-led.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--9d904e2102606653.png)
 
 ### Preset Mode
 
 To enter Preset mode, press the right footswitch. Press the right footswitch again to toggle the preset on/off. The right footswitch LED is lit green when the preset is on.
 
-![golden-switches-preset-led.png](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/381e83806fbca2e28a4cc8d1d3a4d7b015b0194c.png)
+![golden-switches-preset-led.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--aa8ca8af8b76a1e5.png)
 
 **Note:** The left and right footswitch functions can be changed in UAFX Control.
 
@@ -231,7 +231,7 @@ This diagram shows how you can build an Enigmatic '82 Overdrive Special Amp soun
 
 [**<span class="wysiwyg-underline">Get the Enigmatic Tone Workflow Diagram PDF</span>**](https://help.uaudio.com/hc/en-us/articles/30572976984596)
 
-![UAFX Enigmatic '82 Tone Workflow Diagram@2x.png](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/3d0d7975579cbb4cf43c84913ff3d60223cc0551.png)
+![UAFX Enigmatic '82 Tone Workflow Diagram@2x.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--3d0d7975579cbb4cf43c84913ff3d60223cc0551--5fe37bbd76d15500.png)
 
 ### Using Enigmatic's preamp boost
 
@@ -452,7 +452,7 @@ Each speaker, cabinet, and mic setting has a unique sound. Toggle up or down to 
 
 When you register your pedal using the UA Connect or UAFX Control apps, your free bonus speaker cabinets are added to the pedal. To select these speaker cabinets, push the Cab switch until the top, middle, or bottom Cab LED is lit green or amber.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/e2dadb8018c2f0ddc43758a07b7adb481b7ccbd3.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--e2dadb8018c2f0ddc43758a07b7adb481b7ccbd3--1f5e538ab0614363.png)
 
 **Note:** The speaker cabinet labels on the pedal apply only when that speaker switch's LED is red. The labels when the LED is green and amber are only visible in UAFX Control.
 
@@ -572,7 +572,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![enigmatic-all-fs-modes.png](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/49f4ff5026cb15c9c8184c4eaff3657e04287095.png)
+![enigmatic-all-fs-modes.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--49f4ff5026cb15c9c8184c4eaff3657e04287095--7f25eaa98ffff7f1.png)
 </figure>
 
  
@@ -581,7 +581,7 @@ To assign a preset to a footswitch slot in multi-preset modes, tap the footswitc
 
 In Live \| Preset mode, you can access Live mode (knobs and switches) and the stored preset.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/caf61502434f929904ca1fea1f4576b2e9bf261d.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--caf61502434f929904ca1fea1f4576b2e9bf261d--60bf2aeaef609438.png)
 
 - **Left Footswitch** toggles the Live sound on/off
 - **Right Footswitch** toggles the stored preset on/off
@@ -592,7 +592,7 @@ In Live \| Preset mode, you can access Live mode (knobs and switches) and the st
 
 In Overdrive \| Live/Preset mode, you can switch the Overdrive channel on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/e81c788c1f3fd5141d7cc7bf74aef7ec454e2da2.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--e81c788c1f3fd5141d7cc7bf74aef7ec454e2da2--781d5112d0568837.png)
 
 - **Left Footswitch** toggles Overdrive on/off
 - **Right Footswitch** toggles between Live mode (red LED) and the stored preset (green LED)
@@ -603,7 +603,7 @@ In Overdrive \| Live/Preset mode, you can switch the Overdrive channel on and of
 
 In Preamp Boost \| Live/Preset mode, you can switch the Preamp Boost on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/64a44162739e90ed1dbfefbfd476442e8e8a4100.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--64a44162739e90ed1dbfefbfd476442e8e8a4100--47478888242435c3.png)
 
 - **Left Footswitch** toggles Preamp Boost on/off
 - **Right Footswitch** toggles between Live mode (red LED) and the stored preset (green LED)
@@ -614,7 +614,7 @@ In Preamp Boost \| Live/Preset mode, you can switch the Preamp Boost on and off,
 
 In Overdrive \| Preamp Boost mode, you can toggle the Overdrive channel and the Preamp Boost on and off independently.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/763af2f063950012492e535d7c96b59d8c97043a.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--763af2f063950012492e535d7c96b59d8c97043a--7b5f5451fea62880.png)
 
 - **Left Footswitch** toggles Overdrive on/off
 - **Right Footswitch** toggles Preamp Boost on/off
@@ -626,7 +626,7 @@ In Overdrive \| Preamp Boost mode, you can toggle the Overdrive channel and the 
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![enigmatic-fs-live-off-ab.png](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/8b9eefb68a340b594f5df737c3f9048495697067.png)
+![enigmatic-fs-live-off-ab.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--8b9eefb68a340b594f5df737c3f9048495697067--e51d66c65100d56b.png)
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -638,7 +638,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![enigmatic-fs-ab-off.png](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/09ead1993149a91387402e2e5723bbf6b6fbcd04.png)
+![enigmatic-fs-ab-off.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--09ead1993149a91387402e2e5723bbf6b6fbcd04--27542c99b50a1877.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -650,7 +650,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![enigmatic-fs-abcd.png](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/ddc3a323900a5f303033205a7f95cd9f1d7d9598.png)
+![enigmatic-fs-abcd.png](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--ddc3a323900a5f303033205a7f95cd9f1d7d9598--5e81a38f43fcd4a5.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)
@@ -676,7 +676,7 @@ Preset sounds can have different global settings, but Live mode global settings 
 
 To open the Editor, tap Edit at the bottom of the UAFX Control screen.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/a85812e32665600362f71db76b774f8bd1957d5f.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--a85812e32665600362f71db76b774f8bd1957d5f--27fc6bc87732c718.png)
 
 ### Amps
 
@@ -684,7 +684,7 @@ The Amps section allows you to choose the basic topology of the amp, modeled fro
 
 Tap the current selection under Amps to choose an amp from the list.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/22e27ef9d1a6a5d04db0edf64b03abb73e38a988.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--22e27ef9d1a6a5d04db0edf64b03abb73e38a988--d300dc533ddc9f93.png)
 
  
 
@@ -721,7 +721,7 @@ Tap the current selection under Amps to choose an amp from the list.
 
 ### Input
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/4d12f6fa24df07b9558cdff374a7dc0fc0044833.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--4d12f6fa24df07b9558cdff374a7dc0fc0044833--9d5e277f18ea60c3.png)
 
 The original amp included two inputs. The normal input is fixed, with no gain adjustment. The FET input changes the characteristics of the input and allows you to adjust input gain. FET gain can range from sparkly clean to boosted and slightly distorted, as you increase the FET Trim.
 
@@ -733,7 +733,7 @@ Adjust this slider for the level of input gain trim you want. This control is on
 
 ### Overdrive, Bright, and Deep / Mid info strip
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/928215aa9733bc51b29b6165eae6ae4f43d3c0b1.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--928215aa9733bc51b29b6165eae6ae4f43d3c0b1--6e1c89df3ac90f69.png)
 
 Below the Input section, an info strip shows you the state of the Overdrive, Bright switch, and Mid/Deep controls. When an item is active, its green LED is lit. For the Bright and Mid/Deep switches, the values are listed.
 
@@ -746,7 +746,7 @@ Below the Input section, an info strip shows you the state of the Overdrive, Bri
 
 ### Preamp Boost
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/b69f496d556a3c2da0e7959066be0dd0b7210669.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--b69f496d556a3c2da0e7959066be0dd0b7210669--36d035513e8c44f1.png)
 
 Preamp boost lifts the tone stack, increasing the overall gain from the preamp section. When Preamp Boost is engaged, you cannot adjust the EQ with the EQ knobs, but Deep or Mid can still be enabled.
 
@@ -754,7 +754,7 @@ Preamp boost lifts the tone stack, increasing the overall gain from the preamp s
 
 ### Tone Stack EQ
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/02a4d9c82cdb51b21ffc50528895c64486ce0e53.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--02a4d9c82cdb51b21ffc50528895c64486ce0e53--5b19a6f7ed69408f.png)
 
 On the Custom channel and when editing a preset sound, you can select the Tone Stack EQ. Jazz is a mellower EQ setting with reduced high end and flatter response. Rock is more aggressive, louder, and edgier.
 
@@ -762,7 +762,7 @@ On the Custom channel and when editing a preset sound, you can select the Tone S
 
 ### Tone Stack Type
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/02a4d9c82cdb51b21ffc50528895c64486ce0e53.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--02a4d9c82cdb51b21ffc50528895c64486ce0e53--5b19a6f7ed69408f.png)
 
 The original amp was available with two tone stack types. Earlier amps had the "classic" EQ which is more like an American blackface-era amp, with a slightly hollower sound and less gain. Later amps had the "Skyline" or "Skyliner" EQ, which was more British-sounding, more aggressive, and higher gain, with a tighter bottom end and accentuated mids and highs.
 
@@ -770,7 +770,7 @@ The Tone Stack Type is interactive with the Deep/Mid switch: the Classic Tone St
 
 ### OD Trim
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/59df3f8cbc77a97a832f8de6575f5108c9f99956.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--59df3f8cbc77a97a832f8de6575f5108c9f99956--6bf35e6488657bcc.png)
 
 Adjusts the amount of available gain from the Overdrive channel. Use the OD Trim control for more or less available gain, and the Overdrive knob to set the final gain.
 
@@ -778,7 +778,7 @@ Adjusts the amount of available gain from the Overdrive channel. Use the OD Trim
 
 ### HRM Overdrive EQ
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/d8f093e1ead94d2ef80044995275f1ce80952442.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--d8f093e1ead94d2ef80044995275f1ce80952442--efcd4744fbb4d860.png)
 
 The HRM (Hot Rubber Monkey) circuit is a separate passive post-gain tone stack for the Overdrive channel. On the original amp, HRM is adjusted with internal trimmers, and gives an extra set of EQ controls for the overdrive sound. Originally this would have been useful when the tone stack was removed (Preamp Boost engaged). However, HRM provides a unique and distinctive sounding EQ that is useful in many scenarios. HRM tends to be more of a scooped EQ with plenty of low and high end, and you can use HRM to push the overdrive channel into much heavier territory, or into soaring, liquid gain.
 
@@ -1126,11 +1126,11 @@ Sending the program change and bypass state first allows the pedal to load the i
 
 # Enigmatic Safety
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--cdbd21e97afa27a5.png)
 
 Caution: To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--4a7e5ab151057901.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -1192,7 +1192,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 The company's products have obtained the NCC low-power radio frequency equipment verification certificate according to the new warnings of "Low-power radio frequency equipment technical specifications" as follows: "The low-power radio frequency equipment that has obtained the verification certificate shall not be changed by the company, firm or user without approval. Frequency, increase power, or change the features and functions of the original design. The use of low-power radio frequency equipment shall not affect flight safety and interfere with legal communications; continue to use.
 
-![](UAFX%20Enigmatic%20%2782%20Overdrive%20Special%20Amp%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![](../../attachments/uafx-enigmatic-82-overdrive-special-amp-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--c571a6e796c119b0.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

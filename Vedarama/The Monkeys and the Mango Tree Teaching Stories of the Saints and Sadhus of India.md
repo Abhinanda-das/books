@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/hjohari-tmatmt"
 ---
 
-![обложка|156](<The Monkeys and the Mango Tree Teaching Stories of the Saints and Sadhus of India/обложка.jpeg>)
+![обложка|156](<../attachments/the-monkeys-and-the-mango-tree-teaching-stories-of-the-saints-and--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--10452c263eb5d490.jpeg>)
 
 These beautifully illustrated tales capture the mystery, enchantment, and profound spiritual teachings of India.
 

@@ -54,7 +54,7 @@ ARM is enabled system-wide. When you enable ARM, all ARM components are affected
 
 <div collection="contentId-194936841" context-id="194936841" file-mime-type="image/png" file-name="workflow-recording-arm.png" file-size="29939" data-height="47" data-id="09ce2fce-b968-412f-a677-7588ecc509c3" node-type="media" data-type="file" data-width="634" title="Attachment">
 
-![arm-button.png](Accelerated%20Realtime%20Monitoring%20%28ARM%29%20in%20Apollo%20Mode_assets/db70ec6b85ad25b9d54e2ba1c081f8857064c77d.png)
+![arm-button.png](../../attachments/accelerated-realtime-monitoring-arm-in-apollo-mode_assets--db70ec6b85ad25b9d54e2ba1c081f8857064c77d--4bb186173cc5b7b3.png)
 
 </div>
 
@@ -62,7 +62,7 @@ ARM is enabled system-wide. When you enable ARM, all ARM components are affected
 
  
 
-![workflow-recording-arm.png](Accelerated%20Realtime%20Monitoring%20%28ARM%29%20in%20Apollo%20Mode_assets/28126fbb9ceada6e9188469bc6a562dcac0db328.png)
+![workflow-recording-arm.png](../../attachments/accelerated-realtime-monitoring-arm-in-apollo-mode_assets--28126fbb9ceada6e9188469bc6a562dcac0db328--65f4d735048b3fcc.png)
 
 ## To enable a bus to use an ARM Aux
 
@@ -75,7 +75,7 @@ ARM is enabled system-wide. When you enable ARM, all ARM components are affected
 
 <div collection="contentId-194936841" context-id="194936841" file-mime-type="image/png" file-name="arm-aux-selecting.png" file-size="201831" data-height="394" data-id="5209f2cd-db81-4974-b65f-403fa4dd6de6" node-type="media" data-type="file" data-width="316" title="Attachment">
 
-![arm-aux-selecting.png](Accelerated%20Realtime%20Monitoring%20%28ARM%29%20in%20Apollo%20Mode_assets/8426f79f03a079f48f44c45626a7d6ea63758cef.png)
+![arm-aux-selecting.png](../../attachments/accelerated-realtime-monitoring-arm-in-apollo-mode_assets--8426f79f03a079f48f44c45626a7d6ea63758cef--de36651be94a3176.png)
 
 </div>
 
@@ -238,7 +238,7 @@ To view available ARM resources, enable ARM, and toggle the Record workflow on.
 
 <div collection="contentId-194936841" context-id="194936841" file-mime-type="image/png" file-name="workflows-switch-record.png" file-size="10032" data-height="61" data-id="b04e897e-e48b-41a3-901a-ca09e85bfa2f" node-type="media" data-type="file" data-width="192" title="Attachment">
 
-![workflows-switch-record.png](Accelerated%20Realtime%20Monitoring%20%28ARM%29%20in%20Apollo%20Mode_assets/d1c341739b4e27879bf392b6a5a811f41cbc3567.png)
+![workflows-switch-record.png](../../attachments/accelerated-realtime-monitoring-arm-in-apollo-mode_assets--d1c341739b4e27879bf392b6a5a811f41cbc3567--a9f70bea30534725.png)
 
 </div>
 
@@ -248,7 +248,7 @@ To view available ARM resources, enable ARM, and toggle the Record workflow on.
 
 <div collection="contentId-194936841" context-id="194936841" file-mime-type="image/png" file-name="workflows-switch-record.png" file-size="10032" data-height="61" data-id="b04e897e-e48b-41a3-901a-ca09e85bfa2f" node-type="media" data-type="file" data-width="192" title="Attachment">
 
-![workflow-recording-arm.png](Accelerated%20Realtime%20Monitoring%20%28ARM%29%20in%20Apollo%20Mode_assets/28126fbb9ceada6e9188469bc6a562dcac0db328.png)
+![workflow-recording-arm.png](../../attachments/accelerated-realtime-monitoring-arm-in-apollo-mode_assets--28126fbb9ceada6e9188469bc6a562dcac0db328--65f4d735048b3fcc.png)
 
 </div>
 

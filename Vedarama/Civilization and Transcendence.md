@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/cat"
 ---
 
-![обложка|156](<Civilization and Transcendence/обложка.jpeg>)
+![обложка|156](<../attachments/civilization-and-transcendence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d52d704e3167b81c.jpeg>)
 
 In June 1976, Bhavan’s Journal, a Bombay religious magazine, sent various religious and spiritual leaders a questionnaire looking for enlightened answers to some of the perplexing questions of the day. One recipient of their questionnaire was Srila Prabhupada, who took the opportunity to make a thorough presentation of the ideal Vedic civilization, show the faults of modern society from the viewpoint of transcendence, and offer practical solutions based on Krishna conscious teachings.
 

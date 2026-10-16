@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/kapoor-eibtsc"
 ---
 
-![обложка|156](<Experiences in Bhakti the science celestial/обложка.jpeg>)
+![обложка|156](<../attachments/experiences-in-bhakti-the-science-celestial--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3b9887a6213946b6.jpeg>)
 
 This is a revised and corrected edition of Dr. O.B.L. Kapoor's now classic work on Krishna bhakti. Dr. Kapoor defines bhakti (sometimes loosely translated as religious devotion) as it is understood in the North Indian bhakti traditions. In addition, he isolates what he considers the four major traits or "laws" of bhakti, illustrating each of those laws with numerous stories from the lives of the great bhakti saints. Though Kapoor makes a case for bhakti's being a "science," the major value of this work lies in its phenomenological presentation of bhakti based on the experiences of bhakti practitioners and saints as recorded in various premodern and modern literary sources. It is thus one of best introductions to the religious phenomenon of bhakti available in the English language.
 

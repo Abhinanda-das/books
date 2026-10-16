@@ -53,7 +53,7 @@ For customer support, visit **help.uaudio.com**
 
 ### **Get Apollo Interface Presets**
 
-![](UA+Bock+187+User+Guide+10004932R12_assets/_page_1_Picture_11.jpeg)
+![](../../attachments/ua-bock-187-user-guide-10004932r12_assets--page_1_picture_11--7510f0641d43a61c.jpeg)
 
 UA Bock 187 comes with convenient Apollo Channel Strip Presets. These downloadable settings for UA's Apollo audio interfaces give you professional results on a wide range of sources, instantly. To get your presets, download UA Connect by scanning the QR code or visit **uaudio.com/mics/presets**
 
@@ -133,11 +133,11 @@ Protect the power cord from being walked on or pinched particularly at plugs, co
 
 Only use with attachments/accessories specified by the manufacturer. Refer all servicing to qualified service personnel. Servicing is required when the apparatus has been damaged in any way, such as powersupply cord or plug is damaged, liquid has been spilled or objects have fallen into the apparatus, the apparatus has been exposed to rain or moisture, does not operate normally, or has been dropped.
 
-![](UA+Bock+187+User+Guide+10004932R12_assets/_page_1_Picture_49.jpeg)
+![](../../attachments/ua-bock-187-user-guide-10004932r12_assets--page_1_picture_49--3545fcbf21befc21.jpeg)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 
-![](UA+Bock+187+User+Guide+10004932R12_assets/_page_1_Picture_51.jpeg)
+![](../../attachments/ua-bock-187-user-guide-10004932r12_assets--page_1_picture_51--db5a064f5d49e6f7.jpeg)
 
 Hazardous voltage enclosed. Do not open, will cause shock or burn. If servicing is needed, disconnect power and contact Universal Audio customer support.
 

@@ -20,11 +20,11 @@ Five simple modes are available. You can deep dive into circuit mods not availab
 - New Crush and Gated single-band modes for explosive room sounds
 - Use for real time encoding with analog tape sessions or perfectly decoded tape transfers
 
-![](A-Type%20Multiband%20Enhancer%20Manual_assets/8a4a407aff59534acf2c26358aae2a003dbeac43.png)
+![](../../attachments/a-type-multiband-enhancer-manual_assets--8a4a407aff59534acf2c26358aae2a003dbeac43--b9c5bd0663268f8f.png)
 
 *A-Type Multiband Dynamic Enhancer (Circuit Mods closed)*
 
-![](A-Type%20Multiband%20Enhancer%20Manual_assets/fb71b717ec2156e7c5855901ac73a305d511a726.png)
+![](../../attachments/a-type-multiband-enhancer-manual_assets--fb71b717ec2156e7c5855901ac73a305d511a726--2976b128ef4d1ed8.png)
 
 *A-Type Multiband Dynamic Enhancer (Circuit Mods open)*
 
@@ -40,7 +40,7 @@ The plug-in can be used to encode and decode signals to and from tape just like 
 
 #### [<span style="color: #1155cc;">Learn more about how we made the A-Type Multiband Dynamic Enhancer plug-in</span>](https://www.uaudio.com/blogs/ua/making-of-uad-a-type).<span style="color: #666666;"></span>
 
-![](A-Type%20Multiband%20Enhancer%20Manual_assets/c1d471fcf3f64ac2cd8a67a165b78daac0869d9c.png)
+![](../../attachments/a-type-multiband-enhancer-manual_assets--c1d471fcf3f64ac2cd8a67a165b78daac0869d9c--acd653e0825796b6.png)
 
 While A-Type noise reduction was widely used for decades, the processing was also repurposed as a creative enhancement tool: 
 
@@ -180,7 +180,7 @@ The Circuit Mods section allows you to adjust extended characteristics of A-Type
 
 Toggle the Circuit Mods area by clicking the reveal triangle below the IN / GR switch, or click the cartridge to open. Click the reveal triangle again to close.
 
-![](A-Type%20Multiband%20Enhancer%20Manual_assets/aa94e989c4ad4f07faaa39de31686e258b1e61f2.png)
+![](../../attachments/a-type-multiband-enhancer-manual_assets--aa94e989c4ad4f07faaa39de31686e258b1e61f2--2f3954c22e050b69.png)
 
 ## Auto Cal
 
@@ -220,7 +220,7 @@ In Gated Mode, Release controls both the compressor threshold and gate release.�
 
 ## Crossovers and Gains
 
-![](A-Type%20Multiband%20Enhancer%20Manual_assets/78b627ea8c6db0d11c089b18f3cbf6d566619279.gif)
+![](../../attachments/a-type-multiband-enhancer-manual_assets--78b627ea8c6db0d11c089b18f3cbf6d566619279--956c144bc832cfcc.gif)
 
 For Excite, Expand, and Air modes, you can individually adjust band crossover frequencies and band gain amounts. Use these controls to shape the frequency output from the plug-in for your material. Default settings feature crossover points of the original hardware.
 
@@ -240,12 +240,12 @@ For Excite, Expand, and Air modes, you can individually adjust band crossover fr
 - Drag horizontally on frequency handles or dividers to adjust its crossover frequencies
 
 \
-![](A-Type%20Multiband%20Enhancer%20Manual_assets/545e723532b9403b700b68c5b6f5d00b12045cb0.png)\
+![](../../attachments/a-type-multiband-enhancer-manual_assets--545e723532b9403b700b68c5b6f5d00b12045cb0--28dc1131fb6c6607.png)\
 \
 
 - Drag vertically on band handles (or within band displays) to adjust gain within a band\
   \
-  ![](A-Type%20Multiband%20Enhancer%20Manual_assets/fa83714167a38c4eb59e62520f92e99c978044cc.png)
+  ![](../../attachments/a-type-multiband-enhancer-manual_assets--fa83714167a38c4eb59e62520f92e99c978044cc--71474cc2dbade18f.png)
 
 **Tip:** Click a Frequency text label to snap the crossover frequency line to that setting. Crossover frequency lines can only snap to the labels within their frequency range.
 
@@ -284,7 +284,7 @@ While you can’t achieve the same results as applying A-Type Encode before the 
 
  
 
-![Manual Gang Shot.jpg](A-Type%20Multiband%20Enhancer%20Manual_assets/7163a342099cc2b92a4c54b130ec47bbc116bcdc.jpg)
+![Manual Gang Shot.jpg](../../attachments/a-type-multiband-enhancer-manual_assets--7163a342099cc2b92a4c54b130ec47bbc116bcdc--d429154f71c72cf6.jpg)
 
 *The full collection of hardware studied in the making of the A-Type Multiband Dynamic Enhancer*
 

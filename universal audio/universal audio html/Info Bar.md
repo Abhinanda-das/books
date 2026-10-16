@@ -13,7 +13,7 @@ The Info Bar is always visible at the bottom of the UAD Console window. It displ
 
 The Tempo controls are only available in the Info Bar. The Sample Rate and Clock Source controls are also available in UAD Console Settings. The UAD Resource Gauges have no controls; they are visual indicators only.
 
-![info-bar-callouts.png](Info%20Bar_assets/fa712f04220cb3ad1183d2df7405b49c2aeaff25.png)
+![info-bar-callouts.png](../../attachments/info-bar_assets--fa712f04220cb3ad1183d2df7405b49c2aeaff25--57876706014a9e72.png)
 
 *The Info Bar*
 
@@ -21,13 +21,13 @@ The Tempo controls are only available in the Info Bar. The Sample Rate and Clock
 
 If the Apollo hardware unit(s) is not properly connected, the sample rate and clock source will display OFFLINE as shown below.
 
-![](Info%20Bar_assets/45473198c89625781b3b8fc6b262d61711e4922b.png)
+![](../../attachments/info-bar_assets--45473198c89625781b3b8fc6b262d61711e4922b--05516902eefb2d2f.png)
 
 *Sample Rate and Clock when Apollo is offline*
 
 # Tempo Display
 
-![](Info%20Bar_assets/39d0ef290bcf43f59f275a1e2300cb7703c339b5.png)
+![](../../attachments/info-bar_assets--39d0ef290bcf43f59f275a1e2300cb7703c339b5--0362ba5f897be39a.png)
 
 UAD Console's current tempo is displayed here in beats per minute (BPM). UAD Console Tempo is used for time-based UAD plug-ins (such as delays and modulations) within UAD Console that are set to use Tempo Sync. UAD Console Tempo can be modified by typing a text value, tapping a tempo, or via MIDI.
 
@@ -39,7 +39,7 @@ For details about how to use the Tempo Sync feature with UAD plug-ins, see the [
 
 ## Tempo Popover
 
-![](Info%20Bar_assets/3e20bd1fd5fe872fe322bf0fe42a1800438fe5ff.png)
+![](../../attachments/info-bar_assets--3e20bd1fd5fe872fe322bf0fe42a1800438fe5ff--b9069758d5685499.png)
 
 To display the Tempo window, click anywhere in the Tempo Display within the Info Bar.
 
@@ -80,7 +80,7 @@ Tap tempo can be used to set a new tempo from incoming MIDI data. This method re
 3.  Transmit the MIDI note or controller (as specified in the previous step) at least four times to establish the tempo. The Tempo Display is RED during this period.
 4.  After a new tempo value is established, the new tempo is used and the Tempo Display changes back to BLACK. Simply retransmit the MIDI data to apply further tempo updates.\
     \
-    ![](Info%20Bar_assets/121c6f4da41f488d1161104041a06350c078cce0.png)
+    ![](../../attachments/info-bar_assets--121c6f4da41f488d1161104041a06350c078cce0--81decc67e47c9907.png)
 
 # Sample Rate Display
 
@@ -90,7 +90,7 @@ Apollo's current sample rate is displayed here. Click this area to select a diff
 
 ## Sample Rate Menu
 
-![](Info%20Bar_assets/d0ee5337a72c58f179c4b87d2b7541377ba7097a.png)
+![](../../attachments/info-bar_assets--d0ee5337a72c58f179c4b87d2b7541377ba7097a--7c3e4ca750f875be.png)
 
 Clicking the Sample Rate Display presents the Sample Rate Menu, where the current sample rate can be changed.
 
@@ -112,7 +112,7 @@ The active clock source (Internal, ADAT, S/PDIF, or Word Clock) is displayed her
 
 ## Clock Source Menu
 
-![](Info%20Bar_assets/cee99370e9f00c7dbe6c54d6483e7415f474dd3a.png)
+![](../../attachments/info-bar_assets--cee99370e9f00c7dbe6c54d6483e7415f474dd3a--72005e272f8dabd6.png)
 
 Apollo can synchronize to its internal clock or an external clock (word clock, ADAT, S/PDIF, or AES/EBU; available clock sources depend on the connected Apollo hardware). To select a clock source, click anywhere in the clock display area to view the Clock Source Menu, then select a clock source from the menu.
 
@@ -120,7 +120,7 @@ Apollo can synchronize to its internal clock or an external clock (word clock, A
 
 ## No External Clock
 
-![](Info%20Bar_assets/dc5bcf149c15b0f00d62c5c2fa4d02184c077e71.png)
+![](../../attachments/info-bar_assets--dc5bcf149c15b0f00d62c5c2fa4d02184c077e71--d764bf8a0f0489e2.png)
 
 If the Clock Source setting is not set to Internal and the external clock signal cannot be detected and/or resolved, then the text in the Clock Display display flashes RED (as shown at right) until a valid clock is detected and/or an alternate clock source is selected. If this occurs, verify connections and external device settings.
 

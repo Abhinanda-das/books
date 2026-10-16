@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/benton-god"
 ---
 
-![обложка|156](<God of Desire Tales of Kamadeva in Sanskrit Story Literature/обложка.jpeg>)
+![обложка|156](<../attachments/god-of-desire-tales-of-kamadeva-in-sanskrit-story-literature--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--eb072e1ee5aa92bb.jpeg>)
 
 Presents Kamadeva, the Hindu god of desire, in tales, art, and ritual. Also covers Kamadeva's appearance in Buddhist lore.
 

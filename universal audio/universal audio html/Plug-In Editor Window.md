@@ -15,7 +15,7 @@ Multiple editor windows can be open simultaneously. By default, each opened edit
 
 **Tip:** To open each editor window at the same screen location, shift+click the insert.
 
-![](Plug-In%20Editor%20Window_assets/79d867cfb1501f94b4ba7e714778905d3a7ab548.png)
+![](../../attachments/plug-in-editor-window_assets--79d867cfb1501f94b4ba7e714778905d3a7ab548--b55eb3d8c76a948e.png)
 
  
 
@@ -33,7 +33,7 @@ The editor window’s title bar is displayed at the top of each editor window.
 
 The UAD Toolbar is located at the top of every UAD plug-in window. This toolbar contains convenient features that you can use with every UAD plug-in.
 
-![](Plug-In%20Editor%20Window_assets/4610683c9a52f2c4ba332b201ae22c652c38edc5.png)
+![](../../attachments/plug-in-editor-window_assets--4610683c9a52f2c4ba332b201ae22c652c38edc5--d8a970b2df0db804.png)
 
 ## Previous/Next Preset
 
@@ -67,7 +67,7 @@ Click the **UAD-2 •••** button to open the plug-in options menu.
 
  
 
-![](Plug-In%20Editor%20Window_assets/90873d4a77fb4a4aec20c27591b2f04224b3065f.png)
+![](../../attachments/plug-in-editor-window_assets--90873d4a77fb4a4aec20c27591b2f04224b3065f--c6a43986895ef584.png)
 
 ## Resize Plug-In
 
@@ -81,5 +81,5 @@ To reset all UAD plug-ins to the default size, choose the 100% option, then choo
 
 Select Help & Video to access documentation and tips for the plug-in. You can then choose to open the online documentation page or a short video. The video gives quick tips on the operation of the plug-in, and the documentation page details the operation and controls of the plug-in.
 
-![](Plug-In%20Editor%20Window_assets/295c515979ff0020d1df61efa9f93862e1e6a435.png)
+![](../../attachments/plug-in-editor-window_assets--295c515979ff0020d1df61efa9f93862e1e6a435--83742125837afbb0.png)
 

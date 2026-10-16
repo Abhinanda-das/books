@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jsd"
 ---
 
-![обложка|156](<The Journey of Self-Discovery/обложка.jpeg>)
+![обложка|156](<../attachments/the-journey-of-self-discovery--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a2f4abe93a9c1331.jpeg>)
 
 Srila Prabhupada declares, "We don't say that this scientific knowledge is useless. Mechanics, electronics – this is also knowledge. But the central point is atma-jnana – self-knowledge, knowledge of the soul."
 

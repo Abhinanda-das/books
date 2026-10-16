@@ -15,7 +15,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bg"
 ---
 
-![обложка|156](<Bhagavad-Gita As It Is/обложка.jpeg>)
+![обложка|156](<../attachments/bhagavad-gita-as-it-is--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a02bcb62fb396cda.jpeg>)
 
 Bhagavad-Gita As It Is is the most widely read edition of this classic of world literature. It contains knowledge of five basic truths: Krishna (God), the individual soul, the material world, action in this world, and time. Bhagavad-gita thoroughly explains the nature of consciousness, the self, and the universe.
 

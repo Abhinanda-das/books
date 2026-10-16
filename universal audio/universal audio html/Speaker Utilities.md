@@ -13,13 +13,13 @@ The Speaker Utilities tab on the Monitor Controller window is where Apollo X spe
 
 **Tip:** See [Calibrating Monitors](https://help.uaudio.com/hc/en-us/articles/26817449653012#h_01J9CTT7WJKVVP12X2NVE3S9PH) for detailed instructions on how to calibrate your system using the functions in this popover. 
 
-![](Speaker%20Utilities_assets/5fe49885b6ad5e27901fb5786a4776ebe1a13149.png)
+![](../../attachments/speaker-utilities_assets--5fe49885b6ad5e27901fb5786a4776ebe1a13149--79a45dae5e6ba3dc.png)
 
  
 
  
 
-![](Speaker%20Utilities_assets/b08f5914670b5050bbebaed24fa7f942bd7f1291.png)
+![](../../attachments/speaker-utilities_assets--b08f5914670b5050bbebaed24fa7f942bd7f1291--f53236dc2e32ef5e.png)
 
 To open the Monitor Calibration popover, click the the Monitor Controller button in the Monitor Column, or the button next to the MONITOR MODE menu in Console Settings \> Hardware.
 

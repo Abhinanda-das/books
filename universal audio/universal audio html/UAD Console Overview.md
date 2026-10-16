@@ -19,10 +19,10 @@ UAD Console remotely controls the digital mixing and signal processing functions
 
 **Note:** Apollo interfaces use UAD DSP and memory resources for the internal DSP mixer. Therefore, the UAD Meters will show DSP and memory usage when Apollo is connected, even if UAD Console and/or Apollo plug-ins are not currently loaded.
 
-![console-icon.png](UAD%20Console%20Overview_assets/31a99b2e0b37d2aa334fe5a99628e7c892223396.png)
+![console-icon.png](../../attachments/uad-console-overview_assets--31a99b2e0b37d2aa334fe5a99628e7c892223396--2c665ecd78cef95f.png)
 
 <figure class="wysiwyg-image">
-![console-callouts.png](UAD%20Console%20Overview_assets/0f812ccdb61b541626f6645a42ce46a7a1babd1b.png)
+![console-callouts.png](../../attachments/uad-console-overview_assets--0f812ccdb61b541626f6645a42ce46a7a1babd1b--4bee116d2fd02a90.png)
 </figure>
 
 *UAD Console's application icon and main window*
@@ -93,7 +93,7 @@ Any of the methods below can be used to open the UAD Console application.
 - Click the UA diamond logo in the Menu Bar (upper right of screen) then choose Console from the drop menu
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 40%;">
-![console-menu.png](UAD%20Console%20Overview_assets/193a43978140ac6b8f0166033a1b1b154578dc67.png)
+![console-menu.png](../../attachments/uad-console-overview_assets--193a43978140ac6b8f0166033a1b1b154578dc67--bcb4e2dd8537f171.png)
 </figure>
 
 *Accessing UAD Console from the macOS Menu Bar*
@@ -103,7 +103,7 @@ Any of the methods below can be used to open the UAD Console application.
 - Access the program from the Windows Start Menu
 - Right-click the UA diamond logo in the Windows System Tray (in taskbar at lower right of screen), then choose Console from the contextual menu
 
-![access-console-windows.png](UAD%20Console%20Overview_assets/74c0213dce0e8d134d6550149292b08e29ea927b.png)
+![access-console-windows.png](../../attachments/uad-console-overview_assets--74c0213dce0e8d134d6550149292b08e29ea927b--363cf3fd4625d850.png)
 
 *Accessing UAD Console from the Windows System Tray*
 
@@ -125,7 +125,7 @@ UAD Console can be closed using any of these methods:
 
 # Resizing the UAD Console Window
 
-![console-window-resize.png](UAD%20Console%20Overview_assets/1e25731caa5ae666248e0eb2d886af94c4ea83f1.png)
+![console-window-resize.png](../../attachments/uad-console-overview_assets--1e25731caa5ae666248e0eb2d886af94c4ea83f1--6dee98b766fa27c3.png)
 
 The size of UAD Console's high-resolution window can be dynamically adjusted in realtime to fit any workspace. To adjust the window size, click+drag any corner or any edge of the window.
 

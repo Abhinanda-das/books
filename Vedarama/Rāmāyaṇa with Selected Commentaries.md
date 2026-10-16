@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rama-sc"
 ---
 
-![обложка|156](<Rāmāyaṇa with Selected Commentaries/обложка.jpeg>)
+![обложка|156](<../attachments/r%C4%81m%C4%81ya%E1%B9%87a-with-selected-commentaries--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--98435fefeeb84dce.jpeg>)
 
 Valmiki Ramayana: Balakanda (With Sanskrit Text, Roman Transliteration, Word-to-Word Meaning and English Translation)
 

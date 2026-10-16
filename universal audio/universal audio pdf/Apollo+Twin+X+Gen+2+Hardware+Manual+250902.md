@@ -7,7 +7,7 @@ word_count: 11033
 ---
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0001-00.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0001-00--720192d339d79af8.png)
 
 
 ## Thunderbolt 3 Audio Interface 
@@ -15,7 +15,7 @@ word_count: 11033
 with Realtime UAD Processing 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0001-03.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0001-03--c675cccac30b6f46.png)
 
 
 ## **Apollo Twin X Gen 2 Hardware Manual** 
@@ -23,7 +23,7 @@ with Realtime UAD Processing
 Manual Version 250902 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0001-06.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0001-06--b64106ac628f23fa.png)
 
 
 www.uaudio.com 
@@ -45,7 +45,7 @@ Please feel free to reach out to us via our website www.uaudio.com, and via our 
 Sincerely, 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0002-08.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0002-08--4a8946507071e6ac.png)
 
 
 Bill Putnam Jr. 
@@ -123,7 +123,7 @@ Combine Apollo Twin X’s DUO or QUAD Core DSP with native processing from your 
 Build out your dream studio by linking up to four Thunderbolt Apollo interfaces for up to 128 channels of premium I/O, and control it all from your desktop using Apollo Twin X. So no matter how far your music takes you, an Apollo will always be in reach. 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0005-06.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0005-06--d428f88352bdd10c.png)
 
 
 _includes the Essentials+ or Studio+ Editions. Other UAD plug-ins available separately. All trademarks are property of their respective owners._ 
@@ -165,7 +165,7 @@ Introduction
 - Free industry-leading technical support from knowledgeable audio engineers 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0006-15.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0006-15--52b921856dde88d4.png)
 
 
 Apollo Twin X Gen 2 Hardware Manual 
@@ -339,7 +339,7 @@ Note that UAD plug-in instantiations are not retained on power down, because the
 _Note: Standalone use is unavailable when cascading multiple Apollo units._ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0010-08.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0010-08--d38e1e7ad458390b.png)
 
 
 Apollo Twin X Gen 2 Hardware Manual 
@@ -487,13 +487,13 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 ## _Does your USB-C connector support Thunderbolt 3?_ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0014-10.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0014-10--4fe9c5d0ded214d6.png)
 
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer. 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0014-12.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0014-12--c51c7a22ee63dca8.png)
 
 
 _Thunderbolt icon on USB-C cable (left) and USB-C port (right)_ 
@@ -601,7 +601,7 @@ One typical Apollo Twin X audio setup is illustrated below. For complete details
 _Tip: In this example, the mic is connected to channel 2, so the mic and the instrument (which connects to channel 1) can be used at the same time._ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0017-03.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0017-03--5b0974c8e20d4ccd.png)
 
 
 **----- Start of picture text -----**<br>
@@ -609,7 +609,7 @@ Hi-Z<br>Instrument<br>Headphones<br>**----- End of picture text -----**<br>
 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0017-04.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0017-04--3a7f761a3e4ce6de.png)
 
 
 **----- Start of picture text -----**<br>
@@ -695,7 +695,7 @@ When Apollo Twin X is in Preamp mode, the top panel controls are related to inpu
 _Important: Apollo Twin X must be in Preamp mode to modify preamp gain levels and other input options._ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0019-11.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0019-11--c664cf0189c09db1.png)
 
 
 _Note: Output functions (monitor and headphone) cannot be performed in Preamp mode. Press the MONITOR button to perform output functions._ 
@@ -721,7 +721,7 @@ The currently selected input channel is shown by the CH1 and CH2 indicators at t
 _Note: The preamp controls adjust the functions for the currently selected channel._ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0020-03.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0020-03--2180e91c9719e0a0.png)
 
 
 ## Changing Channels 
@@ -735,7 +735,7 @@ The Mic, Line, or Hi-Z input source is routed into the channel’s preamplifier.
 The MIC (XLR) or LINE (¼”) combo inputs on the rear panel are selected by the pressing the INPUT button when the channel is selected. The Hi-Z input (available on channel 1 only) is selected automatically when an instrument cable is plugged into the Hi-Z input on the front panel. 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0020-09.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0020-09--bdde7f5d905007d5.png)
 
 
 _Note: Only one input jack at a time (Mic, Line, or Hi-Z) can be used as a channel’s input source._ 
@@ -749,7 +749,7 @@ The Level knob adjusts the amount of preamp gain (input signal level) for the cu
 Each input channel has a set of preamp options. The preamp options for the currently selected input channel are activated using the row of six buttons when in Preamp mode. 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0020-15.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0020-15--b31e4a577b1dded4.png)
 
 
 The current state of the preamp options are indicated in the upper row of the options display panel above the six option buttons. Available options are dim when inactive, bright when enabled, and unlit when unavailable. 
@@ -769,7 +769,7 @@ When Apollo Twin X is in Monitor mode, the top panel controls are related to out
 _Note: Input functions cannot be performed in Monitor mode. Press the PREAMP button to perform input functions._ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0021-03.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0021-03--7f16c7cf227487ba.png)
 
 
 _Important: Apollo Twin X must be in Monitor mode to change the volume of the monitor/headphone outputs and other output options._ 
@@ -791,7 +791,7 @@ The currently selected stereo output is shown by the MONITOR and HEADPHONE indic
 _Note: The Level knob adjusts the volume for the currently selected stereo output._ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0021-13.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0021-13--37a1ecf1b57e8690.png)
 
 
 ## Changing Stereo Outputs 
@@ -803,7 +803,7 @@ When in Monitor mode, press the MONITOR button to change the selected stereo out
 Apollo Twin X has monitor options that perform the functions of a dedicated monitor controller. The monitor options are controlled using the row of six buttons when in MONITOR Mode. 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0021-18.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0021-18--ea44a641e9ce665d.png)
 
 
 The current state of the monitor options are indicated in the lower row of the options display panel above the option buttons. Available options are dim when inactive, bright when enabled, and unlit when unavailable. 
@@ -821,7 +821,7 @@ Controls & Connectors
 Refer to the illustration below for numbered control descriptions in this section. 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0022-02.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0022-02--eaad806ca099dc4c.png)
 
 
 **----- Start of picture text -----**<br>
@@ -839,7 +839,7 @@ When in PREAMP Mode, rotate clockwise to increase the amount of preamp gain for 
 ## Unison Integration 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0022-08.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0022-08--226f8f71753a49ef.png)
 
 
 The Level knob can also be used to control Unison-enabled UAD preamp, guitar/bass amp, and pedal plug-in parameters. See the UAD Console Manual for complete Unison details. 
@@ -919,13 +919,13 @@ Each of the six Option Buttons has dual functions. In Preamp mode, the buttons c
 ## Unison Integration 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0024-09.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0024-09--ec9c359dac175646.png)
 
 
 In Preamp mode, the Option Buttons can also be used to control Unison-enabled UAD preamp, guitar/bass amp, and pedal plug-in parameters. See the UAD Console Manual for complete Unison details. 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0024-11.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0024-11--c26393c6626c7164.png)
 
 
 _Options Display (12) and Option Buttons (13)_ 
@@ -945,7 +945,7 @@ A preamp option is active when its indicator in the upper row of the Options Dis
 _Note: In MONITOR mode, the preamp options cannot be modified and the upper row of the Options Display is unlit._ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0025-04.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0025-04--34d6806fb343cdbd.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1001,7 +1001,7 @@ The TALK, DIM, ALT, and FCN functions are configured in the companion UAD Consol
 _Note: In Preamp mode, the monitor options cannot be modified and the lower row of the Options Display is unlit._ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0026-05.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0026-05--6a87e8bda4f31991.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1047,7 +1047,7 @@ _Note: MUTE does not apply to the headphone outputs. Headphone outputs cannot be
 Refer to the illustration below for numbered control descriptions in this section. 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0027-05.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0027-05--9a04f3c25ac1caba.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1085,7 +1085,7 @@ Refer to the illustration below for numbered control descriptions in this sectio
 _Note: All rear panel ¼” jacks can accept unbalanced TS (tip-sleeve) or balanced TRS (tip-ring-sleeve) plugs._ 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0028-03.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0028-03--f23c696569009e1b.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1253,7 +1253,7 @@ Apollo Twin X Gen 2 Hardware Manual
 31 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0032-00.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0032-00--e943f369502f1d3d.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1275,7 +1275,7 @@ Apollo Twin X Gen 2 Hardware Manual
 ## Hardware Block Diagram 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0033-01.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0033-01--687882b11a928ad0.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1331,7 +1331,7 @@ Troubleshooting
 ## **Notices** 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0035-01.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0035-01--19f5b7c198fd18aa.png)
 
 
 ## Important Safety Information 
@@ -1391,7 +1391,7 @@ The product is covered by a limited warranty. For the current terms of such warr
 ## Maintenance 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0036-04.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0036-04--b612dc0ab0d4d1fe.png)
 
 
 **CAUTION:** To reduce the risk of electric shock, do not open the unit. 
@@ -1521,13 +1521,13 @@ Apollo Twin X QUAD Gen 2
 Apollo Twin DUO Gen 2 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0039-17.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0039-17--c3821861b29316c0.png)
 
 
 Apoollo Twin X QUAD Gen 2 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0039-19.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0039-19--cf317ba8fe68f4b5.png)
 
 
 39 
@@ -1599,7 +1599,7 @@ Universal Audio
 41 
 
 
-![](Apollo+Twin+X+Gen+2+Hardware+Manual+250902_assets/Apollo+Twin+X+Gen+2+Hardware+Manual+250902.pdf-0042-00.png)
+![](../../attachments/apollo-twin-x-gen-2-hardware-manual-250902_assets--apollo-twin-x-gen-2-hardware-manual-250902.pdf-0042-00--29b53c0d35423648.png)
 
 
 www.uaudio.com 

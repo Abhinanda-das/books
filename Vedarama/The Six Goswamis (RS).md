@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sixgoswami"
 ---
 
-![обложка|156](<The Six Goswamis (RS)/обложка.jpeg>)
+![обложка|156](<../attachments/the-six-goswamis-rs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c2908affb154e974.jpeg>)
 
 A talk by Radhanatha Maharaja
 

@@ -9,13 +9,13 @@ word_count: 2474
 **SPL Analog Code**[®] **Plug-in** 
 
 
-![](<SPL TwinTube Manual_assets/SPL_TwinTube_Manual.pdf-0001-01.png>)
+![](<../../attachments/spl-twintube-manual_assets--spl_twintube_manual.pdf-0001-01--9d55186580818963.png>)
 
 
 **TwinTube Processor** 
 
 
-![](<SPL TwinTube Manual_assets/SPL_TwinTube_Manual.pdf-0001-03.png>)
+![](<../../attachments/spl-twintube-manual_assets--spl_twintube_manual.pdf-0001-03--0f2f3d958605fcf8.png>)
 
 
 ## **Manual** 
@@ -117,7 +117,7 @@ With a click on the POWER LED you can turn the TwinTube on or off. The switch se
 ## **HAR. ON/SAT. ON** 
 
 
-![](<SPL TwinTube Manual_assets/SPL_TwinTube_Manual.pdf-0007-06.png>)
+![](<../../attachments/spl-twintube-manual_assets--spl_twintube_manual.pdf-0007-06--1350e45e9b5fedc2.png>)
 
 
 Activating HAR. ON engages the HARMONICS control. Likewise you engage SATURATION with the switch SAT. ON. When turned on, these switches illuminate. One of the both processing stages can be applied therefore respectively separately. Similarly you can process the signal with both stages at the same time. 
@@ -155,7 +155,7 @@ Center Frequency: 1.9 kHz, Bandwidth: 4.7 kHz, Max Gain: +15 dB
 The frequency ranges are based upon our experiences and test series to offer ideal processing ranges for a wide variety of instruments (and vocals of course). You may find further information under „Applications” on page 10. 
 
 
-![](<SPL TwinTube Manual_assets/SPL_TwinTube_Manual.pdf-0008-12.png>)
+![](<../../attachments/spl-twintube-manual_assets--spl_twintube_manual.pdf-0008-12--556572d4ee7d07cf.png>)
 
 
 ## **SATURATION Control** 
@@ -173,7 +173,7 @@ _**TwinTube Analog Code[®] Plug-in**_
 ## **Signal LED** 
 
 
-![](<SPL TwinTube Manual_assets/SPL_TwinTube_Manual.pdf-0009-02.png>)
+![](<../../attachments/spl-twintube-manual_assets--spl_twintube_manual.pdf-0009-02--a258a00375c45f8b.png>)
 
 
 The SIG. LED indicates that an audio signal reaches the input. In the analog world this LED helps the operator especially in complex setups to determine immediately whether the TwinTube actually receives any signal. In the digital domain it simply tells you that the channel where you inserted the plug contains a signal that is loud enough to ensure correct processing. 
@@ -181,7 +181,7 @@ The SIG. LED indicates that an audio signal reaches the input. In the analog wor
 ## **Overload LED** 
 
 
-![](<SPL TwinTube Manual_assets/SPL_TwinTube_Manual.pdf-0009-05.png>)
+![](<../../attachments/spl-twintube-manual_assets--spl_twintube_manual.pdf-0009-05--12ca3d115fb5405b.png>)
 
 
 The OVL LED indicates internal clipping. Wether the clipping is audible or not depends on the kind of audio material you are processing. Nevertheless it should be avoided that the OVL LED illuminates. Reduce the input level or processing values if the OVL-LEDs keeps flashing. 
@@ -247,6 +247,6 @@ Analog Code[®] Plug-in
 E-Mail: software@spl.info, Website: spl.info 
 
 
-![](<SPL TwinTube Manual_assets/SPL_TwinTube_Manual.pdf-0012-05.png>)
+![](<../../attachments/spl-twintube-manual_assets--spl_twintube_manual.pdf-0012-05--746536fab9a312f7.png>)
 
 

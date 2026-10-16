@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ps-arp-bs"
 ---
 
-![обложка|156](<Aścarya-rāsa-prabandhaḥ [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/a%C5%9Bcarya-r%C4%81sa-prabandha%E1%B8%A5-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b5419f2b5dced7f0.jpeg>)
 
 A Work Describing the Astonishing Rasa Dance. Transliterated sanskrit verses with verse translations by Bhanu Swami.
 

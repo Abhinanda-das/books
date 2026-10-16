@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gtu-vc-bv-bs"
 ---
 
-![обложка|156](<Gopāla-tāpanī-upaniṣad (Viśvanātha&Baladeva) [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/gop%C4%81la-t%C4%81pan%C4%AB-upani%E1%B9%A3ad-vi%C5%9Bvan%C4%81tha-baladeva-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--7e1961d6f5186bd4.jpeg>)
 
 Gopāla-tāpanī Upaniṣad, part of Atharva Veda, is often quoted by Gauḍīya ācāryas since it is a śruti text which clearly praises Kṛṣṇa and the path of bhakti as supreme. Its main subject is Kṛṣṇa. It also explains the Kṛṣṇa mantra in detail. Jīva, Prabhodānanda, Viśvanātha, and Baladeva have written commentaries on this upaniṣad. This work includes the commentaries of both Viśvanātha and Baladeva.
 

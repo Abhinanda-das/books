@@ -48,7 +48,7 @@ Sincerely,
 <div layout="align-start" node-type="mediaSingle" data-width="40">
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left">
-![bill-putnam-jr-signature.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-astra-modulation-machine-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--4fd0496477758bb7.png)
 </figure>
 
 </div>
@@ -63,7 +63,7 @@ Bill Putnam Jr.
 
 <div class="fabric-editor-block-mark fabric-editor-align-center" data-align="center">
 
-![astra-qsg-2x.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/f06fcef3a33fc1d65f1deff3e1aac6a871a0b3d5.png)
+![astra-qsg-2x.png](../../attachments/uafx-astra-modulation-machine-manual_assets--f06fcef3a33fc1d65f1deff3e1aac6a871a0b3d5--0149754dbf452fe3.png)
 
 <a href="https://help.uaudio.com/hc/en-us/articles/360058186352" rel="undefined" target="_self"><strong>Download Astra Quick Start</strong></a>
 
@@ -114,7 +114,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here</span>](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-non-amp.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/097372538c02d4b5c1b83457b44efa5e78485dc7.png)
+![rear-callouts-non-amp.png](../../attachments/uafx-astra-modulation-machine-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--02ad848497aaa70c.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -132,7 +132,7 @@ To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here<
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the live effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![golden-switches-on-led.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/039ea6f067a659c26bac8c58abbbf5de3c79066c.png)
+![golden-switches-on-led.png](../../attachments/uafx-astra-modulation-machine-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--1e999dfd0415bd16.png)
 </figure>
 
 ### Preset Mode
@@ -143,7 +143,7 @@ To enter Preset mode, press the right footswitch. Press the right footswitch aga
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="golden-switches-preset-led.png" file-size="31499" data-height="194" data-id="3897631e-ab26-483e-b843-512de508265d" node-type="media" data-type="file" data-width="712" title="Attachment">
 
-![golden-switches-preset-led.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/381e83806fbca2e28a4cc8d1d3a4d7b015b0194c.png)
+![golden-switches-preset-led.png](../../attachments/uafx-astra-modulation-machine-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--33ca7398c7071278.png)
 
 </div>
 
@@ -178,7 +178,7 @@ Astra’s right footswitch has two available settings:
 ### Preset
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![astra-fs-preset.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/37c76aca54332311105ed1e536f57ab99d05cf7f.png)
+![astra-fs-preset.png](../../attachments/uafx-astra-modulation-machine-manual_assets--37c76aca54332311105ed1e536f57ab99d05cf7f--913c15ff74d44bb5.png)
 </figure>
 
 When set to Preset, the right footswitch immediately loads the preset with its stored tempo, and toggles the preset on/off. Tap tempo is unavailable with this setting.
@@ -188,7 +188,7 @@ When set to Preset, the right footswitch immediately loads the preset with its s
 <div layout="center" node-type="mediaSingle" data-width="">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![astra-fs-preset-tap.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/b05e95253a4c2296e0ffdf452e6701fc49cd49c0.png)
+![astra-fs-preset-tap.png](../../attachments/uafx-astra-modulation-machine-manual_assets--b05e95253a4c2296e0ffdf452e6701fc49cd49c0--f2943afded734d3b.png)
 </figure>
 
 </div>
@@ -232,7 +232,7 @@ Astra Modulation Machine effect bypass routing can be set for true bypass or buf
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="tbp-astra.png" file-size="11420" data-height="348" data-id="ff00b117-f54a-42d7-b5cd-1efb28beef9b" node-type="media" data-type="file" data-width="951" title="Attachment">
 
-![astra-tbp-flow-trans.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/1a8fe258874ef62759468aaca5704202c48f8003.png)
+![astra-tbp-flow-trans.png](../../attachments/uafx-astra-modulation-machine-manual_assets--1a8fe258874ef62759468aaca5704202c48f8003--9aec5acea0f7794b.png)
 
 </div>
 
@@ -248,7 +248,7 @@ When set for true bypass and the effect is on, the output is buffered.
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="bbp-astra.png" file-size="11557" data-height="326" data-id="35c619c4-729f-4dec-9b76-cf31a8ecbcc5" node-type="media" data-type="file" data-width="954" title="Attachment">
 
-![astra-bbp-flow-trans.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/9d49ce5fae61b8887a4b70a83fcf255c581f2c3c.png)
+![astra-bbp-flow-trans.png](../../attachments/uafx-astra-modulation-machine-manual_assets--9d49ce5fae61b8887a4b70a83fcf255c581f2c3c--a5cff5d1cdee98f4.png)
 
 </div>
 
@@ -350,7 +350,7 @@ Upon its release in 1976, this legendary gray bucket-brigade stompbox changed th
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="astra-map-chorus-brigade-chorus.png" file-size="51034" data-height="307" data-id="f56216ce-4dde-4cfe-a625-519eb3cd04ab" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-astra-cb-chorus.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/aaecd6fe9efe533ee87fac70ca1cf3127ac8145d.png)
+![map-astra-cb-chorus.png](../../attachments/uafx-astra-modulation-machine-manual_assets--aaecd6fe9efe533ee87fac70ca1cf3127ac8145d--85ef765e7969ea89.png)
 
 </div>
 
@@ -410,7 +410,7 @@ Upon its release in 1976, this legendary gray bucket-brigade stompbox changed th
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="astra-map-chorus-brigade-vibrato.png" file-size="52216" data-height="307" data-id="27c26580-bc7f-4df2-906e-f50f4906e779" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-astra-cb-vibrato.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/db3d1ce431ad9163453a2afedbe93a54e9bf5bce.png)
+![map-astra-cb-vibrato.png](../../attachments/uafx-astra-modulation-machine-manual_assets--db3d1ce431ad9163453a2afedbe93a54e9bf5bce--e55ecb7b0a9be37a.png)
 
 </div>
 
@@ -478,7 +478,7 @@ Packed with late-'70s bucket-brigade tech, this classic rackmount studio flanger
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="astra-map-flanger-dblr.png" file-size="48514" data-height="307" data-id="17f9eeec-934b-46fa-ae5d-3cfce3d908c9" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-astra-flanger-doubler.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/18a1b81d278eee62d1cc75effd2e516f3e58a2ff.png)
+![map-astra-flanger-doubler.png](../../attachments/uafx-astra-modulation-machine-manual_assets--18a1b81d278eee62d1cc75effd2e516f3e58a2ff--c2d0b9c3a833f001.png)
 
 </div>
 
@@ -548,7 +548,7 @@ Few things compare to the optical tube-driven tremolo of '60s American amplifier
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="astra-map-trem-65.png" file-size="49944" data-height="307" data-id="b814cb74-518f-4fea-9ce1-ccb474672903" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-astra-trem-65.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/648250dd2a40cd90064933c1accdc367686c672a.png)
+![map-astra-trem-65.png](../../attachments/uafx-astra-modulation-machine-manual_assets--648250dd2a40cd90064933c1accdc367686c672a--31015938f7cd69ed.png)
 
 </div>
 
@@ -624,7 +624,7 @@ This additional effect is available after you register your Astra Modulation Mac
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="astra-select-leds.png" file-size="31635" data-height="194" data-id="d7958f9e-cf8a-4496-809b-48d83f25dda5" node-type="media" data-type="file" data-width="477" title="Attachment">
 
-![astra-select-leds.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/6b874eb6c6d8042f02e2447d2c80ff84cef1701f.png)
+![astra-select-leds.png](../../attachments/uafx-astra-modulation-machine-manual_assets--6b874eb6c6d8042f02e2447d2c80ff84cef1701f--36c706dad8c2b92a.png)
 
 </div>
 
@@ -636,7 +636,7 @@ This additional effect is available after you register your Astra Modulation Mac
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="astra-map-phaser-x90.png" file-size="53396" data-height="307" data-id="c1311e17-7e9c-4569-8701-f9bb86c3e9eb" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-astra-phaser-x90.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/5c7a530471ad385094875d210e1ef4d004491d6e.png)
+![map-astra-phaser-x90.png](../../attachments/uafx-astra-modulation-machine-manual_assets--5c7a530471ad385094875d210e1ef4d004491d6e--4192f2737a46c776.png)
 
 </div>
 
@@ -710,7 +710,7 @@ This additional effect is available after you register your Astra Modulation Mac
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="astra-select-leds.png" file-size="31635" data-height="194" data-id="d7958f9e-cf8a-4496-809b-48d83f25dda5" node-type="media" data-type="file" data-width="477" title="Attachment">
 
-![astra-select-leds.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/6b874eb6c6d8042f02e2447d2c80ff84cef1701f.png)
+![astra-select-leds.png](../../attachments/uafx-astra-modulation-machine-manual_assets--6b874eb6c6d8042f02e2447d2c80ff84cef1701f--36c706dad8c2b92a.png)
 
 </div>
 
@@ -722,7 +722,7 @@ This additional effect is available after you register your Astra Modulation Mac
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082556575" context-id="1082556575" file-mime-type="image/png" file-name="astra-map-dharma-61-trem.png" file-size="53192" data-height="307" data-id="362acec0-9bc7-4e6a-b57e-9e209ca60bda" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-astra-dharma-tram.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/9776dd97f49874a6452dea2ec84be41d502876a6.png)
+![map-astra-dharma-tram.png](../../attachments/uafx-astra-modulation-machine-manual_assets--9776dd97f49874a6452dea2ec84be41d502876a6--4b7cfb969c4c8a34.png)
 
 </div>
 
@@ -794,7 +794,7 @@ The default preset for Astra Modulation Machine provides a classic amp tremolo s
 
 Note that when you switch effect types in Preset mode, all settings change to their defaults, which are optimized for that effect. Use the defaults as a starting point when you are looking for a great chorus, flanger, or tremolo sound.
 
-![astra-default.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/9785c2869a6679eb83fb9d571aa77917a4d3ac32.png)
+![astra-default.png](../../attachments/uafx-astra-modulation-machine-manual_assets--9785c2869a6679eb83fb9d571aa77917a4d3ac32--22aeec9318f97770.png)
 
 <div layout="center" node-type="mediaSingle" data-width="">
 
@@ -816,7 +816,7 @@ Tap Settings at the bottom right of the screen to access the settings for a peda
 
 After registration the Phaser X90 and Dharma Trem 61 effects are added to the pedal. To select these effects, push the Effect Type switch until the top or middle LED is lit green.
 
-![astra-select-leds.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/6b874eb6c6d8042f02e2447d2c80ff84cef1701f.png)
+![astra-select-leds.png](../../attachments/uafx-astra-modulation-machine-manual_assets--6b874eb6c6d8042f02e2447d2c80ff84cef1701f--36c706dad8c2b92a.png)
 
 ## Configuring Bypass Routing
 
@@ -830,7 +830,7 @@ Under Bypass Routing, tap True Bypass or Buffered Bypass.
 
 ### True Bypass
 
-![tbp-astra.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/acfee98865ca024abba1f795ca08702c09a04664.png)
+![tbp-astra.png](../../attachments/uafx-astra-modulation-machine-manual_assets--acfee98865ca024abba1f795ca08702c09a04664--62673147345c9869.png)
 
 When bypass routing is set for true bypass and the effect is off, the dry signal is pure analog dry-through from input to output, without buffering or any other circuitry, via mechanical relays. By default, your UAFX pedal is set for true bypass.
 
@@ -838,7 +838,7 @@ When set for true bypass and the effect is on, the output is buffered.
 
 ### Buffered Bypass
 
-![bbp-astra.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/c4c4f0f76ce82ec924d47d9032b5997a4e5da217.png)
+![bbp-astra.png](../../attachments/uafx-astra-modulation-machine-manual_assets--c4c4f0f76ce82ec924d47d9032b5997a4e5da217--5e3bc19c91f66cc9.png)
 
 When bypass routing is set for buffered bypass, the output is buffered when the effect is on, and also when the effect is off.
 
@@ -875,7 +875,7 @@ Under Right footswitch, tap Preset or Preset + Tap.
 ### Preset
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![astra-fs-preset.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/37c76aca54332311105ed1e536f57ab99d05cf7f.png)
+![astra-fs-preset.png](../../attachments/uafx-astra-modulation-machine-manual_assets--37c76aca54332311105ed1e536f57ab99d05cf7f--913c15ff74d44bb5.png)
 </figure>
 
 When set to Preset, the right footswitch immediately loads the preset with its stored tempo, and toggles the preset on/off. Tap tempo is unavailable with this setting.
@@ -883,7 +883,7 @@ When set to Preset, the right footswitch immediately loads the preset with its s
 ### Preset + Tap
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![astra-fs-preset-tap.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/b05e95253a4c2296e0ffdf452e6701fc49cd49c0.png)
+![astra-fs-preset-tap.png](../../attachments/uafx-astra-modulation-machine-manual_assets--b05e95253a4c2296e0ffdf452e6701fc49cd49c0--f2943afded734d3b.png)
 </figure>
 
 When set to Preset + Tap, the right footswitch performs multiple functions.
@@ -897,7 +897,7 @@ When set to Preset + Tap, the right footswitch performs multiple functions.
 ### MIDI Clock Mode
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![sstra-midi-clock-mode.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/5615928f4f2fb7300ee16e88c48de00bfdf66f9c.png)
+![sstra-midi-clock-mode.png](../../attachments/uafx-astra-modulation-machine-manual_assets--5615928f4f2fb7300ee16e88c48de00bfdf66f9c--bc35ddbe42adc88f.png)
 </figure>
 
 You can set a MIDI Clock mode for Astra. This allows Astra to sync to MIDI clock. Note that with multiple UAFX pedals that are synced to MIDI clock, only one pedal should be designated as the leader, and other pedals should be designated as followers. 
@@ -1138,7 +1138,7 @@ Depth: 5.55 inches, 14.1 cm</td>
 
 # Astra Safety
 
-![safety-symbol-exclaim.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)Caution: To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
+![safety-symbol-exclaim.png](../../attachments/uafx-astra-modulation-machine-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--01e709abcf6073bf.png)Caution: To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
 <div layout="wrap-left" node-type="mediaSingle" data-width="6">
 
@@ -1148,7 +1148,7 @@ Depth: 5.55 inches, 14.1 cm</td>
 
 </div>
 
-![safety-symbol-book-info.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
+![safety-symbol-book-info.png](../../attachments/uafx-astra-modulation-machine-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--c81fbe2b0b988b62.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
 - Read the instructions.
 - Keep these instructions.
@@ -1194,7 +1194,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 </div>
 
-![safety-symbol-trash.png](UAFX%20Astra%20Modulation%20Machine%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
+![safety-symbol-trash.png](../../attachments/uafx-astra-modulation-machine-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--71142c40359cc5ed.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 
 - IEC 62368-1
 - FCC ID: 2AXKQ2029

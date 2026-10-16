@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bhakma-vp"
 ---
 
-![обложка|156](<Vedanta Psychology/обложка.jpeg>)
+![обложка|156](<../attachments/vedanta-psychology--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--cba2ac15f487538b.jpeg>)
 
 India's ancient wisdom of the mind
 

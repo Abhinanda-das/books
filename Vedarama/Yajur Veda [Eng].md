@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/yv"
 ---
 
-![обложка|156](<Yajur Veda [Eng]/обложка.jpeg>)
+![обложка|156](<../attachments/yajur-veda-eng--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--3b48cb29f5aa743d.jpeg>)
 
 # Yajur Veda \[Eng\]
 

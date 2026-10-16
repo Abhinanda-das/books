@@ -21,7 +21,7 @@ Learn how to get started with OX!
 
  
 
-![OX-Quick-Start-v3-pg1.png](OX%20Quick%20Start%20Guide_assets/d8d222f9553a6713384c25901867378a1d6abfcb.png)
+![OX-Quick-Start-v3-pg1.png](../../attachments/ox-quick-start-guide_assets--d8d222f9553a6713384c25901867378a1d6abfcb--eaefdb493e844212.png)
 
-![OX-Quick-Start-v3-pg2.png](OX%20Quick%20Start%20Guide_assets/467db172d9f2affc39ff5fb00ffacfa0d50c07c2.png)
+![OX-Quick-Start-v3-pg2.png](../../attachments/ox-quick-start-guide_assets--467db172d9f2affc39ff5fb00ffacfa0d50c07c2--3c5a13c7d728c878.png)
 

@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sivpur-san"
 ---
 
-![обложка|156](<Śiva-purāṇam/обложка.jpeg>)
+![обложка|156](<../attachments/%C5%9Biva-pur%C4%81%E1%B9%87am--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--735491cd51a4cf22.jpeg>)
 
 The English translation of the Shiva Purana, one of the eighteen major puranas. Contents include cosmology, mythology, yoga, description of sacred places (tirtha), geography, etc. The text is an important source for Shaivism and some of the oldest surviving content deals with Advaita-Vedanta philosophy and theistic Bhakti (devotion).
 

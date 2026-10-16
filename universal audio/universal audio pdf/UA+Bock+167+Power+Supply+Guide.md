@@ -86,10 +86,10 @@ Refer all servicing to qualified service personnel. Servicing is required when t
 
 UA BOCK 167 PSU does not contain a fuse or any other userreplaceable parts.
 
-![](UA+Bock+167+Power+Supply+Guide_assets/_page_1_Picture_33.jpeg)
+![](../../attachments/ua-bock-167-power-supply-guide_assets--page_1_picture_33--b8118a8b6a971b8d.jpeg)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 
-![](UA+Bock+167+Power+Supply+Guide_assets/_page_1_Picture_35.jpeg)
+![](../../attachments/ua-bock-167-power-supply-guide_assets--page_1_picture_35--468b525de7c5729c.jpeg)
 
 Hazardous voltage enclosed. Do not open, will cause shock or burn. If servicing is needed, disconnect power and contact Universal Audio customer support.

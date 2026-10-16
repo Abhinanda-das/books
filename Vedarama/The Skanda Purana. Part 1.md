@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/wisdomlib-tsp-p1"
 ---
 
-![обложка|156](<The Skanda Purana. Part 1/обложка.jpeg>)
+![обложка|156](<../attachments/the-skanda-purana.-part-1--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--ee8f17bd6e212442.jpeg>)
 
 The English translation of the Skanda Purana, the largest of the eighteen major puranas containing over 81,000 Sanskrit metrical verses. The earliest version of the Skanda Purana probably existed before the 5th century CE and thus preserves an enormous amount of history and information regarding Hindu tradition in an encyclopedic format.
 

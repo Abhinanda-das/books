@@ -36,7 +36,7 @@ This section provides a brief technical explanation of Off-Axis Correction, whic
 
 The illustration below shows the published polar pattern of a Neumann U87ai in the cardioid setting at 125 Hz (blue), 1 kHz (red), and 4 kHz (green). Notice that the pattern is actually cardioid only at 1 kHz. The pattern approaches omnidirectional at 125 Hz, and is roughly hypercardioid at 4 kHz.
 
-![polar-pattern-u87ai.png](Using%20Sphere%20Off-Axis%20Correction_assets/cc8ab292da247ed0df1dcaa1a251a5b995c7cbe4.png)
+![polar-pattern-u87ai.png](../../attachments/using-sphere-off-axis-correction_assets--cc8ab292da247ed0df1dcaa1a251a5b995c7cbe4--54a269796b3052bc.png)
 
 *U87ai cardioid polar pattern*
 
@@ -46,7 +46,7 @@ The graph below compares the frequency response from directly behind a U87ai mic
 
 The Sphere (corrected) polar response is much flatter. The U87 response varies by as much 16 dB, whereas the Sphere mic varies by about 6 dB with smoother overall fluctuations. Not surprisingly, the U87ai’s audio output from 180° off-axis sounds very colored, while the Sphere produces a smoother sound consisting mostly of natural room ambience.
 
-![u87ai-cardioid-180-off-axis-vs-sphere.png](Using%20Sphere%20Off-Axis%20Correction_assets/4877fe8497f7fa0e9c714461c8cbfe26d4ec41f7.png)
+![u87ai-cardioid-180-off-axis-vs-sphere.png](../../attachments/using-sphere-off-axis-correction_assets--4877fe8497f7fa0e9c714461c8cbfe26d4ec41f7--1d110ee05c813608.png)
 
 *U87ai Cardioid 180° off-axis vs. Sphere Off-Axis Correction*
 
@@ -56,7 +56,7 @@ The on-axis frequency response of virtually all multi-pattern mics changes drama
 
 The graph below shows the on-axis frequency response of a U87ai at its three pattern settings. At low and high frequencies, omni and figure-8 differ in response by up to 8 dB.
 
-![u87ai-frequency-plot-measured.png](Using%20Sphere%20Off-Axis%20Correction_assets/b9ba51f4a57540dd55e7fd313f5fba0ea3d919da.png)
+![u87ai-frequency-plot-measured.png](../../attachments/using-sphere-off-axis-correction_assets--b9ba51f4a57540dd55e7fd313f5fba0ea3d919da--be660fd745cb70e0.png)
 
 *U87ai measured on-axis frequency response*
 
@@ -95,7 +95,7 @@ For this reason Off-Axis Correction has distance controls so you can dial in the
 
 The Sphere plug-in’s Off-Axis Correction section has four controls and an IN button. When the IN button is engaged, the Pattern control in this section overrides the mic model’s pattern, although the mic model pattern controls continue to affect the on-axis frequency response.
 
-![off-axis-controls.png](Using%20Sphere%20Off-Axis%20Correction_assets/9a62986156d3e289b8d1a9b30be79a0b00680bb1.png)
+![off-axis-controls.png](../../attachments/using-sphere-off-axis-correction_assets--9a62986156d3e289b8d1a9b30be79a0b00680bb1--9f9089cc06b13ba5.png)
 
 *Sphere plug-in’s Off-Axis Correction controls*
 

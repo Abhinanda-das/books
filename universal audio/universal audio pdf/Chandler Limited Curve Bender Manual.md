@@ -7,7 +7,7 @@ word_count: 2566
 ---
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0001-00.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0001-00--7af3c1e6d0c5081d.png>)
 
 
 **® User’s Guide** 
@@ -15,7 +15,7 @@ word_count: 2566
 Rev. May 27, 2016 
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0002-00.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0002-00--aad1f81bbce247d0.png>)
 
 
 ## **Softube User Manual** 
@@ -74,13 +74,13 @@ Softube plug-ins are “what you see is what you get” products. You should be 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0005-06.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0005-06--e88c6b7ebacfcc42.png>)
 
 
 ## **Menu Row** 
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0005-08.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0005-08--c2ecf93aad2af160.png>)
 
 
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Bass Amp Room plug-in as an example, but the same goes for all our plug-ins. 
@@ -96,7 +96,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0005-15.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0005-15--0c3c244bf3a07451.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -104,7 +104,7 @@ Enable Setup<br>**----- End of picture text -----**<br>
 
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0005-16.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0005-16--9b8c9a262aaeebc0.png>)
 
 
 **6** | USER INTERFACE 
@@ -196,7 +196,7 @@ Top Row Middle Row
 Bottom Row 
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0009-11.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0009-11--0cf5d8d95ef69c56.png>)
 
 
 **10** | CHANDLER LIMITED® CURVE BENDER® 
@@ -212,7 +212,7 @@ High Pass
 Low Pass 
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0010-04.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0010-04--c551bce9c1eb1b76.png>)
 
 
 Output Gain 
@@ -246,7 +246,7 @@ its center position, the corresponding band is bypassed.
 ## Center Section 
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0011-08.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0011-08--57e44f3d9a949f78.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -290,7 +290,7 @@ Please note, when using Curve Bender® in mono or multi-mono, make sure the chan
 Abbey Road Studios, EMI, TG, Curve Bender and their associated logos are trademarks of EMI (IP) Limited. 
 
 
-![](<Chandler Limited Curve Bender Manual_assets/Chandler_Limited_Curve_Bender_Manual.pdf-0013-00.png>)
+![](<../../attachments/chandler-limited-curve-bender-manual_assets--chandler_limited_curve_bender_manual.pdf-0013-00--107ea67f6e3ca80b.png>)
 
 
 **Softube AB, S:t Larsgatan 9D, 582 24 Linköping, Sweden. www.softube.com** 

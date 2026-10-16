@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jg-prs2"
 ---
 
-![обложка|156](<Priti-sandarbha/обложка.jpeg>)
+![обложка|156](<../attachments/priti-sandarbha--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--efd4ad494595eef6.jpeg>)
 
 # Priti-sandarbha
 

@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/lcfl"
 ---
 
-![обложка|156](<Life Comes from Life/обложка.jpeg>)
+![обложка|156](<../attachments/life-comes-from-life--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c947b73d1c62a7b3.jpeg>)
 
 A critical look at widely-believed assumptions and theories held by modern scientists about the origin of life. For people who have come to accept every pronouncement of modern scientists as tested and proven truth, this book will be an eye-opener. This book is an impromptu but brilliant critique of some of the dominant policies, theories and presuppositions of modern science and scientists by one of the greatest philosophers and scholars of the 20th century, A. C. Bhaktivedanta Swami Prabhupada
 

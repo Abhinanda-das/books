@@ -7,7 +7,7 @@ word_count: 10271
 ---
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0001-00.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0001-00--d3216612e8ba75c5.png)
 
 
 ## **Apollo Twin X USB Hardware Manual** 
@@ -15,7 +15,7 @@ word_count: 10271
 Manual Version 230725B 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0001-03.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0001-03--e4c61f09dc7ee3a0.png)
 
 
 www.uaudio.com 
@@ -37,7 +37,7 @@ Please feel free to reach out to us via our website www.uaudio.com, and via our 
 Sincerely, 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0002-08.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0002-08--92f225dbecba9908.png)
 
 
 Bill Putnam Jr. 
@@ -109,7 +109,7 @@ Beyond the included Realtime Analog Classics plug-ins, Apollo Twin X USB lets yo
 With exclusive emulations from Neve, Lexicon, Capitol Studios, API, Manley, Ampex, Fender, and more, it’s like having an endless analog studio, right on your desktop. And unlike competing interfaces, these DSP-powered plug-ins are also available in your DAW for mixing. 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0005-06.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0005-06--90fef2c4131702d6.png)
 
 
 ## **Record with Vintage Amps** 
@@ -371,7 +371,7 @@ Each host DAW software application has its own particular methods for configurin
 For additional resources, or if you need to contact Universal Audio for assistance, see the Technical Support page. 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0011-09.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0011-09--ddedc24ab7f60a98.png)
 
 
 Apollo Twin X USB Hardware Manual 
@@ -529,7 +529,7 @@ Getting Started
 One typical Apollo Twin X USB audio setup is illustrated below. For complete details about all of Apollo Twin X USB's connectors and controls, see Controls & Connectors. 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0015-02.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0015-02--7fda4a2c984b518b.png)
 
 
 **----- Start of picture text -----**<br>
@@ -615,7 +615,7 @@ When Apollo Twin X USB is in Preamp mode, the top panel controls are related to 
 _**Important:** Apollo Twin X USB must be in Preamp mode to modify preamp gain levels and other input options._ 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0017-11.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0017-11--597414085869a550.png)
 
 
 _**Note:** Output functions (monitor and headphone) cannot be performed in Preamp mode. Press the MONITOR button to perform output functions._ 
@@ -639,7 +639,7 @@ Controls & Connectors
 The currently selected input channel is shown by the CH1 and CH2 indicators at the upper left of the main display panel, above the input meters. When a channel is selected, its indicator is lit. 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0018-02.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0018-02--bdb9595464344eb8.png)
 
 
 _**Note:** The preamp controls adjust the functions for the currently selected cha_ ~~_n_~~ _nel._ 
@@ -655,7 +655,7 @@ The Mic, Line, or Hi-Z input source is routed into the channel’s preamplifier.
 The MIC (XLR) or LINE (¼”) co ~~mbo inputs~~ on the rear panel are selected by the pressing the INPUT button when the channel is selected. The Hi-Z input (available on channel 1 only) is selected automatically when an instrument cable is plugged into the Hi-Z input on the front panel. 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0018-09.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0018-09--608696c6547e35e4.png)
 
 
 _**Note:** Only one input jack at a tim_ ~~_e_~~ _(Mic, Line, or Hi-Z) can be used as a channel’s input source._ 
@@ -683,7 +683,7 @@ Controls & Connectors
 When Apollo Twin X USB is in Monitor mode, the top panel controls are related to output functions only. To adjust output functions, press the MONITOR button to enter Monitor mode and activate the monitor and headphone controls. 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0019-02.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0019-02--a02178c6fd03b2de.png)
 
 
 **----- Start of picture text -----**<br>
@@ -711,7 +711,7 @@ The currently selected stereo output is shown by the MONITOR and HEADPHONE indic
 _**Note:** The Level knob_ ~~_a_~~ _djusts the_ ~~_v_~~ _olume for the currently selected stereo output._ 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0019-13.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0019-13--05dccd6a2757bc84.png)
 
 
 ## **Changing Stereo Outputs** 
@@ -737,7 +737,7 @@ Controls & Connectors
 Refer to the illustration below for numbered control descriptions in this section. 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0020-02.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0020-02--dfd0694774b2d753.png)
 
 
 **----- Start of picture text -----**<br>
@@ -755,7 +755,7 @@ When in PREAMP Mode, rotate clockwise to increase the amount of preamp gain for 
 ## **Unison Integration** 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0020-08.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0020-08--abe785d2f23e86f5.png)
 
 
 The Level knob can also be used to control Unison-enabled UAD preamp, guitar/bass amp, and pedal plug-in parameters. See the Apollo Software Manual for complete Unison details. 
@@ -829,13 +829,13 @@ Each of the six Option Buttons has dual functions. In Preamp mode, the buttons c
 ## **Unison Integration** 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0022-07.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0022-07--72558206fca32487.png)
 
 
 In Preamp mode, the Option Buttons can also be used to control Unisonenabled ~~U~~ AD preamp, guitar/bass amp, and pedal plug-in parameters. See t ~~h~~ e Apollo Software Manual for complete Unison details. 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0022-09.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0022-09--8102a054bbc1521e.png)
 
 
 _Options Display (12) and Option Buttons (13)_ 
@@ -855,7 +855,7 @@ A preamp option is active when its indicator in the upper row of the Options Dis
 _**Note:** In MONITOR mode, the preamp options cannot be modified and the upper row of the Options Display is unlit._ 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0023-04.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0023-04--89c241a1eed655c2.png)
 
 
 **----- Start of picture text -----**<br>
@@ -911,7 +911,7 @@ The TALK, DIM, ALT, and FCN functions are configured in the companion Console so
 _**Note:** In Preamp mode, the monitor options cannot be modified and the lower row of the Options Display is unlit._ 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0024-08.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0024-08--436e876208399e7c.png)
 
 
 **----- Start of picture text -----**<br>
@@ -957,11 +957,11 @@ _**Note:** MUTE does not apply to the headphone outputs. Headphone outputs canno
 Refer to the illustration below for numbered control descriptions in this section. 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0025-07.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0025-07--a1d06d17ddf0f4d7.png)
 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0025-08.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0025-08--007750231072dd17.png)
 
 
 **----- Start of picture text -----**<br>
@@ -999,11 +999,11 @@ Refer to the illustration below for numbered control descriptions in this sectio
 _**Note:** All rear panel ¼” jacks can accept unbalanced TS (tip-sleeve) or balanced TRS (tip-ring-sleeve) plugs._ 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0026-03.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0026-03--f94724e6c8dc2f9b.png)
 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0026-04.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0026-04--244f0ae91930c310.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1105,7 +1105,7 @@ Apollo Twin X USB Hardware Manual
 28 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0029-00.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0029-00--df90bc89025d168a.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1119,7 +1119,7 @@ Apollo Twin X USB Hardware Manual
 29 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0030-00.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0030-00--7dbcddeff0d97680.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1133,7 +1133,7 @@ Apollo Twin X USB Hardware Manual
 ## **Hardware Block Diagram** 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0031-01.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0031-01--99375dfd10bfa77f.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1181,7 +1181,7 @@ Universal Audio provides a limited warranty on all UA hardware products. To lear
 ## **Maintenance** 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0033-04.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0033-04--14ecee3396357bf2.png)
 
 
 - **CAUTION:** To reduce the risk of electric shock, do not open the unit. 
@@ -1205,7 +1205,7 @@ Notices
 ## **Important Safety Information** 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0034-01.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0034-01--4da1e52fde054dd8.png)
 
 
    - Before using this Apollo Twin X USB unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions. 
@@ -1241,11 +1241,11 @@ Notices
 ## **Description of symbols used** 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0034-18.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0034-18--1938743db57ad136.png)
 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0034-19.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0034-19--97c1b06933d22f8f.png)
 
 
 The lightning flash represented by the arrow symbol in an equilateral triangle is intended to alert users to the presence of high voltage within the unit that could cause an electrical shock hazard. 
@@ -1361,7 +1361,7 @@ Universal Audio
 Technical Support 
 
 
-![](Apollo+Twin+X+USB+Hardware+Manual_assets/Apollo+Twin+X+USB+Hardware+Manual.pdf-0038-00.png)
+![](../../attachments/apollo-twin-x-usb-hardware-manual_assets--apollo-twin-x-usb-hardware-manual.pdf-0038-00--e574538d111e56f8.png)
 
 
 www.uaudio.com 

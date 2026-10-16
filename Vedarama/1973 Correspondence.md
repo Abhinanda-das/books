@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1973"
 ---
 
-![обложка|156](<1973 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1973-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--dc1e20d2f25e0d1e.jpeg>)
 
 # 1973 Correspondence
 

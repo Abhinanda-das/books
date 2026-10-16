@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg31"
 ---
 
-![обложка|156](<Back to Godhead Magazine #31, 1969/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-31-1969--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c9ad88a1c1e727a0.jpeg>)
 
 # Back to Godhead Magazine #31, 1969
 

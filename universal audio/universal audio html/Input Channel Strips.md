@@ -11,7 +11,7 @@ word_count: 475
 
 Each UAD Console channel input strip, as illustrated below, controls a corresponding Apollo hardware input. The output of all UAD Console channel inputs are always routed to UAD Console’s monitor outputs (except when muted). Inputs can be optionally routed to other outputs via Flex Routing (rack models only) or the Cue Outputs window.
 
-![input-strip-callouts.png](Input%20Channel%20Strips_assets/387173a2bf2dfd7dba4920e44452996f8cd237ce.png)
+![input-strip-callouts.png](../../attachments/input-channel-strips_assets--387173a2bf2dfd7dba4920e44452996f8cd237ce--0e27f09102cc3624.png)
 
 UAD Console’s channel input strips are essentially the same for all inputs, however there are some differences among the analog and digital inputs as noted below.
 

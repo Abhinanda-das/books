@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bbd"
 ---
 
-![обложка|156](<Beyond Birth and Death/обложка.jpeg>)
+![обложка|156](<../attachments/beyond-birth-and-death--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5d8471d4a9d0cef5.jpeg>)
 
 Is there life after death? Follow the soul's journey through this universe and beyond. The past decade has seen an increase in the number of people who believe in reincarnation. This small but powerful book answers questions like:
 

@@ -132,7 +132,7 @@ Basically karma comes in two flavors: the results I like and want, and those tha
 
 One of the most important things to understand about karma is that every desire will be fulfilled. Every karmic reaction must be received—however long it takes, regardless of how many lifetimes we must be born again. Indeed, it is the reactions of karma that generate our future births in this world.
 
-![рис-001.jpg|227](<Change the karma!/рис-001.jpg>)
+![рис-001.jpg|227](<../attachments/change-the-karma--%D1%80%D0%B8%D1%81-001--d5758128b7f5c41c.jpg>)
 
 ## Acts of karma are like planting seeds that will fructify in time
 
@@ -192,7 +192,7 @@ A report by the Protection Project, based at Johns Hopkins University, in Baltim
 - As many as 10,000 children aged between six and 14 are virtually enslaved in brothels in Sri Lanka.
 - Since the fall of the Soviet Union between 200,000 and 400,000 Moldovan women have been sold into prostitu-tion—as much as 10% of the female population.
 
-![рис-002.jpg|255](<Change the karma!/рис-002.jpg>)
+![рис-002.jpg|255](<../attachments/change-the-karma--%D1%80%D0%B8%D1%81-002--91aba211037e2c34.jpg>)
 
 The list goes on and on, with tens-to-hundreds-of-thousands of women involved. The scale of this traffic is mind-numbing. In “The Natashas: Inside the New Global Sex Trade”, author Victor Malarek reveals that in Germany alone, up to half a million Eastern European women work as prostitutes. The streets of Italy are lined with Romanian and Moldovan teenagers. Some of the “Natashas” end up in Greece, Turkey, South Korea, Toronto, Chicago or Los Angeles.
 

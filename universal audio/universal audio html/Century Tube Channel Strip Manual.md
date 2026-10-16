@@ -40,7 +40,7 @@ Featuring a classic autoformer-driven optical leveler, the Century Tube Channel 
 
 Of course, the Century Tube Channel Strip plug-in isn't just for UA Audio Interface owners. UAD-2 hardware owners can employ the Century Tube Channel Strip plug-in for mixing and tone shaping — without ever leaving the box.
 
-<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">![century-interface.png](Century%20Tube%20Channel%20Strip%20Manual_assets/5b13c1276f1302993eaa6b76ef70efd861f970c2.png)</span>
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">![century-interface.png](../../attachments/century-tube-channel-strip-manual_assets--5b13c1276f1302993eaa6b76ef70efd861f970c2--6a7f8c95e75b266c.png)</span>
 
 *<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Century Tube Channel Strip</span>*
 
@@ -86,7 +86,7 @@ All Unison mic preamps feature variable input impedance in the analog hardware t
 
 The hardware preamp knob on the UA audio interface can independently adjust the gain and level parameters available within the Unison plug-in via Gain Stage Mode. The gain stage being adjusted can be remotely switched via the interface hardware, so the gain levels and their associated colorations can be tuned from the hardware knob for precise physical tactile control, all without using the Unison plug-in's software interface.
 
-![century-unison-controls.png](Century%20Tube%20Channel%20Strip%20Manual_assets/a6930f7b315ea06062f4be78f3f10323e7e0ab06.png)<span class="image placeholder" original-image-src="https://help.uaudio.com/hc/en-us/articles/century-tube-channel-strip-web-resources/image/century-unison-gainstage-3.png" original-image-title="" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"></span>
+![century-unison-controls.png](../../attachments/century-tube-channel-strip-manual_assets--a6930f7b315ea06062f4be78f3f10323e7e0ab06--0d765d77a3aaff11.png)<span class="image placeholder" original-image-src="https://help.uaudio.com/hc/en-us/articles/century-tube-channel-strip-web-resources/image/century-unison-gainstage-3.png" original-image-title="" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"></span>
 
 *The three outlined gain controls as they appear when in Unison Gain Stage Mode*
 
@@ -109,7 +109,7 @@ To toggle the setting, drag the control or click its text labels.
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Century%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/century-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--c1ad292fc218792a.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h4 id="h_01JPR0GYQRP54NGJ49V5JNN0K7">Unison Interactions</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -139,7 +139,7 @@ Input Select switches the plug-in between Line and Mic input. To toggle the sett
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Century%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/century-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--c1ad292fc218792a.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h4 id="h_01JPR0GYQR4X4KVDDQY4M4SMVN">Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -161,7 +161,7 @@ To toggle the setting, click the control or its text labels.
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Century%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/century-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--c1ad292fc218792a.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h4 id="h_01JPR0GYQRG8ETV2T3MW7KFEYB">Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -183,7 +183,7 @@ To toggle the setting, click the control or its text labels.
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Century%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/century-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--c1ad292fc218792a.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h4 id="h_01JPR0GYQSQC349QAKDJ20DRBQ">Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -205,7 +205,7 @@ To toggle the setting, click the control or its text labels.
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Century%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/century-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--c1ad292fc218792a.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h4 id="h_01JPR0GYQSFW7GRADCP4Q4VFN3">Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -225,7 +225,7 @@ Adjust the Level control to change the gain of the output stage of the Tube Prea
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Century%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/century-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--c1ad292fc218792a.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h4 id="h_01JPR0GYQSMW7M166JPSE72H0G">Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -304,7 +304,7 @@ Adjust the Output control to attenuate or boost the output signal from the Centu
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](Century%20Tube%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; width: 0; vertical-align: middle; height: 0px;">![unison-icon1.png](../../attachments/century-tube-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--c1ad292fc218792a.png)</td>
 <td style="width: 13.7143%; height: 0px; vertical-align: targetNone"><h4 id="h_01JPR0GYQSW2XJZVW0N95Q7NX9">Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">

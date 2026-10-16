@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sbs"
 ---
 
-![обложка|156](<Śrī Brahma-saṁhitā/обложка.jpeg>)
+![обложка|156](<../attachments/%C5%9Br%C4%AB-brahma-sa%E1%B9%81hit%C4%81--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5ee5d9a305d5788c.jpeg>)
 
 Śrī Caitanya Mahāprabhu personally brought Śrī Brahma-samhitā from South India for His devotees. Spoken by Lord Brahmā, the secondary creator of the universe, the verses in this book reveal the essence of all Vedic philosophy and Vaiṣṇava scriptures. It is filled with knowledge of the Supreme Personality Śrī Kṛṣṇa and the essential reality of bhakti and suffused with descriptions of the paramount glories of Śrī Kṛṣṇa.
 

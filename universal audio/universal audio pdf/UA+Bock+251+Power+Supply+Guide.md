@@ -78,10 +78,10 @@ Refer all servicing to qualified service personnel. Servicing is required when t
 
 UA BOCK 251 PSU does not contain a fuse or any other user-replaceable parts.
 
-![](UA+Bock+251+Power+Supply+Guide_assets/_page_0_Picture_29.jpeg)
+![](../../attachments/ua-bock-251-power-supply-guide_assets--page_0_picture_29--27e131b1ab5cf4b0.jpeg)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 
-![](UA+Bock+251+Power+Supply+Guide_assets/_page_0_Picture_31.jpeg)
+![](../../attachments/ua-bock-251-power-supply-guide_assets--page_0_picture_31--4e75da1cc97fd49b.jpeg)
 
 Hazardous voltage enclosed. Do not open, will cause shock or burn. If servicing is needed, disconnect power and contact Universal Audio customer support.

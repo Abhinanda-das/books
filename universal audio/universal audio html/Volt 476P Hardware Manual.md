@@ -10,11 +10,11 @@ word_count: 3186
 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 25%;">
-![volt-logo-2x.png](Volt%20476P%20Hardware%20Manual_assets/b2e07d9f98bd482d78e2f34150c53b0aec7da872.png)
+![volt-logo-2x.png](../../attachments/volt-476p-hardware-manual_assets--b2e07d9f98bd482d78e2f34150c53b0aec7da872--584197c13192e28e.png)
 </figure>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![volt-476p-photo.png](Volt%20476P%20Hardware%20Manual_assets/add97f3ade3468a9c1e6c401f3abbbb94d32504b.png)
+![volt-476p-photo.png](../../attachments/volt-476p-hardware-manual_assets--add97f3ade3468a9c1e6c401f3abbbb94d32504b--be1a67e5a0265ff6.png)
 </figure>
 
 This article contains complete instructions for Volt 476P hardware controls and connections.
@@ -59,7 +59,7 @@ At UA, we're dedicated to the idea that technology should serve the creative pro
 Please feel free to reach out to us via our website [www.uaudio.com](https://www.uaudio.com) and our social media channels. We look forward to hearing from you, and thank you once again for choosing Universal Audio.
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](Volt%20476P%20Hardware%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/volt-476p-hardware-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--18b8cb9a3290eb05.png)
 </figure>
 
 Bill Putnam, Jr.
@@ -127,7 +127,7 @@ Use this diagram to identify the features on the Volt front panel.
 
 </div>
 
-![volt-476p-front-callouts.png](Volt%20476P%20Hardware%20Manual_assets/4085e386c9cdb1e83c58f44bd9023a340c3f7bc3.png)
+![volt-476p-front-callouts.png](../../attachments/volt-476p-hardware-manual_assets--4085e386c9cdb1e83c58f44bd9023a340c3f7bc3--2ac70edab55be68e.png)
 
 ### (1) XLR/TRS Combo Inputs 
 
@@ -177,7 +177,7 @@ Press these buttons to toggle the impedance and gain of the line inputs to accom
 
 Use this diagram to identify the features on the Volt top panel.
 
-![volt-476p-top-callouts.png](Volt%20476P%20Hardware%20Manual_assets/79157a29da00816069f0154f27802e2a3663da23.png)
+![volt-476p-top-callouts.png](../../attachments/volt-476p-hardware-manual_assets--79157a29da00816069f0154f27802e2a3663da23--5f899f69674a68a2.png)
 
 ### (6) Monitor Knob
 
@@ -265,7 +265,7 @@ From the factory, OUT 1-2 is selected. With this setting, you hear audio from yo
 
 - **Listen to preamp inputs and audio software:** Select IN 1-2 to hear hardware inputs 1 and 2, and select OUT 1-2 to hear audio from your computer.
 
-![volt-476-monitor-example-in-1-2-out-1-2.png](Volt%20476P%20Hardware%20Manual_assets/8dcba13fe0ab0923a4759f91b3388b8b2058a037.png)
+![volt-476-monitor-example-in-1-2-out-1-2.png](../../attachments/volt-476p-hardware-manual_assets--8dcba13fe0ab0923a4759f91b3388b8b2058a037--3db2d6281cefb7d0.png)
 
 ### (12) Mono Button
 
@@ -291,7 +291,7 @@ The host indicator is lit blue when Volt is recognized by the computer or device
 
 Use this diagram to identify the features on the Volt rear panel.
 
-![volt-476p-rear-callouts.png](Volt%20476P%20Hardware%20Manual_assets/c02e7e8a4e7a3f2ea3872cdebc9ab3a5e4188099.png)
+![volt-476p-rear-callouts.png](../../attachments/volt-476p-hardware-manual_assets--c02e7e8a4e7a3f2ea3872cdebc9ab3a5e4188099--8015a2810f950fa7.png)
 
 ### (16) Monitor Outputs
 

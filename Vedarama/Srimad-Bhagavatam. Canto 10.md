@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sb-10"
 ---
 
-![обложка|156](<Srimad-Bhagavatam. Canto 10/обложка.jpeg>)
+![обложка|156](<../attachments/srimad-bhagavatam.-canto-10--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--fc2332c8df1e86ac.jpeg>)
 
 # Srimad-Bhagavatam. Canto 10
 

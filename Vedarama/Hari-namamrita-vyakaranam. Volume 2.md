@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/hmv2"
 ---
 
-![обложка|156](<Hari-namamrita-vyakaranam. Volume 2/обложка.jpeg>)
+![обложка|156](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9bf1ca5d2787426d.jpeg>)
 
 # Hari-namamrita-vyakaranam. Volume 2
 
@@ -758,12 +758,12 @@ Similarly, it is understood that krdantas sometimes also express the karma- kart
 
 **“The duh-adis (listed below) take both karmas (ipsitatama and ipsita), and the dhatus ni/h\] prapane (1U, to lead), vah\[a\] prapane (1U, to bear, lead, carry), hr\[h\] harane (1U, to take, remove, steal), krs\[a\] vilekhane akarsane ca (1P, to plough; to pull, attract), and so on also take both karmas.”**
 
-![рис-001.jpeg|616](<Hari-namamrita-vyakaranam. Volume 2/рис-001.jpeg>)  
+![рис-001.jpeg|616](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-001--567411d0644516d3.jpeg>)  
 AMRTA—Why do we say “that which is most desired (ipsitatama) by the karta”? Consider tmesu gam badhnati (He ties up the cow among the grasses). Here the grass is most desired by the karma in the form of the cow, but it is not most desired by the karta. Thus it cannot be considered a karma by kartur ipsitatamam karma (Astadhyayl 1.4.49). Why do we use the pratyaya tama (most)? Consider dadhna saly-odanam bhunkte (He eats boiled rice with yogurt). Here only the boiled rice is most desired by the karta since it is what is being enhanced, whereas the yogurt isn’t most desired since it is used merely to enhance the boiled rice. Thus the yogurt cannot be considered a karma by kartur ipsitatamam karma (Astadhyayi 1.4.49). Due to the word “only” in the statement “the ipsitatama karma and the ipsita karma as a pair can only function in reference to a single kriya,” one should understand that when the ipsitatama karma and the ipsita karma are connected to two different kriyas, both are ipsitatama. For example, in ga duhan dugdham sancinoti gopah (The cowherd acquires milk by milking the cow) the cow is ipsitatama, not ipsita, because it belongs to a different kriya. Although every dhatu has a phala and a vyapara, the sa-karmaka dhatus are those that express both the phala and the vyapara, while the akarmaka dhatus are those that express only the vyapara. The verse beginning duhi-yaci is in the meter called totaka, and the word prachi therein is used without reduplication of ch by dvih sarvesvara- matrac chah (116) in order to fit the meter.
 
 **VRTTI—The two operations of each of these (Hiatus are as follows:**
 
-![рис-002.jpeg|516](<Hari-namamrita-vyakaranam. Volume 2/рис-002.jpeg>)
+![рис-002.jpeg|516](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-002--20613b165f6cd41b.jpeg>)
 
 **Examples are given in the same order:**
 
@@ -1464,7 +1464,7 @@ atih—ati; atikramane—when the sense is atikramana (surpassing).
 AMRTA—The words radhikam adhi (\[words\] to Radhika) mean radhikam laksi-krtya (\[words which were spoken\] having made Radhika the target). Therefore adhi should also be considered a Iqsia-pravacaniya, since it is seen to be used as such in the works of great poets like Jayadeva and so on.
 
 SAMSODHINI—To summarize the last two sutras: The same avyayas abhi, pari, prati, anu, upa, ati, and adhi which are called upendras (prefixes) when they are combined with dhatus are called k^a-pravacaniyas (postpositions) when they are connected with an upapada in any of the meanings marked below.  
-![рис-003.jpeg|606](<Hari-namamrita-vyakaranam. Volume 2/рис-003.jpeg>)  
+![рис-003.jpeg|606](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-003--09a019e4b99f1fc9.jpeg>)  
 Amara-kosa says pascat-sadrsyayor anuh (Anu is used in the sense of pascat (after) or sadrsya (likeness). But anu is not a Iqsia-pravacaniya when it is used in these senses, rather anu has these senses only when it is used as a separate adverb or as an upendra. See, for example, anujatah in vrtti 767.
 
 *674.    kaladhvanor atyanta-vyaptau dvitiya, apavarge tu trtiya*
@@ -3654,7 +3654,7 @@ vamanat—after a vamana; tuk—the agama t\[uk\]; prthau—when a prthu pratyay
 
 **The ury-adi-gаnа (list of ury-adis) is as follows:**
 
-![рис-004.jpeg|526](<Hari-namamrita-vyakaranam. Volume 2/рис-004.jpeg>)  
+![рис-004.jpeg|526](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-004--fcf2b41dc510855b.jpeg>)  
 1 In this regard, Bala gives the example alankrtya (having decorated). For further details about alam, see Amrta 682.
 
 2 Siddhanta Kaumudi, commenting on the equivalent Paninian sutra astam ca (Astadhyayi 1.4.68), gives the examples astan-gatya savita punar udeti (The sun, having set, rises again) and astan-gatani dhanani (riches that have disappeared). Astam is also used in combination with other gaty-artha-dhatus like i\[n\] gatau (2P, to go, move), ya prapane (2P, to go, move, to attain), and ni\[n\]prapane (1U, to lead).3 Whatever is enclosed in arrows here is a gana-sutra, and the rest is just an expanded explanation of the same. Jiva Gosvami uses gana-sutras in the same way in the Dhatu-patha. For example, \>hanty-arthas ca\<, ye ca tesu ganesu himsartha dhatava uktas te cur-adav api jneyah ity arthah. In the Dhatu-patha, however, we have put the gana-sutras in bold to make them stick out. Thus we have not used arrows there.
@@ -4018,7 +4018,7 @@ iccha-arthe—when a dhatu that has the meaning of iccha (desire); saki- adau—
 
 **The saky-adis are as follows:**
 
-![рис-005.jpeg|787](<Hari-namamrita-vyakaranam. Volume 2/рис-005.jpeg>)  
+![рис-005.jpeg|787](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-005--83f0e86538766528.jpeg>)  
 1 Sometimes this dhatu is listed as arh\[a\] pujayam yogyatve ca (1P, to worship, honor; to be fit, to be able). It is in this sense of yogyatva (propriety, fitness, ability) that arh\[a\] is used with tum\[u\]. There are several shades of meaning to yogyatva and thus bhoktum arhati could be translated as “he should eat,” “he is fit to eat,” or “he can eat.” Moreover, when the madhyama-purusa is used, arh\[a\] often functions as a mild form of command. For example, nah samsitum arhasi (Please explain to us) in Bhagavatam 1.1.9.
 
 **However, when there is connection with the words kala (time) and so on, tum\[u\] is applied after a dhatu only if the meaning of the dhatu such as darsana (seeing) and so on is the prayojana of the time and so on. Thus we get kalo ’yam drastum, samayo ’yam drastum, or velayam drastum (This is the time to see). Due to the word adi in kaladi we also get mantum manah (a mind for thinking), drastum caksuh (eyes for seeing), srotum sravaёam (ears for hearing), and so on. Vaktum jadah (dullness for speaking) is also seen. It is like masakarlho ’yam dhumah (This smoke is for mosquitoes).**
@@ -4223,7 +4223,7 @@ Often the visёukrtya is just used in the sense of simple vartamana (present ten
 
 This shows how to translate the different senses of the visnukrtyas, using the example bhajaniyas tvaya krsnah:
 
-![рис-006.jpeg|724](<Hari-namamrita-vyakaranam. Volume 2/рис-006.jpeg>)
+![рис-006.jpeg|724](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-006--a672d9dbcdbfecbe.jpeg>)
 
 *801. sarvesvaranta-dhator yat*
 
@@ -5190,9 +5190,9 @@ namni—when a nama is the purva-pada; sadl-su-dvisa-druha-duha-yuja- alabha-art
 
 **When a nama is the purva-pada, \[k\]vi\[p\] is applied after the following dhatus in kartari prayoga:**
 
-![рис-007.jpeg|825](<Hari-namamrita-vyakaranam. Volume 2/рис-007.jpeg>)
+![рис-007.jpeg|825](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-007--8b01a7e1879de817.jpeg>)
 
-![рис-008.jpeg|812](<Hari-namamrita-vyakaranam. Volume 2/рис-008.jpeg>)
+![рис-008.jpeg|812](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-008--cea8e8bca8dd62ba.jpeg>)
 
 *upanisat, suci-sat, satvam vacyam, prasuh, krsna-prasuh.*
 
@@ -5530,7 +5530,7 @@ alam-kma nirakrna prajana utpata utpaca unmada ruca apatrapa vrtu vrdhu saha car
 
 **Isnu is applied after the following dhatus in kartari prayoga in the senses of doing that as a habit, doing that as a duty, and doing that well.**
 
-![рис-009.jpeg|778](<Hari-namamrita-vyakaranam. Volume 2/рис-009.jpeg>)
+![рис-009.jpeg|778](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-009--5fd5d5590f6dfcb5.jpeg>)
 
 *krsnam alankarimuh, nirakarisnuh, prajanistnir ity-adi.*
 
@@ -5573,7 +5573,7 @@ AMRTA—Regarding bhusnuh, snu\[k\] is included by the word adi in ned van- ti-t
 samprca-vivica-ranja-samsrja-yuja-tyaja-bhaja-bhanjah— after the dhatus listed below; ghinun—the krt pratyaya \[gh\]in\[un\]; bhanjeh—of the dhatu bhanj\[o\] amardane (7P, to break, interrupt, disappoint); na-lopah—deletion of the na-rama; ca—also.
 
 \[Gh\]in\[un\] is applied after the following dhatus in kartari prayoga in the senses of doing that as a habit, doing that as a duty, and doing that well. Bhanj\[o\] also undergoes deletion of its na-rama.  
-![рис-010.jpeg|637](<Hari-namamrita-vyakaranam. Volume 2/рис-010.jpeg>)
+![рис-010.jpeg|637](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-010--27d2548fe5b47b09.jpeg>)
 
 *samparki, viveki. ranjer nasya harah—ragi. bhagi.*
 
@@ -5657,7 +5657,7 @@ sprhi-grhi-pati-krpi-dayi-nidra-tandra-sraddha-slbhyah— after the dhatus liste
 
 **Alu is applied after the following dhatus in kartari prayoga in the senses of doing that as a habit, doing that as a duty, and doing that well.**
 
-![рис-011.jpeg|663](<Hari-namamrita-vyakaranam. Volume 2/рис-011.jpeg>)
+![рис-011.jpeg|663](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-011--e2da5a32a011e680.jpeg>)
 
 1 This dhatu is not listed in Jiva Gosvami’s Dhatu-patha, but it is listed in the Paninian Dhatu-patha. Although krpi is mentioned in this sutra, it is not mentioned in the equivalent Paninian sutra sprhi-grhi-pati-dayi-nidra-tandrd-sraddhdbhya aluc (Astadhyayl 3.2.158) and Jiva Gosvami and Amrta don’t explain the derivation of krpaluh \<1.1\>. Bala, however, says that krpaluh \<1.1\> is made from krp\[u\] samarthye (1A, to be able, fit for) and that the change to I by krper r I (462) is blocked by krpadau Itvam nesyate (vrtti 906) and that govinda is blocked since krp\[u\] is a kut-adi (sutra 739). The problem with this is that krp\[u\] is not actually a kut-adi and if krpadau Itvam nesyate (vrtti 906) were needed here it should have been given right now and not later. A better explanation is that krpaluh \<1.1\> is derived from the dhatu krap\[a\] krpayam gatau ca (1A, to be merciful; to go, move), a dhatu which actually means “to be merciful” rather than “to be able.” Krpaluh \<1.1\> can be derived from this dhatu by doing sankarsana as is done in the formation of the word krpa (mercy). For example, while commenting on sid-bhidabhyo ’n (Astadhyayl 3.3.104), Siddhanta-kaumudl says krapeh samprasaranam ca, krpa (Krap\[a\] undergoes samprasarana (sankarsana) and we get the word krpa).
 
@@ -6657,7 +6657,7 @@ In this sutra, the six kinds of compounds have been shown, but a different set o
 SAMSODHINI—In each pair above, the first name is the one chosen by Jiva Gosvami in Hari-namamrta-vyakarana, and the second one is the traditional name used in older systems of grammar like Panini’s Astadhyayi. Avyayi- bhava, however, is kept as a common term because of its transcendental significance as a name of the Lord.
 
 The meanings of the other names are as follows:  
-![рис-012.jpeg|644](<Hari-namamrita-vyakaranam. Volume 2/рис-012.jpeg>)
+![рис-012.jpeg|644](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-012--82aaf676aae2cba9.jpeg>)
 
 1 For the details, consult the footnote in vrtti 627.
 
@@ -7703,7 +7703,7 @@ anekam—two or more words; anya-pada-arthe—when another thing (padartha) \[is
 
 VRTTI—This too is a prabhu adhikara. Two or more words that come from namas are compounded with each other when another thing is being expressed, and the compound is called pitambara. Earlier grammarians called it bahuvrihi. The gender of the pitambara compound is necessarily the same as that of the other thing, and the other thing is referred to by means of the words yad or idam. The word anekam here refers only to two, three, or four words. In this regard, \[in the vigraha \] the other thing takes the sasihi and other visnubhaktis as seen in the following examples, but the new nama produced from the compounding takes a prathama-visnubhakti because the other thing is already expressed by the meaning of the samasa.
 
-![рис-013.jpeg|521](<Hari-namamrita-vyakaranam. Volume 2/рис-013.jpeg>)
+![рис-013.jpeg|521](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-013--fd7bdac1cd171176.jpeg>)
 
 1 The form of tad is only translated when no visesya is mentioned. When a visesya like gokulam is mentioned, then the visesya is put in the place of the word tad in the translation. For example, sundara- mukhah translates as “He who has a beautiful face,” but sundara-mukhah krsnah translates as “Krsna who has a beautiful face.”
 
@@ -8932,7 +8932,7 @@ dvy-astanoh—of the words dvi (two) and astan (eight); samsarasya—of the sams
 AMRTA—Dvadasa can either be analyzed as a rtamakrsna compound for which the vigraha is dvau ca dasa ca (two and ten, i.e. twelve) or as a madhya- pada-lopi syamarama compound for which the vigraha is dvabhyam adhika dasa (ten which is more by two, i.e. twelve). The same applies to asta-dasa and trayo-dasa. The change to a-rama does not take place in dvi-satam due to the phrase prak satat (1010). Dvi-dasah is a pitambara compound formed by applying the taddhita pratyaya a\[c\] when we have the vigraha dvabhyam gimua dasa (ten things multiplied by two, i.e. twenty things) (ref. sutra 967).
 
 SAMSODHINI—The following is a list of the cardinal numbers from 1 to 100 and from 100 up to the highest number in Sanskrit, 100, 000, 000, 000, 000, 000. A list of the ordinal numbers is in Samsodhini 1224.  
-![рис-014.jpeg|632](<Hari-namamrita-vyakaranam. Volume 2/рис-014.jpeg>)![рис-015.jpeg|633](<Hari-namamrita-vyakaranam. Volume 2/рис-015.jpeg>)
+![рис-014.jpeg|632](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-014--39250600e5e7e8c9.jpeg>)![рис-015.jpeg|633](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-015--04eb482e8686da51.jpeg>)
 
 *ekam dasa satam caiva sahasram ayutam tatha*  
 *laksam ca niyutam caiva kotir arbudam eva ca*  
@@ -8940,7 +8940,7 @@ SAMSODHINI—The following is a list of the cardinal numbers from 1 to 100 and f
 *antyam madhyam parardham ca dasa-vrddhya yathottaram*
 
 **“According to Vedic mathematical calculations, the following enumeration system is used where each unit is ten times greater than the previous one:”**  
-![рис-016.jpeg|391](<Hari-namamrita-vyakaranam. Volume 2/рис-016.jpeg>)
+![рис-016.jpeg|391](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-016--44e54d47f194c4de.jpeg>)
 
 *1011.    sodasaikadasa ca nipatyau*
 
@@ -11238,7 +11238,7 @@ bahusu—in the plural; laksmim—feminine; vina—except.
 AMRTA—In kuravah the pratyaya \[n\]уа ordained in kurv-ader nуа-ramah (1118) undergoes mahahara, and inpancalah thepratyaya kesava \[in\]a ordained in pancaladeh kesava-riah (1119) undergoes mahahara. The vigraha of priya- kauravyah is priyah kauravyo yesam te (those for whom the descendant of the warrior Kuru are dear). Here the plurality belongs to the other thing, and thus the pratyaya in kauravya doesn’t undergo mahahara. Pancalyah means pancalasyapatyam striyah (female descendants of the warrior Pancala) or pancalasya rajnyah (princesses of the Pancala province).
 
 SAMSODHINI—Full tables are given below which synthesize sutras 1118 and 1119 with the current sutra:  
-![рис-017.jpeg|596](<Hari-namamrita-vyakaranam. Volume 2/рис-017.jpeg>)  
+![рис-017.jpeg|596](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-017--977e8adba4da0330.jpeg>)  
 Moreover, these plural usages such as kuravah, pancalah, and so on sometimes signify the province itself rather than a descendant or king of that province. How this is so is as follows: There is a set of pratyayas which are applied in four different meanings, one of the meanings being tasya nivasah “the residence (i.e. province) of those persons” (Brhat 2436). These pratyayas are called caturarthikas and they undergo a special kind of mahahara called smarahara when the name of a province is being expressed. This is achieved by the sutra caturarthikasya smaraharas tan-namni dese (Brhat 2455). The peculiarity of the smarahara is that, when the pratyaya undergoes mahahara, the prakrti regains the plurality it had in its former state prior to the deletion of the visnubhakti by antarahga svader mahahara eka-padatvarambhe (601). For example, first we have kuravah (descendants of the warrior Kuru) by the current sutra, and then when we want to talk about the province where they reside we have kurunаm + a\[n\] in the meaning kurunam nivasah (the residence (i.e. province) of the Kurus). Antarahga svader mahahara eka- padatvarambhe (601) is then applied by which we get kuru + a\[n\]. But then smarahara is done by caturarthikasya smaraharas tan-namni dese (Brhat 2455) by which a\[n\] undergoes mahahara and the plurality of theprakrti is restored. Thus we get kuravah (the province of the descendants of Kuru, or in other words: the land where the descendants of Kuru reside). Other examples are pancalah (the land where the descendants of Pancala reside), matsyah (the land where the descendants of Matsya reside), ahgah (the land where the descendants of Anga reside), magadhah (the land where the descendants of Magadha reside), and so on.
 
 *1123.    avanti-kunti-kuru-surasenader laksmyam, kekayad va*
@@ -11444,9 +11444,9 @@ pausa-adayah—the words pausa and so on; mase—in the sense of a month; nipaty
 AMRTA—The forms pausa and so on are specially made when a month which is characterized by the full moon being in conjuction with the particular constellation is being expressed. The full moon (paumamast) is also taken as being expressive of a time. Thus kesava \[n\]a is applied in the sense pusyena yukta (in conjunction with the constellation pusya), and then t\[p\] is applied whereby we get pausi paumamast (the full moon in conjuction with the constellation pusya). Then, when we have the meaning pausi paumamast vidyate yatra sa masah (that month in which the full moon is in conjunction with the constellation pusya), we get pausah. Similarly, when we have the meaning maght paumamast atra (that month in which the full moon is in conjunction with the constellation magha), we get maghah. In the same way we get the other ten months beginning with phalgunah.
 
 SAMSODHINI—In the Vaisnava calendar the months are named after the presiding deity of that month (Amrta 7). Thus the months are mentioned below in their traditional order along with their English and Vaisёava equivalents. In the Vaisёava calendar, however, the new year begins from Gaura-pumima (the full moon day at the end of the month Phalguna when Lord Gaura appeared), and each new year is called a Gaurabda (year of Gaura). Thus 1986 was Gaurabda 500 or in other words the 500th year since Lord Gaura’s appearance in 1486.  
-![рис-018.jpeg|675](<Hari-namamrita-vyakaranam. Volume 2/рис-018.jpeg>)
+![рис-018.jpeg|675](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-018--19d65e91b304ee51.jpeg>)
 
-![рис-019.jpeg|648](<Hari-namamrita-vyakaranam. Volume 2/рис-019.jpeg>)
+![рис-019.jpeg|648](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-019--4377a1a0570f3e66.jpeg>)
 
 In this regard, the names of the months are also sometimes made by using one of the alternate names of a naksatra. For example, we get karttika (the month in which the full moon is in the constellation krttika) and we also get bahula (the month in which the full moon is in the constellation bahula). Thus one of the meanings of bahulastaml is “the eighth lunar day in the month bahula (karttika).”
 
@@ -12358,7 +12358,7 @@ Contrast that with this:
 
 The trick here is to convert the word ending in a sasthl visnubhakti into the subject, then convert tva or ta\[p\] into bhavati or whichever form of bhu complements the subject, and finally convert what comes before tva or ta\[p\] into the predicate. If there is a trtiya or pancaml visnubhakti, insert the word yatah (because) in its place. This process is shown in the diagram:
 
-![рис-020.jpeg|577](<Hari-namamrita-vyakaranam. Volume 2/рис-020.jpeg>)
+![рис-020.jpeg|577](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-020--6dafb00b122f4309.jpeg>)
 
 The justification behind this method is as follows: Tva and ta\[p\] are applied in the sense of tasya bhavah. When we understand that bhavah is made from bhu + \[gh\]a\[n\] in bhave prayoga, it follows that tasya is the anukta-karta of bhavah and thus takes a sasthi visnubhakti by
 
@@ -12784,9 +12784,9 @@ SAMSODHINI—Even though sasti, saptati, asiti, and navati are included in the v
 
 A list of the cardinal numbers was given in Samsodhini 1010. The following is a list of the ordinal numbers in their masculine prakrti forms. The feminine prakrti forms can be made using the rules learnt thus far in the Taddhita- prakaraёa:
 
-![рис-021.jpeg|437](<Hari-namamrita-vyakaranam. Volume 2/рис-021.jpeg>)
+![рис-021.jpeg|437](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-021--7ff768c73bb6930c.jpeg>)
 
-![рис-022.jpeg|442](<Hari-namamrita-vyakaranam. Volume 2/рис-022.jpeg>)
+![рис-022.jpeg|442](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-022--30ddf7fc178251d2.jpeg>)
 
 *1225.    tad asyasty asmin va matuh*
 
@@ -13967,7 +13967,7 @@ The syntactical connection is:
 
 *(he) caitanya-candra! (tvam) mama hrt- kumudam vikasya (tad hrt-kumudam) nija-cintana-bhrhga-rahgaih hrdyam vidhehi. kinca (he) sa-daya! (tvam mama) aparadha-timiram nividam vidhuya (tava) padamrtam mam durgatam (api) payaya.*
 
-![рис-023.jpeg|554](<Hari-namamrita-vyakaranam. Volume 2/рис-023.jpeg>)
+![рис-023.jpeg|554](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-023--0b3f04548c40a721.jpeg>)
 
 **O Caitanya Moon, open the lotus of my heart, and make it lovely with the delights of the bees of thoughts about You. And one more thing, O merciful moon! Dispel the dense darkness of my offenses and induce me, though I am miserable, to imbibe the nectar of Your rays (or of Your feet). (Stavavali, Abhista-sucanam 11)**
 
@@ -13980,11 +13980,11 @@ The syntactical connection is:
 
 sveda—perspiration; kampa—trembling; kaёtaka—s tanding of hairs on end; asru—tears; gadgada—choking up of the voice; adi—\[by sattvika-bhavas\] beginning from; sancita—\[the emotions are\] heaped up (or sancita—s he is augmented); amarsa—indignation; harsa—joy; vamata—and crookedness; adi—among which the foremost are; bhava-bhйsaёa—with ornaments in the form of emotions (rupaka syama-rama by mayuradayo vyamsakadibhih, 930); ancita—she is endowed; kr.sfia-neira—Krsna’s eyes; tosi—\[the ornaments\] delight; ratna—\[studded\] with jewels (by vrtti 947); maёdana—of ornaments; ali—a multitude; dadhika—s he wears (from the Paёinian dhatu dadh); mahyam—to me; atma—own; pada-padma—of the lotus-like feet (by upameyam vyaghradibhir upamanaih, 928); dasya—of the service; da—the giver; astu—may she become; radhika—Radhika.
 
-![рис-024.jpeg|420](<Hari-namamrita-vyakaranam. Volume 2/рис-024.jpeg>)
+![рис-024.jpeg|420](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-024--0b34a645770706b8.jpeg>)
 
 **Her emotions, such as indignation, joy, and contrariness, are accentuated by perspiring, trembling, horripilation, crying, faltering of the voice, and so on, and are ornaments. She wears jewel-studded adornments that delight Krsna’s eyes. May Radhika bestow upon me the service of Her lotus-like feet.(Radhikastaka 7, Govmda-lilamrta 17.65)**
 
-![рис-025.jpeg|478](<Hari-namamrita-vyakaranam. Volume 2/рис-025.jpeg>)
+![рис-025.jpeg|478](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-025--9a6c1769cfceda4d.jpeg>)
 
 1 The sense is: “shining like saffron, the rising sun and a flash of lightning,” by the rule: upamanam ubhaya-stha-dharma-vacanaih (929). The commentator Vrndavana Cakravarti, however, interprets the words kunkumodyad-arka-vidyud-amsu-divyad as a pancami- tatpurusa: kunkumodyad-surya-vidyutam amsuh kiranas tato ’pi divyad, “shining even more than the rays of saffron, of the rising sun, and of lightning.” (Sadananda-vidhayini 17.50)
 
@@ -14046,7 +14046,7 @@ where the compound indranila-mani-manjulah is formed by the rule:
 
 *upamanam ubhaya-stha-dharma-vacanaih (929).*
 
-![рис-026.jpeg|457](<Hari-namamrita-vyakaranam. Volume 2/рис-026.jpeg>)
+![рис-026.jpeg|457](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-026--1f2a48d3b89ae513.jpeg>)
 
 indranila-mani-manjula-vamah—whose beautiful luster resembles a sapphire; phulla—blown; nipa—of a nipa tree; kusuma—with flowers; ancita—are endowed; kamah—whose ears; krsnalabhih—with gunja berries; akrsa- urasi—o n the broad chest; harl—He has a garland; sundarah—beautiful; jayati—He is glorious; kunja-vihari—He delights in pleasure groves.
 
@@ -14063,7 +14063,7 @@ govinda—of Govinda; asya—by the face; uttamsita—adorned (“made into an o
 
 **O Govardhana encircled by peacocks that are excited because their longing to dance has arisen due to the sounds from the flute which is adorned by Govinda’s face, your limbs have sprouts because of the high waves of Radha- kunda. Kindly fulfill all my desires. (First Govardhanastaka 1, Stavamala)**
 
-![рис-027.jpeg|447](<Hari-namamrita-vyakaranam. Volume 2/рис-027.jpeg>)
+![рис-027.jpeg|447](<../attachments/hari-namamrita-vyakaranam.-volume-2--%D1%80%D0%B8%D1%81-027--1e025147b1e97aa1.jpeg>)
 
 ## Appendix 3
 

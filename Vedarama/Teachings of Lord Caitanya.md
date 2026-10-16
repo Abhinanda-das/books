@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/tlc"
 ---
 
-![обложка|156](<Teachings of Lord Caitanya/обложка.jpeg>)
+![обложка|156](<../attachments/teachings-of-lord-caitanya--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--efbab08cb88c894c.jpeg>)
 
 Teachings of Lord Chaitanya is an introduction to the most advanced and esoteric subjects contained within Krishna conscious philosophy, as presented by Chaitanya Mahaprabhu. The text is a summary of the multi-volume biography Chaitanya Charitamrita, which contains some of the most elaborate, technical, and ecstatic revelations of the science of God found in any scripture.
 

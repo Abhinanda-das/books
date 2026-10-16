@@ -43,7 +43,7 @@ To select a clip, click near the vertical top or bottom of the clip. 
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-clip-select.png" file-size="18162" data-height="169" data-id="b2c2bd5c-5ab4-49a0-800d-8435d83ada51" node-type="media" data-type="file" data-width="234" title="Attachment">
 
-![midi-clip-select.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/a0537c9c0c18ea4b8efd7cc0c84a7ca0bc3d9721.png)
+![midi-clip-select.png](../../attachments/working-with-midi-on-instrument-tracks_assets--a0537c9c0c18ea4b8efd7cc0c84a7ca0bc3d9721--7342de27724d0a31.png)
 
 </div>
 
@@ -57,7 +57,7 @@ To select a range in a MIDI clip, hover your mouse above the vertical middle of 
 
 Double-click in the top bar of a MIDI clip anywhere except on the CC view or Quantize button to rename the MIDI clip. A popover opens. Type the new clip name, then click Done.
 
-![midi-clip-popover.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/539e9b3adfc49cd915f699630ca6054a1634b6aa.png)
+![midi-clip-popover.png](../../attachments/working-with-midi-on-instrument-tracks_assets--539e9b3adfc49cd915f699630ca6054a1634b6aa--22238a25c6608890.png)
 
 ## Moving MIDI clips
 
@@ -69,7 +69,7 @@ When you move a MIDI clip, it can overlap an existing clip. You can see the over
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-move-overlap.png" file-size="33007" data-height="199" data-id="55dc5f14-98e7-4221-b90d-0181c9ef3320" node-type="media" data-type="file" data-width="360" title="Attachment">
 
-![midi-move-overlap.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/ff30879ab4cee510b5f3d907b9c76aaf354492d4.png)
+![midi-move-overlap.png](../../attachments/working-with-midi-on-instrument-tracks_assets--ff30879ab4cee510b5f3d907b9c76aaf354492d4--a4abc07fdc227a00.png)
 
 </div>
 
@@ -88,7 +88,7 @@ Trim a MIDI clip to either make it smaller or to extend the MIDI clip. This is u
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-clip.png" file-size="9387" data-height="115" data-id="9714190a-fa61-4cac-9049-7f8cfbe599b4" node-type="media" data-type="file" data-width="217" title="Attachment">
 
-![midi-clip.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/91cefcbdd650c7974f6d4931773d8823e443ef04.png)
+![midi-clip.png](../../attachments/working-with-midi-on-instrument-tracks_assets--91cefcbdd650c7974f6d4931773d8823e443ef04--72ecc61005246fad.png)
 
 </div>
 
@@ -100,7 +100,7 @@ Trim a MIDI clip to either make it smaller or to extend the MIDI clip. This is u
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-clip-extend.png" file-size="12015" data-height="113" data-id="d9f36d0d-2904-4e28-9257-ca5e38182750" node-type="media" data-type="file" data-width="419" title="Attachment">
 
-![midi-clip-extend.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/cb71c1d3aa8d0f29aa7560c92910574926bf7e65.png)
+![midi-clip-extend.png](../../attachments/working-with-midi-on-instrument-tracks_assets--cb71c1d3aa8d0f29aa7560c92910574926bf7e65--04fcd7cc06a9b5d7.png)
 
 </div>
 
@@ -114,9 +114,9 @@ Before you add and edit MIDI notes, or cut, copy or paste MIDI data, you will li
 
 - **Resize all tracks:** At the top of the Edit workspace, click the Tracks icon, and choose a new track height size.
 
-![qs-resize-all-tracks.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/e89e0f5a0aea902465ed25f7b377b3a06eb69919.png)
+![qs-resize-all-tracks.png](../../attachments/working-with-midi-on-instrument-tracks_assets--e89e0f5a0aea902465ed25f7b377b3a06eb69919--eb9a1ce27a6d1755.png)
 
-![qs-track-heights.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/6bf5cd04e9610acfab0a351cd33fd82ba525a71c.png)
+![qs-track-heights.png](../../attachments/working-with-midi-on-instrument-tracks_assets--6bf5cd04e9610acfab0a351cd33fd82ba525a71c--7062024525820fdb.png)
 
 - **Resize one track:** Drag up or down from the lower edge of the Track controls area. This resizes just one track.
 
@@ -124,7 +124,7 @@ Before you add and edit MIDI notes, or cut, copy or paste MIDI data, you will li
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="qs-resize-midi-drag.png" file-size="70256" data-height="237" data-id="1a2fbc47-2b4d-4b5d-8996-dac26c2a143b" node-type="media" data-type="file" data-width="563" title="Attachment">
 
-![qs-resize-midi-drag.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/df55b7dff106ac638d949ec704a332e08b3fe563.png)
+![qs-resize-midi-drag.png](../../attachments/working-with-midi-on-instrument-tracks_assets--df55b7dff106ac638d949ec704a332e08b3fe563--78a5dff87d246219.png)
 
 </div>
 
@@ -140,7 +140,7 @@ Before you add and edit MIDI notes, or cut, copy or paste MIDI data, you will li
 
 - **Zoom horizontally with a mousewheel:** Hold the Option (macOS) or Alt (Windows) key and scroll.
 
-![increase-decrease-horiz-zoom.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/b2701b4bfae2676015739db632db132162da19e6.png)
+![increase-decrease-horiz-zoom.png](../../attachments/working-with-midi-on-instrument-tracks_assets--b2701b4bfae2676015739db632db132162da19e6--5ef5e50e22d2874c.png)
 
 ------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ You can vertically resize the MIDI notes on an Instrument track to make them eas
 
 Set the instrument track to MIDI Notes view. On the instrument track, click View, and from the View browser, choose Notes. Notes view is indicated, and the keyboard and piano roll appear to the right of the track controls.
 
-![midi-notes-view.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/ee7f132276cd5149bbf93683ebff261532231b06.png)
+![midi-notes-view.png](../../attachments/working-with-midi-on-instrument-tracks_assets--ee7f132276cd5149bbf93683ebff261532231b06--9deb5e3e780bed20.png)
 
 At the left of the MIDI track is a scroll bar. You can use the scroll bar to move up and down in the piano roll, and to resize the notes in the piano roll vertically. 
 
@@ -166,7 +166,7 @@ At the left of the MIDI track is a scroll bar. You can use the scroll bar to mov
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-notes-resize-vertically.png" file-size="110855" data-height="484" data-id="9c52b992-0087-405a-9305-ac3af7728f67" node-type="media" data-type="file" data-width="492" title="Attachment">
 
-![midi-notes-resize-vertically.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/4b778529e140a498421672e1b7b6343043580a53.png)
+![midi-notes-resize-vertically.png](../../attachments/working-with-midi-on-instrument-tracks_assets--4b778529e140a498421672e1b7b6343043580a53--f6195f30bf6d7d3c.png)
 
 </div>
 
@@ -178,7 +178,7 @@ At the left of the MIDI track is a scroll bar. You can use the scroll bar to mov
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-note-views.png" file-size="34192" data-height="242" data-id="db392927-2d84-4a1a-a20b-f4bdf0904701" node-type="media" data-type="file" data-width="290" title="Attachment">
 
-![midi-note-views.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/596bc1f05418c5442d4a6cae5c1017051f5bc255.png)
+![midi-note-views.png](../../attachments/working-with-midi-on-instrument-tracks_assets--596bc1f05418c5442d4a6cae5c1017051f5bc255--573e6fe6ac508fce.png)
 
 </div>
 
@@ -199,7 +199,7 @@ There are several ways to select multiple MIDI notes
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-drag-select-multiple.png" file-size="20824" data-height="210" data-id="dcbaec97-a5f2-4e8f-88fd-0367ac3ebe41" node-type="media" data-type="file" data-width="371" title="Attachment">
 
-![midi-drag-select-multiple.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/a3fdd07f41562b51b6fcbd63999066ac9dac1791.png)
+![midi-drag-select-multiple.png](../../attachments/working-with-midi-on-instrument-tracks_assets--a3fdd07f41562b51b6fcbd63999066ac9dac1791--cb9f8d4defbb480b.png)
 
 </div>
 
@@ -209,7 +209,7 @@ There are several ways to select multiple MIDI notes
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-select-multiple-non-contig.png" file-size="22216" data-height="239" data-id="e7e49ed1-3e57-4418-9e64-10905ed9cff3" node-type="media" data-type="file" data-width="294" title="Attachment">
 
-![midi-select-multiple-non-contig.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/492f95ee165052d15a94fb18ca3f66c39c67c48f.png)
+![midi-select-multiple-non-contig.png](../../attachments/working-with-midi-on-instrument-tracks_assets--492f95ee165052d15a94fb18ca3f66c39c67c48f--c86eea5dc62f6ad0.png)
 
 </div>
 
@@ -219,7 +219,7 @@ There are several ways to select multiple MIDI notes
 
 <div collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-select-notes-keyboard.png" file-size="22514" data-height="239" data-id="9975553b-7d4a-46f9-8b6b-1675f5bfe933" node-type="media" data-type="file" data-width="346" title="Attachment">
 
-![midi-select-notes-keyboard.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/a4d95f2297473b72dd9c35d695b91f82949e9f74.png)
+![midi-select-notes-keyboard.png](../../attachments/working-with-midi-on-instrument-tracks_assets--a4d95f2297473b72dd9c35d695b91f82949e9f74--3e4180154eb13917.png)
 
 </div>
 
@@ -241,7 +241,7 @@ Cutting, copying, and pasting MIDI works differently from editing audio: 
 
 MIDI selections conform to the grid if Snap is enabled.
 
-![multiple-midi-notes-pasted.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/2c98c6bd78b46ac1c1985e67abde7ed30a0f16a4.png)
+![multiple-midi-notes-pasted.png](../../attachments/working-with-midi-on-instrument-tracks_assets--2c98c6bd78b46ac1c1985e67abde7ed30a0f16a4--49205a0a224b89c8.png)
 
  
 
@@ -277,7 +277,7 @@ The shift workflow allows you to edit MIDI and keep your arrangement flowing aro
 
 </div>
 
-![shift-workflow-midi.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/e17fe10184a7cc85c3de9bbd4d4800d62754d33f.png) 
+![shift-workflow-midi.png](../../attachments/working-with-midi-on-instrument-tracks_assets--e17fe10184a7cc85c3de9bbd4d4800d62754d33f--6e38898d7e19c672.png) 
 
  
 
@@ -301,7 +301,7 @@ To work with notes in a MIDI clip or on an Instrument track, click View on the t
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-select-notes-view.png" file-size="55580" data-height="215" data-id="8e28e492-838f-4bd1-9fe6-0946b5a3a307" node-type="media" data-type="file" data-width="620" title="Attachment">
 
-![midi-select-notes-view.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/4f6a9f73207b840b33571c2e3b7ababfbce22011.png)
+![midi-select-notes-view.png](../../attachments/working-with-midi-on-instrument-tracks_assets--4f6a9f73207b840b33571c2e3b7ababfbce22011--5659e766e2f95958.png)
 
 </div>
 
@@ -317,7 +317,7 @@ Hover over a note location. The MIDI Note Editing Tool (a plus symbol) appears. 
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-smart-add-note.png" file-size="15823" data-height="210" data-id="b59fa198-ea51-4778-96c4-1335a566d157" node-type="media" data-type="file" data-width="370" title="Attachment">
 
-![midi-smart-add-note.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/fa3bf47d5da7e758e4c3d775391e867e30c32e36.png)
+![midi-smart-add-note.png](../../attachments/working-with-midi-on-instrument-tracks_assets--fa3bf47d5da7e758e4c3d775391e867e30c32e36--254c4cc858e587df.png)
 
 </div>
 
@@ -333,7 +333,7 @@ To add multiple notes, press Control and click and drag from left to right acros
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-add-multiple-notes.png" file-size="20583" data-height="209" data-id="f76d016c-43f4-404e-8905-8cb82e488760" node-type="media" data-type="file" data-width="371" title="Attachment">
 
-![midi-add-multiple-notes.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/a5b971e6c840f4717c0eccb9933bd47043a134c9.png)
+![midi-add-multiple-notes.png](../../attachments/working-with-midi-on-instrument-tracks_assets--a5b971e6c840f4717c0eccb9933bd47043a134c9--babba0fa011d32a2.png)
 
 </div>
 
@@ -349,7 +349,7 @@ To delete a MIDI note, hover over the note. The MIDI Hand Editing Tool appears. 
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-smart-tool-hand.png" file-size="19135" data-height="238" data-id="96f7857d-cd24-4844-ab5d-b640c92bd98a" node-type="media" data-type="file" data-width="510" title="Attachment">
 
-![midi-smart-tool-hand.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/de606a72b37de0f38866256d926b0ee587625a2c.png)
+![midi-smart-tool-hand.png](../../attachments/working-with-midi-on-instrument-tracks_assets--de606a72b37de0f38866256d926b0ee587625a2c--07cab28443df319e.png)
 
 </div>
 
@@ -369,7 +369,7 @@ Hover near the edge of a MIDI note. The MIDI Trim Editing Tool appears. Click on
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-smart-trim.png" file-size="22071" data-height="210" data-id="468d4c9e-9467-436c-95f0-1da588709b31" node-type="media" data-type="file" data-width="399" title="Attachment">
 
-![midi-smart-trim.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/6ec324c8040c8fce356c419b9d602c8c38aa8461.png)
+![midi-smart-trim.png](../../attachments/working-with-midi-on-instrument-tracks_assets--6ec324c8040c8fce356c419b9d602c8c38aa8461--8143617087f15f58.png)
 
 </div>
 
@@ -385,7 +385,7 @@ Hover near the edge of a MIDI note. The MIDI Trim Editing Tool appears. Click on
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-smart-velocity.png" file-size="21221" data-height="210" data-id="12f50006-a72c-418c-9f55-47e149c6921b" node-type="media" data-type="file" data-width="371" title="Attachment">
 
-![midi-smart-velocity.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/6f4d153b6d018300eaf13cc3a4d46f6b704f6fbb.png)
+![midi-smart-velocity.png](../../attachments/working-with-midi-on-instrument-tracks_assets--6f4d153b6d018300eaf13cc3a4d46f6b704f6fbb--4bdcaa7a7d16332e.png)
 
 </div>
 
@@ -397,7 +397,7 @@ Hover near the edge of a MIDI note. The MIDI Trim Editing Tool appears. Click on
 
 Click the MIDI CC icon at the top of the track, next to the track name.
 
-![midi-cc-show.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/49a64767375bd8fd280e1b2325018b8c76d1ca6d.png)
+![midi-cc-show.png](../../attachments/working-with-midi-on-instrument-tracks_assets--49a64767375bd8fd280e1b2325018b8c76d1ca6d--43061f179b2e2985.png)
 
  
 
@@ -409,7 +409,7 @@ Click on the velocity stalk and drag it up or down.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-edit-note-velocity.png" file-size="26409" data-height="277" data-id="1ef5bd79-5c6f-41b8-ba13-368231a2dc23" node-type="media" data-type="file" data-width="372" title="Attachment">
 
-![midi-edit-note-velocity.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/d610ec3c0823b93a520c9300500116887802659f.png)
+![midi-edit-note-velocity.png](../../attachments/working-with-midi-on-instrument-tracks_assets--d610ec3c0823b93a520c9300500116887802659f--547d330dcf6c104d.png)
 
 </div>
 
@@ -426,7 +426,7 @@ Click on the velocity stalk and drag it up or down.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="mide-multiple-notes-select-velocity.png" file-size="28811" data-height="279" data-id="91f8eec1-93a0-4f7c-b2b0-0c274fe78889" node-type="media" data-type="file" data-width="372" title="Attachment">
 
-![mide-multiple-notes-select-velocity.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/ecb4ea26ca3f51ce6a21cba1c4ad77eba099e57c.png)
+![mide-multiple-notes-select-velocity.png](../../attachments/working-with-midi-on-instrument-tracks_assets--ecb4ea26ca3f51ce6a21cba1c4ad77eba099e57c--1cc513c8379d94c5.png)
 
 </div>
 
@@ -443,7 +443,7 @@ Click on the velocity stalk and drag it up or down.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-draw-note-velocity.png" file-size="26696" data-height="277" data-id="70aebd36-f557-4655-bbe0-4c78c4b89e4b" node-type="media" data-type="file" data-width="372" title="Attachment">
 
-![midi-draw-note-velocity.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/9f150d32c9e8275f1f599c4a19723ebcf4a6d30f.png)
+![midi-draw-note-velocity.png](../../attachments/working-with-midi-on-instrument-tracks_assets--9f150d32c9e8275f1f599c4a19723ebcf4a6d30f--802693240d306eed.png)
 
 </div>
 
@@ -464,7 +464,7 @@ Click on the velocity stalk and drag it up or down.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="shift-notes-midi.png" file-size="52568" data-height="537" data-id="4c2fb1ae-e957-4da6-b076-2a8f74147f39" node-type="media" data-type="file" data-width="265" title="Attachment">
 
-![transpose-notes-midi.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/d194401119dd5c4d7443f9396df8162182bff8fd.png)
+![transpose-notes-midi.png](../../attachments/working-with-midi-on-instrument-tracks_assets--d194401119dd5c4d7443f9396df8162182bff8fd--305e867f95c2720d.png)
 
 </div>
 
@@ -501,7 +501,7 @@ You can quantize MIDI notes, selections, or clips to any grid increment, and add
 2.  Press Command+Shift+U (macOS) / Ctrl+Shift+U (Windows) to open the quantize panel. You can also press the Q in the header of an audio clip, though this will change your selection unless you have enabled a track group.
 
     \
-    ![midi-quantize.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/c63898e5643fd36efb3b0482172ebdf57428df0b.png)\
+    ![midi-quantize.png](../../attachments/working-with-midi-on-instrument-tracks_assets--c63898e5643fd36efb3b0482172ebdf57428df0b--680a138451f0802c.png)\
      
 
 3.  To preview your Quantize choices in real time, select Auto Apply.
@@ -534,7 +534,7 @@ To show MIDI Continuous Controllers, click the MIDI CC button on a MIDI clip.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-cc-show.png" file-size="16255" data-height="224" data-id="2473093c-117a-4922-aa82-b42eda68ec2d" node-type="media" data-type="file" data-width="253" title="Attachment">
 
-![midi-cc-show.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/49a64767375bd8fd280e1b2325018b8c76d1ca6d.png)
+![midi-cc-show.png](../../attachments/working-with-midi-on-instrument-tracks_assets--49a64767375bd8fd280e1b2325018b8c76d1ca6d--43061f179b2e2985.png)
 
 </div>
 
@@ -554,7 +554,7 @@ By default, MIDI CC view shows Velocity and the velocity sliders.
 
 <div class="wysiwyg-text-align-center" collection="contentId-200606089" context-id="200606089" file-mime-type="image/png" file-name="midi-cc-change.png" file-size="24583" data-height="216" data-id="fa4e4634-5536-4e07-a25c-04ee4c8ce71e" node-type="media" data-type="file" data-width="258" title="Attachment">
 
-![enable-cc-automation.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/de82ddc93b8c67032e3367dfa78deac5da3019b5.png)
+![enable-cc-automation.png](../../attachments/working-with-midi-on-instrument-tracks_assets--de82ddc93b8c67032e3367dfa78deac5da3019b5--512f972f8eaaaf01.png)
 
 </div>
 
@@ -574,7 +574,7 @@ You can configure LUNA to send MIDI Clock position and timing information to con
 
 2.  Click MIDI. The MIDI Settings screen opens.
 
-    ![midi-settings.png](Working%20with%20MIDI%20on%20Instrument%20Tracks_assets/95bdfd7c091767cf24d3a9424b1c911826ef5821.png)
+    ![midi-settings.png](../../attachments/working-with-midi-on-instrument-tracks_assets--95bdfd7c091767cf24d3a9424b1c911826ef5821--4b6e351ea252ef85.png)
 
 3.  To enable MIDI Clock for a device, click the box next to the device name.
 

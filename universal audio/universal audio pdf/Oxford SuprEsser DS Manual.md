@@ -52,7 +52,7 @@ _1 INTRODUCTION_
 ## **1 Introduction** 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0004-02.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0004-02--4c3c2d18d1dd02e8.png>)
 
 
 The Sonnox Oxford SuprEsser DS is a highly-featured professional De-Esser, designed for the treatment of sibilance and fricatives in vocals, and the treatment of unwanted whistles and ’spirant’ artefacts associated with wind instruments. For the most natural sounding results, the Oxford SuprEsser DS de-esses only the frequency band you select — so you won’t end up with an over-de-essed lisp- like voice with all the high frequencies gone! 
@@ -120,7 +120,7 @@ _3 OPERATION_
 ## **3.1 Signal Processing Overview** 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0007-03.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0007-03--5f15a51b42d979ff.png>)
 
 
 Basic SuprEsser DS signal flow 
@@ -150,7 +150,7 @@ In addition to the four EQ types, there are four different compressor modes that
 The following diagram provides a more complete signal flow to illustrate the elements required for advanced modes of operation: 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0008-06.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0008-06--51fd17ceb9b34e05.png>)
 
 
 Advanced SuprEsser DS signal flow 
@@ -182,7 +182,7 @@ There are four major operational modes selectable via the TRIGGER and AUDIO butt
 _Gain ducking occurs only in the narrow band, triggered by the narrow band._ 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0009-09.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0009-09--a610760bd301f5d3.png>)
 
 
 In this mode (the default) both the trigger signal (to the compressor sidechain) and the main compressor signal is the narrow-bandpass-filtered signal. 
@@ -206,7 +206,7 @@ _3.2 Advanced Operation_
 _3 OPERATION_ 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0010-02.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0010-02--1bf4c649198f0dab.png>)
 
 
 In this mode, the trigger signal (to the compressor sidechain) is the narrow-bandpass-filtered signal, and the main compressor signal is the (wide) delayed input signal. 
@@ -224,7 +224,7 @@ Furthermore, the crossover controls (in the LISTEN section) have no effect on th
 _Gain ducking occurs only in the narrow band of the spectrum, triggered by the wide input signal._ 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0010-10.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0010-10--bb6b63e951a1eed4.png>)
 
 
 In this mode, the trigger signal (to the compressor sidechain) is the delayed input signal, and the main compressor signal is the narrow-bandpass-filtered signal. 
@@ -248,7 +248,7 @@ drum/bass combination to reduce a rattle or click whenever the kick occurs. In t
 _Equivalent to compressor with no side chain EQ._ 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0011-05.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0011-05--e676121ea2b46de7.png>)
 
 
 In this mode, the trigger signal (to the compressor sidechain) and the main compressor signal are both fed from the delayed input signal. In other words, you now have an ordinary compressor with no frequency specific sidechain processing. 
@@ -350,7 +350,7 @@ _4 DESCRIPTION OF CONTROLS_
 ## **4.1 Basic Screen Controls** 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0015-03.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0015-03--8bed9341073389d9.png>)
 
 
 When you insert the plugin, the display defaults to a zoomed out mode, so you can see immediately the overall picture of where the centre band is in the spectrum. 
@@ -578,7 +578,7 @@ This defines how quickly the gain reduction can decay back to normal after the t
 This defines the input to output gain ratio of the compressor, once the signal has reached the level of the threshold value. The Ratio setting is indicated in degrees as an angle, because this allows you to picture the input/output gain characteristic. 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0022-11.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0022-11--f8f851dfb7739cf5.png>)
 
 
 45 degrees, Ratio 1:1, No compression 
@@ -594,13 +594,13 @@ _4.2 Advanced Controls_
 _4 DESCRIPTION OF CONTROLS_ 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0023-02.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0023-02--96324e5a4348fa01.png>)
 
 
 - ~26 degrees, Ratio 2:1, Gentle compression 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0023-04.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0023-04--f68e024cb8dcc27c.png>)
 
 
 - ~14 degrees, Ratio 4:1, Significant compression 
@@ -630,7 +630,7 @@ This control allows for a gradual onset of gain reduction as the signal level ap
 The larger the value set here (in 5dB steps up to 20dB), the earlier the onset of gain reduction prior to reaching the threshold. For general frequency specific compression work, this control allows for more natural compression, rather than brick-wall limiting. 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0024-04.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0024-04--b275240b50422037.png>)
 
 
 10 dB Soft Ratio 
@@ -654,7 +654,7 @@ _4 DESCRIPTION OF CONTROLS_
 ## **4.3 Graphical Screen Controls** 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0025-03.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0025-03--ff9ca119fa08e526.png>)
 
 
 The Oxford SuprEsser DS’s graphical display is the key to its intuitive operation. This display provides all the important pieces of information you need to access visually and quickly, such as the correct threshold and filter frequency values. 
@@ -809,7 +809,7 @@ _6 PRESET MANAGER TOOLBAR_
 ## **6 Preset Manager Toolbar** 
 
 
-![](<Oxford SuprEsser DS Manual_assets/Oxford_SuprEsser_DS_Manual.pdf-0030-02.png>)
+![](<../../attachments/oxford-supresser-ds-manual_assets--oxford_supresser_ds_manual.pdf-0030-02--9225e684f9a754f6.png>)
 
 
 Sonnox Oxford plug-ins come equipped with their own onboard Preset Manager, which is displayed at the top of the plug-in window. The reasoning behind this is to allow increased portability of your presets across all the host applications, while also providing a consistent and versatile interface. While most host platforms allow creation and loading of presets, those host-created preset files are not portable between different host applications. With the Oxford plug-ins’ Preset Manager, you can create a named preset in one host application and load it when using an alternative application. 

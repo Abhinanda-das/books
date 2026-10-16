@@ -25,7 +25,7 @@ Controls on Apollo's front panel dynamically adjust the Unison plug-in's paramet
 
 Because Unison can be active on more than one mic channel, a complement of premium emulated hardware is available concurrently.
 
-![unison-inserts-multiple.png](Unison_assets/405f6c31a7cbd4ade9789c3f06964bfc2e9141b3.png)
+![unison-inserts-multiple.png](../../attachments/unison_assets--405f6c31a7cbd4ade9789c3f06964bfc2e9141b3--91b46795ebc3c30f.png)
 
 *Unison is enabled by loading a UAD Unison plug-in into a dedicated Unison insert in UAD Console*
 
@@ -48,7 +48,7 @@ For a complete list of all Unison-enabled UAD plug-ins, visit [this article](153
 
 # Activating Unison
 
-![unison-insert-callout.png](Unison_assets/47a62e40cd5795d1d9dab9be33ba80030d0bda68.png)
+![unison-insert-callout.png](../../attachments/unison_assets--47a62e40cd5795d1d9dab9be33ba80030d0bda68--95159aa176d0fcdd.png)
 
 *Click this area to insert a Unison plug-in*
 
@@ -142,7 +142,7 @@ When a Unison plug-in is unintentionally disabled (for example, when UAD-2 DSP r
 
 ## Line Input Gain Bypass (Apollo 8, x8, 8p, x8p)
 
-![](Unison_assets/7f1b8ab81dfd1ab4517fc1ba516b8490be9dffe6.png)
+![](../../attachments/unison_assets--7f1b8ab81dfd1ab4517fc1ba516b8490be9dffe6--176b99deb09e894e.png)
 
 When a Unison plug-in is active on a line input and Line Input Gain for the preamp channel is set to BYPASS in UAD Console Settings, the Unison plug-in is disabled. All preamp functionality is disabled with Line Input Gain Bypass. For related information, see [Line Input Gain (Apollo 8, 8p, x6, x8, x8p)](25403573794836-Hardware-Settings-Panel.html#h_01HTY5D6CW58X0RBF0CKEY4H9F).
 
@@ -166,7 +166,7 @@ The orange-colored ring indicates that the currently selected preamp channel is 
 
 |  |  |
 |----|----|
-| ![](Unison_assets/422da520440c82caa3b335fbc6a8a72bd2d6e31f.png) | ![](Unison_assets/d04910021e56c46fd79fba42beb3bf91619d2f0d.png) |
+| ![](../../attachments/unison_assets--422da520440c82caa3b335fbc6a8a72bd2d6e31f--50d02f1fff25ea12.png) | ![](../../attachments/unison_assets--d04910021e56c46fd79fba42beb3bf91619d2f0d--2bb30a8070e17024.png) |
 
 </div>
 
@@ -186,7 +186,7 @@ Unison plug-ins may contain parameters that are unavailable for hardware control
 
 ### Gain Level Indicator
 
-![](Unison_assets/adfa413f118f77d5c123f6aff1fa552991e4c643.png)
+![](../../attachments/unison_assets--adfa413f118f77d5c123f6aff1fa552991e4c643--2181f1f27650c87d.png)
 
 When Unison is active in the channel, the color of UAD Console's preamp gain level display (the colored ring around the gain knob), and the channel selection dot on the gain knob, is orange instead of green.
 
@@ -196,7 +196,7 @@ If the Unison plug-in is inactive (either via the insert disable switch or the p
 
 ### Gain Level Display
 
-![gain-level-display.png](Unison_assets/e7fd6527f088537c4bff2a42c8e6fbe4b2b96493.png)
+![gain-level-display.png](../../attachments/unison_assets--e7fd6527f088537c4bff2a42c8e6fbe4b2b96493--05bca7de1fee60f3.png)
 
 The preamp gain level display (the gain value readout under the knob) shows the current value of the main parameter within the Unison plug-in. Additionally, the display is adapted to the parameter value and range of the first gain stage within the plug-in.
 
@@ -267,7 +267,7 @@ Apollo's hardware channel selection indicator LED flashes when Gain Stage Mode i
 
 The channel selection number LED above its input meter flashes when Gain Stage Mode is active, as shown below.
 
-![](Unison_assets/49fdf46502acd248c646fa021eeefc9acda1e842.png)
+![](../../attachments/unison_assets--49fdf46502acd248c646fa021eeefc9acda1e842--e58b8bcb2907dd8f.png)
 
  
 
@@ -275,13 +275,13 @@ The channel selection number LED above its input meter flashes when Gain Stage M
 
 The channel selection number LED (e.g., CH1 or CH2) above the input meters flashes when Gain Stage Mode is active, as shown below.
 
-**![](Unison_assets/8cbf2c6c2140dfaa48f89c3f77f8d56d73ecb9f8.png)**
+**![](../../attachments/unison_assets--8cbf2c6c2140dfaa48f89c3f77f8d56d73ecb9f8--0d0c61d59b7dbd50.png)**
 
 ### Gain Stage Mode – Unison Plug-In Indication
 
 A colored outline appears within the Unison plug-in window on the target parameter being controlled, as shown below.See [Gain Stage Colors](#h_01HXHPDB3B1R69CD2XT1FCG1QW) for related information.
 
-![](Unison_assets/4a27ef146442c3f6573c183681cd2a1f8fe121c2.png)
+![](../../attachments/unison_assets--4a27ef146442c3f6573c183681cd2a1f8fe121c2--efb560bfc64c4bae.png)
 
 *Unison plug-in control when in Gain Stage Mode*
 
@@ -331,7 +331,7 @@ In Gain Stage Mode, Apollo's preamp level indicator (the colored ring around the
 
 |  |  |  |
 |----|----|----|
-| ![](Unison_assets/422da520440c82caa3b335fbc6a8a72bd2d6e31f.png) | ![](Unison_assets/1026d8a67312c3a34aa3162fbfe4e1be08541942.png) | ![](Unison_assets/d04910021e56c46fd79fba42beb3bf91619d2f0d.png) |
+| ![](../../attachments/unison_assets--422da520440c82caa3b335fbc6a8a72bd2d6e31f--50d02f1fff25ea12.png) | ![](../../attachments/unison_assets--1026d8a67312c3a34aa3162fbfe4e1be08541942--9ca9086719eb620b.png) | ![](../../attachments/unison_assets--d04910021e56c46fd79fba42beb3bf91619d2f0d--2bb30a8070e17024.png) |
 
 </div>
 
@@ -341,7 +341,7 @@ The color of Apollo's preamp gain level indicator changes to reflect the gain st
 
 |  |  |  |
 |----|----|----|
-| ![](Unison_assets/1d9a24ca4942ccea6582d6da3553ca8379a12c57.png) | ![](Unison_assets/2d2fae07707070c9bb2f9a3f2bd242e85a4ca4e5.png) | ![](Unison_assets/073da83329a4a22d2ba77c07a76e2fb2cf64ede3.png) |
+| ![](../../attachments/unison_assets--1d9a24ca4942ccea6582d6da3553ca8379a12c57--ca786e94aeb09a8f.png) | ![](../../attachments/unison_assets--2d2fae07707070c9bb2f9a3f2bd242e85a4ca4e5--2640569fb0ffcf53.png) | ![](../../attachments/unison_assets--073da83329a4a22d2ba77c07a76e2fb2cf64ede3--4888e2109550fa29.png) |
 
 </div>
 

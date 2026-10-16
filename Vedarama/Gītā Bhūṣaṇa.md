@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gita-bhusana"
 ---
 
-![обложка|156](<Gītā Bhūṣaṇa/обложка.jpeg>)
+![обложка|156](<../attachments/g%C4%ABt%C4%81-bh%C5%AB%E1%B9%A3a%E1%B9%87a--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--ae07cb91b2cbbecb.jpeg>)
 
 By examining his commentary, Gita Bhusana, the reader will be able to appreciate that he has indeed made a significant contribution to the study of the Gita in writing it. Like Srila Visvanatha Cakravarti's, his explanations are unique and consistent with the whole of the Gita. Both conclude the supremacy of Krsna and pure bhakti, but with different explanations of the verses leading to that conclusion.
 

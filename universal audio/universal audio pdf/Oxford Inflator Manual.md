@@ -35,7 +35,7 @@ _1 INTRODUCTION_
 ## **1 Introduction** 
 
 
-![](<Oxford Inflator Manual_assets/Oxford_Inflator_Manual.pdf-0003-02.png>)
+![](<../../attachments/oxford-inflator-manual_assets--oxford_inflator_manual.pdf-0003-02--2215d5995ed3aab8.png>)
 
 
 The Sonnox Oxford Inflator plug-in is designed to address the current preference to produce the maximum apparent loudness from popular music mixes. Many 
@@ -67,7 +67,7 @@ _2 OPERATION_
 ## **2.1 Input Clipping** 
 
 
-![](<Oxford Inflator Manual_assets/Oxford_Inflator_Manual.pdf-0005-03.png>)
+![](<../../attachments/oxford-inflator-manual_assets--oxford_inflator_manual.pdf-0005-03--ba377bc863ebdccd.png>)
 
 
 The Inflator process develops internal signal levels that are notionally greater than digital maximum. For instance, with the **EFFECT** level at maximum and the **Clip 0dB** off, signal peaks above notional digital maximum can be accommodated, and much of their harmonic information can be included in the output signal, even though the peak output level will not rise above digital maximum. The presence of this extra signal range is displayed on the upper sections of the **INPUT** level meter, and represents a range of up to +6dBr of useable overdrive before hard clipping occurs. 
@@ -109,7 +109,7 @@ _2 OPERATION_
 _2.3 Basic Loudness Enhancement Procedure_ 
 
 
-![](<Oxford Inflator Manual_assets/Oxford_Inflator_Manual.pdf-0007-02.png>)
+![](<../../attachments/oxford-inflator-manual_assets--oxford_inflator_manual.pdf-0007-02--661dfb15f2967aca.png>)
 
 
 The **BAND SPLIT** function is offered as an additional mode that may be useful under some specific conditions. When band splitting is selected, the processing is split into three frequency bands to avoid intermodulation distortion between parts of the programme signal spectrum. This mode is occasionally advantageous when going for maximum loudness enhancement where there is a significant predominance of specific frequency ranges in the programme content. However it should be noted that, depending on programme and settings, operation in this mode produces output levels that are beyond the relative input peak level. This means that the signal is more likely to clip at the output, which may produce an increased harshness to the sound. If this becomes obtrusive, reducing the input or output levels to avoid clipping will obviously somewhat negate the purpose of the exercise! 
@@ -221,7 +221,7 @@ _3 DESCRIPTION OF CONTROLS_
 ## **3 Description of Controls** 
 
 
-![](<Oxford Inflator Manual_assets/Oxford_Inflator_Manual.pdf-0012-02.png>)
+![](<../../attachments/oxford-inflator-manual_assets--oxford_inflator_manual.pdf-0012-02--1ad86bec992e097f.png>)
 
 
 ## **3.1 Input Section** 
@@ -344,7 +344,7 @@ _5 PRESET MANAGER TOOLBAR_
 ## **5 Preset Manager Toolbar** 
 
 
-![](<Oxford Inflator Manual_assets/Oxford_Inflator_Manual.pdf-0015-05.png>)
+![](<../../attachments/oxford-inflator-manual_assets--oxford_inflator_manual.pdf-0015-05--ec3aa06050b73a04.png>)
 
 
 Sonnox Oxford plug-ins come equipped with their own onboard Preset Manager, which is displayed at the top of the plug-in window. The reasoning behind this is to allow increased portability of your presets across all the host applications, while also providing a consistent and versatile interface. While most host platforms allow creation and loading of presets, those host-created preset files are not portable between different host applications. With the Oxford plug-ins’ Preset Manager, you can create a named preset in one host application and load it when using an alternative application. 

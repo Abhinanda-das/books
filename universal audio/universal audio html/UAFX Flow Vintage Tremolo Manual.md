@@ -11,7 +11,7 @@ word_count: 1578
 
 This article contains complete operating instructions for the UAFX Flow Vintage Tremolo pedal from Universal Audio.
 
-![flow-photo.png](UAFX%20Flow%20Vintage%20Tremolo%20Manual_assets/531ddea176a6b0d59c7bbc041b620ee290883091.png)
+![flow-photo.png](../../attachments/uafx-flow-vintage-tremolo-manual_assets--531ddea176a6b0d59c7bbc041b620ee290883091--8f452fe76e2ab8f1.png)
 
 ## In this article
 
@@ -42,7 +42,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Flow%20Vintage%20Tremolo%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-flow-vintage-tremolo-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--3311a7b12d3e8d4a.png)
 </figure>
 
 Bill Putnam Jr.
@@ -51,7 +51,7 @@ Bill Putnam Jr.
 
 # UAFX Flow Quick Start
 
-![flow-qs.png](UAFX%20Flow%20Vintage%20Tremolo%20Manual_assets/1c571e949f7da18e26d270b9eb0efb9086397bcd.png)
+![flow-qs.png](../../attachments/uafx-flow-vintage-tremolo-manual_assets--1c571e949f7da18e26d270b9eb0efb9086397bcd--a2ffc4668ac36850.png)
 
 [**Download Flow Quick Start Sheet**](360058186352-UAFX-Pedal-Downloads.html)
 
@@ -86,7 +86,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 
 To learn how to connect your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
-![flow-rear-panel.png](UAFX%20Flow%20Vintage%20Tremolo%20Manual_assets/4c92c6491a401da492c82bc3f34843076c0cd88f.png)
+![flow-rear-panel.png](../../attachments/uafx-flow-vintage-tremolo-manual_assets--4c92c6491a401da492c82bc3f34843076c0cd88f--b54b23f07fc6d366.png)
 
 ------------------------------------------------------------------------
 
@@ -208,7 +208,7 @@ When tap tempo mode is enabled: 
 - In Tap Mode, the footswitch bypasses the pedal *when the switch is released*, not when it is pressed. 
 - If you bypass the pedal with a tapped tempo, then activate the pedal again, the tapped tempo is retained, not the knob tempo.
 
-![flow-back-photo.png](UAFX%20Flow%20Vintage%20Tremolo%20Manual_assets/97f735e7aaa91755f30f6c0c32835f4d61a7a47f.png)
+![flow-back-photo.png](../../attachments/uafx-flow-vintage-tremolo-manual_assets--97f735e7aaa91755f30f6c0c32835f4d61a7a47f--6ded0de80ad46be6.png)
 
 ------------------------------------------------------------------------
 
@@ -284,11 +284,11 @@ When tap tempo mode is enabled: 
 
 # UAFX Flow Safety
 
-![safety-symbol-exclaim.png](UAFX%20Flow%20Vintage%20Tremolo%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![safety-symbol-exclaim.png](../../attachments/uafx-flow-vintage-tremolo-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--5a2b49b3aafe9678.png)
 
 **Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 250 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20Flow%20Vintage%20Tremolo%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![safety-symbol-book-info.png](../../attachments/uafx-flow-vintage-tremolo-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--fe4baaf13af1f8ff.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -312,7 +312,7 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 (This is Class B equipment. Although this equipment is intended for use in residential environments, it could cause poor reception if used near a radio television receiver. Please follow all instructions in the instruction manual.)
 
-![safety-symbol-trash.png](UAFX%20Flow%20Vintage%20Tremolo%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-flow-vintage-tremolo-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--9440b6d693bc82e0.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

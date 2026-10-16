@@ -7,11 +7,11 @@ word_count: 295
 ---
 
 
-![](UAFX+Ruby+63+Quick+Start_assets/UAFX+Ruby+63+Quick+Start.pdf-0001-00.png)
+![](../../attachments/uafx-ruby-63-quick-start_assets--uafx-ruby-63-quick-start.pdf-0001-00--fc238a9ec387ca09.png)
 
 
 
-![](UAFX+Ruby+63+Quick+Start_assets/UAFX+Ruby+63+Quick+Start.pdf-0002-00.png)
+![](../../attachments/uafx-ruby-63-quick-start_assets--uafx-ruby-63-quick-start.pdf-0002-00--33eeaf895d6d972f.png)
 
 
 ## **CUT** 
@@ -55,13 +55,13 @@ Lit when knob settings are active
 Connect to computer for firmware updates with UAFX Control desktop app 
 
 
-![](UAFX+Ruby+63+Quick+Start_assets/UAFX+Ruby+63+Quick+Start.pdf-0002-21.png)
+![](../../attachments/uafx-ruby-63-quick-start_assets--uafx-ruby-63-quick-start.pdf-0002-21--1aa5a1f8df97ccf4.png)
 
 
 *Get more footswitch modes with the UAFX Control app 
 
 
-![](UAFX+Ruby+63+Quick+Start_assets/UAFX+Ruby+63+Quick+Start.pdf-0002-23.png)
+![](../../attachments/uafx-ruby-63-quick-start_assets--uafx-ruby-63-quick-start.pdf-0002-23--49596c9868299496.png)
 
 
 AMP: Standard knob controls STORE: Hold down to save sound as preset 

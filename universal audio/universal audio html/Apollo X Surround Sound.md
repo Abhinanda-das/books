@@ -1073,7 +1073,7 @@ The output channel assignments for the 2.1, LCRS, QUAD, and 5.1.4 surround modes
 
 ## Monitor Mode Menu
 
-![](Apollo%20X%20Surround%20Sound_assets/777b59c800b2e935d2b1ef9a99a7591a239e077a.png)
+![](../../attachments/apollo-x-surround-sound_assets--777b59c800b2e935d2b1ef9a99a7591a239e077a--dec55553c88dfc18.png)
 
 Surround is activated by choosing any surround mode (other than STEREO) from the Monitor Mode menu in the Hardware Settings Panel within the Console Settings window, as shown at right.
 
@@ -1087,13 +1087,13 @@ Surround is activated by choosing any surround mode (other than STEREO) from the
 
 ## Monitor Controller Window
 
-![](Apollo%20X%20Surround%20Sound_assets/5fe49885b6ad5e27901fb5786a4776ebe1a13149.png)
+![](../../attachments/apollo-x-surround-sound_assets--5fe49885b6ad5e27901fb5786a4776ebe1a13149--2d7f2b5276d239e4.png)
 
 The Speaker Utilities tab on the Monitor Controller window is where Apollo X speakers can be soloed muted, and trimmed. This window allows you to calibrate speakers in any Apollo X system and monitoring mode, from Stereo to 7.1.6. See [Speaker Utilities](https://help.uaudio.com/hc/en-us/articles/36177324309140) for more information. 
 
  
 
-![](Apollo%20X%20Surround%20Sound_assets/b08f5914670b5050bbebaed24fa7f942bd7f1291.png)
+![](../../attachments/apollo-x-surround-sound_assets--b08f5914670b5050bbebaed24fa7f942bd7f1291--7e8640a12ff8db78.png)
 
 To open the Monitor Calibration popover, click the the Monitor Controller button in the Monitor Column, or the button next to the MONITOR MODE menu in Console Settings \> Hardware.
 
@@ -1110,19 +1110,19 @@ When any surround mode is activated with the Monitor Mode menu:
 - Output channel assignments and names are changed to match the mode.
 - Physical output assignments and channel names can be customized. However, only the SMPTE Channels are available for assignment.
 
-![](Apollo%20X%20Surround%20Sound_assets/5bbc8969aec4468948f2dac9789b14198d2961a3.png)
+![](../../attachments/apollo-x-surround-sound_assets--5bbc8969aec4468948f2dac9789b14198d2961a3--8bda6d30e645c1c3.png)
 
 Channel assignments and names in the I/O Matrix when 9.1.6 mode is activated
 
  
 
-![](Apollo%20X%20Surround%20Sound_assets/06f5ea6193485247005fe6572a217f6a388bea34.png)
+![](../../attachments/apollo-x-surround-sound_assets--06f5ea6193485247005fe6572a217f6a388bea34--145d1a3cdccd49ab.png)
 
 Assigning outputs
 
 # Console Surround Monitoring
 
-![](Apollo%20X%20Surround%20Sound_assets/a76070779b39d2cc328771f1ce56bac960d4ebac.png)
+![](../../attachments/apollo-x-surround-sound_assets--a76070779b39d2cc328771f1ce56bac960d4ebac--8968d6bc07261123.png)
 
 When a surround mode is active, the Monitor Meters and Monitor output options in Console’s Monitor Column appear as shown.
 
@@ -1203,7 +1203,7 @@ Console’s monitor meters change with each surround mode
 
 ## Speaker Utilities 
 
-![](Apollo%20X%20Surround%20Sound_assets/5fe49885b6ad5e27901fb5786a4776ebe1a13149.png)
+![](../../attachments/apollo-x-surround-sound_assets--5fe49885b6ad5e27901fb5786a4776ebe1a13149--2d7f2b5276d239e4.png)
 
 The Speaker Utilities tab on the Monitor Controller window is used to mute, solo, and trim levels for individual output channels. The overall monitor output level can also be adjusted here.
 

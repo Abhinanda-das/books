@@ -45,7 +45,7 @@ The materialist thinks that when a child is born, a new person begins to exist w
 
 The materialist does not conceive of anything beyond a single substance, and this substance is physical, empirical, and material. For him, all human existence, all thoughts and all feelings arise from the nonliving and inorganic matrix of physical nature, and it all disappears at the time of death like a bubble that bursts and vanishes into thin air.
 
-![рис-001.jpg|356](<Where Are We Going/рис-001.jpg>)
+![рис-001.jpg|356](<../attachments/where-are-we-going--%D1%80%D0%B8%D1%81-001--8eece42d6b8103f2.jpg>)
 
 ## Response 2: After death we will be resurrected
 
@@ -55,7 +55,7 @@ Death entered human life as a consequence of sin. Christ, by emerging victorious
 
 Although there are variations and different details regarding the doctrines expressed above, in essence, all the main branches of the Christian faith profess the same idea about what happens after death.
 
-![рис-002.jpg|400](<Where Are We Going/рис-002.jpg>)
+![рис-002.jpg|400](<../attachments/where-are-we-going--%D1%80%D0%B8%D1%81-002--d9a34ff6e3ef86df.jpg>)
 
 ## Response 3: After death we will transmigrate
 
@@ -71,7 +71,7 @@ If we come to understand the mechanism of reincarnation and the law behind it, k
 
 One who knows the laws of karma and samsara, and shapes his life according to these guidelines, has the possibility of coping more easily with the small and large problems of life. In this way, the human being can free himself from the deep-seated fear of death and truly become the architect of his fortune, positively influencing the preparation of his future.
 
-![рис-003.jpg|350](<Where Are We Going/рис-003.jpg>)
+![рис-003.jpg|350](<../attachments/where-are-we-going--%D1%80%D0%B8%D1%81-003--afd27ed10e881082.jpg>)
 
 ## Chapter 2. What is Reincarnation?
 

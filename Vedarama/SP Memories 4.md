@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/spm4"
 ---
 
-![обложка|156](<SP Memories 4/обложка.jpeg>)
+![обложка|156](<../attachments/sp-memories-4--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--2ed13b17c63e5008.jpeg>)
 
 # SP Memories 4
 

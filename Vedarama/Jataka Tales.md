@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jt"
 ---
 
-![обложка|156](<Jataka Tales/обложка.png>)
+![обложка|156](<../attachments/jataka-tales--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--0dc902d07496a382.png>)
 
 Selected and edited by Joseph Jacobs.
 

@@ -16,9 +16,9 @@ To get LUNA, [download UA Connect](https://www.uaudio.com/downloads/luna).
 1.  Install UA Connect.
 2.  After installation, in UA Connect, click the LUNA tab.
 3.  Click Get Started.\
-    ![uac-new-luna.png](UA%20Connect%20with%20LUNA_assets/9a063d16de6461e07bacf5e956dae82cb60f1186.png)
+    ![uac-new-luna.png](../../attachments/ua-connect-with-luna_assets--9a063d16de6461e07bacf5e956dae82cb60f1186--10eabaf893356168.png)
 4.  On the iLok setup screen, choose whether you have an iLok account, or whether to create a new iLok account. \
-    ![ilok-setup-new.png](UA%20Connect%20with%20LUNA_assets/4911592057209dba8bc703245df8bf7f25d5132b.png)
+    ![ilok-setup-new.png](../../attachments/ua-connect-with-luna_assets--4911592057209dba8bc703245df8bf7f25d5132b--9b25163d52fc4f5e.png)
 5.  If you are creating a new iLok account, click Create Account. Keep note of the account name (the same as your email address). \
     If you are using an existing iLok account, type the account name and click Link Account. 
 6.  On the LUNA page, click Redeem or Activate License next to the LUNA item, then Download LUNA. 
@@ -28,7 +28,7 @@ To get LUNA, [download UA Connect](https://www.uaudio.com/downloads/luna).
 9.  Complete the installation.
 
 <figure class="wysiwyg-image">
-![uac-luna-page.png](UA%20Connect%20with%20LUNA_assets/c1c5858b649b584c5c0eb1a13bdec1639fe4c8bd.png)
+![uac-luna-page.png](../../attachments/ua-connect-with-luna_assets--c1c5858b649b584c5c0eb1a13bdec1639fe4c8bd--0e95d87ba25efd11.png)
 </figure>
 
 After the install completes, the Shape UAD Instrument downloads and installs automatically.
@@ -61,7 +61,7 @@ On first run, LUNA may prompt you to choose a default license location (iLok Clo
 
 <div class="wysiwyg-text-align-center" collection="contentId-225738858" context-id="225738858" file-mime-type="image/png" file-name="ilok_default_activation.png" file-size="660142" data-height="436" data-id="10282eac-6b6f-43ca-b735-5f88e14724df" node-type="media" data-type="file" data-width="604" title="Attachment">
 
-![ilok_default_activation.png](UA%20Connect%20with%20LUNA_assets/da3a4036bdf0bf451c391774c8fbacf0ea24d970.png)
+![ilok_default_activation.png](../../attachments/ua-connect-with-luna_assets--da3a4036bdf0bf451c391774c8fbacf0ea24d970--17a14fa755f7b35c.png)
 
 </div>
 

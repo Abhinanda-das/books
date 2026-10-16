@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gh-pd"
 ---
 
-![обложка|156](<The Cambridge Handbook of Consciousness/обложка.jpeg>)
+![обложка|156](<../attachments/the-cambridge-handbook-of-consciousness--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a18eb1001c2ed491.jpeg>)
 
 The Cambridge Handbook of Consciousness is the first of its kind in the field, and its appearance marks a unique time in the history of intellectual inquiry on the topic. After decades during which consciousness was considered beyond the scope of legitimate scientific investigation, consciousness re-emerged as a popular focus of research towards the end of the last century, and it has remained so for nearly 20 years. There are now so many different lines of investigation on consciousness that the time has come when the field may finally benefit from a book that pulls them together and, by juxtaposing them, provides a comprehensive survey of this exciting field. An authoritative desk reference, which will also be suitable as an advanced textbook.
 

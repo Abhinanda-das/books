@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/patitapavana-my"
 ---
 
-![обложка|156](<Motorcycle Yoga Meditative Rides Through India/обложка.jpeg>)
+![обложка|156](<../attachments/motorcycle-yoga-meditative-rides-through-india--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--eb5a8d5b8e732f5b.jpeg>)
 
 India, the world's oldest civilization, is also home of the Royal Enfield, the world's oldest name in motorcycles made today. If you have ever longed to voyage to this land of kings and yogis, Lords Krishna and Shiva, then hop on a Bullet and join Miles Davis on his thrilling ride in search of Motorcycle Yoga - Kevin Mahoney, President, Classic Motorworks
 

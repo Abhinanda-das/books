@@ -72,7 +72,7 @@ On first run, LUNA prompts you to choose a default license location (iLok Cloud,
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![ilok_default_activation.png](Getting%20Started%20with%20LUNA_assets/da3a4036bdf0bf451c391774c8fbacf0ea24d970.png)
+![ilok_default_activation.png](../../attachments/getting-started-with-luna_assets--da3a4036bdf0bf451c391774c8fbacf0ea24d970--45b1fc45b2f8dd11.png)
 
 </div>
 
@@ -94,7 +94,7 @@ On first run, LUNA prompts you to choose a default license location (iLok Cloud,
 
     <div title="Attachment">
 
-    ![inst-03-link-create-ilok.png](Getting%20Started%20with%20LUNA_assets/27d693abdb1276f6bfbf02c48eceb63975842e9d.png)
+    ![inst-03-link-create-ilok.png](../../attachments/getting-started-with-luna_assets--27d693abdb1276f6bfbf02c48eceb63975842e9d--c8159e442c383c07.png)
 
     </div>
 
@@ -102,7 +102,7 @@ On first run, LUNA prompts you to choose a default license location (iLok Cloud,
 
     <div title="Attachment">
 
-    ![inst-04-create-ilok-confirm.png](Getting%20Started%20with%20LUNA_assets/25114d24d5bc61b605fbd8636c60a759177a349e.png)
+    ![inst-04-create-ilok-confirm.png](../../attachments/getting-started-with-luna_assets--25114d24d5bc61b605fbd8636c60a759177a349e--7f098ff80c2cc0b3.png)
 
     </div>
 
@@ -110,7 +110,7 @@ On first run, LUNA prompts you to choose a default license location (iLok Cloud,
 
     <div title="Attachment">
 
-    ![inst-05-license-check.png](Getting%20Started%20with%20LUNA_assets/7b936ea79efa62827d4fa79906a25b880830f47d.png)
+    ![inst-05-license-check.png](../../attachments/getting-started-with-luna_assets--7b936ea79efa62827d4fa79906a25b880830f47d--b23cf019b49a6bc4.png)
 
     </div>
 
@@ -139,7 +139,7 @@ LUNA now starts, and shows the Create Session screen. Note that the first time y
 
     <div title="Attachment">
 
-    ![inst-03-link-create-ilok.png](Getting%20Started%20with%20LUNA_assets/27d693abdb1276f6bfbf02c48eceb63975842e9d.png)
+    ![inst-03-link-create-ilok.png](../../attachments/getting-started-with-luna_assets--27d693abdb1276f6bfbf02c48eceb63975842e9d--c8159e442c383c07.png)
 
     </div>
 
@@ -147,7 +147,7 @@ LUNA now starts, and shows the Create Session screen. Note that the first time y
 
     <div title="Attachment">
 
-    ![inst-x01-ilok-link.png](Getting%20Started%20with%20LUNA_assets/d78ecfbeb2a0f74d266a27a6bf0ca21274696bba.png)
+    ![inst-x01-ilok-link.png](../../attachments/getting-started-with-luna_assets--d78ecfbeb2a0f74d266a27a6bf0ca21274696bba--bef0eefc64366e37.png)
 
     </div>
 
@@ -155,7 +155,7 @@ LUNA now starts, and shows the Create Session screen. Note that the first time y
 
     <div title="Attachment">
 
-    ![inst-05-license-check.png](Getting%20Started%20with%20LUNA_assets/7b936ea79efa62827d4fa79906a25b880830f47d.png)
+    ![inst-05-license-check.png](../../attachments/getting-started-with-luna_assets--7b936ea79efa62827d4fa79906a25b880830f47d--b23cf019b49a6bc4.png)
 
     </div>
 
@@ -186,7 +186,7 @@ When you are logged in, lists of your installed products and other account detai
 
 You can manage plug-ins, UAD Instruments, and LUNA Extensions in UA Connect.
 
-![user-panel-annotated.png](Getting%20Started%20with%20LUNA_assets/64a0f3c26347190f99e34d41ae798e52cd27dc54.png)
+![user-panel-annotated.png](../../attachments/getting-started-with-luna_assets--64a0f3c26347190f99e34d41ae798e52cd27dc54--ef8e7768c0a332b5.png)
 
 #### To manage plug-ins, UAD instruments, and LUNA Extensions
 
@@ -197,7 +197,7 @@ You can manage plug-ins, UAD Instruments, and LUNA Extensions in UA Connect.
 LUNA installs and updates the instruments and Extensions. You will see a notification as each Instrument or Extension is installed or updated.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![manage-luna-ex\-inst-uac.png](Getting%20Started%20with%20LUNA_assets/20270f4bc6fe9408b18227e9a566f30b29853497.png)
+![manage-luna-ex\-inst-uac.png](../../attachments/getting-started-with-luna_assets--20270f4bc6fe9408b18227e9a566f30b29853497--fe5d685673a84f3c.png)
 </figure>
 
 ## Extension and instrument options
@@ -236,7 +236,7 @@ LUNA includes the Shape UAD Instrument, which is authorized with your LUNA appli
 When you start LUNA, you see the Session panel.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![open-session.png](Getting%20Started%20with%20LUNA_assets/c498df4da17f277a9c02eca48fd1972d5a7fbb81.png)
+![open-session.png](../../attachments/getting-started-with-luna_assets--c498df4da17f277a9c02eca48fd1972d5a7fbb81--bec30df0f599305c.png)
 </figure>
 
 ## To create a new empty session
@@ -262,7 +262,7 @@ To create a new session from the main LUNA window, choose File \> New, or use th
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![new-session-from-aaf.png](Getting%20Started%20with%20LUNA_assets/0ed80d856fbab1df60305ebffacd77dd530ea14d.png)
+![new-session-from-aaf.png](../../attachments/getting-started-with-luna_assets--0ed80d856fbab1df60305ebffacd77dd530ea14d--3d942cebf8191abc.png)
 
 </div>
 
@@ -276,7 +276,7 @@ When you start LUNA, the Session panel appears. Choose a file from the Recent li
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![open-session.png](Getting%20Started%20with%20LUNA_assets/c498df4da17f277a9c02eca48fd1972d5a7fbb81.png)
+![open-session.png](../../attachments/getting-started-with-luna_assets--c498df4da17f277a9c02eca48fd1972d5a7fbb81--bec30df0f599305c.png)
 
 </div>
 

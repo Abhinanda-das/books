@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/noi"
 ---
 
-![обложка|156](<Nectar of Instruction/обложка.jpeg>)
+![обложка|156](<../attachments/nectar-of-instruction--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--94f398e3d299f0ec.jpeg>)
 
 Across five centuries and half the globe comes this compact guidebook of essential spiritual teachings. How to choose a guru, how to practice yoga, even where to live. You’ll find it all in this invaluable work originally written in Sanskrit by Srila Rupa Gosvami, the greatest spiritual genius of medieval India. Now translated and explained by Srila Prabhupada, the Nectar of Instruction is the key to enlightenment for all seekers on the path of spiritual perfection.
 

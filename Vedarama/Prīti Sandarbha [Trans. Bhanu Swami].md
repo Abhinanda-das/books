@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jg-prs"
 ---
 
-![обложка|156](<Prīti Sandarbha [Trans. Bhanu Swami]/обложка.jpeg>)
+![обложка|156](<../attachments/pr%C4%ABti-sandarbha-trans.-bhanu-swami--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d9fc124bc99969b3.jpeg>)
 
 Priti Sandarbha is the last of the six Sandarbhas. It deals with prayojana, the goal of bhakti and the goal of the jiva. With this work sambandha, abhidheya and prayojana become complete. Its content is similar to that of Bhakti-rasamrita -singhu of Rupa Goswami, with discussion of the various rasas. The terminologies are somewhat different however.
 

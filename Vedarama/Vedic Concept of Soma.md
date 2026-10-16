@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ramanathan-vcos"
 ---
 
-![обложка|156](<Vedic Concept of Soma/обложка.jpeg>)
+![обложка|156](<../attachments/vedic-concept-of-soma--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--44b69927ea38bbe6.jpeg>)
 
 I have great pleasure in placing before the readers this book, ‘Vedic Concept of Soma’, which is the second book in the series, ‘The logic of Vedic Thought’. I have tried to make it as comprehensive as possible and have summarized the results of my analysis of the subject in Section VI. It is now for the reader to judge to what extent we have moved away from true Vedic tradition in our understanding of the wisdom of our ancients. I would feel more than justified in writing this book, if it attracts more scholars, particularly the scientists to this fascinating field of research. Vedic thought, if interpreted properly, is capable of uniting the entire mankind.
 

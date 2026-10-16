@@ -55,7 +55,7 @@ _1 INTRODUCTION_
 ## **1 Introduction** 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0004-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0004-02--03153fb2b5c45c72.png>)
 
 
 The Oxford Limiter plug-in has been developed from decades of professional audio experience to provide a very high degree of quality and capability in programme loudness control and limiting functions. By employing highly accurate logarithmic side-chain processing, along with innovative adaptive timing functionality using look-ahead signal acquisition, the Limiter offers exemplary performance, whether one is seeking general transparent level control, programme loudness maximisation or heavily applied artistic audio effects. 
@@ -115,7 +115,7 @@ _3 PRE-PROCESS SECTION_
 ## **3 Pre-Process Section** 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0007-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0007-02--255519b4814ea3a1.png>)
 
 
 The Pre-Process section provides a musical programme levelling function. Its primary purpose is to control programme level over a wide range, in order to create optimum conditions for the following enhancement stage. When the **ENHANCE** control is disabled in Normal Mode (at 0% with **SAFE MODE** disabled), the 
@@ -155,7 +155,7 @@ _4 ENHANCEMENT SECTION_
 ## **4 Enhancement Section** 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0009-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0009-02--a112accfab48916d.png>)
 
 
 The purpose of the enhancement process is to provide sample value limiting and overall programme loudness improvement. The process follows the Pre-Process section in the signal path, and is controlled by a separate **ENHANCE** fader from 0% (no action) to 125% (maximum action). In Normal Mode, the range from 0% to 100% fades in the effect to full level, at which complete sample value limiting occurs. Settings from 100% to 125% further modify the process to progressively increase loudness and programme density at the expense of increasing potential distortion artefacts. 
@@ -203,7 +203,7 @@ _5 ATTACK TIMING_
 ## **5 Attack Timing** 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0012-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0012-02--f96983b6b3cc9aa5.png>)
 
 
 The addition of an **ATTACK** timing control is a significant departure from conventional limiter applications, and requires some explanation for the best results. Because the level detection within the plug-in looks ahead of the gain control, peaks in the programme material are acted upon in advance of the gain reduction process. Therefore, at the fastest setting of the attack control, programme peaks are controlled within a very small margin (less than +0.25 dB, with respect to continuous sine input conditions). 
@@ -259,7 +259,7 @@ _6 RELEASE TIMING_
 ## **6 Release Timing** 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0015-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0015-02--cfa8c4bbdc642013.png>)
 
 
 The **RELEASE** control has a very wide range to accommodate the maximum possible extent of programme and production style. The ability to set very fast release times specifically allows for the modelling of short-term peaks over restricted gain reduction ranges, up to a maximum of around 4 dB. Such settings will result in high levels of distortion for larger gain reduction ranges, and are therefore unsuitable for overall level control situations. 
@@ -309,7 +309,7 @@ The key to successful limiting is to understand that we are much more sensitive 
 The aim of this procedure is to achieve an overall average increase in the level of the programme by reducing the size of short-term peaks, and applying extra gain to move the programme up into the extra range freed up by the removal of the peaks. 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0017-10.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0017-10--d5e9f7750c36cc0c.png>)
 
 
 Signal before limiting 
@@ -325,7 +325,7 @@ _7.2 General Gain Management_
 _7 PROGRAMME LIMITING PROCEDURES_ 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0018-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0018-02--8c00cbde77078acd.png>)
 
 
 Signal after limiting 
@@ -367,7 +367,7 @@ An important fact, which is often overlooked, is that in any discrete time sampl
 The following is an illustration of one example of this situation. 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0020-04.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0020-04--5acd6e1074f5318b.png>)
 
 
 With a signal frequency that is exactly 1/4 of the sample rate, and in phase (i.e. 12KHz at 48K or 11.25KHz at 44.1K) it is possible to generate full level output from a DAC from samples that barely reach 70% of full value within the digital domain. 
@@ -395,7 +395,7 @@ Since the very purpose of a limiting application is most often to increase avera
 ## **8.1 Meter Operation** 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0021-07.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0021-07--5c3f99073c16876d.png>)
 
 
 Reconstruction errors 
@@ -413,7 +413,7 @@ _8.2 Manual Correction 8 TRUE PEAK RECONSTRUCTION METERING_
 mode ‘true peak’ reconstruction levels will be displayed on the meter. Levels in the red overload range of the meter represent the presence of potential reconstruction errors, as illustrated below using the previous example: 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0022-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0022-02--3abc964fee62f140.png>)
 
 
 Two methods are provided to correct for these reconstruction errors. 
@@ -439,7 +439,7 @@ _8.3 Automatic Correction (‘inter-sample peak’ limitin8 TRUE PEAK RECONSTRUC
 for the duration of the error. In this way the loudness of parts of the programme unaffected by the errors remains as high as possible. 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0023-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0023-02--c872f88ea41da591.png>)
 
 
 Corrected reconstruction errors 
@@ -461,7 +461,7 @@ _9 DITHER AND NOISE SHAPING_
 ## **9 Dither and Noise Shaping** 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0024-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0024-02--b8518f5c25bfdf1b.png>)
 
 
 The finite mathematical precision provided by digital audio systems and the effects of dither have been a source of confusion in the audio community for some years. Such discussion may lead to possible misconceptions, which may prevent the user from achieving maximum performance from the systems in use. Therefore the dithering options included in the Oxford Limiter warrant some prior explanation. 
@@ -485,13 +485,13 @@ random noise with no relation to the signal itself, such dithering provides comp
 The first graph shows the damaged spectral result of passing a low-level 1KHz sine wave through a 16 bit undithered truncation: 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0025-03.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0025-03--66feed661c5427d5.png>)
 
 
 The next graph shows the exact same signal and truncation to 16 bits, but with the **HP TPDF** dither applied: 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0025-05.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0025-05--7d77ba7cdf6bc66f.png>)
 
 
 As it can be seen, all the harmonic errors have been removed. Also, since the FFT analysis method provides an enhanced view of the signal below the noise floor, it can 
@@ -509,7 +509,7 @@ also be seen that there is effectively no low level floor below which a signal w
 The graph below illustrates this fact by showing a 1KHz signal at —120 dBFS passing through a dithered 16 bit system. This corresponds to a signal 24 dB below the level of the least significant bit; the effective channel SNR (Signal to Noise Ratio) is added in blue for illustration purposes. 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0026-03.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0026-03--c3341532bd424c7c.png>)
 
 
 This illustrates that dither turns a quantised numerical signal conduit into the equivalent of a naturally continuous (un-quantised) system, which exhibits a finite signal to noise ratio with _**no practical limit**_ to harmonic signal resolution. In other words the inescapable presence of quantisation in numerical systems _**does not**_ forcibly lead to ‘discontinuity’ or ‘resolution loss’ in the signal. The misunderstanding of this fact underpins many of the most damaging misconceptions surrounding digital audio systems. It can also be deduced from the above graphs that any undithered digital representation of an audio signal is effectively illegal. 
@@ -531,13 +531,13 @@ _9 DITHER AND NOISE SHAPING_
 which we are less sensitive. In this way the noise at very low levels may be reduced and even lost entirely, if they are at the limit of our hearing within ambient noise conditions. The following graph illustrates this process. 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0027-03.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0027-03--1039f3ffdd9d7e40.png>)
 
 
 The red line shows the original 16 bit dithered output with the —120 dBr signal passing. The blue line shows the effect of noise shaping ( **TYPE 1** at 100%) on the same signal transfer. 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0027-05.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0027-05--d5414349cd078ab6.png>)
 
 
 _Go to contents_ 
@@ -559,11 +559,11 @@ However, as is always the case, one cannot get something for nothing and it can 
 This means the noise level necessarily increases in some ranges of the spectrum. A level increase anywhere in the spectrum must be accommodated by an _increase_ in total peak noise level. The following graphs illustrate this in action, under the previous test conditions. 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0028-06.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0028-06--549af3b93a78573f.png>)
 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0028-07.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0028-07--b6ddd25a54461733.png>)
 
 
 _Go to contents_ 
@@ -585,7 +585,7 @@ From this it can be understood that the design of a suitable noise shaping frequ
 The Oxford Limiter includes four noise-shaping curves: Types 1 and 3 are fifth order and Types 2 and 4 are third order designs, representing a varied set of trade-offs to suit most programme types, as illustrated below: 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0029-06.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0029-06--8384885f6d32c28d.png>)
 
 
 Whilst it is understood that the selection of noise shaping type is largely a matter of user preference, generally speaking Types 1 and 2 produce the most dramatic reduction in overall noise loudness, with Type 1 being the most effective of all. Types 3 and 4 provide gentler responses, which under some circumstances may produce 
@@ -635,7 +635,7 @@ _9.3 Noise Shaping Depth Control_
 _9 DITHER AND NOISE SHAPING_ 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0031-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0031-02--9d263922775ab2e1.png>)
 
 
 There is no technical (or philosophical) advantage to noise shaping above and beyond that which can be actually heard directly. Therefore the decision to use noise shaping (and to what extent) is basically determined by what might actually be heard in practice. If conventional TPDF dither provides sufficient audible dynamic range such that noise never intrudes within the programme material, it is safest to avoid noise-shaping altogether. 
@@ -703,7 +703,7 @@ _10 DESCRIPTION OF CONTROLS_
 ## **10 Description of Controls** 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0034-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0034-02--d521c48968d5902e.png>)
 
 
 The plug-in’s user interface is divided into three main areas: an Input section, the Pre-Process section, and an Output section. 
@@ -965,7 +965,7 @@ _12 PRESET MANAGER TOOLBAR_
 ## **12 Preset Manager Toolbar** 
 
 
-![](<Oxford Limiter Manual_assets/Oxford_Limiter_Manual.pdf-0041-02.png>)
+![](<../../attachments/oxford-limiter-manual_assets--oxford_limiter_manual.pdf-0041-02--9d01f7e0728dc1cd.png>)
 
 
 Sonnox Oxford plug-ins come equipped with their own onboard Preset Manager, which is displayed at the top of the plug-in window. The reasoning behind this is to allow increased portability of your presets across all the host applications, while also providing a consistent and versatile interface. While most host platforms allow creation and loading of presets, those host-created preset files are not portable between different host applications. With the Oxford plug-ins’ Preset Manager, you can create a named preset in one host application and load it when using an alternative application. 

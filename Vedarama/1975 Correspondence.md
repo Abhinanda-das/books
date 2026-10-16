@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1975"
 ---
 
-![обложка|156](<1975 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1975-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9b8d29dc3dc0127b.jpeg>)
 
 # 1975 Correspondence
 

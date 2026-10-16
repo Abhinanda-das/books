@@ -706,7 +706,7 @@ As a child Visvanatha completed his studies at Devagrama and thereafter went to 
 
 Radharamana was the name of Visvanatha's diksa guru. Visvanatha himself writes about his spiritual lineage in one sloka of Sararthadarini. In chapters 2-7 of Stavamrtalahari Narahari also gives details on the spiritual lineage or guru-pranali of Visvanatha as follows:
 
-![рис-001.jpg|398](<Encyclopedia vaishnava philosophy/рис-001.jpg>)
+![рис-001.jpg|398](<../attachments/encyclopedia-vaishnava-philosophy--%D1%80%D0%B8%D1%81-001--90e3912520d5df95.jpg>)
 
 Visvanatha's guru and parama-guru belonged to the spiritual lineage of Narottama Thakura.
 
@@ -5713,7 +5713,7 @@ Krsna is the original Personality of Godhead. His expansion is Balarama, who exp
 
 These original catur vyuha expansions reside in Mathura and Dvaraka. From them twenty four forms of Visnu expand. They are named differently according to the arrangement of the conch, disc, lotus and club in Their hands. All of these twenty four forms reside in each Vaikuntha planet with the predominating Deity of that planet. From the original catur vyuha the second catur vyuha expands. In this second catur vyuha the form of Sankarsana is also called Maha Sankarsana. It is from Maha Sankarsana that Maha Visnu becomes manifested.
 
-![рис-002.jpg|702](<Encyclopedia vaishnava philosophy/рис-002.jpg>)
+![рис-002.jpg|702](<../attachments/encyclopedia-vaishnava-philosophy--%D1%80%D0%B8%D1%81-002--9ed4006acd6f6fb0.jpg>)
 
 1\) MAHA VISNU lies on the Causal Ocean which appears in one corner of the spiritual world. He manifests the mahat tattva (or the sum total of material energy). It is into this mahat tattva that He exhales all of the seedlike universes through the pores of His skin. These seedlike universes then expand as the different material elements form coverings around them. Each of the coverings is ten times thicker than the previous covering and form a shell-like covering. When Maha Visnu impregnates the living entities by His glance into the material nature it begins to manifest its various energies.
 

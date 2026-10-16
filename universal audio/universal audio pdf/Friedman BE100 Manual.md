@@ -13,25 +13,25 @@ Potent emulation of 60’s and 70’s Rock-Era guitar amplifier designed by Davi
 Owner’s Manual 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0001-03.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0001-03--87caa1181a677a5f.png>)
 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0001-04.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0001-04--a920b635380d0f76.png>)
 
 
 Developed by Brainworx in partnership with Friedman Amplification and Distributed by Universal Audio. 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0001-06.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0001-06--02a668c7cc53df8a.png>)
 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0001-07.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0001-07--dca683648766585a.png>)
 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0001-08.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0001-08--a037684fca2e2586.png>)
 
 
 The Friedman BE100 amp plug-in can be installed and operated like any other UAD-2 plug-in. Please check www.uaudio.com for general info about the system requirements, etc. 
@@ -41,7 +41,7 @@ The Friedman BE100 amp plug-in can be installed and operated like any other UAD-
 Meticulously modeled guitar amp, speaker simulation and FX rack. 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0002-02.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0002-02--9fee465e94f1b01d.png>)
 
 
 BE100 
@@ -87,7 +87,7 @@ The advantage of only monitoring the processed sound is that you can alter the s
 The advantage of recording pre-processed guitar tracks is that you will have more DSP for additional plug-ins during mixdown. While you can still add effects like EQ and compression to the recorded guitar tracks, you will have committed to an amp and cabinet sound. Once you know ‘your sound’ you may even save some time by recording processed guitar tracks and using them without further tweaking or fiddling around... your band mates or your producer may even appreciate this. 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0004-00.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0004-00--c1c7adb73ae41cac.png>)
 
 
 ## The Controls of the BE100 Front Panel 
@@ -129,7 +129,7 @@ BRIGHT SWITCH: three-position switch that varies from the overall brightness of 
 CHANNEL SELECTOR SWITCH: Switches between Clean, BE and HBE Channels. 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0005-00.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0005-00--388e26279c609811.png>)
 
 
 ## The Controls of the BE100 Back Panel 
@@ -175,7 +175,7 @@ POST: If you want to cut some of the high end of your amplifier setting (maybe e
 OFF: when set to OFF the SMOOTH filter is in bypass mode 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0006-00.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0006-00--93a075630a0bbb0a.png>)
 
 
 ## 3. RECORDING CHAINS (Speaker Selection) 
@@ -209,7 +209,7 @@ As soon as you hear the speaker setup you like best just stop AUTO mode by click
 And if for any reason you should not like any of the Recording Chains the plug-in offers you may use the very last setting (labeled EMPTY - PLAY VIA REAL CAB) and use your own miked cabinet. This setting will give you the sound of a tube guitar amp wired straight into a Console, which also may be a nice effects sound. 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0007-00.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0007-00--759043f1fc686741.png>)
 
 
 ## The Controls of the BE100 Back Panel 
@@ -257,7 +257,7 @@ The FEEDBACK controls the number of repeats. While a setting of 99% will result 
 With the LO-FI knob you control the amount of internal distortion, the resampling quality, etc. The higher you go the worse the quality gets from a pure technical stand point... but the more interesting it may sound for many guitar sounds and styles. 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0008-00.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0008-00--bc2c1450b05d12cd.png>)
 
 
 ## The Controls of the BE100 Back Panel 
@@ -293,7 +293,7 @@ If you want to use only the distortion of the Friedman preamp you may switch the
 We have modeled the behavior of the BE100, so you may experiment with different settings of the Master of the amp and the internal POWER SOAK. We recommend a setting of roughly -10dB for most scenarios 
 
 
-![](<Friedman BE100 Manual_assets/Friedman_BE100_Manual.pdf-0009-00.png>)
+![](<../../attachments/friedman-be100-manual_assets--friedman_be100_manual.pdf-0009-00--b1141e446272e501.png>)
 
 
 ## The Controls of the BE100 Back Panel 

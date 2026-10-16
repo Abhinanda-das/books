@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg15-05"
 ---
 
-![обложка|156](<Back to Godhead Magazine #15-05, 1980/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-15-05-1980--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f6a33db5e13d908c.jpeg>)
 
 # Back to Godhead Magazine #15-05, 1980
 

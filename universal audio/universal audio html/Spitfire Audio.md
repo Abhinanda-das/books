@@ -54,7 +54,7 @@ Note:
 
 <div collection="contentId-214728735" context-id="214728735" file-mime-type="image/png" file-name="spitfire-annotated-ui.png" file-size="93543" data-height="1000" data-id="0d241900-375a-4e46-bd9f-2aae7f6f345e" node-type="media" data-type="file" data-width="1155" title="Attachment">
 
-![spitfire-annotated-ui.png](Spitfire%20Audio_assets/2d60fbbf28c6c2b24eaca72485345139ac53fc20.png)
+![spitfire-annotated-ui.png](../../attachments/spitfire-audio_assets--2d60fbbf28c6c2b24eaca72485345139ac53fc20--c80c93525c8a8b4f.png)
 
 </div>
 
@@ -134,7 +134,7 @@ Not purged – The articulation is preloaded into memory.
 
 <div collection="contentId-214728735" context-id="214728735" file-mime-type="image/png" file-name="spitfire-highlighted.png" file-size="2249" data-height="162" data-id="25a9d393-d637-4577-ba27-02715886e540" node-type="media" data-type="file" data-width="128" title="Attachment">
 
-![spitfire-highlighted.png](Spitfire%20Audio_assets/ccdc06e8ff9c20a4cd12f7d753a1987e21f18140.png)
+![spitfire-highlighted.png](../../attachments/spitfire-audio_assets--ccdc06e8ff9c20a4cd12f7d753a1987e21f18140--efb8eff7a27492c7.png)
 
 </div>
 
@@ -148,7 +148,7 @@ Purged – The articulation is removed from memory and the “memory” icon is 
 
 <div collection="contentId-214728735" context-id="214728735" file-mime-type="image/png" file-name="spitfire-not-highlighted.png" file-size="2242" data-height="162" data-id="f41ad935-327e-449d-a6ee-6f2be171edc9" node-type="media" data-type="file" data-width="128" title="Attachment">
 
-![spitfire-not-highlighted.png](Spitfire%20Audio_assets/fb447b08f1469b9539cd2c5083088e42aaaaddef.png)
+![spitfire-not-highlighted.png](../../attachments/spitfire-audio_assets--fb447b08f1469b9539cd2c5083088e42aaaaddef--2b648815102701f2.png)
 
 </div>
 

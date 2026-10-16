@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/iyengar-dohgag"
 ---
 
-![обложка|156](<Dictionary of Hindu Gods and Goddesses/обложка.jpeg>)
+![обложка|156](<../attachments/dictionary-of-hindu-gods-and-goddesses--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--dc4bfc7e7795ad89.jpeg>)
 
 The Hindu pantheon of gods and goddesses has evolved over many millennia from a simple worship of elements and phenomena of nature to a complex system of myriad gods and goddesses of differing physical attributes, characteristic features and functions, and each with different forms. The present Dictionary is an attempt to provide an in-depth yet comprehensive account of Hindu gods and goddesses referring to all the important religious sources. Based on Hindu sacred literature including the Vedas, epics and the Put-arias, the book is a systematic study, in alphabetical order, of various Hindu gods and goddesses covering aspects such as the evolution of their worship and their earliest references in texts, stories of their birth and achievements, their attributes, their significance in the Hindu scheme of worship, their forms of representation, and their relationship with one another. It has references to not only personified beings but also other animate and inanimate 'sacred' beings / things, seen in close association with the deities and worshipped by devotees, like Nandi, the bull, the snakes, the banyan and pipal trees, the saligramas and the banalinggas. The adornments, vahanas, weapons and places associated with the deities are also elaborately discussed. The Dictionary will be an immensely useful reference work for scholars of ancient Indian mythology and religion as well as general readers.
 

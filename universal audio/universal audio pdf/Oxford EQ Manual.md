@@ -7,11 +7,11 @@ word_count: 3659
 ---
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0001-00.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0001-00--70b0c9820bc1a6f9.png>)
 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0001-01.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0001-01--c723339d874e9e3a.png>)
 
 
 ## Sonnox **Oxford EQ & Filters** 
@@ -21,7 +21,7 @@ word_count: 3659
 Version 1.0   12[th] February 2012 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0001-05.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0001-05--eab77da1f0c29205.png>)
 
 
 1 
@@ -49,7 +49,7 @@ In the Oxford EQ plug-in we have covered this situation by providing three diffe
 ## **2.2 ‘Front Panel’ Controls** 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0004-01.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0004-01--906c45a773bdb189.png>)
 
 
 The EQ and Filter controls are presented in a user-friendly layout, and the function of most of the knobs and switches should be immediately obvious. Full information on each control is provided in a later section of this manual: **Description of Controls** . 
@@ -65,7 +65,7 @@ Note also the ‘on/off’ button in the top right, above the response display. 
 The upper area of the Oxford EQ plug-in is taken up by the EQ and Filter response display: 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0005-02.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0005-02--f1a6577c17febd94.png>)
 
 
 In addition to more conventional knob control, the EQ can be controlled from this graph if the ‘drag handles’ option is selected via a drop-down options menu that appears when you click the **Sonnox** button in the top left of the display. 
@@ -105,7 +105,7 @@ double click and drag without having to click a third time.
 Notice that when a section is switched out, the handle remains true to the gain position of the control as shown below: 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0007-05.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0007-05--246eb6a77e343cd3.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -147,13 +147,13 @@ There are two options in the menu accessed via the **Sonnox** button that allow 
 – **Use Drag Handles** You can disable the graph handles for a cleaner look if you prefer to use the more traditional knob and button controls, and don’t want to be tempted to use the handles: 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0008-10.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0008-10--014e582eeec84b5b.png>)
 
 
 **Fill in EQ Bands** – determines whether you display the coloured infill under each section: 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0008-12.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0008-12--fe4e694f3eb5b7bb.png>)
 
 
 8 
@@ -165,7 +165,7 @@ The following sections provide a description of each EQ type:
 ## **2.4.1 EQ Type 1** 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0009-03.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0009-03--b41075018637f651.png>)
 
 
 This style has minimal Gain / Q dependency, smaller amounts of boost or cut still have relatively high Q, and it is therefore precise and well defined in use. 
@@ -179,7 +179,7 @@ It is most like the original SSL 4000 Series, and other ‘clinical’ styles of
 ## **2.4.2 EQ Type 2** 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0010-01.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0010-01--b7018fc6099237d8.png>)
 
 
 Type 2 EQ is exactly similar in boost as Type 1, but has constant Q responses in cut. This is the only type of EQ offered in the Oxford plug-in that has unsymmetrical curves. Therefore EQ applied in a boost cannot be readily reversed by cutting afterwards. The EQ resembles some speciality legacy units, and lends itself well to resonance control for percussion instruments such as drums, since relatively high Q is available at low gain settings, whilst fairly subtle ‘fill EQ’ can be achieved using boost settings at the same time. 
@@ -189,7 +189,7 @@ Type 2 EQ is exactly similar in boost as Type 1, but has constant Q responses in
 ## **2.4.3 EQ Type 3** 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0011-01.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0011-01--a84c70f19c2441c5.png>)
 
 
 This style of EQ has a moderate amount of Gain / Q dependency whereby the Q reduces with gain. This provides the EQ with a softer characteristic as EQ is progressively applied and since the effective bandwidth is increased for low gain settings, it sounds louder and more impressive when used at moderate settings. The gentler Q curve also lends itself better to overall EQ fills and more subtle corrections in instrument and vocal sources. Turning the Gain control seems to produce the effect that the ear is expecting, without needing to adjust the Q control too often. Therefore EQs of this type are often dubbed as ‘more musical sounding’. 
@@ -201,7 +201,7 @@ This EQ most resembles the older and well-loved Neve types, their modern derivat
 ## **2.4.4 EQ Type 4** 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0012-01.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0012-01--169a0f6a8c942343.png>)
 
 
 EQ Type 4 builds on Type 3, using a far greater Gain / Q dependency which maintains an almost equal area under the curve in the boosted region with gain control operation. It is extremely soft and gentle in use and is most suited to overall EQ fill and character modification for mixed parts (and completed mixes) where subtle changes in overall impressions are required. Therefore it will also prove useful in mastering situations where there is requirement to match the sounds of tracks from different sources on a common production release. 
@@ -219,7 +219,7 @@ Our analysis of common shelving EQs has shown that one of the most important dif
 ## **2.5.1 Shelving Overshoot Control** (HF shelf Q control) 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0014-01.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0014-01--c1251c29147be5b5.png>)
 
 
 When the HF shelving function is selected, the Q control provides control of the ‘overshoot’ function. 
@@ -241,7 +241,7 @@ At maximum (blue plot), the Q control provides an overshoot of half the total bo
 The plug-in’s user interface consists of two sections for EQUALISATION and FILTERING functions. 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0016-02.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0016-02--69a06351595bd1e6.png>)
 
 
 ## _**Response Display**_ 
@@ -299,7 +299,7 @@ Clicking the **Sonnox** button produces a drop-down options menu (see right).
 **Enable Sonnox Toolbar** – displays or hides the Sonnox Preset Manager Toolbar. 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0018-10.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0018-10--a8261d894f364633.png>)
 
 
 **Show Preset Name Path** – Shows the hierarchical directory path for Presets that are stored in sub-folders of the default Preset folder. 
@@ -329,7 +329,7 @@ Clicking the **Sonnox** button produces a drop-down options menu (see right).
 The Oxford EQ plug-in comes equipped with its own onboard Preset Manager, which is displayed as a toolbar at the top of the plug-in window, just as if the host created it (see right). The reasoning behind this is to allow increased portability of your presets across all the host applications, while also providing a consistent and versatile interface. Although most host platforms allow the creation and loading of presets, those host-created preset files are not portable 
 
 
-![](<Oxford EQ Manual_assets/Oxford_EQ_Manual.pdf-0020-02.png>)
+![](<../../attachments/oxford-eq-manual_assets--oxford_eq_manual.pdf-0020-02--61ce4f29228bf13c.png>)
 
 
 between different host applications. With the Oxford plug-ins’ preset manager, you can create a named preset in one host application and load it when using an alternative application. 

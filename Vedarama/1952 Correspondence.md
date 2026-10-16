@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1952"
 ---
 
-![обложка|156](<1952 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1952-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1dfc6f0a85961799.jpeg>)
 
 # 1952 Correspondence
 

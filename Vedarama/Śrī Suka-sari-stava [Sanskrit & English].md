@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/kk-sss"
 ---
 
-![обложка|156](<Śrī Suka-sari-stava [Sanskrit & English]/обложка.jpeg>)
+![обложка|156](<../attachments/%C5%9Br%C4%AB-suka-sari-stava-sanskrit-english--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--003575327f72e384.jpeg>)
 
 The meditation upon the limbs of Lord Krsna's transcendental body are spoken by Manjuvak and Kalokti, the pet male and female parrots of Vrnda-devi.
 

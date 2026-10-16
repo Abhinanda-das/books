@@ -22,7 +22,7 @@ The DSP UAD-2 and Native UADx plug-ins have different names. The UADx plug-in ti
 - <a href="#h_01H6ETTW6WE2BBP2GB4W6VDWY2" target="_self">Manley VOXBOX Channel Strip Controls</a>
 - <a href="#h_01H6PQVP7SXKCH14ECPXR84P35" target="_self">Additional Information</a>
 
-![[VOXBOX.png]]
+![[attachments/universal-audio--voxbox--c17ce625667be993.png]]
 
 Manley’s VOXBOX channel strip is a beautiful system of tube‑driven preamp, dynamics and EQ circuits, designed specifically for your all‑important vocal sources. The Manley VOXBOX Channel Strip plug‑in gives you the same elevated, smooth sonics of this premium vocal channel strip.
 
@@ -63,7 +63,7 @@ UA’s groundbreaking Unison technology lets you track in realtime through the M
 
 <div class="wysiwyg-text-align-center">
 
-![manley-voxbox.png](9491bc8727275b25e6c3b66f8928a855303eb039.png)*Manley VOXBOX Channel Strip*
+![manley-voxbox.png](../../attachments/manley-voxbox-channel-strip-manual_assets--9491bc8727275b25e6c3b66f8928a855303eb039--587c14b9e701595e.png)*Manley VOXBOX Channel Strip*
 
 </div>
 
@@ -79,7 +79,7 @@ This section provides a general overview of VOXBOX operational concepts. For spe
 
 A simplified version of the signal flow within the plug-in is shown in the diagram below. Understanding this signal flow can help you obtain a more predictable result. Note that unlike most channel strips, the compressor circuit is located before the preamplifier, even though the compressor controls are located to the right of the preamp controls in the interface.
 
-![manley-voxbox-signal-flow-diagram.png](cb3105f3709455f5f67d9328780271090832fb28.png)
+![manley-voxbox-signal-flow-diagram.png](../../attachments/manley-voxbox-channel-strip-manual_assets--cb3105f3709455f5f67d9328780271090832fb28--5c353c18f191f490.png)
 
 *Signal flow within VOXBOX*
 
@@ -151,7 +151,7 @@ The SOURCE rotary switch provides an attenuation pad for the input signal. When 
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](Manley%20VOXBOX%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWPMMJG8X1YKKVKX9D0">Apollo Unison Interactions</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -181,7 +181,7 @@ The Low Cut filter has a gentle slope of 6 dB per octave with minimal phase shif
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](Manley%20VOXBOX%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWPQX1MC6H8ESKX26VP">Apollo Unison Interactions</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -211,7 +211,7 @@ Polarity inversion can help reduce phase cancellations when more than one microp
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](Manley%20VOXBOX%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWQVBA5HYADW80TW06R">Apollo Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -238,7 +238,7 @@ The available range is 0 to 10 but values are arbitrary. Rotate the knob counter
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](Manley%20VOXBOX%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWQ0QGHA8PD034DMJ17">Apollo Unison Interactions</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -268,7 +268,7 @@ GAIN values of 40, 45, 50, 55, and 60 dB are available.
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](Manley%20VOXBOX%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWQHWDH31JC8SSNEH81">Apollo Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -502,7 +502,7 @@ This control, which does not exist on the original hardware, facilitates the abi
 </colgroup>
 <tbody>
 <tr style="height: 21px;">
-<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](Manley%20VOXBOX%20Channel%20Strip%20Manual_assets/a83c95ca2d4fafa148e45dfbf7534fda65b7fff5.png)</td>
+<td style="text-align: center; height: 0px; vertical-align: middle; width: 0;">![unison-icon1.png](../../attachments/manley-voxbox-channel-strip-manual_assets--a83c95ca2d4fafa148e45dfbf7534fda65b7fff5--b1bdb8a64581853b.png)</td>
 <td style="height: 0px; vertical-align: targetNone; width: 13.7143%"><h4 id="01H7G3YDWQ4GD17JNC0WVZGPYD">Apollo Unison Interaction</h4></td>
 </tr>
 <tr style="height: 0px;">
@@ -534,7 +534,7 @@ The original user manual written by Manley Labs for the hardware unit contains a
 
 <div class="wysiwyg-text-align-center">
 
-![VoxBox-HW-xlarge.jpg](a37277f5fdd4b79839070351d04d6a90aee8df5c.jpg)<span class="image placeholder" original-image-src="https://help.uaudio.com/hc/en-us/articles/manley-voxbox-web-resources/image/VoxBox-HW-xlarge.jpg" original-image-title=""></span>
+![VoxBox-HW-xlarge.jpg](../../attachments/manley-voxbox-channel-strip-manual_assets--a37277f5fdd4b79839070351d04d6a90aee8df5c--f9c12b59b9e734cf.jpg)<span class="image placeholder" original-image-src="https://help.uaudio.com/hc/en-us/articles/manley-voxbox-web-resources/image/VoxBox-HW-xlarge.jpg" original-image-title=""></span>
 
 </div>
 
@@ -546,7 +546,7 @@ The original user manual written by Manley Labs for the hardware unit contains a
 
 <div class="wysiwyg-text-align-center">
 
-![manleylogo2013.png](92a6cd3ee9312e533344f20dd5e737edbb6bf322.png)<span class="image placeholder" original-image-src="https://help.uaudio.com/hc/en-us/articles/manley-voxbox-web-resources/image/manleylogo2013.png" original-image-title=""></span>
+![manleylogo2013.png](../../attachments/manley-voxbox-channel-strip-manual_assets--92a6cd3ee9312e533344f20dd5e737edbb6bf322--c2d45a91eb3926d0.png)<span class="image placeholder" original-image-src="https://help.uaudio.com/hc/en-us/articles/manley-voxbox-web-resources/image/manleylogo2013.png" original-image-title=""></span>
 
 </div>
 

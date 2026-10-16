@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gbcpress-oop"
 ---
 
-![обложка|156](<Our Original Position/обложка.jpeg>)
+![обложка|156](<../attachments/our-original-position--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f75b969a720435b9.jpeg>)
 
 This is a technical look, from the Gaudiya-Vaishnava perspective, at a complicated philosophical question: Were we with God before we came to the material world?
 

@@ -7,7 +7,7 @@ word_count: 11560
 ---
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0001-00.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0001-00--7d12f49db0244f84.png)
 
 
 ## **Manual de Hardware de Apollo Twin MkII** 
@@ -15,7 +15,7 @@ word_count: 11560
 Versión de manual 170502 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0001-03.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0001-03--8b08dd73d8fef4fe.png)
 
 
 www.uaudio.com 
@@ -37,7 +37,7 @@ Como siempre, no dude en acercarse a nosotros a través de nuestro sitio web www
 Sinceramente, 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0002-08.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0002-08--53eab2ee95d58207.png)
 
 
 Bill Putnam Jr. 
@@ -65,35 +65,35 @@ Apollo Twin MkII Hardware Manual
 Con una resolución líder en la clase y el procesamiento UAD en tiempo real, Apollo Twin MkII establece un nuevo estándar  para  la producción de música de escritorio. Esta  interfaz 2x6 Thunderbolt para Mac y Windows le permite grabar con latencia casi cero a través de la gama completa  de  los  Plug-Ins  potenciados  de  UAD, combinando ingeniosamente tonos analógicos clásicos con características de vanguardia. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-04.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-04--c64a73839622e058.png)
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-05.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-05--0589446a58f4743c.png)
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-06.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-06--1923fb2aada4c07d.png)
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-07.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-07--029fc6a501bf12d1.png)
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-08.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-08--442037bebb1bd690.png)
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-09.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-09--3c5a0cd2a45b3dbd.png)
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-10.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-10--d4318a30552316a3.png)
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-11.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-11--051f02d91afd4670.png)
 
 
 **----- Start of picture text -----**<br>
@@ -111,7 +111,7 @@ MONITOR<br>**----- End of picture text -----**<br>
 - Monitoreo con latencia cercana  a  cero  a través de emulaciones de pre-amplificador de Neve®,  API®,  Manley®  y   más   con tecnología Unison ™ 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-17.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-17--8f79f9178439c141.png)
 
 
 **----- Start of picture text -----**<br>
@@ -119,7 +119,7 @@ LINE OUT         MONITOR 3  L  MIC/LINE 2  MIC/LINE 1<br>OPTICAL IN<br>POWER  4 
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0004-18.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0004-18--28183654f8dd6e18.png)
 
 
 ## **Tecnología  Unison: El Sonido de Neve, API y los Pre-amplificadores Manley** 
@@ -529,7 +529,7 @@ Inicio Rápido
 A continuación se muestra una configuración típica de Apollo Twin MkII. Para obtener detalles completos sobre todos los conectores y controles de Apollo Twin MkII, consulte Controles y Conectores. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0015-02.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0015-02--77dd687dd6b24e16.png)
 
 
 **----- Start of picture text -----**<br>
@@ -617,7 +617,7 @@ _**Nota:** Todas las funciones del panel superior se pueden ejecutar simultánea
 Cuando Apollo Twin MkII está en modo Preamp, todos los controles del panel superior están relacionados únicamente con las funciones de entrada. Para ajustar cualquier función de entrada, pulse el botón PREAMP para entrar en el modo de pre amplificación y activar los controles del canal de entrada. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0017-10.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0017-10--ce62e20f3855491c.png)
 
 
 _**Nota:** Las funciones de monitor y auriculares no se pueden realizar en el modo de pre amplificación._ 
@@ -641,7 +641,7 @@ Manual de Hardware de Apollo Twin MkII
 El canal de entrada actualmente seleccionado se muestra mediante los indicadores CH1 y CH2 en la parte superior izquierda del panel principal, por encima del display de entrada. Los controles del panel superior sólo ajustan las funciones del canal actualmente seleccionado. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0018-02.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0018-02--671b74d0158ab7e2.png)
 
 
 ## **Cambiando los Canales** 
@@ -653,7 +653,7 @@ Cuando esté en el modo Preamp, presione el botón PREAMP para cambiar el canal 
 La entrada Mic, Line o Hi-Z se encamina hacia el pre amplificador del canal. La fuente de entrada se muestra mediante los indicadores debajo de los medidores de entrada. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0018-07.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0018-07--9d2f44dde2b1183b.png)
 
 
 La fuente de entrada Mic o Line se selecciona presionando el botón INPUT cuando se selecciona el canal. La entrada Hi-Z (disponible sólo en el canal 1) se selecciona automáticamente cuando el cable del instrumento se enchufa en la entrada Hi-Z en el panel frontal. 
@@ -679,7 +679,7 @@ Manual de Hardware de Apollo Twin MkII
 Cuando Apollo Twin MkII está en modo Monitor, todos los controles del panel superior están relacionados sólo con las funciones de salida. Para ajustar cualquier función de salida, presione el botón MONITOR para entrar en el modo Monitor y activar los controles del monitor. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0019-02.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0019-02--44f0b40e4009979a.png)
 
 
 **----- Start of picture text -----**<br>
@@ -707,7 +707,7 @@ La salida estéreo actualmente seleccionada es mostrada por los indicadores MONI
 Cuando esté en el modo Monitor, presionando el botón MONITOR cambia la salida seleccionada. Pulse de nuevo para cambiar a la otra salida. El mando Level ajusta el volumen de la salida seleccionada. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0019-13.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0019-13--9bc40990c0b87ba0.png)
 
 
 ## **Opciones de MONITOR** 
@@ -717,7 +717,7 @@ Apollo Twin MkII tiene opciones de monitor  que  realizan  las  funciones
 del controlador de monitor dedicado. Las    opciones    del    monitor    se controlan utilizando la fila de seis botones en la parte inferior del panel superior cuando está en el modo MONITOR. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0019-17.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0019-17--b1318e3154d2e21d.png)
 
 
 El estado actual de las opciones del monitor se indica en la fila inferior del panel de visualización de opciones que est encima de los botones de opción. Las opciones disponibles son atenuadas cuando están inactivas, brillantes cuando están habilitadas y apagadas cuando no están disponibles. 
@@ -733,7 +733,7 @@ Manual de Hardware de Apollo Twin MkII 19
 Consulte la siguiente ilustración para ver las descripciones de los controles en esta sección. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0020-02.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0020-02--81d24d71f38d9fa7.png)
 
 
 **----- Start of picture text -----**<br>
@@ -751,7 +751,7 @@ Cuando esté en el modo PREAMP, gire en el sentido de las agujas del reloj para 
 ## **Integración Unison** 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0020-08.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0020-08--9d88f5f9655be598.png)
 
 
 La perilla de nivel también se puede utilizar para controlar los plug-ins habilitados Unison UAD de pre amplificación y amplificador de guitarra. Consulte el Manual de Software Apollo para obtener los detalles completos de Unison. 
@@ -833,17 +833,17 @@ Cada uno de los seis botones de opción tiene dos funciones. En el modo PREAMP, 
 ## **Integración Unison** 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0022-11.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0022-11--c8ccf7424f210f83.png)
 
 
 En el modo PREAMP, los botones de opción también se pueden utilizar para controlar los plug-ins habilitados UAD  de pre  amplificación y  amplificador de guitarra UAD. Consulte el manual de  software de Apollo para obtener detalles completos de Unison 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0022-13.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0022-13--8e9689ef07df9a50.png)
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0022-14.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0022-14--7a8ade26a539e366.png)
 
 
 _Muestra de Opciones (12) and Botones de Opción (13)_ 
@@ -861,7 +861,7 @@ Los botones de opción controlan las opciones PREAMP (a - f debajo) para un cana
 _**Nota:** En el modo MONITOR, las opciones de pre amplificador no se pueden modificar y la fila superior de la pantalla de opciones está apagada_ 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0023-03.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0023-03--7d41fb3e6ddc5ba6.png)
 
 
 **----- Start of picture text -----**<br>
@@ -917,11 +917,11 @@ Las funciones TALK, DIM, ALT y FCN se configuran en la aplicación de software d
 _**Nota:** En el modo PREAMP, las opciones del monitor no se pueden modificar y la fila inferior de la pantalla de opciones no está iluminada_ 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0024-05.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0024-05--2d0d15772124296a.png)
 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0024-06.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0024-06--ddffaa044b2993df.png)
 
 
 **----- Start of picture text -----**<br>
@@ -965,7 +965,7 @@ Manual de Hardware de Apollo Twin MkII
 Consulte la ilustración siguiente para ver las descripciones de los controles en esta sección. 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0025-02.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0025-02--e5d3c79139ce66e8.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1005,7 +1005,7 @@ Consulte la ilustración siguiente para ver las descripciones de los controles e
 _**Nota:** Todos   las   fichas   de   ¼   "del   panel   trasero   pueden   aceptar   conexiones desbalanceadas TS (punta-manga) o TRS balanceadas (punta-anillo-manguito)_ 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0026-03.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0026-03--5f6457f87a62b998.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1244,7 +1244,7 @@ Manual de Hardware de Apollo Twin MkII
 ## **DIAGRAMA DE BLOQUES DE HARDWARE** 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0032-01.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0032-01--39690034c87961e3.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1430,7 +1430,7 @@ Soporte Técnico
 37 
 
 
-![](Apollo_Twin_MkII_Hardware_Manual_Spanish_assets/Apollo_Twin_MkII_Hardware_Manual_Spanish.pdf-0038-00.png)
+![](../../attachments/apollo_twin_mkii_hardware_manual_spanish_assets--apollo_twin_mkii_hardware_manual_spanish.pdf-0038-00--9a6fb8c3372699dd.png)
 
 
 **UNIVERSAL  AUDIO** 

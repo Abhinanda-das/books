@@ -40,7 +40,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Golden%20Reverberator%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-golden-reverberator-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--dd8c440870920603.png)
 </figure>
 
 Bill Putnam Jr.
@@ -53,7 +53,7 @@ Bill Putnam Jr.
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082982401" context-id="1082982401" file-mime-type="image/png" file-name="qsg-golden-recolored.png" file-size="253559" data-height="379" data-id="a1053b78-035e-4023-8e55-676d9ec27ade" node-type="media" data-type="file" data-width="458" title="Attachment">
 
-![golden-qs@2x.png](UAFX%20Golden%20Reverberator%20Manual_assets/dfb3365d3fb17394cece3d8bdcfdad409ee394ff.png)
+![golden-qs@2x.png](../../attachments/uafx-golden-reverberator-manual_assets--dfb3365d3fb17394cece3d8bdcfdad409ee394ff--bd5960f6d264037a.png)
 
 </div>
 
@@ -108,7 +108,7 @@ To learn how to wire your UAFX pedals,[<span class="wysiwyg-underline"> go here<
 <div class="fabric-editor-block-mark fabric-editor-align-center" data-align="center">
 
 <figure class="wysiwyg-image">
-![rear-callouts-non-amp.png](UAFX%20Golden%20Reverberator%20Manual_assets/097372538c02d4b5c1b83457b44efa5e78485dc7.png)
+![rear-callouts-non-amp.png](../../attachments/uafx-golden-reverberator-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--1f13343380f28ec4.png)
 </figure>
 
 </div>
@@ -133,7 +133,7 @@ To enter Live mode, press the left footswitch. Press the left footswitch again t
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082982401" context-id="1082982401" file-mime-type="image/png" file-name="golden-switches-on-led.png" file-size="30964" data-height="189" data-id="e65f11d7-89bb-4ff7-a9f9-cb412c0b4247" node-type="media" data-type="file" data-width="705" title="Attachment">
 
-![golden-switches-on-led.png](UAFX%20Golden%20Reverberator%20Manual_assets/039ea6f067a659c26bac8c58abbbf5de3c79066c.png)
+![golden-switches-on-led.png](../../attachments/uafx-golden-reverberator-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--d3664911c8cef4e0.png)
 
 </div>
 
@@ -147,7 +147,7 @@ To enter Preset mode, press the right footswitch. Press the right footswitch aga
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082982401" context-id="1082982401" file-mime-type="image/png" file-name="golden-switches-preset-led.png" file-size="31499" data-height="194" data-id="6596bac0-9a91-425c-b109-46d058c39be7" node-type="media" data-type="file" data-width="712" title="Attachment">
 
-![golden-switches-preset-led.png](UAFX%20Golden%20Reverberator%20Manual_assets/381e83806fbca2e28a4cc8d1d3a4d7b015b0194c.png)
+![golden-switches-preset-led.png](../../attachments/uafx-golden-reverberator-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--5899b3d0d9e20fbe.png)
 
 </div>
 
@@ -179,7 +179,7 @@ Golden Reverberator effect bypass routing can be set for true bypass or trails b
 **True Bypass**
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![tbp-golden.png](UAFX%20Golden%20Reverberator%20Manual_assets/e4ce1c85602f97e215417d426e191b898a6c7e84.png)
+![tbp-golden.png](../../attachments/uafx-golden-reverberator-manual_assets--e4ce1c85602f97e215417d426e191b898a6c7e84--83c6ea0266b7af73.png)
 </figure>
 
 When bypass routing is set for true bypass and the effect is off, the dry signal is pure analog dry-through from input to output, without buffering or any other circuitry, via mechanical relays. By default, your UAFX pedal is set for true bypass.
@@ -191,7 +191,7 @@ When bypass routing is set for true bypass and the effect is on, the dry signal 
 <div layout="center" node-type="mediaSingle" data-width="50">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![bbp-golden-flow.png](UAFX%20Golden%20Reverberator%20Manual_assets/d0747859b3c00f1ff167fecd14e4ed78aa4cf0ed.png)
+![bbp-golden-flow.png](../../attachments/uafx-golden-reverberator-manual_assets--d0747859b3c00f1ff167fecd14e4ed78aa4cf0ed--cc6da20318fe9248.png)
 </figure>
 
 </div>
@@ -290,7 +290,7 @@ The tube-driven spring reverb from classic '60s American guitar amps is a heaven
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082982401" context-id="1082982401" file-mime-type="image/png" file-name="Golden Map - Spring 65.png" file-size="54277" data-height="307" data-id="d6419b81-b8ad-4fb7-9833-ea1d67b799a0" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-golden-spring-65.png](UAFX%20Golden%20Reverberator%20Manual_assets/688b1129888acc8de7686dd56fd56a48068da8ed.png)
+![map-golden-spring-65.png](../../attachments/uafx-golden-reverberator-manual_assets--688b1129888acc8de7686dd56fd56a48068da8ed--0415084016772486.png)
 
 </div>
 
@@ -371,7 +371,7 @@ The dense, haunting sound of late-1950s studio plate reverb is integral to more 
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082982401" context-id="1082982401" file-mime-type="image/png" file-name="Golden Map - Plate 140.png" file-size="51000" data-height="307" data-id="7d846104-ca89-4172-8d85-2d793bfb1f19" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-golden-plate-140.png](UAFX%20Golden%20Reverberator%20Manual_assets/2482f105e6bedca9b340cd6c487f0b55873b7cfe.png)
+![map-golden-plate-140.png](../../attachments/uafx-golden-reverberator-manual_assets--2482f105e6bedca9b340cd6c487f0b55873b7cfe--bb18022e768ccd36.png)
 
 </div>
 
@@ -465,7 +465,7 @@ When your Preset or Live mode sound is set to self-oscillate, and you switch to 
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082982401" context-id="1082982401" file-mime-type="image/png" file-name="Golden Map - Hall 224.png" file-size="50340" data-height="307" data-id="379cb769-fc0f-4fdf-8988-15403f7391e8" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-golden-hall-224.png](UAFX%20Golden%20Reverberator%20Manual_assets/a786fcb1ed80dd38af66ad0fa1b7f3a1b3d0fe42.png)
+![map-golden-hall-224.png](../../attachments/uafx-golden-reverberator-manual_assets--a786fcb1ed80dd38af66ad0fa1b7f3a1b3d0fe42--fc2117a5e8f9ebfa.png)
 
 </div>
 
@@ -566,7 +566,7 @@ This bonus effect is available after you register your Golden Reverberator. To s
 <div layout="center" node-type="mediaSingle" data-width="50">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 35%;">
-![chamber-and-plate-switch.png](UAFX%20Golden%20Reverberator%20Manual_assets/d3fe6064ba2853571a1459311b43285a9274124f.png)
+![chamber-and-plate-switch.png](../../attachments/uafx-golden-reverberator-manual_assets--d3fe6064ba2853571a1459311b43285a9274124f--a104f2790c474b37.png)
 </figure>
 
 </div>
@@ -577,7 +577,7 @@ This bonus effect is available after you register your Golden Reverberator. To s
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082982401" context-id="1082982401" file-mime-type="image/png" file-name="Golden Map - Chamber & Plate 224.png" file-size="52095" data-height="307" data-id="3186598c-b7dd-4de8-8631-22e0cdf25641" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![map-golden-chamber-plate-224.png](UAFX%20Golden%20Reverberator%20Manual_assets/e07f9e7cac388c7a7ab446f1ced61fa1f06cf9db.png)
+![map-golden-chamber-plate-224.png](../../attachments/uafx-golden-reverberator-manual_assets--e07f9e7cac388c7a7ab446f1ced61fa1f06cf9db--56d3129fed671c09.png)
 
 </div>
 
@@ -659,7 +659,7 @@ Note that when you switch effect types in Preset mode, all settings change to th
 
 <div class="wysiwyg-text-align-center" collection="contentId-1082982401" context-id="1082982401" file-mime-type="image/png" file-name="golden-default.png" file-size="49818" data-height="307" data-id="18abc2e5-46a4-46a7-9da1-49f84169dfb7" node-type="media" data-type="file" data-width="319" title="Attachment">
 
-![golden-default.png](UAFX%20Golden%20Reverberator%20Manual_assets/f5546f9a50c9ae39c853ba913aa234fd8b251a46.png)
+![golden-default.png](../../attachments/uafx-golden-reverberator-manual_assets--f5546f9a50c9ae39c853ba913aa234fd8b251a46--d4791f87f3ddcce5.png)
 
 </div>
 
@@ -684,7 +684,7 @@ Tap Settings at the bottom right of the screen to access the settings for a peda
 After registration, the Chamber & Plate 224 reverb is added to the pedal. To select this effect, push the Effect Type switch until the top LED is lit green.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 35%;">
-![chamber-and-plate-switch.png](UAFX%20Golden%20Reverberator%20Manual_assets/d3fe6064ba2853571a1459311b43285a9274124f.png)
+![chamber-and-plate-switch.png](../../attachments/uafx-golden-reverberator-manual_assets--d3fe6064ba2853571a1459311b43285a9274124f--a104f2790c474b37.png)
 </figure>
 
 ## Configuring Bypass Routing
@@ -699,7 +699,7 @@ Under Bypass Routing, tap True Bypass or Trails Bypass.
 
 ### True Bypass
 
-![tbp-golden.png](UAFX%20Golden%20Reverberator%20Manual_assets/e4ce1c85602f97e215417d426e191b898a6c7e84.png)
+![tbp-golden.png](../../attachments/uafx-golden-reverberator-manual_assets--e4ce1c85602f97e215417d426e191b898a6c7e84--83c6ea0266b7af73.png)
 
 When bypass routing is set for true bypass and the effect is off, the dry signal is pure analog dry-through from input to output, without buffering or any other circuitry, via mechanical relays. By default, your UAFX pedal is set for true bypass.
 
@@ -707,7 +707,7 @@ When bypass routing is set for true bypass and the effect is on, the dry signal 
 
 ### Trails Bypass
 
-![bbp-golden.png](UAFX%20Golden%20Reverberator%20Manual_assets/39a5e29f140cf97fc6f39faea91015fcf5a4413e.png)
+![bbp-golden.png](../../attachments/uafx-golden-reverberator-manual_assets--39a5e29f140cf97fc6f39faea91015fcf5a4413e--3aa816e8e9e804ad.png)
 
 When bypass routing is set for trails bypass and the effect is off, the effect plays out naturally, rather than stopping suddenly.
 
@@ -942,7 +942,7 @@ Depth: 5.55 inches, 14.1 cm</td>
 
 # Golden Safety
 
-![safety-symbol-exclaim.png](UAFX%20Golden%20Reverberator%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![safety-symbol-exclaim.png](../../attachments/uafx-golden-reverberator-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--64389c9ace5964f6.png)
 
 Caution: To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
@@ -954,7 +954,7 @@ Caution: To help maintain the safety of your product, the chosen power supply mu
 
 </div>
 
-![safety-symbol-book-info.png](UAFX%20Golden%20Reverberator%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![safety-symbol-book-info.png](../../attachments/uafx-golden-reverberator-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--1309dfe517948e87.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -1002,7 +1002,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 </div>
 
-![safety-symbol-trash.png](UAFX%20Golden%20Reverberator%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-golden-reverberator-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--a345ffa3950033e6.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

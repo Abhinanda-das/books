@@ -7,13 +7,13 @@ word_count: 9518
 ---
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0001-00.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0001-00--32ff10d4f0db851b.png>)
 
 
 ## **Thunderbolt 3 Audio Interface** 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0001-02.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0001-02--42696fbb40cb374a.png>)
 
 
 ## **Apollo x16 Hardware Manual** 
@@ -21,7 +21,7 @@ word_count: 9518
 Manual Version 240502 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0001-05.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0001-05--b72de6a8297cde19.png>)
 
 
 www.uaudio.com 
@@ -41,7 +41,7 @@ Please feel free to reach out to us via our website www.uaudio.com, and via our 
 Sincerely, 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0002-07.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0002-07--433e4ee404d3c027.png>)
 
 
 Bill Putnam Jr. 
@@ -319,7 +319,7 @@ The Universal Audio logo illuminates when the external power supply is properly 
 The built-in talkback mic is located inside of this hole. The talkback function is configured and operated in the included Console software application. 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0010-07.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0010-07--8636bf05ae740edb.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -327,7 +327,7 @@ The built-in talkback mic is located inside of this hole. The talkback function 
 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0010-08.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0010-08--30f12847bcbe2c4a.png>)
 
 
 _Power indicator and talkback microphone_ 
@@ -341,7 +341,7 @@ Apollo x16 Hardware Manual
 Front Panel 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0011-00.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0011-00--e681d664d27dbeac.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -517,7 +517,7 @@ _**Flashing –**_ The monitor DIM, MONO, and/or TALKBACK functions are active.
 This switch applies power to Apollo x16. When the unit is p ~~o~~ we ~~r~~ e ~~d~~ o ~~n~~ , ~~t~~ he Univ ~~e~~ rsal ~~A~~ u ~~d~~ io logo (#5) is illuminated. The ~~external powe~~ r supply mu ~~st be~~ properly connected for this ~~switch to func~~ tion. 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0015-15.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0015-15--030d4d252a02507a.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -533,7 +533,7 @@ Front Panel
 ## **Rear Panel** 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0016-01.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0016-01--8cf14d7d39fc60b8.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -623,7 +623,7 @@ Rear Panel
 ## **Analog I/O** 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0019-01.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0019-01--d3373909bcab97fe.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -661,7 +661,7 @@ By default, the operating level of the line outputs is +20 dBu. The line outputs
 +24 dBu operation is typically used for interfacing with professional audio equipment such as large format consoles, analog tape machines, and similar devices that require higher signal levels. For additional details about +24 dBu operation, see the Apollo Thunderbolt Software Manual. 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0020-06.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0020-06--b3fa82fcc9d48480.png>)
 
 
 _Headroom menu within Console Settings_ 
@@ -691,7 +691,7 @@ _**Note:** See DB25 Wiring for connector pinouts._
 ## **Line Input Headroom** 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0021-04.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0021-04--edcd97098a780354.png>)
 
 
 By default, the operating level of the line inputs is +20 dBu. The line inputs and outputs can be globally configured to operate at +24 dBu signal levels with the HEADROOM menu in the Settings>Hardware panel within the Console application. 
@@ -761,13 +761,13 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 ## **Does your USB-C connector support Thunderbolt 3?** 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0023-05.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0023-05--3b9b7f9a7f22ba3a.png>)
 
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer. 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0023-07.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0023-07--964686a5427be348.png>)
 
 
 _Thunderbolt icon on USB-C cable (left) and USB-C port (right)_ 
@@ -793,7 +793,7 @@ This diagram illustrates an Apollo x16 example system.
 - Although this example uses XLR connectors, DB25 snakes that terminate to XLR, TRS, or other DB25 connectors can be used 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0024-07.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0024-07--0f309061ea84fc47.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -815,7 +815,7 @@ The diagram below illustrates an example of how to interconnect multiple Apollo 
 _**Important:** For complete details about system operation when multi-unit cascading, see the Apollo Software Manual._ 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0025-03.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0025-03--19c0c6e6f4ee9f24.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -930,7 +930,7 @@ Apollo x16 Hardware Manual
 27 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0028-00.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0028-00--6079eb78e66b5569.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -946,7 +946,7 @@ Apollo x16 Hardware Manual
 28 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0029-00.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0029-00--e376b6a39bfbdedd.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -962,7 +962,7 @@ Apollo x16 Hardware Manual
 ## **Hardware Block Diagram** 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0030-01.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0030-01--f658ac684e753795.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -984,7 +984,7 @@ Apollo x16’s analog I/O is accessed via 25-pin D-sub female connectors. Each D
 The pin numbers for female DB25 connectors are shown in the diagram below. When facing the Apollo x16 rear panel, pin 1 is the upper rightmost pin. 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0031-04.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0031-04--0fcc609a5bcd2801.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -1025,7 +1025,7 @@ Apollo x16 Hardware Manual
 If Apollo x16 isn’t behaving as expected, here are some common troubleshooting items to confirm. If you are still experiencing issues after performing these checks, contact Technical Support. 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0032-02.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0032-02--142c5de10106fa16.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -1069,7 +1069,7 @@ If you are having trouble with Apollo X, first check all system setups, connecti
 To learn about repair service, or for technical support, visit help.uaudio.com. 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0033-06.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0033-06--1bf1e00a0b1a0b8f.png>)
 
 
 ## **Maintenance** 
@@ -1087,7 +1087,7 @@ Apollo x16 Hardware Manual
 ## **Important Safety Information** 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0034-01.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0034-01--83086a1cb47fcf2a.png>)
 
 
 - Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions. 
@@ -1123,11 +1123,11 @@ Apollo x16 Hardware Manual
 ## **Description of symbols used** 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0034-18.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0034-18--dbd6a55f34353644.png>)
 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0034-19.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0034-19--8f7c3bd951721627.png>)
 
 
 The lightning flash represented by the arrow symbol in an equilateral triangle is intended to alert users to the presence of high voltage within the unit that could cause an electrical shock hazard. 
@@ -1237,7 +1237,7 @@ Universal Audio
 Technical Support 
 
 
-![](<Apollo x16 Hardware Manual _assets/Apollo_x16_Hardware_Manual_.pdf-0038-00.png>)
+![](<../../attachments/apollo-x16-hardware-manual-_assets--apollo_x16_hardware_manual_.pdf-0038-00--3e63dd8d2af86d2f.png>)
 
 
 www.uaudio.com 

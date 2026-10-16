@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/eog"
 ---
 
-![обложка|156](<Gāyatrī-Vyākhyā Explanation of Gāyatrī/обложка.jpeg>)
+![обложка|156](<../attachments/g%C4%81yatr%C4%AB-vy%C4%81khy%C4%81-explanation-of-g%C4%81yatr%C4%AB--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c1ae962aaa22ee64.jpeg>)
 
 Explanation of Gāyatrī Mantra from Agni Purāṇa, Chapter 216, By Jīva Gosvāmī
 

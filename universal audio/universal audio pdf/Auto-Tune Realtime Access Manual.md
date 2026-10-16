@@ -45,7 +45,7 @@ Contents
 ## **Introducing Auto-Tune Realtime Access** 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0003-03.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0003-03--ba47c02f58043998.png>)
 
 
 ## **What is Auto-Tune Realtime Access?** 
@@ -93,13 +93,13 @@ Contents
 ## **Controls** 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0005-03.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0005-03--e60c6dac4d9f7e3a.png>)
 
 
 ## **Key and Scale** 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0005-05.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0005-05--192eb681506cfdbe.png>)
 
 
 The Key and Scale parameters are used to define the set of notes that your audio will be tuned to. For best results, set them to match the actual key and scale of your music. 
@@ -115,7 +115,7 @@ Contents
 ## **Retune Speed** 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0006-03.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0006-03--62d55d6236d61632.png>)
 
 
 Set the Retune Speed to determine how quickly Auto-Tune Realtime Access tunes your audio to the target pitches. 
@@ -125,7 +125,7 @@ For a pronounced Auto-Tune Effect, set the Retune Speed to Fast. For more natura
 ## **Humanize** 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0006-07.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0006-07--92e999e329b75a97.png>)
 
 
 The Humanize function allows you to add realism to sustained notes by preserving subtle variations in pitch. 
@@ -135,7 +135,7 @@ Humanize applies a slower Retune Speed only during the sustained portion of long
 ## **Pitch Display and Pitch Change Meter** 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0006-11.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0006-11--220bfcc09c74a722.png>)
 
 
 ## **Pitch Display** 
@@ -159,25 +159,25 @@ Clicking and holding the word “Hold” will freeze both the Pitch Change Meter
 ## **Keyboard** 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0007-05.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0007-05--c903b97856ee128d.png>)
 
 
 The Keyboard displays the current detected pitch by highlighting it in blue, and also allows you to add and remove notes from the scale. 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0007-07.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0007-07--9769a667e1c432ce.png>)
 
 
 When a note on the Keyboard is On, it will appear white or black (depending on which note it is), and input pitches that are closest to that note will be tuned to it. 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0007-09.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0007-09--248bc2e44109bbe2.png>)
 
 
 When a note on the Keyboard is set to Off, it will appear grey, and any incoming pitches that are closest to that note will be tuned to the next closest scale note instead. 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0007-11.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0007-11--743aa06240414a97.png>)
 
 
 When a note on the Keyboard is displayed in blue, that indicates the current detected pitch. 
@@ -189,7 +189,7 @@ Contents
 ## **Preferences Button** 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0008-03.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0008-03--d627c51b6e19a36d.png>)
 
 
 The Preferences button opens the Preferences Window, where you can set default preferences. 
@@ -201,7 +201,7 @@ Contents
 ## **Preferences** 
 
 
-![](<Auto-Tune Realtime Access Manual_assets/Auto-Tune_Realtime_Access_Manual.pdf-0009-03.png>)
+![](<../../attachments/auto-tune-realtime-access-manual_assets--auto-tune_realtime_access_manual.pdf-0009-03--b0358840ef3fede6.png>)
 
 
 ## **Enable Auto-Key Detection** 

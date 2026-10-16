@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sanatana-bvt"
 ---
 
-![обложка|156](<Brhad-vaisnava-tosani/обложка.jpeg>)
+![обложка|156](<../attachments/brhad-vaisnava-tosani--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--57ddd7c3f657aed0.jpeg>)
 
 Bṛhat Vaiṣṇava Toṣaṇī was completed in Śakābda 1476. Sanātana Gosvāmī wrote this elaborate commentary on the Tenth Canto of Śrīmad-Bhāgavatam to explain in detail what Śrīdhara Svāmī covered briefly, and to give devotional meaning where Śrīdhara Svāmī gave brahma-vāda explanations. Sanātana's commentary shows great learning and deep devotion. It conveys the sweetness that Caitanya Mahāprabhu presented to the world.
 

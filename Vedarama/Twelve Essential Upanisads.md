@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/12eu"
 ---
 
-![обложка|156](<Twelve Essential Upanisads/обложка.jpeg>)
+![обложка|156](<../attachments/twelve-essential-upanisads--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--376e5011add8812b.jpeg>)
 
 # Twelve Essential Upanisads
 

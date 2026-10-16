@@ -27,11 +27,11 @@ In LUNA, you can use many of the same track controls in multiple views. 
 
 For example, audio tracks in the Timeline have the following controls in the Track Controls area.
 
-![timeline-track-controls.png](Working%20with%20Tracks_assets/96e2addec62ba2deaa4dcfc11a897ba2672a5da7.png)
+![timeline-track-controls.png](../../attachments/working-with-tracks_assets--96e2addec62ba2deaa4dcfc11a897ba2672a5da7--15a3cdabf2efbe19.png)
 
 Audio tracks in the Mixer and focused in the Timeline have the following controls.
 
-![mixer-focus-audio-track-controls.png](Working%20with%20Tracks_assets/28688b364896004afae337108ad90873e43cbc29.png) 
+![mixer-focus-audio-track-controls.png](../../attachments/working-with-tracks_assets--28688b364896004afae337108ad90873e43cbc29--28fb4cb193d6827e.png) 
 
 You can make many of the same adjustments in both views. In both Timeline and the Mixer/Focus channel, you can:
 
@@ -118,7 +118,7 @@ To adjust items on all tracks, Option+Click (macOS) or Alt+Click (Windows) the s
 
 You can deactivate tracks in LUNA. A deactivated track does not play back audio, and does not consume any CPU or DSP resources. You can deactivate audio, instrument and bus tracks. You cannot deactivate the Main track. You cannot change controls on a deactivated track. Deactivated tracks appear in the Timeline and Mixer view with diagonal marks through them to indicate that they are deactivated.
 
-![active-deactivated-timeline.png](Working%20with%20Tracks_assets/a0fa45f9a5fc868dd7a27f70df094de7ba2038d6.png)
+![active-deactivated-timeline.png](../../attachments/working-with-tracks_assets--a0fa45f9a5fc868dd7a27f70df094de7ba2038d6--23b2a6a313e9d7e3.png)
 
 ## Deactivate tracks
 

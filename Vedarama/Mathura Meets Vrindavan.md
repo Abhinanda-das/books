@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gourgovindasw-mmv"
 ---
 
-![обложка|156](<Mathura Meets Vrindavan/обложка.jpeg>)
+![обложка|156](<../attachments/mathura-meets-vrindavan--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8ec6c46f11a520de.jpeg>)
 
 A compendium of astonishing pastimes of Sri Krishna. The ecstatic love for Krishna possessed by the residents of Vrindavan far excels that found in any other place. When Krishna suddenly departed for Mathura he plunged the vrajavāsīs into an ocean of sorrow. What was Krishna’s purpose in leaving? What happened when his messenger Uddhava arrived in Vraja with a message of love? And, most of all, how is it that Krishna never leaves Vrindavan?
 

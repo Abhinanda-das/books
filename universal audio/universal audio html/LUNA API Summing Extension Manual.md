@@ -45,7 +45,7 @@ When audio sources flow through an API console — specifically the 2520 op-amp 
 
 UA dissected and studied multiple API consoles — pouring over original service manuals and gaining crucial insight into their discrete Class A operation and hybrid voltage/current summing circuitry — in contrast to the Neve 80 series pure current summing. UA's team of engineers throughly emulated all of the nonlinearities and clipping characteristics, plus API console fader taper and pan law, giving you the same chart-topping results as API's flagship consoles.
 
-![api-summing-overview.png](LUNA%20API%20Summing%20Extension%20Manual_assets/5d174c91f16c2f1c451416eb4d4c11e8aaae53f4.png)
+![api-summing-overview.png](../../attachments/luna-api-summing-extension-manual_assets--5d174c91f16c2f1c451416eb4d4c11e8aaae53f4--a42786f6cb02eaa9.png)
 
 # Get API Summing
 
@@ -60,7 +60,7 @@ API Summing imparts the sound and headroom characteristics of an API console bus
 - In the Input row of a bus or the Main track, click the Summing button, and choose API Summing.
 - If desired, set the controls for Headroom (HR) and Trim.
 
-![summing-select.png](LUNA%20API%20Summing%20Extension%20Manual_assets/94fed44ea11f872e951f4acce3bc7abdac0a6509.png)
+![summing-select.png](../../attachments/luna-api-summing-extension-manual_assets--94fed44ea11f872e951f4acce3bc7abdac0a6509--5481e26180a76010.png)
 
 To adjust controls on multiple tracks, select multiple tracks, then change the controls on one track. A Track Group (Command+G) or Selection Grouping (Track \> Selection Grouping, or Control+G) must be enabled to adjust API Summing settings on multiple tracks at one time.
 
@@ -102,7 +102,7 @@ When you change the summing model selection for a bus, the faders for the bus an
 
 **Note:** When you assign a bus to another bus, the taper of the source bus is retained and not overwritten by the summing model of the destination bus. 
 
-![summing-bus-source-track-taper.png](LUNA%20API%20Summing%20Extension%20Manual_assets/078f75ed3b8b9413a79ea7efe391780340b7effc.png)
+![summing-bus-source-track-taper.png](../../attachments/luna-api-summing-extension-manual_assets--078f75ed3b8b9413a79ea7efe391780340b7effc--ca28579d71bf0644.png)
 
 \
 \

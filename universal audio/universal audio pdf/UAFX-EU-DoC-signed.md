@@ -37,6 +37,6 @@ The technical documentation relevant to the above equipment will be held at:
 UNIVERSAL AUDIO, INC., 4585 SCOTTS VALLEY DRIVE, SCOTTS VALLEY, CA 95066 
 
 
-![](UAFX-EU-DoC-signed_assets/UAFX-EU-DoC-signed.pdf-0001-15.png)
+![](../../attachments/uafx-eu-doc-signed_assets--uafx-eu-doc-signed.pdf-0001-15--0e7a262f83ef5cb6.png)
 
 

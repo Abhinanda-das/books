@@ -12,7 +12,7 @@ word_count: 544
 The Meter Bridge (illustrated below) is always visible at the top of the UAD Console window. It displays all non-hidden input channels, signal activity at these inputs, and the Bank Bar, which is used to scroll inputs that are out of horizontal view.
 
 <figure class="wysiwyg-image">
-![meter-bridge-callouts.png](Meter%20Bridge_assets/26aa16b12cd903ee0d888a4c3f3f13efac9f42bd.png)
+![meter-bridge-callouts.png](../../attachments/meter-bridge_assets--26aa16b12cd903ee0d888a4c3f3f13efac9f42bd--16c92dc7b9e76514.png)
 </figure>
 
 *Meter Bridge elements*
@@ -38,7 +38,7 @@ The Bank Bar “floats” on top of all input channels in the Meter Bridge. The 
 The Current Bank is all input channels that are currently displayed in the main body of the UAD Console window (below the Meter Bridge) as shown in the illustration below. The Bank Bar only appears when the UAD Console window is too narrow to display all input channels. The gray Bank Bar is used to change the Current Bank.
 
 <figure class="wysiwyg-image">
-![bank-bar-visibility.png](Meter%20Bridge_assets/cb707bc00d649c7954d2ba5097e4d190ca6e6699.png)
+![bank-bar-visibility.png](../../attachments/meter-bridge_assets--cb707bc00d649c7954d2ba5097e4d190ca6e6699--3ac21de55e091393.png)
 </figure>
 
 *Slide the Bank Bar or use the methods below to bring other inputs into view*
@@ -58,7 +58,7 @@ Any of these methods can be used to change the channels within the Current Bank:
 # Meter Bridge Menu
 
 <figure class="wysiwyg-image">
-![meter-bridge-menu.png](Meter%20Bridge_assets/ecde9d8ed5ccb2b3ae5ade27bf9c3b5df8655fb2.png)
+![meter-bridge-menu.png](../../attachments/meter-bridge_assets--ecde9d8ed5ccb2b3ae5ade27bf9c3b5df8655fb2--fc8a4c9875931663.png)
 </figure>
 
 The Meter Bridge menu provides access to various functions related to the Meter Bridge. To view the menu, right-click or control-click within the Meter Bridge.
@@ -72,7 +72,7 @@ Shows or hides Apollo’s Device Name in the Meter Bridge. Device Names can be c
 This feature is intended primarily for use with multi-unit systems. When the Meter Bridge contains the inputs for more than one Apollo unit, this feature groups the input channels by device name for easier input identification.
 
 <figure class="wysiwyg-image">
-![device-names-shown-hidden.png](Meter%20Bridge_assets/1ed45d73d63b4670a32b9eac5b85ccd9564f235b.png)
+![device-names-shown-hidden.png](../../attachments/meter-bridge_assets--1ed45d73d63b4670a32b9eac5b85ccd9564f235b--36ffd0902ecf5bd0.png)
 </figure>
 
 ## Show/Hide Offline Devices

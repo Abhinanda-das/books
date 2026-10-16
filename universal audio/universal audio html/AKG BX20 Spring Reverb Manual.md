@@ -23,7 +23,7 @@ The AKG BX 20 Spring Reverb plug-in for UAD-2 hardware and Apollo interfaces is 
 
 - Mix with artist presets from Patrick Carney (The Black Keys), Vance Powell (Jack White), and Jacquire King (Kings of Leon)
 
-![](AKG%20BX20%20Spring%20Reverb%20Manual_assets/3160306134d82c0f69df8408b0bceab9ef605d0f.png)
+![](../../attachments/akg-bx20-spring-reverb-manual_assets--3160306134d82c0f69df8408b0bceab9ef605d0f--fce94fbe9aaf51e2.png)
 
 # Operational Overview
 
@@ -211,11 +211,11 @@ The power button determines whether the plug-in is active. When engaged, the Pow
 
 When the Power Lamp is illuminated, the reverberator is active. The Power Lamp flashes whenever the Tank Select or Decay controls are adjusted, indicating that a new impulse response is being loaded. After adjusting these controls, the Power Lamp remains solid again, indicating the new settings are active.
 
-![](AKG%20BX20%20Spring%20Reverb%20Manual_assets/311d517fed26ba1947ac1b48e96acf2ae0e7f669.png)
+![](../../attachments/akg-bx20-spring-reverb-manual_assets--311d517fed26ba1947ac1b48e96acf2ae0e7f669--0f9465ea9527e519.png)
 
-![](AKG%20BX20%20Spring%20Reverb%20Manual_assets/9cb7f894eb8f3328c9c7868945584db2e6abc750.png)
+![](../../attachments/akg-bx20-spring-reverb-manual_assets--9cb7f894eb8f3328c9c7868945584db2e6abc750--8ab66006209a5945.png)
 
-![](AKG%20BX20%20Spring%20Reverb%20Manual_assets/192cbb579cd99df8218f5d99bf6237779ebe2620.png)
+![](../../attachments/akg-bx20-spring-reverb-manual_assets--192cbb579cd99df8218f5d99bf6237779ebe2620--4b416a76e729470b.png)
 
  
 

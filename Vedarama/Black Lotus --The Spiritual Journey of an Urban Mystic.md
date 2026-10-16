@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btrthsw-bltsjoaum"
 ---
 
-![обложка|156](<Black Lotus --The Spiritual Journey of an Urban Mystic/обложка.jpeg>)
+![обложка|156](<../attachments/black-lotus---the-spiritual-journey-of-an-urban-mystic--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--eca9a5d136b58e1d.jpeg>)
 
 Black Lotus: The Spiritual Journey of an Urban Mystic explores the life and mission of His Holiness Bhakti Tirtha Swami, an African-American seeker who became one of the most influential spiritual leaders of the twentieth century. His story begins in a Cleveland ghetto and culminates in the spiritual world. Along the way, readers meet John Favors, known by family and friends as "Johnny Boy." A particularly gifted youth, he overcame numerous obstacles, including a speech impediment and impoverished conditions, to reveal his exceptional character, wisdom, and spirituality.
 

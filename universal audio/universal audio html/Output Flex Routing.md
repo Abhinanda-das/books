@@ -22,7 +22,7 @@ Multiple input signals cannot be merged to the same output(s) with Flex Routing 
 
 # Output Route Display
 
-![](Output%20Flex%20Routing_assets/0258213c96108464385286d86cc9fb73e7e0db01.png)
+![](../../attachments/output-flex-routing_assets--0258213c96108464385286d86cc9fb73e7e0db01--2f94e153e651a666.png)
 
 *Output route display*
 
@@ -32,7 +32,7 @@ The Output Route display is located above each channel’s main input mix contro
 
 The Flex Route Browser is where the hardware output assignment for the input channel can be changed.
 
-![](Output%20Flex%20Routing_assets/058a788cf295b140512b9df59c4b4777bed0aef5.png)
+![](../../attachments/output-flex-routing_assets--058a788cf295b140512b9df59c4b4777bed0aef5--06623bfe717c91fc.png)
 
 *The Flex Route Browser*
 
@@ -44,7 +44,7 @@ The Flex Route Browser is where the hardware output assignment for the input cha
 
 **Tip:** If an output does not appear in the window, the output is already in use by another input channel, cue output, or ALT output.
 
-![](Output%20Flex%20Routing_assets/e299651008d1b0cb9c83c9a6f1e4d600a25f3980.png)
+![](../../attachments/output-flex-routing_assets--e299651008d1b0cb9c83c9a6f1e4d600a25f3980--0d07cf635571f3bf.png)
 
 *Channel is routed to line output 7*
 

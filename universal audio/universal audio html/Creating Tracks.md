@@ -32,11 +32,11 @@ When you create tracks, you can choose the track type, stereo or mono format, th
 
 When you create a new track, a channel strip is also created. The new track appears in the Tracks browser, the Timeline, and the Mixer.
 
-  ![tracks-timeline.png](Creating%20Tracks_assets/138c17804a4e549c159de4513b3a83a83b5aaa7c.png)
+  ![tracks-timeline.png](../../attachments/creating-tracks_assets--138c17804a4e549c159de4513b3a83a83b5aaa7c--1548214596a27974.png)
 
 *Tracks in the Timeline*
 
-![tracks-mixer.png](Creating%20Tracks_assets/5127e61fdc98ab84d19e63c2172da6149554fb77.png)
+![tracks-mixer.png](../../attachments/creating-tracks_assets--5127e61fdc98ab84d19e63c2172da6149554fb77--7bc4625103c7c8b0.png)
 
 *Tracks in the Mixer*
 
@@ -49,7 +49,7 @@ You use audio tracks to record audio and to place imported audio files within a 
 ## Creating an empty audio track
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 33%;">
-![create-new-track.png](Creating%20Tracks_assets/a8a4a7e24ca16469c338f1696cf60c59123a6bba.png)
+![create-new-track.png](../../attachments/creating-tracks_assets--a8a4a7e24ca16469c338f1696cf60c59123a6bba--db382b5dcfff5ef3.png)
 </figure>
 
  
@@ -80,7 +80,7 @@ You can create a new track or tracks from one or more existing audio files with 
 
 ## Assigning inputs
 
-![input-record-controls.png](Creating%20Tracks_assets/5796e66362216169e5f03d9d2351a39ae45e02ff.png)
+![input-record-controls.png](../../attachments/creating-tracks_assets--5796e66362216169e5f03d9d2351a39ae45e02ff--6fd87748c68c95a0.png)
 
  
 
@@ -104,7 +104,7 @@ You can use instrument tracks to play audio from UAD instruments, a MIDI virtual
 ## Creating an empty instrument track
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 33%;">
-![create-new-instrument-track.png](Creating%20Tracks_assets/f111880ac3d13aff39de1d35dd14f81cd59417ca.png)
+![create-new-instrument-track.png](../../attachments/creating-tracks_assets--f111880ac3d13aff39de1d35dd14f81cd59417ca--d1fbb9fb8a92b2f7.png)
 </figure>
 
  
@@ -135,7 +135,7 @@ Dragging MIDI files to the Tracks Focus Browser or below the Timeline creates on
 
 **Note:** You will be prompted to either use the tempo from the MIDI file, or to adjust the MIDI file to the session tempo. 
 
-![import-tempo-midi.png](Creating%20Tracks_assets/26adb9a6458f5365b857d70b6e26c00d77885af0.png)
+![import-tempo-midi.png](../../attachments/creating-tracks_assets--26adb9a6458f5365b857d70b6e26c00d77885af0--045fd9992218e713.png)
 
 ------------------------------------------------------------------------
 
@@ -160,12 +160,12 @@ Use a bus:
     2.  Type Command+Shift+B (macOS) or Ctrl+Shift+B (Windows), or choose Mixing \> Create Bus from the LUNA menus. The Create Bus dialog opens.
 
         \
-        ![create-bus-dialog.png](Creating%20Tracks_assets/09b7c91b444f689f246869856107c01b05d4317d.png)
+        ![create-bus-dialog.png](../../attachments/creating-tracks_assets--09b7c91b444f689f246869856107c01b05d4317d--f0e0da29ba2f1abf.png)
 
     3.  Type a name for the bus.
 
     4.  In the Route From Selected pulldown, select the track source for the bus. For example, if you want to route the selected track outputs directly to the bus, select Output. To use a send to route the tracks to the bus, select a send.\
-        ![create-bus-new.png](Creating%20Tracks_assets/d6d0d5154a8ed2ea929c93c40a26938249d9da66.png)\
+        ![create-bus-new.png](../../attachments/creating-tracks_assets--d6d0d5154a8ed2ea929c93c40a26938249d9da66--7847c96d26961d46.png)\
          
 
     5.  To create a bus from a bus preset, select the preset from the Bus Presets list, then click Create.
@@ -183,10 +183,10 @@ Use a bus:
 #### To create a bus track on its own
 
 1.  In the Tracks browser, click the plus (+) next to Tracks.\
-    ![create-track-bus-menu.png](Creating%20Tracks_assets/b9f2f54d09eac2e440db6dfb3da8b4dbf87e2d68.png)\
+    ![create-track-bus-menu.png](../../attachments/creating-tracks_assets--b9f2f54d09eac2e440db6dfb3da8b4dbf87e2d68--0379f79ddf6a3808.png)\
      
 2.  From the Type list, select Bus.\
-    ![create-track-bus.png](Creating%20Tracks_assets/40170bdb48222578463bb1be1301c786d267c6aa.png)\
+    ![create-track-bus.png](../../attachments/creating-tracks_assets--40170bdb48222578463bb1be1301c786d267c6aa--0eb3df8d0802da3d.png)\
      
 3.  Select the number of buses to create and the format (Mono or Stereo), and type a name for the bus or buses.
 4.  If you have the optional Neve or API Summing LUNA Extension, you can select it here. You can enable or disable Neve Summing or API Summing after you create the bus or buses.
@@ -205,10 +205,10 @@ Once you have created a bus, you can route (send) audio to it. There are two met
 
 1.  Select the track or tracks you want to route directly to the bus. 
 2.  Click Out in the Timeline or the Output in the Mixer or on the Focus channel. The Output Focus Browser opens.\
-    ![track-outputs.png](Creating%20Tracks_assets/1014037953da6180196b346910a1ac06e46998fe.png)
+    ![track-outputs.png](../../attachments/creating-tracks_assets--1014037953da6180196b346910a1ac06e46998fe--92d6d62ff210c338.png)
 3.  Choose the bus to which you want to route the output of the track or tracks.\
     \
-    ![outputs-routed-to-bus.png](Creating%20Tracks_assets/96263a106c09876d3f842b1ae03df59f16754332.png)
+    ![outputs-routed-to-bus.png](../../attachments/creating-tracks_assets--96263a106c09876d3f842b1ae03df59f16754332--327e8cc95cd255cb.png)
 
  
 
@@ -219,13 +219,13 @@ The selected track or tracks are now routed to the bus outputs.The fader and pan
 1.  Select the track or tracks you want to send to the bus.
 2.  Click an available Send slot in the Mixer or on the Focus channel for a track. The Send Routing Focus Browser opens.\
     \
-    ![bus-single-routing-from-send.png](Creating%20Tracks_assets/cd64986f6b6934dbe5db8aba4a539f43ee027b7b.png)
+    ![bus-single-routing-from-send.png](../../attachments/creating-tracks_assets--cd64986f6b6934dbe5db8aba4a539f43ee027b7b--44a2aea6211ffdbe.png)
 3.  Select the destination bus for the send. Send destinations that you have previously created appear in the Focus Browser under Buses.
 4.  The selected track or track sends are now routed to the bus. 
 
 When a send is routed to a single bus, the destination bus name is listed in the Sends mixer row.
 
-![sends-row-single-bus-routing.png](Creating%20Tracks_assets/37ea084fe072a33115db06d1992f6407b2c2c370.png)
+![sends-row-single-bus-routing.png](../../attachments/creating-tracks_assets--37ea084fe072a33115db06d1992f6407b2c2c370--57ede3b818e8dda6.png)
 
  
 
@@ -235,12 +235,12 @@ When a send is routed to a single bus, the destination bus name is listed in the
 2.  Click an available Send slot in the Mixer or on the Focus channel for a track. The Send Routing Focus Browser opens.
 3.  Command-click multiple non-contiguous destination buses to route the audio to those sends. Send destinations that you have previously created appear in the Focus Browser under Buses.\
     \
-    ![bus-multiple-routing-from-send.png](Creating%20Tracks_assets/99fcf2704c88188d910abca94d798cc2a5364499.png)
+    ![bus-multiple-routing-from-send.png](../../attachments/creating-tracks_assets--99fcf2704c88188d910abca94d798cc2a5364499--05cb19be32e23ef8.png)
 4.  The selected track or track sends are now routed to the selected buses.
 
 When a send is routed to multiple buses, the destination in the Sends mixer row is listed as Multiple.
 
-![sends-row-multiple-routing.png](Creating%20Tracks_assets/00d29dcac060401672370a5e6619cbbfcde8eb3e.png)
+![sends-row-multiple-routing.png](../../attachments/creating-tracks_assets--00d29dcac060401672370a5e6619cbbfcde8eb3e--657fa5c6ebe3b914.png)
 
 ## Controlling send audio levels and panning
 

@@ -9,7 +9,7 @@ word_count: 3953
 1 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0001-01.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0001-01--0e108b4f002b8e33.png>)
 
 
 ## **Introduction** 
@@ -31,7 +31,7 @@ In a marriage between hardware modeling know-how and Universal Audio’s Unison 
 33 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0004-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0004-00--2dbc84f8dc3a309f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -77,7 +77,7 @@ You can use the amp section of this plugin exactly like you would operate the re
 4 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0005-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0005-00--b83b51a6650668d3.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -107,7 +107,7 @@ circuit behaviors of the real amp, you need an Apollo interface. In order to do 
 5 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0006-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0006-00--c02ef295c084df62.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -131,7 +131,7 @@ If you insert the GK800RB plugin in the Console software mixer (to use the plugi
 6 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0007-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0007-00--8683e3e6a08b73e1.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -183,7 +183,7 @@ This switch engages the boost section, which applies gain to the post-EQ signal,
 7 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0008-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0008-00--827799156355b75f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -233,7 +233,7 @@ This is the main master control. Its effect is applied to the combined output of
 8 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0009-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0009-00--3cc7b9303b2e565c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -275,7 +275,7 @@ If you want to drive the input of the GK preamp harder or softer you may adjust 
 9 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0010-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0010-00--793e614b6a3accf4.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -297,7 +297,7 @@ Brainworx Studio in Germany (www.brainworx- studio.de) is equipped with one of o
 10 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0011-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0011-00--69d7c8ea55728272.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -339,7 +339,7 @@ This feature allows you to independently isolate and audition the 100W and 300W 
 11 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0012-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0012-00--bf34ba4c9f91c216.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -385,7 +385,7 @@ For this reason, the GK800RB offers you Auto mode: Just select a pattern (1 Bar,
 **5** 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0013-05.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0013-05--8247e4709f927b01.png>)
 
 
 ## ~~**Top Toolbar**~~ 
@@ -427,7 +427,7 @@ Information about the development of the plugin.
 13 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0014-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0014-00--5ab402ed5f9e42ae.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -459,11 +459,11 @@ When you start to create your own sounds the most important elements to adjust a
 14 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0015-00.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0015-00--eb50cae3ae17fabe.png>)
 
 
 
-![](<Gallien Krueger 800RB Manual_assets/Gallien_Krueger_800RB_Manual.pdf-0015-01.png>)
+![](<../../attachments/gallien-krueger-800rb-manual_assets--gallien_krueger_800rb_manual.pdf-0015-01--de2e854e29b1badc.png>)
 
 
 Plug in, Rock out!   - **www.brainworx-music.de** 

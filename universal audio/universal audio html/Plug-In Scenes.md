@@ -23,11 +23,11 @@ The main feature of Plug-In Scenes is the ability to recall plug-in settings qui
 
 When you save a Plug-In Scene, plug-ins that are included in the scene are highlighted with a pink bar under the plug-in icon or nameplate.
 
-![](Plug-In%20Scenes_assets/8cee70e610ca636a9f4e452cf8cdbfbe73030423.png)
+![](../../attachments/plug-in-scenes_assets--8cee70e610ca636a9f4e452cf8cdbfbe73030423--0233d0d8696d3c39.png)
 
 *Plug-ins without Plug-In-Scenes enabled*
 
-![](Plug-In%20Scenes_assets/fa67ba0c5d67e73a51340699be55ff879bdb74e1.png)
+![](../../attachments/plug-in-scenes_assets--fa67ba0c5d67e73a51340699be55ff879bdb74e1--d49f39873907fe69.png)
 
 *Plug-ins with Plug-In-Scenes enabled*
 
@@ -56,11 +56,11 @@ Plug-In Scenes recall settings within plug-ins. The following items can be saved
 There are four ways to show the Plug-In Scenes browser.
 
 - Click the PLUG-IN SCENES switch to toggle the Plug-In Scenes browser. Plug-In Scenes are visible when the switch is illuminated. The PLUG-IN SCENES switch is only visible when the Mixer Navigation section is visible (View \> Section \> Mixer Navigation)\
-  ![](Plug-In%20Scenes_assets/413f894210cadc1ce9a4fd6354d02f37b80e8a81.png)
+  ![](../../attachments/plug-in-scenes_assets--413f894210cadc1ce9a4fd6354d02f37b80e8a81--2fd767ec52532ca2.png)
 - Choose View \> Section \> Plug-In Scenes from the UAD Console menus
 - Press Command + E (macOS) or Ctrl + E (Windows) to toggle the Plug-In Scenes browser
 - Click the SCENE area in the info bar at the bottom of the UAD Console screen to toggle the Plug-In Scenes browser\
-  ![](Plug-In%20Scenes_assets/44328ea2e78d552554d88a009a7127ac1e218b5d.png)
+  ![](../../attachments/plug-in-scenes_assets--44328ea2e78d552554d88a009a7127ac1e218b5d--35745b226185da31.png)
 
  
 
@@ -72,7 +72,7 @@ There are four ways to show the Plug-In Scenes browser.
 
 Plug-in Scenes initially appear as a list of empty scenes in the Plug-In Scenes browser.
 
-![](Plug-In%20Scenes_assets/6a156c162e13c97b639c99002c65514ccaeba0f9.png)
+![](../../attachments/plug-in-scenes_assets--6a156c162e13c97b639c99002c65514ccaeba0f9--54c39fa95e150283.png)
 
  
 
@@ -80,11 +80,11 @@ Plug-in Scenes initially appear as a list of empty scenes in the Plug-In Scenes 
 
 After you have added the plug-ins you want in your Plug-In Scene configuration, save the first scene. Click on an empty scene, then click Save, or press Option+Command+S (macOS) or Alt+Ctrl+S (Windows). The scene is saved with the name Scene \#\[number\]. 
 
-![](Plug-In%20Scenes_assets/9d5e5786205ef54ed1e742fd949d26545ececbb6.png)
+![](../../attachments/plug-in-scenes_assets--9d5e5786205ef54ed1e742fd949d26545ececbb6--c3a8ebabfde9d49a.png)
 
 The plug-ins that are included in the Plug-In Scene are indicated with pink highlights below the insert plates.
 
-![](Plug-In%20Scenes_assets/f967f569954167b123cab5fb81ad33645e6aef68.png)
+![](../../attachments/plug-in-scenes_assets--f967f569954167b123cab5fb81ad33645e6aef68--4dc85d9fcef3a10e.png)
 
 As you make changes to plug-in settings for different audio scenarios, save those changes in other Plug-In Scenes. When you have made changes to plug-in settings within a Plug-In Scene, the Scene name is italicized and prefixed with an asterisk (\*). 
 
@@ -128,7 +128,7 @@ Clear a Plug-In Scene to remove any plug-in parameters from that scene, and set 
 
 When you save a Plug-In Scene, all currently instantiated plug-ins are saved in that Plug-In Scene. 
 
-![](Plug-In%20Scenes_assets/f967f569954167b123cab5fb81ad33645e6aef68.png)
+![](../../attachments/plug-in-scenes_assets--f967f569954167b123cab5fb81ad33645e6aef68--4dc85d9fcef3a10e.png)
 
 *Plug-ins saved in a Plug-In Scene*
 
@@ -138,7 +138,7 @@ When you add a plug-in to UAD Console after a Plug-In Scene is saved, the new pl
 
 **Important:** You must re-save every Plug-In Scene in which you want to include the added plug-in. Otherwise, the plug-in retains only the settings from the last Plug-In Scene in which it was recalled, or its static settings if it is never saved in a Plug-In Scene. 
 
-![](Plug-In%20Scenes_assets/d9ca5698617a73f90fe1af5cc5f1e8bd6db04ddb.png)
+![](../../attachments/plug-in-scenes_assets--d9ca5698617a73f90fe1af5cc5f1e8bd6db04ddb--c8c9dbf13a5ff4a8.png)
 
 *Mixed saved and not saved plug-ins in a Plug-In Scene *
 
@@ -148,7 +148,7 @@ When you remove a plug-in after a Plug-In Scene is saved, that plug-in is remove
 
 **Note:** The Plug-In Scene continues to recall plug-in parameter changes for any remaining plug-ins. Deleting one or more plug-ins from a Plug-In Scene does not clear the Plug-In Scene.
 
-![](Plug-In%20Scenes_assets/ddd11b65ade1f8476fff2b19b6a561ffd694a7a5.png)
+![](../../attachments/plug-in-scenes_assets--ddd11b65ade1f8476fff2b19b6a561ffd694a7a5--05b14e6171a7cf2e.png)
 
  
 
@@ -180,7 +180,7 @@ The new Plug-In Scene is loaded and your plug-in settings are applied, and the P
 
 You can use the up/down arrow keys on the keyboard, or the up/down buttons on the Plug-In Scene browser, to navigate through the list of Plug-In Scenes.
 
-![](Plug-In%20Scenes_assets/2678a89ee3789f404a9bc29cd310fa89aea3ae8d.png)
+![](../../attachments/plug-in-scenes_assets--2678a89ee3789f404a9bc29cd310fa89aea3ae8d--421df43a6b425aaa.png)
 
 ## Recalling Plug-In Scenes with MIDI
 
@@ -192,9 +192,9 @@ You can recall Plug-In Scenes with MIDI messages. When recalling a Plug-In Scene
 2.  In UAD Console, click the Settings button to open the Settings window, then click the MIDI tab.
 3.  From the Device list, select the desired MIDI device that will send Plug-In Scene changes. 
 4.  To change the MIDI channel on which MIDI events are sent, type a value in the PLUG-IN SCENES CHANNEL field, then press Enter or Return.\
-    ![](Plug-In%20Scenes_assets/41ffbcded43b1b1af3f389cf8cbfbc4e99adcddc.png)
+    ![](../../attachments/plug-in-scenes_assets--41ffbcded43b1b1af3f389cf8cbfbc4e99adcddc--c75498800e4673c2.png)
 5.  Select the event that will change Plug-In Scenes from the PLUG-IN SCENES EVENT list. If you select Note and you are using the same MIDI channel for Plug-In Scene Changes as for Tap Tempo Events, a warning message appears.\
-    ![](Plug-In%20Scenes_assets/1aeb025d873c729132ae2b9dd231730e10d1a616.png)
+    ![](../../attachments/plug-in-scenes_assets--1aeb025d873c729132ae2b9dd231730e10d1a616--e76cb25f56e49df3.png)
 
  
 

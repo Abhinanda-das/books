@@ -47,7 +47,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--d0440700c8cfd4a8.png)
 </figure>
 
 Bill Putnam Jr.
@@ -60,7 +60,7 @@ Bill Putnam Jr.
 
 # OX Stomp Quick Start
 
-![ox-stomp-qs@4x.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/7ab363a264cf2205b3882095c95f4dc32ee22df8.png)
+![ox-stomp-qs@4x.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--7ab363a264cf2205b3882095c95f4dc32ee22df8--0d64bf1db5564ada.png)
 
 [**Download OX Stomp Quick Start Sheet**](https://help.uaudio.com/hc/en-us/articles/360058186352)
 
@@ -186,7 +186,7 @@ You can use OX Stomp with an amp emulator and full range speakers, such as studi
 - Connect one or more outputs from your amp emulator to the OX Stomp inputs.
 - Connect one or both outputs from OX Stomp to your full range speakers.
 
-![ox-stomp-mono-stereo-full-range-connect.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/4bf30d4601147c15c81a4bbd4da66157a8f2f13c.png)
+![ox-stomp-mono-stereo-full-range-connect.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--4bf30d4601147c15c81a4bbd4da66157a8f2f13c--35e10e6032c5b3bf.png)
 
  
 
@@ -201,7 +201,7 @@ You can use OX Stomp with an amp emulator and a mono audio interface, for record
 - Connect one output from your amp emulator to the OX Stomp 1/MONO input.
 - Connect the 1/MONO output from OX Stomp to your audio interface input.
 
-![uafx-ox-stomp-mono-audio-interface.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/60afc2b2936ad849810f4878da9282aab1a63f2d.png)
+![uafx-ox-stomp-mono-audio-interface.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--60afc2b2936ad849810f4878da9282aab1a63f2d--1cdbcb12bd69ed8b.png)
 
  
 
@@ -214,7 +214,7 @@ You can use OX Stomp with an amp emulator and a stereo audio interface, for reco
 - Connect one or more outputs from your amp emulator to the OX Stomp inputs.
 - Connect both outputs from OX Stomp to your audio interface inputs.
 
-![uafx-ox-stomp-stereo-audio-interface.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/efd1757886c08805e5e89d8adab1c0e8fc5a1f1b.png)
+![uafx-ox-stomp-stereo-audio-interface.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--efd1757886c08805e5e89d8adab1c0e8fc5a1f1b--c5cc4d5671b5a553.png)
 
  
 
@@ -232,7 +232,7 @@ The advantage of this connection setup is that you don't have to configure any s
 - Connect the other output from your amp emulator to the OX Stomp 1/MONO input.
 - Connect one or both outputs from OX Stomp to the mixer or front of house.
 
-![ox-stomp-amp-and-amp-emulator.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/74c88ae8220faff90432e9ec2723d6d9e0a319a3.png)
+![ox-stomp-amp-and-amp-emulator.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--74c88ae8220faff90432e9ec2723d6d9e0a319a3--d3a58490359fa880.png)
 
  
 
@@ -250,7 +250,7 @@ The advantage of this connection setup is that you can use the OX Stomp effects 
 - Connect output 2 from OX Stomp to the mixer.\
   **Important:** In the Rig, configure the other mic (instead of the Direct Box) hard-panned to the right.
 
-![ox-stomp-split-amp-foh.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/1eec0c0ae2489863883d5ea8981831bd5aef660c.png)
+![ox-stomp-split-amp-foh.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--1eec0c0ae2489863883d5ea8981831bd5aef660c--d3f64177b623b770.png)
 
  
 
@@ -266,7 +266,7 @@ An OX Stomp Rig is a complete sound with cabinet, mics, room ambience, and multi
 
 OX Stomp's knobs and switches control the Rig that is currently active. OX Stomp can load six Rigs with the Rig knob. Rigs can also be recalled from the footswitches, and assigned to an active footswitch position with the Rig knob or the UAFX Control app. OX Stomp automatically remembers the Rig and footswitch mappings. On the Rigs screen, you can choose a Rig to load into the currently active Rig slot on the Rig Assignments screen.
 
-![ox-assignments-overview.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/96ee230bc5e0784dfdc2425d9917bf0c716cae47.png)
+![ox-assignments-overview.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--96ee230bc5e0784dfdc2425d9917bf0c716cae47--9525a81f234784da.png)
 
 You can make changes to an active Rig using the knobs and switches. To save your changes on the fly, press and hold the footswitch. Rigs saved this way are saved in a modified state; you can permanently save these Rigs in the UAFX Control App. For more information on saving OX Stomp Rigs, [go here](#h_01HB77FXEW2GKN0W6GD3R16H5V). You can also make deeper changes to a Rig using the UAFX Control app.
 
@@ -395,13 +395,13 @@ This section describes how to operate the UAFX Control app functions that are un
 
 To select a footswitch mode, first tap Settings at the bottom of the screen. Then tap the current footswitch mode (colored bar) and choose a mode from the drop menu.
 
-![ox-stomp-fs-modes.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/9ff313e620ab74eda9755aded769bce40d3f9ce1.png)
+![ox-stomp-fs-modes.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--9ff313e620ab74eda9755aded769bce40d3f9ce1--8fb74698bba6681f.png)
 
 The following OX Stomp footswitch modes can be selected.
 
 ### A \| B
 
-![ox-stomp-fs-mode-ab.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/db253f15d8448bbc1f3263c61588c08eccca51e5.png)
+![ox-stomp-fs-mode-ab.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--db253f15d8448bbc1f3263c61588c08eccca51e5--f958411bb6bbf1e6.png)
 
 - Left Footswitch toggles Rig A on/off
 - Right Footswitch toggles Rig B on/off
@@ -409,7 +409,7 @@ The following OX Stomp footswitch modes can be selected.
 
 ### Delay \| Reverb
 
-![ox-stomp-fs-mode-delay-reverb.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/e90c7c266d3ed3d344526e1325eb6e5ecf9bfec7.png)
+![ox-stomp-fs-mode-delay-reverb.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--e90c7c266d3ed3d344526e1325eb6e5ecf9bfec7--10d4f6b5429c2271.png)
 
 - Left Footswitch toggles Delay on/off
 - Right Footswitch toggles Reverb on/off
@@ -418,7 +418,7 @@ The following OX Stomp footswitch modes can be selected.
 
 ### A / B \| C / D
 
-![ox-stomp-fs-mode-abcd.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/7debad3e248010ea0f86af5834c3591537908328.png)
+![ox-stomp-fs-mode-abcd.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--7debad3e248010ea0f86af5834c3591537908328--249553254cb8c66b.png)
 
 - Left Footswitch toggles Between Rig A or Rig B
 - Right Footswitch toggles between Rig C or Rig D
@@ -426,7 +426,7 @@ The following OX Stomp footswitch modes can be selected.
 
 ### A / B \| Delay
 
-![ox-stomp-fs-mode-ab-delay.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/49f4200bfbdd6b477e72d736c8b4fdd8adcfcb13.png)
+![ox-stomp-fs-mode-ab-delay.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--49f4200bfbdd6b477e72d736c8b4fdd8adcfcb13--91e39038d8b96486.png)
 
 - Left Footswitch toggles Between Rig A or Rig B
 - Right Footswitch toggles Delay on/off
@@ -435,7 +435,7 @@ The following OX Stomp footswitch modes can be selected.
 
 ### A / B \| Reverb
 
-![ox-stomp-fs-mode-ab-reverb.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/bbcc8d72172c4ea2246a937915083cb71bfdc779.png)
+![ox-stomp-fs-mode-ab-reverb.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--bbcc8d72172c4ea2246a937915083cb71bfdc779--ad89bc50c19d1d47.png)
 
 - Left Footswitch toggles Between Rig A or Rig B
 - Right Footswitch toggles Reverb on/off
@@ -444,7 +444,7 @@ The following OX Stomp footswitch modes can be selected.
 
 ### A / B \| Effects
 
-![ox-stomp-fs-mode-ab-fx.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/61135d19953f57d8159cb2cbd8f769e796faac6e.png)
+![ox-stomp-fs-mode-ab-fx.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--61135d19953f57d8159cb2cbd8f769e796faac6e--e2626e80bb1a253e.png)
 
 - Left Footswitch toggles Between Rig A or Rig B
 - Right Footswitch toggles Reverb and Delay effect states (if Reverb/Delay are currently off, they are toggled on, and vice versa)
@@ -458,17 +458,17 @@ The following OX Stomp footswitch modes can be selected.
 
 Different Rigs can be assigned to the Rig knob positions so they can be accessed from the Rig knob or footswitches on the pedal hardware.
 
-![rig-assign-screen-callouts.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/4d805b3ce5a683b493103a05da36a3b6aa058566.png)
+![rig-assign-screen-callouts.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--4d805b3ce5a683b493103a05da36a3b6aa058566--b55cee561c16a975.png)
 
 ### Assign a Rig to the Rig Knob
 
 1.  The Rig Assignments screen opens automatically when you open OX Stomp in UAFX Control. If the Rig Assignments screen is not open, tap Assign at the bottom of the screen.
 2.  To assign a different Rig to a knob position, tap the arrow to the right of the Rig name. The Rigs screen opens.\
-    ![ox-stomp-rigs.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/b356973190c6ea4f2c2a7db8ee5a17a57054565c.png)
+    ![ox-stomp-rigs.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--b356973190c6ea4f2c2a7db8ee5a17a57054565c--08bb9c2777e27ebe.png)
 3.  Select a Rig to assign it to this knob location. Tap User, Factory, or Favorite to open those lists.
 4.  Tap the Rig assignment number at the top left of the screen, or Assign at the bottom left of the screen to return to the Rig Assignment screen.
 
-![ox-stomp-rig-assignments-screen.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/c1e747ae369903f5754661cd46f43de37996866b.png)
+![ox-stomp-rig-assignments-screen.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--c1e747ae369903f5754661cd46f43de37996866b--d2274ab6e088495d.png)
 
 ### Assign a Rig to a footswitch
 
@@ -477,7 +477,7 @@ You can assign Rigs to footswitches in any of the Rig selection footswitch state
 1.  The Rig Assignments screen opens automatically when you open OX Stomp in UAFX Control. If the Rig Assignments screen is not open, tap Assign at the bottom of the screen.
 2.  Select the footswitch location to which you want to assign the Rig. You can do this by tapping the footswitches on OX Stomp hardware until the correct color (red or green) is lit. See [Setting OX Stomp footswitch modes](#h_01HB77FXEWXAV187Q0Y47N7ATP) for more information.
 3.  On the Rig Assignments screen, tap the arrow to the right of the Rig name. The Rigs screen opens.\
-    ![ox-stomp-rigs.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/b356973190c6ea4f2c2a7db8ee5a17a57054565c.png)
+    ![ox-stomp-rigs.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--b356973190c6ea4f2c2a7db8ee5a17a57054565c--08bb9c2777e27ebe.png)
 4.  Select a Rig to assign to this footswitch location. Tap User, Factory, or Favorite to open those lists.
 5.  Tap the Rig assignment number at the top left of the screen, or Assign at the bottom left of the screen to return to the Rig Assignment screen.
 
@@ -487,7 +487,7 @@ The current Rig footswitch assignment is indicated with an A/B/C/D icon under th
 
 You can temporarily store Rig changes with the footswitches. You can permanently store Rigs using the UAFX Control app. Rigs that are stored with the footswitches, but not permanently saved, appear with the word EDITED in a brown highlight in UAFX Control. Rigs that are edited with UAFX Control, and not saved, appear with the word EDITED in a red highlight.
 
-![ox-stomp-edit-states.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/a810d0733c7673cffded4c80ffeaab048c1a7770.png)
+![ox-stomp-edit-states.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--a810d0733c7673cffded4c80ffeaab048c1a7770--ac13fde70ba5a2e1.png)
 
 ### Save a Rig temporarily with the footswitches
 
@@ -543,11 +543,11 @@ To open the Rigs screen, first tap your pedal's tile on the app's initial view. 
 
 The Rig Assignments screen shows the six Rigs that are assigned to the Rig knob on the pedal hardware. It also indicates the footswitches to which the Rigs are assigned (except in Reverb \| Delay footswitch mode). 
 
-![rig-assign-screen-callouts.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/4d805b3ce5a683b493103a05da36a3b6aa058566.png)
+![rig-assign-screen-callouts.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--4d805b3ce5a683b493103a05da36a3b6aa058566--b55cee561c16a975.png)
 
 Tap the selection triangle to the right of any Rig to open the Rigs screen. 
 
-![ox-stomp-rigs.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/b356973190c6ea4f2c2a7db8ee5a17a57054565c.png)
+![ox-stomp-rigs.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--b356973190c6ea4f2c2a7db8ee5a17a57054565c--08bb9c2777e27ebe.png)
 
 **Important Backup Notes**
 
@@ -558,7 +558,7 @@ Tap the selection triangle to the right of any Rig to open the Rigs screen. 
 
 You can temporarily store Rig changes with the footswitches. You can permanently store Rigs using the UAFX Control app. Rigs that are stored with the footswitches, but not permanently saved, appear with the word Edited in a brown highlight in the UAFX Control app. Rigs that are edited with the UAFX Control app, and not saved, appear with the word Edited in a red highlight.
 
-![ox-stomp-edit-states.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/a810d0733c7673cffded4c80ffeaab048c1a7770.png)
+![ox-stomp-edit-states.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--a810d0733c7673cffded4c80ffeaab048c1a7770--ac13fde70ba5a2e1.png)
 
 #### Save a Rig temporarily with the footswitches
 
@@ -608,13 +608,13 @@ On the User or Factory Rigs screen, swipe a Rig to the right to make it a favori
 
 **Tip:** You can also favorite a Rig by opening Rig options, then tapping Favorite.
 
-![ox-stomp-favorite.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/538eda2f0cbc28ccb6815b7330a2fee909e919c8.png)
+![ox-stomp-favorite.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--538eda2f0cbc28ccb6815b7330a2fee909e919c8--45528c62a3e49cf9.png)
 
 ## To delete a Rig
 
 - Swipe a user Rig the left to delete, then tap the X. You cannot delete a factory Rig. 
 
-![ox-stomp-delete-rig.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/960ea2e3a5c4b1c67712067738b7013d9cddce65.png)
+![ox-stomp-delete-rig.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--960ea2e3a5c4b1c67712067738b7013d9cddce65--7eab7a3f05ceb615.png)
 
 ## To store a Rig
 
@@ -623,13 +623,13 @@ To store a Rig on the pedal, hold down the active Rig footswitch on the pedal un
 ## Rig options
 
 - Tap ••• next to the active Rig to open the Rig options.\
-  ![ox-stomp-rig-options.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/b1e102de34c25aaec601079e7e5fffbe8c6b48a6.png)\
+  ![ox-stomp-rig-options.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--b1e102de34c25aaec601079e7e5fffbe8c6b48a6--37cf0cf73ff2b8c5.png)\
    
 - To change the name of the Rig, tap the pencil next to the name, and type the name for the preset, then tap Save. Note that factory Rigs cannot be renamed.
 - To favorite or unfavorite a Rig, tap Favorite or Unfavorite.
 - After you load a Rig, you can edit it by changing the knob and switch settings, or by editing in the UAFX Control app. When a preset has been changed, the EDITED label appears next to the name in the preset list. EDITED appears in a brown highlight when changes have been saved with the footswitches. EDITED appears in a red highlight when changes have been made in the app, and have not been saved. \
   \
-  ![ox-stomp-edit-states.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/a810d0733c7673cffded4c80ffeaab048c1a7770.png)\
+  ![ox-stomp-edit-states.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--a810d0733c7673cffded4c80ffeaab048c1a7770--ac13fde70ba5a2e1.png)\
    
 - To save a Rig, tap Save.
 - To save a copy of the Rig, tap Save A Copy. A Rig with the same name, and "Copy" appended, is saved to the top of the User list.
@@ -693,7 +693,7 @@ Select the OX Stomp cabinet under the Cabinet section. When you select a Cabinet
 - To switch between cabinets with one, two or four speakers, tap the icon for each configuration at the top right of the Cabinet section.
 - Swipe left and right on the Cabinets to see the full list.
 
-![ox-stomp-edit-cabs.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/0c68daa8bb12219f0d0012e1e3e10adc382d4fcc.png)
+![ox-stomp-edit-cabs.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--0c68daa8bb12219f0d0012e1e3e10adc382d4fcc--7aaae22ba3b3102c.png)
 
 ## Adjust mic characteristics
 
@@ -702,7 +702,7 @@ Select the OX Stomp mics under the Mic 1 and Mic 2 section. When you select a ne
 1.  Tap a mic to select it.
 2.  Swipe left and right on the mics to see the full list.
 3.  Tap the selection triangle at the right of the mic label to expand the mic settings.\
-    ![ox-stomp-edit-mic-settings.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/39f9f36eb3bfb1d7936dfe0d341f29e21a8fa2cb.png)
+    ![ox-stomp-edit-mic-settings.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--39f9f36eb3bfb1d7936dfe0d341f29e21a8fa2cb--5d49c5e89c3d88d3.png)
 4.  Enable or mute the mic with the button next to the Mic name (Mic 1 or Mic 2). The mic is enabled when the button is highlighted.\
     **Note:** Some factory Rigs include a mic that is muted.
 5.  Adjust the mic level with the Level slider. You can also adjust the mic level with the Mic 1 or Mic 2 knob on the OX Stomp hardware.
@@ -714,13 +714,13 @@ Select the OX Stomp mics under the Mic 1 and Mic 2 section. When you select a ne
 
 1.  Enable or disable the EQ for a mic by highlighting or clearing the Mic 1/2 EQ button.
 2.  Tap the selection triangle at the right of the EQ label to expand the EQ sliders.\
-    ![ox-stomp-edit-mic-eq.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/223389a6d06a2f7c0f7e679ef0b2b92d3c9ffb56.png)
+    ![ox-stomp-edit-mic-eq.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--223389a6d06a2f7c0f7e679ef0b2b92d3c9ffb56--1658f597da29ac1e.png)
 3.  Adjust the boost/cut for each EQ band with the sliders.
 4.  Adjust the high cut and low cut filters with the sliders.
 
 **Note:** EQ bands can be enabled or disabled. A disabled EQ band has a grayed-out label, and an enabled EQ band has a brown label. To enable or disable an EQ band, tap the band label.
 
-![eq-enable-disable.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/eafa4fdd8f828f928d68e7015397cad932710fa4.png)
+![eq-enable-disable.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--eafa4fdd8f828f928d68e7015397cad932710fa4--c20668639fd8850d.png)
 
  
 
@@ -731,7 +731,7 @@ You can include room tone in your Rig to increase the sense of space and dimensi
 1.  Tap a room mic or room mic pair to select it.
 2.  Swipe left and right on the mics to see the full list.
 3.  Tap the selection triangle at the right of the room mic label to open the room mic settings.\
-    ![ox-stomp-edit-room-mics.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/6be2cbc3d1e6267834d5be5c6ed5d704dca239ce.png)
+    ![ox-stomp-edit-room-mics.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--6be2cbc3d1e6267834d5be5c6ed5d704dca239ce--892ac4e9eb2581a3.png)
 4.  Adjust the room mic level with the Level slider.
 5.  Adjust the panning of the room mic(s) with the Pan slider.
 6.  To apply a low cut, tap the Low Cut button.
@@ -749,7 +749,7 @@ To adjust Rig level:
 - Scroll down to see the Master section.
 - Adjust the overall output volume with the Output slider in the UAFX Control app, or with the Output knob on the OX Stomp hardware.
 
-![ox-stomp-edit-master-section.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/1619631279eef06ce6457426a68659995f235393.png)
+![ox-stomp-edit-master-section.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--1619631279eef06ce6457426a68659995f235393--2aed2b70e891e235.png)
 
  
 
@@ -762,11 +762,11 @@ The Master EQ applies equalization to the overall Rig.
 3.  Adjust the boost/cut for each EQ band with the sliders.
 4.  Adjust the high cut and low cut filters with the sliders.
 
-![ox-stomp-edit-master-eq.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/3deb750410f7ad952ae1fe0724412a5c81f7af22.png)
+![ox-stomp-edit-master-eq.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--3deb750410f7ad952ae1fe0724412a5c81f7af22--f87aaa755fbbba36.png)
 
 **Note:** EQ bands can be enabled or disabled. A disabled EQ band has a grayed-out label, and an enabled EQ band has a brown label. To enable or disable an EQ band, tap the band label.
 
-![eq-enable-disable.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/eafa4fdd8f828f928d68e7015397cad932710fa4.png)
+![eq-enable-disable.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--eafa4fdd8f828f928d68e7015397cad932710fa4--c20668639fd8850d.png)
 
  
 
@@ -779,7 +779,7 @@ Enable the 1176 compressor on the overall Rig to smooth out the sound or to add 
 3.  Adjust the settings for Input, Output, Attack, and Release with the sliders.
 4.  Set the Ratio by tapping the ratio.
 
-![ox-stomp-edit-compressor.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/201822d1af82c0f1517b39f69aa6e1c7f38eca2b.png)
+![ox-stomp-edit-compressor.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--201822d1af82c0f1517b39f69aa6e1c7f38eca2b--7e376d3efd1a6dc8.png)
 
  
 
@@ -830,7 +830,7 @@ Enable Delay to add delays, chorus, or flanging to the overall Rig. The delay ty
 
 1.  Enable or disable the delay by highlighting or clearing the Delay button.
 2.  Tap the selection triangle at the right of the Delay button to open the master delay settings.\
-    ![ox-stomp-edit-delay.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/03e38f858ad8c7bd4d6c2bca4a47fa69e32e5a73.png)
+    ![ox-stomp-edit-delay.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--03e38f858ad8c7bd4d6c2bca4a47fa69e32e5a73--08ca032e223b3344.png)
 3.  Tap the type of delay to enable. Note that the maximum delay times are shorter when you select the Chorus or Flanger delay type.
 4.  Adjust the sliders to configure the delay times. To adjust the delay times separately, deselect Link Delay Times. Note that if you adjust delay times separately, then select Link Delay Times, the delay times are adjusted relatively.
 5.  Adjust the feedback amount with the Feedback slider. Positive feedback amounts are typical for delays. Negative feedback can give more interesting results with choruses and flangers.
@@ -845,7 +845,7 @@ Enable Reverb to add plate reverb to the overall Rig.
 
 1.  Enable or disable the reverb by highlighting or clearing the Reverb button.
 2.  Tap the selection triangle at the right of the Reverb button to open the master reverb settings.\
-    ![ox-stomp-edit-reverb.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/1a2c9e4fdb7659ae13c5f0a3f7388b213eefdf67.png)
+    ![ox-stomp-edit-reverb.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--1a2c9e4fdb7659ae13c5f0a3f7388b213eefdf67--40c1f69478cf63df.png)
 3.  Adjust the sliders to configure the reverb decay, balance and mix.
 4.  Cut or boost highs and lows in the reverb signal with the Treble and Bass sliders.
 
@@ -923,7 +923,7 @@ Enable Reverb to add plate reverb to the overall Rig.
 
 ## Ox Stomp Speaker Cabinets
 
-![ox-stomp-cabs-image.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/2ea9be04034cc7b54cfdbf7a69b461e1aaf29b15.png)
+![ox-stomp-cabs-image.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--2ea9be04034cc7b54cfdbf7a69b461e1aaf29b15--11d67ce7b1108df9.png)
 
 The 22 speaker cabinets available with OX Stomp are listed below. The cabinets can be individually selected within the UAFX Control app.
 
@@ -1489,9 +1489,9 @@ Sending the program change and bypass state first allows the pedal to load the i
 
 # OX Stomp Safety
 
-**![safety-symbol-exclaim.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
+**![safety-symbol-exclaim.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--f806412c561cf4c4.png)Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
+![safety-symbol-book-info.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--4015f728ee4815a1.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
 - Read the instructions.
 - Keep these instructions.
@@ -1532,7 +1532,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 The company's products have obtained the NCC low-power radio frequency equipment verification certificate according to the new warnings of "Low-power radio frequency equipment technical specifications" as follows: "The low-power radio frequency equipment that has obtained the verification certificate shall not be changed by the company, firm or user without approval. Frequency, increase power, or change the features and functions of the original design. The use of low-power radio frequency equipment shall not affect flight safety and interfere with legal communications; continue to use.
 
-![safety-symbol-trash.png](UAFX%20OX%20Stomp%20Dynamic%20Speaker%20Emulator%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
+![safety-symbol-trash.png](../../attachments/uafx-ox-stomp-dynamic-speaker-emulator-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--4cb8db500990889c.png)Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 
 - IEC 62368-1
 - FCC ID: 2AXKQ2029

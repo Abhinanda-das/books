@@ -9,7 +9,7 @@ word_count: 4197
 1 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0001-01.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0001-01--7a5c13131797ac03.png>)
 
 
 Here is a brief history of the design genesis of the SE-100 in John Suhr’s own words, “The SE-100 is a high gain mod I did when I first moved to LA in 91.  It has been used in the original CAA 3+ preamp by Lukather, Henderson, Landau, EVH (on F.U.C.K) later it had an update bringing it to the SE which was a little smoother and gainier. 
@@ -25,7 +25,7 @@ Not only does the plugin nail the heart and soul of the SE100 but you’ll find 
 **2** 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0003-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0003-00--390885d145172f90.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -55,7 +55,7 @@ The Suhr SE100 plug-in was developed with the Apollo series interfaces in mind a
 3 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0004-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0004-00--04a7dd8d27197089.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -95,7 +95,7 @@ Selects the amount of low-end boost added to the SE-100’s power section, this 
 4 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0005-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0005-00--4be4cf72e38c6a7d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -125,7 +125,7 @@ Continuous knob, 0db to 100db. The output level of your amplifier will be reduce
 5 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0006-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0006-00--293a0be9286d49fc.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -165,7 +165,7 @@ With the Tight filter you can cut Low frequencies of either the DI guitar signal
 6 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0007-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0007-00--bdb421a5e6645155.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -209,7 +209,7 @@ Both buttons can be pressed repeatedly as long as the maximum delay time of 400m
 7 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0008-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0008-00--141d03b5d4c896b3.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -243,7 +243,7 @@ In the past two decades Brainworx owner Dirk Ulrich has produced and recorded wi
 8 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0009-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0009-00--e8c2e1fe565b7abc.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -269,7 +269,7 @@ Browse through the Recording Chains by either using the pull-down menu of the Re
 9 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0010-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0010-00--41426815ab251c58.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -305,7 +305,7 @@ Switch up: Preamp is bypassed (off), Switch down: Preamp is active (on).
 10 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0011-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0011-00--888b02edc21b5db5.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -341,7 +341,7 @@ The STANDARD Rectifier® 4x12 is the “oversized” 4x12, providing thundering 
 11 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0012-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0012-00--f15d7f66fd06ece9.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -371,7 +371,7 @@ Loaded in the two bottom slots are two Celestion Vintage 30 speakers. The V30’
 12 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0013-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0013-00--d63027ec3fd38a99.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -405,7 +405,7 @@ The 120W Orange Amplifiers PPC212-C guitar speaker cabinet is crafted using 13-p
 **5** 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0014-05.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0014-05--cba179099bfdf866.png>)
 
 
 ## ~~**Top Toolbar**~~ 
@@ -449,7 +449,7 @@ Information about the development of the plugin.
 14 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0015-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0015-00--3100450e14f5e9fe.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -485,11 +485,11 @@ Combine the SE100 amps with other plugins (dynamics, effects, room simulation), 
 15 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0016-00.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0016-00--f89ba898baa51f47.png>)
 
 
 
-![](<Suhr SE100 Manual_assets/Suhr_SE100_Manual.pdf-0016-01.png>)
+![](<../../attachments/suhr-se100-manual_assets--suhr_se100_manual.pdf-0016-01--e599a176cfccae71.png>)
 
 
 Plug in, Rock out!   - **www.brainworx.audio** 

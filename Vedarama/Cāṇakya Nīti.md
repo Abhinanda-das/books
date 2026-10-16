@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/canakya-niti"
 ---
 
-![обложка|156](<Cāṇakya Nīti/обложка.jpeg>)
+![обложка|156](<../attachments/c%C4%81%E1%B9%87akya-n%C4%ABti--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--009fd3ab337ddb8f.jpeg>)
 
 Chanakya was no beauty in the physical sense. The detractors had no hesitation in proclaiming that he was ugly. But the beauty is only skin deep. Down below he was a solid mass of intellect, brains, creativity, originality, thinking prowess, learning, statesmanship and masterly over-skills in planning and diplomacy, never seen before in one person. His brilliance brought some light to the darkness of the hopeless medieval India.
 

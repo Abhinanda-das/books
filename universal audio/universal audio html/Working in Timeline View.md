@@ -28,7 +28,7 @@ You warp audio in Warps view. Enter Warps view by clicking View on the Timeline 
 <div layout="align-start" node-type="mediaSingle" data-width="80">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![choose-warps.png](Working%20in%20Timeline%20View_assets/c8ec138e475d67a9b669d7bece511fbc9dc3f3ea.png)
+![choose-warps.png](../../attachments/working-in-timeline-view_assets--c8ec138e475d67a9b669d7bece511fbc9dc3f3ea--b50a223d1be00336.png)
 </figure>
 
 </div>
@@ -74,7 +74,7 @@ ARA (Audio Random Access) plug-ins are incorporated directly into the LUNA timel
 - Pitch adjustments must be applied (committed) when an ARA plug-in is instantiated on a clip. When you instantiate an ARA plug-in on a clip that has Pitch control changes, you will be prompted to revert, commit changes, or cancel.
 
 <figure class="wysiwyg-image">
-![ara-in-timeline.png](Working%20in%20Timeline%20View_assets/e34848605f60ded6a96397b2fcad174f568b2262.png)
+![ara-in-timeline.png](../../attachments/working-in-timeline-view_assets--e34848605f60ded6a96397b2fcad174f568b2262--24b717b369837b99.png)
 </figure>
 
 *An ARA plug-in in the timeline *
@@ -117,7 +117,7 @@ You can easily change the pitch of an audio clip. You can change the duration of
 <div layout="align-start" node-type="mediaSingle" data-width="80">
 
 <figure class="wysiwyg-image">
-![settings-for-warping.png](Working%20in%20Timeline%20View_assets/ecc8a7c940cfe8f6d11c25a68e3be4d59e51ef07.png)
+![settings-for-warping.png](../../attachments/working-in-timeline-view_assets--ecc8a7c940cfe8f6d11c25a68e3be4d59e51ef07--da190263756f4d87.png)
 </figure>
 
 **Note:** You can apply pitch changes to clips, adjust warp markers and Warp Trim clips in Clips Follow Tempo mode or unsynced mode; however audio tracks will only adjust to session tempo changes in Clips Follow Tempo mode.
@@ -136,7 +136,7 @@ To pitch an audio clip up, use the pitch clip controls. You can do this with the
 <div layout="align-start" node-type="mediaSingle" data-width="50">
 
 <figure class="wysiwyg-image">
-![pitch-smart-tool.png](Working%20in%20Timeline%20View_assets/25ad28288ff6d514fd5924fdf9597a3479f2d7a9.png)
+![pitch-smart-tool.png](../../attachments/working-in-timeline-view_assets--25ad28288ff6d514fd5924fdf9597a3479f2d7a9--0598a57d27f2d031.png)
 </figure>
 
 </div>
@@ -151,7 +151,7 @@ To pitch an audio clip up, use the pitch clip controls. You can do this with the
      
 
     <figure class="wysiwyg-image">
-    ![open-clip-controls.png](Working%20in%20Timeline%20View_assets/abd0c78f9de6a392b9f4bd719b08662d254fdd63.png)
+    ![open-clip-controls.png](../../attachments/working-in-timeline-view_assets--abd0c78f9de6a392b9f4bd719b08662d254fdd63--e225d8cf8d984919.png)
     </figure>
 
 ------------------------------------------------------------------------
@@ -170,7 +170,7 @@ You can Warp Trim to time-stretch or time-compress a clip. With Warp Trim, you c
 2.  Option+drag (macOS) or Alt+drag (Windows) to Warp Trim. Warp Trim snaps to the grid if Snap is enabled unless you hold the Command (macOS) or Windows (Windows) key while trimming.
 
 <figure class="wysiwyg-image">
-![warp-trim-clip-view.png](Working%20in%20Timeline%20View_assets/394eb5fd4f9a9870dcfca3ca0da65f14dd90eed9.png)
+![warp-trim-clip-view.png](../../attachments/working-in-timeline-view_assets--394eb5fd4f9a9870dcfca3ca0da65f14dd90eed9--4f67298688190675.png)
 </figure>
 
 ## Warp Trimming to time-stretch or time-compress a clip in Warps view
@@ -179,7 +179,7 @@ You can Warp Trim to time-stretch or time-compress a clip. With Warp Trim, you c
 
 1.  With Warps view enabled, hover the cursor at the start or end of a clip, below the vertical center. The Warp Trim Editing Tool appears. \
     \
-    ![smart-tool-warp-trim.png](Working%20in%20Timeline%20View_assets/fec856e703edc0b7fe15f7bac3226df2e4f36c2d.png)
+    ![smart-tool-warp-trim.png](../../attachments/working-in-timeline-view_assets--fec856e703edc0b7fe15f7bac3226df2e4f36c2d--0528cb79da694544.png)
 2.  Click and drag to Warp Trim. Warp Trim snaps to the grid if Snap is enabled unless you hold the Command key while trimming.
 
 </div>
@@ -189,7 +189,7 @@ Depending on the algorithm, extreme Warp Trims may not play or may have undesira
 <div layout="align-start" node-type="mediaSingle" data-width="55">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![warp-trim-overcompressed.png](Working%20in%20Timeline%20View_assets/87044d2fb059150c5ac7aabad4dadd7e71642beb.png)
+![warp-trim-overcompressed.png](../../attachments/working-in-timeline-view_assets--87044d2fb059150c5ac7aabad4dadd7e71642beb--173ed049a061f013.png)
 </figure>
 
 </div>
@@ -214,7 +214,7 @@ There are three ways you can add Warp markers to a clip:
 <div layout="align-start" node-type="mediaSingle" data-width="75">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![single-warp-stretch-compress.png](Working%20in%20Timeline%20View_assets/d5d95927decbd722849c4b4b4edaa8de7c367530.png)
+![single-warp-stretch-compress.png](../../attachments/working-in-timeline-view_assets--d5d95927decbd722849c4b4b4edaa8de7c367530--5151952feccdbc7b.png)
 </figure>
 
 </div>
@@ -237,7 +237,7 @@ There are three ways you can add Warp markers to a clip:
 </div>
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![bounded-warp-stretch-compress.png](Working%20in%20Timeline%20View_assets/fcdbb02893ed82451a4f242429157c16d0e932e2.png)
+![bounded-warp-stretch-compress.png](../../attachments/working-in-timeline-view_assets--fcdbb02893ed82451a4f242429157c16d0e932e2--336982f7a6d4e30a.png)
 </figure>
 
 ### To add an arbitrary warp marker
@@ -250,7 +250,7 @@ There are three ways you can add Warp markers to a clip:
 <div layout="align-start" node-type="mediaSingle" data-width="30">
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![arbitrary-warp-marker.png](Working%20in%20Timeline%20View_assets/a0b25ef2eb7672483bd43813b2f35b55249170a0.png)
+![arbitrary-warp-marker.png](../../attachments/working-in-timeline-view_assets--a0b25ef2eb7672483bd43813b2f35b55249170a0--6d58a8058be773da.png)
 </figure>
 
 </div>
@@ -269,7 +269,7 @@ There are several ways to delete one or more warp markers.
 
 - Hold Shift, then click in the vertical middle of the clip and drag to select multiple contiguous warp markers. Click one warp marker and drag to adjust all selected markers.
 
-![select-contiguous-warp-markers.png](Working%20in%20Timeline%20View_assets/c207d4ce5930e26192632936d665181ff9368b78.png)
+![select-contiguous-warp-markers.png](../../attachments/working-in-timeline-view_assets--c207d4ce5930e26192632936d665181ff9368b78--3c2bd6d8b4491291.png)
 
 - Hold Shift, and click and drag over only each warp marker you want to select, to select multiple non-contiguous warp markers (tip: disable Snap). Click one warp marker, and drag to adjust all selected markers.
 
@@ -277,7 +277,7 @@ There are several ways to delete one or more warp markers.
 
 <div collection="contentId-200507413" context-id="200507413" file-mime-type="image/png" file-name="select-non-contiguous-warp-markers.png" file-size="22443" data-height="189" data-id="5dd0723c-fa80-4b6e-8506-06eac0bc3be2" node-type="media" data-type="file" data-width="288" title="Attachment">
 
-![select-non-contiguous-warp-markers.png](Working%20in%20Timeline%20View_assets/37bace09846e3cea0d8cc4081b0695b19b0ff994.png)
+![select-non-contiguous-warp-markers.png](../../attachments/working-in-timeline-view_assets--37bace09846e3cea0d8cc4081b0695b19b0ff994--0f6f7775bea7457b.png)
 
 </div>
 

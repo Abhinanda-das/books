@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/hkh1970"
 ---
 
-![обложка|156](<Hare Krishna Handbook, ISKCON 1970/обложка.jpeg>)
+![обложка|156](<../attachments/hare-krishna-handbook-iskcon-1970--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--54f8e764a30e8135.jpeg>)
 
 The purpose of this handbook is to show interested persons the full scope of ISKCON’s activities. ISKCON is not concerned with accumulating financial assets, but aims at producing men and women of sublime character. This is possible only by plain living and high thinking based on the principles of devotional service to the Supreme Lord.
 

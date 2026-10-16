@@ -7,7 +7,7 @@ word_count: 162
 ---
 
 
-![](<UAFX Del-Verb Recall Sheet_assets/UAFX_Del-Verb_Recall_Sheet.pdf-0001-00.png>)
+![](<../../attachments/uafx-del-verb-recall-sheet_assets--uafx_del-verb_recall_sheet.pdf-0001-00--c472777cef174a86.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -35,11 +35,11 @@ DELAY TIME FEEDBACK MIX DELAY TIME FEEDBACK MIX DELAY TIME FEEDBACK MIX<br>DELAY
 
 
 
-![](<UAFX Del-Verb Recall Sheet_assets/UAFX_Del-Verb_Recall_Sheet.pdf-0001-01.png>)
+![](<../../attachments/uafx-del-verb-recall-sheet_assets--uafx_del-verb_recall_sheet.pdf-0001-01--37b90eba79bf2927.png>)
 
 
 
-![](<UAFX Del-Verb Recall Sheet_assets/UAFX_Del-Verb_Recall_Sheet.pdf-0001-02.png>)
+![](<../../attachments/uafx-del-verb-recall-sheet_assets--uafx_del-verb_recall_sheet.pdf-0001-02--077ae7a164661620.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -47,7 +47,7 @@ NOTES<br>**----- End of picture text -----**<br>
 
 
 
-![](<UAFX Del-Verb Recall Sheet_assets/UAFX_Del-Verb_Recall_Sheet.pdf-0001-03.png>)
+![](<../../attachments/uafx-del-verb-recall-sheet_assets--uafx_del-verb_recall_sheet.pdf-0001-03--9271ccfde4403000.png>)
 
 
 **----- Start of picture text -----**<br>

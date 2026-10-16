@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gudhartha-dipika"
 ---
 
-![обложка|156](<Bhagavad-gītā with the annotation Gūḍhārtha-dīpikā by Madhusudana Saraswati/обложка.jpeg>)
+![обложка|156](<../attachments/bhagavad-g%C4%ABt%C4%81-with-the-annotation-g%C5%AB%E1%B8%8Dh%C4%81rtha-d%C4%ABpik%C4%81-by-mad--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b5fa4cc377e607ff.jpeg>)
 
 This book has been eagerly awaited by many ever since Swami Gambhirananda began the voluminous translation some twelve years ago and completed it in 1988. Certainly it is a valuable addition to our publications. For, it adequately fulfills the long-standing need for a complete English translation of Madhusudana Sarasvati 's beautiful explanation of the Bhagavad Gita.
 

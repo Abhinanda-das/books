@@ -23,7 +23,7 @@ The four Ratio buttons determine the degree of compression — lower ratios for 
 
 This model is based on the classic early 70's / Brad Plunkett "LN" (Low Noise) era of the 1176 circuit lineage, with variations including a more linear compression response, transistor gain amplification, and the characteristic musical program dependency that makes the 1176 one of the most enduring studio compressors of all-time.
 
-![1176-fet-compressor.png](1176%20Classic%20FET%20Compressor%20Manual_assets/20fd5f80dbfe30846421749c4610bdf715a09cf6.png)
+![1176-fet-compressor.png](../../attachments/1176-classic-fet-compressor-manual_assets--20fd5f80dbfe30846421749c4610bdf715a09cf6--6a32306a66f494e2.png)
 
 *1176 Classic FET Compressor*
 
@@ -119,7 +119,7 @@ When the Meter Function is set to GR mode and All Ratio buttons are engaged, the
 
 When the OFF switch is engaged, the plug-in is disabled and processor usage is reduced.
 
-![1176ln_classic_limiter_carousel.jpg](1176%20Classic%20FET%20Compressor%20Manual_assets/3bcd0948adf30ce7d8cf287f49f34c564641c99f.jpg)
+![1176ln_classic_limiter_carousel.jpg](../../attachments/1176-classic-fet-compressor-manual_assets--3bcd0948adf30ce7d8cf287f49f34c564641c99f--15d9fb9940008957.jpg)
 
 *Original UA 1176 hardware*
 

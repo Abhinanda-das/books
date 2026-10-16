@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/mvfwsp19720-77"
 ---
 
-![обложка|156](<The Māyāpur-Vṛndāvana Festivals with Śrīla Prabhupāda (1972–77)/обложка.jpeg>)
+![обложка|156](<../attachments/the-m%C4%81y%C4%81pur-v%E1%B9%9Bnd%C4%81vana-festivals-with-%C5%9Br%C4%ABla-prabhup%C4%81da-197--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--44701b2ab8ad3837.jpeg>)
 
 This book shows how the festivals grew, how Prabhupada developed them from scratch in the pioneering days, carefully nurturing them into glorious events. Remembering our experiences with Prabhupada at the festivals and recalling his thoughts, deeds, and instructions during the festival days will help us keep the International Society for Krishna Consciousness Founder-acarya, Srila Prabhupada in its center.
 

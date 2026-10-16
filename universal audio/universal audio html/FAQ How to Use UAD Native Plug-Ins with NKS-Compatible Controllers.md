@@ -42,7 +42,7 @@ All UAD Instruments and UAD native plug-ins (UADx) are compatible with NKS. For 
     \
     When launching the Komplete Kontrol standalone application, your plug-ins should be scanned automatically. If you need to manually rescan your plug-ins, click the **⋯… menu** in the header of Komplete Kontrol, select the **Edit** sub-menu, and then select **Preferences**. In the Preferences window that appears, click on the Plug-ins tab and then click the **Rescan** button.
 2.  **Configure your controller** - Within Komplete Kontrol, click the **… menu** in the header. Then, in the **Controller** sub-menu, select **Controller Manager**, and double-click on your controller in the list. If you are using NI hardware, your controller will automatically be configured.\
-    ![](FAQ%20How%20to%20Use%20UAD%20Native%20Plug-Ins%20with%20NKS-Compatible%20Controllers_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![](../../attachments/faq-how-to-use-uad-native-plug-ins-with-nks-compatible-controller--1576671445c71e282018967963ec7f67c9a4be5c--2fbacfb9b5fc248c.png)
 3.  **Select an Instrument -** Use the **Instruments** menu to select an instrument. Once an instrument is selected, you can load audio effects plug-ins by clicking the **Plug-in Chain** button and selecting an empty slot in the chain. 
 
 #### **Using UAD Plug-Ins in NI Maschine**

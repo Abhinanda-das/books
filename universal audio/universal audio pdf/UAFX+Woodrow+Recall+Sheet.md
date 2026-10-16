@@ -7,7 +7,7 @@ word_count: 92
 ---
 
 
-![](UAFX+Woodrow+Recall+Sheet_assets/UAFX+Woodrow+Recall+Sheet.pdf-0001-00.png)
+![](../../attachments/uafx-woodrow-recall-sheet_assets--uafx-woodrow-recall-sheet.pdf-0001-00--6b17f215510157c0.png)
 
 
 **----- Start of picture text -----**<br>

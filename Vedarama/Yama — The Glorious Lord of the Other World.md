@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/kpmerh-ytglotow"
 ---
 
-![обложка|156](<Yama — The Glorious Lord of the Other World/обложка.jpeg>)
+![обложка|156](<../attachments/yama-the-glorious-lord-of-the-other-world--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--7bab91a07d65db4c.jpeg>)
 
 The image of Yama, the god of death in Hindu mythology, has come to have many variants. Dr. Merh's study tries to capture these against their essential literary settings to explore all possible traits of Yama's personality.
 

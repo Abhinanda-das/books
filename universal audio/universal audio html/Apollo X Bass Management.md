@@ -27,13 +27,13 @@ Bass management is configured in UAD Console's Monitor Controller floating windo
 
 1.  If the Monitor column isn’t visible, select  Section \> Monitor from the View menu.\
     \
-    ![](Apollo%20X%20Bass%20Management_assets/a039526d48a5656e928395c651068def37e56294.png)\
+    ![](../../attachments/apollo-x-bass-management_assets--a039526d48a5656e928395c651068def37e56294--a6ed4c5f5c9e5a2f.png)\
     \
 2.  Click the Monitor Controller button in the Monitor Column. 
 
 **Note:** The Monitor Controller button only appears with Apollo X Series interfaces.  
 
-![mon-controller-open-callout-2x.png](Apollo%20X%20Bass%20Management_assets/90fa54909480cf5bfde47340a20f5f74218b7ebf.png)
+![mon-controller-open-callout-2x.png](../../attachments/apollo-x-bass-management_assets--90fa54909480cf5bfde47340a20f5f74218b7ebf--b09d3fb86b5c1008.png)
 
 ## Bass routing for Apollo X models
 
@@ -99,7 +99,7 @@ Apollo x16D</p></td>
 
 ## Managing bass with the Bass Management panel
 
-![](Apollo%20X%20Bass%20Management_assets/fe40e153b01bd64a57bf4ac3e1c56a964360f565.png)
+![](../../attachments/apollo-x-bass-management_assets--fe40e153b01bd64a57bf4ac3e1c56a964360f565--7e0198c7557d4a04.png)
 
 *Bass Management panel in the Monitor Controller floating window* *\
 (7.1 surround mode shown)*
@@ -128,7 +128,7 @@ Satellite speaker crossover frequencies can be set for each speaker pair, or for
 
 **Tip:** To adjust the Satellite Filter crossover for all satellite speakers, click SELECT ALL in the speaker display, or select ALL from the Channel menu. 
 
-![](Apollo%20X%20Bass%20Management_assets/61f5ce452ec3480e988706eb1b8b60ed70461f00.png)
+![](../../attachments/apollo-x-bass-management_assets--61f5ce452ec3480e988706eb1b8b60ed70461f00--124954cfc00c9b8d.png)
 
 *Example L/R channel bass management settings*
 
@@ -142,7 +142,7 @@ The Bass Management panel also allows you to add 10 dB of gain to the LFE channe
 2.  From the LFE LPF menu, select the low pass filter frequency. The available LFE LPF values are OFF, 80, 100 Hz, 120 HZ, and 150 Hz. 
 3.  Enable the LFE +10 dB button if you are mixing to the standard that allows 10 dB of extra headroom for the LFE channel.
 
-![](Apollo%20X%20Bass%20Management_assets/00a29a65ca7c0437974a604f461b476f610e8130.png)
+![](../../attachments/apollo-x-bass-management_assets--00a29a65ca7c0437974a604f461b476f610e8130--27e079a64f094246.png)
 
 *Example LFE channel bass management settings*
 

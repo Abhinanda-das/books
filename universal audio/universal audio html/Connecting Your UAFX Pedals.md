@@ -31,7 +31,7 @@ The USB-C port is for pedal registration and firmware updates only, via the UA C
 
 The PAIR button and LED (full-sized pedals only) are for pedal registration and global pedal settings (bypass, footswitch modes, and other settings) only, via the [UAFX Control app](https://www.uaudio.com/pages/download-uafx-pedals).
 
-![amp-rear-callouts-2x.png](Connecting%20Your%20UAFX%20Pedals_assets/7f011702bae5d6c4713d0792b8c31762fd0e2501.png)
+![amp-rear-callouts-2x.png](../../attachments/connecting-your-uafx-pedals_assets--7f011702bae5d6c4713d0792b8c31762fd0e2501--4be3744a83a21f96.png)
 
 ------------------------------------------------------------------------
 
@@ -41,31 +41,31 @@ Use these connection examples for your 6-knob UAFX effect pedals. UAFX amp pedal
 
 **Important:** You must connect to the UAFX IN 1/MONO jack. The IN 2/STEREO jack does not work independently without the IN 1/MONO connection.
 
-![mono-mono-connect.png](Connecting%20Your%20UAFX%20Pedals_assets/24181321d8447d70a1187ef3b965b8d99d4a5ced.png)
+![mono-mono-connect.png](../../attachments/connecting-your-uafx-pedals_assets--24181321d8447d70a1187ef3b965b8d99d4a5ced--b8a570e1820e5bd1.png)
 
 *Mono in \> mono Out*
 
  
 
-![mono-stereo-connect.png](Connecting%20Your%20UAFX%20Pedals_assets/787555a766ec1695a7c9d87a98181368372bd062.png)
+![mono-stereo-connect.png](../../attachments/connecting-your-uafx-pedals_assets--787555a766ec1695a7c9d87a98181368372bd062--530213c646a104c7.png)
 
 *Mono in \> stereo out*
 
  
 
-![stereo-stereo-connect.png](Connecting%20Your%20UAFX%20Pedals_assets/72979a0165c8b489c1ad0e2bfe96922b3ce487d2.png)
+![stereo-stereo-connect.png](../../attachments/connecting-your-uafx-pedals_assets--72979a0165c8b489c1ad0e2bfe96922b3ce487d2--7b355c944623136b.png)
 
 *Stereo in \> stereo out*
 
  
 
-![effects-loop.png](Connecting%20Your%20UAFX%20Pedals_assets/3937cb237ecc7bf0e6e6cc2316f1bad20b2d5021.png)
+![effects-loop.png](../../attachments/connecting-your-uafx-pedals_assets--3937cb237ecc7bf0e6e6cc2316f1bad20b2d5021--7dab8d7ed10f0e59.png)
 
 *Pedal in amp’s effects loop*
 
  
 
-![two-amps-fx-loops.png](Connecting%20Your%20UAFX%20Pedals_assets/120c171a87d52cdf68102fe738bb25a0b7f79f1f.png)
+![two-amps-fx-loops.png](../../attachments/connecting-your-uafx-pedals_assets--120c171a87d52cdf68102fe738bb25a0b7f79f1f--3e919bf9d1a2d6a3.png)
 
 *Pedal in dual amp stereo setup showing effects loop connections for both amps*
 
@@ -79,11 +79,11 @@ Use these connection examples for your compact UAFX effect pedals that have a si
 
  
 
-![mono-pedal-amp-guitar-connect.png](Connecting%20Your%20UAFX%20Pedals_assets/469005fa67be320260badc8279c67bd32a47b186.png)
+![mono-pedal-amp-guitar-connect.png](../../attachments/connecting-your-uafx-pedals_assets--469005fa67be320260badc8279c67bd32a47b186--a235e87ae3a050e8.png)
 
 *Compact pedal Mono in \> Mono Out*
 
-![mono-pedal-effects-loop.png](Connecting%20Your%20UAFX%20Pedals_assets/e48f0990b9512c519eb9605746ab1bf1d1ebca17.png)
+![mono-pedal-effects-loop.png](../../attachments/connecting-your-uafx-pedals_assets--e48f0990b9512c519eb9605746ab1bf1d1ebca17--601f01979211ab9c.png)
 
 *Compact pedal in amp’s effects loop*
 
@@ -99,49 +99,49 @@ Use these connection examples for your UAFX amp pedals. UAFX effect pedal connec
 
 **Tip:** When playing through a real guitar amplifier and speaker cabinet, you'll usually want to bypass the speaker cabinet emulation by pressing the pedal's Speaker switch until its LED is unlit.
 
-![mono-mono-connect.png](Connecting%20Your%20UAFX%20Pedals_assets/24181321d8447d70a1187ef3b965b8d99d4a5ced.png)
+![mono-mono-connect.png](../../attachments/connecting-your-uafx-pedals_assets--24181321d8447d70a1187ef3b965b8d99d4a5ced--b8a570e1820e5bd1.png)
 
 *Mono in \> mono out*
 
  
 
-![mono-audio-interface.png](Connecting%20Your%20UAFX%20Pedals_assets/db9c239b889b6eb066b911a67927cd03d09a7131.png)
+![mono-audio-interface.png](../../attachments/connecting-your-uafx-pedals_assets--db9c239b889b6eb066b911a67927cd03d09a7131--e24f900ecc1a9f3d.png)
 
 *Mono output \> 1-input audio interface*
 
  
 
-![stereo-audio-interface.png](Connecting%20Your%20UAFX%20Pedals_assets/b9e83841ba2dbab9921cd327071a4f565df085aa.png)
+![stereo-audio-interface.png](../../attachments/connecting-your-uafx-pedals_assets--b9e83841ba2dbab9921cd327071a4f565df085aa--f1643c724d951abb.png)
 
 *Stereo output \> 2-input audio interface*
 
  
 
-![mono-stereo-connect.png](Connecting%20Your%20UAFX%20Pedals_assets/787555a766ec1695a7c9d87a98181368372bd062.png)
+![mono-stereo-connect.png](../../attachments/connecting-your-uafx-pedals_assets--787555a766ec1695a7c9d87a98181368372bd062--530213c646a104c7.png)
 
 *Mono in \> stereo out (guitar amps)*
 
  
 
-![mono-stereo-full-range-connect.png](Connecting%20Your%20UAFX%20Pedals_assets/991f6c918664f252d5c742db31bc7524f2797cc3.png)
+![mono-stereo-full-range-connect.png](../../attachments/connecting-your-uafx-pedals_assets--991f6c918664f252d5c742db31bc7524f2797cc3--dd08d57d63ee6793.png)
 
 *Mono in \> stereo out (full range powered speakers or PA)*
 
  
 
-![stereo-stereo-connect.png](Connecting%20Your%20UAFX%20Pedals_assets/72979a0165c8b489c1ad0e2bfe96922b3ce487d2.png)
+![stereo-stereo-connect.png](../../attachments/connecting-your-uafx-pedals_assets--72979a0165c8b489c1ad0e2bfe96922b3ce487d2--7b355c944623136b.png)
 
 *Stereo in \> stereo out*
 
  
 
-![effects-loop-bypass-amp-preamp.png](Connecting%20Your%20UAFX%20Pedals_assets/4936ba6f49e7dc701bb71b7a8dfbfc54eff84abd.png)
+![effects-loop-bypass-amp-preamp.png](../../attachments/connecting-your-uafx-pedals_assets--4936ba6f49e7dc701bb71b7a8dfbfc54eff84abd--833972dd44fabd8a.png)
 
 *Pedal bypassing amp’s preamp with effects loop return*
 
  
 
-![two-amps-fx-loops-bypass-preamp.png](Connecting%20Your%20UAFX%20Pedals_assets/5070ed565ff3a18d3c42c57733aafb663689a7d4.png)
+![two-amps-fx-loops-bypass-preamp.png](../../attachments/connecting-your-uafx-pedals_assets--5070ed565ff3a18d3c42c57733aafb663689a7d4--ebd2313c7fac34db.png)
 
 *Pedal in dual amp setup bypassing amps’ preamps with effects loop returns*
 
@@ -206,7 +206,7 @@ Use 4-cable mode with one UAFX amp pedal to add another switchable channel to yo
 
 This diagram shows the signal flow when the UAFX amp pedal is enabled. Your signal is processed with the full amp tone from the pedal and routed to your real amplifier’s effects loop return, bypassing your real amplifier’s input jack and preamplifier section. Any effects placed in your amplifier’s effects loop return are heard.
 
-![4-Cable-Active-Diagram.png](Connecting%20Your%20UAFX%20Pedals_assets/cf3ab904f817343afe582877d91bc7f67173cbfd.png)
+![4-Cable-Active-Diagram.png](../../attachments/connecting-your-uafx-pedals_assets--cf3ab904f817343afe582877d91bc7f67173cbfd--fe62a93f1b15dd00.png)
 
  
 
@@ -214,7 +214,7 @@ This diagram shows the signal flow when the UAFX amp pedal is enabled. Your sign
 
 This diagram shows the signal flow when the UAFX amp pedal is bypassed. Note that your signal passes through the pedal with no amp tone from the pedal, and enters the main input on your real amplifier. Any effects placed before your amplifier’s effects loop return are heard.
 
-![4-Cable-Bypass-Diagram.png](Connecting%20Your%20UAFX%20Pedals_assets/821e2b01a3357830e901f93964d9c859e60d7764.png)
+![4-Cable-Bypass-Diagram.png](../../attachments/connecting-your-uafx-pedals_assets--821e2b01a3357830e901f93964d9c859e60d7764--3cae284feccc3809.png)
 
  
 
@@ -230,7 +230,7 @@ To connect two UAFX amp pedals in 4-cable mode, you need a total of six cables. 
 6.  Connect the effects loop Send output on your amplifier to the 2/Stereo input on the second pedal.
 7.  Place any front-of-amplifier effects between your instrument and the first UAFX amp pedal, and place any other effects loop effects between the first pedal’s 2/Stereo output and the effects loop return input on your amplifier.
 
-![6-Cable-Diagram.png](Connecting%20Your%20UAFX%20Pedals_assets/ce6057005c097ec55c85e0f3508be9d83a7e1a27.png)
+![6-Cable-Diagram.png](../../attachments/connecting-your-uafx-pedals_assets--ce6057005c097ec55c85e0f3508be9d83a7e1a27--3b46b95dd20ba324.png)
 
  
 
@@ -248,7 +248,7 @@ To connect three UAFX amp pedals in 4-cable mode, you need a total of eight cabl
 8.  Connect the effects loop Send output on your amplifier to the 2/Stereo input on the third pedal.
 9.  Place any front-of-amplifier effects between your instrument and the first UAFX amp pedal, and place any other effects loop effects between the first pedal’s 2/Stereo output and the effects loop return input on your amplifier.
 
-![8-Cable-Diagram.png](Connecting%20Your%20UAFX%20Pedals_assets/2313e7249b12b584e1df3600e8c0957121bff7f2.png)
+![8-Cable-Diagram.png](../../attachments/connecting-your-uafx-pedals_assets--2313e7249b12b584e1df3600e8c0957121bff7f2--59a805437785b6e3.png)
 
  
 

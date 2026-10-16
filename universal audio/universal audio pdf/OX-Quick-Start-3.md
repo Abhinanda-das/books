@@ -7,13 +7,13 @@ word_count: 360
 ---
 
 
-![](OX-Quick-Start-3_assets/OX-Quick-Start-3.pdf-0001-00.png)
+![](../../attachments/ox-quick-start-3_assets--ox-quick-start-3.pdf-0001-00--db37952d839f14b3.png)
 
 
 ## **`Set Up`** 
 
 
-![](OX-Quick-Start-3_assets/OX-Quick-Start-3.pdf-0001-02.png)
+![](../../attachments/ox-quick-start-3_assets--ox-quick-start-3.pdf-0001-02--0f186d0d0019e1d8.png)
 
 
 ## **CAUTION!** 
@@ -21,7 +21,7 @@ word_count: 360
 ## **TO AVOID GEAR MELTDOWN:** 
 
 
-![](OX-Quick-Start-3_assets/OX-Quick-Start-3.pdf-0001-05.png)
+![](../../attachments/ox-quick-start-3_assets--ox-quick-start-3.pdf-0001-05--33e437e41c71fb6f.png)
 
 
 **----- Start of picture text -----**<br>
@@ -39,13 +39,13 @@ word_count: 360
 ➑ Adjust your amp controls to make it sound sweet 
 
 
-![](OX-Quick-Start-3_assets/OX-Quick-Start-3.pdf-0001-11.png)
+![](../../attachments/ox-quick-start-3_assets--ox-quick-start-3.pdf-0001-11--1f3874ca332e4c7a.png)
 
 
 **ROOM** Instant access to mic'd **LINE OUT HEADPHONE** studio ambience and air. Adjusts the level at OX’s Adjusts the volume of stereo stereo LINE/MON outputs. headphones connected here. 
 
 
-![](OX-Quick-Start-3_assets/OX-Quick-Start-3.pdf-0001-13.png)
+![](../../attachments/ox-quick-start-3_assets--ox-quick-start-3.pdf-0001-13--f48f295785f047ec.png)
 
 
 **----- Start of picture text -----**<br>
@@ -53,13 +53,13 @@ Learn more<br>**----- End of picture text -----**<br>
 
 
 
-![](OX-Quick-Start-3_assets/OX-Quick-Start-3.pdf-0001-14.png)
+![](../../attachments/ox-quick-start-3_assets--ox-quick-start-3.pdf-0001-14--729756868aac5341.png)
 
 
 ## 
 
 
-![](OX-Quick-Start-3_assets/OX-Quick-Start-3.pdf-0002-01.png)
+![](../../attachments/ox-quick-start-3_assets--ox-quick-start-3.pdf-0002-01--d49d0e2587418cd5.png)
 
 
 **----- Start of picture text -----**<br>

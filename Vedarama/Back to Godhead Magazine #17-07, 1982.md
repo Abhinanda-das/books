@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg17-07"
 ---
 
-![обложка|156](<Back to Godhead Magazine #17-07, 1982/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-17-07-1982--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--9b4943ae99f788e7.jpeg>)
 
 # Back to Godhead Magazine #17-07, 1982
 

@@ -6,25 +6,25 @@ tool_version: 1.10.2
 word_count: 1860
 ---
 
-![](<ADA Flanger Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_0_picture_0--a68186b401e41b64.jpeg>)
 
 # Plug-in Manual
 
-![](<ADA Flanger Manual_assets/_page_0_Picture_3.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_0_picture_3--f41d170d68ddf026.jpeg>)
 
 Developed by Brainworx in partnership with Rocket Amplification LLC DBA A/DA Amplification and Distributed by Universal Audio.
 
-![](<ADA Flanger Manual_assets/_page_0_Picture_5.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_0_picture_5--99224ea97562014e.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_0_Picture_6.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_0_picture_6--345d2545573a5e61.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_0_Picture_7.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_0_picture_7--1d9662c3ce2b2910.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_0_Picture_8.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_0_picture_8--7ed3fbad48ff21c4.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_1_Picture_0.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_1_picture_0--5c029b788cd163bb.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_1_Picture_1.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_1_picture_1--e4ae1c4c159d80a8.jpeg>)
 
 The A/DA Flanger is arguably the most influential and legendary effects pedal of its kind. Born in 1978, its now extremely rare Panasonic® BBD (Bucket Brigade Device) chip delivered infinite time delay sweeps that let guitar notes and sounds soar out of speakers. Where most other flangers offer a 20:1 time delay ratio, the Flanger delivers 40:1, allowing infinite sweeps that perfectly mimic the true sound of tape flanging. An onboard switch offers the ability to emphasize odd or even harmonics, while the built-in noise gate tames low-level instrument noise and emphasizes higher dynamics. It's no wonder the A/DA Flanger made its way into genres ranging from Rock, to Funk and Reggae–and onto the records of artists ranging from Pink Floyd to Van Halen to The Police.
 
@@ -32,13 +32,13 @@ Under full license with A/DA, we at Brainworx bring that iconic sound into the d
 
 Once called "the Holy Grail of flangers," the A/DA Flanger makes the perfect addition to any digital guitar rig or mixer's toolkit.
 
-![](<ADA Flanger Manual_assets/_page_2_Picture_0.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_2_picture_0--4038ce095bad4690.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_2_Picture_1.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_2_picture_1--112191e4b7913127.jpeg>)
 
 Plug-in Manual
 
-![](<ADA Flanger Manual_assets/_page_2_Picture_4.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_2_picture_4--23050a00de5d2764.jpeg>)
 
 # **Unison Technology**
 
@@ -46,13 +46,13 @@ The A/DA Flanger plug-in was developed with the Apollo series interfaces in mind
 
 The A/DA Flanger is a second generation electronic flanger capable of producing a broad range of sound colorations, dramatically enhancing the effect of any amplified musical instrument, voice or percussive instrument. The term "flanging" refers to the technique of manually varying the speed of two tape recorders independently with the same program material, while mixing down in recording studios. The A/DA Flanger electronically simulates varying speed in real time, during the performance. The capabilities of the A/DA Flanger are numerous and astounding. Effects such as rotating speakers, chilling vibrato, "jet" sounds, resonance modification, intensified studio flanging and incredible filter matrices, to name a few, suggest that experimentation will certainly find the sound you have been looking for. When two identical signals separated by a short time delay are added together, reinforcements (peaks) and cancellations (notches) occur in the output level. The positions of the peaks and notches are mathematically related to the time delay as can be seen in the graph opposite. The example shows the "comb filter" that occurs at the output of the A/DA Flanger at 1 msec time delay. If a 500 Hz signal is introduced into the Flanger at 1 msec delay, it will not be heard at the output. However a 1000 Hz signal will be reinforced, thus heard at the output. By changing the time delay, we move the position of the peaks and notches up or down the audio frequency spectrum creating flanging effects.
 
-![](<ADA Flanger Manual_assets/_page_2_Figure_9.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_2_figure_9--26910407a8a2ea4c.jpeg>)
 
 Plug-in Manual
 
-![](<ADA Flanger Manual_assets/_page_3_Picture_2.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_3_picture_2--10c5d53dc5f80edb.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_3_Picture_3.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_3_picture_3--877bc330a15ae927.jpeg>)
 
 # **Features**
 
@@ -70,9 +70,9 @@ Determines wether the time delay is controlled via Manual or the Speed control, 
 
 Plug-in Manual
 
-![](<ADA Flanger Manual_assets/_page_4_Picture_2.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_4_picture_2--e8d0f1847845bdc0.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_4_Picture_3.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_4_picture_3--1c2de59994799241.jpeg>)
 
 modulation becomes "wider" (a broader sweep). At maximum the delay time sweeps throughout its entire range, automatically creating the same sound as moving the Manual control repeatedly back and forth from minimum to maximum.
 
@@ -96,9 +96,9 @@ Attenuates the input level by -14 dB.
 
 Plug-in Manual
 
-![](<ADA Flanger Manual_assets/_page_5_Picture_2.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_5_picture_2--ff7dbbbc90c9849f.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_5_Picture_3.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_5_picture_3--234a5579d0fe4345.jpeg>)
 
 #### **<sup>1</sup> Stereo**
 
@@ -124,13 +124,13 @@ Switches between the model for the vintage unit 1979 and the reissue of 2009.
 
 Plug-in Manual
 
-![](<ADA Flanger Manual_assets/_page_6_Picture_2.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_6_picture_2--f561612ea3807b68.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_6_Picture_3.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_6_picture_3--bd6be58b65e4f2ac.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_6_Picture_4.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_6_picture_4--d2d9b67e2910e26a.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_6_Picture_5.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_6_picture_5--b73699fe163c3ea5.jpeg>)
 
 # **Using the A/DA Flanger**
 
@@ -150,13 +150,13 @@ The Speed control sets the speed of the vibrato. The Range control determines th
 
 Plug-in Manual
 
-![](<ADA Flanger Manual_assets/_page_7_Picture_2.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_7_picture_2--6382ce56dd7eddcb.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_7_Picture_3.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_7_picture_3--ee78119822200142.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_7_Picture_4.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_7_picture_4--415ee0ac8547dd50.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_7_Picture_5.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_7_picture_5--8ed4b62bfefe38ec.jpeg>)
 
 ## **<sup>1</sup> Leslie**
 
@@ -170,11 +170,11 @@ Turning the Speed control further clockwise increases the amount of pitch change
 
 This setting produces the popular "chorus effect" which "thickens" the sound of your instrument.
 
-![](<ADA Flanger Manual_assets/_page_8_Picture_0.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_8_picture_0--d83c75bcc5f1070b.jpeg>)
 
 # Plug-in Manual
 
-![](<ADA Flanger Manual_assets/_page_8_Picture_3.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_8_picture_3--1d2abbd74b3e299e.jpeg>)
 
 # **Top Toolbar**
 
@@ -211,8 +211,8 @@ Controls the mix and balance between the direct signal and the processed signal.
 
 Adds noise characteristics of the original hardware unit. It influences the processed signal only.
 
-![](<ADA Flanger Manual_assets/_page_8_Picture_23.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_8_picture_23--85b3f562c66504c6.jpeg>)
 
-![](<ADA Flanger Manual_assets/_page_9_Figure_0.jpeg>)
+![](<../../attachments/ada-flanger-manual_assets--page_9_figure_0--3597a57a66f800f6.jpeg>)
 
 Plug in, Rock out! - **www.brainworx-music.de**

@@ -10,7 +10,7 @@ word_count: 17528
 
 PN 65-40634 Rev 01
 
-![](6176_Manual_assets/_page_0_Picture_2.jpeg)
+![](../../attachments/6176_manual_assets--page_0_picture_2--4586a1f9a7dbcafb.jpeg)
 
 Customer Service & Technical Support: USA (toll-free): +1-877-698-2834 International: +1-831-440-1176 www.uaudio.com
 
@@ -155,7 +155,7 @@ many other devices, the 6176 attack and release times are faster when their asso
 
 **Step 16:** Set the JOIN/SPLIT switch in the center of the front panel to its down (SPLIT) position. In this mode, the internal connection between the output of the 6176 preamp section and the input of the limiter/compressor section is broken, so that each section functions as an independent device, each with its own dedicated input(s) and output.
 
-![](6176_Manual_assets/_page_7_Figure_1.jpeg)
+![](../../attachments/6176_manual_assets--page_7_figure_1--426e6579cab6822b.jpeg)
 
 NOTE: The left side of the 6176 front panel contains all preamp controls, while the right side contains all limiter / compressor controls. All controls (except the Level, Attack, Release, Input, and Output knobs) are stepped, allowing settings to be easily reproduced.
 
@@ -232,7 +232,7 @@ The 6176 Ratio control allows seven different modes of operation:
 
 # **Rear Panel**
 
-![](6176_Manual_assets/_page_13_Figure_1.jpeg)
+![](../../attachments/6176_manual_assets--page_13_figure_1--c3ebd5436536b90f.jpeg)
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -246,7 +246,7 @@ The 6176 Ratio control allows seven different modes of operation:
 - **(7) Preamp MIC INPUT -** Connect your microphone to this standard XLR connector. Pin 2 is wired positive (hot). Note: If a connection is made to the Mic input, be sure that there is **no** connection also made to the Preamp Line or Hi-Z inputs.
   - " **To avoid potential equipment damage, disable +48V phantom power before connecting or disconnecting the MIC input. Keep phantom power off (switch down) when it is not required.**
 
-![](6176_Manual_assets/_page_14_Figure_1.jpeg)
+![](../../attachments/6176_manual_assets--page_14_figure_1--1a0ca1a2a5749748.jpeg)
 
 - (i) When operating in JOIN mode, the rear panel Preamp LINE OUT and the Limiter/Compressor LINE IN jacks are automatically disconnected.
 - For most applications, we recommend keeping the 6176 preamp Level control set between 7 and 10. Adjustments can then be made to the preamp Gain, Impedance, and Filter controls, as well as the various limiter/compressor controls, to achieve the optimum sound for your signal source. (If you are using the 6176 in JOIN mode, begin by setting the limiter/compressor Input and Output controls to approximately 5 for unity gain.)
@@ -387,7 +387,7 @@ The 610 console was used in hundreds of studio sessions for internationally reno
 
 Legendary engineer Wally Heider, manager of remote recording at United, used his 610 console to record many live recordings, including Peter, Paul and Mary's *In Concert* (1964), Wes Montgomery's *Full House* (1962), and all of the Smothers Brothers Live albums. Heider's console was later acquired by Paul McManus in 1987, who spent a decade restoring it.
 
-![](6176_Manual_assets/_page_22_Picture_8.jpeg)
+![](../../attachments/6176_manual_assets--page_22_picture_8--32224ed599a3c0ff.jpeg)
 
 **Wally Heider's Remote Recording Rig, with 610 Console**
 
@@ -405,7 +405,7 @@ The limiter / compressor section of the 6176 is based upon the 1176LN, a device 
 
 The original version of the 1176, released in 1967, was denoted the 1176A, but was revised to the model AB only a few months later, with improvements in stability and slightly reduced noise. The following year saw revision B, with further minor changes to the preamplifier circuit. These models all featured a brushed aluminum faceplate with a blue meter section.
 
-![](6176_Manual_assets/_page_23_Picture_6.jpeg)
+![](../../attachments/6176_manual_assets--page_23_picture_6--438976aa80fb3ca4.jpeg)
 
 **1176 Revision B**
 
@@ -413,7 +413,7 @@ Revision C, released in September 1970, saw two major changes. One, the unit now
 
 Numerous design improvements followed, resulting in at least 13 revisions of the 1176. Plunkett's LN circuitry was originally encased within an epoxy module, but a subsequent redesign fully integrated these improvements with the main circuit board, resulting in revision D.
 
-![](6176_Manual_assets/_page_24_Picture_2.jpeg)
+![](../../attachments/6176_manual_assets--page_24_picture_2--52e637e03474885b.jpeg)
 
 **1176LN Revision D**
 
@@ -469,7 +469,7 @@ In the 6176, the Input knob controls both the threshold and the amount of input 
 
 Another important term is compression *ratio*, which describes the amount of increase required in the incoming signal in order to cause a 1 dB increase in output. A ratio of 1:1 therefore means that for every 1 dB of increase in input level, there is a corresponding 1 dB increase in output level; in other words, there is no compression being applied. A ratio of 4:1, however, means that any time there is an increase of 4 decibels in the loudness of the input signal, there will only be a 1 dB increase in output signal. A ratio of 8:1 means that even when there is a full 8 decibels of increase in loudness, there will still only be a 1 decibel increase in output signal. (Bear in mind that the decibel is a logarithmic form of measurement, so a 2 dB signal is not twice as loud as a 1 dB signal; in fact, it requires approximately 10 dB of increased gain for a signal to sound twice as loud.)
 
-![](6176_Manual_assets/_page_27_Figure_6.jpeg)
+![](../../attachments/6176_manual_assets--page_27_figure_6--d2806c855cfd36e3.jpeg)
 
 As you can see from this illustration, at low ratios of 2:1 or 4:1, a compressor has relatively less effect on the incoming signal; at higher ratios, it has more effect. While the terms "compression" and "limiting" are often used interchangeably, the general definition of compression is gain reduction at ratios below 10:1; when higher ratios (of 10:1 or greater) are used, the process is instead called *limiting*. Limiters abruptly prevent signals above the threshold level from exceeding a certain maximum value. At very high ratios of 20:1 or greater (some limiters even offer a theoretical infinite
 
@@ -535,7 +535,7 @@ The 6176 meter may occasionally need to be calibrated. This is accomplished by a
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-![](6176_Manual_assets/_page_31_Picture_4.jpeg)
+![](../../attachments/6176_manual_assets--page_31_picture_4--3bda140ccce7543d.jpeg)
 
 The procedure for adjusting the meter is as follows:
 
@@ -548,7 +548,7 @@ The procedure for adjusting the meter is as follows:
 
 With the use of an external 1176 Stereo Adapter (1176SA), available from Universal Audio, two 6176s can be connected for stereo operation.
 
-![](6176_Manual_assets/_page_32_Figure_3.jpeg)
+![](../../attachments/6176_manual_assets--page_32_figure_3--f748d8d05f4c5314.jpeg)
 
 **Note:** When used in stereo operation, the Attack and Release controls on the two 6176s will interact so that changing the Attack or Release times on either device changes that of both devices. Note that when connected in a stereo configuration, the fastest attack time is doubled (that is, it becomes 40 microseconds instead of 20 microseconds).
 
@@ -571,7 +571,7 @@ As shown in the photograph below, there is a connector that can be plugged into 
 
 Move the connector to location H8 for 230V operation or location H6 for 115V operation. **NOTE: When changing operating voltage, the fuse value must be changed as well**. *Make sure the 6176 is properly set for the voltage in your area before applying AC power to the unit!* Failure to do so may damage the unit.
 
-![](6176_Manual_assets/_page_33_Picture_5.jpeg)
+![](../../attachments/6176_manual_assets--page_33_picture_5--8969d6508d5ff5d4.jpeg)
 
 **6176 Voltage Selector**
 
@@ -591,7 +591,7 @@ The fundamental problem facing Bill Putnam Sr. when he began designing the 1176 
 
 The output stage of the 1176 was a carefully crafted class A line level amplifier, designed to work with the then standard load of 600 ohms. The heart of this stage is the custom output transformer developed by Putnam; its design and performance is critical to the sound of the device. This transformer was distinguished by the fact that it used several additional sets of windings to provide feedback (a practice widely used in the tube amplifiers of the era), which made it an integral component in the operation of the output amplifier. Putnam spent a great deal of time perfecting the design of this tricky transformer and carefully qualified the few vendors capable of producing it.
 
-![](6176_Manual_assets/_page_34_Figure_4.jpeg)
+![](../../attachments/6176_manual_assets--page_34_figure_4--4d76fec91d80f9fa.jpeg)
 
 Figure 1 - Block Diagram of the 1176
 
@@ -601,7 +601,7 @@ Let's take a closer look at each stage within the 1176 circuit.
 
 #### Input Section
 
-![](6176_Manual_assets/_page_35_Picture_3.jpeg)
+![](../../attachments/6176_manual_assets--page_35_picture_3--d2d7b8ebd4a8cebb.jpeg)
 
 Figure 2 - Input Section
 
@@ -609,13 +609,13 @@ As shown in Figure 2, the 1176 input section is comprised of an adjustable passi
 
 #### Gain Reduction Stage
 
-![](6176_Manual_assets/_page_36_Figure_2.jpeg)
+![](../../attachments/6176_manual_assets--page_36_figure_2--5c3f1a30e8f190ac.jpeg)
 
 Figure 3 - Gain Reduction Stage
 
 As shown in Figure 3, gain reduction is achieved by a Field Effect Transistor (FET) which is used as a variable resistor. In the 1176, the FET acts like a resistor whose resistance is controlled by the voltage applied to its gate. The higher the voltage applied to the gate, the smaller the drain-source resistance will be.
 
-![](6176_Manual_assets/_page_37_Picture_1.jpeg)
+![](../../attachments/6176_manual_assets--page_37_picture_1--32a58c275ecab6ec.jpeg)
 
 Figure 4 - Using an FET as a voltage-variable resistor. The combination of R5 and Q1 acts as a voltage divider which controls the gain.
 
@@ -757,15 +757,15 @@ One feature in the 6176 circuit not found in the original 1176 is the addition o
 
 **XLR** - A standard three-pin connector used by many audio devices, with pin 1 typically connected to the shield of the cabling, thus providing ground. Pins 2 and 3 are used to carry audio signal, normally in a balanced (out of phase) configuration.
 
-![](6176_Manual_assets/_page_43_Picture_1.jpeg)
+![](../../attachments/6176_manual_assets--page_43_picture_1--d576494964d04c43.jpeg)
 
 # 6176 Channel Strip
 
 Session Recall Sheet
 
-![](6176_Manual_assets/_page_43_Figure_4.jpeg)
+![](../../attachments/6176_manual_assets--page_43_figure_4--610154beccdc075b.jpeg)
 
-![](6176_Manual_assets/_page_43_Picture_5.jpeg)
+![](../../attachments/6176_manual_assets--page_43_picture_5--a3712e4519b77691.jpeg)
 
 analog ears digital minds
 

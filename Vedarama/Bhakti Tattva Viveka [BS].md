@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bt-btv-bs"
 ---
 
-![обложка|156](<Bhakti Tattva Viveka [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/bhakti-tattva-viveka-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--52a4afc5a539eb59.jpeg>)
 
 Analysis of the Nature of Bhakti
 

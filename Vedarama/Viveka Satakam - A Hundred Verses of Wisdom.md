@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ps-viveka-satakam"
 ---
 
-![обложка|156](<Viveka Satakam - A Hundred Verses of Wisdom/обложка.jpeg>)
+![обложка|156](<../attachments/viveka-satakam---a-hundred-verses-of-wisdom--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--531cec44a2463c63.jpeg>)
 
 This book is a trilogy of Srila Prabodhananda Sarasvati’s writings which were so far unknown to the public. In the logest of the three works, viveka satakam, the author repeatedly expresses his ardent desire to go to Vrndavana. In Caitanya-Citrastakam and Nityanandastakam he delightfully employs selected words of unalloyed ardous for his worshipable lords. Typical of Srila Prabodhananda Sarasvati, his devotional ecstasy as if leaps from his heart into his words and there from to the heart of they sympathetic leader.
 

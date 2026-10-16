@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/js"
 ---
 
-![обложка|156](<Jaimini Sutras (English)/обложка.jpeg>)
+![обложка|156](<../attachments/jaimini-sutras-english--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b7e505f21925cafd.jpeg>)
 
 Jaimini is held in very great esteem throughout India not only for his philosophical aphorisms but for his astrological writings also. Jaiminisutras as presented in these pages deal with a system of astrology that has no parallel in the existing methods. The profundity and brevity of these sutras comprehend a vast amount of knowledge in the shortest forms possible. In the end the author remarks that all that he has written is quite true, as these truths have been propounded by the still earlier Maharshis, Pitamaha or Brahma, Vyasa, Parasara, Vasistha, Garga, Bhrigu, Surya, Chandra, Brihaspati, Sukra, Marichi, Palaha, Pulisa, Maya and other eminent scientists. The treatment of the different Bhavas, Rasis and Planets will be found a little confusing in the beginning but with some patience, diligence and practice the peculiarities of his system readily yield themselves to our comprehension. He gives various Lagnas, Hora Lagna, Ghatika Lagna, Upapada Lagna, Varnada Lagna and so forth. His Dasas are mostly founded on Rasis and Navamsas. Brahma, Rudra and Mahesvara Dasas are peculiar in these sutras. It is asserted by some that Jaiminisutras extend over eight adhyayas. However here only two chapters, in four parts each, have been explained. The masterly way in which the Maharshi has explained the Astrological principles, will surely make the students masters in this line.
 

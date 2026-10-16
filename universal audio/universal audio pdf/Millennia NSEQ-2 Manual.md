@@ -12,7 +12,7 @@ word_count: 1257
 
 High Resolution. Transformerless.
 
-![](<Millennia NSEQ-2 Manual_assets/_page_0_Picture_3.jpeg>)
+![](<../../attachments/millennia-nseq-2-manual_assets--page_0_picture_3--0d3105d905b9b4de.jpeg>)
 
 READ THIS!! The NSEQ-2 operates with lethal operating voltages -- the voltage inside the NSEQ-2 can kill you.\*
 
@@ -30,13 +30,13 @@ Tube or solid-state audio paths are selectable from a front-panel switch.
 
 Developed under license by Brainworx GmbH Germany for Plugin Alliance LLC USA. Licensed to Universal Audio.
 
-![](<Millennia NSEQ-2 Manual_assets/_page_0_Picture_12.jpeg>)
+![](<../../attachments/millennia-nseq-2-manual_assets--page_0_picture_12--f1fa483db2382a11.jpeg>)
 
-![](<Millennia NSEQ-2 Manual_assets/_page_0_Picture_13.jpeg>)
+![](<../../attachments/millennia-nseq-2-manual_assets--page_0_picture_13--a2c401b9cc2208b1.jpeg>)
 
-![](<Millennia NSEQ-2 Manual_assets/_page_0_Picture_14.jpeg>)
+![](<../../attachments/millennia-nseq-2-manual_assets--page_0_picture_14--29807e5264604c28.jpeg>)
 
-![](<Millennia NSEQ-2 Manual_assets/_page_0_Picture_15.jpeg>)
+![](<../../attachments/millennia-nseq-2-manual_assets--page_0_picture_15--d53f61f17dfc59f9.jpeg>)
 
 The MILLENNIA NSEQ-2 plugin can be installed and operated like any other UAD2 plugin. Please check www.uaudio.com for general info about the system requirements, etc.
 
@@ -46,7 +46,7 @@ The MILLENNIA NSEQ-2 plugin can be installed and operated like any other UAD2 pl
 
 High Resolution. Transformerless.
 
-![](<Millennia NSEQ-2 Manual_assets/_page_1_Picture_3.jpeg>)
+![](<../../attachments/millennia-nseq-2-manual_assets--page_1_picture_3--a663928d5d9f3f42.jpeg>)
 
 ### (1) BAND IN/OUT SWITCH "IN"
 
@@ -84,7 +84,7 @@ Conductive plastic rotary potentiometer which sweeps "Q" (Quality factor) from 0
 
 High Resolution. Transformerless.
 
-![](<Millennia NSEQ-2 Manual_assets/_page_2_Picture_3.jpeg>)
+![](<../../attachments/millennia-nseq-2-manual_assets--page_2_picture_3--3ae3feb066f6a8ec.jpeg>)
 
 # (8) MASTER CHANNEL IN/OUT SWITCH "IN"
 
@@ -126,7 +126,7 @@ You may want to try the M & S Solo Buttons of the Brainworx bx\_digital EQ. List
 
 High Resolution. Transformerless.
 
-![](<Millennia NSEQ-2 Manual_assets/_page_3_Picture_3.jpeg>)
+![](<../../attachments/millennia-nseq-2-manual_assets--page_3_picture_3--58e7eb6baa88bd03.jpeg>)
 
 ## EQUALIZER PARAMETERS
 

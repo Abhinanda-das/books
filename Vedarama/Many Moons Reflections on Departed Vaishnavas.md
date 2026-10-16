@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/girirajsw-mm"
 ---
 
-![обложка|156](<Many Moons Reflections on Departed Vaishnavas/обложка.jpeg>)
+![обложка|156](<../attachments/many-moons-reflections-on-departed-vaishnavas--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--59cafc9c94fe9d9a.jpeg>)
 
 Many Moons recalls and celebrates the wonderful lives, qualities, and activities of remarkable devotees who have passed beyond the scope of our vision.
 

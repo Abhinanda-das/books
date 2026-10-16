@@ -7,19 +7,19 @@ word_count: 4201
 ---
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0001-00.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0001-00--e8e3087277fbedd1.png>)
 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0001-01.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0001-01--25c6620bc0e3ce54.png>)
 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0001-02.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0001-02--a890d0e45bc0a5a5.png>)
 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0001-03.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0001-03--b479bb229f943757.png>)
 
 
 **bx_digital V3 Plug-in Manual** 
@@ -33,11 +33,11 @@ About the Brainworx bx_digital V3  •  4 Using the bx_digital V3 (1/2)  •  5 
 The bx_digital V3 Shifter and Dynamic EQs  •  9 The bx_digital V3 Gain Scale and Mono Maker  •  10 The bx_digital V3 Frequency Graphs and Metering  •  11 The bx_digital V3 Toolbars  •  12 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0002-04.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0002-04--180b9e2aa03a0570.png>)
 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0002-05.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0002-05--3bc28a0293ae2696.png>)
 
 
 The Legendary M/S Mastering and Recording EQ Developed under license by Brainworx GmbH Germany and Distributed by Universal Audio. 
@@ -159,7 +159,7 @@ Offers individual control over the position of the S signal within the stereo fi
 When this is enabled, each section (M and S or L and R) will be automatically soloed when changing parameters within that section 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0006-11.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0006-11--1442987cd2eba440.png>)
 
 
 ***Modus Knob:** Discrete 3 steps: “L/R”, “M/S Master”, “M/S Record” Use this setting to control the internal M/S matrix of bx_digital V3: 
@@ -209,7 +209,7 @@ band
 ## **The bx_digital V3 Input Filters and EQ Bands** 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0007-01.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0007-01--a83e9e06b152c9a3.png>)
 
 
 ## **Input Filters** 
@@ -227,7 +227,7 @@ The input filters on bx_digital V3 have been upgraded from those of V2. A wider 
 This button links the settings between both High Pass or Low Pass filters 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0007-09.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0007-09--cf72a599c587707c.png>)
 
 
 ## **EQ Bands** 
@@ -243,7 +243,7 @@ All five bands feature a Quality range of between 0.28 and 15, with the exceptio
 Each of the five bands has a 24 dB range of gain addition or reduction; the Gain parameter is affected by the Gain Scale setting. At the lowest Gain setting, the three middle bands (LMF, MF, HMF) produce a Notch Filter. 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0007-16.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0007-16--368799ee24ec5a27.png>)
 
 
 ## **EQ Band Frequencies** 
@@ -261,7 +261,7 @@ Each of the five bands has a 24 dB range of gain addition or reduction; the Gain
 Each EQ band can be deactivated via the button below the Frequency knob 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0007-24.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0007-24--fea2874f5764546e.png>)
 
 
 **Solo M (L) / Solo S (R):** Discrete two-steps on/off Use this to audition each signal in either the Mid/Left or Side/Right section of bx_digital V3 
@@ -279,7 +279,7 @@ Implements a proportional Q per-band that is similar to the behavior of an API 5
 ## **Presence Shift Module** 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0008-03.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0008-03--49ea8068d19c182b.png>)
 
 
 This is a fixed-band tool that can be used to instantly achieve an excited and punchy bass while automatically reducing the effect of the unwanted partials in the adjacent higher frequencies, tilting the curve so as to achieve a more natural sounding ‘thump.’ Conversely, one can also use the Bass Shift to reduce the core of a bass sound while emphasizing the adjacent frequencies, creating an implied bass. 
@@ -317,13 +317,13 @@ Controls the amount of gain added or reduced within the frequency band when usin
 The bx_digital V3 Shifters and Dynamic EQ - Master Version 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0008-21.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0008-21--78b59fff23a14b10.png>)
 
 
 ## **Dynamic EQ** 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0008-23.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0008-23--ec0db41e2f768716.png>)
 
 
 The Dynamic EQ parameter is the successor to the De-Esser found on bx_digital V2. Rather than exclusively performing dynamic reduction of a certain frequency, this 
@@ -353,7 +353,7 @@ Links each Dynamic EQ parameter between both M and S (or L and R) modules
 ## **The bx_digital V3 Gain Scale and Mono Maker** 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0009-01.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0009-01--f1ee17fd0c265d4d.png>)
 
 
 ## **Gain Scale** 
@@ -367,7 +367,7 @@ Controls the factor by which every gain band is calculated. For example, 100% is
 **Gain Scale Active:** Discrete two-steps on/off Toggles the Gain Scale parameter 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0009-07.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0009-07--202db59c4ac4366b.png>)
 
 
 ## **The Mono Maker** 
@@ -387,7 +387,7 @@ The bx_digital V3 Gain Scale and Mono Maker
 ## **EQ Panels** 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0010-02.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0010-02--0b7621dd410cbd78.png>)
 
 
 bx_digital V3 offers accurate frequency response representation via two graphs at the bottom of the plug-in’s interface; this section can be hidden by clicking the button at the top right corner of the interface. There are two graphs: one for the M (or L) channel, and one for the S (or R) channel. In the Mix version of bx_digital, there is only one graph. 
@@ -399,7 +399,7 @@ While these indicators are deceptively simple, they will show critical informati
 ## **Volume Meters** 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0010-07.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0010-07--948498ce244ec8b7.png>)
 
 
 **Pre EQ** measures levels before processing by bx_digital V3; stereo information is measured by default, but values reflect Mid and Side information when in M/S Recording mode. 
@@ -411,7 +411,7 @@ While these indicators are deceptively simple, they will show critical informati
 The **Correlation** meter shows phase coherence between the stereo channels of the entire processed sound. A value of +1 indicates a fully cohesive signal (mono-compatible), a value of 0 indicates a 90º phase shift, and a value of -1 indicates a full phase inversion between channels (mono-incompatible) 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0010-12.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0010-12--69445da3bd7e0b02.png>)
 
 
 **11** 
@@ -419,7 +419,7 @@ The **Correlation** meter shows phase coherence between the stereo channels of t
 ## **The bx_digital V3 Toolbars** 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0011-01.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0011-01--adcfccd0efe2796e.png>)
 
 
 ## **Plug-in Settings Toolbar** 
@@ -455,7 +455,7 @@ Copy and Paste between setting banks, reset paramters of selected bank
 10.000 Hz can be typed in as “10k”, 12.000 Hz would be “12k”, etc. 
 
 
-![](<bx_digital V3 mix Manual_assets/bx_digital_V3_mix_Manual.pdf-0011-18.png>)
+![](<../../attachments/bx_digital-v3-mix-manual_assets--bx_digital_v3_mix_manual.pdf-0011-18--22dc9bce0033f65e.png>)
 
 
 Closes and opens the bottom panel containing the frequency response graphs and the meters 

@@ -190,7 +190,7 @@ And when we need to direct you to a page or section elsewhere in the manual, we�
 **__________________________________________________________** 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0008-02.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0008-02--b034930ab1290e5a.png)
 
 
 **(1) Gain -** Adjusts the gain of the input stage in stepped  5 dB increments. Turning the Gain switch clockwise raises the gain. Because this also has the effect of reducing negative feedback ( _see page 24_ ), the Gain switch also alters the amount of the input tube’s harmonic distortion, a major contribution to the “warm” sound characteristic of tube equipment. The higher the Gain setting, the more coloration the LA-610 will impart to the incoming signal. 
@@ -286,7 +286,7 @@ And when we need to direct you to a page or section elsewhere in the manual, we�
 **__________________________________________________________** 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0012-02.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0012-02--1d5dbe09b9f0c218.png)
 
 
 **(1) LINE OUTPUT -** A balanced XLR connector carrying the line-level output signal of the LA-610. Note that Pin 2 is positive when the front panel Polarity toggle switch is down (IN ø). Pin 3 is positive when the front panel Polarity switch is up (OUT ø).  ( _see #4 on page 5_ ) 
@@ -306,11 +306,11 @@ And when we need to direct you to a page or section elsewhere in the manual, we�
 **__________________________________________________________** 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0013-02.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0013-02--77fd69f32dab82c2.png)
 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0013-03.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0013-03--1ea8f4e3986e1b2b.png)
 
 
 - **For most applications, we recommend keeping the LA-610 preamp Level control set between 7 and 10, and the compressor Gain control set at approximately 6 (unity gain) for starting positions. Adjustments can then be made to the preamp Gain, Impedance, and Filter controls,  as well as the compressor Mode, Peak Reduction and Gain controls, to achieve the optimum sound for your signal source.** 
@@ -418,11 +418,11 @@ The 610 console was used in hundreds of studio sessions for internationally reno
 Legendary engineer Wally Heider, manager of remote recording at United, used his 610 console to record many live recordings, including Peter, Paul and Mary’s _In Concert_ (1964), Wes Montgomery’s _Full House_ (1962), and all of the Smothers Brothers Live albums. Heider’s console was later acquired by Paul McManus in 1987, who spent a decade restoring it. 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0018-09.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0018-09--e00bca6fd7db5556.png)
 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0018-10.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0018-10--fa88fb2bc32d9928.png)
 
 
 **Wally Heider’s Remote Recording Rig, with 610 Console** 
@@ -444,7 +444,7 @@ The compressor section of the LA-610 is based upon the LA-2A, a vintage tube dev
 Shortly afterwards, Lawrence started a company called Teletronix, setting up shop in his hometown of Pasadena, California in 1958. Among the line of broadcast products manufactured by Teletronix were conversion and transmitter tubes, emergency tone generators, multiplex generators, even full-scale radio transmitters. Lawrence’s first attempt at building a leveling amplifier resulted in the Teletronix LA-1, of which around one hundred units were made. 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0019-07.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0019-07--5980addeec0dc01d.png)
 
 
 **Teletronix LA-1** 
@@ -460,7 +460,7 @@ At the heart of the LA-1 was an electro-optical sensor. This was a small light-p
 The LA-1 was not a big commercial success, but it did find its way into the hands of singing cowboy Gene Autry, who used it extensively for his own radio and recording dates, thus helping give it a degree of exposure and encouraging Lawrence to continue refining the design. Soon after, the LA-2 was released, with a sensor that had evolved to use an electro-luminescent panel as its light source—a component which lit up more quickly and thus resulted in a faster attack, yielding a gentler form of compression suitable for recording as well as broadcast applications. This sensor was named the T4, and its development serendipitously created one of the most musically sensitive devices to ever ride gain. ( _see page 22 for more information_ .) 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0020-04.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0020-04--8216bd869ddcf696.png)
 
 
 **Teletronix LA-2A** 
@@ -540,7 +540,7 @@ In the LA-610, the Peak Reduction knob controls both the threshold and the amoun
 Another important term is compression _ratio_ , which describes the amount of increase required in the incoming signal in order to cause a 1 dB increase in output. A ratio of 1:1 therefore means that for every 1 dB of increase in input level, there is a corresponding 1 dB increase in output level; in other words, there is no compression being applied. A ratio of 2:1, however, means that any time there is an increase of 2 decibels in the loudness of the input signal, there will only be a 1 dB increase in output signal. A ratio of 4:1 means that even when there is a full 4 decibels of increase in loudness, there will still only be a 1 decibel increase in output signal. (Bear in mind that decibel is a logarithmic form of measurement, so a 2 dB signal is not twice as loud as a 1 dB signal; in fact, it requires approximately 10 dB of increased gain for a signal to sound twice as loud.) 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0024-04.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0024-04--be1323a4134aaef9.png)
 
 
 As you can see from this illustration, at a low ratio, a compressor has relatively less effect on the incoming signal; at higher ratios, it has more effect. When operating in compression mode (that is, when the front-panel Mode switch is set to COMP), the LA-610 uses a compression ratio of approximately 3:1; however, as we will see shortly, this is program dependent, so that the actual ratio changes according to the frequency content of the incoming signal. 
@@ -582,7 +582,7 @@ In order to operate, a compressor must first have some method of determining the
 The T4 is the very heart of the LA-610’s  T4 optical compressor. Identical to the T4 used in the LA-2A, it is comprised of a small light-proof metal canister that contains two components: an electroluminescent (EL) panel (a device that lights up when electrical signal is applied) and a cadmiumsulfide photoelectric cell (a light sensitive device whose electrical resistance changes depending upon the intensity of light to which it is subjected). It is the unique gain reduction characteristics that result from the interaction between these two components that predominantly gives an electro-optical compressor its signature sound. (Note: While the “el-op” circuit design was one of the first of its kind, and is still used to this day in other compressor products, Universal Audio has its photo-cells uniquely manufactured to exacting specs that were originally found on the LA-2A. No other manufacturers have access to these cells.) 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0026-05.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0026-05--a7b7183cd5db4047.png)
 
 
 The genius of the el-op circuit lies in its simplicity: the larger the signal that is applied to the EL panel, the brighter the light that is generated; the brighter the light, the less resistance the photo-cell (which controls the gain of the electrical circuit) exhibits. Thus, the louder the incoming signal, the brighter the light and the more gain reduction is applied... and with virtually no harmonic distortion or audible artifacts. (In the most extreme case, if the resistance of the photo-cell becomes zero [a dead short], then the signal would be grounded and there would be no output. In reality, photo-cell resistance cannot go completely to zero and hence there will always be some signal present.) 
@@ -644,7 +644,7 @@ While, in theory, this should result in no harm to the connected microphone even
 The LA-610 will likely never need meter recalibration. No external trim is available with the MK II. However, in the event the meter needs trimming for any reason, an internal trim is available. 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0029-09.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0029-09--86956ee8bad85d08.png)
 
 
 - 25 - 
@@ -796,7 +796,7 @@ The LA-610’s tubes are accessible by removing the top lid. Always replace tube
 **__________________________________________________________** 
 
 
-![](la-610mkii_manual_250117_assets/la-610mkii_manual_250117.pdf-0035-02.png)
+![](../../attachments/la-610mkii_manual_250117_assets--la-610mkii_manual_250117.pdf-0035-02--61b2792ed3fe5102.png)
 
 
 - 31 - 

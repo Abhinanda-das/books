@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/yjagannba-rtdlaas"
 ---
 
-![обложка|156](<Rasa-tattva. Divine Love & Amorous Sentiment/обложка.jpeg>)
+![обложка|156](<../attachments/rasa-tattva.-divine-love-amorous-sentiment--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--db96f1943362ed50.jpeg>)
 
 I do not know how to apologise to my gentle reader for my brazen-facedness in rushing to the pres to publish my unworthy writings on Rasa-Tattva known otherwise as the liquefied mellow principle of devotion which is absolutely foreign to my experince though it is true that I was graciously and mercifully initiated into its mysteries by my Divine Master a couple of years before His disappearance from this mundane sphere. In doing so, I have deliberately brushed aside even the loving command of Sri Chaitanya Mahaprabhu in his words;
 

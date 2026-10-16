@@ -9,7 +9,7 @@ word_count: 129
 ## SPEAKER MODES 
 
 
-![](<UAFX Woodrow Control Maps_assets/UAFX_Woodrow_Control_Maps.pdf-0001-01.png>)
+![](<../../attachments/uafx-woodrow-control-maps_assets--uafx_woodrow_control_maps.pdf-0001-01--c98f3630881df0be.png>)
 
 
 **----- Start of picture text -----**<br>

@@ -11,11 +11,11 @@ word_count: 744
 Latency-free Tuner Plug-in with Fine-tuning Display, Ballistics selection and Output Dim. Precise.  Easy.  Fast. 
 
 
-![](<bx_tuner Manual_assets/bx_tuner_Manual.pdf-0001-02.png>)
+![](<../../attachments/bx_tuner-manual_assets--bx_tuner_manual.pdf-0001-02--7ba1d567099b60ed.png>)
 
 
 
-![](<bx_tuner Manual_assets/bx_tuner_Manual.pdf-0001-03.png>)
+![](<../../attachments/bx_tuner-manual_assets--bx_tuner_manual.pdf-0001-03--644d814e71cba910.png>)
 
 
 Thank you for using the BRAINWORX bx_tuner plug-in. 
@@ -31,15 +31,15 @@ bx_tuner’s detection and ballistics were optimized to work perfectly with guit
 Developed under license by Brainworx GmbH Germany for Plugin Alliance LLC USA. Licensed to Universal Audio. 
 
 
-![](<bx_tuner Manual_assets/bx_tuner_Manual.pdf-0001-10.png>)
+![](<../../attachments/bx_tuner-manual_assets--bx_tuner_manual.pdf-0001-10--fe3f2855016644f0.png>)
 
 
 
-![](<bx_tuner Manual_assets/bx_tuner_Manual.pdf-0001-11.png>)
+![](<../../attachments/bx_tuner-manual_assets--bx_tuner_manual.pdf-0001-11--7a5accad3248422f.png>)
 
 
 
-![](<bx_tuner Manual_assets/bx_tuner_Manual.pdf-0001-12.png>)
+![](<../../attachments/bx_tuner-manual_assets--bx_tuner_manual.pdf-0001-12--7cc5b5f3ea0c2c77.png>)
 
 
 The BRAINWORX bx_tuner plug-in can be installed and operated like any other UAD-2 plug-in. Please check www.uaudio.com for general info about the system requirements, etc. 
@@ -49,7 +49,7 @@ The BRAINWORX bx_tuner plug-in can be installed and operated like any other UAD-
 Latency-free Tuner Plug-in with Fine-tuning Display, Ballistics selection and Output Dim. Precise.  Easy.  Fast. 
 
 
-![](<bx_tuner Manual_assets/bx_tuner_Manual.pdf-0002-02.png>)
+![](<../../attachments/bx_tuner-manual_assets--bx_tuner_manual.pdf-0002-02--e6b469212624cbcf.png>)
 
 
 ## (1) TUNER ON / OFF (2-way switch) 

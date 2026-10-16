@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1967"
 ---
 
-![обложка|156](<1967 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1967-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--51a26d72c696f8ac.jpeg>)
 
 # 1967 Correspondence
 

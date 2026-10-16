@@ -7,7 +7,7 @@ word_count: 5227
 ---
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0001-00.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0001-00--c236068afa8b19af.png>)
 
 
 ## **AMS Neve Digital Film Console (DFC) Channel Strip Plugin Manual** 
@@ -15,7 +15,7 @@ word_count: 5227
 UAD2 AMS NEVE DFC Channel Strip Plugin 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0001-03.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0001-03--c4cca73c31f9013c.png>)
 
 
 The AMS Neve DFC (Digital Film Console) is the standard among the world’s premier motion picture facilities at the cutting edge of content creation and is designed specifically for multiformat film dubbing and TV post production at the highest level. 
@@ -23,13 +23,13 @@ The AMS Neve DFC (Digital Film Console) is the standard among the world’s prem
 The AMS Neve DFC (Digital Film Console) 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0001-06.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0001-06--5c9a2459beb1eddd.png>)
 
 
 AMS Neve Digital Film Console (DFC) Channel Strip Plugin Manual – D Critchley 2018 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0002-00.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0002-00--a61dbc859fb8ff6c.png>)
 
 
 At the heart of the DFC console is the world’s most powerful DSP engine, capable of delivering the legendary Neve sound across 1000 audio signal paths at 96kHz. 
@@ -69,13 +69,13 @@ AMS Neve Digital Film Console (DFC) Channel Strip Plugin Manual – D Critchley 
 1. A DFC ‘Chan-Quad Panel’ comprising 16 assignable rotary controls with alpha-numeric displays, 4 process ‘On’ buttons and 5 Process Selection buttons. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0003-02.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0003-02--c370389774a63c78.png>)
 
 
 2. A DFC ‘TFT Meter Panel’ comprising Interactive Graphs for EQ and Dynamics, Interactive Process Order display, Interactive Process In/Out display, Bypass and Output Meter. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0003-04.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0003-04--6ae4f0fbaa3071ce.png>)
 
 
 AMS Neve Digital Film Console (DFC) Channel Strip Plugin Manual – D Critchley 2018 
@@ -89,17 +89,17 @@ Each Control comprises two Alpha-numeric displays (known as ‘Alphas’ on DFC)
 Pressing one of the 5 Process Selection Buttons assigns the processes to the controls and to the ‘On’ buttons. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0004-04.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0004-04--c2bac0be9071531e.png>)
 
 
 Processes are assigned in horizontal ‘Strips’ comprising Process Name, 4 Controls and an ‘On’ button. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0004-06.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0004-06--364f00ce573c772b.png>)
 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0004-07.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0004-07--fedaf0b9fed282f3.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -179,7 +179,7 @@ AMS Neve Digital Film Console (DFC) Channel Strip Plugin Manual – D Critchley 
 The TFT Meter Panel comprises several key sections. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0006-02.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0006-02--7decbc4f6cfd4456.png>)
 
 
 ## **1. Interactive EQ & Filter graph** 
@@ -191,7 +191,7 @@ The response of the EQs and Filters are displayed in graphical form on this grap
 bands. All the bands are displayed even if they are switched off, the collective response of the bands that are switched on is displayed in the shaded red areas. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0006-07.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0006-07--e4de3d7cddc53a9f.png>)
 
 
 Key for coloured bands 
@@ -221,7 +221,7 @@ A ‘left click’ on a node switches that process on, a right click switches th
 Clicking on the nodes also assigns the relevant page to the ChanQuad panel and highlights the controls associated with the selected node. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0007-07.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0007-07--85d6c2021e4fa7b4.png>)
 
 
 Moving the node up and down modifies the threshold. 
@@ -239,7 +239,7 @@ A left mouse click on a process in the coloured key area will switch that proces
 The 7 processes are displayed in the order the signal will be processed through the channel strip. Clicking and dragging on the processes allows the order to be changed. The Dynamic EQ (Side Chain EQ) can be dragged to feed any dynamics process in the chain. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0007-15.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0007-15--fd39cd9c021e69b9.png>)
 
 
 ## **4. Process In/ Out** 
@@ -249,7 +249,7 @@ The In/ Out state of the 7 processes is shown in the Process In/ Out
 display, in the case of the Filter and EQ a ‘Half Lit’ display is shown if only some of the Bands are turned on. Clicking on the elements of the display will switch the In/ Out states. For the EQ and Filter a left 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0007-19.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0007-19--134e2f996f24aa33.png>)
 
 
 mouse click with switch the currently active bands only, a right mouse click will switch all the bands. A red LSTN indication appears over the EQ4 and D-EQ as a reminder if either of those processes has a Listen control set. 
@@ -267,13 +267,13 @@ The output meter level is displayed as a peak meter in dBFS, with the same balli
 For the mono instance a single meter bar is displayed. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0008-03.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0008-03--af1560b29c1ba3b2.png>)
 
 
 ## **6. Bypass** 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0008-05.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0008-05--4c1548b69bfc5b02.png>)
 
 
 A Bypass control is also included, when activated all controls can still be accessed although the plugin is not processing the audio. The Bypass indicator will light and the plugin controls will become dim. 
@@ -308,7 +308,7 @@ AMS Neve Digital Film Console (DFC) Channel Strip Plugin Manual – D Critchley 
 ## Controlling the EQ parameters 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0010-01.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0010-01--bce2b36e34611d50.png>)
 
 
 To access the EQ controls, select the EQ Process Selection button, the four strips of the Chan-Quad are then assigned to the EQ Controls and the ‘On’ buttons assigned to the EQ bands In/Out. 
@@ -341,7 +341,7 @@ There are 2 different shaped responses available, Low Pass Filter and High Pass 
 Controlling the Filter parameters 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0011-05.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0011-05--99c34883c91aed26.png>)
 
 
 To access the Filter controls, select the Filter/ Dyn-EQ Process Selection button, the first two strips of the Chan-Quad are then assigned to the Filter Controls. The first two ‘On’ buttons are assigned to the Filter bands In/Out. 
@@ -361,7 +361,7 @@ AMS Neve Digital Film Console (DFC) Channel Strip Plugin Manual – D Critchley 
 The Dynamics EQ (or Side Chain EQ) is a single band of Equalisation, applied to the Side Chain trigger signal of the Dynamics Process it is associated with. In the ‘Process Order’ section you can drag the DynEQ block as required to use the Dynamics EQ on any of the Dynamics Processes. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0012-02.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0012-02--60ed672fcc3d48c7.png>)
 
 
 Dynamics EQ is used to cut or boost a region of frequencies in the Side-Chain triggering signal. This will in turn alter the behaviour of the dynamics process it is associated with, causing it to be more or less responsive in that area of the frequency spectrum. 
@@ -371,7 +371,7 @@ Dynamics without Dynamic EQ
 Dynamics with Dynamic EQ 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0012-06.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0012-06--e7da0d8a2a4932b0.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -393,7 +393,7 @@ AMS Neve Digital Film Console (DFC) Channel Strip Plugin Manual – D Critchley 
 There is also a **Listen** Control, when selected the Dynamic EQ’d signal is routed to the output of the module, allowing the Side-Chain trigger signal to be monitored while adjusting the parameters. The Listen Control acts to **bypass** the Dynamics module to enable the EQ settings to be auditioned without that Dynamics module acting on the signal, leaving the Listen set could cause confusion and so there is a Red listen display set in the Process In/Out display area to warn that the listen is set. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0013-01.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0013-01--5f28e0ee4d1f866f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -405,7 +405,7 @@ Controlling the Dynamics EQ parameters
 Drag the DynEQ process to be associated with any of the Dynamics Processes as required. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0013-04.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0013-04--f37bcd11eaf31062.png>)
 
 
 To access the Dynamics EQ controls, select the Filter/ Dyn-EQ Process Selection button, the 3[rd] and 4[th] strips of the Chan-Quad are then assigned to the Dynamics EQ Controls. The 3[rd] ‘On’ button is assigned to the Dynamics EQ In/ Out control. 
@@ -431,7 +431,7 @@ This dynamic range reduction is achieved by automatically reducing the gain when
 The Ratio Control sets the Ratio of the gain of Input Signal vs Output Signal, for signals above the threshold level. With the ratio at 1:1 no change will take place, with a ratio of ∞:1 the effect of ‘Limiting’ will take place, a value of 2:1 is commonly used. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0014-04.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0014-04--dc6b2ac8acd357b7.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -443,7 +443,7 @@ Setting a higher knee value (softer knee) allows the signal to pass from uncompr
 Hard Knee (set at minimum) Softer Knee (set at 10dB) with ratio at ∞:1 with ratio at ∞:1 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0014-07.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0014-07--a7051ef7ba5c9520.png>)
 
 
 The Attack Time Control is used to set how quickly the compressor applies the gain reduction, at its minimum (70uS) the gain reduction is applied extremely quickly with a more audible effect, at its maximum (50mS) the change in gain is more gradually applied. 
@@ -469,7 +469,7 @@ To access the Compressor Controls, select the COMP/ LIM Process Selection Button
 Controlling the Compressor parameters 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0015-05.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0015-05--9125d4a91483293c.png>)
 
 
 To access the Compressor controls, select the Comp/ Lim Process Selection button, the first two strips of the Chan-Quad are then assigned to the Compressor Controls. The first ‘On’ button is assigned to the Compressor In/ Out control. 
@@ -501,7 +501,7 @@ The response of the Limiter is displayed on the Dynamics Graph, where Threshold 
 Controlling the Limiter parameters 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0016-07.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0016-07--23698a34779f8927.png>)
 
 
 To access the Limiter controls, select the Comp/ Lim Process Selection button, the 3[rd] and 4[th] strips of the Chan-Quad are then assigned to the Limiter Controls. The 3[rd] ‘On’ button is assigned to the Compressor In/ Out control. 
@@ -534,7 +534,7 @@ The expander works in the opposite way to the compressor, it reduces the gain of
 ## Controlling the Expander parameters 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0017-04.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0017-04--422bd6298085ad5e.png>)
 
 
 To access the Expander controls, select the Exp/ Gate Process Selection button, the first two strips of the Chan-Quad are then assigned to the Expander Controls. The First ‘On’ button is assigned to the Expander In/Out control. 
@@ -556,7 +556,7 @@ The Gate works in a similar way to the expander, but with a fixed Ratio of 1: �
 As the gate can introduce significant steps in gain reduction by cutting signals when passing below the threshold (or down by whatever the Depth control is set to), there can be unpleasant effects known as ‘chattering’ when an audio signal is around the threshold level and changing small amounts in level, causing the signal to be cut and uncut repeatedly. To get around this the gate has a Hysteresis control with settings between 0dB (no hysteresis) and 20dB. The hysteresis value makes the ‘Gate Open’ threshold higher than the ‘Gate Close’ threshold allowing the signal to fluctuate in this range without repeatedly closing and opening the gate. 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0018-05.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0018-05--509c81e66147a37b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -578,7 +578,7 @@ AMS Neve Digital Film Console (DFC) Channel Strip Plugin Manual – D Critchley 
 ## Controlling the Gate parameters 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0019-03.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0019-03--06a92132586fac67.png>)
 
 
 To access the Gate controls, select the Exp/ Gate Process Selection button, the 3[rd] and 4[th] strips of the Chan-Quad are then assigned to the Gate Controls. The 3[rd] ‘On’ button is assigned to the Gate In/ Out control. 
@@ -624,7 +624,7 @@ When set above the middle, some of the left signal is inverted and added to the 
 Controlling the Input and Output parameters 
 
 
-![](<AMS Neve DFC Channel Strip Manual_assets/AMS_Neve_DFC_Channel_Strip_Manual.pdf-0020-15.png>)
+![](<../../attachments/ams-neve-dfc-channel-strip-manual_assets--ams_neve_dfc_channel_strip_manual.pdf-0020-15--2cf50208ee374ccf.png>)
 
 
 To access the Input and Output controls, select the I/O Process Selection button, the 1[st] and 3[rd] strips of the Chan-Quad are then assigned to the Input and Output controls. 

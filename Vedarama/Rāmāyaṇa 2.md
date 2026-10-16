@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rama2"
 ---
 
-![обложка|156](<Rāmāyaṇa 2/обложка.jpeg>)
+![обложка|156](<../attachments/r%C4%81m%C4%81ya%E1%B9%87a-2--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d9d2427ac7b9395c.jpeg>)
 
 # Rāmāyaṇa 2
 

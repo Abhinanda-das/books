@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vinaya"
 ---
 
-![обложка|156](<Vinaya [English]/обложка.jpeg>)
+![обложка|156](<../attachments/vinaya-english--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--f0070a024f535c8b.jpeg>)
 
 The Vinaya is the regulatory framework for the sangha or monastic community of Buddhism based on the canonical texts called the Vinaya Pitaka. The teachings of the Gautama Buddha can be divided into two broad categories: Dharma "doctrine" and Vinaya "discipline". The Buddha constantly reminds his hearers that it is the spirit of the rules that counts. On the other hand, the rules themselves are designed to assure a satisfying life, and provide a perfect springboard for the higher attainments. Monastics are instructed by the Buddha to live as "islands unto themselves". In this sense, living life as the vinaya prescribes it is, as one scholar puts it: "more than merely a means to an end: it is very nearly the end in itself."
 

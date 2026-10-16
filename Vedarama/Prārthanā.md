@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ndt-prarthana"
 ---
 
-![обложка|156](<Prārthanā/обложка.jpeg>)
+![обложка|156](<../attachments/pr%C4%81rthan%C4%81--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--928667ccd01bad81.jpeg>)
 
 Srila Narottama dasa Thakura spent his days and nights relishing the pastimes of Radha and Krishna amongst the devotees. Prarthana and Prema-bhakti-candrika, the two most prominent works of Narottama dasa Thakura, are in reality the outpourings of a pure heart crying in separation from Gauranga Mahaprabhu and Radha-Govinda. The bhajanas in these books are full of humility, eagerness, and anxiety for devotional perfection. Singing these songs causes the mind to reflect the mood of pure devotion, and the heart to feel intense separation from Radha and Krishna.
 

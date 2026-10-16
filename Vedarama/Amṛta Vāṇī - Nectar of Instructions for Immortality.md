@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bst-amrita-vani"
 ---
 
-![обложка|156](<Amṛta Vāṇī - Nectar of Instructions for Immortality/обложка.jpeg>)
+![обложка|156](<../attachments/am%E1%B9%9Bta-v%C4%81%E1%B9%87%C4%AB---nectar-of-instructions-for-immortality--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--0613c7795cd1c824.jpeg>)
 
 This book is the answer to the prayers of many nectar-seeking devotees who have been hankering to drink the immortal nectarine instructions given by Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura Prabhupāda. The book answers question to all previously unanswered questions, and provide deep illumination into the philosophy and practice of Krishna consciousness.
 

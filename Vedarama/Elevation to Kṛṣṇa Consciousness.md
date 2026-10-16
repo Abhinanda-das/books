@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ek"
 ---
 
-![обложка|156](<Elevation to Kṛṣṇa Consciousness/обложка.jpeg>)
+![обложка|156](<../attachments/elevation-to-k%E1%B9%9B%E1%B9%A3%E1%B9%87a-consciousness--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1259e6f476efb612.jpeg>)
 
 The quality of our consciousness can go up or down, based on how we see the world and act in it. Acting like the permanent, spiritual beings we are—subordinate parts of a supreme whole—enhances our consciousness; we become happy. But if we make the happiness of our temporary body and mind our life's priority, our consciousness shrinks; misery sets in. Spiritual elevation—raising our consciousness to higher, happier levels—happens quickly when we revive our God consciousness.
 

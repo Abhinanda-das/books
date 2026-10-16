@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vcaa"
 ---
 
-![обложка|156](<Vedic Cosmography and Astronomy/обложка.jpeg>)
+![обложка|156](<../attachments/vedic-cosmography-and-astronomy--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--efba78e76ad890d2.jpeg>)
 
 Comparing the astronomy and cosmography of the Srimad-Bhagavatam and other Puranas to those of the Vedic astronomical treatises called jyotisa sastras, Dr. Thompson shows that the two versions are complementary, not contradictory. In this way he gives insight into both.
 

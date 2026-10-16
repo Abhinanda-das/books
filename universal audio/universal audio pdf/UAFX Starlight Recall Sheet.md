@@ -7,7 +7,7 @@ word_count: 98
 ---
 
 
-![](<UAFX Starlight Recall Sheet_assets/UAFX_Starlight_Recall_Sheet.pdf-0001-00.png>)
+![](<../../attachments/uafx-starlight-recall-sheet_assets--uafx_starlight_recall_sheet.pdf-0001-00--3902e7171a8bb4d8.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -23,11 +23,11 @@ DECAY FEEDBACK MIX DECAY FEEDBACK MIX DECAY FEEDBACK MIX<br>A
 
 
 
-![](<UAFX Starlight Recall Sheet_assets/UAFX_Starlight_Recall_Sheet.pdf-0001-01.png>)
+![](<../../attachments/uafx-starlight-recall-sheet_assets--uafx_starlight_recall_sheet.pdf-0001-01--c7d500bb9722c2c6.png>)
 
 
 
-![](<UAFX Starlight Recall Sheet_assets/UAFX_Starlight_Recall_Sheet.pdf-0001-02.png>)
+![](<../../attachments/uafx-starlight-recall-sheet_assets--uafx_starlight_recall_sheet.pdf-0001-02--d3c3aef18ee26fe2.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -35,7 +35,7 @@ NOTES<br>**----- End of picture text -----**<br>
 
 
 
-![](<UAFX Starlight Recall Sheet_assets/UAFX_Starlight_Recall_Sheet.pdf-0001-03.png>)
+![](<../../attachments/uafx-starlight-recall-sheet_assets--uafx_starlight_recall_sheet.pdf-0001-03--970f3a822bfdb058.png>)
 
 
 **----- Start of picture text -----**<br>

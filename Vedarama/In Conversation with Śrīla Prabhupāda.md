@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/incwsp"
 ---
 
-![обложка|156](<In Conversation with Śrīla Prabhupāda/обложка.jpeg>)
+![обложка|156](<../attachments/in-conversation-with-%C5%9Br%C4%ABla-prabhup%C4%81da--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--0d19b1b8cdf5cc56.jpeg>)
 
 This book represents Srila Prabhupada’s living moments in dialogical exchanges with Lokanath Swami in particular and generally with other disciples, followers and well-wishers. In many ways these conversational moment create new ways of understanding issues. Recollecting these conversations allows one to continue one’s spiritual quest and inspire everyone with their services.
 

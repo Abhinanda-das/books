@@ -8,7 +8,7 @@ word_count: 1734
 
 # Massenburg DesignWorks®
 
-![](<MDWEQ5 Manual_assets/_page_0_Figure_1.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_0_figure_1--9bb6dab46750db3d.jpeg>)
 
 ## MDW®EQ5-UAD Parametric EQ
 
@@ -16,7 +16,7 @@ word_count: 1734
 
 Version 1.0
 
-![](<MDWEQ5 Manual_assets/_page_0_Picture_5.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_0_picture_5--53adb8d935f23d10.jpeg>)
 
 #### Copyright Information
 
@@ -50,7 +50,7 @@ The Massenburg DesignWorks Hi-Res EQ (MDW®EQ) plug-in for UA systems was develo
 
 #### The MDW®EQ 5-Band Plug-In Window
 
-![](<MDWEQ5 Manual_assets/_page_4_Figure_2.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_4_figure_2--6acf69bb8f28e6c0.jpeg>)
 
 The Massenburg DesignWorks 5-Band High Resolution Equalizer has five independent filter bands connected in series. EQ Bands 1 - 4 can be individually set to one of seven filter types as follows:
 
@@ -78,7 +78,7 @@ Filter Band 5 can be individually set to one of eleven filter types as follows:
 
 ### The MDW®EQ 3-Band Plug-In Window
 
-![](<MDWEQ5 Manual_assets/_page_5_Figure_1.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_5_figure_1--8beb3b92f4abb204.jpeg>)
 
 The Massenburg DesignWorks 3-Band High Resolution Equalizer has three independent filter bands connected in series. All EQ bands can be individually set to one of seven filter types as follows:
 
@@ -144,11 +144,11 @@ To edit a parameter with a mouse:
 - **2** From the Filter Type selector pop-up menu on the desired band, select the filter type.
 - **3** Drag the parameter knob vertically or horizontally to adjust the parameters for the effect you want.
 
-![](<MDWEQ5 Manual_assets/_page_7_Picture_9.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_7_picture_9--668c67cd28cd4bb5.jpeg>)
 
-![](<MDWEQ5 Manual_assets/_page_7_Picture_10.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_7_picture_10--ee662ddacd0b5f1c.jpeg>)
 
-![](<MDWEQ5 Manual_assets/_page_7_Picture_11.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_7_picture_11--68da1d0ec7eeb0cd.jpeg>)
 
 #### **Keyboard Shortcuts**
 
@@ -167,7 +167,7 @@ Knob controls display their current value. You can edit this value by double-cli
 
 *Tips: In fields that support values in kilohertz, typing "k" after a number value will multiply the value by 1000. For example, type "1.2k" to enter a frequency of 1200 Hz.*
 
-![](<MDWEQ5 Manual_assets/_page_8_Picture_1.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_8_picture_1--7f5cb4358a15d645.jpeg>)
 
 *Editing a control manually (after double-clicking)*
 
@@ -182,17 +182,17 @@ To Copy Band Parameters
 
 ■ In the background of the band you wish to copy, click and hold down mouse button until pop-up appears. Then choose Copy band settings.
 
-![](<MDWEQ5 Manual_assets/_page_8_Picture_9.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_8_picture_9--dd5b7f45bf9eb5bb.jpeg>)
 
 #### To Paste Band Parameters
 
 ■Click and hold anywhere on the background of the band you wish to paste. Then choose Paste band settings.
 
-![](<MDWEQ5 Manual_assets/_page_9_Figure_0.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_9_figure_0--b5dc11cf926a43a7.jpeg>)
 
 ## Using ISO Peak® Mode
 
-![](<MDWEQ5 Manual_assets/_page_9_Figure_2.jpeg>)
+![](<../../attachments/mdweq5-manual_assets--page_9_figure_2--c7eab0e61bf3e103.jpeg>)
 
 - **1** Choose a band on which to use IsoPeak® by clicking on the band number.
 - **2** You'll hear only that band selected for IsoPeak® and only the absolute peak that the band generates (which will sound very narrow). The spectrum display will show that peak being monitoring.

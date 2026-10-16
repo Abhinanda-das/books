@@ -7,7 +7,7 @@ word_count: 3728
 ---
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0001-00.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0001-00--cd3eda095f85f5ae.png>)
 
 
 **User Manual Bass Amp Room Bass Amp Room 8x10** 
@@ -15,7 +15,7 @@ word_count: 3728
 Rev. Jan 06, 2014 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0002-00.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0002-00--bdf4d754005e46cc.png>)
 
 
 ## **Softube User Manual** 
@@ -82,13 +82,13 @@ Softube plug-ins are “what you see is what you get” products. You should be 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0005-06.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0005-06--bd8e522afada1df6.png>)
 
 
 ## **Menu Row** 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0005-08.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0005-08--9d595de02f585ec7.png>)
 
 
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Dyna-mite plug-in as example, but the same goes for all plug-ins. 
@@ -104,7 +104,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0005-15.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0005-15--4b25bb71ff02f5f6.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -112,7 +112,7 @@ Enable Setup<br>**----- End of picture text -----**<br>
 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0005-16.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0005-16--2041abad3a5b374f.png>)
 
 
 **6** | USER INTERFACE 
@@ -178,7 +178,7 @@ WHEN WE DESIGNED BASS AMP ROOM we had two goals in mind. The first goal was to g
 The second user is one who, just like the previous user, wants the best possible amp modeling, but recognizes the fact that he/she cannot spend too much time tweaking it. That is why we have, for example, only a single tone control knob on the D.I. and a one- knob limiter. Don’t be fooled by the simplicity, however; you still have the ability to create a unique signature sound. The strength lies in the very easy individual blocks (the amp, the D.I., the cabs and mics) and the ability to mix and match between them. 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0007-07.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0007-07--49ba28bdebd1e5ed.png>)
 
 
 In short, you need the same skills to master this software as you need when dealing with the real studio set up. You can get back to doing what you do best, because music production should be about using your ears, not your computer skills. 
@@ -214,7 +214,7 @@ Clicking on the background while holding the Shift- key toggles through the cabs
 In the mix panel, you can change the balance between the amplifier signal and the D.I. signal. The tonality of the D.I. signal can be changed with the three EQ knobs and the compressor/limiter. You can also change the phase of the amplifier signal and adjust the output volume. 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0008-14.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0008-14--294b5faa123a4cd7.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -222,7 +222,7 @@ Amp Panel<br>**----- End of picture text -----**<br>
 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0008-15.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0008-15--4fa120510eb9452d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -230,19 +230,19 @@ Room View<br>**----- End of picture text -----**<br>
 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0008-16.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0008-16--acbacec71653b282.png>)
 
 
 ## DI and Mix Panel 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0008-18.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0008-18--1a4b069351a9591e.png>)
 
 
 SOFTUBE USER’S GUIDE | **9** 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0009-01.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0009-01--0f6a6d9bda2adaa1.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -250,7 +250,7 @@ High/Low Normal Volume Bass Middle Treble Master Volume<br>**----- End of pictur
 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0009-02.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0009-02--cda8a870f75c3a8a.png>)
 
 
 ## **The Amplifier** 
@@ -278,7 +278,7 @@ the amount of distortion you want.
 Click and drag left/right on the background to change cabinets. 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0010-03.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0010-03--af0b112fb5e6c878.png>)
 
 
 ## 8x10 
@@ -306,13 +306,13 @@ The regular 4x12” cabinet is preferred by many bass players over the industry 
 This is the odd bird among the cabinets. While trying out cabinets for Bass Amp Room, we felt that we needed to listen to something completely different just to clear our minds. We found this old open back 1x12”, plugged it in, and immediately fell in love with the sound. Some sort of ‘60s sound with lots of room. And you can dial in more low end if you need it just by moving the mic more to the off axis position. 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0010-16.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0010-16--484311165dd6acce.png>)
 
 
 SOFTUBE USER’S GUIDE | **11** 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0011-01.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0011-01--76d2d0f43a1476e1.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -376,7 +376,7 @@ SOFTUBE USER’S GUIDE | **13**
 The bass signal (Main Input) is split up into two identical signals, one that goes to the amp (top section) and one to the D.I. (bottom section). The two signals are mixed with the D.I./Amp Balance fader. 
 
 
-![](<Softube Bass Amp Room 8x10 Manual_assets/Softube_Bass_Amp_Room_8x10_Manual.pdf-0013-03.png>)
+![](<../../attachments/softube-bass-amp-room-8x10-manual_assets--softube_bass_amp_room_8x10_manual.pdf-0013-03--8e6cacc2d0b0993b.png>)
 
 
 **----- Start of picture text -----**<br>

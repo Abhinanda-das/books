@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/letters1953"
 ---
 
-![обложка|156](<1953 Correspondence/обложка.jpeg>)
+![обложка|156](<../attachments/1953-correspondence--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--077ed93bab0d26ab.jpeg>)
 
 # 1953 Correspondence
 

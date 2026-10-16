@@ -7,23 +7,23 @@ word_count: 272
 ---
 
 
-![](UAFX+Knuckles+'92+Quick+Start_assets/UAFX+Knuckles+'92+Quick+Start.pdf-0001-00.png)
+![](../../attachments/uafx-knuckles-92-quick-start_assets--uafx-knuckles-92-quick-start.pdf-0001-00--3f0d7efa100b223b.png)
 
 
 
-![](UAFX+Knuckles+'92+Quick+Start_assets/UAFX+Knuckles+'92+Quick+Start.pdf-0001-01.png)
+![](../../attachments/uafx-knuckles-92-quick-start_assets--uafx-knuckles-92-quick-start.pdf-0001-01--23d30f3abee4ebc1.png)
 
 
 GET MORE TONES! Scan here, or go to uaudio.com/uafx/start for free cabs, presets, and deep editing. 
 
 
-![](UAFX+Knuckles+'92+Quick+Start_assets/UAFX+Knuckles+'92+Quick+Start.pdf-0001-03.png)
+![](../../attachments/uafx-knuckles-92-quick-start_assets--uafx-knuckles-92-quick-start.pdf-0001-03--ba03fdb40ae6a4d6.png)
 
 
 �0008532R3 
 
 
-![](UAFX+Knuckles+'92+Quick+Start_assets/UAFX+Knuckles+'92+Quick+Start.pdf-0002-00.png)
+![](../../attachments/uafx-knuckles-92-quick-start_assets--uafx-knuckles-92-quick-start.pdf-0002-00--228607171709ea22.png)
 
 
 |GAIN|Adjusts gain to the preamp circuit|
@@ -77,14 +77,14 @@ Power Supply Isolated 9VDC, center-negative, 400 mA minimum, 2.�x5.5 mm barrel
 Find complete documentation at uaudio.com/uafx/start 
 
 
-![](UAFX+Knuckles+'92+Quick+Start_assets/UAFX+Knuckles+'92+Quick+Start.pdf-0002-04.png)
+![](../../attachments/uafx-knuckles-92-quick-start_assets--uafx-knuckles-92-quick-start.pdf-0002-04--b38b021edda8cdd9.png)
 
 
 
-![](UAFX+Knuckles+'92+Quick+Start_assets/UAFX+Knuckles+'92+Quick+Start.pdf-0002-05.png)
+![](../../attachments/uafx-knuckles-92-quick-start_assets--uafx-knuckles-92-quick-start.pdf-0002-05--5acfdb227e746652.png)
 
 
 
-![](UAFX+Knuckles+'92+Quick+Start_assets/UAFX+Knuckles+'92+Quick+Start.pdf-0002-06.png)
+![](../../attachments/uafx-knuckles-92-quick-start_assets--uafx-knuckles-92-quick-start.pdf-0002-06--7bf1eb611ea469e1.png)
 
 

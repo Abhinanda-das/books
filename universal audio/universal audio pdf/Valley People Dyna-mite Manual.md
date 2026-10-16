@@ -7,7 +7,7 @@ word_count: 5057
 ---
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0001-00.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0001-00--1a410253a9766787.png>)
 
 
 # **User Manual Valley People Dyna-mite** 
@@ -15,7 +15,7 @@ word_count: 5057
 Rev. Aug 05, 2013 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0002-00.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0002-00--45a2262f539582c9.png>)
 
 
 ## **Softube User Manual** 
@@ -78,13 +78,13 @@ Softube plug-ins are “what you see is what you get” products. You should be 
 ~~Setup Changes global options for all~~ instances of that plug-in. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0005-06.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0005-06--8c11112274cf4843.png>)
 
 
 ## **Menu Row** 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0005-08.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0005-08--b9083c4a70f0a5fa.png>)
 
 
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Dyna-mite plug-in as example, but the same goes for all plug-ins. 
@@ -100,7 +100,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0005-15.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0005-15--c973eca3037cca94.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -108,7 +108,7 @@ Enable Setup<br>**----- End of picture text -----**<br>
 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0005-16.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0005-16--e7c68a52544a2faf.png>)
 
 
 **6** | USER INTERFACE 
@@ -200,7 +200,7 @@ But don’t despair. It doesn’t take much time to learn
 **8** | VALLEY PEOPLE DYNA-MITE 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0008-01.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0008-01--1aba3ed1b29871d9.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -236,7 +236,7 @@ _For more detailed explanations of each knob, please see the following chapters.
 SOFTUBE USER’S GUIDE | **9** 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0009-01.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0009-01--5b12b80d1abc394a.png>)
 
 
 ## **Basic Limiting** 
@@ -260,7 +260,7 @@ _Limiting is a hard Inf:1 ratio compression that can be used to increase the app
 **10** | VALLEY PEOPLE DYNA-MITE 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0010-01.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0010-01--bbbaea89cafbeae9.png>)
 
 
 ## **Basic Expanding** 
@@ -296,7 +296,7 @@ All three switches work independently of each other, so don’t be alarmed. Once
 Determines the source of the detector. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0011-05.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0011-05--e7c399da3717c1d6.png>)
 
 
 ~~INT~~ ~~**Internal source** , normal operating mode for~~ ~~**noise gating, expanding** or~~ ~~**limiting** . Te~~ gain reduction circuit acts upon the same signal that is fed to the detector. ~~DS-FM~~ ~~**Internal source** , but with a detector flter that~~ ~~**boosts the high frequencies** , thus mak-~~ ing it easier for high frequencies to trig the detector. This mode can be used for **de-essing** , or it can be used rather creatively when increased sensitivity to high frequencies is desirable. 
@@ -308,7 +308,7 @@ Determines the source of the detector.
 Determines if the Dyna-mite should expand or limit the sound. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0011-10.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0011-10--37c1b382796ab250.png>)
 
 
 ~~EXP~~ ~~**Expander mode** . Reduce gain for signals~~ ~~**below** Treshold.~~ 
@@ -324,7 +324,7 @@ Determines if the Dyna-mite should expand or limit the sound.
 This switch determines the ratio and attack times of the detector. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0012-03.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0012-03--58f701bae0210cab.png>)
 
 
 ~~GATE~~ ~~**Fast and aggressive attack** . Tis is the most extreme mode. Fast attack time (about~~ 50 µs). In LIMIT mode, the ratio is negative (1:–20), which means that for every dB above threshold, the output signal will be reduced by 20 dB! In EXP mode, you’ll have a hard noise gate with a 1:20 ratio. So for every dB below the threshold, the signal will be reduced by another 19 dBs. 
@@ -338,7 +338,7 @@ This switch determines the ratio and attack times of the detector.
 SOFTUBE USER’S GUIDE | **13** 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0013-01.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0013-01--a7c78f8a3a5a11d8.png>)
 
 
 ## **Knobs** 
@@ -360,7 +360,7 @@ This control is very useful when expanding or gating. If you for example use the
 In the original hardware, the **Range** control was only available in the EXP mode and left out in the LIMIT mode. This was probably due to implem enta tion difficulties, so we decided to intro duce the **Range** knob to the other modes as well. (To get the plug-in to beh ave exactly like the hardware, just set the **Range** knob back to 60 dB in the limit modes.) 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0013-11.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0013-11--ba32d8b13f0d0e2e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -416,7 +416,7 @@ In theory, the difference between AVG and PEAK lies basically in the way the det
 ## **OUT (dB)** 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0015-05.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0015-05--7f52ee494219c407.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -430,7 +430,7 @@ In practice, the differences lies in the timing. AVG is a bit slower, has a more
 You can always toggle between the peak and avg modes and listen to the difference. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0015-09.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0015-09--6215ae15abfcac75.png>)
 
 
 ## Classic Limiting 
@@ -460,7 +460,7 @@ example adding length to a snare drum sound or to limit fast transients.
 **16** | VALLEY PEOPLE DYNA-MITE 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0016-01.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0016-01--52d2b33b4ce123b9.png>)
 
 
 ## De-Essing and Classic Limiting With Pre-Emphasis Filtering 
@@ -492,7 +492,7 @@ SOFTUBE USER’S GUIDE | **17**
 The expansion modes is operated in a very similar way to the limiting modes, with the big exception that it is, well, expanding rather than limiting. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0017-03.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0017-03--7d58687d382689b8.png>)
 
 
 ## Weird Limiting 
@@ -512,7 +512,7 @@ This is the mode that is the hardest to find some use for. It crackles and pops 
 Another exception is that the gate mode actually gates the signal in the exp mode, while it in the limit mode acts like a negative ratio limiter. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0017-12.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0017-12--54e2c54af9c57a80.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -542,7 +542,7 @@ and is pretty efficient to use on drums or heavy metal guitar if you want a more
 In all of these modes you can toggle between int and ds-fm to get different weighting of the frequencies. Setting the **Detector Source** in dsfm mode will make the expander trig more easily on high frequencies, which can be a good thing if you for example are gating a drum beat and want to avoid gating the high frequency cymbals. Since noise often have a lots of high frequency content, you should set it to int if you want to do actual noise gating. But you probably want to use it more creatively anyway... 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0018-03.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0018-03--165d4c703fbfa379.png>)
 
 
 ## AVG MODE: Soft Noise Gating (INT/DS-FM, EXP, AVG) 
@@ -552,7 +552,7 @@ Ratio = 1:2. A signal _x_ dB below **Threshold** , will be attenuated another _x
 The least obtrusive noise gate. Good for classic noise gating with sources that doesn’t have strong transients (such as voice and strings). Use on slow to medium attack sounds. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0018-07.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0018-07--6e2a8ce1febdbdcf.png>)
 
 
 If the attack of the instrument is moderate to fast, such as with drums or certain types of guitar, it is better to use this peak mode. The faster attack time in peak mode assures that the gain is fully restored when the transient strikes. 
@@ -560,7 +560,7 @@ If the attack of the instrument is moderate to fast, such as with drums or certa
 This mode can be pretty nice to use if you want to shorten the decay of a sound, such as a bass line or steel stringed acoustic guitar. With this mode you can get a standard Jazz Bass to sound like a damped Hofner string bass, or a steel stringed $3000 Martin to sound like a $30 banjo... Just set the **Release** time so that you get the right amount of decay. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0018-10.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0018-10--bccbdb1c1d6990da.png>)
 
 
 ## GATE MODE: Hard Noise Gating (INT/DS-FM, EXP, GATE) 
@@ -592,11 +592,11 @@ The Valley People Dyna-mite is a very cool and affordable hardware limiter/expan
 ALL VISUAL AND AURAL REFERENCES TO THE VALLEY PEOPLE DYNA-MITE ARE TRADEMARKS BEING MADE WITH WRITTEN PERMISSION FROM PMI AUDIO. THE VALLEY PEOPLE, DYNA-MITE AND ASSOCIATED LOGOS ARE TRADEMARKS OF PMI AUDIO GROUP, USED UNDER LICENSE. ALL SPECIFICATIONS SUBJECT TO CHANGE WITHOUT NOTICE. ALL RIGHTS RESERVED. 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0019-09.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0019-09--9576f51b16e8bb05.png>)
 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0020-00.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0020-00--66dd383a2644958e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -604,7 +604,7 @@ Softub<br>**----- End of picture text -----**<br>
 
 
 
-![](<Valley People Dyna-mite Manual_assets/Valley_People_Dyna-mite_Manual.pdf-0021-00.png>)
+![](<../../attachments/valley-people-dyna-mite-manual_assets--valley_people_dyna-mite_manual.pdf-0021-00--21b30f1a04dd77e4.png>)
 
 
 **----- Start of picture text -----**<br>

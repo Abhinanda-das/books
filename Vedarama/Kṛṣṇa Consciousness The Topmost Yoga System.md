@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/tys"
 ---
 
-![обложка|156](<Kṛṣṇa Consciousness The Topmost Yoga System/обложка.jpeg>)
+![обложка|156](<../attachments/k%E1%B9%9B%E1%B9%A3%E1%B9%87a-consciousness-the-topmost-yoga-system--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1e8c4ad3b3b795fc.jpeg>)
 
 On July 29, 1971, His Divine Grace A.C. Bhaktivedanta Swami Prabhupada delivered a lecture at the University of Florida in Gainesville. Speaking mostly to an audience of young college students, he addressed many popular misconceptions about the meaning and goal of yoga.
 

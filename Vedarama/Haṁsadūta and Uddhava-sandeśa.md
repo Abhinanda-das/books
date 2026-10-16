@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rupa-hau"
 ---
 
-![обложка|156](<Haṁsadūta and Uddhava-sandeśa/обложка.jpeg>)
+![обложка|156](<../attachments/ha%E1%B9%81sad%C5%ABta-and-uddhava-sande%C5%9Ba--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--7799e613bf03508c.jpeg>)
 
 Originally composed in Sanskrit and layered with spiritual depth and practical insight, Mystic Poetry is a unique contribution to the religious world. Unlike the poetry of other mystics in search of the eternal, Rupa Gosvami's writing brings the art of devotional love to life. In this captivating volume, two important Sanskrit works of the 16th century saint Sri Chaitanya Mahaprabhu have been rendered into English for the first time. They stress the theme of vipralambha, or "love in separation," and aim to help the spiritual aspirant through "the dark night of the soul." Through sharing his own experiences, Rupa Goswami states that a direct personal relationship with the Divine is possible for us all.
 

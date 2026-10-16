@@ -43,7 +43,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--1ab8a356751415b7.png)
 </figure>
 
 Bill Putnam Jr.
@@ -52,7 +52,7 @@ Bill Putnam Jr.
 
 # Max Quick Start
 
-![max-qs.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/2dbb8daebe69f20f38b8085de091dcd019d06e7f.png)
+![max-qs.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--2dbb8daebe69f20f38b8085de091dcd019d06e7f--2c5df610139e8f31.png)
 
 [**Download Max Quick Start**](https://help.uaudio.com/hc/en-us/articles/360058186352)
 
@@ -108,7 +108,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-non-amp.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/097372538c02d4b5c1b83457b44efa5e78485dc7.png)
+![rear-callouts-non-amp.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--1189723291a9c227.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -326,7 +326,7 @@ MAX can be set to one of four different footswitch modes, which each route the c
 
 ### <span style="color: #434343;">Serial</span>
 
-![max-serial-flow.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/51bc4fade673840be78f919060715358a3ce7d72.png)
+![max-serial-flow.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--51bc4fade673840be78f919060715358a3ce7d72--50e43d2edb2027c5.png)
 
 Press the left or right footswitches to toggle Comp 1 and Comp 2 on/off. One or both can be on at the same time. The output of Comp1 feeds the input of Comp 2\
 \
@@ -334,7 +334,7 @@ Press the left or right footswitches to toggle Comp 1 and Comp 2 on/off. One or 
 
 ### <span style="color: #434343;">Parallel</span>
 
-![max-parallel-flow.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/000e1577f67c7c286c01855ae3407a5dc175adef.png)
+![max-parallel-flow.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--000e1577f67c7c286c01855ae3407a5dc175adef--1dc93035c9c6d2c4.png)
 
 Press the left or right footswitches to toggle Comp 1 and Comp 2 on/off. One or both compressors can be on at the same time. The input signal is split before feeding into each Comp separately, and the outputs of both Comps are mixed before the pedal output.
 
@@ -344,13 +344,13 @@ The Output knob controls the overall level of each compressor, so you can balanc
 
 ### <span style="color: #434343;">Exclusive</span>
 
-![max-exclusive-flow.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/d377f1ac8ed79a8b787103a3fb4c8f0807cd83f8.png)
+![max-exclusive-flow.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--d377f1ac8ed79a8b787103a3fb4c8f0807cd83f8--5c5beaf4b98b4e90.png)
 
 Press the left or right footswitches to toggle Comp 1 or Comp 2 on/off. Only one Comp can be on at a time.
 
 ### <span style="color: #434343;">Split</span>
 
-![max-split-flow.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/32e58c13d8084ba74cd69c4f1b4f8fac93442460.png)
+![max-split-flow.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--32e58c13d8084ba74cd69c4f1b4f8fac93442460--8bddbfcf68c489c8.png)
 
 Press the left or right footswitches to toggle Comp 1 and Comp 2 on/off. One or both compressors can be on at the same time. Input 1 routes to Comp 1, and out of Output 1. Input 2 routes to Comp 2, and out of Output 2.
 
@@ -384,7 +384,7 @@ Under Compressor 1 or Compressor 2 Settings, tap the EQ setting you want to conf
 
 To enable/disable the sidechain bass filter for the FET 1176, under Compressor 1 or Compressor 2, tap the Sidechain Bass Filter control to toggle the setting. The sidechain filter is enabled when it is highlighted blue. 
 
-![max-comp-settings.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/3e5b4fccfa24daf1038180de4556346fa75d4c0b.png)
+![max-comp-settings.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--3e5b4fccfa24daf1038180de4556346fa75d4c0b--58d1d023a8dfc836.png)
 
  
 
@@ -686,9 +686,9 @@ All specifications are subject to change without notice.
 
 # Max Safety
 
-![safety-symbol-exclaim.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
+![safety-symbol-exclaim.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--db880c1c17c255f2.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
+![safety-symbol-book-info.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--8b24f5b3470848d3.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
 - Read the instructions.
 - Keep these instructions.
@@ -730,7 +730,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 The company's products have obtained the NCC low-power radio frequency equipment verification certificate according to the new warnings of "Low-power radio frequency equipment technical specifications" as follows: "The low-power radio frequency equipment that has obtained the verification certificate shall not be changed by the company, firm or user without approval. Frequency, increase power, or change the features and functions of the original design. The use of low-power radio frequency equipment shall not affect flight safety and interfere with legal communications; continue to use.
 
-![safety-symbol-trash.png](UAFX%20MAX%20Preamp%20%26%20Dual%20Compressor%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-max-preamp-dual-compressor-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--cfd88a895bf3686a.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

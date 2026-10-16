@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg57"
 ---
 
-![обложка|156](<Back to Godhead Magazine #57, 1973/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-57-1973--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--721d5e6ac75b7736.jpeg>)
 
 # Back to Godhead Magazine #57, 1973
 

@@ -8,23 +8,23 @@ word_count: 5230
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_0_Picture_2.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_0_picture_2--0cfe9db7a865b35e.jpeg>)
 
 Developed by Brainworx Audio in partnership with Diezel GmbH and Distributed by Universal Audio.
 
-![](<Diezel Herbert Manual_assets/_page_0_Picture_4.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_0_picture_4--077ee98540283bda.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_0_Picture_5.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_0_picture_5--f7de805a9e24716f.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_0_Picture_6.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_0_picture_6--15c501439b5d1129.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_0_Picture_7.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_0_picture_7--c99ccf7cccc27396.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_0_Picture_8.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_0_picture_8--c2e73e8094057e20.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_1_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_1_picture_0--8d575d0f5c6dac51.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_1_Picture_1.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_1_picture_1--08507e9b7d241d19.jpeg>)
 
 It started like so many other boutique companies: Peter Diezel, playing in one of Munich's rockbands in the 80s, wasn't too satisfied with his Marshalls, modded them and after a while more and more players contacted him to get his mods.
 
@@ -36,7 +36,7 @@ The Herbert started out as a clean sheet of paper. Peter Diezel began with a dif
 
 With colossal headroom, sophisticated cleans and vicious dirty sounds, the Herbert is unlike any other amp you've heard.
 
-![](<Diezel Herbert Manual_assets/_page_2_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_2_picture_0--69809d5189baec0d.jpeg>)
 
 The Diezel Herbert is a mighty 180 Watt head with three completely independent channels, including separate EQs, for perfectly dialed sounds at any output level.
 
@@ -48,11 +48,11 @@ Not only does the plugin nail the heart and soul of the Diezel Herbert but you'l
 
 On top of this you find no less than 120 advanced impulse reponses created at Brainworx's studio using various boutique cabinets, high end microhones, their Neve VXS console, SSL 4000 Channel Strip, Amek 9098 Channel Strip and the legendary Telefunken V76 Pre Amp.
 
-![](<Diezel Herbert Manual_assets/_page_3_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_3_picture_0--a16ddb756bc177c5.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_3_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_3_picture_3--bec7912749c2215e.jpeg>)
 
 ## **Key Features Summary**
 
@@ -66,17 +66,17 @@ Plug-in Manual
 
 ## **Unison Technology**
 
-![](<Diezel Herbert Manual_assets/_page_3_Picture_13.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_3_picture_13--2e7392a0446d24f9.jpeg>)
 
 The Diezel Herbert plug-in was developed with the Apollo series interfaces in mind and made compatible with Unison preamp technology. Of course the Diezel Herbert will work with any UAD-2 device, but to experience
 
 ultralow latency along with important impedance, gain 'sweet spots', and circuit behaviors of the real amp, you need an Apollo interface. In order to do this, you should insert the Diezel Herbert in the preamp insert position of Apollo's Console application. This will greatly enhance your experience, making the tone and behavior of your sound an exact replication of the original hardware.
 
-![](<Diezel Herbert Manual_assets/_page_4_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_4_picture_0--6ffd851829600f8a.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_4_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_4_picture_3--098458a6bf38ddbb.jpeg>)
 
 ## **Amp**
 
@@ -102,13 +102,13 @@ Channel 3 begins in high gain territory with excellent picking sensitivity and n
 
 The versatile Mid Cut feature is assignable to all channels and has a level control for output matching when engaged.
 
-![](<Diezel Herbert Manual_assets/_page_4_Picture_16.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_4_picture_16--25ebc3097a9b3f20.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_5_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_5_picture_0--f9f2e706f3b16ac3.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_5_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_5_picture_3--8595038918e8fb72.jpeg>)
 
 #### **Pre-amp Tubes**
 
@@ -130,13 +130,13 @@ Adjusts the treble. Turning it clockwise increases the amount of top-end, giving
 
 Adjusts the midrange. Turning it clockwise increases the amount of mids. Turning it counter clockwise will reduce the mids and produce a mid-scooped sound.
 
-![](<Diezel Herbert Manual_assets/_page_5_Picture_14.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_5_picture_14--4c59fe1ed3582058.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_6_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_6_picture_0--fce7f1f6594c3101.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_6_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_6_picture_3--9774d2daaf7f47a2.jpeg>)
 
 ### **<sup>1</sup> Bass**
 
@@ -166,13 +166,13 @@ Adjusts the midrange. Turning it clockwise increases the amount of mids. Turning
 
 Adjusts the amount of bass. Turning it clockwise increases the amount of bottom-end, giving you a fuller tone. Turning it counter clockwise will reduce the bottom-end, which is useful when performing at louder volumes.
 
-![](<Diezel Herbert Manual_assets/_page_6_Picture_18.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_6_picture_18--8b2ca53949d044af.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_7_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_7_picture_0--bdfbc7d62f6c5366.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_7_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_7_picture_3--07b897656c11bb68.jpeg>)
 
 ## **Channel Three (Lead)**
 
@@ -198,13 +198,13 @@ Adjusts the midrange. Turning it clockwise increases the amount of mids. Turning
 
 Adjusts the amount of bass. Turning it clockwise increases the amount of bottom-end, giving you a fuller tone. Turning it counter clockwise will reduce the bottom-end, which is useful when performing at louder volumes.
 
-![](<Diezel Herbert Manual_assets/_page_7_Picture_16.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_7_picture_16--b59bb2b299e68307.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_8_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_8_picture_0--f42039f7ed451464.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_8_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_8_picture_3--1a60b957ddfe84f8.jpeg>)
 
 ## **Mid Cut**
 
@@ -234,13 +234,13 @@ This knob controls frequencies over 3KHz. Treble is produced and dispersed in a 
 
 The Deep control is an active bass control, contrary to conventional bass controls. It controls the frequencies around 120Hz without influencing the overall dynamic range of the power amplifier.
 
-![](<Diezel Herbert Manual_assets/_page_8_Picture_18.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_8_picture_18--9f2e4861f0d34702.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_9_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_9_picture_0--50745436f7e5a5dc.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_9_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_9_picture_3--b2fe01e9fd4f2d06.jpeg>)
 
 ## **FX Rack**
 
@@ -262,13 +262,13 @@ Continuous knob, -120db to 0db. The Noise Gate will dim the output signal of the
 
 Continuous knob, 0db to 100db. The output level of your amplifier will be reduced or muted when the input signal is lower than the Threshold setting. You may dim the output level only by a few decibels (dB), or completely mute the output in pauses by setting the Range to its maximum.
 
-![](<Diezel Herbert Manual_assets/_page_9_Picture_14.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_9_picture_14--eb07ec622ac75739.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_10_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_10_picture_0--ad8f25a717412dfd.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_10_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_10_picture_3--6fafbca9f8a6d6b3.jpeg>)
 
 ## **Amp Filters**
 
@@ -296,13 +296,13 @@ Three-way switch: "Pre", "Post" and "Off". With the Smooth filter you can cut HI
 - **• Post:** If you want to cut some of the high end of your amplifier setting (maybe even only temporary) you can use this studio quality low pass filter.
 - **• Off:** When set to Off the Smooth filter is in bypass mode.
 
-![](<Diezel Herbert Manual_assets/_page_10_Picture_19.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_10_picture_19--a9fbee99b8fdd702.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_11_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_11_picture_0--6d2528b74e92fe38.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_11_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_11_picture_3--8875ef4ae74e5fac.jpeg>)
 
 ## **Delay**
 
@@ -335,15 +335,15 @@ Use this button to half the current Delay time.
 
 Both buttons can be pressed repeatedly as long as the maximum delay time of 400ms is not exceeded.
 
-![](<Diezel Herbert Manual_assets/_page_11_Picture_21.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_11_picture_21--8e2d193129f18981.jpeg>)
 
 <sup>\*</sup> Note: Custom control, not automatable
 
-![](<Diezel Herbert Manual_assets/_page_12_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_12_picture_0--2cf8d14d2593551e.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_12_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_12_picture_3--51ef199385c73e6c.jpeg>)
 
 ### **<sup>1</sup> Host BPM**
 
@@ -369,13 +369,13 @@ Simply select a speaker and a complete studio setup by browsing through the Reco
 
 In the past two decades Brainworx owner Dirk Ulrich has produced and recorded with members of Dream Theater, Toto, Michael Jackson and with many more famous and infamous acts. The Brainworx Studio in Germany (www.brainworx-studio.de) is equipped with one of only nine NEVE VXS 72 consoles ever made, and it also hosts some of the best outboard EQs and mic pre-amps available.
 
-![](<Diezel Herbert Manual_assets/_page_12_Picture_16.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_12_picture_16--21ffb7af5800b441.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_13_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_13_picture_0--b4ea5a49b4dc549c.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_13_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_13_picture_3--14a771517bf71475.jpeg>)
 
 Using this impressive setup Dirk has produced a huge variety of customized 'Recording Chains' for the Diezel Herbert amplifier, which you can apply to your Plugin amp settings. Imagine a selection of 120 perfectly mic'd and EQ-ed cabinets that you can select and use instantly with a single mouse click!
 
@@ -393,13 +393,13 @@ And if for any reason you should not like any of the Recording Chains the Plugin
 
 Browse through the Recording Chains by either using the pull-down menu of the Recording Chain text box (see above) or just click through the settings using the '+' and '-' symbols.
 
-![](<Diezel Herbert Manual_assets/_page_13_Picture_12.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_13_picture_12--8733ed3a8e9ddef4.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_14_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_14_picture_0--d6ebb5d6a05179b3.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_14_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_14_picture_3--64057fb4e310162d.jpeg>)
 
 ### **<sup>1</sup> Auto & Bar selection**
 
@@ -425,13 +425,13 @@ With the Bypass Pre switch you can switch off the Diezel Herbert preamp complete
 
 Switch up: Preamp is bypassed (off), Switch down: Preamp is active (on).
 
-![](<Diezel Herbert Manual_assets/_page_14_Picture_16.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_14_picture_16--89d54472089f9776.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_15_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_15_picture_0--ac648071d1a9844b.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_15_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_15_picture_3--9795d7d45900e10c.jpeg>)
 
 ## **<sup>1</sup> Bypass Power Amp**
 
@@ -459,13 +459,13 @@ As with all Diezel cabinets, oversized 12-gauge speaker wire is soldered between
 
 Marshall 1960B 1978 4x12 Celestion G12M Blackback 75Hz Speakers
 
-![](<Diezel Herbert Manual_assets/_page_15_Picture_17.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_15_picture_17--b14828df0605e321.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_16_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_16_picture_0--957b9a64ab50e914.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_16_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_16_picture_3--0846de28c9536f25.jpeg>)
 
 ## **Suhr 4x12**
 
@@ -491,11 +491,11 @@ To re-create the classic looks and tones of yesteryear, Marshall offers the 1960
 
 The 120W Orange Amplifiers PPC212-C guitar speaker cabinet is crafted using 13-ply high-density 18mm birch plywood throughout like every Power Projection Cabinet (PPC). Orange speaker enclosures, like Orange amplifiers, are built to last with manufacturing techniques that assure extremely rugged construction. Orange's unique 'skid' design feet help to acoustically couple these cabinets to the stage to provide a tighter bass response and full range definition. All Orange Amplifiers' speaker enclosures are equipped with Celestion Vintage 30 speakers and are equipped with comfortable flush cabinet handles. The Celestion Vintage 30 Speaker recreates the sound of the original Celestion Blue with new cone and coil assembly. Improved performance: rated at 60W capability, handles extra heat generated by higher power equipment. The Vintage 30 handles massive overdrive tones with ease. It's a classic 2x12 loudspeaker.
 
-![](<Diezel Herbert Manual_assets/_page_17_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_17_picture_0--7303d77fa69c0bc1.jpeg>)
 
 ## Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_17_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_17_picture_3--7582af08d1feb6eb.jpeg>)
 
 ## **Top Toolbar**
 
@@ -530,13 +530,13 @@ Toggle between FX Rack and Standard view.
 
 Information about the development of the plugin.
 
-![](<Diezel Herbert Manual_assets/_page_17_Picture_22.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_17_picture_22--7473497979c395d1.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_18_Picture_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_18_picture_0--b642b091fd0e13df.jpeg>)
 
 Plug-in Manual
 
-![](<Diezel Herbert Manual_assets/_page_18_Picture_3.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_18_picture_3--96c2897ed0f916f6.jpeg>)
 
 ## **Factory Presets**
 
@@ -560,8 +560,8 @@ Experiment, be creative. We are confident that the different tone selections of 
 
 Combine the Diezel Herbert amps with other plugins (dynamics, effects, room simulation), and you will be able to create countless world-class production-ready guitar sounds in the box. Enjoy.
 
-![](<Diezel Herbert Manual_assets/_page_18_Picture_17.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_18_picture_17--85e5a61356fbd06d.jpeg>)
 
-![](<Diezel Herbert Manual_assets/_page_19_Figure_0.jpeg>)
+![](<../../attachments/diezel-herbert-manual_assets--page_19_figure_0--7d00df726b544c12.jpeg>)
 
 Plug in, Rock out! - **www.brainworx.audio**

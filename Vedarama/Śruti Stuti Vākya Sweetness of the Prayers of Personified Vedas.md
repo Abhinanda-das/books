@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ps-ssv"
 ---
 
-![обложка|156](<Śruti Stuti Vākya Sweetness of the Prayers of Personified Vedas/обложка.jpeg>)
+![обложка|156](<../attachments/%C5%9Bruti-stuti-v%C4%81kya-sweetness-of-the-prayers-of-personified-vedas--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d184959b8e209de5.jpeg>)
 
 Our ācāryas such as Jīva Gosvāmī, Sanātana Gosvāmī and Viśvanātha Cakravartī have given extensive commentaries on the prayers of the personified Vedas, since those prayers refute the idea that Upaniṣads present the supreme Brahman as impersonal. Prabhodānanda Sarasvatī gives a completely different interpretation of the verses. Since the Upaniṣads became gopīs, he gives the meaning of the verses in terms of mādhurya rasa, as spoken by those Upaniṣad-gopis. He also gives a meaning according to the eternal gopis.
 

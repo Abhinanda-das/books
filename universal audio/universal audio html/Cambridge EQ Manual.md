@@ -17,7 +17,7 @@ Cambridge EQ is highly flexible, offering a broad spectrum of options facilitati
 
 <div class="wysiwyg-text-align-center">
 
-![Cambridge-zoom.png](Cambridge%20EQ%20Manual_assets/2b31862f8ea011f1c46e9bc142724a3abd302885.png)
+![Cambridge-zoom.png](../../attachments/cambridge-eq-manual_assets--2b31862f8ea011f1c46e9bc142724a3abd302885--5a1bb2c8eb68ad6f.png)
 
 </div>
 
@@ -55,19 +55,19 @@ The vertical scale of the Curve Display can be increased or reduced with the Zoo
 
 <div class="wysiwyg-text-align-center">
 
-![cambridgezoomout.png](Cambridge%20EQ%20Manual_assets/c14dd53defe78b0d340bdb4970601b28bdde52c6.png)
+![cambridgezoomout.png](../../attachments/cambridge-eq-manual_assets--c14dd53defe78b0d340bdb4970601b28bdde52c6--3cafc3ca2820f595.png)
 
 </div>
 
 <div class="wysiwyg-text-align-center">
 
-![cambridgezoomin.png](Cambridge%20EQ%20Manual_assets/623d14f9bfed98148360086de1b6087718beab16.png)
+![cambridgezoomin.png](../../attachments/cambridge-eq-manual_assets--623d14f9bfed98148360086de1b6087718beab16--f0f1c19483b00cd5.png)
 
 </div>
 
 <div class="wysiwyg-text-align-center">
 
-![cambridgezoom.png](Cambridge%20EQ%20Manual_assets/beabe35db01b84557923047571f32bca5cd32bdf.png)
+![cambridgezoom.png](../../attachments/cambridge-eq-manual_assets--beabe35db01b84557923047571f32bca5cd32bdf--a384177dd60b32b4.png)
 
 </div>
 
@@ -139,7 +139,7 @@ The function of the controls is similar in both parametric and shelf modes. The 
 
 <div class="wysiwyg-text-align-center">
 
-![Cambridge-zoom-2.png](Cambridge%20EQ%20Manual_assets/88a37581f92a0ce0c19cd7ae29cc9ff6e88463c4.png)
+![Cambridge-zoom-2.png](../../attachments/cambridge-eq-manual_assets--88a37581f92a0ce0c19cd7ae29cc9ff6e88463c4--f78424e8eaaecb0d.png)
 
 </div>
 
@@ -197,7 +197,7 @@ Note that the Q numeric value in relation to its knob position is warped (i.e. n
 
 When set to Type I, the bandwidth remains at a fixed Q regardless of the gain setting for the band; there is no Q/Gain interdependency. In addition, there is a finer resolution of the Q knob in the middle of its range. This makes it easier to achieve subtle bandwidth changes. Note that the Q value and knob positions do not change as the gain is modified.
 
-![camb-typeI.png](Cambridge%20EQ%20Manual_assets/ae8db7ae26506ff31b4a77c766c08171a4351d16.png)
+![camb-typeI.png](../../attachments/cambridge-eq-manual_assets--ae8db7ae26506ff31b4a77c766c08171a4351d16--4e45ef6dc15d4f9d.png)
 
 *Parametric Type I response*
 
@@ -211,7 +211,7 @@ Note that the Q value increases as gain is boosted but the knob position does no
 
 <div class="wysiwyg-text-align-center">
 
-![camb-typeII.png](Cambridge%20EQ%20Manual_assets/43899aee2f7255bfa47d01fb5ec06b17fb39e5e0.png)
+![camb-typeII.png](../../attachments/cambridge-eq-manual_assets--43899aee2f7255bfa47d01fb5ec06b17fb39e5e0--9ef3f8113563c72f.png)
 
 </div>
 
@@ -227,7 +227,7 @@ Note that the Q value increases as gain is increased but the knob position does 
 
 <div class="wysiwyg-text-align-center">
 
-![camb-typeIII.png](Cambridge%20EQ%20Manual_assets/77833ea806402075b56cbd701d48e6df577f9851.png)
+![camb-typeIII.png](../../attachments/cambridge-eq-manual_assets--77833ea806402075b56cbd701d48e6df577f9851--2c089138e0a029fb.png)
 
 </div>
 
@@ -253,7 +253,7 @@ The Shelf Type button places the resonant peak at the edge of the stopband (Shel
 
 <div class="wysiwyg-text-align-center">
 
-![cambridge_shelf_a.png](Cambridge%20EQ%20Manual_assets/b2e225db9ce25ad98415c21f7a04d3751dbb889d.png)
+![cambridge_shelf_a.png](../../attachments/cambridge-eq-manual_assets--b2e225db9ce25ad98415c21f7a04d3751dbb889d--392f004fd8869f01.png)
 
 </div>
 
@@ -261,13 +261,13 @@ The Shelf Type button places the resonant peak at the edge of the stopband (Shel
 
 <div class="wysiwyg-text-align-center">
 
-![cambridge_shelfindline.png](Cambridge%20EQ%20Manual_assets/8a698d9bfc8a91eba55b59767a14017a014e21a6.png)
+![cambridge_shelfindline.png](../../attachments/cambridge-eq-manual_assets--8a698d9bfc8a91eba55b59767a14017a014e21a6--a25ec0e054463ca4.png)
 
 </div>
 
 *Shelf Type B*
 
-![shelf-c.png](Cambridge%20EQ%20Manual_assets/fcdaf174eb173b4065afa21b595e2cb8bc3a3261.png)
+![shelf-c.png](../../attachments/cambridge-eq-manual_assets--fcdaf174eb173b4065afa21b595e2cb8bc3a3261--f351730b35431937.png)
 
 *Shelf Type C*
 

@@ -71,7 +71,7 @@ Apollo X Rack Models – The mic hole is located above the illuminated UA logo o
 
 # Talkback Input Strip
 
-![](Talkback_assets/723d8db7cc93d539f028a399ff05563fea745ad9.png)
+![](../../attachments/talkback_assets--723d8db7cc93d539f028a399ff05563fea745ad9--00a81a40245d8d92.png)
 
 *Talkback input strip elements*
 
@@ -87,7 +87,7 @@ The talkback strip has four UAD plug-in inserts for Realtime UAD Processing. All
 
 The Talkback Inserts context menu allows you to adjust inserts for the Talkback channel.
 
-![aux-inserts-menu.png](Talkback_assets/90fd9804feb8fb7abf7264c84834597f51f24a78.png)
+![aux-inserts-menu.png](../../attachments/talkback_assets--90fd9804feb8fb7abf7264c84834597f51f24a78--69b48d59e6fca26b.png)
 
 - To toggle large or small talkback inserts view, right-click or control-click on the Inserts label, and select or deselect View Large Icon. Note that this also changes the view for the Aux Returns. 
 - To disable all plug-ins on the talkback channel, select Disable All.
@@ -104,7 +104,7 @@ The SENDS below the channel inserts display talkback levels being sent to each a
 
 The Talkback sends context menu allows you to adjust sends and cue views for the talkback channel.
 
-![aux-sends-menu.png](Talkback_assets/f3a7e51fc0f96f4ff83de326e95df959772ed249.png)
+![aux-sends-menu.png](../../attachments/talkback_assets--f3a7e51fc0f96f4ff83de326e95df959772ed249--60c68fae65d62202.png)
 
 - To toggle Sends Overview, right-click or control-click on the Sends label, and select or deselect Overview. Note that this changes the view for all channels. 
 - To view a large or small icon for any sends, select or deselect Send \# - View Large Icon. Note that this changes the view of that send for the talkback channel and the aux returns.
@@ -212,9 +212,9 @@ When more than one Apollo with a talkback mic are combined in a multi-unit syste
 - If more than one Apollo X rack model is connected, the designated Apollo X rack monitor unit is the talkback unit.
 - If an Apollo X rack is combined with a previous-generation Apollo rack model (and an Apollo desktop model is not connected), the Apollo X rack must be the designated monitor unit to use its talkback mic.
 
-![](Talkback_assets/42541fa04b32a1e68d4d5d4e1712d2c491ef3c9f.png)
+![](../../attachments/talkback_assets--42541fa04b32a1e68d4d5d4e1712d2c491ef3c9f--877e87b9ce20117e.png)
 
-![](Talkback_assets/e00b13cdc4bf6dab077195b2ee261cccd7897d7a.png)
+![](../../attachments/talkback_assets--e00b13cdc4bf6dab077195b2ee261cccd7897d7a--98268b41cc8f69ca.png)
 
 An orange mic icon appears next to the talkback unit in the Devices Column within Console Settings \> Hardware. In these multi-unit examples, both units have talkback mics, so the mic icon distinguishes which unit is configured for talkback.
 
@@ -238,7 +238,7 @@ To record the talkback mic signal on an audio track in a DAW:
 - TALK must be active for the DAW track input to receive the talkback mic signal.
 - Talkback can be activated and/or deactivated before, during, or after recording (talkback and DAW operations are independent).
 
-![](Talkback_assets/31af50814c3bd7f7729529e563d4052de5deaa6d.png)
+![](../../attachments/talkback_assets--31af50814c3bd7f7729529e563d4052de5deaa6d--80460bf53b55335a.png)
 
 *Selecting the talkback mic as a mono audio track’s input source in Pro Tools*
 

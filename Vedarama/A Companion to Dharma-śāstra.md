@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ctds"
 ---
 
-![обложка|156](<A Companion to Dharma-śāstra/обложка.jpeg>)
+![обложка|156](<../attachments/a-companion-to-dharma-%C5%9B%C4%81stra--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5d6568d2d98b8c6c.jpeg>)
 
 This work highlights the dharmasastra essentials by listing the major authors with their biographies, titles and their dates of composition, published editions and commentaries. It shows how dharmasastra works have influenced the Indian way of life. Dharmashastra is not just a corpus of scriptural texts. It is rather a genre, in its own right, of writings comprising prescriptive codes of righteous conduct in different spheres: whether familial, societal, ritualistic, legal, or even political. For the first time, this book offers a quintessential view of the dharmashastra (smriti) literature. Which today, along with its digests and commentaries, looks like a vast reservoir of literary works that have been accumulating over the centuries since their legendary beginnings with Manu. Designed primarily for reference, this Companion is styled and structured to bring forth the dharmashastra-essentials in the quickest time. Listed here, alphabetically, are the major authors with their biographical sketches. And, these besides, the titles, together with descriptive details of their thematic content, dates/probable dates of their composition, published editions and commentaries their upon. Also included here are as many as 12 appendices which, in their totality, embody dharmashastra-based information on geography, flora and fauna, mixed castes/tribes, neo-smriti schools, and the kind of relation smriti literature has with the Mahabharata, Puranas, and Tantra, among other aspects.
 

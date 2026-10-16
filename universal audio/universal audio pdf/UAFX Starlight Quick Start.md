@@ -7,32 +7,32 @@ word_count: 29
 ---
 
 
-![](<UAFX Starlight Quick Start_assets/UAFX_Starlight_Quick_Start.pdf-0001-00.png>)
+![](<../../attachments/uafx-starlight-quick-start_assets--uafx_starlight_quick_start.pdf-0001-00--a3ffc21c0c18494e.png>)
 
 
 10004236R6 
 
 
-![](<UAFX Starlight Quick Start_assets/UAFX_Starlight_Quick_Start.pdf-0002-00.png>)
+![](<../../attachments/uafx-starlight-quick-start_assets--uafx_starlight_quick_start.pdf-0002-00--89508bd1b75f70bb.png>)
 
 
 
-![](<UAFX Starlight Quick Start_assets/UAFX_Starlight_Quick_Start.pdf-0002-01.png>)
+![](<../../attachments/uafx-starlight-quick-start_assets--uafx_starlight_quick_start.pdf-0002-01--53d12cd6d18f2493.png>)
 
 
 
-![](<UAFX Starlight Quick Start_assets/UAFX_Starlight_Quick_Start.pdf-0002-02.png>)
+![](<../../attachments/uafx-starlight-quick-start_assets--uafx_starlight_quick_start.pdf-0002-02--d478a6898d5b8e34.png>)
 
 
 
-![](<UAFX Starlight Quick Start_assets/UAFX_Starlight_Quick_Start.pdf-0002-03.png>)
+![](<../../attachments/uafx-starlight-quick-start_assets--uafx_starlight_quick_start.pdf-0002-03--348f9de540b5321b.png>)
 
 
 
-![](<UAFX Starlight Quick Start_assets/UAFX_Starlight_Quick_Start.pdf-0002-04.png>)
+![](<../../attachments/uafx-starlight-quick-start_assets--uafx_starlight_quick_start.pdf-0002-04--70f27fc88aec0f37.png>)
 
 
 
-![](<UAFX Starlight Quick Start_assets/UAFX_Starlight_Quick_Start.pdf-0002-05.png>)
+![](<../../attachments/uafx-starlight-quick-start_assets--uafx_starlight_quick_start.pdf-0002-05--825450459cace20a.png>)
 
 

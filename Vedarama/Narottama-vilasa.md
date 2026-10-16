@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/nct-nv"
 ---
 
-![обложка|156](<Narottama-vilasa/обложка.jpeg>)
+![обложка|156](<../attachments/narottama-vilasa--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--4941d7d7a5e15cfd.jpeg>)
 
 # Narottama-vilasa
 

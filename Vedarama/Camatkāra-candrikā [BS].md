@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vct-camatkara-candrika1"
 ---
 
-![обложка|156](<Camatkāra-candrikā [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/camatk%C4%81ra-candrik%C4%81-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--898247b7d96f7f09.jpeg>)
 
 # Camatkāra-candrikā \[BS\]
 

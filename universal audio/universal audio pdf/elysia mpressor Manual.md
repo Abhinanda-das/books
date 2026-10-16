@@ -7,7 +7,7 @@ word_count: 4152
 ---
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0001-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0001-00--cf97b97c105c6f02.png>)
 
 
 **mpressor** 
@@ -15,7 +15,7 @@ word_count: 4152
 ## **WeLcOMe! introduction** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0002-01.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0002-01--2e13f427a1cfe2c0.png>)
 
 
 ## **FIRST OF ALL...** 
@@ -39,13 +39,13 @@ introduction - welcome!
 2 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0003-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0003-00--cec59fcb721b2b99.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0003-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0003-02--c8c52f61e9ffa08f.png>)
 
 
 **Floor:** switches the emulation of the mpressor’s analog noise floor on and off. 
@@ -75,13 +75,13 @@ controls - overview
 3 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0004-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0004-00--5a9f33974cad61f3.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0004-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0004-02--b73f21621e3b3a4f.png>)
 
 
 - **eQ Gain:** the characteristic of the Niveau Filter. Between the mid and fully counterclockwise position, bass is boosted and treble is cut (vice versa in the other direction). 
@@ -105,13 +105,13 @@ controls - overview
 4 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0005-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0005-00--f5773867613ee18a.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0005-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0005-02--2440222d882323f8.png>)
 
 
 The threshold determines the operating point of the compressor. If the input level exceeds the value set with this controller, the compression process will start. 
@@ -125,7 +125,7 @@ The complete control range covers a total of 34 dB, offering the complete variet
 The figure to the right shows a number of different threshold points of the mpressor. 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0005-08.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0005-08--af7be9db7d889bac.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -139,13 +139,13 @@ controls - threshold
 5 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0006-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0006-00--67a152b8175a9c7a.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0006-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0006-02--43f06ff645a83cf1.png>)
 
 
 The attack time parameter is a very crucial factor for the control behavior of a compressor. Choosing the right setting is very important, but depending on the dynamic progress of the source material this can be a difficult task. 
@@ -157,7 +157,7 @@ This is where the Auto Fast function comes into play. If you engage this mode, t
 Then the attack time directly and automatically returns to its original setting. This way the compressor can be very fast, but only if it is really needed. The attack parameter is influenced on short and loud impulses only; in all other cases the controller setting is given priority. 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0006-07.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0006-07--97b37c5ffa5f668a.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -165,7 +165,7 @@ dB<br>sec<br>**----- End of picture text -----**<br>
 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0006-08.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0006-08--f0f951625b97632d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -173,7 +173,7 @@ dB<br>sec<br>**----- End of picture text -----**<br>
 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0006-09.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0006-09--5927a14f62d83e4e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -185,13 +185,13 @@ controls - attack
 6 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0007-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0007-00--b6f7104ad3fcec8e.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0007-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0007-02--29e956be92b6e8b1.png>)
 
 
 The release parameter, on the other hand, has a strong influence on the character of the compression being obvious or unobtrusive to the ear. As a general rule, linear or logarithmic release curves will be employed if a discreet performance of the compressor is required. 
@@ -203,7 +203,7 @@ But if intentionally striking and creative compression as well as producing new 
 Compared to a logarithmic release curve, the effect of the Anti Log option behaves just the other way round: If the threshold point is passed, the release time will no longer be shortened at first. If the input signal starts to decline, however, the release time will become faster. 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0007-07.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0007-07--2a3353b36de6572b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -211,7 +211,7 @@ dB<br>sec<br>**----- End of picture text -----**<br>
 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0007-08.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0007-08--223d6fa2255f40a9.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -225,13 +225,13 @@ controls - release
 7 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0008-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0008-00--ddf6fd5e48c4da81.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0008-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0008-02--b26af18eca77ebd4.png>)
 
 
 The mpressor is a typical hard knee compressor, which is easy to see in the diagram to the right. Compression directly starts with the full ratio in the very moment the input signal passes the threshold point. 
@@ -247,7 +247,7 @@ To get a grip on the extreme ‘destruction’ this can cause, engaging the Gain
 This special capability of the mpressor might seem a little hard to understand in theory. Just give it a try with some drum samples and you will understand what this is all about... 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0008-09.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0008-09--988ac89f2cf7194d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -261,13 +261,13 @@ controls - ratio
 8 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0009-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0009-00--b720c7b9fd9ba984.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0009-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0009-02--2c47f11e9f911051.png>)
 
 
 This filter is specialized in changing the overall sonic character of a track with ease. 
@@ -277,7 +277,7 @@ Its main function is to change the proportions between high and low frequencies.
 The characteristics of the filter change in the extreme positions of the EQ Gain controller: the full counter-clockwise setting will produce a low pass filter (full clockwise = high pass). 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0009-06.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0009-06--2e29cfda6465ac2f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -293,13 +293,13 @@ controls - niveau filter
 9 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0010-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0010-00--6d0f58d4bf8774ff.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0010-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0010-02--0436b0bfb159e1dc.png>)
 
 
 A specialty of the mpressor plugin is the Gain Reduction Limiter. This limiter is not placed in the audio path where you would expect it, but in the control path of compressor instead. 
@@ -309,7 +309,7 @@ The effect: No matter how high the input level or your threshold and ratio setti
 Loud parts in an arrangement can keep their dynamics, and special effects like ducking or upward compression can be achieved by only reducing the quieter signal parts. 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0010-06.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0010-06--2abe0b1e5111276f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -321,13 +321,13 @@ controls - gain reduction limiter
 10 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0011-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0011-00--f57eaa7419b03267.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0011-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0011-02--5740697ba775a8e7.png>)
 
 
 The gain controller is used to make up the difference in level between the original and the compressed signal. As you might already have expected, there is something special about this ‘standard’ controller on the mpressor, too: 
@@ -343,7 +343,7 @@ If you want your signal to stay clean, you should take care not to use lots of m
 However, if added harmonics are just what you are looking for, apply a good amount of make up gain with the mpressor and use a following gain plugin to reduce the overall level. 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0011-09.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0011-09--e600009f72b7b39c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -357,13 +357,13 @@ controls - gain
 11 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0012-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0012-00--1d5fc3939006254a.png>)
 
 
 ## **controls** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0012-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0012-02--89cce7510183775b.png>)
 
 
 ## **FLOOR** 
@@ -397,7 +397,7 @@ controls - floor | link | active
 12 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0013-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0013-00--505dca7ed2fa36e9.png>)
 
 
 ## **settings** 
@@ -427,7 +427,7 @@ settings - standard compression
 ## **BIG dRUMS settings** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0014-01.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0014-01--fd167e63e9059790.png>)
 
 
 In this case, a complete drum mix is processed with the mpressor. The intensity of audible transients is determined by the attack time. If this parameter is very short, only the first milliseconds of the signal will be emphasized, whereas longer settings will come closer to its original structure. 
@@ -453,7 +453,7 @@ settings - big drums
 ## **SMAShed dRUMS settings** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0015-01.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0015-01--754bbe247bae5ef2.png>)
 
 
 If the drums are supposed to sound extremely compressed and loud, this setting can be used to limit almost the entire signal in a way where nearly no dynamics remains. 
@@ -477,13 +477,13 @@ settings - smashed drums
 15 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0016-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0016-00--01d9105f13fba06d.png>)
 
 
 ## **settings** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0016-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0016-02--02a0447027442b0e.png>)
 
 
 This is so cool! Because the mpressor also features negative ratios, you can perfectly use it to create weird and really way-out effects: 
@@ -507,13 +507,13 @@ settings - reverse sounds
 16 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0017-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0017-00--cee284bf788d8441.png>)
 
 
 ## **settings** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0017-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0017-02--4873d19bb0d107ba.png>)
 
 
 A special task is to emphasize the transients at the beginning of a tone, chord and so on. The Gain Reduction Limiter is of special importance in this scenario. The chosen parameters result in a rather strong amount of compression with fast release times and negative ratios. 
@@ -537,13 +537,13 @@ settings - transient enhancer
 17 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0018-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0018-00--43bd1c810930ffdc.png>)
 
 
 ## **settings** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0018-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0018-02--63055d61834c8145.png>)
 
 
 By using very fast time constants, the mpressor can also be abused to create special distortion sounds. To do so, set the attack controller to its minimum of 0.01 ms and the release time also to its fastest value of 5.0 ms. 
@@ -569,13 +569,13 @@ settings - distorted compression
 18 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0019-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0019-00--e2813035137ef43e.png>)
 
 
 ## **settings** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0019-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0019-02--dcc255880411f8c9.png>)
 
 
 Delay and compressor in a loop – does that make any sense at all? Absolutely, because this combination is a truly rich source for lots of crazy sounds! 
@@ -601,13 +601,13 @@ settings - delay loops
 19 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0020-00.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0020-00--dc5b860aa9e61b03.png>)
 
 
 ## **settings** 
 
 
-![](<elysia mpressor Manual_assets/elysia_mpressor_Manual.pdf-0020-02.png>)
+![](<../../attachments/elysia-mpressor-manual_assets--elysia_mpressor_manual.pdf-0020-02--d837dde76796dc54.png>)
 
 
 The mpressor also proves of great value when used as a high class mix buss compressor, especially when it comes to the more vehement genres like rock and electronic music. 

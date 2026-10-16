@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bt-sb-bs"
 ---
 
-![обложка|156](<Sammodana Bhāṣyam [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/sammodana-bh%C4%81%E1%B9%A3yam-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1ea97c0812448fe8.jpeg>)
 
 Śrīla Bhaktivinoda Ṭhākura’s commentary on Mahāprabhu’s Śikṣāṣṭakam, the Sammodana Bhāṣyam (‘that commentary which gives bliss to the devotees’ ) was written in Sanskrit in 1886. The Ṭhākura gives a detailed explanation of each verse, starting with the mūlā-śloka (verse one), revealing the progressive stages of the sādhaka leading to prema.
 

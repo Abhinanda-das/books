@@ -40,7 +40,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--cc8bb5914ff385e7.png)
 </figure>
 
 Bill Putnam Jr.
@@ -49,7 +49,7 @@ Bill Putnam Jr.
 
 # Galaxy Quick Start
 
-![galaxy-qs.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/1a3de1c88bd86d03132a71b0204566569751f582.png)
+![galaxy-qs.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--1a3de1c88bd86d03132a71b0204566569751f582--9268e2427a9fa1b6.png)
 
 [**Download Galaxy Quick Start**](https://help.uaudio.com/hc/en-us/articles/360058186352)
 
@@ -117,7 +117,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-non-amp.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/097372538c02d4b5c1b83457b44efa5e78485dc7.png)
+![rear-callouts-non-amp.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--370ae45e536c696e.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -316,7 +316,7 @@ Under Trails, tap Off or On.
 
 ### <span style="color: #434343;">Trails Off</span>
 
-![galaxy-trails-off.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/a130b6df68559bf94663bc52557720f843ea45bc.png)
+![galaxy-trails-off.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--a130b6df68559bf94663bc52557720f843ea45bc--5d61d21f1267c3db.png)
 
 When Trails is set to Off, the delay and reverb effects stop immediately when the pedal is bypassed.
 
@@ -324,7 +324,7 @@ When Trails is set to Off, the delay and reverb effects stop immediately when th
 
 ### <span style="color: #434343;">Trails On</span>
 
-![galaxy-trails-on.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/af1a2ed2732ae6cd9f83c8b1a3ed59e7236474b3.png)
+![galaxy-trails-on.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--af1a2ed2732ae6cd9f83c8b1a3ed59e7236474b3--5dd82202c404c55e.png)
 
 When bypass routing is set for trails on bypass and the effect is off, the effect plays out naturally, rather than stopping suddenly.
 
@@ -333,7 +333,7 @@ The dry signal remains analog dry-through when the effect is on and off, and the
 ### MIDI Clock Mode
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![galaxy-midi-clock-mode.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/c355e3b2124c95fb6bf8feb266c10caaba9611b1.png)
+![galaxy-midi-clock-mode.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--c355e3b2124c95fb6bf8feb266c10caaba9611b1--cd0c9f661ddf6556.png)
 </figure>
 
 You can set a MIDI Clock mode for Galaxy. This allows Galaxy to sync to MIDI clock. Note that with multiple UAFX pedals that are synced to MIDI clock, only one pedal should be designated as the leader, and other pedals should be designated as followers. 
@@ -350,13 +350,13 @@ Footswitch modes can be changed in UAFX Control to suit your preferences. You ca
 
 To select a footswitch mode, open the Settings screen. Then tap the current footswitch mode (colored bar) and choose a mode from the drop menu.
 
-![galaxy-fs-modes.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/25bd40d8ebaaf458d1b0a579147aad0e4c1df3d7.png)
+![galaxy-fs-modes.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--25bd40d8ebaaf458d1b0a579147aad0e4c1df3d7--e2adbefcaaa89891.png)
 
 The following Galaxy footswitch modes can be selected.
 
 ### <span style="color: #434343;">Effects \| Performance</span>
 
-![galaxy-effects-rao.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/ed41f2d339b3e95b59c925dfda4b7dfb5cde7bf9.png)
+![galaxy-effects-rao.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--ed41f2d339b3e95b59c925dfda4b7dfb5cde7bf9--780f3359dd761505.png)
 
 In Effects \| Performance mode:
 
@@ -369,7 +369,7 @@ In Effects \| Performance mode:
 
 ### <span style="color: #434343;">Delay \| Reverb</span>
 
-![galaxy-delay-reverb-mode.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/a4bb6a4eb0ebbbac40c8f9b0184bc71dbc3ba355.png)
+![galaxy-delay-reverb-mode.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--a4bb6a4eb0ebbbac40c8f9b0184bc71dbc3ba355--757e9df5f3c2e451.png)
 
 In Delay \| Reverb mode, you can toggle delay and reverb on and off individually. There is no tap tempo in this mode.
 
@@ -625,9 +625,9 @@ All specifications are subject to change without notice.
 
 # Galaxy Safety
 
-![safety-symbol-exclaim.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
+![safety-symbol-exclaim.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--1f4e29ce87eca86e.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
+![safety-symbol-book-info.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--1cd38e0511277a1b.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
 - Read the instructions.
 - Keep these instructions.
@@ -669,7 +669,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 The company's products have obtained the NCC low-power radio frequency equipment verification certificate according to the new warnings of "Low-power radio frequency equipment technical specifications" as follows: "The low-power radio frequency equipment that has obtained the verification certificate shall not be changed by the company, firm or user without approval. Frequency, increase power, or change the features and functions of the original design. The use of low-power radio frequency equipment shall not affect flight safety and interfere with legal communications; continue to use.
 
-![safety-symbol-trash.png](UAFX%20Galaxy%20%2774%20Tape%20Echo%20%26%20Reverb%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-galaxy-74-tape-echo-reverb-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--7859fc297adc092c.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

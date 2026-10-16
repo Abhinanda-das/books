@@ -29,7 +29,7 @@ This article will guide you on how to activate your native plug-in licenses to y
 3.  After **UA Connect** applies any required updates, you will be prompted to move any UAD native plug-in activations you own from iLok Cloud to your computer location. Click the **OK** button.\
     **Note**: iLok Cloud sessions that are currently open will be briefly closed and reopened.
 4.  When the migration is complete a confirmation window will appear. Press **OK **to complete the process.\
-    ![2_iLokMachineAuth_Confirmation.png](FAQ%20How%20to%20Activate%20UAD%20Plug-ins%20and%20Apps%20on%20Your%20Computer_assets/273c5a02210612d53d6a1db2af6d3a79f636f3cd.png)
+    ![2_iLokMachineAuth_Confirmation.png](../../attachments/faq-how-to-activate-uad-plug-ins-and-apps-on-your-computer_assets--273c5a02210612d53d6a1db2af6d3a79f636f3cd--9030c40cae3fd8fe.png)
 
 If for any reason you are not quite ready to move your licenses to machine authorization, moving your activations by pressing the **Remind me later **button. This can be done up to two times.
 

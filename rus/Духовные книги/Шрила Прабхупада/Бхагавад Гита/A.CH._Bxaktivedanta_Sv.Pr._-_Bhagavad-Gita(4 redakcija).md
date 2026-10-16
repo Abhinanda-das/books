@@ -12967,7 +12967,7 @@ _Ральф Уолдо Эмерсон_
 _Пратибха Девисингх Патил, президент Индии_ 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1458-00.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1458--c33cf22e1fde5952.png>)
 
 
 **Его божественная милость** 
@@ -12975,7 +12975,7 @@ _Пратибха Девисингх Патил, президент Индии_
 **А.Ч. Бхактиведанта Свами Прабхупада** ачарья-основатель Международного общества сознания Кришны 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1460-00.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1460--f050d7abc0e9feef.png>)
 
 
 **Шрила Бхактисиддханта Сарасвати Тхакур** , духовный учитель Его Божественной Милости А.Ч. Бхактиведанты 
@@ -12985,7 +12985,7 @@ _Пратибха Девисингх Патил, президент Индии_
 **Шрила Гауракишора дас Бабаджи** , духовный учитель Шрилы Бхактисиддханты Сарасвати, ближайший ученик Шрилы Бхактивиноды Тхакура 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1464-00.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1464--78c7385a76fc2eba.png>)
 
 
 **Шрила Бхактивинода Тхакур** , основатель программы 
@@ -12995,7 +12995,7 @@ _Пратибха Девисингх Патил, президент Индии_
 **Шри Рупа Госвами и Шрила Санатана Госвами** , наиболее близкие спутники и ученики Господа Чайтаньи 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1468-00.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1468--02c2359b0d2e8f5d.png>)
 
 
 **Панча-Таттва** 
@@ -13013,7 +13013,7 @@ _Пратибха Девисингх Патил, президент Индии_
 Увидев безграничную вселенскую форму Господа со всеми её бесчисленными проявлениями, Арджуна, потрясенный, начал возносить молитвы. 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1477-01.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1477--d4d7fc54f1d157c2.png>)
 
 
 Воплотившаяся в теле душа постепенно меняет тело ребенка на тело юноши, а затем на тело старика, и точно так же после смерти она переходит в другое тело. Трезвомыслящего человека такая перемена не смущает. 
@@ -13023,7 +13023,7 @@ _Джива_ , вечная душа, вращается в круговорот
 _Йог_ -мистик, который не стал преданным Кришны, должен уединиться и, обуздав ум и чувства, на протяжении долгого времени совершать аскетические подвиги. В наше время заниматься таким видом _йоги_ не возможно. 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1481-00.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1481--61b8a6bc879390c3.png>)
 
 
 Господь пребывает в сердце каждого живого существа в 
@@ -13035,21 +13035,21 @@ _Йог_ -мистик, который не стал преданным Криш
 Обусловленная душа сидит в колеснице материального тела. Возница (разум) держит вожжи (ум), пытаясь укротить чувства, которые подобны бешенным коням. 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1486-01.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1486--835b72b57ee66df0.png>)
 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1487-00.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1487--10f6e7ea24b44697.png>)
 
 
 Если человек развивает в себе животные наклонности, в будущей жизни он, без сомнения, получит тело животного, чтобы наслаждаться соответствующим образом. 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1488-00.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1488--ee326a75e6d3a3ac.png>)
 
 
 
-![](<A.CH._Bxaktivedanta_Sv.Pr._-_Bhagavad-Gita-4_redakcija-.pdf-1488-01.png>)
+![](<../../../../attachments/a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4-redakcija-_assets--a.ch._bxaktivedanta_sv.pr._-_bhagavad-gita-4_redakcija-.pdf-1488--8e6504ec0bfae9d6.png>)
 
 
 В момент смерти сознание, созданное человеком на протяжении всей жизни, переносит его в следующее тело. 

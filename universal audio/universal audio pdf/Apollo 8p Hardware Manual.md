@@ -6,15 +6,15 @@ tool_version: 1.10.2
 word_count: 11555
 ---
 
-![](<Apollo 8p Hardware Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_0_picture_0--dd6bff736fc3d8b5.jpeg>)
 
-![](<Apollo 8p Hardware Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_0_picture_1--8e381550a1dce71b.jpeg>)
 
 # **Apollo 8p Hardware Manual**
 
 Manual Version 171101
 
-![](<Apollo 8p Hardware Manual_assets/_page_0_Picture_4.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_0_picture_4--d1a5cacebd49b91c.jpeg>)
 
 # <span id="page-1-0"></span>**A Letter from Bill Putnam Jr.**
 
@@ -253,7 +253,7 @@ This section describes the features and functionality of all controls and visual
 
 **Note:** All front panel functions (except the METER switch, headphone volume knobs, and power switch) can be controlled remotely with the included Console software application. Changes made with the front panel controls are mirrored in the Console application, and vice versa.
 
-![](<Apollo 8p Hardware Manual_assets/_page_9_Picture_3.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_9_picture_3--c06c7b5027ffb72b.jpeg>)
 
 Apollo 8p front panel (left portion)
 
@@ -417,7 +417,7 @@ Avoid digital clipping at the channel's A/D converter by reducing the preamp gai
 
 When set to OUTPUT, the channel meters display the signal peak output levels for analog channels 1-8 at the output of the D/A converters.
 
-![](<Apollo 8p Hardware Manual_assets/_page_14_Picture_8.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_14_picture_8--6a1cc5956d969c4b.jpeg>)
 
 Apollo 8p front panel (right portion)
 
@@ -580,7 +580,7 @@ This switch applies power to Apollo 8. When the unit is powered on, the Universa
 
 # <span id="page-20-0"></span>**Rear Panel**
 
-![](<Apollo 8p Hardware Manual_assets/_page_20_Picture_1.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_20_picture_1--d560d52c1b94f31a.jpeg>)
 
 *Apollo 8p rear panel (digital portion)*
 
@@ -669,7 +669,7 @@ Per the Thunderbolt specification, bus power is supplied to downstream (daisy-ch
 
 # <span id="page-24-0"></span>**Analog I/O**
 
-![](<Apollo 8p Hardware Manual_assets/_page_24_Picture_1.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_24_picture_1--0e257193d815979d.jpeg>)
 
 *Apollo 8p rear panel (analog portion)*
 
@@ -773,7 +773,7 @@ This diagram illustrates a simple Apollo 8p setup that could be used by an indiv
 - Mic/Line switch for channel 2 is set to MIC
 - Monitor outputs are connected to powered monitors (or an amp+speaker system)
 
-![](<Apollo 8p Hardware Manual_assets/_page_28_Picture_6.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_28_picture_6--54649e8ad0c69f8b.jpeg>)
 
 # <span id="page-29-0"></span>**Typical Setup**
 
@@ -786,7 +786,7 @@ The example shows an electric guitar and electric bass connected to the Hi-Z inp
 - Mic/Line switches for channels 3 and 4 are set to MIC
 - Unique mixes can be crafted via the CUE sends and routed to each headphone output for "more me" during tracking
 
-![](<Apollo 8p Hardware Manual_assets/_page_29_Picture_6.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_29_picture_6--6de7a07da2f8011a.jpeg>)
 
 ## <span id="page-30-0"></span>**Advanced Setup**
 
@@ -805,7 +805,7 @@ A stereo digital recorder is connected to the S/PDIF output, a tuner is connecte
   4-710d could be used as the master clock by setting the 4-710d to internal
   clock, setting Apollo to external ADAT clock, and eliminating the word clock cable)
 
-![](<Apollo 8p Hardware Manual_assets/_page_30_Picture_8.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_30_picture_8--a85b9a22a5976edf.jpeg>)
 
 ## <span id="page-31-0"></span>**Apollo Expanded: Multi-Unit Wiring**
 
@@ -813,7 +813,7 @@ The diagram below illustrates how to interconnect multiple Apollo units and the 
 
 **Important:** For complete details about system operation when multi-unit cascading, see the Apollo Software Manual.
 
-![](<Apollo 8p Hardware Manual_assets/_page_31_Picture_3.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_31_picture_3--d56e6df07cf098fb.jpeg>)
 
 #### **Cables Required**
 
@@ -1007,7 +1007,7 @@ All specifications are typical performance unless otherwise noted, tested under 
 
 # <span id="page-37-0"></span>**Block Diagram**
 
-![](<Apollo 8p Hardware Manual_assets/_page_37_Figure_1.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_37_figure_1--835c1e7ef088bc63.jpeg>)
 
 # <span id="page-38-1"></span><span id="page-38-0"></span>**Troubleshooting**
 
@@ -1134,4 +1134,4 @@ Universal Audio provides free technical support to registered product owners. Su
 
 • [help.uaudio.com](http://help.uaudio.com)
 
-![](<Apollo 8p Hardware Manual_assets/_page_43_Picture_0.jpeg>)
+![](<../../attachments/apollo-8p-hardware-manual_assets--page_43_picture_0--b3ddba0fcde5bc7b.jpeg>)

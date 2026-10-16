@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/em"
 ---
 
-![обложка|156](<Ekadasi Mahatmya/обложка.jpeg>)
+![обложка|156](<../attachments/ekadasi-mahatmya--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--6d095af962bdc303.jpeg>)
 
 # Ekadasi Mahatmya
 

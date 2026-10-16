@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/ru/books/atmatattvadas-nrisinha"
 ---
 
-![обложка|156](<Господь Нрисимхадева (ru-atmatattvadas-nrisinha)/обложка.jpeg>)
+![обложка|156](<../attachments/%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%BD%D1%80%D0%B8%D1%81%D0%B8%D0%BC%D1%85%D0%B0%D0%B4%D0%B5%D0%B2%D0%B0-ru-atmatattvadas-nrisinha--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5285be1bfdf728a3.jpeg>)
 
 Лилы Господа Нрисимхадевы, в том числе происходящие и в наше время, откроются перед читателем на страницах этой небольшой книги.
 

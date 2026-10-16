@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bhpursw-tgaposr2"
 ---
 
-![обложка|156](<The Glories and Pastimes of Srimati Radharani. Part II/обложка.jpeg>)
+![обложка|156](<../attachments/the-glories-and-pastimes-of-srimati-radharani.-part-ii--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--709c0edfc93dc22d.jpeg>)
 
 Radharani is the Queen of Vrnda’s forest. She is the Supreme Goddess of the entire creation. Radha enjoys playing fun games with Krsna, Srimati Radharani is the final transcendental goal. She is naturally situated far, far beyond anyone’s meditation. Radha is very meditative by nature. She is always playing mischievous pranks on Krsna.
 

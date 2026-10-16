@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg16-01-02"
 ---
 
-![обложка|156](<Back to Godhead Magazine #16-0102, 1981/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-16-0102-1981--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--ca9cece45ccdf2d7.jpeg>)
 
 # Back to Godhead Magazine #16-01/02, 1981
 

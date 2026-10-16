@@ -71,7 +71,7 @@ Electra 88 immerses the user in a high-end recording studio, with an enviable co
 
 # Getting Started with Electra
 
-![electra-keyboard-view-callouts.png](Electra%2088%20Vintage%20Keys%20Manual_assets/0ccf5150fa381d9d0b3bc5e45b871897a25812ba.png)
+![electra-keyboard-view-callouts.png](../../attachments/electra-88-vintage-keys-manual_assets--0ccf5150fa381d9d0b3bc5e45b871897a25812ba--8aa253bd2e6647ab.png)
 
 Before we explore the details, let's take Electra for a quick test drive. After the plug-in is loaded and the track is input-enabled (see your DAWs documentation for these instructions):
 
@@ -112,7 +112,7 @@ From every Electra view, you can:
 - Individually enable/disable the pedal and studio effects (except for the studio EQ and 1176 Limiting Amplifier), and adjust a primary setting on each effect
 - Change controls for the currently selected amplifier
 
-![electra-control-switcher.png](Electra%2088%20Vintage%20Keys%20Manual_assets/e617935acb240bb0eea9a378db64c4c74e8be5d8.png)
+![electra-control-switcher.png](../../attachments/electra-88-vintage-keys-manual_assets--e617935acb240bb0eea9a378db64c4c74e8be5d8--282c7a51939ee2cf.png)
 
  
 
@@ -126,7 +126,7 @@ The Electra 88 Keyboard view provides a visual overview of the Electra instrumen
 
 When you play Electra with your MIDI controller, the keys you are playing are highlighted. The pedal effects displayed on top of Electra are updated when you change them in the Pedals and Studio views. You can adjust the pedal and studio effects with their quick controls, and adjust some amplifier controls.
 
-![electra-keyboard-view.png](Electra%2088%20Vintage%20Keys%20Manual_assets/4e4294b8e430aa96c834440cff919d38039628c3.png)
+![electra-keyboard-view.png](../../attachments/electra-88-vintage-keys-manual_assets--4e4294b8e430aa96c834440cff919d38039628c3--34f357f877b4a538.png)
 
  
 
@@ -155,7 +155,7 @@ Assignable pedals include:
 - <a href="#h_01H0GJB3PWC3AEFZF260FE1RQC" rel="undefined" target="_self">Spring Verb</a>
 - <a href="#h_01H0GJBCQMNDBR5MKJEB78P67Y" rel="undefined" target="_self">Tape Echo</a>
 
-![electra-pedals-view.png](Electra%2088%20Vintage%20Keys%20Manual_assets/8da002876deecf8254b968553ee5eb6ba3f63273.png)
+![electra-pedals-view.png](../../attachments/electra-88-vintage-keys-manual_assets--8da002876deecf8254b968553ee5eb6ba3f63273--9cd46a5135707b08.png)
 
 #### To enable/disable a pedal
 
@@ -170,7 +170,7 @@ Assignable pedals include:
 
 If the pedal you selected is already assigned to another slot, that pedal is swapped with the pedal in the current slot (second and third pedal slots only).
 
-![pedal-effect-select.png](Electra%2088%20Vintage%20Keys%20Manual_assets/9317d944452c576eefe18771e059b621253e4283.png)
+![pedal-effect-select.png](../../attachments/electra-88-vintage-keys-manual_assets--9317d944452c576eefe18771e059b621253e4283--a7c7b52ed1e8e63d.png)
 
  
 
@@ -186,7 +186,7 @@ This section details the controls for Electra's pedals.
 
 A classic envelope follower that can create anything from auto-wah type sounds to vowel-like tones.
 
-![pedals-fil-tron.png](Electra%2088%20Vintage%20Keys%20Manual_assets/c7fbaabf00e771868f6669337b771062437cb827.png)
+![pedals-fil-tron.png](../../attachments/electra-88-vintage-keys-manual_assets--c7fbaabf00e771868f6669337b771062437cb827--4d59c9a2516842e3.png)
 
 ### Fil-tron controls
 
@@ -210,7 +210,7 @@ A classic envelope follower that can create anything from auto-wah type sounds t
 
 Classic wah sounds featuring automatic (lower left switch) or manual (lower right switch) control.
 
-![pedals-wah.png](Electra%2088%20Vintage%20Keys%20Manual_assets/96614bfd861d34c9a5ef6d5d23f45027d74adb26.png)
+![pedals-wah.png](../../attachments/electra-88-vintage-keys-manual_assets--96614bfd861d34c9a5ef6d5d23f45027d74adb26--a72b3cfa7f69daf6.png)
 
 ### Wah controls
 
@@ -233,7 +233,7 @@ Classic wah sounds featuring automatic (lower left switch) or manual (lower righ
 
 This is the classic bucket brigade chorus pedal, with simple controls and both chorus and vibrato modes. The Chorus/Vibrato switch toggles between the modes, and the small LEDs above the Chorus and Vibrato controls indicate which effect is selected.  
 
-![pedals-chorus.png](Electra%2088%20Vintage%20Keys%20Manual_assets/dbbeca0e15c00135742ad919619cac25ab5823ba.png)
+![pedals-chorus.png](../../attachments/electra-88-vintage-keys-manual_assets--dbbeca0e15c00135742ad919619cac25ab5823ba--52546e51bef740fc.png)
 
 ### Chorus controls
 
@@ -256,7 +256,7 @@ This is the classic bucket brigade chorus pedal, with simple controls and both c
 
 This is the infamous red box compressor, with serious squeeze for lo-fi compression and funky overdrive when pushed.
 
-![pedals-compressor.png](Electra%2088%20Vintage%20Keys%20Manual_assets/5cf4b5b37a64ae1168a921c7820c1ae7652b485c.png)
+![pedals-compressor.png](../../attachments/electra-88-vintage-keys-manual_assets--5cf4b5b37a64ae1168a921c7820c1ae7652b485c--0b759973567a86ac.png)
 
 ### Compressor controls
 
@@ -278,7 +278,7 @@ This is the infamous red box compressor, with serious squeeze for lo-fi compress
 
 This classic bucket-brigade modulation processor that adds unique movement and depth to any source, ranging from subtle thickening to whacked-out sci-fi effects.
 
-![pedals-flanger.png](Electra%2088%20Vintage%20Keys%20Manual_assets/59020cdc1a2ee0288d35518533834482284f2f43.png)
+![pedals-flanger.png](../../attachments/electra-88-vintage-keys-manual_assets--59020cdc1a2ee0288d35518533834482284f2f43--64c2156ffae32502.png)
 
 ### Flanger controls
 
@@ -300,7 +300,7 @@ This classic bucket-brigade modulation processor that adds unique movement and d
 
 This is the classic orange box phaser, with both "script" and "block" variants. Like the original hardware, there is no mix control.
 
-![pedals-phaser.png](Electra%2088%20Vintage%20Keys%20Manual_assets/003ea3828d8d8ac15b11eadaf89f81ca1e77ffe9.png)
+![pedals-phaser.png](../../attachments/electra-88-vintage-keys-manual_assets--003ea3828d8d8ac15b11eadaf89f81ca1e77ffe9--2ffca852e903ab0a.png)
 
 ### Phaser Controls
 
@@ -321,7 +321,7 @@ This is the classic orange box phaser, with both "script" and "block" variants. 
 
 A faithful recreation of an outboard spring reverb tank, with a single mix control. Use this for warm, gritty, midrange-rich reverb.
 
-![pedals-spring-reverb.png](Electra%2088%20Vintage%20Keys%20Manual_assets/55a7ed1e67133663af4671e1623fbfcaeb911950.png)
+![pedals-spring-reverb.png](../../attachments/electra-88-vintage-keys-manual_assets--55a7ed1e67133663af4671e1623fbfcaeb911950--93f30709777557f5.png)
 
 ### Spring Verb controls
 
@@ -341,7 +341,7 @@ A faithful recreation of an outboard spring reverb tank, with a single mix contr
 
 A vintage tape echo unit, with plenty of saturation, EQ, and repeats that can self-oscillate. Use this when you want delay with warmth and character.
 
-![pedals-tape-echo.png](Electra%2088%20Vintage%20Keys%20Manual_assets/4b5ca7383ec9e586eb17eb7723e0ae959b5d3db6.png)
+![pedals-tape-echo.png](../../attachments/electra-88-vintage-keys-manual_assets--4b5ca7383ec9e586eb17eb7723e0ae959b5d3db6--389e0950eee057d8.png)
 
 ### Tape Echo controls
 
@@ -404,7 +404,7 @@ Sync On: 1/64 – 1/2 note</td>
 
 To open Amplifier view, click Amplifier at the top of the Electra window, or click on an amplifier or cabinet when in Keyboard view.
 
-![electra-amplifier-view.png](Electra%2088%20Vintage%20Keys%20Manual_assets/09f9351591f39c2b2367b5b83e4ac8a918cd5f5a.png)
+![electra-amplifier-view.png](../../attachments/electra-88-vintage-keys-manual_assets--09f9351591f39c2b2367b5b83e4ac8a918cd5f5a--838072e11c5def49.png)
 
  
 
@@ -431,7 +431,7 @@ Each amp includes several controls for the sound, including the microphone choic
 9.  Adjust the amount of room sound with the Room knob.
 10. Adjust the output level with the Level knob.
 
-![double-reverb-controls.png](Electra%2088%20Vintage%20Keys%20Manual_assets/57f942af6e60fe3c620f0b3b0eb1e09ec77886f6.png)
+![double-reverb-controls.png](../../attachments/electra-88-vintage-keys-manual_assets--57f942af6e60fe3c620f0b3b0eb1e09ec77886f6--dbd3b1fa3b77d49e.png)
 
  
 
@@ -448,7 +448,7 @@ Each amp includes several controls for the sound, including the microphone choic
 9.  Adjust the amount of room sound with the Room knob.
 10. Adjust the output level with the Level knob.
 
-![suitcase-amp-callouts.png](Electra%2088%20Vintage%20Keys%20Manual_assets/8fdc13a6fead3e23aa16add49eb3f982e6031f75.png)
+![suitcase-amp-callouts.png](../../attachments/electra-88-vintage-keys-manual_assets--8fdc13a6fead3e23aa16add49eb3f982e6031f75--37f91207747ea404.png)
 
  
 
@@ -462,7 +462,7 @@ Each amp includes several controls for the sound, including the microphone choic
 6.  Adjust the amount of room sound with the Room knob.
 7.  Adjust the output level with the Level knob. 
 
-![147-amp-callouts.png](Electra%2088%20Vintage%20Keys%20Manual_assets/1a770d27b6d2d090646b3b9533d5846524b0f591.png)
+![147-amp-callouts.png](../../attachments/electra-88-vintage-keys-manual_assets--1a770d27b6d2d090646b3b9533d5846524b0f591--42b687d7299a38a7.png)
 
 ## To configure the Direct Box
 
@@ -470,7 +470,7 @@ Each amp includes several controls for the sound, including the microphone choic
 2.  Adjust the sound of the amp using the Volume and Tone cut/boost concentric knobs. 
 3.  To apply the amp's Vibrato (tremolo), switch the Vibrato on, and adjust the concentric Intensity and Speed knobs. Intensity increases the amount of Vibrato. 
 
-![direct-box-callouts.png](Electra%2088%20Vintage%20Keys%20Manual_assets/f8023f638830230770ff8af44c9ca4d802b0dd09.png)
+![direct-box-callouts.png](../../attachments/electra-88-vintage-keys-manual_assets--f8023f638830230770ff8af44c9ca4d802b0dd09--42193eef945c1754.png)
 
 ## Adjusting Suitcase Preamplifier controls
 
@@ -478,7 +478,7 @@ When another amplifier is selected, you can still adjust the Suitcase Preamplifi
 
 On the Keyboard page, click the up arrow above the amplifier controls. The suitcase preamplifier controls appear above the current amplifier controls, and you can make adjustments.  
 
-![keyboard-vibrato-pref-popup.png](Electra%2088%20Vintage%20Keys%20Manual_assets/b1120bbaff67d31c818e7dce689c5a4aaafb11c9.png)
+![keyboard-vibrato-pref-popup.png](../../attachments/electra-88-vintage-keys-manual_assets--b1120bbaff67d31c818e7dce689c5a4aaafb11c9--6f8f8adea8f95fa5.png)
 
  
 
@@ -566,7 +566,7 @@ To open Studio view, click Studio at the top of the Electra window, the STUDIO t
 
 In Electra's Studio view, you can put the final polish on your sound with five high quality rack-style effects. The five modules included in the Studio view include EQ, compression, modulation, delay, and reverb. Each studio effect has unique parameters and controls. 
 
-![electra-studio-view.png](Electra%2088%20Vintage%20Keys%20Manual_assets/16b3c9815c7d06236b0193276d75b030ebe20a1b.png)
+![electra-studio-view.png](../../attachments/electra-88-vintage-keys-manual_assets--16b3c9815c7d06236b0193276d75b030ebe20a1b--332d40ead9082c2d.png)
 
 ## Electra studio effect common controls
 
@@ -584,7 +584,7 @@ Electra's Studio EQ offers five bands of graphic EQ, low and high pass filters, 
 
 **Note:** The EQ controls are set in a slight "smiley face" EQ on the Default preset, and EQ Power is on.
 
-![studio-eq-module.png](Electra%2088%20Vintage%20Keys%20Manual_assets/fbaa2837e06acb4a92211594156efc42d324c126.png)
+![studio-eq-module.png](../../attachments/electra-88-vintage-keys-manual_assets--fbaa2837e06acb4a92211594156efc42d324c126--e103a05064ad5762.png)
 
 ### EQ Controls
 
@@ -635,7 +635,7 @@ High Mid, High)</td>
 
 Electra's 1176 Limiting Amplifier offers powerful compression from the renowned UAD 1176 Rev A ("blue stripe") compressor. The controls for Electra's 1176 are simplified, and designed for fast, useful compression tweaks.
 
-![studio-1176-module.png](Electra%2088%20Vintage%20Keys%20Manual_assets/16b31f5ed5f8dd36a191a9d9509d447da0661ac5.png)
+![studio-1176-module.png](../../attachments/electra-88-vintage-keys-manual_assets--16b31f5ed5f8dd36a191a9d9509d447da0661ac5--497daa9270419dcd.png)
 
 ### 1176 Limiting Amplifier controls
 
@@ -661,7 +661,7 @@ Electra's 1176 Limiting Amplifier offers powerful compression from the renowned 
 
 Electra's Modulation effect offers four types of modulation, and enough control to provide subtle shimmering effects or wild, vast sweeps. 
 
-![studio-modulation-module.png](Electra%2088%20Vintage%20Keys%20Manual_assets/190940f9ae4a8ea64d2de87e3694d172d7f7ae87.png)
+![studio-modulation-module.png](../../attachments/electra-88-vintage-keys-manual_assets--190940f9ae4a8ea64d2de87e3694d172d7f7ae87--bbb6fd093efc0fdf.png)
 
 ### Studio Modulation controls
 
@@ -715,7 +715,7 @@ Wow + Flut: Tape machine-style wow and flutter, from subtle to very warbling wit
 
 The studio delay effect offers three types of delay and a rich palette of options to create highly tweakable delay sounds.
 
-![studio-delay-module.png](Electra%2088%20Vintage%20Keys%20Manual_assets/b17262f7fe8c19ac61826db9c09980f61c478703.png)
+![studio-delay-module.png](../../attachments/electra-88-vintage-keys-manual_assets--b17262f7fe8c19ac61826db9c09980f61c478703--699aae001cb31453.png)
 
 ### Studio Delay controls
 
@@ -783,7 +783,7 @@ Ping Pong: Delay repeats bounce back and forth from left to right</td>
 
 The Studio Reverb offers five types of high-quality reverb, with controls for pre-delay, decay, and equalization.
 
-![studio-reverb-module.png](Electra%2088%20Vintage%20Keys%20Manual_assets/b59e23b4dbeac5c788f19d6d845768924c088dfd.png)
+![studio-reverb-module.png](../../attachments/electra-88-vintage-keys-manual_assets--b59e23b4dbeac5c788f19d6d845768924c088dfd--f0f50c0f755177c5.png)
 
  
 
@@ -845,7 +845,7 @@ Electra's Settings view includes a number of settings for general and performanc
 
 **Important:** Electra's General settings are global, and apply to all Electra sounds for that instrument instance. Electra's Performance settings apply to a specific sound, and are stored and recalled with each preset.
 
-![electra-settings.png](Electra%2088%20Vintage%20Keys%20Manual_assets/b0e00bc76f3f89b4d69b5a65a162ce77d35736ab.png)
+![electra-settings.png](../../attachments/electra-88-vintage-keys-manual_assets--b0e00bc76f3f89b4d69b5a65a162ce77d35736ab--2e50e94bb125ebe4.png)
 
 ## General Settings
 
@@ -853,7 +853,7 @@ Electra's general settings are global to the currently loaded Electra instrument
 
 ### Tuning settings 
 
-![electra-tuning-settings.png](Electra%2088%20Vintage%20Keys%20Manual_assets/75a23de191e504884f0b08934014b2327ef320af.png)
+![electra-tuning-settings.png](../../attachments/electra-88-vintage-keys-manual_assets--75a23de191e504884f0b08934014b2327ef320af--515f6e3b6fad57d5.png)
 
 Use these settings to configure the tuning of the Electra instrument.
 
@@ -882,7 +882,7 @@ The Stretch setting enables or disables stretch tuning. Stretch tuning is a tuni
 
 ### Sustain Settings
 
-![electra-sustain-settings.png](Electra%2088%20Vintage%20Keys%20Manual_assets/38ca0cfaf3331bd0ac2d1e051fdb593640d25255.png)
+![electra-sustain-settings.png](../../attachments/electra-88-vintage-keys-manual_assets--38ca0cfaf3331bd0ac2d1e051fdb593640d25255--946aa8da4b00f92f.png)
 
 The Sustain settings specify how you can interact with Electra with a sustain pedal, and noise associated with the sustain pedal. 
 
@@ -928,7 +928,7 @@ Together with the Noise Velocity setting, this control adjusts the overall volum
 
 ### Velocity Settings
 
-![electra-velocity-settings.png](Electra%2088%20Vintage%20Keys%20Manual_assets/8d8a535e68d483ed61384b417d33111cc5f34c3c.png)
+![electra-velocity-settings.png](../../attachments/electra-88-vintage-keys-manual_assets--8d8a535e68d483ed61384b417d33111cc5f34c3c--70c240c15abf8a68.png)
 
 The Velocity settings adjust how responsive the instrument is to your keyboard velocity or playing style.  These settings can be helpful in improving the dynamic response of a less expressive MIDI controller. 
 
@@ -950,7 +950,7 @@ The S-Curve control adjusts the response of soft and hard velocities, while pres
 
 ### Keyboard Noise Floor
 
-![electra-keyboard-settings.png](Electra%2088%20Vintage%20Keys%20Manual_assets/9cea0299a7af3ee05207a23f9e240fccea268ef2.png)
+![electra-keyboard-settings.png](../../attachments/electra-88-vintage-keys-manual_assets--9cea0299a7af3ee05207a23f9e240fccea268ef2--2b0e7d21ac88e51c.png)
 
 Keyboard Noise Floor adjusts volume of the self noise in the keyboard signal, which we have reduced significantly with advanced noise reduction techniques. 
 
@@ -958,7 +958,7 @@ Keyboard Noise Floor adjusts volume of the self noise in the keyboard signal, wh
 
 ## Electra Performance Settings
 
-![electra-performance-settings.png](Electra%2088%20Vintage%20Keys%20Manual_assets/4876c23d4dad55352c486bd6fe3160efe2ae9647.png)
+![electra-performance-settings.png](../../attachments/electra-88-vintage-keys-manual_assets--4876c23d4dad55352c486bd6fe3160efe2ae9647--486055a7f83e00c4.png)
 
 Electra's performance settings are specific to the current Electra sound, and are saved with any preset sounds.
 
@@ -1052,7 +1052,7 @@ Reduce the Release Level to create a tighter sound which can make a staccato per
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: center; width: 130px; vertical-align: middle;">![NKS-logo-black.png](Electra%2088%20Vintage%20Keys%20Manual_assets/bc3d1f07dfec34c44528c3edae60214c01b881dc.png)</td>
+<td style="text-align: center; width: 130px; vertical-align: middle;">![NKS-logo-black.png](../../attachments/electra-88-vintage-keys-manual_assets--bc3d1f07dfec34c44528c3edae60214c01b881dc--f540ba72fc9b4250.png)</td>
 <td style="text-align: left; vertical-align: top;"><p>All native UAD plug-ins and instruments are NKS-compatible, for deep integration with Native Instruments KOMPLETE KONTROL and MASCHINE series hardware and software. Presets and sound previews appear in NI’s powerful tag-based browsers, and all parameters are intelligently pre-mapped across the control knobs on supported NKS hardware.</p>
 <p>For more details, see <a href="41807112025364-FAQ-How-to-Use-UAD-Native-Plug-Ins-with-NKS-Compatible-Controllers.html">this article</a>.</p></td>
 </tr>

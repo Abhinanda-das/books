@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/jg-ks"
 ---
 
-![обложка|156](<Krama Sandarbha [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/krama-sandarbha-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--163827d556a03202.jpeg>)
 
 Krama Sandarbha is Jīva Gosvāmī's commentary on the whole Bhāgavatam. It was written after the six Sandarbhas. Large portions are taken from those Sandarbhas. This is understandable since the Sandarbhas explain various Bhāgavatam verses according to the subjects of sambandha, abhidheya and prayojana. The portions taken from the other Sandarbhas are mentioned in the book. The tenth canto commentaries are different from his other commentary on the tenth canto called Laghu Vaiṣṇava-toṣaṇī.
 

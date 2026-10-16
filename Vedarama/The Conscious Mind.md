@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/tc-dc"
 ---
 
-![обложка|156](<The Conscious Mind/обложка.jpeg>)
+![обложка|156](<../attachments/the-conscious-mind--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--27abd9797b9051ed.jpeg>)
 
 # The Conscious Mind
 
@@ -146,7 +146,7 @@ Auditory experiences. In some ways, sounds are even stranger than visual images.
 
 Musical experience is perhaps the richest aspect of auditory experience, although the experience of speech must be close. Music is capable of washing over and completely absorbing us, surrounding us in a way that a visual field can surround us but in which auditory experiences usually do not. One can analyze aspects of musical experience by breaking the sounds we perceive into notes and tones with complex interrelationships, but the experience of music somehow goes beyond this. A unified qualitative experience arises from a chord, but not from randomly selected notes. An old piano and a far-off oboe can combine to produce an unexpectedly haunting experience. As always, when we reflect, we ask the question: why should that feel like this?
 
-![рис-001.png|550](<The Conscious Mind/рис-001.png>)
+![рис-001.png|550](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-001--e425e5e0c0356195.png>)
 
 Figure 1.1. Effability and ineffability in olfactory experience. (Calvin and Hobbes © Watterson. Distributed by Universal Press Syndicate. Reprinted with permission. All rights reserved)
 
@@ -570,7 +570,7 @@ The absence of cut-and-dried definitions is the least serious of the difficultie
 
 We can sum this up with a schematic diagram (Figure 2.1) showing how a high-level property P might depend on two low-level parameters A and B, each of which can take on a range of values. If we had a crisp definition in terms of necessary and sufficient conditions, then we would have something like the picture at left, where the dark rectangle represents the region in which property P is instantiated. Instead, the dependence is invariably something like the picture at right, where the boundaries are vague and there is a large area in which the matter of P-hood is indeterminate, but there is also an area in which the matter is clear. (It may be indeterminate whether bacteria or computer viruses are alive, but there is no doubt that dogs are alive.) Given an example in the determinate area, exemplifying A and B to sufficient degrees that P is exemplified, the conditional “If x is A and B to this degree, then x is P” is a conceptual truth, despite the lack of a clean definition of P. Any indeterminacy in such conditionals, in the gray areas, will reflect indeterminacy in the facts of the matter, which is as it should be. The picture can straightforwardly be extended to dependence of a property on an arbitrary number of factors, and to supervenience conditionals in general.
 
-![рис-002.png|500](<The Conscious Mind/рис-002.png>)
+![рис-002.png|500](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-002--f0c3227e00495190.png>)
 
 Figure 2.1. Two ways in which a property P might depend on properties A and B.
 
@@ -578,7 +578,7 @@ Importantly, then, one set of facts can entail another set without there being a
 
 We can put the point by saying that the sort of “meaning” of a concept that is relevant in most cases is not a definition, but an intension: a function specifying how the concept applies to different situations. Sometimes an intension might be summarizable in a definition, but it need not be, as these cases suggest. But as long as there is a fact of the matter about how concepts apply in various situations, then we have an intension; and as I will discuss shortly, this will generally be all the “meaning” that my arguments will need.
 
-![рис-003.png|450](<The Conscious Mind/рис-003.png>)
+![рис-003.png|450](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-003--a16c63b7557121ba.png>)
 
 Figure 2.2. The round curve 2x² + 3y² = 1 and nonround friend.
 
@@ -644,7 +644,7 @@ Fv: W → R
 
 for each
 
-![рис-004.png|128](<The Conscious Mind/рис-004.png>)
+![рис-004.png|128](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-004--d97f10f6703800ab.png>)
 
 representing a way the actual world might turn out, where Fv(w) = F(v, w). For “water,” if a is a world in which watery stuff is H2O, then Fa picks out H2O in any possible world. Given that in our world water did turn out to be H2O, this Fa specifies the correct application conditions for “water” across counterfactual worlds. If our world had turned out to be a different world b in which watery stuff was XYZ, then the relevant application conditions would have been specified by Fb, a different intension which picks out XYZ in any possible world.
 
@@ -900,7 +900,7 @@ The most obvious way (although not the only way) to investigate the logical supe
 
 So let us consider my zombie twin. This creature is molecule for molecule identical to me, and identical in all the low-level properties postulated by a completed physics, but he lacks conscious experience entirely. (Some might prefer to call a zombie “it,” but I use the personal pronoun; I have grown quite fond of my zombie twin.) To fix ideas, we can imagine that right now I am gazing out the window, experiencing some nice green sensations from seeing the trees outside, having pleasant taste experiences through munching on a chocolate bar, and feeling a dull aching sensation in my right shoulder.
 
-![рис-005.png|550](<The Conscious Mind/рис-005.png>)
+![рис-005.png|550](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-005--175fbc61956aab18.png>)
 
 Figure 3.1. Calvin and Hobbes on zombies. (Calvin and Hobbes © Watterson. Distributed by Universal Press Syndicate. Reprinted with permission. All rights reserved)
 
@@ -1062,7 +1062,7 @@ Baars mentions this sort of worry briefly: “A skeptical reader may . . . wonde
 
 Daniel Dennett has also put forward a cognitive model of consciousness. In fact, he has put forward at least two of them. The first (Dennett 1978c) is a “box-and-lines” model, consisting in an account of the flow of information between various modules (Figure 3.2). Central to the model are (1) a perceptual module, (2) a short-term memory store M, which receives information from the perceptual module, (3) a control system, which interacts with the memory store by a question-and-answer-process, and which can direct attention to the contents of the perceptual module, and (4) a “public relations” unit, which receives speech act commands from the control system and converts them into public-language utterances.
 
-![рис-006.png|550](<The Conscious Mind/рис-006.png>)
+![рис-006.png|550](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-006--f6cecd21e5fd7a73.png>)
 
 Figure 3.2. Dennett’s cognitive model of consciousness. (Redrawn from Figure 9.1, p. 155, from Daniel C. Dennett, Brainstorms: Philosophical Essays on Mind and Psychology, The MIT Press. Copyright © 1987 by Bradford Books, Publishers. By permission of The MIT Press)
 
@@ -1098,7 +1098,7 @@ Another neurophysiological theory of consciousness has been outlined by Gerald E
 
 Much of Edelman’s work is devoted to the explanation of perception, memory, and language, rather than of consciousness. Insofar as it is devoted to consciousness, the discussion is often vague, but it seems that what ultimately might be explained by this sort of model is perceptual awareness—that is, the effects of perceptual processing on later processes and on the control of behavior—and aspects of self-consciousness, especially the origin of the concept of the self.
 
-![рис-007.png|550](<The Conscious Mind/рис-007.png>)
+![рис-007.png|550](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-007--1ab623abc65fde3b.png>)
 
 Figure 3.3. Edelman’s scheme for higher-order consciousness. (Redrawn from Figure 12–4, p. 132, from Bright Air, Brilliant Fire by Gerald M. Edelman. Copyright © 1992 by BasicBooks, Inc. By permission of BasicBooks, a division of HarperCollins, Inc.)
 
@@ -2088,7 +2088,7 @@ For example, the proposal that consciousness goes along with direct availability
 
 Leaving aside the fact that Dennett takes this to be a conceptual truth, it is quite close to the present account. The main difference is that my account takes consciousness to go along with potential cerebral celebrity. It is not required that a content actually play a global control role to be conscious, but it must be available to do so. This seems to square better with the properties of experience. For example, we experience the fringes of our visual field, but most of the time these do not play much of a role in global control; they are merely available to do so if required. Many of the noises we experience may pass without leaving significant effects on memory, behavior, and the like, but the information could have done so. Of course, Dennett may simply be using the term вЂњconsciousnessвЂќ in a stronger sense, a sense in which we are not conscious of those fringes and noises (Dennett is dubious about the very idea of experience, after all), but the comparison is interesting all the same.
 
-![рис-008.png|550](<The Conscious Mind/рис-008.png>)
+![рис-008.png|550](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-008--84cb3608ed9b4afa.png>)
 
 Figure 6.1. Zippy the Pinhead on higher-order theories of consciousness. (Reprinted with special permission of King Features Syndicate)
 
@@ -2566,7 +2566,7 @@ Note that on this account, physically realized information is only information i
 
 This is made clear by Shannon's standard diagram (Figure 8.1) and his associated discussion. An information source is a set of 'messages' (information states), where it is assumed that distinct messages are coded into distinct signals by a transmitter, and that distinct transmitted signals correspond to distinct messages. Indeed, this property defines what it is for states to count as distinct messages. If two different physical states of the system are converted into the same signal, then they realize the same message. Corruption and loss of information may be introduced later in the process, as the right-hand side of the diagram indicates, but it is constitutive of an information channel that distinct information states produce different effects through a transmitter. All this is implicit rather than explicit in Shannon's account, where there is no direct treatment of the relationship between physical states and information states. But on a close look it is clear that when information states are individuated, the transmittability principle is doing the work.
 
-![рис-009.png|459](<The Conscious Mind/рис-009.png>)
+![рис-009.png|459](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-009--8556d643187bb1e4.png>)
 
 Figure 8.1. Shannon's diagram of an information channel. (Diagram 1, from Claude E. Shannon and Warren Weaver, The Mathematical Theory of Communication, 1963. Copyright 1949 by the Board of Trustees of the University of Illinois Press. Used with permission of the University of Illinois Press.)
 
@@ -2846,7 +2846,7 @@ A nonreductive view of consciousness does not automatically lead to a pessimisti
 
 In this chapter, I will take things further and argue that the ambitions of artificial intelligence are reasonable (Figure 9.1). In particular, I will argue for the view that Searle calls strong artificial intelligence: that there is a nonempty class of computations such that the implementation of any computation in that class is sufficient for a mind, and in particular, is sufficient for the existence of conscious experience. This sufficiency holds only with natural necessity, of course: it is logically possible that any computation might take place in the absence of consciousness. But the same goes for brains, as we have seen. In evaluating the prospects of machine consciousness in the actual world, it is natural possibility and necessity we are concerned with.
 
-![рис-010.png|550](<The Conscious Mind/рис-010.png>)
+![рис-010.png|550](<../attachments/the-conscious-mind--%D1%80%D0%B8%D1%81-010--af32e405de1de6c4.png>)
 
 Figure 9.1. Bloom County on strong AI. (В© 1985, Washington Post Writers Group. Reprinted with permission)
 

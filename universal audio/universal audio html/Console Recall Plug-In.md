@@ -27,7 +27,7 @@ Since plug-in settings are saved within DAW project files, using SYNC enables UA
 
 This feature ensures the DAW project will sound exactly the same when reloaded at a later date, even if UAD Console contains customized settings that might affect the audio, such as send mixes, signal routings, and/or Realtime UAD Processing.
 
-![](Console%20Recall%20Plug-In_assets/0337fcfc318a5a9d8a7b1b7f56d6899b378e1406.png)
+![](../../attachments/console-recall-plug-in_assets--0337fcfc318a5a9d8a7b1b7f56d6899b378e1406--99c06a6664a99f8e.png)
 
 Console Recall plug-in window
 
@@ -35,7 +35,7 @@ Console Recall plug-in window
 
 Most Console Recall plug-in controls are duplicates of those found in UAD Console. The exceptions are the SYNC switch, and the CONSOLE switch, which opens the UAD Console application.
 
-![](Console%20Recall%20Plug-In_assets/bdcfc89d6fc785cd961e67114fe28ba6e18a739c.png)
+![](../../attachments/console-recall-plug-in_assets--bdcfc89d6fc785cd961e67114fe28ba6e18a739c--7f23921e0fca5922.png)
 
 Console Recall plug-in controls
 
@@ -65,7 +65,7 @@ Upon instantiation of the plug-in, the Monitor Level, Mono, and Mute controls mi
 
 When Console Recall is first loaded, the SYNC switch is disabled (gray). To activate SYNC, click the switch so it is engaged (lit).
 
-![](Console%20Recall%20Plug-In_assets/19a6ee0bcca53007d65d5c97312d38bec3391abf.png)
+![](../../attachments/console-recall-plug-in_assets--19a6ee0bcca53007d65d5c97312d38bec3391abf--fa3858eced591fae.png)
 
 SYNC switch when disabled (top) and enabled (bottom)
 
@@ -77,7 +77,7 @@ Enabling SYNC does not change the UAD Console settings; SYNC doesn't do anything
 
 When a DAW project is loaded that contains the Console Recall plug-in with SYNC enabled, the Session Name in UAD Console displays "- Sync Session -" and the display is dimmed.
 
-![](Console%20Recall%20Plug-In_assets/f917a83c1cf38fcf5a029a1bb0d43e1b2356d508.png)
+![](../../attachments/console-recall-plug-in_assets--f917a83c1cf38fcf5a029a1bb0d43e1b2356d508--6c5b4e591482e9e6.png)
 
 UAD Console session name when SYNC is enabled in DAW
 

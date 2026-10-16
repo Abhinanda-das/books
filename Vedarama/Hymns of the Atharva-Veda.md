@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/atharva"
 ---
 
-![обложка|156](<Hymns of the Atharva-Veda/обложка.jpeg>)
+![обложка|156](<../attachments/hymns-of-the-atharva-veda--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--76da2517e3107ff1.jpeg>)
 
 When Agni, having entered the waters, burned, where the (gods) who uphold the order (of the universe) rendered homage (to Agni), there, they say, is thy origin on high: do thou feel for us, and spare us, O takman!
 

@@ -9,7 +9,7 @@ word_count: 247
 # FAQ: Paradise Guitar Studio
 
 
-![0_Paradise_hero.png](FAQ%20Paradise%20Guitar%20Studio_assets/2433eea24d2ade771bdbf160d243c31445e3db04.png)
+![0_Paradise_hero.png](../../attachments/faq-paradise-guitar-studio_assets--2433eea24d2ade771bdbf160d243c31445e3db04--6de6091824a9fec4.png)
 
 <a href="https://www.uaudio.com/products/paradise-guitar-studio" rel="noopener noreferrer" target="_blank"><strong>Paradise Guitar Studio</strong></a> is Universal Audio’s first end-to-end virtual studio for guitar. It gives guitar players and producers access to an entire high-end recording studio with authentic amp emulations, classic mic and speaker pairings, and onboard studio and stompbox effects inside a single, intuitive plug-in.
 

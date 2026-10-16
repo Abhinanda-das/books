@@ -31,12 +31,12 @@ Let’s take ARP for a quick test drive before diving into the details. We can u
 1.  Click the MIDI FX on the instrument track that contains Shape.
 2.  Choose ARP from LUNA’s focus browser.\
     \
-    ![arp-arp-shape-track.png](LUNA%20ARP%20MIDI%20Arpeggiator%20Extension%20Manual_assets/1df38d87f40416c9d874280e86c9e822f9dc7329.png)\
+    ![arp-arp-shape-track.png](../../attachments/luna-arp-midi-arpeggiator-extension-manual_assets--1df38d87f40416c9d874280e86c9e822f9dc7329--f79bd719659ad024.png)\
     \
 3.  <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Hold one or more notes on your MIDI controller and you will hear those notes being played in an arpeggiated pattern. \
     </span>*Note: ARP always plays notes monophonically (one at a time), even if a chord is played.\
     \
-    ![arp-arp-annotated.png](LUNA%20ARP%20MIDI%20Arpeggiator%20Extension%20Manual_assets/7950e3885651980c1613c6b274b70f875f9e9cb7.png)\
+    ![arp-arp-annotated.png](../../attachments/luna-arp-midi-arpeggiator-extension-manual_assets--7950e3885651980c1613c6b274b70f875f9e9cb7--b284fc0352cd0e2f.png)\
     \*
 4.  <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Change the ARPEGGIATION TYPE by clicking one of the 12 available options.</span>
 5.  Adjust the RATE controls (drop menu and radio buttons) to select the time division at which the arpeggiator advances to the next note in the pattern.
@@ -54,7 +54,7 @@ The Quick Start only scratches the surface of what ARP can do. Read on to learn 
 
 <div collection="contentId-212336645" context-id="212336645" file-mime-type="image/png" file-name="arp-arp-basic.png" file-size="405809" data-height="593" data-id="b02f219d-5a8c-49ab-9d37-ad0e3e6b5d71" node-type="media" data-type="file" data-width="354" title="Attachment">
 
-![arp-arp-basic.png](LUNA%20ARP%20MIDI%20Arpeggiator%20Extension%20Manual_assets/79a8df45c06f26994ca27294a1ddb1071ef03164.png)
+![arp-arp-basic.png](../../attachments/luna-arp-midi-arpeggiator-extension-manual_assets--79a8df45c06f26994ca27294a1ddb1071ef03164--08612a6f6dc9c93a.png)
 
 </div>
 
@@ -72,7 +72,7 @@ ARP has a simple user interface and all of its controls are located on one scree
 
 <div collection="contentId-212336645" context-id="212336645" file-mime-type="image/png" file-name="arp-arp-sync-controls.png" file-size="400565" data-height="593" data-id="de6d4490-37af-415f-8a11-fdec96ebd1a5" node-type="media" data-type="file" data-width="354" title="Attachment">
 
-![arp-arp-sync-controls.png](LUNA%20ARP%20MIDI%20Arpeggiator%20Extension%20Manual_assets/e2f447a56b4a8a64f576d680959d08b7a73c4809.png)
+![arp-arp-sync-controls.png](../../attachments/luna-arp-midi-arpeggiator-extension-manual_assets--e2f447a56b4a8a64f576d680959d08b7a73c4809--b69857b5685c1be7.png)
 
 </div>
 
@@ -108,7 +108,7 @@ This button lets you enter a tempo by tapping the button. Note that this button 
 
 <div collection="contentId-212336645" context-id="212336645" file-mime-type="image/png" file-name="arp-arp-arpeggiation-controls.png" file-size="396912" data-height="593" data-id="23df8f9d-68a6-48b5-8404-91aec9dd2a60" node-type="media" data-type="file" data-width="354" title="Attachment">
 
-![arp-arp-arpeggiation-controls.png](LUNA%20ARP%20MIDI%20Arpeggiator%20Extension%20Manual_assets/6c370773075b58e82a1a1b2943de32a3507d8c37.png)
+![arp-arp-arpeggiation-controls.png](../../attachments/luna-arp-midi-arpeggiator-extension-manual_assets--6c370773075b58e82a1a1b2943de32a3507d8c37--b2bffaf4438bdbd5.png)
 
 </div>
 
@@ -163,7 +163,7 @@ ARP has four presets that let you quickly change between various RATE settings. 
 
 <div collection="contentId-212336645" context-id="212336645" file-mime-type="image/png" file-name="arp-arp-keyboard-controls.png" file-size="398706" data-height="593" data-id="4ec8f384-bd47-4ca9-99cd-df2387e72184" node-type="media" data-type="file" data-width="354" title="Attachment">
 
-![arp-arp-keyboard-controls.png](LUNA%20ARP%20MIDI%20Arpeggiator%20Extension%20Manual_assets/adc10403fe0262d7104399698d8c3fa4c21b124e.png)
+![arp-arp-keyboard-controls.png](../../attachments/luna-arp-midi-arpeggiator-extension-manual_assets--adc10403fe0262d7104399698d8c3fa4c21b124e--f6c5e9907eac8995.png)
 
 </div>
 

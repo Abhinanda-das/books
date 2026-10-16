@@ -9,7 +9,7 @@ word_count: 10579
 # LUNA API Vision Console Extension Manual
 
 
-![api-vision-overview.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/384118d5c71ae491ca8d1e60987e2c3c3b8d567c.png)
+![api-vision-overview.png](../../attachments/luna-api-vision-console-extension-manual_assets--384118d5c71ae491ca8d1e60987e2c3c3b8d567c--1bf10d96912996b6.png)
 
 # Transform LUNA Recording System into API's Flagship Analog Console
 
@@ -70,7 +70,7 @@ API Preamp does not automatically open as a separate plug-in window when it is a
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="api-preamp-inline-view.png" file-size="71611" data-height="289" data-id="fe8cd6b6-a4bb-40db-8714-e56b874ad6b7" node-type="media" data-type="file" data-width="190" title="Attachment">
 
-![api-preamp-inline-view.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/f1a603cc80a099107cccbfae7339f3aadeabca60.png)
+![api-preamp-inline-view.png](../../attachments/luna-api-vision-console-extension-manual_assets--f1a603cc80a099107cccbfae7339f3aadeabca60--ef7f210680891c76.png)
 
 </div>
 
@@ -90,7 +90,7 @@ API Preamp does not automatically open as a separate plug-in window when it is a
 
 </div>
 
-![avc-preamp-expanded-unison-controls.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/a43b935e20626873d834035378958fe1f75bf11b.png)
+![avc-preamp-expanded-unison-controls.png](../../attachments/luna-api-vision-console-extension-manual_assets--a43b935e20626873d834035378958fe1f75bf11b--b2f63139014567ad.png)
 
 <div class="fabric-editor-block-mark fabric-editor-align-center" data-align="center">
 
@@ -120,7 +120,7 @@ Individual API Vision control functions are detailed in the <a href="#h_01F5C3NE
 
 When instantiated, API Vision appears as a channel strip, including Input gain, Input filters, Gate/Expander, Compressor/Limiter, and EQ. You can change the EQ module from the default 550L (parametric) to the 560L (graphic) EQ. 
 
-![avc-track-modules-callouts.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/da88da37c2a5c4d2d2df7be811bddb5f845cef31.png)
+![avc-track-modules-callouts.png](../../attachments/luna-api-vision-console-extension-manual_assets--da88da37c2a5c4d2d2df7be811bddb5f845cef31--904cdeeb2ff81b2a.png)
 
 <div layout="center" node-type="mediaSingle" data-width="81">
 
@@ -136,7 +136,7 @@ You can open the full channel strip in the Console browser by hovering your mous
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-hover-open-console-browser.png" file-size="28135" data-height="160" data-id="1085dd61-1c6e-4290-88f0-f28ab6ea2eae" node-type="media" data-type="file" data-width="207" title="Attachment">
 
-![avc-hover-open-console-browser.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/4ac47114a090e2bfcb5e06ebc624c16c0550de84.png)
+![avc-hover-open-console-browser.png](../../attachments/luna-api-vision-console-extension-manual_assets--4ac47114a090e2bfcb5e06ebc624c16c0550de84--32f02a528dc3061d.png)
 
 </div>
 
@@ -148,7 +148,7 @@ You can open the full channel strip in the Console browser by hovering your mous
 
 API 2500 is instantiated as a compact version of the API 2500 Bus Compressor, with the most important controls of the hardware shown.
 
-![avc-2500-small-big.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/db42898c77b76bfc1ee306b6efd43128a37e8dff.png)
+![avc-2500-small-big.png](../../attachments/luna-api-vision-console-extension-manual_assets--db42898c77b76bfc1ee306b6efd43128a37e8dff--6e5f370440869a00.png)
 
 <div layout="center" node-type="mediaSingle" data-width="65">
 
@@ -164,7 +164,7 @@ To see the full set of controls, you can open the API 2500 Bus Compressor in the
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-2500-hover-open.png" file-size="59589" data-height="217" data-id="5060a3f1-980a-410d-9b48-4a9a657eb28a" node-type="media" data-type="file" data-width="208" title="Attachment">
 
-![avc-2500-hover-open.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/c61c67b6148cbfe3b72af9bdc2fdbc4f9e8586ed.png)
+![avc-2500-hover-open.png](../../attachments/luna-api-vision-console-extension-manual_assets--c61c67b6148cbfe3b72af9bdc2fdbc4f9e8586ed--5d8f7767d7e3b811.png)
 
 </div>
 
@@ -196,7 +196,7 @@ There are several ways to assign API Vision to your tracks. 
 
 5.  Click OK to create the tracks, or Cancel to stop track creation. 
 
-![avc-create-new-tracks.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/c3a859387708ee5acfbf8a4e58379a8577db4435.png)
+![avc-create-new-tracks.png](../../attachments/luna-api-vision-console-extension-manual_assets--c3a859387708ee5acfbf8a4e58379a8577db4435--ed01564e0f6186ee.png)
 
 <div layout="center" node-type="mediaSingle" data-width="50">
 
@@ -222,7 +222,7 @@ There are several ways to assign API Vision to your tracks. 
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-create-new-track-bus.png" file-size="39161" data-height="200" data-id="6da3c151-536a-4374-9ae6-0d0b39ffaf4b" node-type="media" data-type="file" data-width="277" title="Attachment">
 
-![avc-create-new-track-bus.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/cf244ac87bd09c1cc979d3ee40b4d64fd0c7c46e.png)
+![avc-create-new-track-bus.png](../../attachments/luna-api-vision-console-extension-manual_assets--cf244ac87bd09c1cc979d3ee40b4d64fd0c7c46e--d79b84e05125e83f.png)
 
 </div>
 
@@ -238,7 +238,7 @@ There are several ways to assign API Vision to your tracks. 
 
     <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-console-row-show-hide.png" file-size="93873" data-height="338" data-id="9914ecb8-e2f5-4da2-bda7-24905a86fe1f" node-type="media" data-type="file" data-width="505" title="Attachment">
 
-    ![avc-console-row-show-hide.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/acd2d1a8fac51f369ac650cf76e922e39220a161.png)
+    ![avc-console-row-show-hide.png](../../attachments/luna-api-vision-console-extension-manual_assets--acd2d1a8fac51f369ac650cf76e922e39220a161--5972c0dbcb22175f.png)
 
     </div>
 
@@ -250,7 +250,7 @@ There are several ways to assign API Vision to your tracks. 
 
 2.  Click on the Console row on a track and choose API Vision or API 2500.\
     \
-    ![avc-add-console.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/ea415f4e16c8f37e722bd1e0e35f2db2141ce43e.png)
+    ![avc-add-console.png](../../attachments/luna-api-vision-console-extension-manual_assets--ea415f4e16c8f37e722bd1e0e35f2db2141ce43e--6cae90762233c251.png)
 
 API Vision or API 2500 is assigned to the track, and appears inline in the mixer, and in the Console browser.
 
@@ -258,7 +258,7 @@ API Vision or API 2500 is assigned to the track, and appears inline in the mixer
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-in-track-and-browser.png" file-size="667036" data-height="762" data-id="4dbe3127-23f9-4d4d-a7b0-3251b66c4e19" node-type="media" data-type="file" data-width="510" title="Attachment">
 
-![avc-in-track-and-browser.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/4023093f13ca9f2c4910caf14a08588218300cd5.png)
+![avc-in-track-and-browser.png](../../attachments/luna-api-vision-console-extension-manual_assets--4023093f13ca9f2c4910caf14a08588218300cd5--7878ca199e4694e4.png)
 
 </div>
 
@@ -270,7 +270,7 @@ API Vision or API 2500 is assigned to the track, and appears inline in the mixer
 
 </div>
 
-![avc-2500-assigned-track-and-browser.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/8fae6b19535ca761bb1b5f4567c070f5671c99cf.png)
+![avc-2500-assigned-track-and-browser.png](../../attachments/luna-api-vision-console-extension-manual_assets--8fae6b19535ca761bb1b5f4567c070f5671c99cf--f88a11ac4bc1fac4.png)
 
 *API 2500 assigned to a track*
 
@@ -296,7 +296,7 @@ You can assign API Vision to multiple tracks and buses with a menu item or with 
 
     <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-console-button.png" file-size="78794" data-height="253" data-id="5b29232d-910a-40cc-8634-6dcbbc63a2d4" node-type="media" data-type="file" data-width="258" title="Attachment">
 
-    ![avc-console-button.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/8636547e5f92bdd286f3f85db3772be072b9fac5.png)
+    ![avc-console-button.png](../../attachments/luna-api-vision-console-extension-manual_assets--8636547e5f92bdd286f3f85db3772be072b9fac5--c133b17dd13148e9.png)
 
     </div>
 
@@ -312,7 +312,7 @@ You can assign API Vision to multiple tracks and buses with a menu item or with 
 
     <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-multiple-assign.png" file-size="356327" data-height="619" data-id="bbc0f61d-5e69-4aed-9d9e-e34006e2e20c" node-type="media" data-type="file" data-width="765" title="Attachment">
 
-    ![avc-multiple-assign.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/843010ba9a29da523318cb4f6fe33b4e6e9d599e.png)
+    ![avc-multiple-assign.png](../../attachments/luna-api-vision-console-extension-manual_assets--843010ba9a29da523318cb4f6fe33b4e6e9d599e--d9b46de9406a6fd6.png)
 
     </div>
 
@@ -339,7 +339,7 @@ You can assign API Vision to multiple tracks and buses with a menu item or with 
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-multiple-assign-per-track.png" file-size="230260" data-height="529" data-id="4a51748f-4abc-4edb-8ae8-c14001e7e8c7" node-type="media" data-type="file" data-width="636" title="Attachment">
 
-![avc-multiple-assign-per-track.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/43da22e08d425948e1a5f9f0f513f2a0433e4812.png)
+![avc-multiple-assign-per-track.png](../../attachments/luna-api-vision-console-extension-manual_assets--43da22e08d425948e1a5f9f0f513f2a0433e4812--41e1f6e7ffa6ce15.png)
 
 </div>
 
@@ -365,7 +365,7 @@ You can use the option menus on the Console row in the Mixer or on the Focus cha
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-hover-menu-items.png" file-size="263690" data-height="365" data-id="596d8b54-a084-4f7b-99d5-ed63bfaa835f" node-type="media" data-type="file" data-width="578" title="Attachment">
 
-![avc-hover-menu-items.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/4227b77c3a75cd06a29ef8fba0341fb4affb9113.png)
+![avc-hover-menu-items.png](../../attachments/luna-api-vision-console-extension-manual_assets--4227b77c3a75cd06a29ef8fba0341fb4affb9113--6b734c297f0375a3.png)
 
 </div>
 
@@ -397,7 +397,7 @@ To power off all modules on a channel, click the Power button in the console bro
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-modules-enable-disable.png" file-size="203194" data-height="469" data-id="133f650b-a1c3-486a-bc7d-550dcbdc7401" node-type="media" data-type="file" data-width="501" title="Attachment">
 
-![avc-modules-enable-disable.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/c3abed7b6517b150179c5766e2d825b62d4519bd.png)
+![avc-modules-enable-disable.png](../../attachments/luna-api-vision-console-extension-manual_assets--c3abed7b6517b150179c5766e2d825b62d4519bd--48793fc1cb319a72.png)
 
 </div>
 
@@ -439,7 +439,7 @@ In the Console browser, all modules for the track are shown in one layout. Howev
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-track-module-switch.png" file-size="377130" data-height="508" data-id="b1e208d7-30ac-4f04-baef-f037507a4fa9" node-type="media" data-type="file" data-width="482" title="Attachment">
 
-![avc-track-module-switch.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/46b6cc58b39cd47921be48d99f337cad9adb8a80.png)
+![avc-track-module-switch.png](../../attachments/luna-api-vision-console-extension-manual_assets--46b6cc58b39cd47921be48d99f337cad9adb8a80--6af5ee25eafa7d47.png)
 
 </div>
 
@@ -449,7 +449,7 @@ In the Console browser, all modules for the track are shown in one layout. Howev
 
 </div>
 
-![avc-switch-all-modules.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/7a2ce4268558d738e3a1f27b5d7ccd0b7ed77eec.png)
+![avc-switch-all-modules.png](../../attachments/luna-api-vision-console-extension-manual_assets--7a2ce4268558d738e3a1f27b5d7ccd0b7ed77eec--432096a876b554e4.png)
 
 <div layout="center" node-type="mediaSingle" data-width="65">
 
@@ -479,7 +479,7 @@ You can change controls on an API Vision module or on multiple modules by using 
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-controls-double-click-right-click.png" file-size="498220" data-height="471" data-id="1d1d0006-156c-4e1b-9b44-fa324e07fad2" node-type="media" data-type="file" data-width="727" title="Attachment">
 
-![avc-controls-double-click-right-click.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/8d1cc40bd9f69782982ea6e470c00236485c3c28.png)
+![avc-controls-double-click-right-click.png](../../attachments/luna-api-vision-console-extension-manual_assets--8d1cc40bd9f69782982ea6e470c00236485c3c28--a8541b6d8bd4b7a7.png)
 
 </div>
 
@@ -501,7 +501,7 @@ You can enable dynamic side chaining for the 215 Sweep Filter, and/or for the 55
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-enable-sidechain.png" file-size="282731" data-height="515" data-id="3d6b048d-8954-4599-8007-2b7617f64622" node-type="media" data-type="file" data-width="409" title="Attachment">
 
-![avc-enable-sidechain.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/aadb21f0655a326f6adc72ef1e5e7f15073aa663.png)
+![avc-enable-sidechain.png](../../attachments/luna-api-vision-console-extension-manual_assets--aadb21f0655a326f6adc72ef1e5e7f15073aa663--a2cc81820255dc7c.png)
 
 </div>
 
@@ -539,7 +539,7 @@ By default, the 550L or 560L EQ is routed after the dynamics processors. You can
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-eq-pre-post.png" file-size="215995" data-height="474" data-id="75a62df8-bfc6-485d-b072-5cd23f1c7b86" node-type="media" data-type="file" data-width="496" title="Attachment">
 
-![avc-eq-pre-post.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/0195521e8ac2a7147b6af9647adb33818fdd7e82.png)
+![avc-eq-pre-post.png](../../attachments/luna-api-vision-console-extension-manual_assets--0195521e8ac2a7147b6af9647adb33818fdd7e82--4bae6d867a6af646.png)
 
 </div>
 
@@ -559,7 +559,7 @@ API Vision extensions are built into the Console row in LUNA. However, the API V
 
 To reorder the console item, drag the API Vision or API 2500 insert plate to reorder it with other insert plug-ins.
 
-- ![avc-plugin-reordering.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/d709d23192decaedcc69503d3df2afca4557ea3a.png)
+- ![avc-plugin-reordering.png](../../attachments/luna-api-vision-console-extension-manual_assets--d709d23192decaedcc69503d3df2afca4557ea3a--4e45ae4c8cdfcdad.png)
 
 <div layout="center" node-type="mediaSingle" data-width="65">
 
@@ -583,7 +583,7 @@ When you open an API Vision Console extension in the browser, the search bar tak
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-resize-browser.png" file-size="307459" data-height="373" data-id="daa357e5-48db-425f-8d3f-1db7cfe35670" node-type="media" data-type="file" data-width="659" title="Attachment">
 
-![avc-resize-browser.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/85b9530c3d7de7d774b09441288ded81b253a3e9.png)
+![avc-resize-browser.png](../../attachments/luna-api-vision-console-extension-manual_assets--85b9530c3d7de7d774b09441288ded81b253a3e9--4e98bae3be19b95d.png)
 
 </div>
 
@@ -594,7 +594,7 @@ When you open an API Vision Console extension in the browser, the search bar tak
 ## Loading a preset
 
 1.  Hover over the Console row entry and click the square to open the API Vision channel strip or the API 2500 Bus Compressor in the Console Browser. \
-    ![avc-2500-hover-open.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/c61c67b6148cbfe3b72af9bdc2fdbc4f9e8586ed.png)
+    ![avc-2500-hover-open.png](../../attachments/luna-api-vision-console-extension-manual_assets--c61c67b6148cbfe3b72af9bdc2fdbc4f9e8586ed--5d8f7767d7e3b811.png)
 
     <div layout="center" node-type="mediaSingle" data-width="36">
 
@@ -610,7 +610,7 @@ When you open an API Vision Console extension in the browser, the search bar tak
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-preset-selected.png" file-size="300499" data-height="525" data-id="747021aa-9834-4f52-b7c9-14923c19f84b" node-type="media" data-type="file" data-width="533" title="Attachment">
 
-![avc-preset-selected.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/cdf01d08cc354cb43a5ec47b7d6219ae46cde6d6.png)
+![avc-preset-selected.png](../../attachments/luna-api-vision-console-extension-manual_assets--cdf01d08cc354cb43a5ec47b7d6219ae46cde6d6--769cb5682162a839.png)
 
 </div>
 
@@ -630,7 +630,7 @@ The Tags feature allows you to find presets by type and by artist .
 - To remove a tag, click one of the selected tags.
 - To stop filtering by tags, click the X next to TAGS.
 
-![avc-tags.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/73beac6adaaa57dd6e189d73115e7bfd535c1757.png)
+![avc-tags.png](../../attachments/luna-api-vision-console-extension-manual_assets--73beac6adaaa57dd6e189d73115e7bfd535c1757--dd90caf9636aa43a.png)
 
 ## Saving a preset
 
@@ -650,7 +650,7 @@ You can favorite presets, and filter the list of presets by your favorites.
 - To unfavorite a preset, hover over the preset name, and click the favorite star again.
 - To show only favorites in your preset list, click Favorites in the Tags bar.
 
-![avc-favorites.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/7aebdfe49a71db28fdcd88cdd750e7329108ef5d.png)
+![avc-favorites.png](../../attachments/luna-api-vision-console-extension-manual_assets--7aebdfe49a71db28fdcd88cdd750e7329108ef5d--26ca7f456737929f.png)
 
  
 
@@ -692,7 +692,7 @@ A simplified view of the default signal flow routing within the channel strip is
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-normal-flow.png" file-size="12159" data-height="65" data-id="6add733c-ccb2-4274-aa55-6cb6a33f5a6b" node-type="media" data-type="file" data-width="457" title="Attachment">
 
-![avc-normal-flow.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/d6d189df99eb05fea61d6a4964ddf10980ce62b6.png)
+![avc-normal-flow.png](../../attachments/luna-api-vision-console-extension-manual_assets--d6d189df99eb05fea61d6a4964ddf10980ce62b6--cf85ff78cd4853e0.png)
 
 </div>
 
@@ -716,7 +716,7 @@ Note that the side chains for the dynamics modules are in series by default (as 
 
 </div>
 
-![avc-filter-side-chain.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/c692e99ddbb8e360ebd9a3c8cdf91a0d0d3d7a54.png)
+![avc-filter-side-chain.png](../../attachments/luna-api-vision-console-extension-manual_assets--c692e99ddbb8e360ebd9a3c8cdf91a0d0d3d7a54--35b3d7a4f0f36480.png)
 
 <div class="fabric-editor-block-mark fabric-editor-align-center" data-align="center">
 
@@ -740,7 +740,7 @@ When the 215L side chain is active, signal output from the 215L module is remove
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-eq-pre-filter-sidechain.png" file-size="11976" data-height="103" data-id="8600bfa2-5d5a-4326-a532-f28d18d1061d" node-type="media" data-type="file" data-width="362" title="Attachment">
 
-![avc-filter-side-chain.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/c692e99ddbb8e360ebd9a3c8cdf91a0d0d3d7a54.png)
+![avc-filter-side-chain.png](../../attachments/luna-api-vision-console-extension-manual_assets--c692e99ddbb8e360ebd9a3c8cdf91a0d0d3d7a54--35b3d7a4f0f36480.png)
 
 </div>
 
@@ -768,7 +768,7 @@ When PREDYN is active, the dynamics side chain is always tapped after the EQ mod
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-pre-eq.png" file-size="11845" data-height="64" data-id="75b6abfa-fa30-469b-b4a5-433b3ae01439" node-type="media" data-type="file" data-width="456" title="Attachment">
 
-![avc-pre-eq.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/b2935287982dc66d65241a9dc188d8e8d4a4c4d8.png)
+![avc-pre-eq.png](../../attachments/luna-api-vision-console-extension-manual_assets--b2935287982dc66d65241a9dc188d8e8d4a4c4d8--d64b27b58d6c7f3a.png)
 
 </div>
 
@@ -786,7 +786,7 @@ When PREDYN is active, the dynamics side chain is always tapped after the EQ mod
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-eq-pre-filter-sidechain.png" file-size="11976" data-height="103" data-id="8600bfa2-5d5a-4326-a532-f28d18d1061d" node-type="media" data-type="file" data-width="362" title="Attachment">
 
-![avc-eq-pre-filter-sidechain.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/0f8556bb1aa114aa5a527b42ea146118c6881b86.png)
+![avc-eq-pre-filter-sidechain.png](../../attachments/luna-api-vision-console-extension-manual_assets--0f8556bb1aa114aa5a527b42ea146118c6881b86--fe6c07619980502d.png)
 
 </div>
 
@@ -808,7 +808,7 @@ The DYN SC button in the EQ module routes EQ into the dynamics processing side c
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-eq-side-chain.png" file-size="11961" data-height="103" data-id="cfc5c8f4-cd38-417c-9e55-dbb6b287094a" node-type="media" data-type="file" data-width="362" title="Attachment">
 
-![avc-eq-side-chain.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/0933c216230c004401cd00ac05442f9ddb01b57c.png)
+![avc-eq-side-chain.png](../../attachments/luna-api-vision-console-extension-manual_assets--0933c216230c004401cd00ac05442f9ddb01b57c--3eb31cb197897136.png)
 
 </div>
 
@@ -828,7 +828,7 @@ Note that both the EQ and 215L modules can both be routed simultaneously to the 
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-both-sidechain.png" file-size="12695" data-height="123" data-id="0f920b90-3ada-43b7-add9-9d239c1174ef" node-type="media" data-type="file" data-width="310" title="Attachment">
 
-![avc-both-sidechain.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/f4b291f120288ec01b4bbdf5d4b2a17985f87e01.png)
+![avc-both-sidechain.png](../../attachments/luna-api-vision-console-extension-manual_assets--f4b291f120288ec01b4bbdf5d4b2a17985f87e01--54245a7606337e21.png)
 
 </div>
 
@@ -856,7 +856,7 @@ This behavior is identical to the original hardware, which is modeled exactly. W
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-preamp-inline-controls.png" file-size="33306" data-height="217" data-id="b1b4bee2-2983-4cdb-9ad7-c226e6d88e04" node-type="media" data-type="file" data-width="96" title="Attachment">
 
-![avc-preamp-inline-controls.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/82592168936cf22cbcdd8cfb508346c738ac7e25.png)
+![avc-preamp-inline-controls.png](../../attachments/luna-api-vision-console-extension-manual_assets--82592168936cf22cbcdd8cfb508346c738ac7e25--79f6e73fea7e4726.png)
 
 </div>
 
@@ -868,7 +868,7 @@ This behavior is identical to the original hardware, which is modeled exactly. W
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-preamp-expanded-unison-controls.png" file-size="747916" data-height="401" data-id="2734c633-4af0-4c23-8961-43dcb922bde2" node-type="media" data-type="file" data-width="311" title="Attachment">
 
-![avc-preamp-expanded-unison-controls.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/a43b935e20626873d834035378958fe1f75bf11b.png)
+![avc-preamp-expanded-unison-controls.png](../../attachments/luna-api-vision-console-extension-manual_assets--a43b935e20626873d834035378958fe1f75bf11b--b2f63139014567ad.png)
 
 </div>
 
@@ -948,7 +948,7 @@ The LED ladder VU Meter indicates the signal level at the output of the 212L pre
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-215l-sweep-filter.png" file-size="35019" data-height="205" data-id="f1cc5d5f-e5f9-4552-abb5-175f7d501358" node-type="media" data-type="file" data-width="85" title="Attachment">
 
-![avc-215l-sweep-filter.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/e3fcab45dc0e191315de975a069a4bd9ac84822e.png)
+![avc-215l-sweep-filter.png](../../attachments/luna-api-vision-console-extension-manual_assets--e3fcab45dc0e191315de975a069a4bd9ac84822e--197f19f56c420c5b.png)
 
 </div>
 
@@ -984,7 +984,7 @@ This button enables the 215L module. The filters module is active when the butto
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-235l-gate-exp.png" file-size="57594" data-height="207" data-id="15c3419f-c4fb-4632-90c0-0b74934b1885" node-type="media" data-type="file" data-width="86" title="Attachment">
 
-![avc-235l-gate-exp.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/41389893c043c325726271e9c46a0c6a7431920f.png)
+![avc-235l-gate-exp.png](../../attachments/luna-api-vision-console-extension-manual_assets--41389893c043c325726271e9c46a0c6a7431920f--929e732eaf5ca01b.png)
 
 </div>
 
@@ -1068,7 +1068,7 @@ This button enables the 235L module. The module is active when the button’s gr
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-225l-comp-lim.png" file-size="58504" data-height="205" data-id="c2f1f529-a367-4066-953c-9db3c729443c" node-type="media" data-type="file" data-width="86" title="Attachment">
 
-![avc-225l-comp-lim.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/a1bcd2f78d9f8c476da87dcb8dcac9ded81e5840.png)
+![avc-225l-comp-lim.png](../../attachments/luna-api-vision-console-extension-manual_assets--a1bcd2f78d9f8c476da87dcb8dcac9ded81e5840--d3076d78b2e9e591.png)
 
 </div>
 
@@ -1140,7 +1140,7 @@ This button enables the 225L module. The module is active when the button’s gr
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-550l-para-eq.png" file-size="101880" data-height="411" data-id="759a35ca-bd66-452a-9449-ba36ce103c37" node-type="media" data-type="file" data-width="85" title="Attachment">
 
-![avc-550l-para-eq.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/9f34ff83564591e2d488ea3afa8f243e497bbe86.png)
+![avc-550l-para-eq.png](../../attachments/luna-api-vision-console-extension-manual_assets--9f34ff83564591e2d488ea3afa8f243e497bbe86--8a59b48687661d9b.png)
 
 </div>
 
@@ -1256,7 +1256,7 @@ This button enables the EQ module. The module is active when the button’s gree
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-560l-para-eq.png" file-size="61144" data-height="412" data-id="47050b99-61db-400d-8929-65bddfe53954" node-type="media" data-type="file" data-width="87" title="Attachment">
 
-![avc-560l-para-eq.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/e8770e5bd6746f844dc90ba2210f2a7d7616d82c.png)
+![avc-560l-para-eq.png](../../attachments/luna-api-vision-console-extension-manual_assets--e8770e5bd6746f844dc90ba2210f2a7d7616d82c--4f024c61bb144abd.png)
 
 </div>
 
@@ -1308,7 +1308,7 @@ This button enables the EQ module. The module is active when the button’s gree
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-power-sc-link.png" file-size="11556" data-height="47" data-id="26f945d6-4acd-4644-a00d-5477bfdfcf93" node-type="media" data-type="file" data-width="171" title="Attachment">
 
-![avc-power-sc-link.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/a488afa132e056d7bd3d3d6e8d9a522dce54e8a6.png)
+![avc-power-sc-link.png](../../attachments/luna-api-vision-console-extension-manual_assets--a488afa132e056d7bd3d3d6e8d9a522dce54e8a6--5922eef65f1034d2.png)
 
 </div>
 
@@ -1340,7 +1340,7 @@ API 2500 Bus Compressor in LUNA presents a reduced set of controls in the channe
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-bus-2500-inline.png" file-size="117785" data-height="494" data-id="8cd422e5-8d91-4697-ba76-d03907611e3e" node-type="media" data-type="file" data-width="94" title="Attachment">
 
-![avc-bus-2500-inline.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/eed178206bb533cfffc5e09b51cfc37c5a4a7606.png)
+![avc-bus-2500-inline.png](../../attachments/luna-api-vision-console-extension-manual_assets--eed178206bb533cfffc5e09b51cfc37c5a4a7606--320de79d070f6509.png)
 
 </div>
 
@@ -1356,7 +1356,7 @@ API 2500 Bus Compressor in LUNA presents a reduced set of controls in the channe
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-bus-main-modules.png" file-size="224651" data-height="417" data-id="3126cd02-38b1-44eb-b36f-33b4891a9f7e" node-type="media" data-type="file" data-width="258" title="Attachment">
 
-![avc-bus-main-modules.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/899e17208c6861a87feeef72717cfca42e922299.png)
+![avc-bus-main-modules.png](../../attachments/luna-api-vision-console-extension-manual_assets--899e17208c6861a87feeef72717cfca42e922299--61a44f5e529b6949.png)
 
 </div>
 
@@ -1378,7 +1378,7 @@ API 2500 Bus Compressor in LUNA presents a reduced set of controls in the channe
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-2500-compressor.png" file-size="65625" data-height="312" data-id="08edd3be-bf2f-4bc3-862d-7ab4b2ccda1f" node-type="media" data-type="file" data-width="82" title="Attachment">
 
-![avc-2500-compressor.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/720a02fa3bed4a07384098f3539026dd70621cb5.png)
+![avc-2500-compressor.png](../../attachments/luna-api-vision-console-extension-manual_assets--720a02fa3bed4a07384098f3539026dd70621cb5--fb3b6ddfcb856c2a.png)
 
 </div>
 
@@ -1450,7 +1450,7 @@ The second RELEASE knob (rightmost knob in compressor section) continuously adju
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-2500-tone.png" file-size="20068" data-height="118" data-id="e72c778c-d22e-4ecb-9526-fa4a38d65327" node-type="media" data-type="file" data-width="85" title="Attachment">
 
-![avc-2500-tone.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/3da4885d7b62e05acd5cbbc67db653d38f889f6b.png)
+![avc-2500-tone.png](../../attachments/luna-api-vision-console-extension-manual_assets--3da4885d7b62e05acd5cbbc67db653d38f889f6b--03fa28e1e374c1f5.png)
 
 </div>
 
@@ -1482,7 +1482,7 @@ The THRUST filter has a slope of 10 dB per decade, which is the inverse of the p
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-2500-thrust.png" file-size="90758" data-height="284" data-id="819a3a33-bd04-48d0-b72c-6991b9f62ecf" node-type="media" data-type="file" data-width="1534" title="Attachment">
 
-![avc-2500-thrust.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/dc454b82be3306385e145a29b939fd810b72e047.png)
+![avc-2500-thrust.png](../../attachments/luna-api-vision-console-extension-manual_assets--dc454b82be3306385e145a29b939fd810b72e047--fc7fd37c0ded1252.png)
 
 </div>
 
@@ -1500,9 +1500,9 @@ Available THRUST Values
 
 TYPE changes the routing of the control sidechain signal within the compressor circuit. To change the TYPE setting, click a value or click the TYPE switch to cycle through the available values.
 
-![avc-2500-tone-type-old.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/8e01877a4aa4a6726c7487687c3a08071c19ffa9.png)
+![avc-2500-tone-type-old.png](../../attachments/luna-api-vision-console-extension-manual_assets--8e01877a4aa4a6726c7487687c3a08071c19ffa9--a5bed21822a42bbc.png)
 
-![avc-2500-tone-type-new.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/90f1591e9dbb3cd7da68f58a40c7643587b7e850.png)
+![avc-2500-tone-type-new.png](../../attachments/luna-api-vision-console-extension-manual_assets--90f1591e9dbb3cd7da68f58a40c7643587b7e850--b5a931b61f2579e4.png)
 
  
 
@@ -1522,7 +1522,7 @@ TYPE changes the routing of the control sidechain signal within the compressor c
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-2500-stereo-link.png" file-size="21114" data-height="120" data-id="8bbc8b58-134c-4cdb-8547-15c4ede8b1ba" node-type="media" data-type="file" data-width="85" title="Attachment">
 
-![avc-2500-stereo-link.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/72e4ee08dda4713f25ac8e48de1e70ef270d19e4.png)
+![avc-2500-stereo-link.png](../../attachments/luna-api-vision-console-extension-manual_assets--72e4ee08dda4713f25ac8e48de1e70ef270d19e4--55ce75ca4ca6d9cc.png)
 
 </div>
 
@@ -1560,7 +1560,7 @@ To change the SHAPE setting, click a value or click the green SHAPE switch to cy
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-2500-power-output.png" file-size="41270" data-height="311" data-id="d416ccb4-49f9-4df0-a3da-0b93262231c3" node-type="media" data-type="file" data-width="82" title="Attachment">
 
-![avc-2500-power-output.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/e73aba79d3d71ebe6d3db5ea8bec784113e512c2.png)
+![avc-2500-power-output.png](../../attachments/luna-api-vision-console-extension-manual_assets--e73aba79d3d71ebe6d3db5ea8bec784113e512c2--c5395ab01918af51.png)
 
 </div>
 
@@ -1614,7 +1614,7 @@ Manual make-up gain is active when the red MAKE-UP GAIN switch is in the “in�
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-2500-power-output.png" file-size="41270" data-height="311" data-id="d416ccb4-49f9-4df0-a3da-0b93262231c3" node-type="media" data-type="file" data-width="82" title="Attachment">
 
-![avc-2500-power-output.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/e73aba79d3d71ebe6d3db5ea8bec784113e512c2.png)
+![avc-2500-power-output.png](../../attachments/luna-api-vision-console-extension-manual_assets--e73aba79d3d71ebe6d3db5ea8bec784113e512c2--c5395ab01918af51.png)
 
 </div>
 
@@ -1630,7 +1630,7 @@ When set to off (switch unlit), the VU meters go dark to indicate signal process
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-2500-mix.png" file-size="12749" data-height="73" data-id="979b5e49-d37d-4f61-9ff6-fe8f72a35419" node-type="media" data-type="file" data-width="85" title="Attachment">
 
-![avc-2500-mix.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/f99b43db10346dbef5aab6f340af7faacebf422d.png)
+![avc-2500-mix.png](../../attachments/luna-api-vision-console-extension-manual_assets--f99b43db10346dbef5aab6f340af7faacebf422d--f9eacdef0756e406.png)
 
 </div>
 
@@ -1650,7 +1650,7 @@ When MIX is set to 0%, only the unprocessed (dry) source signal is output. When 
 
 <div collection="contentId-1249771548" context-id="1249771548" file-mime-type="image/png" file-name="avc-2500-vu-hr.png" file-size="62244" data-height="105" data-id="71110ab3-b72b-4a7f-83c3-cf17686103d1" node-type="media" data-type="file" data-width="256" title="Attachment">
 
-![avc-2500-vu-hr.png](LUNA%20API%20Vision%20Console%20Extension%20Manual_assets/677620de792d64f3258e561cc16cd8e2d48ba104.png)
+![avc-2500-vu-hr.png](../../attachments/luna-api-vision-console-extension-manual_assets--677620de792d64f3258e561cc16cd8e2d48ba104--459e760862f35bb3.png)
 
 </div>
 

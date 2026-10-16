@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/satdg-hfkc"
 ---
 
-![обложка|156](<Handbook for Krishna Consciousness/обложка.jpeg>)
+![обложка|156](<../attachments/handbook-for-krishna-consciousness--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5c55c90109fc46ae.jpeg>)
 
 # Handbook for Krishna Consciousness
 

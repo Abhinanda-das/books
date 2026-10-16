@@ -30,7 +30,7 @@ With ten bands of graphic EQ, the 560 EQ is ideal for shaping your mix with surg
 
 |  |  |
 |:--:|:--:|
-| ![API-550A.png](API%20500%20Series%20EQ%20Collection%20Manual_assets/cbd4650e8a0a48b7b73152954c3a87a7ae5ceaeb.png) | ![API-560.png](API%20500%20Series%20EQ%20Collection%20Manual_assets/1bf7dc053524722cd327dce73e449e24e34ce7be.png) |
+| ![API-550A.png](../../attachments/api-500-series-eq-collection-manual_assets--cbd4650e8a0a48b7b73152954c3a87a7ae5ceaeb--e8f52e8b4352badc.png) | ![API-560.png](../../attachments/api-500-series-eq-collection-manual_assets--1bf7dc053524722cd327dce73e449e24e34ce7be--247bf7196f8e56b1.png) |
 
 *API 550A EQ (left) and API 560 EQ (right)*
 
@@ -189,7 +189,7 @@ API (Automated Processes Inc.) was formed in 1968 with Saul Walker and Lou Linda
 
 The 550A became API's standard channel module EQ when the company began manufacturing consoles in 1971. As the industry rapidly embraced the sonic quality of the 550A, it quickly found it's way into many custom console designs by Frank DeMedio and other leading engineers. Many of these consoles are still in use today. Forty years later, the 550A remains the standard against which other EQs are measured, and it has played a major role in the recording industry for decades. With virtually all existing units spoken for, popular demand for this EQ resulted in API finally resuming production in 2004.
 
-![API-500-HW.png](API%20500%20Series%20EQ%20Collection%20Manual_assets/dc9a34b43647a813d40dd10b4b4c1c989640d356.png)
+![API-500-HW.png](../../attachments/api-500-series-eq-collection-manual_assets--dc9a34b43647a813d40dd10b4b4c1c989640d356--a1610aa54319ed0b.png)
 
 *The API 500 Series EQ Collection Original Hardware*
 

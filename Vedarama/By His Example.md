@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bhe"
 ---
 
-![обложка|156](<By His Example/обложка.jpeg>)
+![обложка|156](<../attachments/by-his-example--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--17af657edfb4d335.jpeg>)
 
 By His Example allows those who knew Srila Prabhupada and those who did not to experience his compassion and wisdom to have closer contact with his teachings and association. In addition this book gives a very intimate firsthand account of early days in the Hare Krishna movement.
 

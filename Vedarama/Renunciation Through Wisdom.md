@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/rtw"
 ---
 
-![обложка|156](<Renunciation Through Wisdom/обложка.jpeg>)
+![обложка|156](<../attachments/renunciation-through-wisdom--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--e99d1bc7b1cab8a6.jpeg>)
 
 Renunciation Through Wisdom is a collection of essays originally written in Bengali and published by Srila Prabhupada in India during the 1940s. They were later translated into English by his disciples.
 

@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/wisdomlib-vswc"
 ---
 
-![обложка|156](<Vaisheshika-sutra with commentary/обложка.jpeg>)
+![обложка|156](<../attachments/vaisheshika-sutra-with-commentary--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--416b18f1fa3da4e7.jpeg>)
 
 by Nandalal Sinha
 

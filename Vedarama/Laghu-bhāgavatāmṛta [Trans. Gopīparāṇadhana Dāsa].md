@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/lb"
 ---
 
-![обложка|156](<Laghu-bhāgavatāmṛta [Trans. Gopīparāṇadhana Dāsa]/обложка.png>)
+![обложка|156](<../attachments/laghu-bh%C4%81gavat%C4%81m%E1%B9%9Bta-trans.-gop%C4%ABpar%C4%81%E1%B9%87adhana-d%C4%81sa--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--61d2687b12a9ccc3.png>)
 
 After several years of hard work, the Bhaktivedanta Book Trust edition of the book has finally come off the press. Laghu Bhagavtamrta is a posthumous work of Gopiparanadhana Dasa, the famed BBT Sanskrit translator and commentator. The Laghu (small) Bhāgavatāmṛta is Rūpa Gosvāmī’s literary offering to his brother Sanātana Gosvāmī, who wrote the popular Bṛhad (great) Bhāgavatāmṛta. In it he wished to elaborate on Bṛhad-bhāgavatāmṛta’s description of the different forms of Bhagavān (God) and His loving interaction with various groups of His devotees. The book is divided into two parts – Part 1 introduces the reader to the many forms of Bhagavān and His avatars. Part 2 classifies His devotees according to the depth of their devotion. The original text was translated and commented upon by His Grace Gopīparāṇadhana Dāsa. The book’s numerous appendices were completed by Girirāja Publishing’s researchers after Gopīparāṇadhana’s untimely departure. A foreword to the book was written by Dr. Edwin Bryant.
 

@@ -27,7 +27,7 @@ The only emulation that's fully authenticated by the Ampex Corporation, and trus
 - Get classic Ampex tape saturation, selectable tape types, and color to "glue" your mix together
 - Use the entire ATR-102 circuit, including its transformers, amplifiers, Repro, Sync, and Input paths
 
-![atr-102.png](Ampex%20ATR-102%20Mastering%20Tape%20Recorder%20Manual_assets/eaa63b3aae97cdf361f0c9809ecc6f8fe71e9f8a.png)
+![atr-102.png](../../attachments/ampex-atr-102-mastering-tape-recorder-manual_assets--eaa63b3aae97cdf361f0c9809ecc6f8fe71e9f8a--2092f8361a707fe4.png)
 
 *Ampex ATR-102*
 
@@ -117,7 +117,7 @@ Presets from prominent Universal Audio artists are included. You can access the 
 
 The graphical interface panel has two modes; Open and Closed. In Closed mode, the primary controls (those that are typically most used) are available on the main panel interface and the tape reels are visible. Additional (typically less used) controls are available on the secondary panel in Open mode. The secondary controls panel is accessed by clicking the OPEN button beneath the AMPEX label.
 
-![Ampex_ATR-102.png](Ampex%20ATR-102%20Mastering%20Tape%20Recorder%20Manual_assets/e702df2d1346f4c059b59348bd3e45e9c7e38d95.png)
+![Ampex_ATR-102.png](../../attachments/ampex-atr-102-mastering-tape-recorder-manual_assets--e702df2d1346f4c059b59348bd3e45e9c7e38d95--8ca2c54448e70798.png)
 
 *Ampex ATR-102 in Open mode showing secondary controls*
 
@@ -129,7 +129,7 @@ The two Meters display signal levels of the plug-in for the left and right chann
 
 <div class="wysiwyg-text-align-center">
 
-![ampex-atr-102-pent.png](Ampex%20ATR-102%20Mastering%20Tape%20Recorder%20Manual_assets/62d5d0f6e3a4343689e6a162d335e792d1cbda38.png)
+![ampex-atr-102-pent.png](../../attachments/ampex-atr-102-mastering-tape-recorder-manual_assets--62d5d0f6e3a4343689e6a162d335e792d1cbda38--67fb92fadf360678.png)
 
 </div>
 
@@ -360,7 +360,7 @@ Note: DSP usage is reduced only when DSP LoadLock is disabled. If DSP LoadLock 
 
 <div class="wysiwyg-text-align-center">
 
-![ampex_callout.png](Ampex%20ATR-102%20Mastering%20Tape%20Recorder%20Manual_assets/ab30e6d5fd89d6f9f832b4be1fe7a53b6bf30d65.png)
+![ampex_callout.png](../../attachments/ampex-atr-102-mastering-tape-recorder-manual_assets--ab30e6d5fd89d6f9f832b4be1fe7a53b6bf30d65--f6871b8b1a05ffb6.png)
 
 </div>
 
@@ -374,7 +374,7 @@ The "spin state" is saved until it is changed again.
 
 The secondary controls adjust the various calibration, ancillary noise, tone generator, and tape delay parameters. The secondary controls panel is accessed by clicking the OPEN button beneath the AMPEX label.
 
-![ampex-atr-102-sec-crop.png](Ampex%20ATR-102%20Mastering%20Tape%20Recorder%20Manual_assets/fab696b90c14db01792a92634f1b05ca70d2f845.png)
+![ampex-atr-102-sec-crop.png](../../attachments/ampex-atr-102-mastering-tape-recorder-manual_assets--fab696b90c14db01792a92634f1b05ca70d2f845--ad5988af69bf14aa.png)
 
 *Ampex ATR-102 secondary controls*
 
@@ -961,7 +961,7 @@ Ampex ATR-102 parameter dependencies
 
 <div class="wysiwyg-text-align-center">
 
-![Ampex_ATR-102_Hardware.png](Ampex%20ATR-102%20Mastering%20Tape%20Recorder%20Manual_assets/3a2e03e9326733d709df8faa1bec1c3657a1e457.png)
+![Ampex_ATR-102_Hardware.png](../../attachments/ampex-atr-102-mastering-tape-recorder-manual_assets--3a2e03e9326733d709df8faa1bec1c3657a1e457--8a030ae66821182f.png)
 
 </div>
 

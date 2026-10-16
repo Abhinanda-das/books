@@ -15,7 +15,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/cc-madhya"
 ---
 
-![обложка|156](<Sri Caitanya-caritamṛta. Madhya-lila/обложка.jpeg>)
+![обложка|156](<../attachments/sri-caitanya-caritam%E1%B9%9Bta.-madhya-lila--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--09281db19246b937.jpeg>)
 
 Sri Chaitanya-charitamrta is the main work on the life and teachings of Sri Chaitanya Mahaprabhu, the incarnation of Krishna who appeared in India five hundred years ago. Lord Chaitanya introduced the chanting of the holy names of God as the prescribed method of God-realization for our time. He began what is today called the Hare Krishna movement, since the movement's founder, Srila Prabhupada, comes in the Chaitanya line of spiritual masters.
 

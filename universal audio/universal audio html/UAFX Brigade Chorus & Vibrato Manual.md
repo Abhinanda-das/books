@@ -11,7 +11,7 @@ word_count: 1363
 
 This article contains complete operating instructions for the UAFX Brigade Chorus & Vibrato pedal from Universal Audio.
 
-![brigade-photo.png](UAFX%20Brigade%20Chorus%20%26%20Vibrato%20Manual_assets/5ff7378d1ec62c55838fdf983e958432277c054f.png)
+![brigade-photo.png](../../attachments/uafx-brigade-chorus-vibrato-manual_assets--5ff7378d1ec62c55838fdf983e958432277c054f--e3cedb02cbf04f6b.png)
 
 ## In this article
 
@@ -47,7 +47,7 @@ Bill Putnam Jr.
 
 # UAFX Brigade Quick Start
 
-![brigade-qs.png](UAFX%20Brigade%20Chorus%20%26%20Vibrato%20Manual_assets/a4facaaaf00745849cf3ff9eab02cdc3396b9d0d.png)
+![brigade-qs.png](../../attachments/uafx-brigade-chorus-vibrato-manual_assets--a4facaaaf00745849cf3ff9eab02cdc3396b9d0d--de79eebbe6fb3afd.png)
 
 [**Download Brigade Quick Start Sheet**](360058186352-UAFX-Pedal-Downloads.html)
 
@@ -80,7 +80,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
-![brigade-back-panel.png](UAFX%20Brigade%20Chorus%20%26%20Vibrato%20Manual_assets/40b57e6a8a76fc45abf2845d79cb933af08c541c.png)
+![brigade-back-panel.png](../../attachments/uafx-brigade-chorus-vibrato-manual_assets--40b57e6a8a76fc45abf2845d79cb933af08c541c--7f36b13fbe7ef2bf.png)
 
 ------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ You can enable the CE-1 preamp to color the dry signal (the preamp is always ena
 </table>
 </figure>
 
-![brigade-back-photo.png](UAFX%20Brigade%20Chorus%20%26%20Vibrato%20Manual_assets/ae04487ed3d8410f0b5735b606fdb03b5cd9b8ea.png)
+![brigade-back-photo.png](../../attachments/uafx-brigade-chorus-vibrato-manual_assets--ae04487ed3d8410f0b5735b606fdb03b5cd9b8ea--a4da2c9a38aae337.png)
 
 ------------------------------------------------------------------------
 
@@ -245,11 +245,11 @@ UAFX Brigade Specifications
 
 # UAFX Brigade Safety
 
-![safety-symbol-exclaim.png](UAFX%20Brigade%20Chorus%20%26%20Vibrato%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![safety-symbol-exclaim.png](../../attachments/uafx-brigade-chorus-vibrato-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--d9e4fe89b6b4008b.png)
 
 **Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 250 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20Brigade%20Chorus%20%26%20Vibrato%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![safety-symbol-book-info.png](../../attachments/uafx-brigade-chorus-vibrato-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--cbbe938358fa735e.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -273,7 +273,7 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 (This is Class B equipment. Although this equipment is intended for use in residential environments, it could cause poor reception if used near a radio television receiver. Please follow all instructions in the instruction manual.)
 
-![safety-symbol-trash.png](UAFX%20Brigade%20Chorus%20%26%20Vibrato%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-brigade-chorus-vibrato-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--8f36764e7cf24bbc.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

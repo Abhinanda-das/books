@@ -28,7 +28,7 @@ For customer support, visit **help.uaudio.com**
 
 ### **Get Apollo Interface Presets**
 
-![](UA+Bock+251+User+Guide_assets/_page_0_Picture_12.jpeg)
+![](../../attachments/ua-bock-251-user-guide_assets--page_0_picture_12--19201e4f1818c025.jpeg)
 
 UA Bock 251 comes with convenient Apollo Channel Strip Presets. These downloadable settings for UA's Apollo audio interfaces give you professional results on a wide range of sources, instantly. To get your presets, download UA Connect by scanning the QR code or visit **uaudio.com/mics/presets**
 
@@ -126,7 +126,7 @@ Refer all servicing to qualified service personnel. Servicing is required when t
 
 UA BOCK 251 does not contain a fuse or any other user-replaceable parts.
 
-![](UA+Bock+251+User+Guide_assets/_page_1_Picture_48.jpeg)
+![](../../attachments/ua-bock-251-user-guide_assets--page_1_picture_48--981d3d38fd7c31ec.jpeg)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

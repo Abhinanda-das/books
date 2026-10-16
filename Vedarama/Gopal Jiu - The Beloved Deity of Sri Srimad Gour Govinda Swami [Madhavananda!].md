@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/gourgovondasw-gj"
 ---
 
-![обложка|156](<Gopal Jiu - The Beloved Deity of Sri Srimad Gour Govinda Swami [Madhavananda!]/обложка.jpeg>)
+![обложка|156](<../attachments/gopal-jiu---the-beloved-deity-of-sri-srimad-gour-govinda-swami-ma--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8faeb2fbf889be9f.jpeg>)
 
 The Fascinating History Of Srila Gour Govinda Swami's Beloved Deity Of Gopal, Who Has Been Worshiped In The Giri Family Of Orissa For Over 350 Years. Topics Include: How Gopal Came From Vrindavan How Gopal Foiled An Attempt To Steal Himself Stories Of His Servitors For The Last Three Hundred Years. The Book Also Contains An Essential Account Of The Life Of Srila Gour Govinda Swami, His Devotional Upbringing, His Meeting And Relationship With Srila Prabhupada, And Activities Up To His Disappearance In Sridham Mayapur In 1996.
 

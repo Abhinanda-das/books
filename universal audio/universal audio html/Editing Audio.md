@@ -43,7 +43,7 @@ You can easily edit audio using a single, context-sensitive editing tool.
 
 You can resize all audio tracks to simplify editing. At the top of the timeline tracks area, below the Rulers, click the Tracks icon, and choose a new track height size.
 
-![qs-resize-all-tracks.png](Editing%20Audio_assets/e89e0f5a0aea902465ed25f7b377b3a06eb69919.png)
+![qs-resize-all-tracks.png](../../attachments/editing-audio_assets--e89e0f5a0aea902465ed25f7b377b3a06eb69919--fe0030c012fc0698.png)
 
  
 
@@ -51,7 +51,7 @@ This resizes all tracks to the new size.
 
  
 
-![qs-track-heights-audio.png](Editing%20Audio_assets/98257507c46272762af710edc7bd9d78c673cfaa.png)
+![qs-track-heights-audio.png](../../attachments/editing-audio_assets--98257507c46272762af710edc7bd9d78c673cfaa--442cdaa8d91656e4.png)
 
  
 
@@ -59,7 +59,7 @@ This resizes all tracks to the new size.
 - To resize all tracks with a key command, press Control+Option+↑ or ↓ (macOS) to increase/decrease all track heights
 - To resize an individual track, hover over the lower edge of the Track controls area. A double arrow appears. Drag up or down to resize.
 
-![qs-audio-resize.png](Editing%20Audio_assets/1c82cb0a0e81f70292ef30bf834c23f5a326ca52.png)
+![qs-audio-resize.png](../../attachments/editing-audio_assets--1c82cb0a0e81f70292ef30bf834c23f5a326ca52--ebfae0c8ff66f794.png)
 
 - To expand a selection to the full available editing space, press the E key (if the system is not in MIDI Keyboard Mode).
 - To resize (zoom) the track horizontally, click the plus and minus buttons at the bottom of the Edit workspace (or use the keyboard shortcuts Command+\[ to zoom out, and Command+\] to zoom in on macOS or Ctrl+\[ to zoom out, and Ctrl+\] to zoom in on Windows).
@@ -67,7 +67,7 @@ This resizes all tracks to the new size.
 - <span class="fabric-editor-annotation" data-id="546a9e5c-3075-44d5-932d-cfdc443cb4cf" mark-annotation-type="inlineComment" mark-type="annotation">On a trackpad, you can pinch in or out to zoom the timeline horizontally.</span>
 - With a mousewheel, you can hold the Option (macOS) or Alt (Windows) key and scroll to zoom horizontally.
 
-![increase-decrease-horiz-zoom.png](Editing%20Audio_assets/b2701b4bfae2676015739db632db132162da19e6.png)
+![increase-decrease-horiz-zoom.png](../../attachments/editing-audio_assets--b2701b4bfae2676015739db632db132162da19e6--f182dfb60bfe9d57.png)
 
 ## To zoom out/decrease waveform size, type:
 
@@ -79,7 +79,7 @@ This resizes all tracks to the new size.
 - **macOS –** Command+Option+\]
 - **Windows –** Ctrl+Alt+\]
 
-![zoomed-waveforms.png](Editing%20Audio_assets/86a96de18ca8aa6c48b22f17c6d2c733b1f2a08a.png)
+![zoomed-waveforms.png](../../attachments/editing-audio_assets--86a96de18ca8aa6c48b22f17c6d2c733b1f2a08a--660bd7299c1d9d2e.png)
 
 *Zooming waveforms*
 
@@ -93,15 +93,15 @@ You can edit audio with the Editing Tool and key commands.
 
 When you hover the mouse cursor over an audio or MIDI clip, it becomes the Editing Tool. Where you place the cursor, and what the editing context is, determines the Editing Tool behavior.
 
-![clips-fades-annotated.png](Editing%20Audio_assets/4ae0891a5c7e9208ae5350fa847c8c3bcd31f40c.png)
+![clips-fades-annotated.png](../../attachments/editing-audio_assets--4ae0891a5c7e9208ae5350fa847c8c3bcd31f40c--985fb2524621911d.png)
 
 ## Making selections
 
 - To select audio, hover your cursor above the vertical middle of the clip. The cursor changes to the Select Editing Tool. \
-  ![smart-tool-select.png](Editing%20Audio_assets/f9badc0275524738d1af0064c0162801a21e35fc.png) \
+  ![smart-tool-select.png](../../attachments/editing-audio_assets--f9badc0275524738d1af0064c0162801a21e35fc--26a0332dbcc0b5b2.png) \
    
 - Click and drag to the right or left to select an audio range. Selections conform to the Snap setting and grid. \
-  ![smart-tool-selection-made.png](Editing%20Audio_assets/cb57e600e1f28821511d9eb35c8a9a7fee38b72a.png) \
+  ![smart-tool-selection-made.png](../../attachments/editing-audio_assets--cb57e600e1f28821511d9eb35c8a9a7fee38b72a--f885faa755b8d341.png) \
    
 - To extend or shorten a selection, press Shift, then click the location to which you want to extend or shorten the selection.
 - To make a free selection when Snap is enabled, press Command (macOS) or Ctrl (Windows), then make the selection.
@@ -112,13 +112,13 @@ When you hover the mouse cursor over an audio or MIDI clip, it becomes the Editi
 
 To move a clip, hover at the top or in the lower half of a clip. The move tool appears. Click and drag the clip to a new location. You can drag a clip on the same track, or to another track, if it is the same type (audio or MIDI). If you have Snap enabled, the moved clip snaps to the grid. To move without snapping to the grid, press the Command key while you drag.
 
-![smart-tool-move-annotated.png](Editing%20Audio_assets/0f3a249959af1488195730f5597aae32af35947a.png)
+![smart-tool-move-annotated.png](../../attachments/editing-audio_assets--0f3a249959af1488195730f5597aae32af35947a--81af3ab74776fefe.png)
 
  
 
 When you move an audio clip, it can overlap an existing clip. You can see this overlapping and underlying area when dragging the audio clip. When you play a section with overlapping clips, you only hear the topmost audio clip. If you later move the clip again, any underlying clips that exist are revealed. If you fade or crossfade audio, the underlying audio can be revealed or used in the fade or crossfade, depending on the length of the overlapping and underlying audio clips.
 
-![audio-move-overlap.png](Editing%20Audio_assets/87115e54763617e0baf1f940f11ed1313c77877d.png)
+![audio-move-overlap.png](../../attachments/editing-audio_assets--87115e54763617e0baf1f940f11ed1313c77877d--dc1278312b38101d.png)
 
  
 
@@ -182,13 +182,13 @@ Set the nudge units and amount on the Edit Workflow pane, or by starting the Nud
 
 1.  Open the Edit Workflow by pressing the edit workflow switch or open the Nudge Settings by choosing Edit \> Nudge \> Settings… from the LUNA menus.
 
-    ![workflows-switch-edit.png](Editing%20Audio_assets/924cd4354e29be62f8e3ce991a4e1e8b19238f6b.png)
+    ![workflows-switch-edit.png](../../attachments/editing-audio_assets--924cd4354e29be62f8e3ce991a4e1e8b19238f6b--5c3cf9249de44f0d.png)
 
      
 
 2.  To the right of Nudge, click the nudge units to open the Nudge Settings popover.
 
-    ![nudge-settings.png](Editing%20Audio_assets/ed7e8f564424a484b6ff78c60983cf1de3158338.png)
+    ![nudge-settings.png](../../attachments/editing-audio_assets--ed7e8f564424a484b6ff78c60983cf1de3158338--49193c4b24dad54d.png)
 
      
 
@@ -207,7 +207,7 @@ The basic keys to nudge a note, clip, the playhead, or a selection are the comma
 - To nudge left by the next higher nudge amount, press M, select Edit \> Nudge \> Left Next Amount, or click the **\<\<** in the Edit workflow / Nudge settings.
 - To nudge right by the next higher nudge amount, press / , select Edit \> Nudge \> Right Next Amount, or click the **\>\>** in the Edit workflow / Nudge settings.
 
-![nudge-clip-2k-samples.png](Editing%20Audio_assets/1d2e60e1b702ac8d7d21c1f49bb6784f7d101e3e.png)
+![nudge-clip-2k-samples.png](../../attachments/editing-audio_assets--1d2e60e1b702ac8d7d21c1f49bb6784f7d101e3e--5d3db3d0ce56cc79.png)
 
 ## Nudging within an audio clip
 
@@ -220,7 +220,7 @@ To nudge audio within an audio clip, without moving the boundaries of the audio 
 - To nudge content left by the next higher nudge amount, press Control + M or select Edit \> Nudge Content \> Left Next Amount from the LUNA menus.
 - To nudge content right by the next higher nudge amount, press Control + / or select Edit \> Nudge Content \> Right Next Amount from the LUNA menus.
 
-![nudge-content-2k-samples.png](Editing%20Audio_assets/40856734c1ae7b65002fc604a53b51ec77c3b7b8.png)
+![nudge-content-2k-samples.png](../../attachments/editing-audio_assets--40856734c1ae7b65002fc604a53b51ec77c3b7b8--fcf6d320ee9aa448.png)
 
 ## Nudging a MIDI clip or MIDI notes
 
@@ -231,7 +231,7 @@ You can nudge whole MIDI clips or selected MIDI notes within one or more clips. 
 - To nudge left by the next higher nudge amount, press M , select Edit \> Nudge \> Left Next Amount, or click the **\<\<** in the Edit workflow / Nudge settings.
 - To nudge right by the next higher nudge amount, press / , select Edit \> Nudge \> Right Next Amount, or click the **\>\>** in the Edit workflow / Nudge settings.
 
-![nudge-midi-clip-1-16.png](Editing%20Audio_assets/d7520ba6ae442f60398c99258f76598ca37850a3.png)
+![nudge-midi-clip-1-16.png](../../attachments/editing-audio_assets--d7520ba6ae442f60398c99258f76598ca37850a3--943613bddd259ac8.png)
 
 <div layout="center" node-type="mediaSingle" data-width="">
 
@@ -241,7 +241,7 @@ You can nudge whole MIDI clips or selected MIDI notes within one or more clips. 
 
 </div>
 
-![nudge-midi-notes-1-16.png](Editing%20Audio_assets/7fce2bfc8a4c25c7b2ad0a757a6d1f0fc9ce668c.png)
+![nudge-midi-notes-1-16.png](../../attachments/editing-audio_assets--7fce2bfc8a4c25c7b2ad0a757a6d1f0fc9ce668c--c0c56410e2173dea.png)
 
 ## Nudging within a MIDI clip
 
@@ -254,7 +254,7 @@ To nudge notes within a MIDI clip, without moving the boundaries of the MIDI cli
 - To nudge content left by the next higher nudge amount, press Control + M or select Edit \> Nudge Content \> Left Next Amount from the LUNA menus.
 - To nudge content right by the next higher nudge amount, press Control + / or select Edit \> Nudge Content \> Right Next Amount from the LUNA menus.
 
-![nudge-midi-content-1-16.png](Editing%20Audio_assets/42c143ba9a455781bd5c577f6e3403e977dc9d2c.png)
+![nudge-midi-content-1-16.png](../../attachments/editing-audio_assets--42c143ba9a455781bd5c577f6e3403e977dc9d2c--a55c338eba902bba.png)
 
 ## Nudging to clip boundaries
 
@@ -265,7 +265,7 @@ You can nudge a clip to the next or previous clip boundary.
 - To nudge a clip to the next clip boundary, press Control+Option+. (macOS) or choose Edit \> Nudge \> To Next Clip from the LUNA menus.
 - To nudge a clip to the previous clip boundary, press Control+Option+, (macOS) or choose Edit \> Nudge \> To Previous Clip from the LUNA menus.
 
-![nudge-next-previous-clip.png](Editing%20Audio_assets/0b0ee79c9e8a42faf26a88ef423ea281c3adfd2f.png)
+![nudge-next-previous-clip.png](../../attachments/editing-audio_assets--0b0ee79c9e8a42faf26a88ef423ea281c3adfd2f--096ea3244a529488.png)
 
 ------------------------------------------------------------------------
 
@@ -283,7 +283,7 @@ Shift editing allows you to edit audio and keep your arrangement flowing around 
 
  
 
-![paste-shift-workflows.png](Editing%20Audio_assets/4080d8983e0a20e84030f4ff569e16a4fd34836d.png)
+![paste-shift-workflows.png](../../attachments/editing-audio_assets--4080d8983e0a20e84030f4ff569e16a4fd34836d--6508688e3e5b7a4c.png)
 
 <div layout="align-start" node-type="mediaSingle" data-width="65">
 
@@ -309,7 +309,7 @@ Shift editing allows you to edit audio and keep your arrangement flowing around 
 
 Hover the Editing Tool near the bottom at the start or end of a clip to trim the length of the clip. Click and drag to the right from the start of the clip, or to the left from the end of the clip to trim its length. Note that trimming follows the Snap settings, unless you hold the Command (macOS) or Ctrl (Windows) key while trimming.
 
-![smart-tool-trim.png](Editing%20Audio_assets/7fa2a9990756397990507f0210864f3732e818f4.png)
+![smart-tool-trim.png](../../attachments/editing-audio_assets--7fa2a9990756397990507f0210864f3732e818f4--766d309e7e805293.png)
 
 *Trim tool*
 
@@ -317,7 +317,7 @@ Hover the Editing Tool near the bottom at the start or end of a clip to trim the
 
 <div class="wysiwyg-text-align-center" collection="contentId-194969894" context-id="194969894" file-mime-type="image/png" file-name="smart-tool-trim-in-progress.png" file-size="38402" data-height="113" data-id="7d17dd78-4c38-4ed1-a692-997f84006d67" node-type="media" data-type="file" data-width="301" title="Attachment">
 
-![smart-tool-trim-in-progress.png](Editing%20Audio_assets/8dfa6d483b40086235a4b3865296e00b1bd55171.png)
+![smart-tool-trim-in-progress.png](../../attachments/editing-audio_assets--8dfa6d483b40086235a4b3865296e00b1bd55171--35260f61598c0921.png)
 
 </div>
 
@@ -331,7 +331,7 @@ You can use key commands to trim clips.
 - Press S to trim from the playhead or the end of a selection to the end of the clip.
 - With a selection made, Command+T (macOS) or Ctrl+T (Windows) to trim the clip and retain only the selection.
 
-![trim-key-commands.png](Editing%20Audio_assets/5326da448b73184e32f3f88d92b2ae7737edd07c.png)
+![trim-key-commands.png](../../attachments/editing-audio_assets--5326da448b73184e32f3f88d92b2ae7737edd07c--aed0c1121944aae9.png)
 
  
 
@@ -341,13 +341,13 @@ You can use key commands to trim clips.
 
 Hover just above the vertical center at the start or end of a clip to select. Note that this works anywhere in a clip, not just at the start or end. Click and drag to select. Selections follow the Snap settings, unless you hold the Command (macOS) or Ctrl (Windows) key while selecting.
 
-![smart-tool-select.png](Editing%20Audio_assets/f9badc0275524738d1af0064c0162801a21e35fc.png)
+![smart-tool-select.png](../../attachments/editing-audio_assets--f9badc0275524738d1af0064c0162801a21e35fc--26a0332dbcc0b5b2.png)
 
 *Tool appearance*
 
 <div class="wysiwyg-text-align-center" collection="contentId-194969894" context-id="194969894" file-mime-type="image/png" file-name="smart-tool-selection-made.png" file-size="34329" data-height="113" data-id="dafded41-1dd9-4e0b-98d8-fa0a4e032df9" node-type="media" data-type="file" data-width="414" title="Attachment">
 
-![smart-tool-selection-made.png](Editing%20Audio_assets/cb57e600e1f28821511d9eb35c8a9a7fee38b72a.png)
+![smart-tool-selection-made.png](../../attachments/editing-audio_assets--cb57e600e1f28821511d9eb35c8a9a7fee38b72a--f885faa755b8d341.png)
 
 </div>
 
@@ -361,7 +361,7 @@ When you hover near the vertical and horizontal center, the cursor changes to th
 
 Option+Click (macOS) or Alt+Click (Windows) to create a copy of the clip that you can then drag to a new location or track.
 
-![smart-tool-move.png](Editing%20Audio_assets/72f45a7d1848681102a0a1af31ab0213e424750f.png)
+![smart-tool-move.png](../../attachments/editing-audio_assets--72f45a7d1848681102a0a1af31ab0213e424750f--4ad0dcf1c620a494.png)
 
  
 
@@ -373,7 +373,7 @@ To hear one or more audio clips play backwards, select clips on one or more trac
 
 **Tip:** To reverse audio with a trackpad instead of a mouse, click the trackpad with two fingers and select Reverse.
 
-![reverse-audio.png](Editing%20Audio_assets/131de4d62d35454e1ea268d4970b33b43e60db9f.png)
+![reverse-audio.png](../../attachments/editing-audio_assets--131de4d62d35454e1ea268d4970b33b43e60db9f--9ccfb914a6579894.png)
 
  
 
@@ -407,7 +407,7 @@ You can separate audio clips to create two or more audio clips from an existing 
 - Separate an audio clip at the playhead with the menu command Edit \> Separate Selection, or Command+E (macOS) / Ctrl+E (Windows).
 - Separate a selection on the current grid with the menu command Edit \> Separate on Grid.
 
-![separate-clip.png](Editing%20Audio_assets/3d524d441bdde217df3c0ba07dfd28028a6fdeef.png)
+![separate-clip.png](../../attachments/editing-audio_assets--3d524d441bdde217df3c0ba07dfd28028a6fdeef--f4d3a14aa70abf36.png)
 
  
 
@@ -417,7 +417,7 @@ You can separate audio clips to create two or more audio clips from an existing 
 
 After you separate clips, you can press Command+H (macOS) or Ctrl+H (Windows) or choose Edit \> Heal Separation to recombine separated clips. The Heal Separation command works on two or more clips. Separated clips can only be recombined if the clips are arranged as they were originally. If you have rearranged clips, Heal Separation does not work. If you have made changes to separated clips with warps, clip gain, or clip pitch, those changes are discarded when the clips are healed. With clips you have rearranged that you want to combine, Consolidate clips.
 
-![heal-separations.png](Editing%20Audio_assets/3e22628cb7f3909663d2aab60fcfa7a13464a43d.png)
+![heal-separations.png](../../attachments/editing-audio_assets--3e22628cb7f3909663d2aab60fcfa7a13464a43d--c24b23bdff3adca3.png)
 
 ------------------------------------------------------------------------
 
@@ -427,7 +427,7 @@ You can combine two or more selected clips together by consolidating clips. You 
 
 - To consolidate, select one or more clips, and choose the menu item Edit \> Consolidate, or Option+Shift+3 (macOS) or Alt+Shift+3 (Windows).
 
-![consoliodated-clips.png](Editing%20Audio_assets/8adcbf169820349e8a4d84af4c9bcd9c637537d0.png)
+![consoliodated-clips.png](../../attachments/editing-audio_assets--8adcbf169820349e8a4d84af4c9bcd9c637537d0--398630bbfab43977.png)
 
  
 
@@ -437,7 +437,7 @@ You can combine two or more selected clips together by consolidating clips. You 
 
 Hover near the top at the start or end of an audio clip to show the Fade Editing Tool.
 
-![smart-tool-fade-tool.png](Editing%20Audio_assets/376c786a530416bb917096616a82bb4517652628.png)
+![smart-tool-fade-tool.png](../../attachments/editing-audio_assets--376c786a530416bb917096616a82bb4517652628--3c78a1c6e7eea36a.png)
 
 ## Creating a fade
 
@@ -445,7 +445,7 @@ Click and drag to the right from the beginning of the clip or to the left from t
 
 **Note:** When you trim a clip that has a fade applied, the original fade length is preserved.
 
-![smart-tool-fade-created.png](Editing%20Audio_assets/0ae60e66551b39bda5b67e67069041f48df6e6a2.png)
+![smart-tool-fade-created.png](../../attachments/editing-audio_assets--0ae60e66551b39bda5b67e67069041f48df6e6a2--a6225587ad800ef2.png)
 
  
 
@@ -453,7 +453,7 @@ Click and drag to the right from the beginning of the clip or to the left from t
 
 Hover over the fade boundary marker. The Fade Editing Tool appears. You can click and drag a fade to change its length. Fade length adjustments follow the snap settings, unless you hold the Command (macOS) or Ctrl (Windows) key while dragging.
 
-![smart-tool-fade-resize.png](Editing%20Audio_assets/784945f361477a43de97d2d9b460f5520881c543.png)
+![smart-tool-fade-resize.png](../../attachments/editing-audio_assets--784945f361477a43de97d2d9b460f5520881c543--951ea256c84f4a40.png)
 
 ## Editing the slope of an audio fade
 
@@ -461,13 +461,13 @@ Hover over the fade slope adjust point at the center of the fade. The Fade Slope
 
 Click and drag with the Fade Slope Editing Tool to adjust the fade slope. Drag up or down to adjust the slope of the fade to be more or less gradual. Drag towards the clip boundary or fade boundary to change how quickly the fade slopes in or out. Option+Click (macOS) or Alt+Click (Windows) on a fade to reset to the original fade.
 
-![smart-tool-adjust-fade-slope.png](Editing%20Audio_assets/3acfce5ce2c6a6e53cc977977e6bc3a0d46c9d55.png)
+![smart-tool-adjust-fade-slope.png](../../attachments/editing-audio_assets--3acfce5ce2c6a6e53cc977977e6bc3a0d46c9d55--3323c934d7ce5933.png)
 
 Right-click, Control+Click (macOS), or Alt+Click (Windows) on a fade to switch between Equal Power and Equal Gain mode.
 
 **Tip: Equal Power is a logarithmic fade, where equal gain is a linear fade. These options are not critical for fading in and out, because you can easily adjust the fade shape manually.**
 
-![smart-tool-fade-equal-power-gain.png](Editing%20Audio_assets/f6353e92906fe066434500306018e0f203d40678.png)
+![smart-tool-fade-equal-power-gain.png](../../attachments/editing-audio_assets--f6353e92906fe066434500306018e0f203d40678--bc033383feecaa3a.png)
 
 ------------------------------------------------------------------------
 
@@ -484,7 +484,7 @@ Right-click, Control+Click (macOS), or Alt+Click (Windows) on a fade to switch b
 
  
 
-![smart-tool-crossfade-tool.png](Editing%20Audio_assets/681825452021a3c1f11085bde5ed394f3a9630f2.png)
+![smart-tool-crossfade-tool.png](../../attachments/editing-audio_assets--681825452021a3c1f11085bde5ed394f3a9630f2--9597e26d346e5d73.png)
 
 *Crossfade tool at clip boundary*
 
@@ -492,7 +492,7 @@ Right-click, Control+Click (macOS), or Alt+Click (Windows) on a fade to switch b
 
 <div class="wysiwyg-text-align-center" collection="contentId-194969894" context-id="194969894" file-mime-type="image/png" file-name="smart-tool-crossfade-edge.png" file-size="36506" data-height="113" data-id="9bc39652-8856-466c-9c46-bd144b5d8bd2" node-type="media" data-type="file" data-width="414" title="Attachment">
 
-![smart-tool-crossfade-edge.png](Editing%20Audio_assets/acbf8bd3ba5c0874074663b3c74443f74cb6102f.png)
+![smart-tool-crossfade-edge.png](../../attachments/editing-audio_assets--acbf8bd3ba5c0874074663b3c74443f74cb6102f--aaf3121fffa88797.png)
 
 </div>
 
@@ -502,17 +502,17 @@ Right-click, Control+Click (macOS), or Alt+Click (Windows) on a fade to switch b
 
 Drag the crossfade tool across the clip boundary or across the gap to crossfade between the clips. Crossfade adjustments follow the snap settings, unless you click the Command (macOS) / Ctrl (Windows) key while dragging.
 
-![smart-tool-crossfade-created.png](Editing%20Audio_assets/fff36a132cf3243b1df19068cdf9d7831c507415.png)
+![smart-tool-crossfade-created.png](../../attachments/editing-audio_assets--fff36a132cf3243b1df19068cdf9d7831c507415--5d0ba95c1dd056fd.png)
 
 ### Adjust a crossfade
 
 To adjust where the crossfade is centered, click and drag from the crossfade slope adjust point. Option+Click (macOS) / Alt+Click (Windows) the crossfade slope adjust point to reset the crossfade to default.
 
-![smart-tool-crossfade-adjust.png](Editing%20Audio_assets/73e534848315504f732e64349261bc7bdfd918af.png)
+![smart-tool-crossfade-adjust.png](../../attachments/editing-audio_assets--73e534848315504f732e64349261bc7bdfd918af--423eee49f3b1ce8c.png)
 
 To lengthen or shorten one end of an existing crossfade, hover your cursor over an edge of the crossfade. The crossfade boundary markers (white inverted triangles) appear at the upper edge of each side of the crossfade. Click the marker you want to adjust. The hand cursor appears. Drag to shorten or lengthen a crossfade edge. 
 
-![smart-tool-crossfade-tool-hand.png](Editing%20Audio_assets/d55f9447e9cb0dd2a7ba2806dc35aeff3f1100d7.png)
+![smart-tool-crossfade-tool-hand.png](../../attachments/editing-audio_assets--d55f9447e9cb0dd2a7ba2806dc35aeff3f1100d7--5878c6c140a4dca7.png)
 
  
 
@@ -520,7 +520,7 @@ To lengthen or shorten one end of an existing crossfade, hover your cursor over 
 
 To move a crossfade, click in the lower half of the crossfade to select the crossfade. Drag the crossfade to move it. Note that you can only drag a crossfade as long as there is audio material underlying the fade being crossfaded. Crossfades snap to the Snap settings. To move the crossfade freely when Snap is enabled, click the Command (macOS) / Ctrl (Windows) key while dragging.
 
-![smart-tool-crossfade-move.png](Editing%20Audio_assets/6b35d88aa9e270e87b671c7653df0b8e4dfaa29d.png)
+![smart-tool-crossfade-move.png](../../attachments/editing-audio_assets--6b35d88aa9e270e87b671c7653df0b8e4dfaa29d--531fa06fb68fdf22.png)
 
 ### Delete a crossfade
 
@@ -532,7 +532,7 @@ To switch Equal Power and Equal Gain mode for the crossfade, Right-click or Cont
 
 **Tip:** Equal Gain is the default mode, and is recommended for phase-coherent material, for example when fading between clips from the same guitar track or drum track. Equal Power mode works better for material that is less similar, dissimilar, or not phase-coherent, for example two different vocalists or two different guitar recordings.
 
-![smart-tool-crossfade-eq-power-gain.png](Editing%20Audio_assets/83bb17a914387429d36c0d9ef9f31233ed4d66ea.png)
+![smart-tool-crossfade-eq-power-gain.png](../../attachments/editing-audio_assets--83bb17a914387429d36c0d9ef9f31233ed4d66ea--1a632650f1b20ba7.png)
 
  
 

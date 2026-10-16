@@ -34,7 +34,7 @@ UAD DSP plug-ins are offered in VST3, VST2, AU, and AAX formats and are listed i
 
 You can purchase them directly from the <a href="https://www.uaudio.com/uad-plugins.html" rel="noopener noreferrer" target="_blank">UAD Store</a> and other participating retailers. If you are using the UAD store, just look for the "Apollo" badge next to a title to see if the product is available for use with UAD-2 devices.\
 \
-![](What%27s%20the%20Difference%20Between%20UAD%20Native%20and%20UAD%20DSP%20Apollo%20Plug-Ins_assets/8eefebcf0bfdc5546d3132a57c65b64fcd32d5d2.png)
+![](../../attachments/what-s-the-difference-between-uad-native-and-uad-dsp-apollo-plug--8eefebcf0bfdc5546d3132a57c65b64fcd32d5d2--5028f2c6361d589d.png)
 
  
 
@@ -55,7 +55,7 @@ UAD native plug-ins are offered in VST3, AU, and AAX formats and are listed in y
 
 You can purchase them directly from the <a href="https://www.uaudio.com/uad-plugins.html" rel="noopener noreferrer" target="_blank">UAD Store</a> and other participating retailers. If you are using the UAD Store, just look for the "Native" badge next to a title to see if the product is available as a UAD native plug-in.\
 \
- ![](What%27s%20the%20Difference%20Between%20UAD%20Native%20and%20UAD%20DSP%20Apollo%20Plug-Ins_assets/7f6015f82c77b7ed74bebe914b95c1a5557f05fd.png)
+ ![](../../attachments/what-s-the-difference-between-uad-native-and-uad-dsp-apollo-plug--7f6015f82c77b7ed74bebe914b95c1a5557f05fd--e63562b435c63114.png)
 
 You can also sign up for a <a href="https://www.uaudio.com/products/uad-spark" rel="noopener noreferrer" target="_blank">UAD Spark subscription</a>, which gives you instant access to a large collection of high-quality native audio effect and instrument plug-ins for one low monthly or annual price.\
 \

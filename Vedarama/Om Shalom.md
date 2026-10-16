@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/satyaraja-os"
 ---
 
-![обложка|156](<Om Shalom/обложка.jpeg>)
+![обложка|156](<../attachments/om-shalom--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--11f6aa2837ccc46c.jpeg>)
 
 The invocation, “OM SHALOM,” is taken from a paper by Steven Joseph Gelberg, “Hasidism, Cultism, and the Secular Imperative,” presented at Harvard Divinity School, May 8, 1989.
 

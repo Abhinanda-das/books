@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bhvksw-abr"
 ---
 
-![обложка|156](<A Brahmacārī Reader/обложка.jpeg>)
+![обложка|156](<../attachments/a-brahmac%C4%81r%C4%AB-reader--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--83c0278445f8d11f.jpeg>)
 
 "A "user's guide" to brahmacari life. The first part consists of elaborate discussions and practical guidance regarding many aspects of brahmacarya. The second portion is a compilation of quotations on brahmacarya from Srila Prabhupada's books, letters, and recordings.
 

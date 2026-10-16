@@ -30,7 +30,7 @@ The basic steps for importing session data are as follows. 
 4.  Configure import settings. The data to be imported is shown as an overlay on your existing session’s tracks. 
 5.  Click Import near the top of the browser to import session data.
 
-![imported-session-overlay.png](Importing%20Session%20Data_assets/3f54918331b54630ef1c891055d319d2b0a76c38.png)
+![imported-session-overlay.png](../../attachments/importing-session-data_assets--3f54918331b54630ef1c891055d319d2b0a76c38--75ea9b810a00a27b.png)
 
  
 
@@ -41,13 +41,13 @@ The basic steps for importing session data are as follows. 
 # Choosing a Source Session
 
 1.  From the LUNA menus, choose File \> Import Session, or press Option+I (macOS) or Alt+I (Windows), and choose the session from which to import session data. You can expand a session in the list to see session versions, by clicking the \> symbol to the left of session and/or version names.\
-    ![import-session-data-dialog.png](Importing%20Session%20Data_assets/a3aae3bdb76bd235f3f27eeded8ae98249120d82.png)
+    ![import-session-data-dialog.png](../../attachments/importing-session-data_assets--a3aae3bdb76bd235f3f27eeded8ae98249120d82--ceb8ca7697870314.png)
 2.  Click Open From Disk… to choose a session that is not in LUNA’s Recent list. 
 3.  When you have selected a session, click Import Session Data. The source session tracks are populated in the Import Session Data browser.
 
 After you have opened a session from which to import session data, you can switch to a different source session. At the top of the Import Session Data browser, click the session name.
 
-![switch-import-session.png](Importing%20Session%20Data_assets/72a8d4a44aa67478c9693d569b94b86135882058.png)
+![switch-import-session.png](../../attachments/importing-session-data_assets--72a8d4a44aa67478c9693d569b94b86135882058--d4a7bba1073c3e50.png)
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ You can import audio tracks, instrument tracks, bus tracks, and the main track f
 
 Click Match by Name to automatically add any tracks from the source session to the destination session, if the track names match. 
 
-![match-by-name.png](Importing%20Session%20Data_assets/d878ebeac3acf48140511211e36e3de36bfcd4e7.png)
+![match-by-name.png](../../attachments/importing-session-data_assets--d878ebeac3acf48140511211e36e3de36bfcd4e7--e33b619624576076.png)
 
 ## Clear
 
@@ -73,7 +73,7 @@ Click Clear to clear any added tracks before you complete the import.
 
 Click Add to add any unmatched import tracks to the session. Unmatched tracks are added as New tracks. The Main track is not automatically included in this import. 
 
-![add-with-add-button.png](Importing%20Session%20Data_assets/ff83af88f3ab4d3797ed70d5d2562dc053d95391.png)
+![add-with-add-button.png](../../attachments/importing-session-data_assets--ff83af88f3ab4d3797ed70d5d2562dc053d95391--195e33956f407ce6.png)
 
 ## Manually matching and importing tracks
 
@@ -92,14 +92,14 @@ Match allows you to choose a track to match to the selected track, then imports 
 1.  After you choose a session to import and open the session in the Import Session Data browser, select the tracks in the destination (current) session to which you want to import the session data.
 2.  Select the source tracks you want to import to the selected tracks in the Import Tracks browser. 
 3.  Hover over a selected track in the Destination column and choose Match. If a track is available with the same name or track format, the destination track name is added to the import list. If no track matches the track name or format, or there are not enough remaining tracks to match, the track is not added to the list, and the text “Bus/Track Mismatch” or “Select Track in Timeline” is displayed. \
-    ![hover-import-browser.png](Importing%20Session%20Data_assets/fbaf6bf6256fc2f0e8a623585cc7d8aa79a3df7e.png)
+    ![hover-import-browser.png](../../attachments/importing-session-data_assets--fbaf6bf6256fc2f0e8a623585cc7d8aa79a3df7e--4542ed15423b9269.png)
 4.  Select tracks in the timeline to which you want to match the tracks in the browser that display “Select Track in Timeline” or “Bus/Track Mismatch.” Those tracks are added to the Import Tracks browser as they are selected. Note that tracks that do not match by name are matched to tracks of the same type and format, if available. 
 
 A preview of your matched tracks is shown in the timeline. 
 
 When you have finished matching and adding tracks, click Import at the top of the browser. 
 
-![imported-session-overlay.png](Importing%20Session%20Data_assets/3f54918331b54630ef1c891055d319d2b0a76c38.png)
+![imported-session-overlay.png](../../attachments/importing-session-data_assets--3f54918331b54630ef1c891055d319d2b0a76c38--75ea9b810a00a27b.png)
 
 *Previewing tracks to import*
 
@@ -114,7 +114,7 @@ You can select a range (duration) of the source session to import to the destina
 
 The import preview now highlights the range you are importing. Complete your import when you the range and import settings are correct.
 
-![import-range.png](Importing%20Session%20Data_assets/a91307df45f0f1317578e658fe40515d35b4a381.png)
+![import-range.png](../../attachments/importing-session-data_assets--a91307df45f0f1317578e658fe40515d35b4a381--e7e9c197e07d2e64.png)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ The import preview now highlights the range you are importing. Complete your imp
 
 Configure Import Settings in the Import Session Data browser to choose what session data LUNA imports from the source session to the destination session.
 
-![import-settings.png](Importing%20Session%20Data_assets/2b4fd03bf478b3cb317fde3a26cacb091d3bb476.png)
+![import-settings.png](../../attachments/importing-session-data_assets--2b4fd03bf478b3cb317fde3a26cacb091d3bb476--1a3f516e2b03335d.png)
 
 ## Tempo & Time Signature
 

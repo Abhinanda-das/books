@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg1"
 ---
 
-![обложка|156](<Back to Godhead Magazine #01, October 23, 1966/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-01-october-23-1966--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c4aa0a912c85110e.jpeg>)
 
 # Back to Godhead Magazine #01, October 23, 1966
 

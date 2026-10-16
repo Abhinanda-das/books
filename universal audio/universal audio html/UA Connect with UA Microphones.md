@@ -35,11 +35,11 @@ To register your microphone:
 1.  Open UA Connect and log in.
 2.  Click the Microphones tab. 
 3.  At the top of the UA Connect screen, click Add New Microphone. \
-    ![add-new-microphone.png](UA%20Connect%20with%20UA%20Microphones_assets/5fbfd4c4c88947763a8778211f98d91fca1f4ccf.png)
+    ![add-new-microphone.png](../../attachments/ua-connect-with-ua-microphones_assets--5fbfd4c4c88947763a8778211f98d91fca1f4ccf--6a0265ccc740f8ec.png)
 4.  In the serial number field, type the serial number from the label on your microphone’s Quick Start Guide, then click Enter. The serial number can also be found on the microphone itself.\
-    ![set-up-your-hardware.png](UA%20Connect%20with%20UA%20Microphones_assets/33851159cc259ed670e856657f9724fd74b7cbf1.png)
+    ![set-up-your-hardware.png](../../attachments/ua-connect-with-ua-microphones_assets--33851159cc259ed670e856657f9724fd74b7cbf1--cbdd6de551f8d8ef.png)
 5.  Your microphone appears. Click the Register button to register your microphone.\
-    ![set-up-hardware-sphere.png](UA%20Connect%20with%20UA%20Microphones_assets/f94ee4bf68052d6698d267252d76a5d63794dc7f.png)
+    ![set-up-hardware-sphere.png](../../attachments/ua-connect-with-ua-microphones_assets--f94ee4bf68052d6698d267252d76a5d63794dc7f--45a78a34f0ba1c38.png)
 6.  Your microphone is registered.
 
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ To register your microphone:
 # Installing Native Sphere Plug-Ins
 
 - After you register your Sphere microphone, links appear to get your Sphere software.\
-  ![registered-sphere-download.png](UA%20Connect%20with%20UA%20Microphones_assets/dbc8f2ecbbcc66573a325b9937b7f9634a68fd32.png)
+  ![registered-sphere-download.png](../../attachments/ua-connect-with-ua-microphones_assets--dbc8f2ecbbcc66573a325b9937b7f9634a68fd32--bf919941ba389624.png)
 - To download and install the native Sphere plug-ins, click the Download button in the Sphere Mic Collection and Sphere Mic Collection 180 tiles (if you own a Sphere DLX or Sphere L22). UA Connect performs the installation for the native Sphere plug-ins. (If the native Sphere plug-ins are already installed, but a newer version is available, the button displays Update.) 
 
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ UAD Sphere plug-ins are contained within UAD software. To download and install U
 4.  If the native Hemisphere plug-in is already installed, but a newer version is available, the Update button appears. Click to update the plug-in. 
 
 <figure class="wysiwyg-image">
-![uac-microphones-page.png](UA%20Connect%20with%20UA%20Microphones_assets/f52f0090ab0a1f8a16be6b05ff70d401f52725b7.png)
+![uac-microphones-page.png](../../attachments/ua-connect-with-ua-microphones_assets--f52f0090ab0a1f8a16be6b05ff70d401f52725b7--c28245783c014feb.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -92,7 +92,7 @@ Apollo channel strip presets can be downloaded and automatically installed for y
 3.  Next to Apollo channel strip presets (in the Additional Downloads section), click Install to download and install the Apollo channel strip presets for your mic. 
 
 <figure class="wysiwyg-image">
-![channel-strip-presets-download.png](UA%20Connect%20with%20UA%20Microphones_assets/a95f926a301e2762c32cc56e572d978575e78cb6.png)
+![channel-strip-presets-download.png](../../attachments/ua-connect-with-ua-microphones_assets--a95f926a301e2762c32cc56e572d978575e78cb6--d207a265ac1bcff1.png)
 </figure>
 
 <span class="wysiwyg-font-size-small">v260204</span>

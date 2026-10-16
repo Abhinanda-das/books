@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/kkg-ra"
 ---
 
-![обложка|156](<Rādhikāṣṭaka/обложка.jpeg>)
+![обложка|156](<../attachments/r%C4%81dhik%C4%81%E1%B9%A3%E1%B9%ADaka--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5a86046eba985d61.jpeg>)
 
 Śrī Rādhikāṣṭaka from the Suka-sari-stava \[Sanskrit & English\]
 

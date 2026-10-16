@@ -6,17 +6,17 @@ tool_version: 1.10.2
 word_count: 12541
 ---
 
-![](<Apollo x6 Hardware Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_0_picture_0--61acf5e36b410a71.jpeg>)
 
 ### **Thunderbolt 3 Audio Interface**
 
-![](<Apollo x6 Hardware Manual_assets/_page_0_Picture_2.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_0_picture_2--ac6f9e04ccceced6.jpeg>)
 
 # **Apollo x6 Hardware Manual**
 
 Manual Version 210429
 
-![](<Apollo x6 Hardware Manual_assets/_page_0_Picture_5.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_0_picture_5--e0aa56293cfda3ca.jpeg>)
 
 # <span id="page-1-0"></span>**A Letter from Bill Putnam Jr.**
 
@@ -268,7 +268,7 @@ This section describes the features and functionality of all controls and visual
 
 **Tip:** All front panel functions (except the METER switch, HP1/HP2 knobs, and POWER switch) can be controlled remotely with the included Console software application. Changes made with the front panel controls are mirrored in the Console application, and vice versa.
 
-![](<Apollo x6 Hardware Manual_assets/_page_11_Picture_3.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_11_picture_3--7930a453084cf1b2.jpeg>)
 
 Apollo x6 front panel (left portion)
 
@@ -434,7 +434,7 @@ The color of the LINE indicator changes to reflect the state of the LINE INPUT G
 
 ### **Unison Input Indicators**
 
-![](<Apollo x6 Hardware Manual_assets/_page_16_Picture_11.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_16_picture_11--4157af1a588e7054.jpeg>)
 
 The U1 indicator is lit when a Unison UAD plug-in is active on the currently selected preamp channel. Unison technology is activated by placing a Unison UAD plug-in into the dedicated Unison insert for the input channel in the Console application.
 
@@ -466,7 +466,7 @@ Avoid digital clipping at the channel's A/D converter by reducing the output lev
 
 When set to OUTPUT, the channel meters display the signal peak output levels for analog channels 1 – 6 at the output of the D/A converters.
 
-![](<Apollo x6 Hardware Manual_assets/_page_18_Picture_0.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_18_picture_0--bcafa18d48d7ed5f.jpeg>)
 
 Apollo x6 front panel (right portion)
 
@@ -612,7 +612,7 @@ This switch applies power to Apollo x6. When the unit is powered on, the Univers
 
 # <span id="page-23-0"></span>**Rear Panel**
 
-![](<Apollo x6 Hardware Manual_assets/_page_23_Picture_1.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_23_picture_1--ffe167c870322482.jpeg>)
 
 Apollo x6 rear panel (digital portion)
 
@@ -701,7 +701,7 @@ Per the Thunderbolt specification, bus power is supplied to downstream (daisy-ch
 
 # <span id="page-27-0"></span>Analog I/O
 
-![](<Apollo x6 Hardware Manual_assets/_page_27_Picture_1.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_27_picture_1--0f225d99c2de6943.jpeg>)
 
 Apollo x6 rear panel (analog portion)
 
@@ -715,7 +715,7 @@ By default, the operating level of the line outputs is +20 dBu. The line outputs
 
 +24 dBu operation is typically used for interfacing with professional audio equipment such as large format consoles, analog tape machines, and similar devices that require higher signal levels. For additional details about +24 dBu operation, see the Apollo Software Manual.
 
-![](<Apollo x6 Hardware Manual_assets/_page_27_Picture_8.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_27_picture_8--a4ef421a72c0a10a.jpeg>)
 
 Headroom menu within Console Settings
 
@@ -755,7 +755,7 @@ By default, the operating level of the line inputs is +20 dBu. The line inputs a
 
 +24 dBu operation is typically used for interfacing with professional audio equipment such as large format consoles, analog tape machines, and similar devices that require higher signal levels. For additional details about +24 dBu operation, see the Apollo Thunderbolt Software Manual.
 
-![](<Apollo x6 Hardware Manual_assets/_page_28_Picture_13.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_28_picture_13--8a034c50f5916a03.jpeg>)
 
 *Headroom menu within Console Settings*
 
@@ -821,11 +821,11 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 
 ### **Does your USB-C connector support Thunderbolt 3?**
 
-![](<Apollo x6 Hardware Manual_assets/_page_31_Picture_5.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_31_picture_5--a7b0895d0043c85c.jpeg>)
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer.
 
-![](<Apollo x6 Hardware Manual_assets/_page_31_Picture_7.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_31_picture_7--7c96b920610c51ff.jpeg>)
 
 *Thunderbolt icon on USB-C cable (left) and USB-C port (right)*
 
@@ -833,9 +833,9 @@ To determine if a USB-C port or cable connector supports Thunderbolt 3, look for
 
 The diagram below illustrates a simple Apollo x6 setup example for recording voice, guitar, and keyboard at the same time. Note that the mic and instruments are all connected to different input channels. ALT monitors are connected for comparing different speakers.
 
-![](<Apollo x6 Hardware Manual_assets/_page_32_Picture_2.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_32_picture_2--5a553f95fe8efbda.jpeg>)
 
-![](<Apollo x6 Hardware Manual_assets/_page_32_Picture_3.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_32_picture_3--b06f57b60ab905f5.jpeg>)
 
 Typical Apollo x6 connections
 
@@ -845,7 +845,7 @@ The diagram below illustrates an example of how to interconnect multiple Apollo 
 
 **Important:** For complete details about system operation when multi-unit cascading, see the Apollo Software Manual.
 
-![](<Apollo x6 Hardware Manual_assets/_page_33_Figure_3.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_33_figure_3--5e4382dd3b00b351.jpeg>)
 
 Connecting multiple Apollo X units via Thunderbolt 3
 
@@ -1036,7 +1036,7 @@ Specifications are subject to change without notice.
 
 # <span id="page-39-0"></span>**Block Diagram**
 
-![](<Apollo x6 Hardware Manual_assets/_page_39_Figure_1.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_39_figure_1--106619a97fe1fea1.jpeg>)
 
 # <span id="page-40-0"></span>**Troubleshooting**
 
@@ -1071,7 +1071,7 @@ If you are having trouble with Apollo X, first check all system setups, connecti
 
 To learn about repair service, or for technical support, visit [help.uaudio.com.](http://help.uaudio.com)
 
-![](<Apollo x6 Hardware Manual_assets/_page_41_Picture_6.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_41_picture_6--55b6daa876543d42.jpeg>)
 
 # **Maintenance**
 
@@ -1080,7 +1080,7 @@ To learn about repair service, or for technical support, visit [help.uaudio.com.
 
 # <span id="page-42-0"></span>**Important Safety Information**
 
-![](<Apollo x6 Hardware Manual_assets/_page_42_Picture_1.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_42_picture_1--a3dcfbe5c636f82f.jpeg>)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -1101,11 +1101,11 @@ Before using this unit, be sure to carefully read the applicable items of these 
 
 # **Description of symbols used**
 
-![](<Apollo x6 Hardware Manual_assets/_page_42_Picture_18.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_42_picture_18--93e1ea9649196dee.jpeg>)
 
 The lightning flash represented by the arrow symbol in an equilateral triangle is intended to alert users to the presence of high voltage within the unit that could cause an electrical shock hazard.
 
-![](<Apollo x6 Hardware Manual_assets/_page_42_Picture_20.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_42_picture_20--3e6d1425cc9686c4.jpeg>)
 
 The exclamation mark in an equilateral triangle is intended to alert users to the existence of important instructions in the manual relating to the use and maintenance of the unit.
 
@@ -1174,4 +1174,4 @@ To contact UA support staff for technical or repair assistance, please visit:
 
 **[help.uaudio.com](https://help.uaudio.com)**
 
-![](<Apollo x6 Hardware Manual_assets/_page_46_Picture_0.jpeg>)
+![](<../../attachments/apollo-x6-hardware-manual_assets--page_46_picture_0--fb22c0c3619c0cba.jpeg>)

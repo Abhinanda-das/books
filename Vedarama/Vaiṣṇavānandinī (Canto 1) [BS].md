@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bv-va1-bs"
 ---
 
-![обложка|156](<Vaiṣṇavānandinī (Canto 1) [BS]/обложка.png>)
+![обложка|156](<../attachments/vai%E1%B9%A3%E1%B9%87av%C4%81nandin%C4%AB-canto-1-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d9992803986505f5.png>)
 
 # Vaiṣṇavānandinī (Canto 1) \[BS\]
 

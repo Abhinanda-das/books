@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sp-antyalila"
 ---
 
-![обложка|156](<Prabhupāda Antya-Līlā The Final Pastimes of Śrīla Prabhupāda/обложка.png>)
+![обложка|156](<../attachments/prabhup%C4%81da-antya-l%C4%ABl%C4%81-the-final-pastimes-of-%C5%9Br%C4%ABla-prabhup%C4%81d--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--13223a82db798737.png>)
 
 A Drama By Tamal Krishna Goswami.
 

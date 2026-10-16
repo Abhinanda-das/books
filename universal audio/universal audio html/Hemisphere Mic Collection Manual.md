@@ -32,7 +32,7 @@ Using the same award-winning tech as our UA Sphere modeling microphones, the Hem
 
 *\*All trademarks are property of their respective owners and used only to represent the microphones and sound treatment modeled as part of the Hemisphere software.*
 
-![hemisphere.png](Hemisphere%20Mic%20Collection%20Manual_assets/94b3785c68091bda83db440b7ab41b1ee873b401.png)
+![hemisphere.png](../../attachments/hemisphere-mic-collection-manual_assets--94b3785c68091bda83db440b7ab41b1ee873b401--240e8e6109c7d66b.png)
 
 *Hemisphere Mic Collection*
 
@@ -61,14 +61,14 @@ Hemisphere can be used with any UA Standard series microphone, such as SD-1, SP-
 
 The Hemisphere Mic Collection plug-in is detailed in the following image.
 
-![hemisphere-callouts.png](Hemisphere%20Mic%20Collection%20Manual_assets/528ed5a30f05b85120aeeb09c4771d5c9e64aac1.png)
+![hemisphere-callouts.png](../../attachments/hemisphere-mic-collection-manual_assets--528ed5a30f05b85120aeeb09c4771d5c9e64aac1--232b39930d9633ed.png)
 
 ## Choose your source microphone
 
 1.  Click the source microphone (the smaller mic at lower left of plug-in) to open the source microphone selector window. 
 2.  Double-click your UA Standard microphone hardware to choose it and close the window. To choose a microphone without closing the window., single-click the microphone. Click the X at the top right of the window when you want to close it. 
 
-![select-source-mic.png](Hemisphere%20Mic%20Collection%20Manual_assets/233b822ae458ecfe3034fd5ac146d589697dd25b.png)
+![select-source-mic.png](../../attachments/hemisphere-mic-collection-manual_assets--233b822ae458ecfe3034fd5ac146d589697dd25b--51958f334046b0d8.png)
 
 ## Choose your mic model
 
@@ -85,27 +85,27 @@ Click the mic image or type. You can also use the up/down/left/right arrows on y
 
 Each UA Standard Series microphone offers a different selection of mic models that correspond to the technology and physical characteristics of the source microphone. Complete descriptions are available later in this manual.
 
-![select-target-mic-sp1.png](Hemisphere%20Mic%20Collection%20Manual_assets/dd2117917b98a8f983baeafe6a1d75d89b18da4c.png)
+![select-target-mic-sp1.png](../../attachments/hemisphere-mic-collection-manual_assets--dd2117917b98a8f983baeafe6a1d75d89b18da4c--cae2cc0b2e76907b.png)
 
 *Mic models available for UA SP-1 source microphone*
 
-![select-target-mic-ld1.png](Hemisphere%20Mic%20Collection%20Manual_assets/afa922fb8b5cfa3fbc96e0d8d53d3b75ff2d7ace.png)
+![select-target-mic-ld1.png](../../attachments/hemisphere-mic-collection-manual_assets--afa922fb8b5cfa3fbc96e0d8d53d3b75ff2d7ace--0c31fd63555afbae.png)
 
 *Mic models available for UA SC-1 source microphone*
 
-![select-target-mic-sd1.png](Hemisphere%20Mic%20Collection%20Manual_assets/7b99c642fda6e7e6628f517e14a2dfd7b62b77cb.png)
+![select-target-mic-sd1.png](../../attachments/hemisphere-mic-collection-manual_assets--7b99c642fda6e7e6628f517e14a2dfd7b62b77cb--6cfd8a7e1bc12cda.png)
 
 *Mic models available for UA SD-1 source microphone*
 
-![select-target-mic-sd3.png](Hemisphere%20Mic%20Collection%20Manual_assets/515fb0746bd8486dd2b1f3626bc4955fb5235b55.png)
+![select-target-mic-sd3.png](../../attachments/hemisphere-mic-collection-manual_assets--515fb0746bd8486dd2b1f3626bc4955fb5235b55--88540f9932430942.png)
 
 *Mic models available for UA SD-3 source microphone*
 
-![select-target-mic-sd5.png](Hemisphere%20Mic%20Collection%20Manual_assets/8d3764d05b779659710852d303e069c0b9862a6b.png)
+![select-target-mic-sd5.png](../../attachments/hemisphere-mic-collection-manual_assets--8d3764d05b779659710852d303e069c0b9862a6b--14cc6724ec2618e4.png)
 
 *Mic models available for UA SD-5 source microphone*
 
-![select-target-mic-sd7.png](Hemisphere%20Mic%20Collection%20Manual_assets/1f74b0145f66951248280c0e55fb9446eb53e45d.png)
+![select-target-mic-sd7.png](../../attachments/hemisphere-mic-collection-manual_assets--1f74b0145f66951248280c0e55fb9446eb53e45d--54a6a6b31bad1c79.png)
 
 *Mic models available for UA SD-7 source microphone*
 
@@ -117,13 +117,13 @@ As you adjust the Filter control, the label below the knob changes to indicate t
 
 **Note:** These values are displayed as Off, Low, Med, and High in parameter automation lanes.
 
-![filter-knob-showing-text.png](Hemisphere%20Mic%20Collection%20Manual_assets/948607b25ac64cc3bc4a9b54b793bd89fe448e41.png) 
+![filter-knob-showing-text.png](../../attachments/hemisphere-mic-collection-manual_assets--948607b25ac64cc3bc4a9b54b793bd89fe448e41--35f922f5ee4a8a13.png) 
 
 ## Adjust mic proximity
 
 The Proximity control models the changes in microphone response when moving the microphone closer to or further from the audio source.
 
-![proximity-knob.png](Hemisphere%20Mic%20Collection%20Manual_assets/6fc620603e361973fec5c93d10a3e97b6fec10b5.png)
+![proximity-knob.png](../../attachments/hemisphere-mic-collection-manual_assets--6fc620603e361973fec5c93d10a3e97b6fec10b5--b4120356233cc8e3.png)
 
 ### Proximity tips
 
@@ -135,7 +135,7 @@ The Proximity control models the changes in microphone response when moving the 
 
 You can virtually rotate the mic off axis with the Axis knob. The Axis knob models changes in frequency response when angling the mic capsule off axis in relation to the audio source. 
 
-![axis-knob.png](Hemisphere%20Mic%20Collection%20Manual_assets/83f8c1dc39f0799853f7967dbdda8eecce7f2186.png)
+![axis-knob.png](../../attachments/hemisphere-mic-collection-manual_assets--83f8c1dc39f0799853f7967dbdda8eecce7f2186--785e4958a3684c77.png)
 
 Every mic model has a different off-axis response, and changes to this control can be fairly subtle or very noticeable, depending on the modeled microphone’s characteristics. Generally, adjusting a microphone’s axis is most useful below about 45 degrees. The axis control allows you to rotate the mic capsule as far as 180 degrees, and more unusual results can be achieved at higher axis knob settings. 
 
@@ -150,19 +150,19 @@ Sometimes you may want to reverse the phase (polarity) of a microphone signal to
 
 To correct for phase issues, or for creative uses, you can reverse the microphone phase by toggling the phase switch to the 180° setting.
 
-![phase-switch.png](Hemisphere%20Mic%20Collection%20Manual_assets/ed02d626069da1ae427f1999a98da56ab30e897b.png)
+![phase-switch.png](../../attachments/hemisphere-mic-collection-manual_assets--ed02d626069da1ae427f1999a98da56ab30e897b--37aa63179e396ab7.png)
 
 ## Set the output level
 
 The Output level slider is provided so you can correct for any changes in level created by Hemisphere’s processing. The Output control provides ±12 dB of output level correction. 
 
-![output-slider.png](Hemisphere%20Mic%20Collection%20Manual_assets/7e4a0e96d92ca65d64d8f1fc79b9522cd5441323.png)
+![output-slider.png](../../attachments/hemisphere-mic-collection-manual_assets--7e4a0e96d92ca65d64d8f1fc79b9522cd5441323--124cf79996c2107f.png)
 
 ## Toggle plug-in processing
 
 To bypass the plug-in, toggle the power switch to the 0 position. 
 
-![power-switch.png](Hemisphere%20Mic%20Collection%20Manual_assets/327375a3a88ea586ff0d97c52421f1577a1edc26.png)
+![power-switch.png](../../attachments/hemisphere-mic-collection-manual_assets--327375a3a88ea586ff0d97c52421f1577a1edc26--194c11e334fe5bf9.png)
 
 - UADx: When powered off, native CPU processing is reduced. 
 - UAD-2: When powered off, DSP processing is reduced, unless DSP LoadLock is enabled. 

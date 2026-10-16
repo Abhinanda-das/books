@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/td1"
 ---
 
-![обложка|156](<A Transcendental Diary Volume 1/обложка.jpeg>)
+![обложка|156](<../attachments/a-transcendental-diary-volume-1--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a7863bedee2af39a.jpeg>)
 
 An insider’s look into the life of a pure devotee of the Lord. Seen through the eyes of his personal servant, Srila Prabhupada comes alive in this transcendental diary of his travels through India. Three other volumes cover world tours. Foreword by Burke Rochford, Jr., Middlebury College, Vermont, USA; author of “Hare Krishna in America.” Professor Rochford writes: “The use of a diary record to present Srila Prabhupada’s life has helped assure that the material presented is richly detailed and an accurate reflection of unfolding events. Hari Sauri has given the reader a clear and straightforward presentation. As such, it will be of great interest . . .” November 1975 – April 1976; This is the first of five volumes.
 

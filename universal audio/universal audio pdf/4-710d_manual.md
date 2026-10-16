@@ -7,7 +7,7 @@ word_count: 16391
 ---
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0001-00.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0001-00--8c8d1b063ccf5f75.png)
 
 
 ## **Model 4-710d** 
@@ -127,7 +127,7 @@ We thank you, and we thank my father, Bill Putnam.
 Sincerely, 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0005-10.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0005-10--75e9cf5d3da9b751.png)
 
 
 Bill Putnam Jr. 
@@ -265,7 +265,7 @@ And when we need to direct you to a page or section elsewhere in the manual, we�
 ## **Analog Controls** 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0009-02.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0009-02--c556a0854632925e.png)
 
 
  **The controls for channels 1-4 are identical, so each control is only described once.** 
@@ -339,7 +339,7 @@ If the METER FUNCTION switch _(_  _#9 above)_ is set to GR, the amount of com
 ## **Digital Controls** 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0012-02.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0012-02--49a57173033ed459.png)
 
 
 **(14)  Power -** Turns the 4-710d power on or off. When powered on, the front panel meters light up. 
@@ -385,7 +385,7 @@ The upper LED is a two-state indicator. When the incoming signal is between -6 d
 ## **Rear Panel Descriptions** 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0014-01.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0014-01--10d402f108f99a5c.png)
 
 
 ## **Digital Connectors** 
@@ -489,7 +489,7 @@ The example shows a microphone connected to channel 1, a keyboard connected to t
 - Line outputs are connected to an analog mixer for monitoring 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0017-08.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0017-08--cbafcb0038d4b4a9.png)
 
 
 17 
@@ -517,7 +517,7 @@ The example shows microphones connected to channels 1 and 2, guitar and electric
 - Computer DAW is used for software monitoring 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0018-11.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0018-11--474f59358142336d.png)
 
 
 18 
@@ -547,7 +547,7 @@ The inputs and inserts are connected as in the previous example. The AES/EBU out
 - Computer DAW is used for software monitoring 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0019-12.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0019-12--0fd75e957e0eefb8.png)
 
 
 19 
@@ -938,19 +938,19 @@ _* Since the 4-710d does not perform D/A conversion, the receive pins for channe
 ## **Session Recall Sheet** 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0035-01.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0035-01--6cd7a69c5056dc4f.png)
 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0035-02.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0035-02--e37340656bf4f864.png)
 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0035-03.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0035-03--220a0f4b5051dba0.png)
 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0035-04.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0035-04--bc11e5d328ace5e7.png)
 
 
 **----- Start of picture text -----**<br>
@@ -962,7 +962,7 @@ Session Recall Sheet<br>4-710d TONE-BLENDING MIC PREAMPLIFIER<br>**----- End of 
 ## **Block Diagram** 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0036-01.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0036-01--91ec28b0c45c30bb.png)
 
 
 36 
@@ -1087,7 +1087,7 @@ _**Digital Output Formats**_ AES/EBU 8 channels, 44.1-192kHz, single wire ADAT O
 **Meter** , 7, 8, 10, 11, 20, 40 slave, 15, 23 Metering, 25 **S-MUX** , 15, 22, 32 Microphone, 26, 40 Solid-State, 20, 40 Overview, 20 **SPDIF** , 32, 33 **PAD** , 7, 10 Support, 43 **Polarity** , 11, 16, 21 synchronization, 23, 24 **Power** , iii, 8, 12, 15, 21, 40 Trademarks, ii Rear Panel, 14 Vacuum Tube, 20 Registration, 43 Vocals, 25 Resources, 43 Voltage Select, 34 **Ribbon** , 32 Warranty, 43 **Sample Rate** , 12, 13, 14, 15, 32 Website, 43 Service, 34, 43 **Word Clock** , 14, 15, 22 **Single Wire** , 14, 22, 29, 30, 32 **XLR** , 7, 16, 29, 33, 40 
 
 
-![](4-710d_manual_assets/4-710d_manual.pdf-0042-02.png)
+![](../../attachments/4-710d_manual_assets--4-710d_manual.pdf-0042-02--d8fe45841f0123c2.png)
 
 
 42 

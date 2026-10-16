@@ -10,7 +10,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ttp"
 ---
 
-![обложка|156](<Transcendental Teachings of Prahlāda Mahārāja/обложка.jpeg>)
+![обложка|156](<../attachments/transcendental-teachings-of-prahl%C4%81da-mah%C4%81r%C4%81ja--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--87533124e958e0bc.jpeg>)
 
 Based on a series of talks Śrīla Prabhupāda gave in 1968 on the Śrīmad-Bhāgavatam, Canto 7, Chapter 6
 

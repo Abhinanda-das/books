@@ -6,11 +6,11 @@ tool_version: 1.10.2
 word_count: 211
 ---
 
-![](UA+SD-3+User+Guide_assets/_page_0_Picture_1.jpeg)
+![](../../attachments/ua-sd-3-user-guide_assets--page_0_picture_1--1d083e04ea57d958.jpeg)
 
 Standard Dynamic Microphone with Mic Modeling
 
-![](UA+SD-3+User+Guide_assets/_page_0_Figure_3.jpeg)
+![](../../attachments/ua-sd-3-user-guide_assets--page_0_figure_3--6e754d9fcc22e11d.jpeg)
 
 # **Congratulations Get Hemisphere Specifications**
 
@@ -52,7 +52,7 @@ Cardioid
 
 3-pin XLRM
 
-![](UA+SD-3+User+Guide_assets/_page_1_Picture_23.jpeg)
+![](../../attachments/ua-sd-3-user-guide_assets--page_1_picture_23--1068ce0cf1b8fa00.jpeg)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

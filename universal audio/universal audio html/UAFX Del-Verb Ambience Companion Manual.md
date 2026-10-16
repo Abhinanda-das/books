@@ -43,7 +43,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--fed96d8f77b66884.png)
 </figure>
 
 Bill Putnam Jr.
@@ -56,7 +56,7 @@ Bill Putnam Jr.
 
 # Del-Verb Quick Start
 
-![del-verb-qs.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/31890fff1eaa590306dfba88d4d214f213b800fc.png)
+![del-verb-qs.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--31890fff1eaa590306dfba88d4d214f213b800fc--86abcb55d984ffdd.png)
 
 [**Download Del-Verb Quick Start**](https://help.uaudio.com/hc/en-us/articles/360058186352)
 
@@ -120,7 +120,7 @@ To learn how to power your UAFX pedal, <a href="https://help.uaudio.com/hc/en-us
 To learn how to connect your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-non-amp.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/097372538c02d4b5c1b83457b44efa5e78485dc7.png)
+![rear-callouts-non-amp.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--097372538c02d4b5c1b83457b44efa5e78485dc7--765e98d19cc9035a.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -529,7 +529,7 @@ With the UAFX Control app, you can change the operation of your pedal to suit yo
 - Tap Settings at the bottom right of the screen to access the settings for the pedal. You may need to scroll down on this screen to see all available settings. 
 - Tap Voicings at the bottom left to access the voicings for your effects.The screen is updated with voicings for each effect type as you change the switch settings. 
 
-![del-verb-in-app.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/b0985a6ac6772077b49953f7d58c06b2d7d02ce7.png)
+![del-verb-in-app.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--b0985a6ac6772077b49953f7d58c06b2d7d02ce7--b1fcf843e7e8d1bf.png)
 
 ## Selecting Del-Verb Voicings
 
@@ -561,7 +561,7 @@ Under Trails, tap Off or On.
 
 ### Trails Off
 
-![del-verb-trails-off.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/58604cb60e070431ac0100be9e78b2ee4633d71b.png)
+![del-verb-trails-off.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--58604cb60e070431ac0100be9e78b2ee4633d71b--c9ad7a9230783064.png)
 
 When Trails is set to Off, the delay and reverb effects stop immediately when the pedal is bypassed.
 
@@ -571,7 +571,7 @@ When Trails is set to Off, the delay and reverb effects stop immediately when th
 
 ### Trails On
 
-![del-verb-trails-on.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/1edf76ceb01fbba01b91634b4150d7839028c595.png)
+![del-verb-trails-on.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--1edf76ceb01fbba01b91634b4150d7839028c595--d867478b59d82cd3.png)
 
 When bypass routing is set for trails on bypass and the effect is off, the effect plays out naturally, rather than stopping suddenly.
 
@@ -583,7 +583,7 @@ Footswitch modes can be changed in UAFX Control to suit your preferences. You ca
 
 To select a footswitch mode, open the Settings screen. Then tap the current footswitch mode (colored bar) and choose a mode from the drop menu.
 
-![footswitch-modes-delverb.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/6c2c2f6275b2f6cee14893b50ad6b1a5349f6e70.png)
+![footswitch-modes-delverb.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--6c2c2f6275b2f6cee14893b50ad6b1a5349f6e70--833a958f4c317404.png)
 
  
 
@@ -591,7 +591,7 @@ The following Del-Verb footswitch modes can be selected.
 
 ### Effects \| Tap Tempo
 
-![del-verb-fx-tap-mode.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/f60bc106b42eeeb08ccc29aa53a30ffc1d011412.png)
+![del-verb-fx-tap-mode.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--f60bc106b42eeeb08ccc29aa53a30ffc1d011412--03adab8a47168340.png)
 
 In Effects \| Tap Tempo mode:
 
@@ -600,7 +600,7 @@ In Effects \| Tap Tempo mode:
 
 ### Delay \| Reverb
 
-![del-verb-delay-reverb-mode.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/3ae2a7121ad5a30b9f2109a37596c489c590016e.png)
+![del-verb-delay-reverb-mode.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--3ae2a7121ad5a30b9f2109a37596c489c590016e--f501816a61e36039.png)
 
 In Delay \| Reverb mode, you can toggle delay and reverb effects on and off individually. There is no tap tempo in this mode.
 
@@ -609,7 +609,7 @@ In Delay \| Reverb mode, you can toggle delay and reverb effects on and off indi
 
 ### Delay \| Tap Tempo
 
-![delverb-fs-mode-delay-tap.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/a4756873334d268e4c3675aec749cc2b06d16b0b.png)
+![delverb-fs-mode-delay-tap.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--a4756873334d268e4c3675aec749cc2b06d16b0b--9c2355f99e8e259f.png)
 
 In Delay \| Tap Tempo mode:
 
@@ -852,9 +852,9 @@ All specifications are subject to change without notice.
 
 # Del-Verb Safety
 
-![safety-symbol-exclaim.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
+![safety-symbol-exclaim.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--77f9c03efa87a5d2.png)**Caution:** To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at [help.uaudio.com](../../en-us.html).
 
-![safety-symbol-book-info.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
+![safety-symbol-book-info.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--b200bd8838c15ccd.png)Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
 - Read the instructions.
 - Keep these instructions.
@@ -896,7 +896,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 The company's products have obtained the NCC low-power radio frequency equipment verification certificate according to the new warnings of "Low-power radio frequency equipment technical specifications" as follows: "The low-power radio frequency equipment that has obtained the verification certificate shall not be changed by the company, firm or user without approval. Frequency, increase power, or change the features and functions of the original design. The use of low-power radio frequency equipment shall not affect flight safety and interfere with legal communications; continue to use.
 
-![safety-symbol-trash.png](UAFX%20Del-Verb%20Ambience%20Companion%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-del-verb-ambience-companion-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--fdf21805fdf5a635.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

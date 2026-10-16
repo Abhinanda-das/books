@@ -14,7 +14,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sp-earlydays"
 ---
 
-![обложка|156](<SP in the Early Days/обложка.jpeg>)
+![обложка|156](<../attachments/sp-in-the-early-days--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--fd494e016ab89b83.jpeg>)
 
 With Srila Prabhupada in early days is a collection of letters written to Satsvarupa Dasa Goswami by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada and his commentary upon them. This book, volume 1 in a series, discusses the letters he received between 1966-1968. Because Srila Prabhupada was always present with his disciples at 26 Second Avenue in 1966, his letters don’t actually begin until 1967. Therefore, he has simply told some highlights from their service in separation, and they begin (as a letter written to all his New York disciples) on January 19, 1967, after he had left for San Francisco.
 

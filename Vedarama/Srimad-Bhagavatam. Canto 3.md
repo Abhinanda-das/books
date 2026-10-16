@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/sb-3"
 ---
 
-![обложка|156](<Srimad-Bhagavatam. Canto 3/обложка.jpeg>)
+![обложка|156](<../attachments/srimad-bhagavatam.-canto-3--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--19c14b87abec1483.jpeg>)
 
 Canto Three, “The Status Quo,” tells of Vidura’s pilgrimage to holy places and his meeting with an ecstatic Uddhava, from whom he hears of Krsna’s departure. Uddhava later meets Maitreya and hears from him about creation. Also told in this canto are the births of Hiranyakasipu and Hiranyaksa and Hiranyaksa's death at the hands of Varahadeva. Kardama Muni and Devahuti marry, and their divine son, Kapiladeva, teaches devotional Sankhya philosophy, including an analysis of the material world and how to become liberated from it.
 

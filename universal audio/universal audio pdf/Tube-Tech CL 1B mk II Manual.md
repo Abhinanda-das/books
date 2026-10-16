@@ -7,7 +7,7 @@ word_count: 2694
 ---
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0001-00.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0001-00--3c438913f6d450f5.png>)
 
 
 # **TUBE-TECH CL 1B** 
@@ -15,11 +15,11 @@ word_count: 2694
 Rev. Apr 24, 2019 
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0001-03.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0001-03--76fda6441767f296.png>)
 
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0002-00.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0002-00--6eba2cdd1f06061d.png>)
 
 
 ## **Softube User Manual** 
@@ -89,7 +89,7 @@ _Yours sincerely,_
 _John G. Petersen President, Lydkraft/Tube-Tech_ 
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0004-10.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0004-10--ef7fdc20b580264c.png>)
 
 
 ## **About the CL 1B** 
@@ -103,7 +103,7 @@ SOFTUBE USER’S GUIDE | **5**
 ## **User Interface** 
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0005-02.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0005-02--2617610c86babe0a.png>)
 
 
 ~~Gain Te~~ ~~**Gain** control is used to “make up” for the gain loss, which takes place when the~~ unit is compressing. It is placed after the gain reduction circuit and therefore has no influence on the threshold setting. The **Gain** control is continuously variable from off to +30 dB. 
@@ -185,7 +185,7 @@ Compression needed: 4 -5 dB Attack/Release Select: MANUAL Attack: 2 o’clock Re
 **8** | TUBE-TECH CL 1B & CL 1B MK II COMPRESSORS 
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0008-01.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0008-01--a3ab126ec0927167.png>)
 
 
 ## **CL 1B Mk II** 
@@ -229,15 +229,15 @@ Enable Enable/Activate the plug-in. Set to off for bypass.
 Setup Changes global options for all instances of that plug-in. 
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0009-10.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0009-10--f1fa452d47404439.png>)
 
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0009-11.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0009-11--c426210c343b11db.png>)
 
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0009-12.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0009-12--26b49f8e21ad1acd.png>)
 
 
 About Box Opens the “About” Box with version info. 
@@ -251,7 +251,7 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 “About” Box Value Display 
 
 
-![](<Tube-Tech CL 1B mk II Manual_assets/Tube-Tech_CL_1B_mk_II_Manual.pdf-0009-18.png>)
+![](<../../attachments/tube-tech-cl-1b-mk-ii-manual_assets--tube-tech_cl_1b_mk_ii_manual.pdf-0009-18--ebba07aae181a008.png>)
 
 
 **10 | GENERAL SETTINGS** 

@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/pe"
 ---
 
-![обложка|156](<Puranic Encyclopaedia/обложка.jpeg>)
+![обложка|156](<../attachments/puranic-encyclopaedia--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c12a5660e7d3b001.jpeg>)
 
 This voluminous work, a store-house of information about the Epics, Puranas and allied literature, was originally composed and published in Malayalam. It constituted the results of the author's devoted study and research extending over fourteen years. This English version of the same is to meet the growing demand of scholars interested in the study of Puranas. The material compiled is arranged systematically. Citations have been inserted in support of stated facts; at places they have been substituted by references. Obsolete and obscure words, denoting objects such as a particular tree or plant have been explained by their scientific or vernacular equivalents. All modern critical apparatus has been utilized in the preparation of this comprehensive work.
 

@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/tqe"
 ---
 
-![обложка|156](<Quest for Enlightenment/обложка.jpeg>)
+![обложка|156](<../attachments/quest-for-enlightenment--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--b762b033b4184ddb.jpeg>)
 
 The Quest for Enlightenment is a collection of essays, transcribed conversations, and transcribed lectures by His Divine Grace A.C. Bhaktivedanta Swami Prabhupada on a wide variety of subjects:
 

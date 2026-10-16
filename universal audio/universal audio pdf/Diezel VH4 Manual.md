@@ -9,7 +9,7 @@ word_count: 4536
 1 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0001-01.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0001-01--60decb66687f2bfc.png>)
 
 
 ## **The iconic, first Diezel amp!** 
@@ -33,7 +33,7 @@ On top of this you find no less than 120 advanced impulse reponses created at Br
 **3** 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0004-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0004-00--6b7f29bb26b01c39.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -65,7 +65,7 @@ The Diezel VH4 plug-in was developed with the Apollo series interfaces in mind a
 4 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0005-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0005-00--944c651ff6a3021b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -89,7 +89,7 @@ It’s concept is heavy rhythm guitar. The distortion is noticeably tighter than
 5 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0006-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0006-00--626a1832d69e4484.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -115,7 +115,7 @@ The Deep control is an active bass control for the power amp that adds low end p
 6 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0007-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0007-00--1956f1bfcc9888f5.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -145,7 +145,7 @@ Continuous knob, 0db to 100db. The output level of your amplifier will be reduce
 7 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0008-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0008-00--a53d4e1f85b9d59e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -185,7 +185,7 @@ With the Tight filter you can cut Low frequencies of either the DI guitar signal
 8 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0009-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0009-00--cb5010faf1748a54.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -231,7 +231,7 @@ Both buttons can be pressed repeatedly as long as the maximum delay time of 400m
 9 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0010-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0010-00--90e50e3fec0b4330.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -265,7 +265,7 @@ In the past two decades Brainworx owner Dirk Ulrich has produced and recorded wi
 10 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0011-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0011-00--c6dc3f9ddefa791b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -291,7 +291,7 @@ Browse through the Recording Chains by either using the pull-down menu of the Re
 11 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0012-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0012-00--f7ce2cef2c742638.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -323,7 +323,7 @@ With the Bypass Pre switch you can switch off the Diezel VH4 preamp completely, 
 12 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0013-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0013-00--3de6c88aeba26edb.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -355,7 +355,7 @@ As with all Diezel cabinets, oversized 12-gauge speaker wire is soldered between
 13 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0014-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0014-00--2c00d77c820b5b58.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -401,7 +401,7 @@ The 120W Orange Amplifiers PPC212-C guitar speaker cabinet is crafted using 13-p
 **5** 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0015-05.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0015-05--05ad37808a998f55.png>)
 
 
 ## ~~**Top Toolbar**~~ 
@@ -443,7 +443,7 @@ Information about the development of the plugin.
 15 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0016-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0016-00--c2a015ed97830945.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -479,11 +479,11 @@ Combine the Diezel VH4 amps with other plugins (dynamics, effects, room simulati
 16 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0017-00.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0017-00--1820126a461c34e1.png>)
 
 
 
-![](<Diezel VH4 Manual_assets/Diezel_VH4_Manual.pdf-0017-01.png>)
+![](<../../attachments/diezel-vh4-manual_assets--diezel_vh4_manual.pdf-0017-01--ade96670f739c00c.png>)
 
 
 Plug in, Rock out!   - **www.brainworx.audio** 

@@ -8,7 +8,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/btg13"
 ---
 
-![обложка|156](<Back to Godhead Magazine #13, June, 1967/обложка.jpeg>)
+![обложка|156](<../attachments/back-to-godhead-magazine-13-june-1967--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--4ed4fab6921e5f20.jpeg>)
 
 # Back to Godhead Magazine #13, June, 1967
 

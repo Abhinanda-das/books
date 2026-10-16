@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ph-rsc"
 ---
 
-![обложка|156](<Philosophy and Religion of Sri Caitanya/обложка.jpeg>)
+![обложка|156](<../attachments/philosophy-and-religion-of-sri-caitanya--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--c017af4c755ac14d.jpeg>)
 
 # Philosophy and Religion of Sri Caitanya
 

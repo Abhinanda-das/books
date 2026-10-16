@@ -7,7 +7,7 @@ word_count: 46
 ---
 
 
-![](OX-Rig-Presets-2_assets/OX-Rig-Presets-2.pdf-0001-00.png)
+![](../../attachments/ox-rig-presets-2_assets--ox-rig-presets-2.pdf-0001-00--5f9d72940cae051a.png)
 
 
 **----- Start of picture text -----**<br>
@@ -17,15 +17,15 @@ uaudio.com/ox/downloads<br>**----- End of picture text -----**<br>
 # **`Cab & Mic Presets`** 
 
 
-![](OX-Rig-Presets-2_assets/OX-Rig-Presets-2.pdf-0002-00.png)
+![](../../attachments/ox-rig-presets-2_assets--ox-rig-presets-2.pdf-0002-00--2a22fd8e5a847434.png)
 
 
 
-![](OX-Rig-Presets-2_assets/OX-Rig-Presets-2.pdf-0002-01.png)
+![](../../attachments/ox-rig-presets-2_assets--ox-rig-presets-2.pdf-0002-01--8bb5f0f83ffa9dd0.png)
 
 
 
-![](OX-Rig-Presets-2_assets/OX-Rig-Presets-2.pdf-0002-02.png)
+![](../../attachments/ox-rig-presets-2_assets--ox-rig-presets-2.pdf-0002-02--d64bb4c4e0338d70.png)
 
 
 ```
@@ -34,7 +34,7 @@ Rig 1
 ```
 
 
-![](OX-Rig-Presets-2_assets/OX-Rig-Presets-2.pdf-0002-04.png)
+![](../../attachments/ox-rig-presets-2_assets--ox-rig-presets-2.pdf-0002-04--96b97a3fb4258b22.png)
 
 
 ```
@@ -46,15 +46,15 @@ Rig 4
 ```
 
 
-![](OX-Rig-Presets-2_assets/OX-Rig-Presets-2.pdf-0002-07.png)
+![](../../attachments/ox-rig-presets-2_assets--ox-rig-presets-2.pdf-0002-07--6e70b56f22c32f11.png)
 
 
 
-![](OX-Rig-Presets-2_assets/OX-Rig-Presets-2.pdf-0002-08.png)
+![](../../attachments/ox-rig-presets-2_assets--ox-rig-presets-2.pdf-0002-08--7f6e3183dfee18c4.png)
 
 
 
-![](OX-Rig-Presets-2_assets/OX-Rig-Presets-2.pdf-0002-09.png)
+![](../../attachments/ox-rig-presets-2_assets--ox-rig-presets-2.pdf-0002-09--415a95b9a900e6e7.png)
 
 
 ```
@@ -63,6 +63,6 @@ Rig 6
 ```
 
 
-![](OX-Rig-Presets-2_assets/OX-Rig-Presets-2.pdf-0002-11.png)
+![](../../attachments/ox-rig-presets-2_assets--ox-rig-presets-2.pdf-0002-11--b59c139a7d0b42ff.png)
 
 

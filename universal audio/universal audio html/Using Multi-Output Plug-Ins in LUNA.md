@@ -34,19 +34,19 @@ You can add as many mixer channels as your creative needs require.
  
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/a72eecc3ae59d9d8c81df24de99ea38d79ca4dcc.png)
+![](../../attachments/using-multi-output-plug-ins-in-luna_assets--a72eecc3ae59d9d8c81df24de99ea38d79ca4dcc--0435b6a22eb9fe4b.png)
 </figure>
 
 *Multi-output plug-in channels in a multi-output plug-in* 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/c8b4dedcdfef8dbc8640518e11aba32f66349b12.png)
+![](../../attachments/using-multi-output-plug-ins-in-luna_assets--c8b4dedcdfef8dbc8640518e11aba32f66349b12--6d678900efbccea8.png)
 </figure>
 
 *Multi-output plug-in channels in the LUNA timeline*
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/0d99a481fb7b2170596c67d40e9400f7515c470c.png)
+![](../../attachments/using-multi-output-plug-ins-in-luna_assets--0d99a481fb7b2170596c67d40e9400f7515c470c--14041330ce7c5548.png)
 </figure>
 
 *Multi-output plug-in channels in the LUNA mixer*
@@ -61,15 +61,15 @@ You can very simply add multiple channels from inside a multi-output plug-in.
 2.  In the plug-in window, If MULTI-OUT MIXER is not highlighted, click it to open the multi-out mixer at the top of the plug-in window.
 3.  Click the plus symbol (**+**) to the left of output 1-2 to add more channels.\
     \
-     ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/023bc18990c862b74c2d2333c981b39a34c606fc.png)
+     ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--023bc18990c862b74c2d2333c981b39a34c606fc--a8573bdb0b0be8df.png)
 4.   The Add Multi-Output floating window opens.\
     \
-     ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/703e2bbd646bc951193a203fef805139945760f9.png)
+     ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--703e2bbd646bc951193a203fef805139945760f9--94877e11305855f4.png)
 5.  Select the format for the channels to add. Some plug-ins only allow stereo channels, and some include the ability to create both mono and stereo channels. If you are creating both mono and stereo channels, you must add them separately. 
 6.  Specify the number of tracks to create.
 7.  Type a name for the channel (for example, "drums" or "strings"). The names for each channel created are prepended with this name.
 8.  Click More Settings to configure more settings for the multi-out channels you create.\
-    ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/b7b3ea25eefb30cc7d339579cc58ea1edaffa445.png)
+    ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--b7b3ea25eefb30cc7d339579cc58ea1edaffa445--0ad043f1a188a382.png)
 9.  If desired, select a multi-track tape machine and a Console to automatically add on each channel.
 10. In More Settings, to choose which multi-out channel to create as the first track, select the channel from the Multi-Out list. 
 11. In More Settings, to choose the MIDI output channel for created channels, choose a channel from the MIDI Out list. 
@@ -79,7 +79,7 @@ You can very simply add multiple channels from inside a multi-output plug-in.
 New plug-in channels appear in the MULTI-OUT MIXER area, and separate tracks are created in LUNA for each multi-out channel.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/b3c30ecaf5e42feec48fe6a401365178e694822c.png)
+![](../../attachments/using-multi-output-plug-ins-in-luna_assets--b3c30ecaf5e42feec48fe6a401365178e694822c--acc621c8696573bd.png)
 </figure>
 
  
@@ -94,15 +94,15 @@ New plug-in channels appear in the MULTI-OUT MIXER area, and separate tracks are
 2.  In the LUNA mixer, right-click or Ctrl-click on the name of the channel with the multi-output plug-in.
 3.  From the menu, choose Add Multi-Output.\
     \
-    ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/c6540159582459e762477ab6b82e04eb86f78249.png)
+    ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--c6540159582459e762477ab6b82e04eb86f78249--521dfb42b79d1e87.png)
 4.  The Add Multi-Output floating window opens.\
-    ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/703e2bbd646bc951193a203fef805139945760f9.png)\
+    ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--703e2bbd646bc951193a203fef805139945760f9--94877e11305855f4.png)\
      
 5.  Select the format for the channels to add. Some plug-ins only allow stereo channels, and some include the ability to create both mono and stereo channels. If you are creating both mono and stereo channels, you must add them separately. 
 6.  Specify the number of tracks to create.
 7.  Type a name for the channel (for example, "drums" or "strings"). The names for each channel created are prepended with this name.
 8.  Click More Settings to configure more settings for the multi-out channels you create.\
-    ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/b7b3ea25eefb30cc7d339579cc58ea1edaffa445.png)
+    ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--b7b3ea25eefb30cc7d339579cc58ea1edaffa445--0ad043f1a188a382.png)
 9.  If desired, select a multi-track tape machine and a Console to automatically add on each channel.
 10. In More Settings, to choose which multi-out channel to create as the first track, select the channel from the Multi-Out list. 
 11. In More Settings, to choose the MIDI output channel for created channels, choose a channel from the MIDI Out list. 
@@ -120,7 +120,7 @@ In general, multi-output plug-ins include a mixer or other method to assign audi
 For example, in Toontrack's EZ Drummer, on the Mixer page, you click the output for a mixer channel and select an output pair. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/08d9acbe9ecce1640f413a506e065768b1de513d.png)
+![](../../attachments/using-multi-output-plug-ins-in-luna_assets--08d9acbe9ecce1640f413a506e065768b1de513d--bff80d8ea0a38a8a.png)
 </figure>
 
 Refer to your plug-in documentation for more information on how to assign channels to additional outputs within the plug-in. 
@@ -148,12 +148,12 @@ There are two main rules that distinguish multi-output tracks from standard trac
 ## Multi-output track operations
 
 - To rename a channel within a plug-in, double-click the channel name, or right-click / Control-click the channel name, then choose Rename. Type a new name and any comments, then press Return, or click the X to close the dialog.\
-  ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/c24b158f88ad34c17ea9958b34a946b6335a11d5.png)
+  ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--c24b158f88ad34c17ea9958b34a946b6335a11d5--0b8ad65ec2ac33e2.png)
 - To delete a channel, right-click or Control-click the channel name, then choose Delete.\
   \
-  ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/b34aa33cf3275a6ed85499b15af92f0735d45918.png)
+  ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--b34aa33cf3275a6ed85499b15af92f0735d45918--ce47f89f338a90c3.png)
 - To reorder within the plug-in view, click and drag a channel.\
-  ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/b07ec7877ca3138b58811aa5ed80196abeccb8d0.png)
+  ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--b07ec7877ca3138b58811aa5ed80196abeccb8d0--a3cc78ffc3faad8b.png)
 
 ------------------------------------------------------------------------
 
@@ -168,7 +168,7 @@ There are two main rules that distinguish multi-output tracks from standard trac
 
 1.  With the multi-out mixer displayed, display the MIDI options by clicking the icon below the plus symbol.\
     \
-     ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/bcc4d49389679122a4765ba6988ddc5d347396d8.png)
+     ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--bcc4d49389679122a4765ba6988ddc5d347396d8--4065e9e4bdc63591.png)
 2.  To select a MIDI input for a channel, click the MIDI IN button. In the MIDI IN browser, select the MIDI channel.
 3.  To select a MIDI output for a channel,In the MIDI OUT browser, select the MIDI channel. Usually, this is listed under the name of the track (e.g. INSTRUMENT). You may have to scroll down to find the MIDI Output channels for the instrument. 
 
@@ -180,28 +180,28 @@ In the following examples, we use the Kontakt instrument, but every multi-timbra
 
 1.  Add a Kontakt plug-in to an instrument track in LUNA. 
 2.  In Kontakt, assign the patches you want to include in your multi-out instrument.\
-    ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/72e7735aad3c1113d2d22898a4ebaaa3feb5fad7.png)\
+    ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--72e7735aad3c1113d2d22898a4ebaaa3feb5fad7--8c8d450d10376fe7.png)\
      
 3.  If Outputs are not shown, from the Kontakt Workspace Management menu, select Outputs.\
-    ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/d79eced4b0dc1142040d94a0500597f964d639ee.png)\
+    ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--d79eced4b0dc1142040d94a0500597f964d639ee--fe1cc6ca50ed8187.png)\
      
 4.  Next to Outputs, click Presets / Batch Configuration. From the menu, choose Batch functions, then choose Clear output section and create one individual channel for each loaded instrument.\
     \
-     ![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/752230caa209f6f5e0074fdf3ba1a82a24f01a78.png)
+     ![](../../attachments/using-multi-output-plug-ins-in-luna_assets--752230caa209f6f5e0074fdf3ba1a82a24f01a78--d68abf2a41b83249.png)
 5.  Kontakt assigns each loaded instrument patch to a separate output pair. 
 6.  Follow the instructions in [Adding multiple output channels from within a plug-in](#h_01J6ZQTXY2HZMFRKJ127Y1YJVC) to add the instrument channels in LUNA. 
 
  
 
 <figure class="wysiwyg-image">
-![](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/74c24860b4d61415bf4a146769396523c287adbd.png)
+![](../../attachments/using-multi-output-plug-ins-in-luna_assets--74c24860b4d61415bf4a146769396523c287adbd--8dcb358a58742a97.png)
 </figure>
 
 *Kontakt configured for multi-channel output*
 
  
 
-![multi-out-kontakt-timeline.png](Using%20Multi-Output%20Plug-Ins%20in%20LUNA_assets/6a8e40355a8e45fee62f3361ec3bb4770d857285.png)
+![multi-out-kontakt-timeline.png](../../attachments/using-multi-output-plug-ins-in-luna_assets--6a8e40355a8e45fee62f3361ec3bb4770d857285--792b5cf873a4f648.png)
 
 *Kontakt multi-channel tracks with MIDI in the LUNA timeline*
 

@@ -13,7 +13,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/pop"
 ---
 
-![обложка|156](<Path of Perfection/обложка.jpeg>)
+![обложка|156](<../attachments/path-of-perfection--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5b7c84f4684138f6.jpeg>)
 
 In February 1969 Srila Prabhupada gave a series of lectures on the yoga system as it is discussed in the sixth and eighth chapters of the Bhagavad-gita. The perfect life - the life that achieves the goal of yoga - is dynamic and full of activity, Srila Prabhupada says. It connects us with the Supreme Spirit in straightforward, practical ways and resonates with truth. These absorbing talks show us how the Gita's timeless teachings can help us walk the path of perfection.
 

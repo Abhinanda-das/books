@@ -76,7 +76,7 @@ LUNA can run in Apollo mode, Core Audio mode, or ASIO mode. The mode is displaye
 3.  From the Device menu, choose Apollo, Core Audio, or ASIO.
 
 <figure class="wysiwyg-image">
-![audio-settings-popover-apollo.png](Configuring%20LUNA%20Settings_assets/e3f01e7fc1fca5f551abb8b8d7203ad93055e68a.png)
+![audio-settings-popover-apollo.png](../../attachments/configuring-luna-settings_assets--e3f01e7fc1fca5f551abb8b8d7203ad93055e68a--f4927a32aa627594.png)
 </figure>
 
 ------------------------------------------------------------------------
@@ -92,7 +92,7 @@ LUNA can run a session at any supported hardware sample rate. The sample rate is
 3.  From the Rate menu, choose the sample rate.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![audio-settings-popover-rate.png](Configuring%20LUNA%20Settings_assets/eb2a0ae55b658a400b07a58cf7f5781950e3eab5.png)
+![audio-settings-popover-rate.png](../../attachments/configuring-luna-settings_assets--eb2a0ae55b658a400b07a58cf7f5781950e3eab5--51c0cebafb26665f.png)
 </figure>
 
 <div class="wysiwyg-text-align-center" title="Attachment">
@@ -171,10 +171,10 @@ The cue labels vary per Apollo device model, as described below.
 
 - **Apollo rack models and Apollo x4 (Gen 1 & 2)–** The cues are labeled CUE 1, CUE 2, CUE 3, and CUE 4 respectively.\
   \
-  ![cue-outputs-x8p.png](Configuring%20LUNA%20Settings_assets/103314af6a18409d8c5b371bb1bd815526b7b49a.png)
+  ![cue-outputs-x8p.png](../../attachments/configuring-luna-settings_assets--103314af6a18409d8c5b371bb1bd815526b7b49a--f77831129e0e4f8c.png)
 - **Apollo Twin, Twin X (Gen 1 & 2) –** With Apollo Twin, the two cues are labeled HP (headphone) and LINE 3/4 (line outputs 3 and 4) to reflect the available hardware outputs on the device.\
   \
-  ![cue-outputs-twin.png](Configuring%20LUNA%20Settings_assets/e893c276ca9737c08b1c07deab4091e8d0908fef.png)
+  ![cue-outputs-twin.png](../../attachments/configuring-luna-settings_assets--e893c276ca9737c08b1c07deab4091e8d0908fef--a06d2db279b3e11a.png)
 
 ## Cue components
 
@@ -184,7 +184,7 @@ The complete cue system comprises the cue mix buses, the cue sends, and the cue 
 
 - **Cue Sends:** The cue sends adjust the individual channel signals going into the cue mix bus. Each input channel and aux return contains individual level, pan, **\*** and mute controls for each active cue mix bus. All cue sends are pre-fader and pre-mute so they are not affected by adjustments to the main monitor mix. Note that if two input channels are stereo-linked, the cue sends on the stereo pair cannot be panned. Sends for stereo channels are hard-panned left and right.\
   \
-  ![cue-mixing.png](Configuring%20LUNA%20Settings_assets/321c9a5ed609bcfdb24e90931b7eb0abd625406b.png)
+  ![cue-mixing.png](../../attachments/configuring-luna-settings_assets--321c9a5ed609bcfdb24e90931b7eb0abd625406b--60f94382f3daf50f.png)
 
    
 
@@ -359,7 +359,7 @@ To set display options, open the LUNA Sidebar, and click Settings.
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![user-panel-annotated.png](Configuring%20LUNA%20Settings_assets/64a0f3c26347190f99e34d41ae798e52cd27dc54.png)
+![user-panel-annotated.png](../../attachments/configuring-luna-settings_assets--64a0f3c26347190f99e34d41ae798e52cd27dc54--c9382eb47f05059c.png)
 
 </div>
 
@@ -435,7 +435,7 @@ From the Monitor strip, you can also open the Control Room strip, the Monitor Co
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![monitor-column.png](Configuring%20LUNA%20Settings_assets/14462772e9f68c4c33c659f8f045a03f78162d9c.png)
+![monitor-column.png](../../attachments/configuring-luna-settings_assets--14462772e9f68c4c33c659f8f045a03f78162d9c--0499f98654323dbf.png)
 
 </div>
 
@@ -443,7 +443,7 @@ From the Monitor strip, you can also open the Control Room strip, the Monitor Co
 
 In the View section, click the Other Views icon and choose Mon, or from the app menu, choose View \> Section \> Monitor.
 
-![other-views-mon.png](Configuring%20LUNA%20Settings_assets/18f122f65ab11122567cfea995ad313cdabff0a4.png)
+![other-views-mon.png](../../attachments/configuring-luna-settings_assets--18f122f65ab11122567cfea995ad313cdabff0a4--a5eba1cec186dba6.png)
 
 ## Viewing the Control Room strip
 
@@ -453,7 +453,7 @@ By default, the control room column is not visible. To show the column, click Co
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![control-room-luna.png](Configuring%20LUNA%20Settings_assets/30ef497dd317b348c45a47d537f082bc1e1a0e02.png)
+![control-room-luna.png](../../attachments/configuring-luna-settings_assets--30ef497dd317b348c45a47d537f082bc1e1a0e02--9363d8fa5037d76d.png)
 
 </div>
 
@@ -489,7 +489,7 @@ Use global controls to toggle LUNA settings globally.
 
 <div class="wysiwyg-text-align-center" title="Attachment">
 
-![global-controls.png](Configuring%20LUNA%20Settings_assets/118e4ef405e96f69a7e19ef8e2ae30a532f880b0.png)
+![global-controls.png](../../attachments/configuring-luna-settings_assets--118e4ef405e96f69a7e19ef8e2ae30a532f880b0--15ab4439d56f6491.png)
 
 </div>
 
@@ -530,11 +530,11 @@ In addition, the following informational settings are shown:
 
 - In Apollo mode, UAD-2 DSP, Program, and Memory resource meters (identical to those on the the UAD Meter & Control Panel)
 
-![audio-settings-popover-apollo.png](Configuring%20LUNA%20Settings_assets/e3f01e7fc1fca5f551abb8b8d7203ad93055e68a.png)
+![audio-settings-popover-apollo.png](../../attachments/configuring-luna-settings_assets--e3f01e7fc1fca5f551abb8b8d7203ad93055e68a--f4927a32aa627594.png)
 
 *Audio Settings popover (Apollo mode)*
 
-![audio-settings-popover-volt.png](Configuring%20LUNA%20Settings_assets/91b73159c8db98cb7794c723189c3647f0a78d57.png)
+![audio-settings-popover-volt.png](../../attachments/configuring-luna-settings_assets--91b73159c8db98cb7794c723189c3647f0a78d57--75691e194f1e96a6.png)
 
 *Audio Settings popover (Core Audio with a Volt interface)*
 

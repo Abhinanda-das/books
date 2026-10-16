@@ -6,15 +6,15 @@ tool_version: 1.10.2
 word_count: 10788
 ---
 
-![](<Apollo Hardware Manual_assets/_page_0_Picture_0.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_0_picture_0--2c330fd495a1908d.jpeg>)
 
-![](<Apollo Hardware Manual_assets/_page_0_Picture_1.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_0_picture_1--6fea50bff654235d.jpeg>)
 
 # **Apollo FireWire Hardware Manual**
 
 Manual Version 171101
 
-![](<Apollo Hardware Manual_assets/_page_0_Picture_4.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_0_picture_4--4c782d40884ac76a.jpeg>)
 
 # A Letter from Bill Putnam Jr.
 
@@ -253,7 +253,7 @@ Universal Audio provides free technical support to registered product owners. Su
 
 This section describes the features and functionality of all controls and visual elements on the Apollo front panel. Note that all front panel functions, except the headphone volume knobs and power switch, can be controlled remotely with the included Console software application.
 
-![](<Apollo Hardware Manual_assets/_page_9_Picture_2.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_9_picture_2--5a77ea2a7437191c.jpeg>)
 
 ## (1) Hi-Z Inputs 1 & 2
 
@@ -349,7 +349,7 @@ When digital clipping occurs, the red "CLIP" LED illuminates. Avoid digital clip
 
 ### Front Panel (continued)
 
-![](<Apollo Hardware Manual_assets/_page_12_Picture_1.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_12_picture_1--78bb3f630ab2adc7.jpeg>)
 
 ### (13) Power Indicator (UA Logo)
 
@@ -417,7 +417,7 @@ This switch applies power to Apollo. When the unit is powered on, the Universal 
 
 # Analog I/O
 
-![](<Apollo Hardware Manual_assets/_page_14_Figure_2.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_14_figure_2--15e496046fa12a68.jpeg>)
 
 # (1) Monitor Outputs 1 & 2
 
@@ -453,7 +453,7 @@ Adjacent channel pairs can be linked for easy stereo adjustments. Stereo links f
 
 # Digital I/O
 
-![](<Apollo Hardware Manual_assets/_page_15_Figure_1.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_15_figure_1--2dc0bdc20d03875d.jpeg>)
 
 ### (5) Power Input
 
@@ -601,7 +601,7 @@ The example shows an electric guitar connected to the Hi-Z input of channel 1 an
 - Mic/Line switch for channel 2 is set to "Mic"
 - Monitor outputs are connected to powered monitors (or an amp+speaker system)
 
-![](<Apollo Hardware Manual_assets/_page_19_Picture_15.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_19_picture_15--6e5fa3487a39a99d.jpeg>)
 
 # **Typical Setup**
 
@@ -615,7 +615,7 @@ The example shows an electric guitar and electric bass connected to the Hi-Z inp
 - Unique mixes can be sent to each headphone output for "more me" during tracking
 - If connecting to a Thunderbolt computer via the Thunderbolt Option Card, the FireWire connection shown here would not be used
 
-![](<Apollo Hardware Manual_assets/_page_20_Picture_7.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_20_picture_7--652045ce5cdc9b9c.jpeg>)
 
 # **Advanced Setup**
 
@@ -632,7 +632,7 @@ A digital recorder is connected to the S/PDIF outputs and a tuner is connected t
 - Apollo is the master clock device; the 4-710d clock source is set to external word clock and the 4-710d Termination switch is engaged (Alternately, the 4-710d could be used as the master clock by setting the 4-710d to internal clock, setting Apollo to external ADAT clock, and eliminating the word clock cable)
 - If connecting to a Thunderbolt computer via the Thunderbolt Option Card, the FireWire connection shown here would not be used
 
-![](<Apollo Hardware Manual_assets/_page_21_Picture_9.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_21_picture_9--803d8ccaf6082700.jpeg>)
 
 Computer
 
@@ -680,15 +680,15 @@ The most common FireWire devices are available in two speeds: FireWire 400 (IEEE
 
 FireWire 800 and FireWire 400 devices use different connectors, as illustrated below. This helps to differentiate between the two device speeds; the connectors are not interchangeable.
 
-![](<Apollo Hardware Manual_assets/_page_22_Picture_15.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_22_picture_15--c7500e9e8f4ae6ab.jpeg>)
 
 FW 800 (9-pin)
 
-![](<Apollo Hardware Manual_assets/_page_22_Picture_17.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_22_picture_17--29eb641c75b9956b.jpeg>)
 
 FW 400 (6-pin)
 
-![](<Apollo Hardware Manual_assets/_page_22_Picture_19.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_22_picture_19--7e02282bdd6f4a9b.jpeg>)
 
 FW 400 (4-pin)
 
@@ -710,11 +710,11 @@ Apollo can function as a FireWire repeater, by using the unused port on the unit
 
 The examples below show a few of the many interconnection possibilities using daisy chains and repeaters.
 
-![](<Apollo Hardware Manual_assets/_page_23_Picture_4.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_23_picture_4--d449893dfc13c6de.jpeg>)
 
-![](<Apollo Hardware Manual_assets/_page_23_Picture_5.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_23_picture_5--1e601283f354cc9c.jpeg>)
 
-![](<Apollo Hardware Manual_assets/_page_23_Picture_7.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_23_picture_7--9c4ca601a1b99e78.jpeg>)
 
 ### **Mixing FireWire Speeds**
 
@@ -724,7 +724,7 @@ Although FireWire 400 and FireWire 800 devices can be connected to the same Fire
 
 FireWire 800 devices are backwards compatible and can be connected to a FireWire 400 bus using a 9-pin to 6-pin FireWire cable or adapter. However in this scenario any 800 megabit-capable devices on the bus (including Apollo) will operate at a maximum of 400 megabits because FireWire bandwidth cannot exceed the maximum bus speed of the host computer.
 
-![](<Apollo Hardware Manual_assets/_page_24_Picture_4.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_24_picture_4--d8f959721969dcfa.jpeg>)
 
 ### FireWire 400 devices on a FireWire 800 bus
 
@@ -736,7 +736,7 @@ It is possible to configure a FireWire bus to run at both FireWire 400 and FireW
 
 The example below shows the correct method of interconnecting FireWire 800 and FireWire 400 devices to a FireWire 800 computer bus. Any mixture daisy chains, repeaters, and/or tree chains may be used, as long as all the FireWire 400 devices are placed after all the FireWire 800 devices.
 
-![](<Apollo Hardware Manual_assets/_page_24_Figure_10.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_24_figure_10--7bb71bc9982d77e9.jpeg>)
 
 This FireWire bus runs optimally at both 800 megabits and 400 megabits because the FireWire 400 device is located AFTER the FireWire 800 devices in the setup.
 
@@ -886,7 +886,7 @@ All specifications are typical performance unless otherwise noted, tested under 
 | Getting Started URL Card                 |                                                |
 |                                          |                                                |
 
-![](<Apollo Hardware Manual_assets/_page_29_Figure_1.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_29_figure_1--b18b02e1a8c0c68f.jpeg>)
 
 # **Troubleshooting**
 
@@ -1006,4 +1006,4 @@ Word Clock Termination Switch,
 
 18
 
-![](<Apollo Hardware Manual_assets/_page_35_Picture_0.jpeg>)
+![](<../../attachments/apollo-hardware-manual_assets--page_35_picture_0--7b96cf95ec221d03.jpeg>)

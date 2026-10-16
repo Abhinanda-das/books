@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ms-rdg"
 ---
 
-![обложка|156](<Splendid Instructions to the Mind/обложка.png>)
+![обложка|156](<../attachments/splendid-instructions-to-the-mind--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--16a591c8e9220562.png>)
 
 # Splendid Instructions to the Mind
 

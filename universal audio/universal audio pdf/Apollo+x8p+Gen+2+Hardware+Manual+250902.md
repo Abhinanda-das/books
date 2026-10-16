@@ -7,11 +7,11 @@ word_count: 14232
 ---
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0001-00.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0001-00--3c351846c4d41ea6.png)
 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0001-01.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0001-01--e7cf288668f80f07.png)
 
 
 ## Thunderbolt 3 Audio Interface 
@@ -19,11 +19,11 @@ word_count: 14232
 with HEXA Core Realtime UAD Processing 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0001-04.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0001-04--0d4d9d39f8e5cee1.png)
 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0001-05.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0001-05--b7644369e29347ce.png)
 
 
 ## **Apollo x8p Gen 2 Hardware Manual** 
@@ -31,7 +31,7 @@ with HEXA Core Realtime UAD Processing
 Manual Version 250902 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0001-08.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0001-08--a5f30ec2151cd936.png)
 
 
 www.uaudio.com 
@@ -53,7 +53,7 @@ Please feel free to reach out to us via our website www.uaudio.com, and via our 
 Sincerely, 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0002-08.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0002-08--5a26cd48fc615a5c.png)
 
 
 Bill Putnam Jr. 
@@ -131,7 +131,7 @@ Combine Apollo x8p’s HEXA Core DSP with native processing from your host compu
 Build your studio by linking up to four Thunderbolt Apollo interfaces for up to 128 channels of premium I/O in your DAW, and control it all from your desktop using Apollo Twin or x4. So no matter how far your music takes you, an Apollo will always be in reach. 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0005-08.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0005-08--0554751f9820a65c.png)
 
 
 _includes the Essentials+ or Studio+ Editions. Other UAD plug-ins available separately. All trademarks are property of their respective owners._ 
@@ -293,7 +293,7 @@ Introduction
 - Getting Started URL card 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0008-21.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0008-21--049ce45efe79ea46.png)
 
 
 Apollo x8p Gen 2 Hardware Manual 
@@ -349,7 +349,7 @@ Note that UAD plug-in instantiations in UAD Console are not retained on power do
 _Note: Standalone use is unavailable when cascading multiple Apollo units._ 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0010-08.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0010-08--3c32c2ccf6d483de.png)
 
 
 Apollo x8p Gen 2 Hardware Manual 
@@ -437,7 +437,7 @@ This section describes the features and functionality of all controls and visual
 _Tip: All front panel functions (except the METER switch, headphone volume knobs, and power switch) can be controlled remotely with the included UAD Console software application. Changes made with the front panel controls are mirrored in the UAD Console application, and vice versa._ 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0013-03.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0013-03--b9d210bda479c849.png)
 
 
 **----- Start of picture text -----**<br>
@@ -649,7 +649,7 @@ Green – LINE INPUT GAIN is OFF. The preamp circuitry is bypassed and the line 
 ## Unison Input Indicators 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0018-11.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0018-11--a5765a23b6e70c1d.png)
 
 
 The U1 indicator is lit when a Unison UAD plug-in is active on the currently selected preamp channel. Unison technology is activated by placing a Unison UAD plug-in into the dedicated Unison insert for the input channel in the UAD Console application. 
@@ -695,7 +695,7 @@ Apollo x8p Gen 2 Hardware Manual
 Front Panel 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0020-00.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0020-00--1e66cf0bbd327614.png)
 
 
 **----- Start of picture text -----**<br>
@@ -871,7 +871,7 @@ Front Panel
 ## **Rear Panel** 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0024-01.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0024-01--04f91bd468efc637.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1000,7 +1000,7 @@ Rear Panel
 ## Analog I/O 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0028-01.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0028-01--573dddf0340d3c7e.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1182,13 +1182,13 @@ Thunderbolt 3 uses USB-C connections to transfer data and power. However, USB-C 
 Does your USB-C connector support Thunderbolt 3? 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0033-05.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0033-05--8d53034442fe9379.png)
 
 
 To determine if a USB-C port or cable connector supports Thunderbolt 3, look for the Thunderbolt icon. The Thunderbolt icon on a USB-C port or cable means the connector supports Thunderbolt 3. Alternately, confirm Thunderbolt 3 compatibility with the device and/or cable manufacturer. 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0033-07.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0033-07--bc444cdf357f5689.png)
 
 
 _Thunderbolt icon on USB-C cable (left) and USB-C port (right)_ 
@@ -1204,7 +1204,7 @@ Interconnections
 The diagram below illustrates an Apollo x8p setup example that could be used for recording an ensemble. ALT monitors are connected for comparing different speakers. 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0034-02.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0034-02--2f9af4d2f6729a83.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1212,7 +1212,7 @@ Instrument 1<br>Headphones 1 Headphones 2<br>Instrument 2<br>PREAMP INPUT INPUT 
 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0034-03.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0034-03--e3299c4ac4eeed10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1234,7 +1234,7 @@ The diagram below illustrates an example of how to interconnect multiple Apollo 
 _Important: For complete details about system operation when multi-unit cascading, see the UAD Console Manual._ 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0035-03.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0035-03--54c06b96cc2b3d90.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1418,7 +1418,7 @@ Apollo x8p Gen 2 Hardware Manual
 38 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0039-00.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0039-00--9f49c13709c6e39b.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1428,7 +1428,7 @@ DIGITAL I/O<br>Connector Type (S/PDIF or ADAT, selectable) Optical TOSLINK JIS F
 Internal, Word Clock, ADAT, S/PDIF 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0039-02.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0039-02--3738e673242a7806.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1444,7 +1444,7 @@ Apollo x8p Gen 2 Hardware Manual
 ## **Block Diagram** 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0040-01.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0040-01--48a97a4ffc9e446d.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1466,7 +1466,7 @@ Apollo x8p’s line inputs and outputs are accessed via 25-pin D-sub female conn
 The pin numbers for female DB25 connectors are shown in the diagram below. When facing the Apollo x8p rear panel, pin 1 is the upper rightmost pin. 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0041-04.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0041-04--fec20fc440739b81.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1480,7 +1480,7 @@ _Apollo x8p female DB25 pin numbers_
 The signals carried on the female DB25 connector pins are listed in the table below. Pinouts are identical for inputs and outputs. 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0041-08.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0041-08--08d1982111366247.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1514,7 +1514,7 @@ Apollo x8p Gen 2 Hardware Manual
 If your Apollo rack unit isn’t behaving as expected, check these common troubleshooting items. If you still experience issues after performing these checks, contact Technical Support. 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0042-02.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0042-02--cca2a71cad77887f.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1557,7 +1557,7 @@ Troubleshooting
 ## **Notices** 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0043-01.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0043-01--f2f3dc5ff0139748.png)
 
 
 ## Important Safety Information 
@@ -1617,7 +1617,7 @@ The product is covered by a limited warranty. For the current terms of such warr
 ## Maintenance 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0044-04.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0044-04--cd08205e96fa0310.png)
 
 
 **CAUTION:** To reduce the risk of electric shock, do not open the unit. 
@@ -1673,7 +1673,7 @@ Any modifications to the unit, unless expressly approved by Universal Audio, cou
 ## Product Label 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0045-08.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0045-08--c6b6a283b3ea7321.png)
 
 
 45 
@@ -1793,7 +1793,7 @@ Technical Support
 Universal Audio 
 
 
-![](Apollo+x8p+Gen+2+Hardware+Manual+250902_assets/Apollo+x8p+Gen+2+Hardware+Manual+250902.pdf-0049-00.png)
+![](../../attachments/apollo-x8p-gen-2-hardware-manual-250902_assets--apollo-x8p-gen-2-hardware-manual-250902.pdf-0049-00--42bdd69aaa6c7cf7.png)
 
 
 www.uaudio.com 

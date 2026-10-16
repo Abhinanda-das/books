@@ -7,7 +7,7 @@ word_count: 9093
 ---
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0001-00.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0001-00--94ac99b7c7030149.png>)
 
 
 **LEGENDS Plexi Super Lead 1959 . Bluesbreaker 1962 . Silver Jubilee 2555 JMP 2203 Plexi Classic** 
@@ -17,7 +17,7 @@ word_count: 9093
 Rev. Aug 09, 2017 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0002-00.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0002-00--845a15909b3e2209.png>)
 
 
 ## **Softube User Manual** 
@@ -111,15 +111,15 @@ Marshall’s first ever combo amp was nicknamed the Bluesbreaker after **Eric Cl
 The Silver Jubilee series hit like a bomb in 1987, and tapped perfectly into the rock sound of that era. Unsurprisingly, guitarists such as **Slash** and **John Frusciante** took the amps to their hearts. The three different channels, flexible EQ and the ability to switch the power amp between pentode/triode operation made it a versatile amp that could go from vibrant cleans to soaring leads by the push of a button. 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0006-07.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0006-07--88c084bbe53b2e20.png>)
 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0006-08.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0006-08--072f1a9ec1e06b6f.png>)
 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0006-09.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0006-09--7909b3ac9dedae49.png>)
 
 
 | **7** 
@@ -139,11 +139,11 @@ MARsHALL LEGENDS plug-ins are “what you see is what you get” products. You s
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Bass Amp Room plug-in as example, but the same goes for all plug-ins. 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0007-08.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0007-08--9eff02a6b95cf6c1.png>)
 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0007-09.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0007-09--1f06f1a26764dcd3.png>)
 
 
 ~~About Box Opens the “About” Box with~~ version info. 
@@ -159,11 +159,11 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 Enable Setup 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0007-16.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0007-16--6511f5938a339933.png>)
 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0007-17.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0007-17--0174bad149979949.png>)
 
 
 **8** | USER INTERFACE 
@@ -315,7 +315,7 @@ By patching the inputs you will get different input gain and different tonality 
 The most common way of patching is going into 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0013-14.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0013-14--aa7d3df30d216bd9.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -323,17 +323,17 @@ Click<br>**----- End of picture text -----**<br>
 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0013-15.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0013-15--6683657a0e657f4e.png>)
 
 
 _**Black cable (guitar) in Input I High input, no patching between channels. Click on the input to select the first patch configuration, or another input to select a different input.**_ 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0013-17.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0013-17--719b626ae9aaa5de.png>)
 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0013-18.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0013-18--031b9c5ac75e4fdc.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -343,7 +343,7 @@ Click<br>**----- End of picture text -----**<br>
 _**Black cable (guitar) in Input I High input, patching between Input I Low and Input II High. This is the standard patch. Click the input again to select the second patch configuration.**_ 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0013-20.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0013-20--c93bcd56e1f98426.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -351,7 +351,7 @@ Click<br>**----- End of picture text -----**<br>
 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0013-21.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0013-21--cecb70ec98650b00.png>)
 
 
 _**Black cable (guitar) in Input I High input, patching between Input I Low and Input II Low. Click the input to remove the patch.**_ 
@@ -403,7 +403,7 @@ The 16 ohms **1960 BHW** cabinet was recorded with a legendary range of micropho
 SOFTUBE USER’S GUIDE | **15** 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0015-01.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0015-01--56e79dd58062b896.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -449,7 +449,7 @@ Slightly more open sound with lots of ambience from the room mic.
 Sets the cabinet and microphone emulation in bypass, so that only the direct sound from the Marshall Plexi amplifier head is heard. This is usually not regarded as a very pleasant sound, but the setting is useful for combining the amplifier with other cabinet/microphone models, such as the ones available in Softube Vintage Amp Room, Bass Amp Room, Metal Amp Room, Half Stack or Bass Amp Room 8x10. In all these plug-ins, the amplifier section can be bypassed. This would be the recommended setting, when combining the Marshall Plexi head with the cabinet in either of those plug-ins. 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0016-18.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0016-18--1e6d903061ec2e91.png>)
 
 
 | **17** 
@@ -515,13 +515,13 @@ presence—a treble boost accomplished by reducing the amount of high frequencie
 Click 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0019-16.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0019-16--131e6f20022c64de.png>)
 
 
 _**Black cable (guitar) in Input I High input, no patching between channels. Click on the input to select the first patch configuration, or another input to select a different input.**_ 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0019-18.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0019-18--9cf0eaa04a21af79.png>)
 
 
 Click 
@@ -529,7 +529,7 @@ Click
 _**Black cable (guitar) in Input I High input, patching between Input I Low and Input II High. This is the standard patch. Click the input again to select the second patch configuration.**_ 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0019-21.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0019-21--7563af1474384d2e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -537,7 +537,7 @@ Click<br>**----- End of picture text -----**<br>
 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0019-22.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0019-22--5258d64956c53e28.png>)
 
 
 _**Black cable (guitar) in Input I High input, patching between Input I Low and Input II Low. Click the input to remove the patch.**_ 
@@ -587,7 +587,7 @@ The channel strip can be opened by clicking the wood side with the green Channel
 SOFTUBE USER’S GUIDE | **21** 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0021-01.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0021-01--2238b0deab032049.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -637,7 +637,7 @@ The functionality of the front panel controls corresponds exactly to that of the
 On/Off and Tremolo Tremolo Loudness I Loudness II Patch Standby Speed Intensity[Presence] Bass Middle Treble High Treble Normal Switching 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0024-11.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0024-11--936e0ee83f396d4b.png>)
 
 
 SOFTUBE USER’S GUIDE | **25** 
@@ -685,7 +685,7 @@ The channel strip can be opened by clicking the right hand wood panel with the g
 **26** | MARSHALL BLUESBREAKER 1962 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0026-01.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0026-01--94b1243711a8661b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -741,7 +741,7 @@ This plug-in model, exclusive for the UAD-2/ Apollo platform, is based on Marsha
 The Silver Jubilee was based on the Marshall JCM800 amplifier, but had an innovative and unusual preamp section which offered higher gain and a somewhat darker and smoother sound compared to the JCM800. The preamp circuit had three gain modes: Clean, Rhythm Clip and Lead. The EQ section also set the Silver Jubilee apart from other Marshall amps with its much wider range of tonal variety, and it was the first Marshall amplifier where the power amp tubes could be switched from their normal pentode operation mode into triode mode. With the power amp tubes working as triodes, the power amp’s output was cut in half, and the power amp distortion was silkier and less aggressive. All of these features have been accurately modeled by Softube in the Marshall Silver Jubilee 2555 plug-in. 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0030-00.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0030-00--091c6921df8b99fc.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -839,7 +839,7 @@ Settings the cabinet to OFF is usually not regarded as a very pleasant sound, bu
 SOFTUBE USER’S GUIDE | **33** 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0033-01.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0033-01--e857376f026dc65e.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -863,7 +863,7 @@ The 2203 became very popular among rock and metal players, and there was hardly 
 The idea for the 2203, and its 50 watt sibling 2204, mainly came out of the demand for an amp with a master volume. A master volume made it possible to get a distorted sound without the ear-splitting sound pressure levels from a non-master volume amp. But the master volume wasn’t only practical in live situations, it expanded the sonic options largely. By keeping the preamp gain down and get most of the distortion from the power amp, you’d get a more 1960’s Marshall sound. But turning the 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0035-06.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0035-06--27bf53f60801838c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -919,7 +919,7 @@ The functionality of the front panel controls corresponds exactly to that of the
 **38** | MARSHALL JMP 2203 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0038-01.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0038-01--f2d684a05b698b7a.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -977,11 +977,11 @@ All presets were made in mono, but intended use is to pan the two mics different
 Using multiple microphones to capture a single sound source, such as this guitar amplifier, can give interesting results but requires some special attention. A phenomenon called phase distortion may occur, which can result in a hollow and metallic sound which may not be desired. Using multiple microphones and panning them away from each other, to the left and right in the stereo image, yields a wide and embracing sound, but may cause problems if the recording is summed to mono. The safest way to obtain a good result is to base the sound setting on a single close microphone for a strong, present and focused image. With this in place, you can experiment further by carefully adding in the other microphone channels. 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0040-07.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0040-07--d59465f25bea0f44.png>)
 
 
 
-![](<Marshall Plexi Classic Manual_assets/Marshall_Plexi_Classic_Manual.pdf-0041-00.png>)
+![](<../../attachments/marshall-plexi-classic-manual_assets--marshall_plexi_classic_manual.pdf-0041-00--5d59804aca0a6190.png>)
 
 
 **Softube AB, S:t Larsgatan 9D, 582 24 Linköping, Sweden. www.softube.com** 

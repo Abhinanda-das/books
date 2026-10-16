@@ -29,7 +29,7 @@ To open the Keyboard Shortcut Editor, choose Help \> Show Keyboard Shortcuts… 
 
 The Keyboard Shortcut Editor is a floating window, so it will float above any open LUNA windows. You can show or hide the Keyboard Shortcut Editor with the Window \> Show/Hide Floating Windows command from the LUNA menus.
 
-![keboard-shortcut-editor.png](Customizing%20LUNA%20Keyboard%20Shortcuts_assets/c9aed8441c0b29f95a824e76dc2fec40835ee7f5.png)
+![keboard-shortcut-editor.png](../../attachments/customizing-luna-keyboard-shortcuts_assets--c9aed8441c0b29f95a824e76dc2fec40835ee7f5--d03474134d44cdcc.png)
 
 *LUNA Keyboard Shortcut Editor*
 
@@ -54,11 +54,11 @@ To search text, type in the Search Bar at the top. The list automatically filter
 - To search special keys (for example, arrow keys or backspace) click the dropdown arrow to the left of the Search Bar’s magnifying glass icon, and choose the key from the menu.
 - To clear your search, click the X in the Search Bar to reset all filters.
 
-<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">![key-shortcuts-search-options-2x.png](Customizing%20LUNA%20Keyboard%20Shortcuts_assets/5a82759d61e9a9f80182a2f387ee6710bf39248b.png)</span>
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">![key-shortcuts-search-options-2x.png](../../attachments/customizing-luna-keyboard-shortcuts_assets--5a82759d61e9a9f80182a2f387ee6710bf39248b--86bc882fec0971c7.png)</span>
 
 *<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Keyboard shortcut search options</span>*
 
-<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">![key-editor-search-categories.png](Customizing%20LUNA%20Keyboard%20Shortcuts_assets/0a60582cddf231972db3765245d045f1c9e79ed7.png)</span>
+<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">![key-editor-search-categories.png](../../attachments/customizing-luna-keyboard-shortcuts_assets--0a60582cddf231972db3765245d045f1c9e79ed7--c6515a407a454a87.png)</span>
 
 *<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Search categories</span>*
 
@@ -98,7 +98,7 @@ To resolve the conflict, click in the Shortcut or Alt Shortcut field and press a
 
 If you want to keep the new key shortcut and change the (original) conflicting shortcut, navigate to (or search for) the conflicting shortcut and change it.
 
-![key-shortcut-conflict.png](Customizing%20LUNA%20Keyboard%20Shortcuts_assets/33133a916c66ca1c3aa0e277b2767c3e25eec49a.png)
+![key-shortcut-conflict.png](../../attachments/customizing-luna-keyboard-shortcuts_assets--33133a916c66ca1c3aa0e277b2767c3e25eec49a--9a7702599f014f76.png)
 
 ### To rename a keyboard shortcut preset
 

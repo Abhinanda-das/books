@@ -11,7 +11,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/un-shbkl"
 ---
 
-![обложка|156](<Hari Bhakti Kalpa Latika The Wish Fulfilling Creeper of Devotional Service to Lord Hari/обложка.jpeg>)
+![обложка|156](<../attachments/hari-bhakti-kalpa-latika-the-wish-fulfilling-creeper-of-devotiona--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1cbd932199d9606c.jpeg>)
 
 # Hari Bhakti Kalpa Latika: The Wish Fulfilling Creeper of Devotional Service to Lord Hari
 

@@ -7,7 +7,7 @@ word_count: 6295
 ---
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0001-00.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0001-00--4a9a84d03f854c65.png>)
 
 
 ## **LEGENDS** 
@@ -17,7 +17,7 @@ word_count: 6295
 Rev. Oct 05, 2015 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0002-00.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0002-00--b6ef880058115619.png>)
 
 
 ## **Softube User Manual** 
@@ -101,15 +101,15 @@ Marshall’s first ever combo amp was nicknamed the Bluesbreaker after **Eric Cl
 The Silver Jubilee series hit like a bomb in 1987, and tapped perfectly into the rock sound of that era. Unsurprisingly, guitarists such as **Slash** and **John Frusciante** took the amps to their hearts. The three different channels, flexible EQ and the ability to switch the power amp between pentode/triode operation made it a versatile amp that could go from vibrant cleans to soaring leads by the push of a button. 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0006-07.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0006-07--f16cfd0294590e48.png>)
 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0006-08.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0006-08--9239e45431e56258.png>)
 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0006-09.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0006-09--8f53b2f288a88ecb.png>)
 
 
 | **7** 
@@ -129,11 +129,11 @@ MARsHALL LEGENDS plug-ins are “what you see is what you get” products. You s
 In the bottom of the plug-in interface, you will see a thin black row with some buttons. We’ll use the Bass Amp Room plug-in as example, but the same goes for all plug-ins. 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0007-08.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0007-08--23e2e20c28c18de3.png>)
 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0007-09.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0007-09--5a1416f7f8c3667a.png>)
 
 
 ~~About Box Opens the “About” Box with~~ version info. 
@@ -149,11 +149,11 @@ When the **Enable** switch is set to on (I), the plugin is active and will proce
 Enable Setup 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0007-16.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0007-16--194bad981ede644f.png>)
 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0007-17.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0007-17--f675db4cdd5fff39.png>)
 
 
 **8** | USER INTERFACE 
@@ -305,7 +305,7 @@ By patching the inputs you will get different input gain and different tonality 
 The most common way of patching is going into 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0013-14.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0013-14--2bdbbd1deabce045.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -313,17 +313,17 @@ Click<br>**----- End of picture text -----**<br>
 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0013-15.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0013-15--58c9b6b509a09f5e.png>)
 
 
 _**Black cable (guitar) in Input I High input, no patching between channels. Click on the input to select the first patch configuration, or another input to select a different input.**_ 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0013-17.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0013-17--71e33d83df7be56a.png>)
 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0013-18.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0013-18--2771087367d13cb0.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -333,7 +333,7 @@ Click<br>**----- End of picture text -----**<br>
 _**Black cable (guitar) in Input I High input, patching between Input I Low and Input II High. This is the standard patch. Click the input again to select the second patch configuration.**_ 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0013-20.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0013-20--e9e21b6bba3dfd8b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -341,7 +341,7 @@ Click<br>**----- End of picture text -----**<br>
 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0013-21.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0013-21--1ea99d45bc3a31d4.png>)
 
 
 _**Black cable (guitar) in Input I High input, patching between Input I Low and Input II Low. Click the input to remove the patch.**_ 
@@ -393,7 +393,7 @@ The 16 ohms **1960 BHW** cabinet was recorded with a legendary range of micropho
 SOFTUBE USER’S GUIDE | **15** 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0015-01.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0015-01--27e7f4df17604196.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -439,7 +439,7 @@ Slightly more open sound with lots of ambience from the room mic.
 Sets the cabinet and microphone emulation in bypass, so that only the direct sound from the Marshall Plexi amplifier head is heard. This is usually not regarded as a very pleasant sound, but the setting is useful for combining the amplifier with other cabinet/microphone models, such as the ones available in Softube Vintage Amp Room, Bass Amp Room, Metal Amp Room, Half Stack or Bass Amp Room 8x10. In all these plug-ins, the amplifier section can be bypassed. This would be the recommended setting, when combining the Marshall Plexi head with the cabinet in either of those plug-ins. 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0016-18.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0016-18--ee5d3cfa004a8500.png>)
 
 
 | **17** 
@@ -481,7 +481,7 @@ The functionality of the front panel controls corresponds exactly to that of the
 On/Off and Tremolo Tremolo Loudness I Loudness II Patch Standby Speed Intensity[Presence] Bass Middle Treble High Treble Normal Switching 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0018-11.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0018-11--b867e11150432aac.png>)
 
 
 SOFTUBE USER’S GUIDE | **19** 
@@ -529,7 +529,7 @@ The channel strip can be opened by clicking the right hand wood panel with the g
 **20** | MARSHALL BLUESBREAKER 1962 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0020-01.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0020-01--fe9bb9de4e4cc082.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -585,7 +585,7 @@ This plug-in model, exclusive for the UAD-2/ Apollo platform, is based on Marsha
 The Silver Jubilee was based on the Marshall JCM800 amplifier, but had an innovative and unusual preamp section which offered higher gain and a somewhat darker and smoother sound compared to the JCM800. The preamp circuit had three gain modes: Clean, Rhythm Clip and Lead. The EQ section also set the Silver Jubilee apart from other Marshall amps with its much wider range of tonal variety, and it was the first Marshall amplifier where the power amp tubes could be switched from their normal pentode operation mode into triode mode. With the power amp tubes working as triodes, the power amp’s output was cut in half, and the power amp distortion was silkier and less aggressive. All of these features have been accurately modeled by Softube in the Marshall Silver Jubilee 2555 plug-in. 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0024-00.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0024-00--01f6e1634c7c489d.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -683,7 +683,7 @@ Settings the cabinet to OFF is usually not regarded as a very pleasant sound, bu
 SOFTUBE USER’S GUIDE | **27** 
 
 
-![](<Marshall Silver Jubilee 2555 Manual_assets/Marshall_Silver_Jubilee_2555_Manual.pdf-0027-01.png>)
+![](<../../attachments/marshall-silver-jubilee-2555-manual_assets--marshall_silver_jubilee_2555_manual.pdf-0027-01--d0d7eb42890d2dc9.png>)
 
 
 **----- Start of picture text -----**<br>

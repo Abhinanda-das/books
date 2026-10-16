@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/yamuna2"
 ---
 
-![обложка|156](<A life of unalloyed devotion 2/обложка.jpeg>)
+![обложка|156](<../attachments/a-life-of-unalloyed-devotion-2--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--a3ce86f9beb28a75.jpeg>)
 
 # A life of unalloyed devotion 2
 

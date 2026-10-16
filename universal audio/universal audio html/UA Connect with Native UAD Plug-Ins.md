@@ -44,7 +44,7 @@ Use UA Connect to:
 2.  When UA Connect is open, click the Access Spark & Native Plug-Ins button.
 
 <figure class="wysiwyg-image">
-![uac-first-page.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/dc0a037ab3bdc43e17e6231b7d414c92c4435ae1.png)
+![uac-first-page.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--dc0a037ab3bdc43e17e6231b7d414c92c4435ae1--b2340f31ce150d38.png)
 </figure>
 
 # Creating or Linking your iLok Account
@@ -67,7 +67,7 @@ If you have an iLok account, click I already Have an iLok Account, then enter yo
 - **Your** iLok account is created without a password. If you need to log in to your iLok account in the future, go to ilok.com, click Sign In, and click the Forgot your User ID or password link.
 - If you use LUNA, you already have an iLok User ID that is linked to your UA account. On the screen that prompts you to link your iLok account, your iLok User ID should already be populated. Click the Link Account button.
 
-![ilok-options.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/a070750866a42b41d30389db59852cf1accf9e55.png)\
+![ilok-options.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--a070750866a42b41d30389db59852cf1accf9e55--3dfaf9985c7b65e6.png)\
 \
  
 
@@ -81,10 +81,10 @@ You can set UA Connect to use iLok host (machine) or an iLok USB as the default 
 
 1.  In UA Connect, on the UAD Plug-Ins page or LUNA page, click Settings.
 2.  Under License Location, click Manage.\
-    ![settings-plugs-luna.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/698017c1ca325bc51b02e9b828391fcf2dcd10d7.png)
+    ![settings-plugs-luna.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--698017c1ca325bc51b02e9b828391fcf2dcd10d7--3ec8869909d40391.png)
 3.  Choose the license location for Perpetual Plug-Ins and for Spark Plug-Ins, and click Select. You can choose your local machine or an iLok USB for your perpetual plug-ins, and an iLok Cloud Session or an iLok USB for Spark plug-ins.
 
-![license-location.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/cbf4c37907cc7370bd69a492df8913b67d20b84b.png)
+![license-location.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--cbf4c37907cc7370bd69a492df8913b67d20b84b--64693f470133d8ae.png)
 
  
 
@@ -153,18 +153,18 @@ To download a native UAD plug-in, click its Download button to install it, or cl
 **Note:** Ravel Grand Piano does not download automatically (even when you click Download All) because it has specific storage requirements. Click Download next to Ravel to download Ravel. See <a href="#h_01GS6FN3N7XESR7YY692TJCSNB" rel="undefined" target="_self">Installing sample-based UAD instrument content</a> for more information.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![uac-download-products.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/0e9d2bda130b362aa92a367a8729a9b8883e2c01.png)
+![uac-download-products.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--0e9d2bda130b362aa92a367a8729a9b8883e2c01--1b0d848e535df618.png)
 </figure>
 
 ## Installing sample-based UAD instrument content
 
 When you start the download of a sample-based instrument that requires significant storage, such as Ravel Grand Piano, UA Connect prompts you with the storage requirements for the sample library. Choose the solid state (non-rotational) drive on which you want to install the sample library, then click Install.
 
-![storage-requirements-macos.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/d7964833439888de22c49a5b2027c29d8724a7e4.png)
+![storage-requirements-macos.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--d7964833439888de22c49a5b2027c29d8724a7e4--a4a01593985d07df.png)
 
 *Storage Requirements (macOS)*
 
-![storage-requirements-win.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/00bf4333a0ef6a7106717edbd95b5e33147e360c.png)
+![storage-requirements-win.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--00bf4333a0ef6a7106717edbd95b5e33147e360c--5bd4afd50e11fcd7.png)
 
 *Storage Requirements (Windows)*
 
@@ -197,7 +197,7 @@ After you activate and download your plug-ins, they appear in UA Connect with th
 Plug-Ins are arranged in categories, with new releases at the top. 
 
 <figure class="wysiwyg-image">
-![uac-plugins-view.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/3ed2eb315a17519c59c0b4ef1c3053ca43db4559.png)
+![uac-plugins-view.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--3ed2eb315a17519c59c0b4ef1c3053ca43db4559--cedb44c83659dfca.png)
 </figure>
 
 ## Searching the plug-in list
@@ -207,7 +207,7 @@ Type in the Search field to search plug-ins.
 For example, to see all plug-ins with "channel" in the name, on the Plug-Ins page, type **channel** in the search bar. 
 
 <figure class="wysiwyg-image">
-![uac-search-channel.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/b5c6b6eeafd6808a365201cd5f60e445da8625bb.png)
+![uac-search-channel.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--b5c6b6eeafd6808a365201cd5f60e445da8625bb--dbb5c0dad82ca21a.png)
 </figure>
 
 ## Filtering plug-ins by category
@@ -215,13 +215,13 @@ For example, to see all plug-ins with "channel" in the name, on the Plug-Ins pag
 Click Filter by category, and select a category to filter UAD plug-ins by a category. 
 
 <figure class="wysiwyg-image">
-![uac-filter-by-category.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/2d8dd2652013a46db75b2e33e66821da81c5cff8.png)
+![uac-filter-by-category.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--2d8dd2652013a46db75b2e33e66821da81c5cff8--670d1e05e7f07cfe.png)
 </figure>
 
 *Selecting a plug-in filter category*
 
 <figure class="wysiwyg-image">
-![plug-in-categories-filtered.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/5e7e88fa8330dce45c4f987dffc3dad34500fb38.png)
+![plug-in-categories-filtered.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--5e7e88fa8330dce45c4f987dffc3dad34500fb38--6ae7e09433ef7105.png)
 </figure>
 
 *Plug-ins filtered by category*
@@ -239,15 +239,15 @@ Select from the drop-down selector to filter plug-ins by the license type. The p
 When a newer native UAD plug-in is available, the Update button appears next to the plug-in. Click Update to install the latest version of the plug-in. Click Update All to update all plug-ins. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 75%;">
-![update-plugin.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/37dfb29608e245dfb1f9711365bf0a7864dff89f.png)
+![update-plugin.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--37dfb29608e245dfb1f9711365bf0a7864dff89f--49356223b2f1c329.png)
 </figure>
 
 ## Removing a native UAD plug-in
 
 1.  To remove any native UAD plug-in, click the ••• menu to the right of the plug-in, and choose Uninstall.\
-    ![move-menu-plugin.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/4b8322b987304235224a5c3f998474d542033e85.png)
+    ![move-menu-plugin.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--4b8322b987304235224a5c3f998474d542033e85--f06745c3cf8aeb9d.png)
 2.  The confirmation dialog appears. Click Remove to delete the plug-in.\
-    ![delete-plugin-confirmation.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/84fb180980601f943ee317f1a7352cfcc8156a9e.png)
+    ![delete-plugin-confirmation.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--84fb180980601f943ee317f1a7352cfcc8156a9e--7790522146ca74c3.png)
 
 **Note:** You can reinstall the plug-in at any time from within UA Connect, by clicking its Download button.
 
@@ -259,9 +259,9 @@ For Ravel Grand Piano you can change the default storage location for the sample
 
 1.  In UA Connect, Click Settings.
 2.  Under Instrument Content Location, click Change.\
-    ![change-sample-location.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/df0f00bcb6ed8848952075f18d77649367231e51.png)
+    ![change-sample-location.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--df0f00bcb6ed8848952075f18d77649367231e51--420ae6cdfd472c92.png)
 3.  In the Choose Content Drive window, choose the storage drive for the sample content and click Apply.\
-    ![choose-content-drive.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/fc74feb5be6cd1278417ec77ea96805dd530f562.png)
+    ![choose-content-drive.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--fc74feb5be6cd1278417ec77ea96805dd530f562--55ebb58c544e65c0.png)
 
 To rescan your drives, if you have connected or removed a drive since you opened this window, click Rescan Drives.
 
@@ -270,10 +270,10 @@ To rescan your drives, if you have connected or removed a drive since you opened
 ### Moving sample content to a different drive
 
 1.  To move the sample content of an installed sample-based UADx instrument to a different drive, click the ••• menu to the right of the plug-in, and choose Move Content...\
-    ![move-menu-plugin.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/4b8322b987304235224a5c3f998474d542033e85.png)\
+    ![move-menu-plugin.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--4b8322b987304235224a5c3f998474d542033e85--f06745c3cf8aeb9d.png)\
      
 2.  The Move Sample Content dialog appears.\
-    ![move-content.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/0a81b62c29eafa81246caa6561f3cdec31a52c75.png)
+    ![move-content.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--0a81b62c29eafa81246caa6561f3cdec31a52c75--18d9d7cdef44c6d8.png)
 3.  Choose a different drive for the sample-based UADx instrument, and click OK.
 
 The plug-in sample content is moved to the new location. 
@@ -282,7 +282,7 @@ The plug-in sample content is moved to the new location. 
 
 Click Refresh at the upper right of the UA Connect screen to refresh the list of plug-ins, licenses, and available updates. 
 
-![refresh-button.png](UA%20Connect%20with%20Native%20UAD%20Plug-Ins_assets/3818c16c3bb8d5f9902d75a21c0cb2f796d0e47b.png)
+![refresh-button.png](../../attachments/ua-connect-with-native-uad-plug-ins_assets--3818c16c3bb8d5f9902d75a21c0cb2f796d0e47b--5b5c4c33a9dc7620.png)
 
  
 

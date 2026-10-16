@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/td3"
 ---
 
-![обложка|156](<A Transcendental Diary Volume 3/обложка.jpeg>)
+![обложка|156](<../attachments/a-transcendental-diary-volume-3--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--27c726bc33f18d84.jpeg>)
 
 This is the third of five volumes, covering period between June 1976 – August 1976. This personal series recounts Srila Prabhupada’s journeys and activities in detail through an intense part of his life. He traveled around the world, opened temples, spoke with celebrities and supporters, and corresponded with followers and disciples by the hundreds. With foreword by Dr. Shaligram Shukla, Georgetown University.
 

@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/ooh-an"
 ---
 
-![обложка|156](<Out of our heads/обложка.jpeg>)
+![обложка|156](<../attachments/out-of-our-heads--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--5a6efe0c7e85e094.jpeg>)
 
 Alva Noë is one of a new breed―part philosopher, part cognitive scientist, part neuroscientist―who are radically altering the study of consciousness by asking difficult questions and pointing out obvious flaws in the current science. In Out of Our Heads, he restates and reexamines the problem of consciousness, and then proposes a startling solution: do away with the two-hundred-year-old paradigm that places consciousness within the confines of the brain.
 

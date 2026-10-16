@@ -38,7 +38,7 @@ The Bermuda Triangle's signature voice can also be unleashed on bass, drums, voc
 
 <div class="wysiwyg-text-align-center">
 
-![Bermuda-Triangle-2x.png](Bermuda%20Triangle%20Manual_assets/b62f11e75f1c6556544399c4e467133bf8dd1743.png)
+![Bermuda-Triangle-2x.png](../../attachments/bermuda-triangle-manual_assets--b62f11e75f1c6556544399c4e467133bf8dd1743--e61845dd9623cd01.png)
 
 </div>
 
@@ -58,7 +58,7 @@ Because the plug-in accurately models the original hardware's high-impedance ope
 
 ## Unison™ Technology with Apollo
 
-![unison-icon.png](Bermuda%20Triangle%20Manual_assets/7c3e1fc0170ec17bdb5f34b1f466c21af2bc0495.png)
+![unison-icon.png](../../attachments/bermuda-triangle-manual_assets--7c3e1fc0170ec17bdb5f34b1f466c21af2bc0495--fc3f73481906a177.png)
 
 Bermuda Triangle features Unison technology for integration with the high-impedance input hardware in Universal Audio's Apollo audio interfaces. With Unison, Apollo's Hi-Z inputs inherit all of the unique circuit interaction, gain range, and clip points of the original guitar pedal.
 

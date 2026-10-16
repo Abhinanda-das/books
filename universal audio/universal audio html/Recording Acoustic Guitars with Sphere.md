@@ -42,7 +42,7 @@ Cardioid mics are often used in this application for their directionality, but b
 
 The illustration below shows this technique in action. The vocal mic is on top with a polar pattern shown by the blue figure-8, and the guitar mic is below with a polar pattern shown by the magenta figure-8. Each mic is positioned to reject the other’s sound.
 
-![acoustic-guitar-vocal-side-view.png](Recording%20Acoustic%20Guitars%20with%20Sphere_assets/6a4f15bf8bbd4c6adc8699727346b5ac9bc2cdd1.png)
+![acoustic-guitar-vocal-side-view.png](../../attachments/recording-acoustic-guitars-with-sphere_assets--6a4f15bf8bbd4c6adc8699727346b5ac9bc2cdd1--5750bd3f2f6c8945.png)
 
 *Recording acoustic guitar and vocals with two mics*
 
@@ -63,7 +63,7 @@ If you don’t have two Sphere mics, you can still approximate the two-mic setup
 
 With conventional cardioid mics, the rear sound pick up is typically very colored due to physical limitations of the capsule, which can largely be avoided using Off-Axis Correction.
 
-![acoustic-guitar-vocal-side-view-single-mic.png](Recording%20Acoustic%20Guitars%20with%20Sphere_assets/bb77225eafe3eb9d818e9139f830140da673bd5b.png)
+![acoustic-guitar-vocal-side-view-single-mic.png](../../attachments/recording-acoustic-guitars-with-sphere_assets--bb77225eafe3eb9d818e9139f830140da673bd5b--5852aab80d9d727d.png)
 
 #### *Recording acoustic guitar and vocals with one mic*
 
@@ -79,13 +79,13 @@ One major benefit of this approach is that the two capsules are close enough to 
 
 A good starting point is to place the mic around the 12th fret of the guitar. For some guitars, this may result in too much bass from the bridge or a thin trebly sound from the neck, so move the mic between them to find the sweet spot (see the illustration below).
 
-![acoustic-guitar-single-mic-stereo.png](Recording%20Acoustic%20Guitars%20with%20Sphere_assets/5eabc97a4dfc839db9e36870b554c9e7c504dd98.png)
+![acoustic-guitar-single-mic-stereo.png](../../attachments/recording-acoustic-guitars-with-sphere_assets--5eabc97a4dfc839db9e36870b554c9e7c504dd98--4e90996bdfba1e2c.png)
 
 *Recording acoustic guitar in stereo with one mic near neck*
 
 Another option is to line the mic up with the soundhole but at roughly the height of the guitarist’s head. This can create a more balanced sound, since both capsules receive the same level from the soundhole, but without getting a direct hit. It can also give a more natural and familiar sound because the mic capsules are positioned near the guitarist’s ears.
 
-![acoustic-guitar-single-mic-stereo-pos-2.png](Recording%20Acoustic%20Guitars%20with%20Sphere_assets/2ea5b088fe6e779595e7c61701ee63140cb08eef.png)
+![acoustic-guitar-single-mic-stereo-pos-2.png](../../attachments/recording-acoustic-guitars-with-sphere_assets--2ea5b088fe6e779595e7c61701ee63140cb08eef--ab1bd4786502d39a.png)
 
 *Recording acoustic guitar in stereo with one mic above guitar*
 
@@ -95,15 +95,15 @@ But even after finding a position that you like, there can still be a large timb
 
 With two Sphere microphones you can use any standard stereo technique (e.g., XY, spaced-pair, ORTF, mid-side, or Blumlein) but now with enhanced flexibility. The top illustration below shows a horizontal 90° XY configuration, while the bottom shows the same XY configuration oriented vertically. Either option can work well, so choose the easier setup.
 
-![acoustic-guitar-xy-stereo.png](Recording%20Acoustic%20Guitars%20with%20Sphere_assets/e614caa5bc3c92f97aeba88cf2f3a0a9a439dd54.png)
+![acoustic-guitar-xy-stereo.png](../../attachments/recording-acoustic-guitars-with-sphere_assets--e614caa5bc3c92f97aeba88cf2f3a0a9a439dd54--03d33809e828831a.png)
 
-![acoustic-guitar-xy-stereo-vertical.png](Recording%20Acoustic%20Guitars%20with%20Sphere_assets/6ab9fa93da32875a07282d395457900d6cf5a8c0.png)
+![acoustic-guitar-xy-stereo-vertical.png](../../attachments/recording-acoustic-guitars-with-sphere_assets--6ab9fa93da32875a07282d395457900d6cf5a8c0--b9098ef5e87b2e64.png)
 
 *Recording acoustic guitar in stereo using XY technique: horizontal (top), vertical (bottom)*
 
 Because a Sphere plug-in lets you change the mic pattern as you work (even after recording), you can switch from XY to Blumlein by simply adjusting the pattern controls from cardioid to figure-8. You can also select a sub-cardioid pattern for a narrower stereo image, or hypercardioid for a wider image without picking up as much room sound from behind the mics.
 
-![acoustic-guitar-blumlein-stereo.png](Recording%20Acoustic%20Guitars%20with%20Sphere_assets/ba2a2c95c5b4120e41f031aaf268e06b6b8fe537.png)
+![acoustic-guitar-blumlein-stereo.png](../../attachments/recording-acoustic-guitars-with-sphere_assets--ba2a2c95c5b4120e41f031aaf268e06b6b8fe537--b20cede0223a89ca.png)
 
 *Recording acoustic guitar in stereo using Blumlein technique*
 
@@ -111,7 +111,7 @@ Another common micing technique for acoustic guitar is the spaced-pair. Start wi
 
 A spaced pair can produce excellent results, but like any non-coincident technique, sound arrives at the mics at different times. This can result in comb filtering and mono incompatibility.
 
-![acoustic-guitar-spaced-pair-stereo.png](Recording%20Acoustic%20Guitars%20with%20Sphere_assets/9466da7522e4b7163965149f190a8ec978eb9b6c.png)
+![acoustic-guitar-spaced-pair-stereo.png](../../attachments/recording-acoustic-guitars-with-sphere_assets--9466da7522e4b7163965149f190a8ec978eb9b6c--3b1287f910c303ab.png)
 
 *Recording acoustic guitar in stereo using a spaced pair technique*
 

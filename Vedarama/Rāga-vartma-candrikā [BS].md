@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vct-rvc1"
 ---
 
-![обложка|156](<Rāga-vartma-candrikā [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/r%C4%81ga-vartma-candrik%C4%81-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--d60ba4e3623be88c.jpeg>)
 
 The hidden path of devotion by Srila Vishvanath Chakravarti Thakura
 

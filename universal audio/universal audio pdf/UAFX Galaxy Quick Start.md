@@ -25,7 +25,7 @@ Tape recording level **[ALT]** Tape wear, wow & flutter
 **ON SWITCH*** Toggles echo and reverb on/off 
 
 
-![](<UAFX Galaxy Quick Start_assets/UAFX_Galaxy_Quick_Start.pdf-0001-09.png>)
+![](<../../attachments/uafx-galaxy-quick-start_assets--uafx_galaxy_quick_start.pdf-0001-09--1bf6171567221a01.png>)
 
 
 Echo repeats Self-oscillation at higher settings 
@@ -53,7 +53,7 @@ Sets echo tempo Hold for performance FX **Head 1** Dotted 16th note **Head 2** D
 *Get more footswitch and bypass modes with the UAFX Control mobile app 
 
 
-![](<UAFX Galaxy Quick Start_assets/UAFX_Galaxy_Quick_Start.pdf-0001-22.png>)
+![](<../../attachments/uafx-galaxy-quick-start_assets--uafx_galaxy_quick_start.pdf-0001-22--9ade1f45d9bc64ce.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -83,11 +83,11 @@ Power Supply Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel c
 Get More Find more features, firmware updates, and complete docs at **uaudio.com/uafx/start** 
 
 
-![](<UAFX Galaxy Quick Start_assets/UAFX_Galaxy_Quick_Start.pdf-0001-34.png>)
+![](<../../attachments/uafx-galaxy-quick-start_assets--uafx_galaxy_quick_start.pdf-0001-34--44d9bda7e1f5de14.png>)
 
 
 
-![](<UAFX Galaxy Quick Start_assets/UAFX_Galaxy_Quick_Start.pdf-0002-00.png>)
+![](<../../attachments/uafx-galaxy-quick-start_assets--uafx_galaxy_quick_start.pdf-0002-00--21647474dbd0243e.png>)
 
 
 **Get More Features!** Scan here, or go to uaudio.com/uafx/start for additional footswitch and bypass modes. 

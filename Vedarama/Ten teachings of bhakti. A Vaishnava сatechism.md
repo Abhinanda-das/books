@@ -633,7 +633,7 @@ The word aranya means ‘forest’ and the aranyakas are texts for ‘forest dwe
 
 The Upanishads come towards the end of the aranyakas. Their main theme is philosophical enquiry and an urgent recommendation to rise above the mental states that keep the soul within the cycle of repeated reincarnation. This message contrasts with other sections of the Vedas which tend to attract the soul to celestial enjoyments or power and beauty within this world and the next. Because of these two, somewhat contradictory, messages the Vedas are considered to have two portions. The first is the portion dealing with ‘actions’ or ‘ritual’ and is known as the Karma Kanda. The second portion deals with ‘higher knowledge of the self’ and is consequently known as the Jnana Kanda. These are also referred to, respectively, as the Purva Mimamsa and the Uttara Mimamsa.
 
-![рис-001.jpg|165](<Ten teachings of bhakti. A Vaishnava сatechism/рис-001.jpg>)
+![рис-001.jpg|165](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-001--09180fe0c6b5942e.jpg>)
 
 The Vedas were first orally preserved in spoken Sanskrit or ‘purified language,’ as a chain of recitation from guru to disciple, then written down in Devanagari, the written form. Above: Sanskrit vowels.
 
@@ -667,7 +667,7 @@ The Puranas present selected events rather than a strict chronology. There are 1
 
 Traditionally, there are five subjects of a Purana: 1. Sarga or ‘Creation’ 2. Prati-Sarga or ‘Secondary Creation,’ 3. Vamsa or ‘Family Trees,’4. Manvantara or the ‘History of the Manus’ the creative gods, and finally 5. Vamsa-anu-caritra, the details of the dynasties of kings and saints.
 
-![рис-002.jpg|317](<Ten teachings of bhakti. A Vaishnava сatechism/рис-002.jpg>)
+![рис-002.jpg|317](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-002--c94c034e7b8533d8.jpg>)
 
 Above: Sanskrit consonants, showing which part of the mouth makes the sound
 
@@ -703,7 +703,7 @@ The theology of the Pancharatra is solely focused on the Personality of Godhead.
 
 In the 11th book of the Bhagavata Purana is described what took place when the Supreme Lord Krishna was about to leave the world and return to His eternal abode. Krishna gave His parting instructions to His friend Uddhava, a conversation which is now recorded in the section known as the Uddhava Gita. In chapter 27 the Lord also explains Pancharatra worship.
 
-![рис-003.jpg|700](<Ten teachings of bhakti. A Vaishnava сatechism/рис-003.jpg>)
+![рис-003.jpg|700](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-003--77ae3f14813535b6.jpg>)
 
 *Mantra (sacred sound) Yantra (sacred geometry) and Tantra (sacred ritual) are all part of the teaching found in the Pancharatra.*
 
@@ -1640,7 +1640,7 @@ The word purusha is also explained, by the 13th century philosopher Madhva Achar
 
 The Tattva-Traya - the three metaphysical elements, appear in a range of Vedic texts. According to the texts the terminology varies. The Tattva-Traya also appears in Sanskrit, Tamil, Manipravala, Bengali and now English and all the languages of the world. Here is a small, comparative sample:
 
-![рис-004.jpg|578](<Ten teachings of bhakti. A Vaishnava сatechism/рис-004.jpg>)
+![рис-004.jpg|578](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-004--188ce68c90d21c9b.jpg>)
 
 Krishna is potent and has potencies; He is energetic and has energies; He is shaktiman and has shakti. These three terms are interchangeable and are used throughout.
 
@@ -1676,11 +1676,11 @@ The one divine potency of Parabrahman has been described in the Vedas in many wa
 
 These three terms also correspond to the more commonly known terms of Sat, Chit and Ananda or ‘Eternity, Knowledge and Bliss.’ All these potencies – whatever terminology is used to describe them – exist as parts of the one possessor of all potencies – the omnipotent.
 
-![рис-005.jpg|560](<Ten teachings of bhakti. A Vaishnava сatechism/рис-005.jpg>)
+![рис-005.jpg|560](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-005--eb5ad11b27730f85.jpg>)
 
 There are three aspects of the Purna Brahma, each greater than the previous with respect to the manifestation of Sat, Chit, Ananda.
 
-![рис-006.jpg|400](<Ten teachings of bhakti. A Vaishnava сatechism/рис-006.jpg>)
+![рис-006.jpg|400](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-006--3b8ad6aa6b452c8d.jpg>)
 
 ## Brahman
 
@@ -1900,7 +1900,7 @@ According to the Siddhartha Samhita, the Lord in his various forms is carrying d
 
 Lord Vishnu carries a weapon in each of his four hands. The weapons are the conch-shell (shankha), the club (gada), the lotus (padma), and the discus (chakra). In describing the twenty-four forms, the order of objects in Lord Vishnu’s hands will be given as: lower right, upper right, upper left and lower left of the lord. The twenty-four names of these Lords are known as Chatur Vimsati Nama, and are used in marking the body with clay and in the process of making the upper body sacred by the ritual of nyasa, or touching the body with names and fingers.
 
-![рис-007.jpg|650](<Ten teachings of bhakti. A Vaishnava сatechism/рис-007.jpg>)
+![рис-007.jpg|650](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-007--d59d675929af507d.jpg>)
 
 ## Creation
 
@@ -1966,7 +1966,7 @@ All living entities are differentiated parts and parcels of the Personality of G
 
 The Lord is the cause of the mahat-tattva, and the mahat-tattva is then the cause of creation itself. From the mahat-tattva twenty-four divisions of material ingredients have sprung, namely the five instruments of perception, the five working organs, the five sense objects, the five material elements, the mind, intelligence, and false ego. Consciousness is then injected into the material matrix, forming the origins of the development of the limitless living entities.
 
-![рис-008.jpg|430](<Ten teachings of bhakti. A Vaishnava сatechism/рис-008.jpg>)
+![рис-008.jpg|430](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-008--101a62f5e1fcf899.jpg>)
 
 ## The Gunas
 
@@ -2164,7 +2164,7 @@ Kali – Yoga process is chanting the holy names. The avatar is yellowish, two a
 
 Avesh means ‘immersed’ and shakti means ‘power’ so these avatars are extraordinary humans who are empowered for specific tasks. Vyasa, for instance, is known as ‘the literary incarnation of God’ because he was empowered to compile the Vedic literature.
 
-![рис-009.jpg|448](<Ten teachings of bhakti. A Vaishnava сatechism/рис-009.jpg>)
+![рис-009.jpg|448](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-009--1fe6ec3473850551.jpg>)
 
 ## The Passage of Universal Time
 
@@ -2731,7 +2731,7 @@ The arrows in the quiver yet to be shot is the sanchit.
 
 The arrow he is about to shoot is the kriyamana.”
 
-![рис-010.jpg|660](<Ten teachings of bhakti. A Vaishnava сatechism/рис-010.jpg>)
+![рис-010.jpg|660](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-010--b4ba15046d257221.jpg>)
 
 ## Cosmic colours
 
@@ -2762,7 +2762,7 @@ Srila Prabhupada writes that not all these species may be currently living on th
 
 “In the mediocre category — the human form of life — spiritual consciousness is comparatively awakened. In the superior life forms, spiritual consciousness is fully awakened. Then the living entity understands his real position and tries to escape the influence of material energy by developing Krishna consciousness.”
 
-![рис-011.jpg|600](<Ten teachings of bhakti. A Vaishnava сatechism/рис-011.jpg>)
+![рис-011.jpg|600](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-011--dd3ae5dd5efd4d39.jpg>)
 
 ## Freedom of the soul
 
@@ -2952,7 +2952,7 @@ If successful, the yogi can persist in his determined striving until he reaches 
 
 Many on the yoga path are unsuccessful since it requires many years, even many lifetimes, of extreme dedication. In that case they are born again, somewhere on Earth, into a pious or wealthy family, and unconsciously drift towards yoga practice, even from a relatively young age.
 
-![рис-012.jpg|407](<Ten teachings of bhakti. A Vaishnava сatechism/рис-012.jpg>)
+![рис-012.jpg|407](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-012--76beef3bdd7fa8d9.jpg>)
 
 ## Jnana Yoga
 
@@ -6107,11 +6107,11 @@ Lord Chaitanya gave individual instructions and responsibilities to his follower
 
 ## Appendix 4. Classification of the artha panchakam
 
-![рис-013.jpg|700](<Ten teachings of bhakti. A Vaishnava сatechism/рис-013.jpg>)
+![рис-013.jpg|700](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-013--63712f84337dae3d.jpg>)
 
 ## Appendix 5. Comparison of artha panchakam and dasa mula tattva
 
-![рис-014.jpg|550](<Ten teachings of bhakti. A Vaishnava сatechism/рис-014.jpg>)
+![рис-014.jpg|550](<../attachments/ten-teachings-of-bhakti.-a-vaishnava-%D1%81atechism--%D1%80%D0%B8%D1%81-014--7ea53d85a5bcc08a.jpg>)
 
 ## About the author
 

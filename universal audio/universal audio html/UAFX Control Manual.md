@@ -46,7 +46,7 @@ Search for and install “UAFX Control” from the App Store, or [go here](https
 
 <span id="h_01H91JFQ16JGQSTKW297FK9V32"></span>
 
-![uafx-control-mobile-allow-bluetooth.png](UAFX%20Control%20Manual_assets/22105dfbb84e401984a1c2d6ff2521bc3a8338de.png)
+![uafx-control-mobile-allow-bluetooth.png](../../attachments/uafx-control-manual_assets--22105dfbb84e401984a1c2d6ff2521bc3a8338de--91d1189c6e292ed0.png)
 
 ## Android
 
@@ -60,7 +60,7 @@ Search for and install “UAFX Control” from the Google Play Store, or [go her
 - If you deny app access to the device location, you will need to remove and reinstall the app.
 - Your Android device may present a different dialog to allow location information.
 
-![allow-location-android.png](UAFX%20Control%20Manual_assets/e1fb38efa9654ee9108363ae1ea801f9359bd481.png)
+![allow-location-android.png](../../attachments/uafx-control-manual_assets--e1fb38efa9654ee9108363ae1ea801f9359bd481--9faaacd3575e56cc.png)
 
  
 
@@ -73,7 +73,7 @@ UAFX Control can be used with your UAFX pedals in USB mode or Bluetooth mode. Al
 
 <span id="h_01G3VKPBVMVPSYNP387D5M9VD0"></span>
 
-![usb-bluetooth-modes.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![usb-bluetooth-modes.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
  
 
@@ -83,14 +83,14 @@ UAFX Control can be used with your UAFX pedals in USB mode or Bluetooth mode. Al
 
 1.  Confirm your UAFX pedal is powered on.
 2.  Open UAFX Control on your mobile phone. The Log In screen appears.\
-    ![login.png](UAFX%20Control%20Manual_assets/66c097a9b736ad2584e63c754620b0ce1caedbf0.png)\
+    ![login.png](../../attachments/uafx-control-manual_assets--66c097a9b736ad2584e63c754620b0ce1caedbf0--95a65a4a0c6d0605.png)\
      
 3.  Log in to your UA account, or create a new account if you don’t already have one. The app screen opens. 
 4.  Select Bluetooth mode. Any unpaired UAFX pedals in range appear. If your pedal doesn't appear, press the Pair button on the rear of the pedal so the blue LED flashes.\
-    ![pedal-found.PNG](UAFX%20Control%20Manual_assets/4abc98e47d53ee3c4b37feb54b319dd79754c104.png)\
+    ![pedal-found.PNG](../../attachments/uafx-control-manual_assets--4abc98e47d53ee3c4b37feb54b319dd79754c104--56de0d94f175bccf.png)\
      
 5.  Tap the tile for a UAFX pedal to open its configuration screen. The Bluetooth pairing request appears on your screen.\
-    ![bt-pairing-request.PNG](UAFX%20Control%20Manual_assets/9dcd48c6780c85e91fbc08c3af3cde11bbf9bca2.png)\
+    ![bt-pairing-request.PNG](../../attachments/uafx-control-manual_assets--9dcd48c6780c85e91fbc08c3af3cde11bbf9bca2--1f731961ac9825b7.png)\
      
 6.  Accept the pairing request to pair your phone with the UAFX pedal.\
      
@@ -110,13 +110,13 @@ UAFX Control can be used with your UAFX pedals in USB mode or Bluetooth mode. Al
 
 1.  Confirm your UAFX pedal is powered on.
 2.  Open UAFX Control on your mobile phone. The Log In screen appears.\
-    ![login.png](UAFX%20Control%20Manual_assets/66c097a9b736ad2584e63c754620b0ce1caedbf0.png)
+    ![login.png](../../attachments/uafx-control-manual_assets--66c097a9b736ad2584e63c754620b0ce1caedbf0--95a65a4a0c6d0605.png)
 3.  Log in to your UA account, or create a new account if you don’t already have one. The app screen opens. 
 4.  Select USB mode. The USB mode screen appears with instructions on how to power your pedal, and how to connect via USB-C.\
-    ![usb-mode-unconnected.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)\
+    ![usb-mode-unconnected.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)\
      
 5.  Connect your pedal to your mobile device with a USB-C data cable. After a few seconds, the pedal tile appears. \
-    ![uafx-mobile.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)\
+    ![uafx-mobile.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)\
      
 6.  Tap the tile to open the pedal.
 7.  After you make your changes in the app, disconnect the USB-C cable.
@@ -134,9 +134,9 @@ UAFX Control can be used with your UAFX pedals in USB mode or Bluetooth mode. Al
 ## To return to the pedal list
 
 - On a pedal configuration screen, tap the pedal icon in the upper left corner to return to your list of pedals.\
-  ![return-home.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+  ![return-home.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 - On a pedal MIDI screen, tap the**〈** to return to the configuration screen, then tap the pedal icon to return to your list of pedals. \
-  ![return-from-midi.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+  ![return-from-midi.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
 ## Logging out of UAFX Control
 
@@ -148,7 +148,7 @@ If you log out of UAFX Control, the app removes your pedals. If you log back in 
 
 - At the top of the UAFX Control app screen, tap •••, then near the bottom of the screen tap Log Out.
 
-![logout.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![logout.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
 UAFX Control returns to the Log In screen.
 
@@ -166,7 +166,7 @@ If your pedal is not registered to your UA account, you can register it with UAF
 
 Tap the pedal tile on the home screen to open your pedal’s configuration. The tile animates while the app connects, and the Register Pedal screen appears if the pedal is not currently registered to your UA account.
 
-![register-pedal.png](UAFX%20Control%20Manual_assets/e14dd64329cf9145edc153a3658e755c3c88c921.png)
+![register-pedal.png](../../attachments/uafx-control-manual_assets--e14dd64329cf9145edc153a3658e755c3c88c921--353252f68012eb5f.png)
 
 Tap the Register Pedal button to register your UAFX pedal. After the pedal is registered, the app shows the Registration Complete screen and information about how to select the bonus effect(s) or speaker cabinets. Tap OK to see the pedal’s User Presets screen (if available).
 
@@ -194,7 +194,7 @@ Tap the Register Pedal button to register your UAFX pedal. After the pedal is re
 
 4-cable mode settings apply only to UAFX amp pedals (Anti, Dream, Enigmatic, Knuckles, Lion, Ruby, and Woodrow). Settings that are unique to individual pedals are described in the respective pedal manuals.
 
-![presets-settings-tap.png](UAFX%20Control%20Manual_assets/6d6e9fb07f480b5b079827a1b7c3fff97f5a0585.png)
+![presets-settings-tap.png](../../attachments/uafx-control-manual_assets--6d6e9fb07f480b5b079827a1b7c3fff97f5a0585--9bcdbdb6df878c51.png)
 
 ## Presets/Rigs screen
 
@@ -206,7 +206,7 @@ The pedal’s User Presets screen is displayed after registration on all pedals 
 
 Tap Settings at the bottom right of the screen to access the settings for a pedal. You may need to scroll down on this screen to see all available settings.
 
-![settings-presets-dream.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![settings-presets-dream.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
 Settings and preset screens (Dream)
 
@@ -230,7 +230,7 @@ For information on managing OX Stomp Rigs, see [Managing OX Stomp Rigs](13621362
 
 To open the preset management screen, first tap your pedal’s tile on the app’s initial view. If the app is in Settings view, tap the Presets area at the bottom left of the pedal’s main screen to switch into Presets view.
 
-![preset-screen-callouts.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![preset-screen-callouts.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
  
 
@@ -238,7 +238,7 @@ To open the preset management screen, first tap your pedal’s tile on the app�
 
 To open the Rigs screen, first tap your pedal’s tile on the app’s initial view. The app opens on the Rig Assignments screen. Tap the selection triangle to the right of any Rig to open the Rigs screen. 
 
-![ox-stomp-rig-assign-callouts.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)**Important Preset/Rig and Backup Notes**
+![ox-stomp-rig-assign-callouts.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)**Important Preset/Rig and Backup Notes**
 
 - **Pedal presets** - Individual presets you see in the app are stored on the pedal, not in the app. If UAFX Control is disconnected from your mobile device, or if you delete the app, all presets remain on the pedal.
 - **Pedal backups** - Backups created in the mobile app are stored in the app, not on the pedal. If UAFX Control is deleted from your mobile device, the preset backups in the app are permanently lost.
@@ -257,7 +257,7 @@ Preset and voicing descriptions are available [here](8272165765012-UAFX-Preset-a
 
 You can edit a custom factory or artist preset and save it as your own preset by holding down the pedal’s Store switch, which allows you to utilize these custom settings. You can also save a copy from the preset info overlay, then edit the sound with the knobs and switches, and save it on the pedal by holding down the Store switch.
 
-![preset-custom-description.png](UAFX%20Control%20Manual_assets/68548ec2ee4296a0bb6e1ca5d719a7911c125211.png)
+![preset-custom-description.png](../../attachments/uafx-control-manual_assets--68548ec2ee4296a0bb6e1ca5d719a7911c125211--a66007e573ff1336.png)
 
 To configure a new sound with available, non-custom sounds and knob settings, switch to Live mode and save a new preset.
 
@@ -294,7 +294,7 @@ On an amp pedal, you can assign presets to footswitches in any of the multi-pres
 2.  Tap the footswitch you want to assign until the correct color (red or green) is lit.
 3.  On any Preset screen, tap the preset you want to assign. The preset is immediately assigned to the footswitch slot, and an indicator with the footswitch LED color and letter A, B, C, or D appears below the preset name. \
     \
-    ![presets-assigned-footswitches.png](UAFX%20Control%20Manual_assets/3a9588c9340b5905e8659f15ea797ba4f39cc16f.png)
+    ![presets-assigned-footswitches.png](../../attachments/uafx-control-manual_assets--3a9588c9340b5905e8659f15ea797ba4f39cc16f--52bed2741e733c88.png)
 
  
 
@@ -304,13 +304,13 @@ Swipe a preset to the right to make it a favorite. To unfavorite a preset, swipe
 
 **Tip:** You can also favorite a preset by opening preset options, then tapping Favorite.
 
-![presets-favorite-unfavorite.png](UAFX%20Control%20Manual_assets/5670242feacd6c696d4251a89c613bb4e636ebd6.png)
+![presets-favorite-unfavorite.png](../../attachments/uafx-control-manual_assets--5670242feacd6c696d4251a89c613bb4e636ebd6--b7bd25c55ea3ffed.png)
 
 ## To delete a preset
 
 - Swipe to the left to delete a User preset, then tap the X.
 
-![preset-swipe-delete.png](UAFX%20Control%20Manual_assets/b6780c2933c4ef8f90575ec5c2081d8da729e9fa.png)
+![preset-swipe-delete.png](../../attachments/uafx-control-manual_assets--b6780c2933c4ef8f90575ec5c2081d8da729e9fa--ba38eabfce779722.png)
 
 ## To store a preset
 
@@ -319,8 +319,8 @@ To store a sound as a preset on the pedal, hold down the Store toggle switch on 
 ## Preset options
 
 Tap ••• next to the active preset to open the preset options.\
-![preset-edit-dots.png](UAFX%20Control%20Manual_assets/069bc5865735556346a29906df293a2d1de25a85.png)\
-![preset-options-callouts.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![preset-edit-dots.png](../../attachments/uafx-control-manual_assets--069bc5865735556346a29906df293a2d1de25a85--9aef76a26de28a91.png)\
+![preset-options-callouts.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
 Tap ••• next to the active preset to open the preset options.
 
@@ -345,7 +345,7 @@ To restore an edited preset to the pre-edited state, tap ••• next to the a
 
 <span id="h_01H91JFQ16Z4RARM0H643PBFK5"></span>
 
-![preset-edited.png](UAFX%20Control%20Manual_assets/bccb5a4288e810bf81a4ec908e87b2e06f9268d6.png)
+![preset-edited.png](../../attachments/uafx-control-manual_assets--bccb5a4288e810bf81a4ec908e87b2e06f9268d6--a4b206b796093af4.png)
 
 ## Preset Notes
 
@@ -372,7 +372,7 @@ The Presets/Rigs Backup feature retrieves all user presets from the UAFX pedal a
 
 1.  At the bottom of the UAFX Control app, tap Settings.
 2.  Scroll down if needed, then tap Save New Backup.\
-    ![save-new-backup.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![save-new-backup.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
 The backup is stored in the UAFX Control app.
 
@@ -387,11 +387,11 @@ You can replace the backup before you apply a firmware update or reset your peda
 #### **To replace your backup**
 
 1.  Tap Save New Backup.\
-    ![replace-restore-backup.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)\
+    ![replace-restore-backup.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)\
     \
      
 2.  In the warning popup, tap Update.\
-    ![overwrite-backup.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![overwrite-backup.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
 The backup in UAFX Control is replaced with the presets or Rigs from the pedal.
 
@@ -407,7 +407,7 @@ When you restore a backup from the app to the pedal, you have the option to eith
 #### **To restore your presets/Rigs**
 
 1.  In the Preset Backups section, tap Restore. The Restore options appear.\
-    ![restore-backup.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![restore-backup.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 2.  Tap Replace Presets/Rigs or Merge Presets/Rigs.
 
 The presets or Rigs are restored to the pedal.
@@ -421,9 +421,9 @@ If you connect two pedals of the same type to UAFX Control on the same mobile de
 #### To restore presets/Rigs from another pedal
 
 1.  In the Preset/Rigs Backups section, tap the pedal backup from which you want to restore.\
-    ![backup-from-another-pedal.png](UAFX%20Control%20Manual_assets/1304e730033cda634082e36e0316413a7cb9cbe1.png)
+    ![backup-from-another-pedal.png](../../attachments/uafx-control-manual_assets--1304e730033cda634082e36e0316413a7cb9cbe1--5a95fc10a60307ca.png)
 2.  Tap Restore. The Restore options appear.\
-    ![backup-restore-info.png](UAFX%20Control%20Manual_assets/f7ee5986399902e69713fd4b6b0b2fe6abe6b85b.png)
+    ![backup-restore-info.png](../../attachments/uafx-control-manual_assets--f7ee5986399902e69713fd4b6b0b2fe6abe6b85b--fcd2699d4903c93b.png)
 3.  Tap Replace Presets/Rigs or Merge Presets/Rigs.
 
 The presets or Rigs are restored to the pedal.
@@ -447,7 +447,7 @@ You can remove a pedal from the tile display in the UAFX Control app. Removing a
 1.  Swipe the pedal tile to the left. The red Remove area appears.
 2.  Tap Remove to delete the pedal from the UAFX Control app.
 
-![remove-pedal.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![remove-pedal.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
 ## Adding a previously removed pedal
 
@@ -457,7 +457,7 @@ When a pedal has been removed, you can add it back to the UAFX Control app.
 
 1.  Press the PAIR button on the back of the UAFX pedal once.
 2.  Tap the Add New button in UAFX Control.\
-    \\![add-new-pedal.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    \\![add-new-pedal.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
 The pedal tile appears in UAFX Control.
 
@@ -467,13 +467,13 @@ Getting Context Help
 
 You can get contextual help in UAFX Control by tapping the ⓘ symbol next to a section. The context help is built into the app and doesn’t require an internet connection.
 
-![context-help.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+![context-help.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 
 ## Getting Online Help
 
 To access the UAFX pedal manuals and get other details such as individual effect control maps, tap the Online Help button at the bottom of the screen to visit the UAFX Knowledge Base. Online help requires an internet connection.
 
-![online-help.png](UAFX%20Control%20Manual_assets/d7b7e1d2df76a38fb0b590c53bb024c99e90a1a0.png)
+![online-help.png](../../attachments/uafx-control-manual_assets--d7b7e1d2df76a38fb0b590c53bb024c99e90a1a0--1277c9a044e72724.png)
 
 ## Resetting your UAFX Pedal
 
@@ -490,9 +490,9 @@ Reset your pedal to restore your UAFX pedal to the factory defaults.
 #### To reset the pedal:
 
 1.  Tap the Reset Pedal button at the bottom of the UAFX Control screen.\
-    ![reset-pedal-button.png](UAFX%20Control%20Manual_assets/3019845d76475349f6910f5e2bca05fce6005148.png)\
+    ![reset-pedal-button.png](../../attachments/uafx-control-manual_assets--3019845d76475349f6910f5e2bca05fce6005148--0b1b4762c7393e5c.png)\
     \
-    ![reset-warning.png](UAFX%20Control%20Manual_assets/1576671445c71e282018967963ec7f67c9a4be5c.png)
+    ![reset-warning.png](../../attachments/uafx-control-manual_assets--1576671445c71e282018967963ec7f67c9a4be5c--879e4c49e1d70cd4.png)
 2.  Read the warnings, then tap Reset Pedal to continue. The pedal restarts.
 3.  Remove the pedal tile from the UAFX Control app.
 4.  Remove the pedal from your phone’s Bluetooth settings.
@@ -515,7 +515,7 @@ You can choose to listen to the preset sound or the live sound with the app, ins
 
 At the bottom of the app, tap the Live/Preset buttons to switch between the live and preset sounds. Your choice will persist on the pedal until you switch to another sound, either with a footswitch on the pedal or with this switch in the app.
 
-![uafx-control-live-preset-slider.png](UAFX%20Control%20Manual_assets/6916805fd01d43feea94f7074f7ab92eebc81cf6.png)
+![uafx-control-live-preset-slider.png](../../attachments/uafx-control-manual_assets--6916805fd01d43feea94f7074f7ab92eebc81cf6--e09aca52938c739e.png)
 
 **Important:** This setting is retained when the pedal is powered off. This means that, when the active footswitch mode doesn’t allow switching between Live and Preset modes:
 
@@ -614,13 +614,13 @@ Use 4-cable mode with one UAFX amp pedal to add another switchable channel to yo
 
 This diagram shows the signal flow when the UAFX amp pedal is enabled. Your signal is colored with the full amp tone from the pedal and routed to your real amplifier’s effects loop return, bypassing your real amplifier’s input jack and preamplifier section. Any effects placed in your amplifier’s effects loop return are heard.
 
-![4-Cable-Active-Diagram.png](UAFX%20Control%20Manual_assets/cf3ab904f817343afe582877d91bc7f67173cbfd.png)
+![4-Cable-Active-Diagram.png](../../attachments/uafx-control-manual_assets--cf3ab904f817343afe582877d91bc7f67173cbfd--3423175b186b88da.png)
 
 #### UAFX amp pedal bypassed
 
 This diagram shows the signal flow when the UAFX amp pedal is bypassed. Note that your signal passes through the pedal with no pedal amp tone, and into the main input on your real amplifier. Any effects placed before your amplifier’s effects loop return are heard.
 
-![4-Cable-Bypass-Diagram.png](UAFX%20Control%20Manual_assets/821e2b01a3357830e901f93964d9c859e60d7764.png)
+![4-Cable-Bypass-Diagram.png](../../attachments/uafx-control-manual_assets--821e2b01a3357830e901f93964d9c859e60d7764--f9d74e20c0ea0516.png)
 
 ### Two UAFX amp pedals
 
@@ -634,7 +634,7 @@ To connect two UAFX amp pedals in 4-cable mode, you need a total of six cables. 
 6.  Connect the effects loop Send output on your amplifier to the 2/Stereo input on the second pedal.
 7.  Place any front-of-amplifier effects between your instrument and the first UAFX amp pedal, and place any other effects loop effects between the first pedal’s 2/Stereo output and the effects loop return input on your amplifier.
 
-![6-Cable-Diagram.png](UAFX%20Control%20Manual_assets/ce6057005c097ec55c85e0f3508be9d83a7e1a27.png)
+![6-Cable-Diagram.png](../../attachments/uafx-control-manual_assets--ce6057005c097ec55c85e0f3508be9d83a7e1a27--abf19c2a23219647.png)
 
 ### Three UAFX amp pedals
 
@@ -650,7 +650,7 @@ To connect three UAFX amp pedals in 4-cable mode, you need a total of eight cabl
 8.  Connect the effects loop Send output on your amplifier to the 2/Stereo input on the third pedal.
 9.  Place any front-of-amplifier effects between your instrument and the first UAFX amp pedal, and place any other effects loop effects between the first pedal’s 2/Stereo output and the effects loop return input on your amplifier.
 
-![8-Cable-Diagram.png](UAFX%20Control%20Manual_assets/2313e7249b12b584e1df3600e8c0957121bff7f2.png)
+![8-Cable-Diagram.png](../../attachments/uafx-control-manual_assets--2313e7249b12b584e1df3600e8c0957121bff7f2--8a0c254704b2730b.png)
 
  
 

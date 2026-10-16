@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/vct-ps"
 ---
 
-![обложка|156](<Prema-samputika [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/prema-samputika-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--8ae28513b2cac24f.jpeg>)
 
 # Prema-samputika \[BS\]
 

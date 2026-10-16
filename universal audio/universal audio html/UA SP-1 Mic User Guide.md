@@ -19,7 +19,7 @@ This printed guide is included in your UA SP-1 retail package. 
 
  
 
-![UA_SP-1_User_Guide_1.png](UA%20SP-1%20Mic%20User%20Guide_assets/257949f8573de72ab570a5deb16a208bf0a02d33.png)
+![UA_SP-1_User_Guide_1.png](../../attachments/ua-sp-1-mic-user-guide_assets--257949f8573de72ab570a5deb16a208bf0a02d33--e8e0dfc0f6c612f3.png)
 
-![UA_SP-1_User_Guide_2.png](UA%20SP-1%20Mic%20User%20Guide_assets/48aa5dbb82295c69e3d1a06026982497d29ce360.png)
+![UA_SP-1_User_Guide_2.png](../../attachments/ua-sp-1-mic-user-guide_assets--48aa5dbb82295c69e3d1a06026982497d29ce360--ded70c2e632922ff.png)
 

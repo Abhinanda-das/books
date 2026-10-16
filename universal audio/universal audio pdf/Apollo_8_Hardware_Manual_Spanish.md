@@ -7,13 +7,13 @@ word_count: 14232
 ---
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0001-00.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0001-00--7cfca25da5779ba4.png)
 
 
 **INTERFAZ  DE ALTA RESOLUCION Con proceso UAD en tiempo real** 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0001-02.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0001-02--edd4d1b3f43647ea.png)
 
 
 ## **Manual de hardware de Apollo 8** 
@@ -21,7 +21,7 @@ word_count: 14232
 Versión del manual150702 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0001-05.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0001-05--c755732aaaa4a45e.png)
 
 
 Servicio al Cliente y Soporte Técnico: Libre en USA: +1-877-698-2834 Internacional: +1-831-440-1176 www.uaudio.com 
@@ -43,7 +43,7 @@ Como siempre, no dude en acercarse a nosotros a través de nuestro sitio web www
 ## Sinceramente, 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0002-08.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0002-08--9c274a522852c6a6.png)
 
 
 ## Bill Putnam Jr. 
@@ -323,7 +323,7 @@ Para solicitar el apoyo en línea a través de correo electrónico, haga clic en
 Alternativamente, visite la principal página de soporte en www.uaudio.com/support, y a continuación haga clic en el botón azul "Enviar Ticket" en el lado derecho de la página web para crear un billete de ayuda. 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0010-06.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0010-06--3ed73ebdc23fa6d9.png)
 
 
 Soporte Telefónico 
@@ -345,7 +345,7 @@ En esta sección se describen las características y funciones de todos los cont
 _**Nota** : Todas las funciones del panel frontal (excepto el switch METER, botones de volumen para auriculares, y el switch de potencia) se pueden controlar de forma remota con la aplicación incluida de software de la Consola. Los cambios realizados con los controles del panel frontal se reflejan en la aplicación de la Consola, y viceversa._ 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0011-03.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0011-03--78665a040e615646.png)
 
 
 **----- Start of picture text -----**<br>
@@ -521,7 +521,7 @@ Es necesario evitar la saturación digital en el convertidor A / D del canal med
 Cuando la medición se configura para las SALIDAS,  los medidores de canal muestran los niveles de salida de pico de la señal de los canales analógicos 1-8 a la salida de los convertidores D / A. (12) 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0016-05.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0016-05--acf8d40dd9c40065.png)
 
 
 **----- Start of picture text -----**<br>
@@ -703,7 +703,7 @@ Manual de Hardware de Apollo 8                                           21     
 ## **Panel Trasero** 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0022-01.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0022-01--fd9499e2c0b8782e.png)
 
 
 **----- Start of picture text -----**<br>
@@ -805,7 +805,7 @@ Manual de Hardware de Apollo 8                                           25     
 ## **Entradas y salidas analógicas** 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0026-01.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0026-01--bab53ee63c73f94c.png)
 
 
 **----- Start of picture text -----**<br>
@@ -813,7 +813,7 @@ Manual de Hardware de Apollo 8                                           25     
 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0026-02.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0026-02--ae8f6cb872f86d68.png)
 
 
 **----- Start of picture text -----**<br>
@@ -989,7 +989,7 @@ Puntos clave para este ejemplo:
 - Las salidas de monitor están conectados a monitores activos (o un sistema amplificador + altavoces) 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0031-06.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0031-06--f2a3872361960fe0.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1015,7 +1015,7 @@ Puntos clave para este ejemplo:
 - Las mezclas individuales se pueden hacer a mano a través de la señal CUE que envía la Consola y se rutean a cada salida frontal de auriculares en el ajuste del monitoreo 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0032-08.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0032-08--00de4c057ae9b70d.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1041,7 +1041,7 @@ Una grabadora digital estéreo está conectada a la salida S / PDIF, un afinador
 - Apollo 8 es el dispositivo de reloj maestro; la fuente de reloj 4-710d se configura en Externa y el switch de terminación del  4-710d se activa (alternativamente, el 4-710d podría ser utilizado como reloj maestro configurando el switch de reloj como interno en la unidad 4-710d y  ajustando el switch de reloj ADAT de Apollo como externo eliminando así el cable de reloj) 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0033-07.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0033-07--e9f33ea8c9a67039.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1061,7 +1061,7 @@ _Importante: Para más detalles acerca de la operación del sistema, cuando se u
 ## **Apollo Expandido** 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0034-05.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0034-05--4af31ceb750c0e66.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1254,7 +1254,7 @@ Manual de Hardware de Apollo 8                                           37     
 Manual de Hardware de Apollo 8                                           38                                                  Especificaciones 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0039-00.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0039-00--79bc524bfe3fd337.png)
 
 
 **----- Start of picture text -----**<br>
@@ -1385,7 +1385,7 @@ Este manual y el software asociado, ilustraciones, diseños de productos y conce
 Manual de Hardware de Apollo 8                                           43                                                                   Avisos 
 
 
-![](Apollo_8_Hardware_Manual_Spanish_assets/Apollo_8_Hardware_Manual_Spanish.pdf-0044-00.png)
+![](../../attachments/apollo_8_hardware_manual_spanish_assets--apollo_8_hardware_manual_spanish.pdf-0044-00--333014192fb08c0e.png)
 
 
 Universal Audio, Inc. 4585 Scotts Valley Drive Scotts Valley, CA 95066 USA Servicio al Cliente y Soporte Técnico USA Toll-Free: +1-877-698-2834 International: +1-831-440-1176 

@@ -15,7 +15,7 @@ This diagram shows how you can build an Enigmatic '82 Overdrive Special Amp soun
 
 **Tip:** Press the image for a larger view. 
 
-![UAFX Enigmatic '82 Tone Workflow Diagram 240925.png](UAFX%20Enigmatic%20%2782%20Tone%20Workflow%20Diagram_assets/3d0d7975579cbb4cf43c84913ff3d60223cc0551.png)
+![UAFX Enigmatic '82 Tone Workflow Diagram 240925.png](../../attachments/uafx-enigmatic-82-tone-workflow-diagram_assets--3d0d7975579cbb4cf43c84913ff3d60223cc0551--8552b106555fc05c.png)
 
  
 

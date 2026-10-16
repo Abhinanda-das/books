@@ -7,7 +7,7 @@ word_count: 5217
 ---
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0001-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0001-00--5a2d68fa7cd09175.png>)
 
 
 1 
@@ -21,7 +21,7 @@ Our engineers meticulously recreated the precise tone and feel of the
 22 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0003-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0003-00--b9906ea2d46d802a.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -41,7 +41,7 @@ original Buxom Betty amp through a marriage of component-level modeling and Univ
 The Friedman Buxom Betty plug-in was developed with the Apollo series interfaces in mind and made compatible with Unison preamp technology. Of course the Friedman 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0003-07.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0003-07--97289417a74b1432.png>)
 
 
 Buxom Betty will work with any UAD-2 device, but to experience ultralow latency along with important impedance, gain ‘sweet spots’, and circuit behaviors of the real amp, you need an Apollo interface. In order to do this, you should insert the Friedman Buxom Betty in the preamp insert position of Apollo’s Console application. This will greatly enhance your experience, making the tone and behavior of your sound an exacting replication of the original hardware. 
@@ -57,7 +57,7 @@ Buxom Betty will work with any UAD-2 device, but to experience ultralow latency 
 3 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0004-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0004-00--72bd1ce3d352447f.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -85,7 +85,7 @@ If you insert the Buxom Betty plug-in in the Console software mixer (to use the 
 4 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0005-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0005-00--6783cc603555f16c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -133,7 +133,7 @@ The Buxom Betty´s 2 separate inputs play a role in how clean or distorted the a
 5 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0006-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0006-00--ec92fb99aa19548a.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -175,7 +175,7 @@ Continuous knob, -120db to 0db. The Noise Gate will dim the output signal of the
 6 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0007-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0007-00--90283c61c1bc5c30.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -215,7 +215,7 @@ Use this parameter to activate or deactivate the delay and all of its parameters
 7 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0008-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0008-00--62bfa5744171f375.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -259,7 +259,7 @@ Both buttons can be pressed repeatedly as long as the maximum delay time of 400m
 8 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0009-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0009-00--341ba6e49179c12c.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -287,7 +287,7 @@ An innovative new approach was also used to capture various pre-amps and EQ chai
 9 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0010-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0010-00--35d870021f412715.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -323,7 +323,7 @@ As soon as you hear the speaker setup you like best just stop Auto mode by click
 10 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0011-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0011-00--0c7b9d20ded3e013.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -361,7 +361,7 @@ In the Hardware world power soaks are being used to reduce the volume
 11 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0012-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0012-00--e2f0baa2c9f021a9.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -391,7 +391,7 @@ At the heart of the cab is a Celestion G12M-65 Creamback 16 Ohm speaker. The G12
 12 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0013-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0013-00--11e9b85efce35e2a.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -419,7 +419,7 @@ The combination of these two different speaker models provides the warmth of the
 13 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0014-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0014-00--331c8da26f69b409.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -445,7 +445,7 @@ The Friedman Dirty Shirley 1×12 Cabinet is a 1×12”, open-back extension cabi
 14 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0015-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0015-00--2e6a2368aa380170.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -467,7 +467,7 @@ The 120W Orange Amplifiers PPC212-C guitar speaker cabinet is crafted using 13-p
 **5** 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0016-03.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0016-03--b81ef34c7ce70632.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -475,7 +475,7 @@ The 120W Orange Amplifiers PPC212-C guitar speaker cabinet is crafted using 13-p
 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0016-04.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0016-04--8a6d0859db01b5fa.png>)
 
 
 ## ~~**Top Toolbar**~~ 
@@ -517,7 +517,7 @@ Information about the development of the plugin.
 16 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0017-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0017-00--19031dc9414d333b.png>)
 
 
 **----- Start of picture text -----**<br>
@@ -553,11 +553,11 @@ When you start to create your own sounds the most important elements to adjust a
 17 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0018-00.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0018-00--0c89874d7d8a52bf.png>)
 
 
 
-![](<Friedman Buxom Betty Manual_assets/Friedman_Buxom_Betty_Manual.pdf-0018-01.png>)
+![](<../../attachments/friedman-buxom-betty-manual_assets--friedman_buxom_betty_manual.pdf-0018-01--55a7563068ef68b3.png>)
 
 
 Plug in, Rock out!   - **www.brainworx-music.de** 

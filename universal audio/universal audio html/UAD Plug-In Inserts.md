@@ -23,19 +23,19 @@ Audio signals in a UAD Console channel flow through the inserts serially from to
 
 **Tip:** Plug-ins can be reordered by dragging them to change the serial processing order.
 
-![](UAD%20Plug-In%20Inserts_assets/8ba7e38df5e99b3fccaed1777f008699c14d5927.png)
+![](../../attachments/uad-plug-in-inserts_assets--8ba7e38df5e99b3fccaed1777f008699c14d5927--5c4f67c93eeb905e.png)
 
 *Channel Inserts in Large view*
 
  
 
-![](UAD%20Plug-In%20Inserts_assets/439337cea17930dc9587003386eb58d9c0c134a2.png)
+![](../../attachments/uad-plug-in-inserts_assets--439337cea17930dc9587003386eb58d9c0c134a2--65cb85b850479cf2.png)
 
 *Channel Inserts in Small view*
 
 # Unison Inserts
 
-![input-preamp-unison-highlighted.png](UAD%20Plug-In%20Inserts_assets/8c5188ee83f2e8d77c4edc8e954483a1d721e16e.png)
+![input-preamp-unison-highlighted.png](../../attachments/uad-plug-in-inserts_assets--8c5188ee83f2e8d77c4edc8e954483a1d721e16e--81da651b8031d824.png)
 
 *Click area outlined in red to insert a Unison plug-in*
 
@@ -47,7 +47,7 @@ The Unison insert is only available on Apollo preamp channels. However, Unison i
 
 # Insert State Indicators
 
-![](UAD%20Plug-In%20Inserts_assets/11beb7aabb08564d4a02876a7415c4f4cb709166.png)
+![](../../attachments/uad-plug-in-inserts_assets--11beb7aabb08564d4a02876a7415c4f4cb709166--5c280bfb56a25e30.png)
 
 *Insert states*
 
@@ -65,7 +65,7 @@ The state of loaded plug-ins within each insert can be determined by the backgro
 
 # Insert Hover Options
 
-![plug-in-hover-buttons.png](UAD%20Plug-In%20Inserts_assets/3552406271f1f85d7429a0edb4c97f1483693f0b.png)
+![plug-in-hover-buttons.png](../../attachments/uad-plug-in-inserts_assets--3552406271f1f85d7429a0edb4c97f1483693f0b--6b912e0dae4451ea.png)
 
 Three commonly-used plug-in functions become available when the mouse cursor is hovered over any insert containing a plug-in. The function icons appear on top of the plug-in name in Small view, or at the bottom of the plug-in in Large View. To perform the function, click the associated hover switch.
 
@@ -79,7 +79,7 @@ Three commonly-used plug-in functions become available when the mouse cursor is 
 
 # Insert Options Menu
 
-![insert-options-menu.png](UAD%20Plug-In%20Inserts_assets/d71c2c73198279c97d5b02dc01f5232b783953cd.png)
+![insert-options-menu.png](../../attachments/uad-plug-in-inserts_assets--d71c2c73198279c97d5b02dc01f5232b783953cd--78e2a5dfab4d7c32.png)
 
 *Insert Options menu*
 
@@ -131,11 +131,11 @@ This switch determines whether or not Realtime UAD Processing occurring within a
 
 **Tip:** Insert Effects can be switched for all channels simultaneously with the Global Insert Effects switch.
 
-![](UAD%20Plug-In%20Inserts_assets/2da59eaf2c6e51dbe8a3deb681d86cb865b76686.png)
+![](../../attachments/uad-plug-in-inserts_assets--2da59eaf2c6e51dbe8a3deb681d86cb865b76686--94f93bafd0af84d3.png)
 
 *Individual Channel Insert Effects Switch (below Inserts)*
 
-![](UAD%20Plug-In%20Inserts_assets/8a7af9aba527111eba0fc98145974c9ff7d5c7dc.png)
+![](../../attachments/uad-plug-in-inserts_assets--8a7af9aba527111eba0fc98145974c9ff7d5c7dc--11ca9d8045f9a431.png)
 
 *Individual Channel Insert Effects Switch (above Inserts)*
 
@@ -143,7 +143,7 @@ Two channel insert effects switches are available in Console’s inputs. Both sw
 
 ## Global UAD REC (record with effects)
 
-![](UAD%20Plug-In%20Inserts_assets/0a432db935dbd3ea99f3c46e0af8b56722ca7b20.png)
+![](../../attachments/uad-plug-in-inserts_assets--0a432db935dbd3ea99f3c46e0af8b56722ca7b20--6cc406ef69e02565.png)
 
 When Insert Effects are record-enabled (UAD REC lit), Apollo’s channel input signals are processed by UAD Console’s standard UAD plug-in inserts before being routed into the DAW.
 
@@ -153,7 +153,7 @@ In this mode, the post-insert (wet) state of all UAD Console inputs with Realtim
 
 ## Global UAD MON (monitor with effects)
 
-![](UAD%20Plug-In%20Inserts_assets/6b2dbbeceade967005a169543b7b58f809815746.png)
+![](../../attachments/uad-plug-in-inserts_assets--6b2dbbeceade967005a169543b7b58f809815746--453896755f470a58.png)
 
 When Insert Effects is not record-enabled (UAD MON lit), Apollo’s channel input signals are routed directly into the DAW before being processed by UAD Console’s standard UAD plug-in inserts.
 
@@ -163,7 +163,7 @@ In this mode, the pre-insert (dry) state of all UAD Console inputs is routed to 
 
 ## UAD REC and UAD MON (mixed state)
 
-![](UAD%20Plug-In%20Inserts_assets/c61ba2443ce05ed6e8267b5cc84da38ce922c3f9.png)
+![](../../attachments/uad-plug-in-inserts_assets--c61ba2443ce05ed6e8267b5cc84da38ce922c3f9--99058311758e73dc.png)
 
 When both switches are lit YELLOW, some individual channels are recorded with insert processing and some are recorded dry, as determined by the individual Channel Insert Effects switches. You can click one of the global insert effects switches to override the individual channel insert effects settings.
 

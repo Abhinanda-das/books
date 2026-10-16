@@ -9,7 +9,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/bt-dk"
 ---
 
-![обложка|156](<Datta-Kaustubha by Bhaktivinoda Ṭhākura [BS]/обложка.jpeg>)
+![обложка|156](<../attachments/datta-kaustubha-by-bhaktivinoda-%E1%B9%ADh%C4%81kura-bs--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--1bb8bb150d05a3ff.jpeg>)
 
 # Datta-Kaustubha by Bhaktivinoda Ṭhākura \[BS\]
 

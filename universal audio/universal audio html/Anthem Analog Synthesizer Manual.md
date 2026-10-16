@@ -24,7 +24,7 @@ Anthem is built for sculpting thick bass, punchy leads, and expressive sequences
 
 With Anthem, we took inspiration from the most coveted mono-synths of bygone eras, then we went beyond to create something entirely new. With bold, “perfectly imperfect” analog textures and vibey paraphonic chords — you'll add energy and emotion to your modern productions.
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/a4036aad5efc29677ad82e4fb3c16ff5ae6c0a7a.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--a4036aad5efc29677ad82e4fb3c16ff5ae6c0a7a--73316fd7ba557ca8.png)
 
 *Anthem Analog Synthesizer*
 
@@ -43,7 +43,7 @@ Anthem is designed to be fast, fun, and easy to use. All controls are available 
 - Play with the controls. For example, adjust the filter cutoff and/or resonance to tweak your sound.
 - Play with the sequencer. Pick a preset that has an enabled sequence (when the yellow button next to Sequencer is lit) and start playing. If you’d like to play the sound without the sequencer, just click the yellow button to switch it off. If you’re already familiar with sequencers and want to dive in, click SEQUENCER or the ∨ ∧ symbols to access its controls.
 
-![anthem-cropped.png](Anthem%20Analog%20Synthesizer%20Manual_assets/2c37a63d20a2df104b4ab10eb7c89785788f5878.png)
+![anthem-cropped.png](../../attachments/anthem-analog-synthesizer-manual_assets--2c37a63d20a2df104b4ab10eb7c89785788f5878--5008d8b1186d429f.png)
 
 ## Operating Controls
 
@@ -77,7 +77,7 @@ Oscillators are where source signals are generated and are the starting point of
 
 Anthem’s OSC 1 and OSC 2 controls are mostly identical. The bottom controls are slightly different between the oscillators to give you broader sonic options.
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/fe04a4be19af3c08de9bcdd37ae450467b7abad7.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--fe04a4be19af3c08de9bcdd37ae450467b7abad7--7a3d73a8a149e1b4.png)
 
 - **OCTAVE –** Both oscillators can operate in three different pitch ranges. Zero is the standard pitch of the oscillator. If you want to shift the oscillator’s pitch up or down by an octave, select +1 or -1. 
 - **TUNE –** These concentric knobs set the pitch of each oscillator. The inner black knob adjusts coarse tuning in semitones, and the outer silver knob adjusts fine tuning in cents. Set to zero (center position) for standard pitch.
@@ -103,7 +103,7 @@ Anthem’s OSC 1 and OSC 2 controls are mostly identical. The bottom controls ar
 
 This knob controls the amount of LFO or Filter Envelope or modulation that is applied to the pitch of both oscillators.
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/59898f713eb3bd5363b31d74ce77bbb922ccd0b3.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--59898f713eb3bd5363b31d74ce77bbb922ccd0b3--4dad1d5a1261ccbb.png)
 
 - **PITCH MOD SOURCE –** This switch selects LFO or Filter Envelope (F.ENV) as the source of pitch modulation for both oscillators. 
 
@@ -113,7 +113,7 @@ This knob controls the amount of LFO or Filter Envelope or modulation that is ap
 
 The mixer blends the signal volumes of the two oscillators and the noise generator before routing to the filter.
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/b21da1a98cc6acc7355355a78026f525b563b257.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--b21da1a98cc6acc7355355a78026f525b563b257--9e09f36e3bb2db84.png)
 
 - **OSC VOLUME –** Increase these knobs above zero to hear the oscillator signals.
 - **NOISE VOLUME –** Increase this knob above zero to hear the noise signal. 
@@ -125,7 +125,7 @@ The mixer blends the signal volumes of the two oscillators and the noise generat
 
 The filter is one of the most important sound-shaping components of any synthesizer. It receives the output of the mixer and filters out high frequencies while letting low frequencies pass through. Anthem also features a high pass filter that you can use to further sculpt your sounds.
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/e6d1ba22677963a9addc91bf38f77c24e1f37acd.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--e6d1ba22677963a9addc91bf38f77c24e1f37acd--8ea8681f5197f635.png)
 
 - **DRIVE –** Boosts the output of the mixer, which changes saturation, increases growl, and makes it harder for the filter to self-oscillate.
 - **CUTOFF –** The largest knob in the filter section adjusts the cutoff frequency of the low pass filter. By adjusting the filter cutoff you can brighten, darken, and otherwise alter your sound.
@@ -154,7 +154,7 @@ Anthem features two envelopes (FILTER and AMP) with identical controls. Each env
 - **FILTER ENV –** The Filter envelope is typically used to control the filter cutoff, but it can also be assigned to control oscillator shape mod, pitch mod, and warp.
 - **AMP ENV –** The Amp envelope controls the amplitude (volume) of your sound over time. 
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/3bef6e40cf40ef76f8e10954d37b4322ca83e81c.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--3bef6e40cf40ef76f8e10954d37b4322ca83e81c--5c099ed031722e8b.png)
 
 ## Envelope Sliders
 
@@ -169,7 +169,7 @@ Anthem features two envelopes (FILTER and AMP) with identical controls. Each env
   \
   **Tip:** Older synths don't have velocity-sensitive keyboards. For a more vintage feel, set VEL to zero.
 
-![anthem-adsr@4x.png](Anthem%20Analog%20Synthesizer%20Manual_assets/5ebd634449d64add750205aea5128ca2bc343722.png)
+![anthem-adsr@4x.png](../../attachments/anthem-analog-synthesizer-manual_assets--5ebd634449d64add750205aea5128ca2bc343722--02a8fb199806a3a0.png)
 
 ## Envelope Examples
 
@@ -177,9 +177,9 @@ Anthem features two envelopes (FILTER and AMP) with identical controls. Each env
 
 |  |  |
 |----|----|
-| **For pad sounds**, set attack and release slow, and set sustain to its highest level. Note that when sustain is at maximum, the decay slider has no effect. | ![](Anthem%20Analog%20Synthesizer%20Manual_assets/1cc6579c7fa90726f3da74da1e9b9f837def9ee8.png) |
-| **For percussive/plucked sounds**, use a fast attack and a moderate decay and release. Set sustain to 0% for a classic pluck, or set a medium sustain and short release for the classic synth bass sound. | ![](Anthem%20Analog%20Synthesizer%20Manual_assets/15472971fb710dce663494c690f8e7c44fef6662.png) |
-| **For brassy sounds**, start by setting Cutoff around 200 to 400 Hz, and control Cutoff by setting the filter’s ENV knob to around 30. Set attack slider around 0.05 to 0.20, decay around 0.20 to 2.00, sustain around 50%, and a fast release to taste.  | ![](Anthem%20Analog%20Synthesizer%20Manual_assets/3d84c7405a3f519e5ff2a9c7656b02e56406966a.png) |
+| **For pad sounds**, set attack and release slow, and set sustain to its highest level. Note that when sustain is at maximum, the decay slider has no effect. | ![](../../attachments/anthem-analog-synthesizer-manual_assets--1cc6579c7fa90726f3da74da1e9b9f837def9ee8--fc9b2bd52fedc4a8.png) |
+| **For percussive/plucked sounds**, use a fast attack and a moderate decay and release. Set sustain to 0% for a classic pluck, or set a medium sustain and short release for the classic synth bass sound. | ![](../../attachments/anthem-analog-synthesizer-manual_assets--15472971fb710dce663494c690f8e7c44fef6662--2892d90794ca2279.png) |
+| **For brassy sounds**, start by setting Cutoff around 200 to 400 Hz, and control Cutoff by setting the filter’s ENV knob to around 30. Set attack slider around 0.05 to 0.20, decay around 0.20 to 2.00, sustain around 50%, and a fast release to taste.  | ![](../../attachments/anthem-analog-synthesizer-manual_assets--3d84c7405a3f519e5ff2a9c7656b02e56406966a--d59d7c721083cb78.png) |
 
 </div>
 
@@ -189,7 +189,7 @@ Anthem features two envelopes (FILTER and AMP) with identical controls. Each env
 
 The LFO (Low Frequency Oscillator) generates a wavering/oscillating source that you can use to modulate wave shape, pitch, warp, and filter cutoff. 
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/82815ca674bc425ad4d6ec2e77e34124ded3cd2f.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--82815ca674bc425ad4d6ec2e77e34124ded3cd2f--e9b18704d3ed87ec.png)
 
 - **SYNC –** Synchronizes the LFO to the tempo of your music software. When on, the button is lit and RATE snaps to the nearest musical time subdivision (1/4, 1/8, 1/16, etc.) When off, the RATE knob turns smoothly and its values are displayed in Hertz.
 - **RETRIG –** Switches retriggering on and off. When switched on, the LFO restarts from the beginning each time you play a note. When switched off, the LFO runs freely and does not restart when you play a note (i.e., when you play a note, you hear the LFO in whatever position it happens to be in at that time).
@@ -203,7 +203,7 @@ The LFO (Low Frequency Oscillator) generates a wavering/oscillating source that 
 
 Controls in this section affect how incoming notes are handled by Anthem.
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/6dd5da785240d0a692c766ace32ca109a841be7f.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--6dd5da785240d0a692c766ace32ca109a841be7f--353d13c7c65a4aed.png)
 
 - **MODE –** Anthem can operate in three different modes:\
   \
@@ -235,7 +235,7 @@ Controls in this section affect how incoming notes are handled by Anthem.
 
 Anthem's high quality effects are easily controlled takes on lo-fi classics that give your synth sounds organic modulation, movement, and space.
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/0d1e1590b9a19363690ab34df530c244fed9bc01.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--0d1e1590b9a19363690ab34df530c244fed9bc01--edbbdbcd5025c196.png)
 
 ## Chorus
 
@@ -266,7 +266,7 @@ Anthem's sequencer is an inspiring way to add movement and rhythmic excitement t
 
 **Tip:** The sequencer tempo is always synchronized to the DAW tempo. 
 
-![anthem-seq-callouts@2x.png](Anthem%20Analog%20Synthesizer%20Manual_assets/ff72e3600eb3c0d39f48a31f678b76dcfc80f4b7.png)
+![anthem-seq-callouts@2x.png](../../attachments/anthem-analog-synthesizer-manual_assets--ff72e3600eb3c0d39f48a31f678b76dcfc80f4b7--158e9382d1e1496e.png)
 
 ## Navigation
 
@@ -291,7 +291,7 @@ This lane lets you change the duration and envelope triggering of each sequenced
 - **Legato (LGT) –** When a slider is at the top position (above 100%), the next step doesn't retrigger the envelopes, and instead uses the envelopes of the legato step. Legato steps are indicated by a bracket.\
   **Tip:** For authentic legato steps, be sure to enable Legato in the Voice section. Add some glide for acid sounds!
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/c66d91c6ffaff580f3005a8e3106185929f466a4.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--c66d91c6ffaff580f3005a8e3106185929f466a4--846c8983325b901f.png)
 
 ### Pitch Lane
 
@@ -300,7 +300,7 @@ This lane lets you adjust the pitches of each individual step, in semitones and 
 - **Pitch –** The sliders change the pitch for each step. Set to zero (center) for original pitch, or offset the original pitch in semitones.
 - **Octave (OCT) –** You can shift the octave of the original pitch up or down by up to three octaves. To change the octave, vertically drag the OCT number beneath each step.
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/f77124a41c721f66451927fdfc35560beea2d9e6.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--f77124a41c721f66451927fdfc35560beea2d9e6--40893e02c72ba751.png)
 
 ### Velocity Lane
 
@@ -310,7 +310,7 @@ The Velocity (VEL) lane lets you adjust the note velocity of each individual ste
 
 - **Velocity level –** The sliders set the note velocity of each step. 
 
-![](Anthem%20Analog%20Synthesizer%20Manual_assets/26d6b182096de46225b015d41e4a2ecfa891660a.png)
+![](../../attachments/anthem-analog-synthesizer-manual_assets--26d6b182096de46225b015d41e4a2ecfa891660a--728a4108f16db2db.png)
 
 ## Global
 
@@ -336,7 +336,7 @@ These controls adjust overall sequencer settings.
 - **RETRIGGER –** When on, the sequence always plays from the first step when triggered with a played note. When off, the sequence timing is instead always synchronized to the beginning of the DAW's timeline, so played notes can start on other steps. Disable Retrigger when you always want the first step to play on the first beat of a measure.\
   **Note:** To hear disabled retriggering, the DAW transport must be running. If the transport is stopped, the sequence always starts from the first step, even if Retrigger is off.
 
-### ![](Anthem%20Analog%20Synthesizer%20Manual_assets/d71f9249a47c3448ced808064de4eb5db060e717.png)
+### ![](../../attachments/anthem-analog-synthesizer-manual_assets--d71f9249a47c3448ced808064de4eb5db060e717--1c4201db5a0f710c.png)
 
 ------------------------------------------------------------------------
 
@@ -352,7 +352,7 @@ These controls adjust overall sequencer settings.
 </colgroup>
 <tbody>
 <tr>
-<td style="text-align: center; width: 130px; vertical-align: middle;">![NKS-logo-black.png](Anthem%20Analog%20Synthesizer%20Manual_assets/bc3d1f07dfec34c44528c3edae60214c01b881dc.png)</td>
+<td style="text-align: center; width: 130px; vertical-align: middle;">![NKS-logo-black.png](../../attachments/anthem-analog-synthesizer-manual_assets--bc3d1f07dfec34c44528c3edae60214c01b881dc--27b11a204458c307.png)</td>
 <td style="text-align: left; vertical-align: top;"><p>All native UAD plug-ins and instruments are NKS-compatible, for deep integration with Native Instruments KOMPLETE KONTROL and MASCHINE series hardware and software. Presets and sound previews appear in NI’s powerful tag-based browsers, and all parameters are intelligently pre-mapped across the control knobs on supported NKS hardware.</p>
 <p>For more details, see <a href="41807112025364-FAQ-How-to-Use-UAD-Native-Plug-Ins-with-NKS-Compatible-Controllers.html">this article</a>.</p></td>
 </tr>

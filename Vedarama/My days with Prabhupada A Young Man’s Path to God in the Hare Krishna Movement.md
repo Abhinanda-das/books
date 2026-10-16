@@ -12,7 +12,7 @@ source: Vedarama
 source_url: "https://vedarama.com/en/books/umapatisw-mdwp"
 ---
 
-![обложка|156](<My days with Prabhupada A Young Man’s Path to God in the Hare Krishna Movement/обложка.jpeg>)
+![обложка|156](<../attachments/my-days-with-prabhupada-a-young-man-s-path-to-god-in-the-hare-kri--%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0--7c990be338f0a691.jpeg>)
 
 My Days with Prabhupada is the true story of Wally, a young man who runs and walks and stumbles along the mystical path of the Hare Krishna Movement desperately searching for the absolute truth. It follows him from the marijuana parties and psychedelic sessions on Manhattan’s Lower East Side through a haunted storefront in the mountains of New Mexico to the street corners of Paris’s Left Bank and finally to the serene holy places of India.
 

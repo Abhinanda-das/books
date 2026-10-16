@@ -17,7 +17,7 @@ word_count: 54
 
  
 
-![OX-Rig-Presets-2-p1.png](OX%20Rig%20Control%20Cab%20%26%20Mic%20Presets%20Pamphlet_assets/71bbf66a4314d387906a8f0749b718e1d6aa6684.png)
+![OX-Rig-Presets-2-p1.png](../../attachments/ox-rig-control-cab-mic-presets-pamphlet_assets--71bbf66a4314d387906a8f0749b718e1d6aa6684--ab6f2eb068388d0d.png)
 
-![OX-Rig-Presets-2-p2.png](OX%20Rig%20Control%20Cab%20%26%20Mic%20Presets%20Pamphlet_assets/4dbe159942afcb8adffcfeea837197b28313522b.png)
+![OX-Rig-Presets-2-p2.png](../../attachments/ox-rig-control-cab-mic-presets-pamphlet_assets--4dbe159942afcb8adffcfeea837197b28313522b--bad175f905709ed9.png)
 

@@ -11,7 +11,7 @@ word_count: 6636
 
 This article contains complete operating instructions for the UAFX Lion '68 Super Lead Amp effects pedal from Universal Audio.
 
-![lion_photo.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/7dbea931a2c0c492681bea60d70b95fd0fce2122.png)
+![lion_photo.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--7dbea931a2c0c492681bea60d70b95fd0fce2122--b9f5490488a4a340.png)
 
  
 
@@ -51,7 +51,7 @@ Thank you for your support, and enjoy your sonic exploration!
 Sincerely,
 
 <figure class="wysiwyg-image wysiwyg-image-block-align-left wysiwyg-image-resized" style="width: 25%;">
-![bill-putnam-jr-signature.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/8356edcc5d0b78d353f56fef8677f6381c3d7d22.png)
+![bill-putnam-jr-signature.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--8356edcc5d0b78d353f56fef8677f6381c3d7d22--ad8bf93b72017718.png)
 </figure>
 
 Bill Putnam Jr.
@@ -68,7 +68,7 @@ Bill Putnam Jr.
 
 UAFX pedals include a quick start sheet in the box. To download the sheet, [go here](360058186352-UAFX-Pedal-Downloads.html). 
 
-![lion-qs.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/e707751adc19983e267a950461462acaa0147eae.png)
+![lion-qs.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--e707751adc19983e267a950461462acaa0147eae--e1944d7c8f82e602.png)
 
 ## Lion '68 Firmware
 
@@ -83,7 +83,7 @@ To learn how to power your UAFX pedal, [go here](https://help.uaudio.com/hc/en-u
 To learn how to wire your UAFX pedals, [go here](https://help.uaudio.com/hc/en-us/articles/13963018486932).
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 100%;">
-![rear-callouts-amp.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/71a90f387ababfc5588e23519cf25abe839971d2.png)
+![rear-callouts-amp.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--71a90f387ababfc5588e23519cf25abe839971d2--302c2ab937023fc3.png)
 </figure>
 
  
@@ -143,13 +143,13 @@ You can store a preset you've made with your own settings by holding down the ST
 
 To enter Live mode, press the left footswitch. Press the left footswitch again to toggle the live effect on/off. The left footswitch LED is lit red when the Live mode effect is on.
 
-![golden-switches-on-led.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/039ea6f067a659c26bac8c58abbbf5de3c79066c.png)
+![golden-switches-on-led.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--039ea6f067a659c26bac8c58abbbf5de3c79066c--9e24340c9b3afb6b.png)
 
 ### Preset Mode
 
 To enter Preset mode, press the right footswitch. Press the right footswitch again to toggle the preset on/off. The right footswitch LED is lit green when the preset is on.
 
-![golden-switches-preset-led.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/381e83806fbca2e28a4cc8d1d3a4d7b015b0194c.png)
+![golden-switches-preset-led.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--381e83806fbca2e28a4cc8d1d3a4d7b015b0194c--3e66199a12048dfe.png)
 
 **Note:** The left and right footswitch functions can be changed in UAFX Control.
 
@@ -346,7 +346,7 @@ Each speaker, cabinet, and mic setting has a unique sound. Toggle up or down to 
 When you register your pedal using the UA Connect or UAFX Control apps, your free bonus EV12, D65, and V30 speaker cabinets are added to the pedal. To select these speaker cabinets, push the Cab switch until the top, middle, or bottom Cab LED is lit green.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-speaker-switch.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/a78e93c20d7d7eb4292e87ee3be2d8c0bf08fed9.png)
+![lion-speaker-switch.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--a78e93c20d7d7eb4292e87ee3be2d8c0bf08fed9--e3b29fbcef87d65c.png)
 </figure>
 
 **Note:** The speaker cabinet labels on the pedal apply only when that speaker switch's LED is red. The labels when the LED is green are only visible in UAFX Control.
@@ -500,7 +500,7 @@ To select a footswitch mode, open the Settings screen. Then tap the current foot
 To assign a preset to a footswitch slot in multi-preset modes, tap the footswitch until the correct footswtich slot (indicated by the red or green LED) is selected, then tap a preset. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-fs-modes.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/827212db9d834374bc4e155cf34e9fbcf26cfb57.png)
+![lion-fs-modes.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--827212db9d834374bc4e155cf34e9fbcf26cfb57--dd6d0e01b37ad537.png)
 </figure>
 
  
@@ -509,7 +509,7 @@ To assign a preset to a footswitch slot in multi-preset modes, tap the footswitc
 
 In Live \| Preset mode, you can access Live mode (knobs and switches) and the stored preset.
 
-![lion-fs-live-preset.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/d0abd708000fc89507fa085fc6325897695fd1f4.png)
+![lion-fs-live-preset.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--d0abd708000fc89507fa085fc6325897695fd1f4--0f0988c28941938f.png)
 
 - **Left Footswitch** toggles the Live sound on/off
 - **Right Footswitch** toggles the stored preset on/off
@@ -520,7 +520,7 @@ In Live \| Preset mode, you can access Live mode (knobs and switches) and the st
 
 In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle between Live mode (knobs and switches) and the stored preset.
 
-![lion-fs-boost-live-preset.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/a56d57712b302930da403c22fe466330cae9c877.png)
+![lion-fs-boost-live-preset.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--a56d57712b302930da403c22fe466330cae9c877--067db193e184010e.png)
 
 - **Left Footswitch** toggles Boost on/off
 - **Right Footswitch** toggles between Live mode (red LED) and the stored preset (green LED)
@@ -532,7 +532,7 @@ In Boost \| Live/Preset mode, you can switch Boost on and off, and toggle betwee
 In Live/Off \| A/B mode, you can switch between a live sound and two preset sounds, and also bypass the pedal. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-fs-live-ab.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/8413fd7812b6117b5efa415ecdc595ba80436210.png)
+![lion-fs-live-ab.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--8413fd7812b6117b5efa415ecdc595ba80436210--c617d4f8c1679513.png)
 </figure>
 
 - **Left Footswitch** toggles Live mode and bypass
@@ -544,7 +544,7 @@ In Live/Off \| A/B mode, you can switch between a live sound and two preset soun
 In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-fs-ab.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/3531668c134e9093f2986a29296b109b0def8956.png)
+![lion-fs-ab.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--3531668c134e9093f2986a29296b109b0def8956--b6acd44a6c2f24e9.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and bypass
@@ -556,7 +556,7 @@ In A/Off \| B/Off mode, you can bypass the pedal and use two presets. 
 In A/B \| C/D mode you can toggle between four preset sounds.
 
 <figure class="wysiwyg-image wysiwyg-image-resized" style="width: 50%;">
-![lion-fs-abcd.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/089c08763781722554a749623cca4b604831bc96.png)
+![lion-fs-abcd.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--089c08763781722554a749623cca4b604831bc96--4d7825b17c2c8c3d.png)
 </figure>
 
 - **Left Footswitch** toggles between Preset A (red LED) and Preset B (green LED)
@@ -586,7 +586,7 @@ To open the Lion Editor, tap Edit at the bottom of the UAFX Control screen. 
 
 To adjust Lion's Input Routing for the current sound, under Input Routing, tap Low, High, or Jump. 
 
-![lion-input-routing.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/14e6532fea9f0cf5710ecc0ccca88b2eb5766ea4.png)
+![lion-input-routing.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--14e6532fea9f0cf5710ecc0ccca88b2eb5766ea4--1fb270205d89975e.png)
 
 Lion includes detailed modeling of the original amp's inputs. By default, the Lion inputs are routed as if you are plugging into the High inputs with a Y cable. The Y cable method gives you the exact same signal with no coloration or attenuation between the channels. 
 
@@ -610,17 +610,17 @@ When either Volume is on 0, Lion behaves as if you are plugging in to only the H
 <td style="text-align: left; width: 59.5714%;"><strong>Description</strong></td>
 </tr>
 <tr>
-<td style="width: 19.1429%">![input-routing-low.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/69541afdf90c7f35a381598809cabbfd41124fff.png)</td>
+<td style="width: 19.1429%">![input-routing-low.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--69541afdf90c7f35a381598809cabbfd41124fff--ad24bec896e3327b.png)</td>
 <td style="text-align: center; width: 21.1429%;">LOW</td>
 <td style="text-align: left; width: 59.5714%;">Y cable into Low inputs. Cleaner, slightly darker sound. When only one Volume is turned up, you get the sound of only that channel on the Low input. When both channels are above 0, you get the sound of a Y cable plugged into both Low inputs.</td>
 </tr>
 <tr>
-<td style="width: 19.1429%">![input-routing-hi.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/77e1cd69dff8743cdc27ae94fc3f187e94c4c6cd.png)</td>
+<td style="width: 19.1429%">![input-routing-hi.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--77e1cd69dff8743cdc27ae94fc3f187e94c4c6cd--669c0be63e595c52.png)</td>
 <td style="text-align: center; width: 21.1429%;">HIGH</td>
 <td style="text-align: left; width: 59.5714%;">Y cable into High inputs. Brighter sound, with more gain and edge. When only one Volume is turned up, you get the sound of only that channel on the High input. When both Volumes are above 0, you get the sound of a Y cable plugged into both High inputs.</td>
 </tr>
 <tr>
-<td style="width: 19.1429%">![input-routing-jump.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/83501935e45f01aedcc118be701af1340b5d3c84.png)</td>
+<td style="width: 19.1429%">![input-routing-jump.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--83501935e45f01aedcc118be701af1340b5d3c84--c28476239567f951.png)</td>
 <td style="text-align: center; width: 21.1429%;">JUMP</td>
 <td style="text-align: left; width: 59.5714%;">Replicates the exact signal path of plugging into High input I, and connecting a short patch cable ("jumping") from the Low input of Channel I into the High input of Channel II. Adds some circuit coloration and attenuation to Channel II. Subtle but noticeable tonal differences with the Jump setting include less treble and slightly less gain from Volume II.</td>
 </tr>
@@ -632,7 +632,7 @@ When either Volume is on 0, Lion behaves as if you are plugging in to only the H
 
 ### Lion mods
 
-![lion-mods.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/4512ba3838f46d3d7b2912bf0ae1f2bcdc208988.png)
+![lion-mods.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--4512ba3838f46d3d7b2912bf0ae1f2bcdc208988--626665b3ef94b298.png)
 
 Lion includes two custom modifications to further tailor your sound. These modifications are not global, and are applied only to the current Live or Preset sound. Lion's customizations are saved with a preset.
 
@@ -672,7 +672,7 @@ To toggle Ghost Notes or the Bright Cap on/off, tap its control switch. 
 
 Toggle the Lion Noise Gate by tapping the purple button next to Noise Gate. Adjust the Noise Gate settings for your current instrument and sound to eliminate any extraneous noise.
 
-![lion-gate-settings.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/1697a9f3d23264ab8b18342aee18a3fa521c9e80.png)
+![lion-gate-settings.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--1697a9f3d23264ab8b18342aee18a3fa521c9e80--79222aa3f3cc7a02.png)
 
 Lion's noise gate silences extraneous noise generated by these high gain tube amps by detecting your guitar signal at the input, but acting at the end of the signal chain. This clever design is extremely effective at both detecting and stopping extraneous noise.
 
@@ -1010,11 +1010,11 @@ Sending the program change and bypass state first allows the pedal to load the i
 
 # Lion '68 Safety
 
-![safety-symbol-exclaim.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/c02953a51d473ee0b58da794bc2aca1bd0c3b673.png)
+![safety-symbol-exclaim.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--c02953a51d473ee0b58da794bc2aca1bd0c3b673--85cb06b1840eefd5.png)
 
 Caution: To help maintain the safety of your product, the chosen power supply must be a certified power supply complying with Limited Power Source (LPS) requirements with the following characteristics and electrical ratings: Isolated 9VDC, center-negative, 400 mA minimum, 2.1x5.5 mm barrel connector. Additional details at help.uaudio.com.
 
-![safety-symbol-book-info.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/04b97940db9c6e27f797e67d76f853761d34c5d5.png)
+![safety-symbol-book-info.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--04b97940db9c6e27f797e67d76f853761d34c5d5--45dbbc8dd8dd0b3a.png)
 
 Before using this unit, be sure to carefully read the applicable items of these operating instructions and the safety suggestions. Afterwards, keep them handy for future reference. Take special care to follow the warnings indicated on the unit, as well as in the operating instructions.
 
@@ -1078,7 +1078,7 @@ Le présent appareil est conforme aux CNR d'Industrie Canada applicables aux app
 
 The company's products have obtained the NCC low-power radio frequency equipment verification certificate according to the new warnings of "Low-power radio frequency equipment technical specifications" as follows: "The low-power radio frequency equipment that has obtained the verification certificate shall not be changed by the company, firm or user without approval. Frequency, increase power, or change the features and functions of the original design. The use of low-power radio frequency equipment shall not affect flight safety and interfere with legal communications; continue to use.
 
-![safety-symbol-trash.png](UAFX%20Lion%20%2768%20Super%20Lead%20Amp%20Manual_assets/1af208c62062c6fcc6d7def737130de272ca0046.png)
+![safety-symbol-trash.png](../../attachments/uafx-lion-68-super-lead-amp-manual_assets--1af208c62062c6fcc6d7def737130de272ca0046--c2b2588a5674bcec.png)
 
 Used electrical and electronic equipment should not be mixed with general household waste. Please dispose in accordance with local regulations.
 

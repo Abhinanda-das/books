@@ -45,7 +45,7 @@ To use the features of the Sphere plug-ins, you must connect your Sphere mic to 
 
 The LEDs inside the headbasket illuminate when phantom power is applied to both mic channels.
 
-![sphere-connections.png](Installing%20and%20Configuring%20Sphere_assets/e4f28d0290e0116afcbfb276e2b66ccd0d4b354f.png)
+![sphere-connections.png](../../attachments/installing-and-configuring-sphere_assets--e4f28d0290e0116afcbfb276e2b66ccd0d4b354f--b8b18e8b5c0e99b8.png)
 
 *Connecting a Sphere mic to an audio interface*
 
@@ -77,7 +77,7 @@ To get your system running quickly, use the following instructions. For full det
 
 The left and right channels correspond to the front and rear capsules, respectively. When speaking into the front capsule and monitoring the track, you should hear (and see on the meter) significantly more level from the left channel. If that is not the case, swap the inputs on the mic preamps.
 
-![sphere-interface.png](Installing%20and%20Configuring%20Sphere_assets/fad204a2356dc142a41f0f5e99bf32202b30ac73.png)
+![sphere-interface.png](../../attachments/installing-and-configuring-sphere_assets--fad204a2356dc142a41f0f5e99bf32202b30ac73--8d1e321e7d84e597.png)
 
 *Main window — Sphere Mic Collection*
 
@@ -101,7 +101,7 @@ Console allows you to choose whether to monitor or record the Sphere plug-in out
 
 See the [Apollo Thunderbolt Software Manual](13445960631700-Apollo-Software-Manuals.html) for details.
 
-![console-strip-with-plug-uad-rec.png](Installing%20and%20Configuring%20Sphere_assets/2dc4abf45d25259d797627d31bbb12e08d633fbc.png)
+![console-strip-with-plug-uad-rec.png](../../attachments/installing-and-configuring-sphere_assets--2dc4abf45d25259d797627d31bbb12e08d633fbc--88559533e6fa8f7e.png)
 
 *Console with Sphere plug-in as first channel insert, 48V active, UAD REC button enabled*
 
@@ -136,10 +136,10 @@ Use this procedure to calibrate two mic preamp channels that have continuous ins
 5.  Adjust the preamp’s Mic 1 channel gain to an appropriate level for your intended sound source, and adjust the gain for the second channel to approximately the same setting.\
     **Note:**<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"> When speaking into the front capsule and monitoring that track, you should hear significantly more level on the channel connected to the Mic 1 connector. If that is not the case, swap the inputs on the preamps.</span>
 6.  Set the CAL/ON switch on the Sphere mic to the CAL position.\
-    ![cal-switch.png](Installing%20and%20Configuring%20Sphere_assets/88b4241d3be605d4efb1713d5cc4d09a43ca9bf9.png)\
+    ![cal-switch.png](../../attachments/installing-and-configuring-sphere_assets--88b4241d3be605d4efb1713d5cc4d09a43ca9bf9--838cd0c183943b01.png)\
     \
 7.  Click the SETUP button on the bottom-right of the plug-in to display the calibra­tion dialog.\
-    ![sphere-calibration.png](Installing%20and%20Configuring%20Sphere_assets/f2532807cc745b35988d07afaa4c75b3d10ae8fb.png)
+    ![sphere-calibration.png](../../attachments/installing-and-configuring-sphere_assets--f2532807cc745b35988d07afaa4c75b3d10ae8fb--e0edba6f457a89b2.png)
 8.  Adjust the gain of the Mic 2 channel to match the gain of Mic 1 using the Level Calibration Meter.
 9.  If you cannot match the levels within 0.1 dB, press the AUTO button on the Setup page to better match the levels.
 10. When finished, set the CAL/ON switch on the mic to the ON position.
@@ -151,14 +151,14 @@ The Sphere mic LEDs illuminate to indicate the mic is ready for normal use.
 You select a mic model to make your Sphere mic sound like one of the modeled mics included with your Sphere plug-in. 
 
 You can change between mic models by clicking the arrows near the bottom-left and right of the mic picture to navigate to the previous or next mic model, respectively.\
-![mic-left-right-arrows.png](Installing%20and%20Configuring%20Sphere_assets/928ea073bbb466d663d998a3ca4464f160c6b538.png)\
+![mic-left-right-arrows.png](../../attachments/installing-and-configuring-sphere_assets--928ea073bbb466d663d998a3ca4464f160c6b538--ebb4b067e2a1550e.png)\
 \
 
 #### To display all available mic models in the plug-in
 
 1.  Click the mic model name.\
     An overlay with the available mic models is displayed. Tabs at the top organize the mic models into Large Condenser, Hybrid, and Custom categories.\
-    ![sphere-select-mic-models.png](Installing%20and%20Configuring%20Sphere_assets/58d0fdf0b8dc5d31eaacdbc55ebb6966171ee1bd.png)\
+    ![sphere-select-mic-models.png](../../attachments/installing-and-configuring-sphere_assets--58d0fdf0b8dc5d31eaacdbc55ebb6966171ee1bd--21ea01595712c03b.png)\
     \
 2.  If <a href="12237363559316-Using-UA-Sphere-Plug-Ins.html#h_01GPEHZET2YTN1D6FQSZ4BD1RX" target="_self">Tool Tips are enabled</a>, hover over the mic model to display helpful information about that mic’s history and usage.
 3.  Click the **X** or double-click the mic to exit the mic model selection window.
@@ -170,7 +170,7 @@ You can change between mic models by clicking the arrows near the bottom-left an
 - To record a source in mono, point the front of the microphone (denoted by the circle inside a circle icon and the Universal Audio badge) at the desired sound source.
 - To record a source in stereo (Sphere DLX and Sphere L22 only), orient the microphone so the overlapping circles point towards the sound source.
 
-![sphere-front-and-side-view.png](Installing%20and%20Configuring%20Sphere_assets/beb0bb08e9bcd708f26e1c16834d7d5d82894717.png)
+![sphere-front-and-side-view.png](../../attachments/installing-and-configuring-sphere_assets--beb0bb08e9bcd708f26e1c16834d7d5d82894717--64d6f79f51f739ba.png)
 
 *Point front of mic (left) to source for mono; point side of mic (right) to source for stereo*
 
