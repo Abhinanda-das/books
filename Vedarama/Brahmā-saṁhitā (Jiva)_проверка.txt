@@ -1,0 +1,80 @@
+Книга: Brahmā-saṁhitā (Jiva)
+Адрес: https://vedarama.com/en/books/jg-brahma1
+Страниц сайта: 67; заголовков: 68; текстов: 34; картинок: 0
+Глав по MCP: 63
+Букв в исходнике: 130025; в .md: 130025
+Первый заголовок: Brahmā-saṁhitā (Jiva)
+Последний заголовок: Text 4
+
+ЗАМЕЧАНИЯ:
+  - Пропуск/сбой нумерации: после «1» идёт «Text 34».
+
+Оглавление выгрузки:
+Brahmā-saṁhitā (Jiva)
+    Text 1
+  Text 2 (The spiritual place of transcendental pastimes of Krsna is portrayed in the second verse)
+  Text 3<strong> </strong>
+  Text 4<strong> </strong>
+  Text 5 (The surrounding external plane of Gokula is described in this verse)
+  Text 6<strong> </strong>
+  Text 7<strong> </strong>
+  Text 8 (The secondary process of association with Maya is described)
+  Text 9<strong> </strong>
+  Text 10<strong> </strong>
+  Text 11<strong> </strong>
+  Text 12<strong> </strong>
+  Text 13<strong> </strong>
+  Text 14<strong> </strong>
+  Text 15<strong> </strong>
+  Text 16<strong> </strong>
+  Text 17<strong> </strong>
+  Text 18<strong> </strong>
+  Text 19<strong> </strong>
+  Text 20<strong> </strong>
+  Text 21<strong> </strong>
+  Text 22<strong> </strong>
+  Text 23<strong> </strong>
+  Text 24<strong> </strong>
+  Text 25<strong> </strong>
+  Text 26<strong> </strong>
+  Text 27<strong> </strong>
+  Text 28<strong> </strong>
+  Text 29<strong> </strong>
+  Text 30<strong> </strong>
+  Text 31<strong> </strong>
+  Text 32<strong> </strong>
+  Text 33<strong> </strong>
+    Text 34
+    Text 35
+    Text 36
+    Text 37
+    Text 38
+    Text 39
+    Text 40
+    Text 41
+    Text 42
+    Text 43
+    Text 44
+    Text 45
+    Text 46
+    Text 47
+    Text 48
+    Text 49
+    Text 50
+    Text 51
+    Text 52
+    Text 53
+    Text 54
+    Text 55
+    Text 56
+    Text 57
+    Text 58
+    Text 59
+    Text 60
+    Text 61
+    Text 62
+  Epilogue
+    Text 1
+    Text 2
+    Text 3
+    Text 4
