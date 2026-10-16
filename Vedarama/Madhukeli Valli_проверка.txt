@@ -1,0 +1,17 @@
+Книга: Madhukeli Valli
+Адрес: https://vedarama.com/en/books/gbg-madhukeli
+Страниц сайта: 5; заголовков: 6; текстов: 0; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 22145; в .md: 22145
+Первый заголовок: Madhukeli Valli
+Последний заголовок: Part 4
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Madhukeli Valli
+  Introduction
+  Part 1
+  Part 2
+  Part 3
+  Part 4
