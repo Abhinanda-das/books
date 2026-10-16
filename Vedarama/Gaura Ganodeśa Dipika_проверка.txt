@@ -1,0 +1,17 @@
+Книга: Gaura Ganodeśa Dipika
+Адрес: https://vedarama.com/en/books/kk-ggd2
+Страниц сайта: 5; заголовков: 6; текстов: 4; картинок: 0 + обложка
+Глав по MCP: 0
+Букв в исходнике: 36751; в .md: 36751
+Первый заголовок: Gaura Ganodeśa Dipika
+Последний заголовок: 151-215
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Gaura Ganodeśa Dipika
+  Gaura Ganodeśa Dipika [Eng]
+    1-50
+    51-103
+    104-150
+    151-215
