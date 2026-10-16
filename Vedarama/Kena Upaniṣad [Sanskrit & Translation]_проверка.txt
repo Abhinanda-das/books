@@ -1,0 +1,52 @@
+Книга: Kena Upaniṣad [Sanskrit & Translation]
+Адрес: https://vedarama.com/en/books/kena
+Страниц сайта: 40; заголовков: 41; текстов: 34; картинок: 0
+Глав по MCP: 6
+Букв в исходнике: 17133; в .md: 17133
+Первый заголовок: Kena Upaniṣad [Sanskrit & Translation]
+Последний заголовок: Text 9
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Kena Upaniṣad [Sanskrit & Translation]
+  Kena Upaniṣad [Sanskrit &amp; Translation]
+  Invocation
+  Chapter 1
+    Text 1
+    Text 2
+    Text 3-4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+  Chapter 2
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+  Chapter 3
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
+    Text 10
+    Text 11
+    Text 12
+  Chapter 4
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+    Text 7
+    Text 8
+    Text 9
