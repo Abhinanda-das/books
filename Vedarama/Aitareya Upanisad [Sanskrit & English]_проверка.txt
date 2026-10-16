@@ -1,0 +1,56 @@
+Книга: Aitareya Upanisad [Sanskrit & English]
+Адрес: https://vedarama.com/en/books/aitareya
+Страниц сайта: 39; заголовков: 40; текстов: 29; картинок: 0
+Глав по MCP: 5
+Букв в исходнике: 14496; в .md: 14496
+Первый заголовок: Aitareya Upanisad [Sanskrit & English]
+Последний заголовок: Invocation II
+
+ЗАМЕЧАНИЯ:
+  - Разрыв нумерации разделов: после №1 идёт «Chapter 1».
+  - Разрыв нумерации разделов: после №3 идёт «Part 2».
+  - Разрыв нумерации разделов: после №2 идёт «Chapter 1».
+  - Разрыв нумерации разделов: после №1 идёт «Part 3».
+  - Разрыв нумерации разделов: после №3 идёт «Chapter 1».
+
+Оглавление выгрузки:
+Aitareya Upanisad [Sanskrit & English]
+  Invocation I
+  Part 1
+  Chapter 1
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  Chapter 2
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+  Chapter 3
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5-9
+    Text 10
+    Text 11
+    Text 12
+    Text 13
+    Text 14
+  Part 2
+  Chapter 1
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+    Text 5
+    Text 6
+  Part 3
+  Chapter 1
+    Text 1
+    Text 2
+    Text 3
+    Text 4
+  Invocation II
