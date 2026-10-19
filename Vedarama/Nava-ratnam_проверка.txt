@@ -1,0 +1,22 @@
+Книга: Nava-ratnam
+Адрес: https://vedarama.com/st/books/nava-ratnam-harirama-vyasa
+Страниц сайта: 10; заголовков: 11; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 13620; в .md: 13620
+Первый заголовок: Nava-ratnam
+Последний заголовок: navama-ratna-nirṇayaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Nava-ratnam
+  Nava-ratnam
+  prathamaṁ ratnam
+  dvitīya-ratna-nirṇayaḥ
+  tṛtīya-ratna-nirṇayaḥ
+  caturtha-ratna-nirṇayaḥ
+  pañcama-ratna-nirṇayaḥ
+  ṣaṣṭha-ratna-nirṇayaḥ
+  saptama-ratna-nirṇayaḥ
+  aṣṭama-ratna-nirṇayaḥ
+  navama-ratna-nirṇayaḥ

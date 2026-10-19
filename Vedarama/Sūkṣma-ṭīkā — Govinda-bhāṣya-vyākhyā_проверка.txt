@@ -1,0 +1,27 @@
+Книга: Sūkṣma-ṭīkā — Govinda-bhāṣya-vyākhyā
+Адрес: https://vedarama.com/st/books/suksma-tika-govinda-bhasya
+Страниц сайта: 15; заголовков: 16; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 385534; в .md: 385534
+Первый заголовок: Sūkṣma-ṭīkā — Govinda-bhāṣya-vyākhyā
+Последний заголовок: caturthapādaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Sūkṣma-ṭīkā — Govinda-bhāṣya-vyākhyā
+  Prathamo’dhyāyaḥ
+  prathamapādaḥ
+  advitīyapādaḥ
+  tṛtīyapādaḥ
+  caturthapādaḥ
+  Dvitīyo’dhyāyaḥ
+  prathamaḥ pādaḥ
+  dvitīyapādaḥ
+  tṛtīyapādaḥ
+  caturthapādaḥ
+  Tṛtīyo’dhyāyaḥ
+  prathamapādaḥ
+  dvitīyapādaḥ
+  tṛtīyapādaḥ
+  caturthapādaḥ

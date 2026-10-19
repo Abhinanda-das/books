@@ -1,0 +1,15 @@
+Книга: Meghadūta
+Адрес: https://vedarama.com/st/books/meghaduta-kalidasa
+Страниц сайта: 3; заголовков: 4; текстов: 0; картинок: 0
+Глав по MCP: 0
+Букв в исходнике: 21028; в .md: 21028
+Первый заголовок: Meghadūta
+Последний заголовок: Uttara-meghaḥ
+
+ЗАМЕЧАНИЙ НЕТ.
+
+Оглавление выгрузки:
+Meghadūta
+  Meghadūta
+  Pūrva-meghaḥ
+  Uttara-meghaḥ
